@@ -1,0 +1,302 @@
+player 80 initial hand 223 186 527 390 765 265 741 600 390 518 359 466 44 871 919 131 981 600 176 795 
+player 80 draws a 666 from deck 80
+player 80 discards a 223 to deck 81
+player 80 current hand : 186 527 390 765 265 741 600 390 518 359 466 44 871 919 131 981 600 176 795 666 
+player 80 draws a 414 from deck 80
+player 80 discards a 186 to deck 81
+player 80 current hand : 527 390 765 265 741 600 390 518 359 466 44 871 919 131 981 600 176 795 666 414 
+player 80 draws a 290 from deck 80
+player 80 discards a 527 to deck 81
+player 80 current hand : 390 765 265 741 600 390 518 359 466 44 871 919 131 981 600 176 795 666 414 290 
+player 80 draws a 664 from deck 80
+player 80 discards a 390 to deck 81
+player 80 current hand : 765 265 741 600 390 518 359 466 44 871 919 131 981 600 176 795 666 414 290 664 
+player 80 draws a 531 from deck 80
+player 80 discards a 765 to deck 81
+player 80 current hand : 265 741 600 390 518 359 466 44 871 919 131 981 600 176 795 666 414 290 664 531 
+player 80 draws a 844 from deck 80
+player 80 discards a 265 to deck 81
+player 80 current hand : 741 600 390 518 359 466 44 871 919 131 981 600 176 795 666 414 290 664 531 844 
+player 80 draws a 505 from deck 80
+player 80 discards a 741 to deck 81
+player 80 current hand : 600 390 518 359 466 44 871 919 131 981 600 176 795 666 414 290 664 531 844 505 
+player 80 draws a 796 from deck 80
+player 80 discards a 600 to deck 81
+player 80 current hand : 390 518 359 466 44 871 919 131 981 600 176 795 666 414 290 664 531 844 505 796 
+player 80 draws a 906 from deck 80
+player 80 discards a 390 to deck 81
+player 80 current hand : 518 359 466 44 871 919 131 981 600 176 795 666 414 290 664 531 844 505 796 906 
+player 80 draws a 38 from deck 80
+player 80 discards a 518 to deck 81
+player 80 current hand : 359 466 44 871 919 131 981 600 176 795 666 414 290 664 531 844 505 796 906 38 
+player 80 draws a 440 from deck 80
+player 80 discards a 359 to deck 81
+player 80 current hand : 466 44 871 919 131 981 600 176 795 666 414 290 664 531 844 505 796 906 38 440 
+player 80 draws a 111 from deck 80
+player 80 discards a 466 to deck 81
+player 80 current hand : 44 871 919 131 981 600 176 795 666 414 290 664 531 844 505 796 906 38 440 111 
+player 80 draws a 913 from deck 80
+player 80 discards a 44 to deck 81
+player 80 current hand : 871 919 131 981 600 176 795 666 414 290 664 531 844 505 796 906 38 440 111 913 
+player 80 draws a 242 from deck 80
+player 80 discards a 871 to deck 81
+player 80 current hand : 919 131 981 600 176 795 666 414 290 664 531 844 505 796 906 38 440 111 913 242 
+player 80 draws a 209 from deck 80
+player 80 discards a 919 to deck 81
+player 80 current hand : 131 981 600 176 795 666 414 290 664 531 844 505 796 906 38 440 111 913 242 209 
+player 80 draws a 886 from deck 80
+player 80 discards a 131 to deck 81
+player 80 current hand : 981 600 176 795 666 414 290 664 531 844 505 796 906 38 440 111 913 242 209 886 
+player 80 draws a 872 from deck 80
+player 80 discards a 981 to deck 81
+player 80 current hand : 600 176 795 666 414 290 664 531 844 505 796 906 38 440 111 913 242 209 886 872 
+player 80 draws a 507 from deck 80
+player 80 discards a 600 to deck 81
+player 80 current hand : 176 795 666 414 290 664 531 844 505 796 906 38 440 111 913 242 209 886 872 507 
+player 80 draws a 917 from deck 80
+player 80 discards a 176 to deck 81
+player 80 current hand : 795 666 414 290 664 531 844 505 796 906 38 440 111 913 242 209 886 872 507 917 
+player 80 draws a 65 from deck 80
+player 80 discards a 795 to deck 81
+player 80 current hand : 666 414 290 664 531 844 505 796 906 38 440 111 913 242 209 886 872 507 917 65 
+player 80 draws a 91 from deck 80
+player 80 discards a 666 to deck 81
+player 80 current hand : 414 290 664 531 844 505 796 906 38 440 111 913 242 209 886 872 507 917 65 91 
+player 80 draws a 487 from deck 80
+player 80 discards a 414 to deck 81
+player 80 current hand : 290 664 531 844 505 796 906 38 440 111 913 242 209 886 872 507 917 65 91 487 
+player 80 draws a 712 from deck 80
+player 80 discards a 290 to deck 81
+player 80 current hand : 664 531 844 505 796 906 38 440 111 913 242 209 886 872 507 917 65 91 487 712 
+player 80 draws a 930 from deck 80
+player 80 discards a 664 to deck 81
+player 80 current hand : 531 844 505 796 906 38 440 111 913 242 209 886 872 507 917 65 91 487 712 930 
+player 80 draws a 70 from deck 80
+player 80 discards a 531 to deck 81
+player 80 current hand : 844 505 796 906 38 440 111 913 242 209 886 872 507 917 65 91 487 712 930 70 
+player 80 draws a 29 from deck 80
+player 80 discards a 844 to deck 81
+player 80 current hand : 505 796 906 38 440 111 913 242 209 886 872 507 917 65 91 487 712 930 70 29 
+player 80 draws a 122 from deck 80
+player 80 discards a 505 to deck 81
+player 80 current hand : 796 906 38 440 111 913 242 209 886 872 507 917 65 91 487 712 930 70 29 122 
+player 80 draws a 81 from deck 80
+player 80 discards a 796 to deck 81
+player 80 current hand : 906 38 440 111 913 242 209 886 872 507 917 65 91 487 712 930 70 29 122 81 
+player 80 draws a 43 from deck 80
+player 80 discards a 906 to deck 81
+player 80 current hand : 38 440 111 913 242 209 886 872 507 917 65 91 487 712 930 70 29 122 81 43 
+player 80 draws a 99 from deck 80
+player 80 discards a 38 to deck 81
+player 80 current hand : 440 111 913 242 209 886 872 507 917 65 91 487 712 930 70 29 122 81 43 99 
+player 80 draws a 771 from deck 80
+player 80 discards a 440 to deck 81
+player 80 current hand : 111 913 242 209 886 872 507 917 65 91 487 712 930 70 29 122 81 43 99 771 
+player 80 draws a 93 from deck 80
+player 80 discards a 111 to deck 81
+player 80 current hand : 913 242 209 886 872 507 917 65 91 487 712 930 70 29 122 81 43 99 771 93 
+player 80 draws a 95 from deck 80
+player 80 discards a 913 to deck 81
+player 80 current hand : 242 209 886 872 507 917 65 91 487 712 930 70 29 122 81 43 99 771 93 95 
+player 80 draws a 370 from deck 80
+player 80 discards a 242 to deck 81
+player 80 current hand : 209 886 872 507 917 65 91 487 712 930 70 29 122 81 43 99 771 93 95 370 
+player 80 draws a 901 from deck 80
+player 80 discards a 209 to deck 81
+player 80 current hand : 886 872 507 917 65 91 487 712 930 70 29 122 81 43 99 771 93 95 370 901 
+player 80 draws a 827 from deck 80
+player 80 discards a 886 to deck 81
+player 80 current hand : 872 507 917 65 91 487 712 930 70 29 122 81 43 99 771 93 95 370 901 827 
+player 80 draws a 681 from deck 80
+player 80 discards a 872 to deck 81
+player 80 current hand : 507 917 65 91 487 712 930 70 29 122 81 43 99 771 93 95 370 901 827 681 
+player 80 draws a 38 from deck 80
+player 80 discards a 507 to deck 81
+player 80 current hand : 917 65 91 487 712 930 70 29 122 81 43 99 771 93 95 370 901 827 681 38 
+player 80 draws a 595 from deck 80
+player 80 discards a 917 to deck 81
+player 80 current hand : 65 91 487 712 930 70 29 122 81 43 99 771 93 95 370 901 827 681 38 595 
+player 80 draws a 882 from deck 80
+player 80 discards a 65 to deck 81
+player 80 current hand : 91 487 712 930 70 29 122 81 43 99 771 93 95 370 901 827 681 38 595 882 
+player 80 draws a 372 from deck 80
+player 80 discards a 91 to deck 81
+player 80 current hand : 487 712 930 70 29 122 81 43 99 771 93 95 370 901 827 681 38 595 882 372 
+player 80 draws a 32 from deck 80
+player 80 discards a 487 to deck 81
+player 80 current hand : 712 930 70 29 122 81 43 99 771 93 95 370 901 827 681 38 595 882 372 32 
+player 80 draws a 750 from deck 80
+player 80 discards a 712 to deck 81
+player 80 current hand : 930 70 29 122 81 43 99 771 93 95 370 901 827 681 38 595 882 372 32 750 
+player 80 draws a 325 from deck 80
+player 80 discards a 930 to deck 81
+player 80 current hand : 70 29 122 81 43 99 771 93 95 370 901 827 681 38 595 882 372 32 750 325 
+player 80 draws a 247 from deck 80
+player 80 discards a 70 to deck 81
+player 80 current hand : 29 122 81 43 99 771 93 95 370 901 827 681 38 595 882 372 32 750 325 247 
+player 80 draws a 898 from deck 80
+player 80 discards a 29 to deck 81
+player 80 current hand : 122 81 43 99 771 93 95 370 901 827 681 38 595 882 372 32 750 325 247 898 
+player 80 draws a 647 from deck 80
+player 80 discards a 122 to deck 81
+player 80 current hand : 81 43 99 771 93 95 370 901 827 681 38 595 882 372 32 750 325 247 898 647 
+player 80 draws a 874 from deck 80
+player 80 discards a 81 to deck 81
+player 80 current hand : 43 99 771 93 95 370 901 827 681 38 595 882 372 32 750 325 247 898 647 874 
+player 80 draws a 793 from deck 80
+player 80 discards a 43 to deck 81
+player 80 current hand : 99 771 93 95 370 901 827 681 38 595 882 372 32 750 325 247 898 647 874 793 
+player 80 draws a 508 from deck 80
+player 80 discards a 99 to deck 81
+player 80 current hand : 771 93 95 370 901 827 681 38 595 882 372 32 750 325 247 898 647 874 793 508 
+player 80 draws a 809 from deck 80
+player 80 discards a 771 to deck 81
+player 80 current hand : 93 95 370 901 827 681 38 595 882 372 32 750 325 247 898 647 874 793 508 809 
+player 80 draws a 531 from deck 80
+player 80 discards a 93 to deck 81
+player 80 current hand : 95 370 901 827 681 38 595 882 372 32 750 325 247 898 647 874 793 508 809 531 
+player 80 draws a 510 from deck 80
+player 80 discards a 95 to deck 81
+player 80 current hand : 370 901 827 681 38 595 882 372 32 750 325 247 898 647 874 793 508 809 531 510 
+player 80 draws a 342 from deck 80
+player 80 discards a 370 to deck 81
+player 80 current hand : 901 827 681 38 595 882 372 32 750 325 247 898 647 874 793 508 809 531 510 342 
+player 80 draws a 498 from deck 80
+player 80 discards a 901 to deck 81
+player 80 current hand : 827 681 38 595 882 372 32 750 325 247 898 647 874 793 508 809 531 510 342 498 
+player 80 draws a 797 from deck 80
+player 80 discards a 827 to deck 81
+player 80 current hand : 681 38 595 882 372 32 750 325 247 898 647 874 793 508 809 531 510 342 498 797 
+player 80 draws a 550 from deck 80
+player 80 discards a 681 to deck 81
+player 80 current hand : 38 595 882 372 32 750 325 247 898 647 874 793 508 809 531 510 342 498 797 550 
+player 80 draws a 595 from deck 80
+player 80 discards a 38 to deck 81
+player 80 current hand : 595 882 372 32 750 325 247 898 647 874 793 508 809 531 510 342 498 797 550 595 
+player 80 draws a 137 from deck 80
+player 80 discards a 595 to deck 81
+player 80 current hand : 882 372 32 750 325 247 898 647 874 793 508 809 531 510 342 498 797 550 595 137 
+player 80 draws a 265 from deck 80
+player 80 discards a 882 to deck 81
+player 80 current hand : 372 32 750 325 247 898 647 874 793 508 809 531 510 342 498 797 550 595 137 265 
+player 80 draws a 475 from deck 80
+player 80 discards a 372 to deck 81
+player 80 current hand : 32 750 325 247 898 647 874 793 508 809 531 510 342 498 797 550 595 137 265 475 
+player 80 draws a 493 from deck 80
+player 80 discards a 32 to deck 81
+player 80 current hand : 750 325 247 898 647 874 793 508 809 531 510 342 498 797 550 595 137 265 475 493 
+player 80 draws a 970 from deck 80
+player 80 discards a 750 to deck 81
+player 80 current hand : 325 247 898 647 874 793 508 809 531 510 342 498 797 550 595 137 265 475 493 970 
+player 80 draws a 481 from deck 80
+player 80 discards a 325 to deck 81
+player 80 current hand : 247 898 647 874 793 508 809 531 510 342 498 797 550 595 137 265 475 493 970 481 
+player 80 draws a 933 from deck 80
+player 80 discards a 247 to deck 81
+player 80 current hand : 898 647 874 793 508 809 531 510 342 498 797 550 595 137 265 475 493 970 481 933 
+player 80 draws a 946 from deck 80
+player 80 discards a 898 to deck 81
+player 80 current hand : 647 874 793 508 809 531 510 342 498 797 550 595 137 265 475 493 970 481 933 946 
+player 80 draws a 870 from deck 80
+player 80 discards a 647 to deck 81
+player 80 current hand : 874 793 508 809 531 510 342 498 797 550 595 137 265 475 493 970 481 933 946 870 
+player 80 draws a 252 from deck 80
+player 80 discards a 874 to deck 81
+player 80 current hand : 793 508 809 531 510 342 498 797 550 595 137 265 475 493 970 481 933 946 870 252 
+player 80 draws a 602 from deck 80
+player 80 discards a 793 to deck 81
+player 80 current hand : 508 809 531 510 342 498 797 550 595 137 265 475 493 970 481 933 946 870 252 602 
+player 80 draws a 238 from deck 80
+player 80 discards a 508 to deck 81
+player 80 current hand : 809 531 510 342 498 797 550 595 137 265 475 493 970 481 933 946 870 252 602 238 
+player 80 draws a 773 from deck 80
+player 80 discards a 809 to deck 81
+player 80 current hand : 531 510 342 498 797 550 595 137 265 475 493 970 481 933 946 870 252 602 238 773 
+player 80 draws a 943 from deck 80
+player 80 discards a 531 to deck 81
+player 80 current hand : 510 342 498 797 550 595 137 265 475 493 970 481 933 946 870 252 602 238 773 943 
+player 80 draws a 142 from deck 80
+player 80 discards a 510 to deck 81
+player 80 current hand : 342 498 797 550 595 137 265 475 493 970 481 933 946 870 252 602 238 773 943 142 
+player 80 draws a 712 from deck 80
+player 80 discards a 342 to deck 81
+player 80 current hand : 498 797 550 595 137 265 475 493 970 481 933 946 870 252 602 238 773 943 142 712 
+player 80 draws a 367 from deck 80
+player 80 discards a 498 to deck 81
+player 80 current hand : 797 550 595 137 265 475 493 970 481 933 946 870 252 602 238 773 943 142 712 367 
+player 80 draws a 83 from deck 80
+player 80 discards a 797 to deck 81
+player 80 current hand : 550 595 137 265 475 493 970 481 933 946 870 252 602 238 773 943 142 712 367 83 
+player 80 draws a 983 from deck 80
+player 80 discards a 550 to deck 81
+player 80 current hand : 595 137 265 475 493 970 481 933 946 870 252 602 238 773 943 142 712 367 83 983 
+player 80 draws a 135 from deck 80
+player 80 discards a 595 to deck 81
+player 80 current hand : 137 265 475 493 970 481 933 946 870 252 602 238 773 943 142 712 367 83 983 135 
+player 80 draws a 497 from deck 80
+player 80 discards a 137 to deck 81
+player 80 current hand : 265 475 493 970 481 933 946 870 252 602 238 773 943 142 712 367 83 983 135 497 
+player 80 draws a 481 from deck 80
+player 80 discards a 265 to deck 81
+player 80 current hand : 475 493 970 481 933 946 870 252 602 238 773 943 142 712 367 83 983 135 497 481 
+player 80 draws a 657 from deck 80
+player 80 discards a 475 to deck 81
+player 80 current hand : 493 970 481 933 946 870 252 602 238 773 943 142 712 367 83 983 135 497 481 657 
+player 80 draws a 255 from deck 80
+player 80 discards a 493 to deck 81
+player 80 current hand : 970 481 933 946 870 252 602 238 773 943 142 712 367 83 983 135 497 481 657 255 
+player 80 draws a 279 from deck 80
+player 80 discards a 970 to deck 81
+player 80 current hand : 481 933 946 870 252 602 238 773 943 142 712 367 83 983 135 497 481 657 255 279 
+player 80 draws a 634 from deck 80
+player 80 discards a 481 to deck 81
+player 80 current hand : 933 946 870 252 602 238 773 943 142 712 367 83 983 135 497 481 657 255 279 634 
+player 80 draws a 501 from deck 80
+player 80 discards a 933 to deck 81
+player 80 current hand : 946 870 252 602 238 773 943 142 712 367 83 983 135 497 481 657 255 279 634 501 
+player 80 draws a 571 from deck 80
+player 80 discards a 946 to deck 81
+player 80 current hand : 870 252 602 238 773 943 142 712 367 83 983 135 497 481 657 255 279 634 501 571 
+player 80 draws a 852 from deck 80
+player 80 discards a 870 to deck 81
+player 80 current hand : 252 602 238 773 943 142 712 367 83 983 135 497 481 657 255 279 634 501 571 852 
+player 80 draws a 945 from deck 80
+player 80 discards a 252 to deck 81
+player 80 current hand : 602 238 773 943 142 712 367 83 983 135 497 481 657 255 279 634 501 571 852 945 
+player 80 draws a 336 from deck 80
+player 80 discards a 602 to deck 81
+player 80 current hand : 238 773 943 142 712 367 83 983 135 497 481 657 255 279 634 501 571 852 945 336 
+player 80 draws a 673 from deck 80
+player 80 discards a 238 to deck 81
+player 80 current hand : 773 943 142 712 367 83 983 135 497 481 657 255 279 634 501 571 852 945 336 673 
+player 80 draws a 776 from deck 80
+player 80 discards a 773 to deck 81
+player 80 current hand : 943 142 712 367 83 983 135 497 481 657 255 279 634 501 571 852 945 336 673 776 
+player 80 draws a 419 from deck 80
+player 80 discards a 943 to deck 81
+player 80 current hand : 142 712 367 83 983 135 497 481 657 255 279 634 501 571 852 945 336 673 776 419 
+player 80 draws a 872 from deck 80
+player 80 discards a 142 to deck 81
+player 80 current hand : 712 367 83 983 135 497 481 657 255 279 634 501 571 852 945 336 673 776 419 872 
+player 80 draws a 919 from deck 80
+player 80 discards a 712 to deck 81
+player 80 current hand : 367 83 983 135 497 481 657 255 279 634 501 571 852 945 336 673 776 419 872 919 
+player 80 draws a 38 from deck 80
+player 80 discards a 367 to deck 81
+player 80 current hand : 83 983 135 497 481 657 255 279 634 501 571 852 945 336 673 776 419 872 919 38 
+player 80 draws a 994 from deck 80
+player 80 discards a 83 to deck 81
+player 80 current hand : 983 135 497 481 657 255 279 634 501 571 852 945 336 673 776 419 872 919 38 994 
+player 80 draws a 924 from deck 80
+player 80 discards a 983 to deck 81
+player 80 current hand : 135 497 481 657 255 279 634 501 571 852 945 336 673 776 419 872 919 38 994 924 
+player 80 draws a 177 from deck 80
+player 80 discards a 135 to deck 81
+player 80 current hand : 497 481 657 255 279 634 501 571 852 945 336 673 776 419 872 919 38 994 924 177 
+player 80 draws a 610 from deck 80
+player 80 discards a 497 to deck 81
+player 80 current hand : 481 657 255 279 634 501 571 852 945 336 673 776 419 872 919 38 994 924 177 610 
+player 80 draws a 473 from deck 80
+player 80 discards a 481 to deck 81
+player 80 current hand : 657 255 279 634 501 571 852 945 336 673 776 419 872 919 38 994 924 177 610 473 
+player 80 draws a 100 from deck 80

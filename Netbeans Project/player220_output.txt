@@ -1,0 +1,333 @@
+player 220 initial hand 867 1000 350 732 4 775 412 453 474 113 508 941 745 612 559 740 699 867 673 785 
+player 220 draws a 105 from deck 220
+player 220 discards a 867 to deck 221
+player 220 current hand : 1000 350 732 4 775 412 453 474 113 508 941 745 612 559 740 699 867 673 785 105 
+player 220 draws a 392 from deck 220
+player 220 discards a 1000 to deck 221
+player 220 current hand : 350 732 4 775 412 453 474 113 508 941 745 612 559 740 699 867 673 785 105 392 
+player 220 draws a 238 from deck 220
+player 220 discards a 350 to deck 221
+player 220 current hand : 732 4 775 412 453 474 113 508 941 745 612 559 740 699 867 673 785 105 392 238 
+player 220 draws a 252 from deck 220
+player 220 discards a 732 to deck 221
+player 220 current hand : 4 775 412 453 474 113 508 941 745 612 559 740 699 867 673 785 105 392 238 252 
+player 220 draws a 415 from deck 220
+player 220 discards a 4 to deck 221
+player 220 current hand : 775 412 453 474 113 508 941 745 612 559 740 699 867 673 785 105 392 238 252 415 
+player 220 draws a 337 from deck 220
+player 220 discards a 775 to deck 221
+player 220 current hand : 412 453 474 113 508 941 745 612 559 740 699 867 673 785 105 392 238 252 415 337 
+player 220 draws a 224 from deck 220
+player 220 discards a 412 to deck 221
+player 220 current hand : 453 474 113 508 941 745 612 559 740 699 867 673 785 105 392 238 252 415 337 224 
+player 220 draws a 527 from deck 220
+player 220 discards a 453 to deck 221
+player 220 current hand : 474 113 508 941 745 612 559 740 699 867 673 785 105 392 238 252 415 337 224 527 
+player 220 draws a 256 from deck 220
+player 220 discards a 474 to deck 221
+player 220 current hand : 113 508 941 745 612 559 740 699 867 673 785 105 392 238 252 415 337 224 527 256 
+player 220 draws a 27 from deck 220
+player 220 discards a 113 to deck 221
+player 220 current hand : 508 941 745 612 559 740 699 867 673 785 105 392 238 252 415 337 224 527 256 27 
+player 220 draws a 951 from deck 220
+player 220 discards a 508 to deck 221
+player 220 current hand : 941 745 612 559 740 699 867 673 785 105 392 238 252 415 337 224 527 256 27 951 
+player 220 draws a 970 from deck 220
+player 220 discards a 941 to deck 221
+player 220 current hand : 745 612 559 740 699 867 673 785 105 392 238 252 415 337 224 527 256 27 951 970 
+player 220 draws a 776 from deck 220
+player 220 discards a 745 to deck 221
+player 220 current hand : 612 559 740 699 867 673 785 105 392 238 252 415 337 224 527 256 27 951 970 776 
+player 220 draws a 631 from deck 220
+player 220 discards a 612 to deck 221
+player 220 current hand : 559 740 699 867 673 785 105 392 238 252 415 337 224 527 256 27 951 970 776 631 
+player 220 draws a 499 from deck 220
+player 220 discards a 559 to deck 221
+player 220 current hand : 740 699 867 673 785 105 392 238 252 415 337 224 527 256 27 951 970 776 631 499 
+player 220 draws a 653 from deck 220
+player 220 discards a 740 to deck 221
+player 220 current hand : 699 867 673 785 105 392 238 252 415 337 224 527 256 27 951 970 776 631 499 653 
+player 220 draws a 938 from deck 220
+player 220 discards a 699 to deck 221
+player 220 current hand : 867 673 785 105 392 238 252 415 337 224 527 256 27 951 970 776 631 499 653 938 
+player 220 draws a 704 from deck 220
+player 220 discards a 867 to deck 221
+player 220 current hand : 673 785 105 392 238 252 415 337 224 527 256 27 951 970 776 631 499 653 938 704 
+player 220 draws a 407 from deck 220
+player 220 discards a 673 to deck 221
+player 220 current hand : 785 105 392 238 252 415 337 224 527 256 27 951 970 776 631 499 653 938 704 407 
+player 220 draws a 824 from deck 220
+player 220 discards a 785 to deck 221
+player 220 current hand : 105 392 238 252 415 337 224 527 256 27 951 970 776 631 499 653 938 704 407 824 
+player 220 draws a 999 from deck 220
+player 220 discards a 105 to deck 221
+player 220 current hand : 392 238 252 415 337 224 527 256 27 951 970 776 631 499 653 938 704 407 824 999 
+player 220 draws a 823 from deck 220
+player 220 discards a 392 to deck 221
+player 220 current hand : 238 252 415 337 224 527 256 27 951 970 776 631 499 653 938 704 407 824 999 823 
+player 220 draws a 729 from deck 220
+player 220 discards a 238 to deck 221
+player 220 current hand : 252 415 337 224 527 256 27 951 970 776 631 499 653 938 704 407 824 999 823 729 
+player 220 draws a 384 from deck 220
+player 220 discards a 252 to deck 221
+player 220 current hand : 415 337 224 527 256 27 951 970 776 631 499 653 938 704 407 824 999 823 729 384 
+player 220 draws a 537 from deck 220
+player 220 discards a 415 to deck 221
+player 220 current hand : 337 224 527 256 27 951 970 776 631 499 653 938 704 407 824 999 823 729 384 537 
+player 220 draws a 737 from deck 220
+player 220 discards a 337 to deck 221
+player 220 current hand : 224 527 256 27 951 970 776 631 499 653 938 704 407 824 999 823 729 384 537 737 
+player 220 draws a 43 from deck 220
+player 220 discards a 224 to deck 221
+player 220 current hand : 527 256 27 951 970 776 631 499 653 938 704 407 824 999 823 729 384 537 737 43 
+player 220 draws a 897 from deck 220
+player 220 discards a 527 to deck 221
+player 220 current hand : 256 27 951 970 776 631 499 653 938 704 407 824 999 823 729 384 537 737 43 897 
+player 220 draws a 867 from deck 220
+player 220 discards a 256 to deck 221
+player 220 current hand : 27 951 970 776 631 499 653 938 704 407 824 999 823 729 384 537 737 43 897 867 
+player 220 draws a 626 from deck 220
+player 220 discards a 27 to deck 221
+player 220 current hand : 951 970 776 631 499 653 938 704 407 824 999 823 729 384 537 737 43 897 867 626 
+player 220 draws a 410 from deck 220
+player 220 discards a 951 to deck 221
+player 220 current hand : 970 776 631 499 653 938 704 407 824 999 823 729 384 537 737 43 897 867 626 410 
+player 220 draws a 661 from deck 220
+player 220 discards a 970 to deck 221
+player 220 current hand : 776 631 499 653 938 704 407 824 999 823 729 384 537 737 43 897 867 626 410 661 
+player 220 draws a 946 from deck 220
+player 220 discards a 776 to deck 221
+player 220 current hand : 631 499 653 938 704 407 824 999 823 729 384 537 737 43 897 867 626 410 661 946 
+player 220 draws a 98 from deck 220
+player 220 discards a 631 to deck 221
+player 220 current hand : 499 653 938 704 407 824 999 823 729 384 537 737 43 897 867 626 410 661 946 98 
+player 220 draws a 577 from deck 220
+player 220 discards a 499 to deck 221
+player 220 current hand : 653 938 704 407 824 999 823 729 384 537 737 43 897 867 626 410 661 946 98 577 
+player 220 draws a 232 from deck 220
+player 220 discards a 653 to deck 221
+player 220 current hand : 938 704 407 824 999 823 729 384 537 737 43 897 867 626 410 661 946 98 577 232 
+player 220 draws a 117 from deck 220
+player 220 discards a 938 to deck 221
+player 220 current hand : 704 407 824 999 823 729 384 537 737 43 897 867 626 410 661 946 98 577 232 117 
+player 220 draws a 346 from deck 220
+player 220 discards a 704 to deck 221
+player 220 current hand : 407 824 999 823 729 384 537 737 43 897 867 626 410 661 946 98 577 232 117 346 
+player 220 draws a 950 from deck 220
+player 220 discards a 407 to deck 221
+player 220 current hand : 824 999 823 729 384 537 737 43 897 867 626 410 661 946 98 577 232 117 346 950 
+player 220 draws a 544 from deck 220
+player 220 discards a 824 to deck 221
+player 220 current hand : 999 823 729 384 537 737 43 897 867 626 410 661 946 98 577 232 117 346 950 544 
+player 220 draws a 862 from deck 220
+player 220 discards a 999 to deck 221
+player 220 current hand : 823 729 384 537 737 43 897 867 626 410 661 946 98 577 232 117 346 950 544 862 
+player 220 draws a 24 from deck 220
+player 220 discards a 823 to deck 221
+player 220 current hand : 729 384 537 737 43 897 867 626 410 661 946 98 577 232 117 346 950 544 862 24 
+player 220 draws a 482 from deck 220
+player 220 discards a 729 to deck 221
+player 220 current hand : 384 537 737 43 897 867 626 410 661 946 98 577 232 117 346 950 544 862 24 482 
+player 220 draws a 451 from deck 220
+player 220 discards a 384 to deck 221
+player 220 current hand : 537 737 43 897 867 626 410 661 946 98 577 232 117 346 950 544 862 24 482 451 
+player 220 draws a 800 from deck 220
+player 220 discards a 537 to deck 221
+player 220 current hand : 737 43 897 867 626 410 661 946 98 577 232 117 346 950 544 862 24 482 451 800 
+player 220 draws a 521 from deck 220
+player 220 discards a 737 to deck 221
+player 220 current hand : 43 897 867 626 410 661 946 98 577 232 117 346 950 544 862 24 482 451 800 521 
+player 220 draws a 9 from deck 220
+player 220 discards a 43 to deck 221
+player 220 current hand : 897 867 626 410 661 946 98 577 232 117 346 950 544 862 24 482 451 800 521 9 
+player 220 draws a 854 from deck 220
+player 220 discards a 897 to deck 221
+player 220 current hand : 867 626 410 661 946 98 577 232 117 346 950 544 862 24 482 451 800 521 9 854 
+player 220 draws a 102 from deck 220
+player 220 discards a 867 to deck 221
+player 220 current hand : 626 410 661 946 98 577 232 117 346 950 544 862 24 482 451 800 521 9 854 102 
+player 220 draws a 601 from deck 220
+player 220 discards a 626 to deck 221
+player 220 current hand : 410 661 946 98 577 232 117 346 950 544 862 24 482 451 800 521 9 854 102 601 
+player 220 draws a 939 from deck 220
+player 220 discards a 410 to deck 221
+player 220 current hand : 661 946 98 577 232 117 346 950 544 862 24 482 451 800 521 9 854 102 601 939 
+player 220 draws a 759 from deck 220
+player 220 discards a 661 to deck 221
+player 220 current hand : 946 98 577 232 117 346 950 544 862 24 482 451 800 521 9 854 102 601 939 759 
+player 220 draws a 699 from deck 220
+player 220 discards a 946 to deck 221
+player 220 current hand : 98 577 232 117 346 950 544 862 24 482 451 800 521 9 854 102 601 939 759 699 
+player 220 draws a 933 from deck 220
+player 220 discards a 98 to deck 221
+player 220 current hand : 577 232 117 346 950 544 862 24 482 451 800 521 9 854 102 601 939 759 699 933 
+player 220 draws a 43 from deck 220
+player 220 discards a 577 to deck 221
+player 220 current hand : 232 117 346 950 544 862 24 482 451 800 521 9 854 102 601 939 759 699 933 43 
+player 220 draws a 241 from deck 220
+player 220 discards a 232 to deck 221
+player 220 current hand : 117 346 950 544 862 24 482 451 800 521 9 854 102 601 939 759 699 933 43 241 
+player 220 draws a 683 from deck 220
+player 220 discards a 117 to deck 221
+player 220 current hand : 346 950 544 862 24 482 451 800 521 9 854 102 601 939 759 699 933 43 241 683 
+player 220 draws a 504 from deck 220
+player 220 discards a 346 to deck 221
+player 220 current hand : 950 544 862 24 482 451 800 521 9 854 102 601 939 759 699 933 43 241 683 504 
+player 220 draws a 438 from deck 220
+player 220 discards a 950 to deck 221
+player 220 current hand : 544 862 24 482 451 800 521 9 854 102 601 939 759 699 933 43 241 683 504 438 
+player 220 draws a 153 from deck 220
+player 220 discards a 544 to deck 221
+player 220 current hand : 862 24 482 451 800 521 9 854 102 601 939 759 699 933 43 241 683 504 438 153 
+player 220 draws a 423 from deck 220
+player 220 discards a 862 to deck 221
+player 220 current hand : 24 482 451 800 521 9 854 102 601 939 759 699 933 43 241 683 504 438 153 423 
+player 220 draws a 521 from deck 220
+player 220 discards a 24 to deck 221
+player 220 current hand : 482 451 800 521 9 854 102 601 939 759 699 933 43 241 683 504 438 153 423 521 
+player 220 draws a 734 from deck 220
+player 220 discards a 482 to deck 221
+player 220 current hand : 451 800 521 9 854 102 601 939 759 699 933 43 241 683 504 438 153 423 521 734 
+player 220 draws a 883 from deck 220
+player 220 discards a 451 to deck 221
+player 220 current hand : 800 521 9 854 102 601 939 759 699 933 43 241 683 504 438 153 423 521 734 883 
+player 220 draws a 797 from deck 220
+player 220 discards a 800 to deck 221
+player 220 current hand : 521 9 854 102 601 939 759 699 933 43 241 683 504 438 153 423 521 734 883 797 
+player 220 draws a 633 from deck 220
+player 220 discards a 521 to deck 221
+player 220 current hand : 9 854 102 601 939 759 699 933 43 241 683 504 438 153 423 521 734 883 797 633 
+player 220 draws a 331 from deck 220
+player 220 discards a 9 to deck 221
+player 220 current hand : 854 102 601 939 759 699 933 43 241 683 504 438 153 423 521 734 883 797 633 331 
+player 220 draws a 612 from deck 220
+player 220 discards a 854 to deck 221
+player 220 current hand : 102 601 939 759 699 933 43 241 683 504 438 153 423 521 734 883 797 633 331 612 
+player 220 draws a 661 from deck 220
+player 220 discards a 102 to deck 221
+player 220 current hand : 601 939 759 699 933 43 241 683 504 438 153 423 521 734 883 797 633 331 612 661 
+player 220 draws a 305 from deck 220
+player 220 discards a 601 to deck 221
+player 220 current hand : 939 759 699 933 43 241 683 504 438 153 423 521 734 883 797 633 331 612 661 305 
+player 220 draws a 818 from deck 220
+player 220 discards a 939 to deck 221
+player 220 current hand : 759 699 933 43 241 683 504 438 153 423 521 734 883 797 633 331 612 661 305 818 
+player 220 draws a 546 from deck 220
+player 220 discards a 759 to deck 221
+player 220 current hand : 699 933 43 241 683 504 438 153 423 521 734 883 797 633 331 612 661 305 818 546 
+player 220 draws a 72 from deck 220
+player 220 discards a 699 to deck 221
+player 220 current hand : 933 43 241 683 504 438 153 423 521 734 883 797 633 331 612 661 305 818 546 72 
+player 220 draws a 888 from deck 220
+player 220 discards a 933 to deck 221
+player 220 current hand : 43 241 683 504 438 153 423 521 734 883 797 633 331 612 661 305 818 546 72 888 
+player 220 draws a 860 from deck 220
+player 220 discards a 43 to deck 221
+player 220 current hand : 241 683 504 438 153 423 521 734 883 797 633 331 612 661 305 818 546 72 888 860 
+player 220 draws a 819 from deck 220
+player 220 discards a 241 to deck 221
+player 220 current hand : 683 504 438 153 423 521 734 883 797 633 331 612 661 305 818 546 72 888 860 819 
+player 220 draws a 726 from deck 220
+player 220 discards a 683 to deck 221
+player 220 current hand : 504 438 153 423 521 734 883 797 633 331 612 661 305 818 546 72 888 860 819 726 
+player 220 draws a 384 from deck 220
+player 220 discards a 504 to deck 221
+player 220 current hand : 438 153 423 521 734 883 797 633 331 612 661 305 818 546 72 888 860 819 726 384 
+player 220 draws a 927 from deck 220
+player 220 discards a 438 to deck 221
+player 220 current hand : 153 423 521 734 883 797 633 331 612 661 305 818 546 72 888 860 819 726 384 927 
+player 220 draws a 138 from deck 220
+player 220 discards a 153 to deck 221
+player 220 current hand : 423 521 734 883 797 633 331 612 661 305 818 546 72 888 860 819 726 384 927 138 
+player 220 draws a 512 from deck 220
+player 220 discards a 423 to deck 221
+player 220 current hand : 521 734 883 797 633 331 612 661 305 818 546 72 888 860 819 726 384 927 138 512 
+player 220 draws a 919 from deck 220
+player 220 discards a 521 to deck 221
+player 220 current hand : 734 883 797 633 331 612 661 305 818 546 72 888 860 819 726 384 927 138 512 919 
+player 220 draws a 396 from deck 220
+player 220 discards a 734 to deck 221
+player 220 current hand : 883 797 633 331 612 661 305 818 546 72 888 860 819 726 384 927 138 512 919 396 
+player 220 draws a 403 from deck 220
+player 220 discards a 883 to deck 221
+player 220 current hand : 797 633 331 612 661 305 818 546 72 888 860 819 726 384 927 138 512 919 396 403 
+player 220 draws a 341 from deck 220
+player 220 discards a 797 to deck 221
+player 220 current hand : 633 331 612 661 305 818 546 72 888 860 819 726 384 927 138 512 919 396 403 341 
+player 220 draws a 797 from deck 220
+player 220 discards a 633 to deck 221
+player 220 current hand : 331 612 661 305 818 546 72 888 860 819 726 384 927 138 512 919 396 403 341 797 
+player 220 draws a 515 from deck 220
+player 220 discards a 331 to deck 221
+player 220 current hand : 612 661 305 818 546 72 888 860 819 726 384 927 138 512 919 396 403 341 797 515 
+player 220 draws a 973 from deck 220
+player 220 discards a 612 to deck 221
+player 220 current hand : 661 305 818 546 72 888 860 819 726 384 927 138 512 919 396 403 341 797 515 973 
+player 220 draws a 922 from deck 220
+player 220 discards a 661 to deck 221
+player 220 current hand : 305 818 546 72 888 860 819 726 384 927 138 512 919 396 403 341 797 515 973 922 
+player 220 draws a 186 from deck 220
+player 220 discards a 305 to deck 221
+player 220 current hand : 818 546 72 888 860 819 726 384 927 138 512 919 396 403 341 797 515 973 922 186 
+player 220 draws a 926 from deck 220
+player 220 discards a 818 to deck 221
+player 220 current hand : 546 72 888 860 819 726 384 927 138 512 919 396 403 341 797 515 973 922 186 926 
+player 220 draws a 846 from deck 220
+player 220 discards a 546 to deck 221
+player 220 current hand : 72 888 860 819 726 384 927 138 512 919 396 403 341 797 515 973 922 186 926 846 
+player 220 draws a 478 from deck 220
+player 220 discards a 72 to deck 221
+player 220 current hand : 888 860 819 726 384 927 138 512 919 396 403 341 797 515 973 922 186 926 846 478 
+player 220 draws a 879 from deck 220
+player 220 discards a 888 to deck 221
+player 220 current hand : 860 819 726 384 927 138 512 919 396 403 341 797 515 973 922 186 926 846 478 879 
+player 220 draws a 340 from deck 220
+player 220 discards a 860 to deck 221
+player 220 current hand : 819 726 384 927 138 512 919 396 403 341 797 515 973 922 186 926 846 478 879 340 
+player 220 draws a 535 from deck 220
+player 220 discards a 819 to deck 221
+player 220 current hand : 726 384 927 138 512 919 396 403 341 797 515 973 922 186 926 846 478 879 340 535 
+player 220 draws a 679 from deck 220
+player 220 discards a 726 to deck 221
+player 220 current hand : 384 927 138 512 919 396 403 341 797 515 973 922 186 926 846 478 879 340 535 679 
+player 220 draws a 78 from deck 220
+player 220 discards a 384 to deck 221
+player 220 current hand : 927 138 512 919 396 403 341 797 515 973 922 186 926 846 478 879 340 535 679 78 
+player 220 draws a 755 from deck 220
+player 220 discards a 927 to deck 221
+player 220 current hand : 138 512 919 396 403 341 797 515 973 922 186 926 846 478 879 340 535 679 78 755 
+player 220 draws a 921 from deck 220
+player 220 discards a 138 to deck 221
+player 220 current hand : 512 919 396 403 341 797 515 973 922 186 926 846 478 879 340 535 679 78 755 921 
+player 220 draws a 982 from deck 220
+player 220 discards a 512 to deck 221
+player 220 current hand : 919 396 403 341 797 515 973 922 186 926 846 478 879 340 535 679 78 755 921 982 
+player 220 draws a 523 from deck 220
+player 220 discards a 919 to deck 221
+player 220 current hand : 396 403 341 797 515 973 922 186 926 846 478 879 340 535 679 78 755 921 982 523 
+player 220 draws a 252 from deck 220
+player 220 discards a 396 to deck 221
+player 220 current hand : 403 341 797 515 973 922 186 926 846 478 879 340 535 679 78 755 921 982 523 252 
+player 220 draws a 712 from deck 220
+player 220 discards a 403 to deck 221
+player 220 current hand : 341 797 515 973 922 186 926 846 478 879 340 535 679 78 755 921 982 523 252 712 
+player 220 draws a 171 from deck 220
+player 220 discards a 341 to deck 221
+player 220 current hand : 797 515 973 922 186 926 846 478 879 340 535 679 78 755 921 982 523 252 712 171 
+player 220 draws a 31 from deck 220
+player 220 discards a 797 to deck 221
+player 220 current hand : 515 973 922 186 926 846 478 879 340 535 679 78 755 921 982 523 252 712 171 31 
+player 220 draws a 589 from deck 220
+player 220 discards a 515 to deck 221
+player 220 current hand : 973 922 186 926 846 478 879 340 535 679 78 755 921 982 523 252 712 171 31 589 
+player 220 draws a 473 from deck 220
+player 220 discards a 973 to deck 221
+player 220 current hand : 922 186 926 846 478 879 340 535 679 78 755 921 982 523 252 712 171 31 589 473 
+player 220 draws a 399 from deck 220
+player 220 discards a 922 to deck 221
+player 220 current hand : 186 926 846 478 879 340 535 679 78 755 921 982 523 252 712 171 31 589 473 399 
+player 220 draws a 199 from deck 220
+player 220 discards a 186 to deck 221
+player 220 current hand : 926 846 478 879 340 535 679 78 755 921 982 523 252 712 171 31 589 473 399 199 
+player 220 draws a 426 from deck 220
+player 220 discards a 926 to deck 221

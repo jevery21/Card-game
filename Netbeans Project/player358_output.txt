@@ -1,0 +1,320 @@
+player 358 initial hand 272 613 31 135 568 468 476 179 24 862 511 616 482 183 36 712 180 865 938 451 
+player 358 draws a 692 from deck 358
+player 358 discards a 272 to deck 359
+player 358 current hand : 613 31 135 568 468 476 179 24 862 511 616 482 183 36 712 180 865 938 451 692 
+player 358 draws a 976 from deck 358
+player 358 discards a 613 to deck 359
+player 358 current hand : 31 135 568 468 476 179 24 862 511 616 482 183 36 712 180 865 938 451 692 976 
+player 358 draws a 668 from deck 358
+player 358 discards a 31 to deck 359
+player 358 current hand : 135 568 468 476 179 24 862 511 616 482 183 36 712 180 865 938 451 692 976 668 
+player 358 draws a 523 from deck 358
+player 358 discards a 135 to deck 359
+player 358 current hand : 568 468 476 179 24 862 511 616 482 183 36 712 180 865 938 451 692 976 668 523 
+player 358 draws a 968 from deck 358
+player 358 discards a 568 to deck 359
+player 358 current hand : 468 476 179 24 862 511 616 482 183 36 712 180 865 938 451 692 976 668 523 968 
+player 358 draws a 765 from deck 358
+player 358 discards a 468 to deck 359
+player 358 current hand : 476 179 24 862 511 616 482 183 36 712 180 865 938 451 692 976 668 523 968 765 
+player 358 draws a 834 from deck 358
+player 358 discards a 476 to deck 359
+player 358 current hand : 179 24 862 511 616 482 183 36 712 180 865 938 451 692 976 668 523 968 765 834 
+player 358 draws a 275 from deck 358
+player 358 discards a 179 to deck 359
+player 358 current hand : 24 862 511 616 482 183 36 712 180 865 938 451 692 976 668 523 968 765 834 275 
+player 358 draws a 91 from deck 358
+player 358 discards a 24 to deck 359
+player 358 current hand : 862 511 616 482 183 36 712 180 865 938 451 692 976 668 523 968 765 834 275 91 
+player 358 draws a 355 from deck 358
+player 358 discards a 862 to deck 359
+player 358 current hand : 511 616 482 183 36 712 180 865 938 451 692 976 668 523 968 765 834 275 91 355 
+player 358 draws a 93 from deck 358
+player 358 discards a 511 to deck 359
+player 358 current hand : 616 482 183 36 712 180 865 938 451 692 976 668 523 968 765 834 275 91 355 93 
+player 358 draws a 949 from deck 358
+player 358 discards a 616 to deck 359
+player 358 current hand : 482 183 36 712 180 865 938 451 692 976 668 523 968 765 834 275 91 355 93 949 
+player 358 draws a 748 from deck 358
+player 358 discards a 482 to deck 359
+player 358 current hand : 183 36 712 180 865 938 451 692 976 668 523 968 765 834 275 91 355 93 949 748 
+player 358 draws a 324 from deck 358
+player 358 discards a 183 to deck 359
+player 358 current hand : 36 712 180 865 938 451 692 976 668 523 968 765 834 275 91 355 93 949 748 324 
+player 358 draws a 93 from deck 358
+player 358 discards a 36 to deck 359
+player 358 current hand : 712 180 865 938 451 692 976 668 523 968 765 834 275 91 355 93 949 748 324 93 
+player 358 draws a 214 from deck 358
+player 358 discards a 712 to deck 359
+player 358 current hand : 180 865 938 451 692 976 668 523 968 765 834 275 91 355 93 949 748 324 93 214 
+player 358 draws a 949 from deck 358
+player 358 discards a 180 to deck 359
+player 358 current hand : 865 938 451 692 976 668 523 968 765 834 275 91 355 93 949 748 324 93 214 949 
+player 358 draws a 256 from deck 358
+player 358 discards a 865 to deck 359
+player 358 current hand : 938 451 692 976 668 523 968 765 834 275 91 355 93 949 748 324 93 214 949 256 
+player 358 draws a 247 from deck 358
+player 358 discards a 938 to deck 359
+player 358 current hand : 451 692 976 668 523 968 765 834 275 91 355 93 949 748 324 93 214 949 256 247 
+player 358 draws a 114 from deck 358
+player 358 discards a 451 to deck 359
+player 358 current hand : 692 976 668 523 968 765 834 275 91 355 93 949 748 324 93 214 949 256 247 114 
+player 358 draws a 170 from deck 358
+player 358 discards a 692 to deck 359
+player 358 current hand : 976 668 523 968 765 834 275 91 355 93 949 748 324 93 214 949 256 247 114 170 
+player 358 draws a 747 from deck 358
+player 358 discards a 976 to deck 359
+player 358 current hand : 668 523 968 765 834 275 91 355 93 949 748 324 93 214 949 256 247 114 170 747 
+player 358 draws a 4 from deck 358
+player 358 discards a 668 to deck 359
+player 358 current hand : 523 968 765 834 275 91 355 93 949 748 324 93 214 949 256 247 114 170 747 4 
+player 358 draws a 642 from deck 358
+player 358 discards a 523 to deck 359
+player 358 current hand : 968 765 834 275 91 355 93 949 748 324 93 214 949 256 247 114 170 747 4 642 
+player 358 draws a 238 from deck 358
+player 358 discards a 968 to deck 359
+player 358 current hand : 765 834 275 91 355 93 949 748 324 93 214 949 256 247 114 170 747 4 642 238 
+player 358 draws a 117 from deck 358
+player 358 discards a 765 to deck 359
+player 358 current hand : 834 275 91 355 93 949 748 324 93 214 949 256 247 114 170 747 4 642 238 117 
+player 358 draws a 316 from deck 358
+player 358 discards a 834 to deck 359
+player 358 current hand : 275 91 355 93 949 748 324 93 214 949 256 247 114 170 747 4 642 238 117 316 
+player 358 draws a 449 from deck 358
+player 358 discards a 275 to deck 359
+player 358 current hand : 91 355 93 949 748 324 93 214 949 256 247 114 170 747 4 642 238 117 316 449 
+player 358 draws a 451 from deck 358
+player 358 discards a 91 to deck 359
+player 358 current hand : 355 93 949 748 324 93 214 949 256 247 114 170 747 4 642 238 117 316 449 451 
+player 358 draws a 214 from deck 358
+player 358 discards a 355 to deck 359
+player 358 current hand : 93 949 748 324 93 214 949 256 247 114 170 747 4 642 238 117 316 449 451 214 
+player 358 draws a 110 from deck 358
+player 358 discards a 93 to deck 359
+player 358 current hand : 949 748 324 93 214 949 256 247 114 170 747 4 642 238 117 316 449 451 214 110 
+player 358 draws a 868 from deck 358
+player 358 discards a 949 to deck 359
+player 358 current hand : 748 324 93 214 949 256 247 114 170 747 4 642 238 117 316 449 451 214 110 868 
+player 358 draws a 575 from deck 358
+player 358 discards a 748 to deck 359
+player 358 current hand : 324 93 214 949 256 247 114 170 747 4 642 238 117 316 449 451 214 110 868 575 
+player 358 draws a 640 from deck 358
+player 358 discards a 324 to deck 359
+player 358 current hand : 93 214 949 256 247 114 170 747 4 642 238 117 316 449 451 214 110 868 575 640 
+player 358 draws a 102 from deck 358
+player 358 discards a 93 to deck 359
+player 358 current hand : 214 949 256 247 114 170 747 4 642 238 117 316 449 451 214 110 868 575 640 102 
+player 358 draws a 457 from deck 358
+player 358 discards a 214 to deck 359
+player 358 current hand : 949 256 247 114 170 747 4 642 238 117 316 449 451 214 110 868 575 640 102 457 
+player 358 draws a 161 from deck 358
+player 358 discards a 949 to deck 359
+player 358 current hand : 256 247 114 170 747 4 642 238 117 316 449 451 214 110 868 575 640 102 457 161 
+player 358 draws a 356 from deck 358
+player 358 discards a 256 to deck 359
+player 358 current hand : 247 114 170 747 4 642 238 117 316 449 451 214 110 868 575 640 102 457 161 356 
+player 358 draws a 532 from deck 358
+player 358 discards a 247 to deck 359
+player 358 current hand : 114 170 747 4 642 238 117 316 449 451 214 110 868 575 640 102 457 161 356 532 
+player 358 draws a 719 from deck 358
+player 358 discards a 114 to deck 359
+player 358 current hand : 170 747 4 642 238 117 316 449 451 214 110 868 575 640 102 457 161 356 532 719 
+player 358 draws a 838 from deck 358
+player 358 discards a 170 to deck 359
+player 358 current hand : 747 4 642 238 117 316 449 451 214 110 868 575 640 102 457 161 356 532 719 838 
+player 358 draws a 509 from deck 358
+player 358 discards a 747 to deck 359
+player 358 current hand : 4 642 238 117 316 449 451 214 110 868 575 640 102 457 161 356 532 719 838 509 
+player 358 draws a 928 from deck 358
+player 358 discards a 4 to deck 359
+player 358 current hand : 642 238 117 316 449 451 214 110 868 575 640 102 457 161 356 532 719 838 509 928 
+player 358 draws a 525 from deck 358
+player 358 discards a 642 to deck 359
+player 358 current hand : 238 117 316 449 451 214 110 868 575 640 102 457 161 356 532 719 838 509 928 525 
+player 358 draws a 736 from deck 358
+player 358 discards a 238 to deck 359
+player 358 current hand : 117 316 449 451 214 110 868 575 640 102 457 161 356 532 719 838 509 928 525 736 
+player 358 draws a 198 from deck 358
+player 358 discards a 117 to deck 359
+player 358 current hand : 316 449 451 214 110 868 575 640 102 457 161 356 532 719 838 509 928 525 736 198 
+player 358 draws a 20 from deck 358
+player 358 discards a 316 to deck 359
+player 358 current hand : 449 451 214 110 868 575 640 102 457 161 356 532 719 838 509 928 525 736 198 20 
+player 358 draws a 924 from deck 358
+player 358 discards a 449 to deck 359
+player 358 current hand : 451 214 110 868 575 640 102 457 161 356 532 719 838 509 928 525 736 198 20 924 
+player 358 draws a 666 from deck 358
+player 358 discards a 451 to deck 359
+player 358 current hand : 214 110 868 575 640 102 457 161 356 532 719 838 509 928 525 736 198 20 924 666 
+player 358 draws a 702 from deck 358
+player 358 discards a 214 to deck 359
+player 358 current hand : 110 868 575 640 102 457 161 356 532 719 838 509 928 525 736 198 20 924 666 702 
+player 358 draws a 707 from deck 358
+player 358 discards a 110 to deck 359
+player 358 current hand : 868 575 640 102 457 161 356 532 719 838 509 928 525 736 198 20 924 666 702 707 
+player 358 draws a 827 from deck 358
+player 358 discards a 868 to deck 359
+player 358 current hand : 575 640 102 457 161 356 532 719 838 509 928 525 736 198 20 924 666 702 707 827 
+player 358 draws a 458 from deck 358
+player 358 discards a 575 to deck 359
+player 358 current hand : 640 102 457 161 356 532 719 838 509 928 525 736 198 20 924 666 702 707 827 458 
+player 358 draws a 128 from deck 358
+player 358 discards a 640 to deck 359
+player 358 current hand : 102 457 161 356 532 719 838 509 928 525 736 198 20 924 666 702 707 827 458 128 
+player 358 draws a 393 from deck 358
+player 358 discards a 102 to deck 359
+player 358 current hand : 457 161 356 532 719 838 509 928 525 736 198 20 924 666 702 707 827 458 128 393 
+player 358 draws a 681 from deck 358
+player 358 discards a 457 to deck 359
+player 358 current hand : 161 356 532 719 838 509 928 525 736 198 20 924 666 702 707 827 458 128 393 681 
+player 358 draws a 96 from deck 358
+player 358 discards a 161 to deck 359
+player 358 current hand : 356 532 719 838 509 928 525 736 198 20 924 666 702 707 827 458 128 393 681 96 
+player 358 draws a 713 from deck 358
+player 358 discards a 356 to deck 359
+player 358 current hand : 532 719 838 509 928 525 736 198 20 924 666 702 707 827 458 128 393 681 96 713 
+player 358 draws a 251 from deck 358
+player 358 discards a 532 to deck 359
+player 358 current hand : 719 838 509 928 525 736 198 20 924 666 702 707 827 458 128 393 681 96 713 251 
+player 358 draws a 980 from deck 358
+player 358 discards a 719 to deck 359
+player 358 current hand : 838 509 928 525 736 198 20 924 666 702 707 827 458 128 393 681 96 713 251 980 
+player 358 draws a 1 from deck 358
+player 358 discards a 838 to deck 359
+player 358 current hand : 509 928 525 736 198 20 924 666 702 707 827 458 128 393 681 96 713 251 980 1 
+player 358 draws a 114 from deck 358
+player 358 discards a 509 to deck 359
+player 358 current hand : 928 525 736 198 20 924 666 702 707 827 458 128 393 681 96 713 251 980 1 114 
+player 358 draws a 131 from deck 358
+player 358 discards a 928 to deck 359
+player 358 current hand : 525 736 198 20 924 666 702 707 827 458 128 393 681 96 713 251 980 1 114 131 
+player 358 draws a 310 from deck 358
+player 358 discards a 525 to deck 359
+player 358 current hand : 736 198 20 924 666 702 707 827 458 128 393 681 96 713 251 980 1 114 131 310 
+player 358 draws a 605 from deck 358
+player 358 discards a 736 to deck 359
+player 358 current hand : 198 20 924 666 702 707 827 458 128 393 681 96 713 251 980 1 114 131 310 605 
+player 358 draws a 233 from deck 358
+player 358 discards a 198 to deck 359
+player 358 current hand : 20 924 666 702 707 827 458 128 393 681 96 713 251 980 1 114 131 310 605 233 
+player 358 draws a 866 from deck 358
+player 358 discards a 20 to deck 359
+player 358 current hand : 924 666 702 707 827 458 128 393 681 96 713 251 980 1 114 131 310 605 233 866 
+player 358 draws a 611 from deck 358
+player 358 discards a 924 to deck 359
+player 358 current hand : 666 702 707 827 458 128 393 681 96 713 251 980 1 114 131 310 605 233 866 611 
+player 358 draws a 137 from deck 358
+player 358 discards a 666 to deck 359
+player 358 current hand : 702 707 827 458 128 393 681 96 713 251 980 1 114 131 310 605 233 866 611 137 
+player 358 draws a 756 from deck 358
+player 358 discards a 702 to deck 359
+player 358 current hand : 707 827 458 128 393 681 96 713 251 980 1 114 131 310 605 233 866 611 137 756 
+player 358 draws a 18 from deck 358
+player 358 discards a 707 to deck 359
+player 358 current hand : 827 458 128 393 681 96 713 251 980 1 114 131 310 605 233 866 611 137 756 18 
+player 358 draws a 667 from deck 358
+player 358 discards a 827 to deck 359
+player 358 current hand : 458 128 393 681 96 713 251 980 1 114 131 310 605 233 866 611 137 756 18 667 
+player 358 draws a 696 from deck 358
+player 358 discards a 458 to deck 359
+player 358 current hand : 128 393 681 96 713 251 980 1 114 131 310 605 233 866 611 137 756 18 667 696 
+player 358 draws a 951 from deck 358
+player 358 discards a 128 to deck 359
+player 358 current hand : 393 681 96 713 251 980 1 114 131 310 605 233 866 611 137 756 18 667 696 951 
+player 358 draws a 617 from deck 358
+player 358 discards a 393 to deck 359
+player 358 current hand : 681 96 713 251 980 1 114 131 310 605 233 866 611 137 756 18 667 696 951 617 
+player 358 draws a 340 from deck 358
+player 358 discards a 681 to deck 359
+player 358 current hand : 96 713 251 980 1 114 131 310 605 233 866 611 137 756 18 667 696 951 617 340 
+player 358 draws a 529 from deck 358
+player 358 discards a 96 to deck 359
+player 358 current hand : 713 251 980 1 114 131 310 605 233 866 611 137 756 18 667 696 951 617 340 529 
+player 358 draws a 173 from deck 358
+player 358 discards a 713 to deck 359
+player 358 current hand : 251 980 1 114 131 310 605 233 866 611 137 756 18 667 696 951 617 340 529 173 
+player 358 draws a 935 from deck 358
+player 358 discards a 251 to deck 359
+player 358 current hand : 980 1 114 131 310 605 233 866 611 137 756 18 667 696 951 617 340 529 173 935 
+player 358 draws a 865 from deck 358
+player 358 discards a 980 to deck 359
+player 358 current hand : 1 114 131 310 605 233 866 611 137 756 18 667 696 951 617 340 529 173 935 865 
+player 358 draws a 437 from deck 358
+player 358 discards a 1 to deck 359
+player 358 current hand : 114 131 310 605 233 866 611 137 756 18 667 696 951 617 340 529 173 935 865 437 
+player 358 draws a 824 from deck 358
+player 358 discards a 114 to deck 359
+player 358 current hand : 131 310 605 233 866 611 137 756 18 667 696 951 617 340 529 173 935 865 437 824 
+player 358 draws a 177 from deck 358
+player 358 discards a 131 to deck 359
+player 358 current hand : 310 605 233 866 611 137 756 18 667 696 951 617 340 529 173 935 865 437 824 177 
+player 358 draws a 707 from deck 358
+player 358 discards a 310 to deck 359
+player 358 current hand : 605 233 866 611 137 756 18 667 696 951 617 340 529 173 935 865 437 824 177 707 
+player 358 draws a 170 from deck 358
+player 358 discards a 605 to deck 359
+player 358 current hand : 233 866 611 137 756 18 667 696 951 617 340 529 173 935 865 437 824 177 707 170 
+player 358 draws a 260 from deck 358
+player 358 discards a 233 to deck 359
+player 358 current hand : 866 611 137 756 18 667 696 951 617 340 529 173 935 865 437 824 177 707 170 260 
+player 358 draws a 228 from deck 358
+player 358 discards a 866 to deck 359
+player 358 current hand : 611 137 756 18 667 696 951 617 340 529 173 935 865 437 824 177 707 170 260 228 
+player 358 draws a 867 from deck 358
+player 358 discards a 611 to deck 359
+player 358 current hand : 137 756 18 667 696 951 617 340 529 173 935 865 437 824 177 707 170 260 228 867 
+player 358 draws a 654 from deck 358
+player 358 discards a 137 to deck 359
+player 358 current hand : 756 18 667 696 951 617 340 529 173 935 865 437 824 177 707 170 260 228 867 654 
+player 358 draws a 631 from deck 358
+player 358 discards a 756 to deck 359
+player 358 current hand : 18 667 696 951 617 340 529 173 935 865 437 824 177 707 170 260 228 867 654 631 
+player 358 draws a 161 from deck 358
+player 358 discards a 18 to deck 359
+player 358 current hand : 667 696 951 617 340 529 173 935 865 437 824 177 707 170 260 228 867 654 631 161 
+player 358 draws a 262 from deck 358
+player 358 discards a 667 to deck 359
+player 358 current hand : 696 951 617 340 529 173 935 865 437 824 177 707 170 260 228 867 654 631 161 262 
+player 358 draws a 73 from deck 358
+player 358 discards a 696 to deck 359
+player 358 current hand : 951 617 340 529 173 935 865 437 824 177 707 170 260 228 867 654 631 161 262 73 
+player 358 draws a 867 from deck 358
+player 358 discards a 951 to deck 359
+player 358 current hand : 617 340 529 173 935 865 437 824 177 707 170 260 228 867 654 631 161 262 73 867 
+player 358 draws a 685 from deck 358
+player 358 discards a 617 to deck 359
+player 358 current hand : 340 529 173 935 865 437 824 177 707 170 260 228 867 654 631 161 262 73 867 685 
+player 358 draws a 279 from deck 358
+player 358 discards a 340 to deck 359
+player 358 current hand : 529 173 935 865 437 824 177 707 170 260 228 867 654 631 161 262 73 867 685 279 
+player 358 draws a 198 from deck 358
+player 358 discards a 529 to deck 359
+player 358 current hand : 173 935 865 437 824 177 707 170 260 228 867 654 631 161 262 73 867 685 279 198 
+player 358 draws a 258 from deck 358
+player 358 discards a 173 to deck 359
+player 358 current hand : 935 865 437 824 177 707 170 260 228 867 654 631 161 262 73 867 685 279 198 258 
+player 358 draws a 334 from deck 358
+player 358 discards a 935 to deck 359
+player 358 current hand : 865 437 824 177 707 170 260 228 867 654 631 161 262 73 867 685 279 198 258 334 
+player 358 draws a 78 from deck 358
+player 358 discards a 865 to deck 359
+player 358 current hand : 437 824 177 707 170 260 228 867 654 631 161 262 73 867 685 279 198 258 334 78 
+player 358 draws a 28 from deck 358
+player 358 discards a 437 to deck 359
+player 358 current hand : 824 177 707 170 260 228 867 654 631 161 262 73 867 685 279 198 258 334 78 28 
+player 358 draws a 775 from deck 358
+player 358 discards a 824 to deck 359
+player 358 current hand : 177 707 170 260 228 867 654 631 161 262 73 867 685 279 198 258 334 78 28 775 
+player 358 draws a 199 from deck 358
+player 358 discards a 177 to deck 359
+player 358 current hand : 707 170 260 228 867 654 631 161 262 73 867 685 279 198 258 334 78 28 775 199 
+player 358 draws a 268 from deck 358
+player 358 discards a 707 to deck 359
+player 358 current hand : 170 260 228 867 654 631 161 262 73 867 685 279 198 258 334 78 28 775 199 268 
+player 358 draws a 621 from deck 358
+player 358 discards a 170 to deck 359
+player 358 current hand : 260 228 867 654 631 161 262 73 867 685 279 198 258 334 78 28 775 199 268 621 
+player 358 draws a 2 from deck 358
+player 358 discards a 260 to deck 359
+player 358 current hand : 228 867 654 631 161 262 73 867 685 279 198 258 334 78 28 775 199 268 621 2 
+player 358 draws a 580 from deck 358

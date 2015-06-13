@@ -1,0 +1,309 @@
+player 16 initial hand 220 967 837 844 868 920 640 344 105 507 329 943 316 173 720 519 319 100 522 730 
+player 16 draws a 613 from deck 16
+player 16 discards a 220 to deck 17
+player 16 current hand : 967 837 844 868 920 640 344 105 507 329 943 316 173 720 519 319 100 522 730 613 
+player 16 draws a 977 from deck 16
+player 16 discards a 967 to deck 17
+player 16 current hand : 837 844 868 920 640 344 105 507 329 943 316 173 720 519 319 100 522 730 613 977 
+player 16 draws a 813 from deck 16
+player 16 discards a 837 to deck 17
+player 16 current hand : 844 868 920 640 344 105 507 329 943 316 173 720 519 319 100 522 730 613 977 813 
+player 16 draws a 791 from deck 16
+player 16 discards a 844 to deck 17
+player 16 current hand : 868 920 640 344 105 507 329 943 316 173 720 519 319 100 522 730 613 977 813 791 
+player 16 draws a 173 from deck 16
+player 16 discards a 868 to deck 17
+player 16 current hand : 920 640 344 105 507 329 943 316 173 720 519 319 100 522 730 613 977 813 791 173 
+player 16 draws a 24 from deck 16
+player 16 discards a 920 to deck 17
+player 16 current hand : 640 344 105 507 329 943 316 173 720 519 319 100 522 730 613 977 813 791 173 24 
+player 16 draws a 128 from deck 16
+player 16 discards a 640 to deck 17
+player 16 current hand : 344 105 507 329 943 316 173 720 519 319 100 522 730 613 977 813 791 173 24 128 
+player 16 draws a 565 from deck 16
+player 16 discards a 344 to deck 17
+player 16 current hand : 105 507 329 943 316 173 720 519 319 100 522 730 613 977 813 791 173 24 128 565 
+player 16 draws a 326 from deck 16
+player 16 discards a 105 to deck 17
+player 16 current hand : 507 329 943 316 173 720 519 319 100 522 730 613 977 813 791 173 24 128 565 326 
+player 16 draws a 734 from deck 16
+player 16 discards a 507 to deck 17
+player 16 current hand : 329 943 316 173 720 519 319 100 522 730 613 977 813 791 173 24 128 565 326 734 
+player 16 draws a 485 from deck 16
+player 16 discards a 329 to deck 17
+player 16 current hand : 943 316 173 720 519 319 100 522 730 613 977 813 791 173 24 128 565 326 734 485 
+player 16 draws a 146 from deck 16
+player 16 discards a 943 to deck 17
+player 16 current hand : 316 173 720 519 319 100 522 730 613 977 813 791 173 24 128 565 326 734 485 146 
+player 16 draws a 817 from deck 16
+player 16 discards a 316 to deck 17
+player 16 current hand : 173 720 519 319 100 522 730 613 977 813 791 173 24 128 565 326 734 485 146 817 
+player 16 draws a 582 from deck 16
+player 16 discards a 173 to deck 17
+player 16 current hand : 720 519 319 100 522 730 613 977 813 791 173 24 128 565 326 734 485 146 817 582 
+player 16 draws a 834 from deck 16
+player 16 discards a 720 to deck 17
+player 16 current hand : 519 319 100 522 730 613 977 813 791 173 24 128 565 326 734 485 146 817 582 834 
+player 16 draws a 239 from deck 16
+player 16 discards a 519 to deck 17
+player 16 current hand : 319 100 522 730 613 977 813 791 173 24 128 565 326 734 485 146 817 582 834 239 
+player 16 draws a 171 from deck 16
+player 16 discards a 319 to deck 17
+player 16 current hand : 100 522 730 613 977 813 791 173 24 128 565 326 734 485 146 817 582 834 239 171 
+player 16 draws a 48 from deck 16
+player 16 discards a 100 to deck 17
+player 16 current hand : 522 730 613 977 813 791 173 24 128 565 326 734 485 146 817 582 834 239 171 48 
+player 16 draws a 906 from deck 16
+player 16 discards a 522 to deck 17
+player 16 current hand : 730 613 977 813 791 173 24 128 565 326 734 485 146 817 582 834 239 171 48 906 
+player 16 draws a 853 from deck 16
+player 16 discards a 730 to deck 17
+player 16 current hand : 613 977 813 791 173 24 128 565 326 734 485 146 817 582 834 239 171 48 906 853 
+player 16 draws a 422 from deck 16
+player 16 discards a 613 to deck 17
+player 16 current hand : 977 813 791 173 24 128 565 326 734 485 146 817 582 834 239 171 48 906 853 422 
+player 16 draws a 415 from deck 16
+player 16 discards a 977 to deck 17
+player 16 current hand : 813 791 173 24 128 565 326 734 485 146 817 582 834 239 171 48 906 853 422 415 
+player 16 draws a 930 from deck 16
+player 16 discards a 813 to deck 17
+player 16 current hand : 791 173 24 128 565 326 734 485 146 817 582 834 239 171 48 906 853 422 415 930 
+player 16 draws a 463 from deck 16
+player 16 discards a 791 to deck 17
+player 16 current hand : 173 24 128 565 326 734 485 146 817 582 834 239 171 48 906 853 422 415 930 463 
+player 16 draws a 399 from deck 16
+player 16 discards a 173 to deck 17
+player 16 current hand : 24 128 565 326 734 485 146 817 582 834 239 171 48 906 853 422 415 930 463 399 
+player 16 draws a 226 from deck 16
+player 16 discards a 24 to deck 17
+player 16 current hand : 128 565 326 734 485 146 817 582 834 239 171 48 906 853 422 415 930 463 399 226 
+player 16 draws a 476 from deck 16
+player 16 discards a 128 to deck 17
+player 16 current hand : 565 326 734 485 146 817 582 834 239 171 48 906 853 422 415 930 463 399 226 476 
+player 16 draws a 537 from deck 16
+player 16 discards a 565 to deck 17
+player 16 current hand : 326 734 485 146 817 582 834 239 171 48 906 853 422 415 930 463 399 226 476 537 
+player 16 draws a 23 from deck 16
+player 16 discards a 326 to deck 17
+player 16 current hand : 734 485 146 817 582 834 239 171 48 906 853 422 415 930 463 399 226 476 537 23 
+player 16 draws a 328 from deck 16
+player 16 discards a 734 to deck 17
+player 16 current hand : 485 146 817 582 834 239 171 48 906 853 422 415 930 463 399 226 476 537 23 328 
+player 16 draws a 258 from deck 16
+player 16 discards a 485 to deck 17
+player 16 current hand : 146 817 582 834 239 171 48 906 853 422 415 930 463 399 226 476 537 23 328 258 
+player 16 draws a 460 from deck 16
+player 16 discards a 146 to deck 17
+player 16 current hand : 817 582 834 239 171 48 906 853 422 415 930 463 399 226 476 537 23 328 258 460 
+player 16 draws a 955 from deck 16
+player 16 discards a 817 to deck 17
+player 16 current hand : 582 834 239 171 48 906 853 422 415 930 463 399 226 476 537 23 328 258 460 955 
+player 16 draws a 764 from deck 16
+player 16 discards a 582 to deck 17
+player 16 current hand : 834 239 171 48 906 853 422 415 930 463 399 226 476 537 23 328 258 460 955 764 
+player 16 draws a 246 from deck 16
+player 16 discards a 834 to deck 17
+player 16 current hand : 239 171 48 906 853 422 415 930 463 399 226 476 537 23 328 258 460 955 764 246 
+player 16 draws a 119 from deck 16
+player 16 discards a 239 to deck 17
+player 16 current hand : 171 48 906 853 422 415 930 463 399 226 476 537 23 328 258 460 955 764 246 119 
+player 16 draws a 50 from deck 16
+player 16 discards a 171 to deck 17
+player 16 current hand : 48 906 853 422 415 930 463 399 226 476 537 23 328 258 460 955 764 246 119 50 
+player 16 draws a 580 from deck 16
+player 16 discards a 48 to deck 17
+player 16 current hand : 906 853 422 415 930 463 399 226 476 537 23 328 258 460 955 764 246 119 50 580 
+player 16 draws a 690 from deck 16
+player 16 discards a 906 to deck 17
+player 16 current hand : 853 422 415 930 463 399 226 476 537 23 328 258 460 955 764 246 119 50 580 690 
+player 16 draws a 897 from deck 16
+player 16 discards a 853 to deck 17
+player 16 current hand : 422 415 930 463 399 226 476 537 23 328 258 460 955 764 246 119 50 580 690 897 
+player 16 draws a 402 from deck 16
+player 16 discards a 422 to deck 17
+player 16 current hand : 415 930 463 399 226 476 537 23 328 258 460 955 764 246 119 50 580 690 897 402 
+player 16 draws a 964 from deck 16
+player 16 discards a 415 to deck 17
+player 16 current hand : 930 463 399 226 476 537 23 328 258 460 955 764 246 119 50 580 690 897 402 964 
+player 16 draws a 983 from deck 16
+player 16 discards a 930 to deck 17
+player 16 current hand : 463 399 226 476 537 23 328 258 460 955 764 246 119 50 580 690 897 402 964 983 
+player 16 draws a 541 from deck 16
+player 16 discards a 463 to deck 17
+player 16 current hand : 399 226 476 537 23 328 258 460 955 764 246 119 50 580 690 897 402 964 983 541 
+player 16 draws a 233 from deck 16
+player 16 discards a 399 to deck 17
+player 16 current hand : 226 476 537 23 328 258 460 955 764 246 119 50 580 690 897 402 964 983 541 233 
+player 16 draws a 222 from deck 16
+player 16 discards a 226 to deck 17
+player 16 current hand : 476 537 23 328 258 460 955 764 246 119 50 580 690 897 402 964 983 541 233 222 
+player 16 draws a 105 from deck 16
+player 16 discards a 476 to deck 17
+player 16 current hand : 537 23 328 258 460 955 764 246 119 50 580 690 897 402 964 983 541 233 222 105 
+player 16 draws a 443 from deck 16
+player 16 discards a 537 to deck 17
+player 16 current hand : 23 328 258 460 955 764 246 119 50 580 690 897 402 964 983 541 233 222 105 443 
+player 16 draws a 274 from deck 16
+player 16 discards a 23 to deck 17
+player 16 current hand : 328 258 460 955 764 246 119 50 580 690 897 402 964 983 541 233 222 105 443 274 
+player 16 draws a 482 from deck 16
+player 16 discards a 328 to deck 17
+player 16 current hand : 258 460 955 764 246 119 50 580 690 897 402 964 983 541 233 222 105 443 274 482 
+player 16 draws a 686 from deck 16
+player 16 discards a 258 to deck 17
+player 16 current hand : 460 955 764 246 119 50 580 690 897 402 964 983 541 233 222 105 443 274 482 686 
+player 16 draws a 105 from deck 16
+player 16 discards a 460 to deck 17
+player 16 current hand : 955 764 246 119 50 580 690 897 402 964 983 541 233 222 105 443 274 482 686 105 
+player 16 draws a 1000 from deck 16
+player 16 discards a 955 to deck 17
+player 16 current hand : 764 246 119 50 580 690 897 402 964 983 541 233 222 105 443 274 482 686 105 1000 
+player 16 draws a 143 from deck 16
+player 16 discards a 764 to deck 17
+player 16 current hand : 246 119 50 580 690 897 402 964 983 541 233 222 105 443 274 482 686 105 1000 143 
+player 16 draws a 470 from deck 16
+player 16 discards a 246 to deck 17
+player 16 current hand : 119 50 580 690 897 402 964 983 541 233 222 105 443 274 482 686 105 1000 143 470 
+player 16 draws a 411 from deck 16
+player 16 discards a 119 to deck 17
+player 16 current hand : 50 580 690 897 402 964 983 541 233 222 105 443 274 482 686 105 1000 143 470 411 
+player 16 draws a 466 from deck 16
+player 16 discards a 50 to deck 17
+player 16 current hand : 580 690 897 402 964 983 541 233 222 105 443 274 482 686 105 1000 143 470 411 466 
+player 16 draws a 972 from deck 16
+player 16 discards a 580 to deck 17
+player 16 current hand : 690 897 402 964 983 541 233 222 105 443 274 482 686 105 1000 143 470 411 466 972 
+player 16 draws a 364 from deck 16
+player 16 discards a 690 to deck 17
+player 16 current hand : 897 402 964 983 541 233 222 105 443 274 482 686 105 1000 143 470 411 466 972 364 
+player 16 draws a 769 from deck 16
+player 16 discards a 897 to deck 17
+player 16 current hand : 402 964 983 541 233 222 105 443 274 482 686 105 1000 143 470 411 466 972 364 769 
+player 16 draws a 396 from deck 16
+player 16 discards a 402 to deck 17
+player 16 current hand : 964 983 541 233 222 105 443 274 482 686 105 1000 143 470 411 466 972 364 769 396 
+player 16 draws a 173 from deck 16
+player 16 discards a 964 to deck 17
+player 16 current hand : 983 541 233 222 105 443 274 482 686 105 1000 143 470 411 466 972 364 769 396 173 
+player 16 draws a 640 from deck 16
+player 16 discards a 983 to deck 17
+player 16 current hand : 541 233 222 105 443 274 482 686 105 1000 143 470 411 466 972 364 769 396 173 640 
+player 16 draws a 645 from deck 16
+player 16 discards a 541 to deck 17
+player 16 current hand : 233 222 105 443 274 482 686 105 1000 143 470 411 466 972 364 769 396 173 640 645 
+player 16 draws a 329 from deck 16
+player 16 discards a 233 to deck 17
+player 16 current hand : 222 105 443 274 482 686 105 1000 143 470 411 466 972 364 769 396 173 640 645 329 
+player 16 draws a 83 from deck 16
+player 16 discards a 222 to deck 17
+player 16 current hand : 105 443 274 482 686 105 1000 143 470 411 466 972 364 769 396 173 640 645 329 83 
+player 16 draws a 640 from deck 16
+player 16 discards a 105 to deck 17
+player 16 current hand : 443 274 482 686 105 1000 143 470 411 466 972 364 769 396 173 640 645 329 83 640 
+player 16 draws a 765 from deck 16
+player 16 discards a 443 to deck 17
+player 16 current hand : 274 482 686 105 1000 143 470 411 466 972 364 769 396 173 640 645 329 83 640 765 
+player 16 draws a 525 from deck 16
+player 16 discards a 274 to deck 17
+player 16 current hand : 482 686 105 1000 143 470 411 466 972 364 769 396 173 640 645 329 83 640 765 525 
+player 16 draws a 38 from deck 16
+player 16 discards a 482 to deck 17
+player 16 current hand : 686 105 1000 143 470 411 466 972 364 769 396 173 640 645 329 83 640 765 525 38 
+player 16 draws a 835 from deck 16
+player 16 discards a 686 to deck 17
+player 16 current hand : 105 1000 143 470 411 466 972 364 769 396 173 640 645 329 83 640 765 525 38 835 
+player 16 draws a 72 from deck 16
+player 16 discards a 105 to deck 17
+player 16 current hand : 1000 143 470 411 466 972 364 769 396 173 640 645 329 83 640 765 525 38 835 72 
+player 16 draws a 13 from deck 16
+player 16 discards a 1000 to deck 17
+player 16 current hand : 143 470 411 466 972 364 769 396 173 640 645 329 83 640 765 525 38 835 72 13 
+player 16 draws a 12 from deck 16
+player 16 discards a 143 to deck 17
+player 16 current hand : 470 411 466 972 364 769 396 173 640 645 329 83 640 765 525 38 835 72 13 12 
+player 16 draws a 4 from deck 16
+player 16 discards a 470 to deck 17
+player 16 current hand : 411 466 972 364 769 396 173 640 645 329 83 640 765 525 38 835 72 13 12 4 
+player 16 draws a 463 from deck 16
+player 16 discards a 411 to deck 17
+player 16 current hand : 466 972 364 769 396 173 640 645 329 83 640 765 525 38 835 72 13 12 4 463 
+player 16 draws a 391 from deck 16
+player 16 discards a 466 to deck 17
+player 16 current hand : 972 364 769 396 173 640 645 329 83 640 765 525 38 835 72 13 12 4 463 391 
+player 16 draws a 471 from deck 16
+player 16 discards a 972 to deck 17
+player 16 current hand : 364 769 396 173 640 645 329 83 640 765 525 38 835 72 13 12 4 463 391 471 
+player 16 draws a 360 from deck 16
+player 16 discards a 364 to deck 17
+player 16 current hand : 769 396 173 640 645 329 83 640 765 525 38 835 72 13 12 4 463 391 471 360 
+player 16 draws a 173 from deck 16
+player 16 discards a 769 to deck 17
+player 16 current hand : 396 173 640 645 329 83 640 765 525 38 835 72 13 12 4 463 391 471 360 173 
+player 16 draws a 969 from deck 16
+player 16 discards a 396 to deck 17
+player 16 current hand : 173 640 645 329 83 640 765 525 38 835 72 13 12 4 463 391 471 360 173 969 
+player 16 draws a 336 from deck 16
+player 16 discards a 173 to deck 17
+player 16 current hand : 640 645 329 83 640 765 525 38 835 72 13 12 4 463 391 471 360 173 969 336 
+player 16 draws a 541 from deck 16
+player 16 discards a 640 to deck 17
+player 16 current hand : 645 329 83 640 765 525 38 835 72 13 12 4 463 391 471 360 173 969 336 541 
+player 16 draws a 576 from deck 16
+player 16 discards a 645 to deck 17
+player 16 current hand : 329 83 640 765 525 38 835 72 13 12 4 463 391 471 360 173 969 336 541 576 
+player 16 draws a 617 from deck 16
+player 16 discards a 329 to deck 17
+player 16 current hand : 83 640 765 525 38 835 72 13 12 4 463 391 471 360 173 969 336 541 576 617 
+player 16 draws a 72 from deck 16
+player 16 discards a 83 to deck 17
+player 16 current hand : 640 765 525 38 835 72 13 12 4 463 391 471 360 173 969 336 541 576 617 72 
+player 16 draws a 906 from deck 16
+player 16 discards a 640 to deck 17
+player 16 current hand : 765 525 38 835 72 13 12 4 463 391 471 360 173 969 336 541 576 617 72 906 
+player 16 draws a 425 from deck 16
+player 16 discards a 765 to deck 17
+player 16 current hand : 525 38 835 72 13 12 4 463 391 471 360 173 969 336 541 576 617 72 906 425 
+player 16 draws a 287 from deck 16
+player 16 discards a 525 to deck 17
+player 16 current hand : 38 835 72 13 12 4 463 391 471 360 173 969 336 541 576 617 72 906 425 287 
+player 16 draws a 981 from deck 16
+player 16 discards a 38 to deck 17
+player 16 current hand : 835 72 13 12 4 463 391 471 360 173 969 336 541 576 617 72 906 425 287 981 
+player 16 draws a 834 from deck 16
+player 16 discards a 835 to deck 17
+player 16 current hand : 72 13 12 4 463 391 471 360 173 969 336 541 576 617 72 906 425 287 981 834 
+player 16 draws a 844 from deck 16
+player 16 discards a 72 to deck 17
+player 16 current hand : 13 12 4 463 391 471 360 173 969 336 541 576 617 72 906 425 287 981 834 844 
+player 16 draws a 307 from deck 16
+player 16 discards a 13 to deck 17
+player 16 current hand : 12 4 463 391 471 360 173 969 336 541 576 617 72 906 425 287 981 834 844 307 
+player 16 draws a 617 from deck 16
+player 16 discards a 12 to deck 17
+player 16 current hand : 4 463 391 471 360 173 969 336 541 576 617 72 906 425 287 981 834 844 307 617 
+player 16 draws a 912 from deck 16
+player 16 discards a 4 to deck 17
+player 16 current hand : 463 391 471 360 173 969 336 541 576 617 72 906 425 287 981 834 844 307 617 912 
+player 16 draws a 649 from deck 16
+player 16 discards a 463 to deck 17
+player 16 current hand : 391 471 360 173 969 336 541 576 617 72 906 425 287 981 834 844 307 617 912 649 
+player 16 draws a 663 from deck 16
+player 16 discards a 391 to deck 17
+player 16 current hand : 471 360 173 969 336 541 576 617 72 906 425 287 981 834 844 307 617 912 649 663 
+player 16 draws a 816 from deck 16
+player 16 discards a 471 to deck 17
+player 16 current hand : 360 173 969 336 541 576 617 72 906 425 287 981 834 844 307 617 912 649 663 816 
+player 16 draws a 930 from deck 16
+player 16 discards a 360 to deck 17
+player 16 current hand : 173 969 336 541 576 617 72 906 425 287 981 834 844 307 617 912 649 663 816 930 
+player 16 draws a 44 from deck 16
+player 16 discards a 173 to deck 17
+player 16 current hand : 969 336 541 576 617 72 906 425 287 981 834 844 307 617 912 649 663 816 930 44 
+player 16 draws a 878 from deck 16
+player 16 discards a 969 to deck 17
+player 16 current hand : 336 541 576 617 72 906 425 287 981 834 844 307 617 912 649 663 816 930 44 878 
+player 16 draws a 144 from deck 16
+player 16 discards a 336 to deck 17
+player 16 current hand : 541 576 617 72 906 425 287 981 834 844 307 617 912 649 663 816 930 44 878 144 
+player 16 draws a 9 from deck 16
+player 16 discards a 541 to deck 17

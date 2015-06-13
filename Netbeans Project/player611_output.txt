@@ -1,0 +1,331 @@
+player 611 initial hand 736 63 516 219 814 645 499 631 773 128 494 599 328 15 319 209 686 425 65 933 
+player 611 draws a 986 from deck 611
+player 611 discards a 736 to deck 612
+player 611 current hand : 63 516 219 814 645 499 631 773 128 494 599 328 15 319 209 686 425 65 933 986 
+player 611 draws a 57 from deck 611
+player 611 discards a 63 to deck 612
+player 611 current hand : 516 219 814 645 499 631 773 128 494 599 328 15 319 209 686 425 65 933 986 57 
+player 611 draws a 820 from deck 611
+player 611 discards a 516 to deck 612
+player 611 current hand : 219 814 645 499 631 773 128 494 599 328 15 319 209 686 425 65 933 986 57 820 
+player 611 draws a 222 from deck 611
+player 611 discards a 219 to deck 612
+player 611 current hand : 814 645 499 631 773 128 494 599 328 15 319 209 686 425 65 933 986 57 820 222 
+player 611 draws a 481 from deck 611
+player 611 discards a 814 to deck 612
+player 611 current hand : 645 499 631 773 128 494 599 328 15 319 209 686 425 65 933 986 57 820 222 481 
+player 611 draws a 773 from deck 611
+player 611 discards a 645 to deck 612
+player 611 current hand : 499 631 773 128 494 599 328 15 319 209 686 425 65 933 986 57 820 222 481 773 
+player 611 draws a 248 from deck 611
+player 611 discards a 499 to deck 612
+player 611 current hand : 631 773 128 494 599 328 15 319 209 686 425 65 933 986 57 820 222 481 773 248 
+player 611 draws a 493 from deck 611
+player 611 discards a 631 to deck 612
+player 611 current hand : 773 128 494 599 328 15 319 209 686 425 65 933 986 57 820 222 481 773 248 493 
+player 611 draws a 384 from deck 611
+player 611 discards a 773 to deck 612
+player 611 current hand : 128 494 599 328 15 319 209 686 425 65 933 986 57 820 222 481 773 248 493 384 
+player 611 draws a 248 from deck 611
+player 611 discards a 128 to deck 612
+player 611 current hand : 494 599 328 15 319 209 686 425 65 933 986 57 820 222 481 773 248 493 384 248 
+player 611 draws a 572 from deck 611
+player 611 discards a 494 to deck 612
+player 611 current hand : 599 328 15 319 209 686 425 65 933 986 57 820 222 481 773 248 493 384 248 572 
+player 611 draws a 985 from deck 611
+player 611 discards a 599 to deck 612
+player 611 current hand : 328 15 319 209 686 425 65 933 986 57 820 222 481 773 248 493 384 248 572 985 
+player 611 draws a 545 from deck 611
+player 611 discards a 328 to deck 612
+player 611 current hand : 15 319 209 686 425 65 933 986 57 820 222 481 773 248 493 384 248 572 985 545 
+player 611 draws a 106 from deck 611
+player 611 discards a 15 to deck 612
+player 611 current hand : 319 209 686 425 65 933 986 57 820 222 481 773 248 493 384 248 572 985 545 106 
+player 611 draws a 435 from deck 611
+player 611 discards a 319 to deck 612
+player 611 current hand : 209 686 425 65 933 986 57 820 222 481 773 248 493 384 248 572 985 545 106 435 
+player 611 draws a 542 from deck 611
+player 611 discards a 209 to deck 612
+player 611 current hand : 686 425 65 933 986 57 820 222 481 773 248 493 384 248 572 985 545 106 435 542 
+player 611 draws a 481 from deck 611
+player 611 discards a 686 to deck 612
+player 611 current hand : 425 65 933 986 57 820 222 481 773 248 493 384 248 572 985 545 106 435 542 481 
+player 611 draws a 964 from deck 611
+player 611 discards a 425 to deck 612
+player 611 current hand : 65 933 986 57 820 222 481 773 248 493 384 248 572 985 545 106 435 542 481 964 
+player 611 draws a 7 from deck 611
+player 611 discards a 65 to deck 612
+player 611 current hand : 933 986 57 820 222 481 773 248 493 384 248 572 985 545 106 435 542 481 964 7 
+player 611 draws a 127 from deck 611
+player 611 discards a 933 to deck 612
+player 611 current hand : 986 57 820 222 481 773 248 493 384 248 572 985 545 106 435 542 481 964 7 127 
+player 611 draws a 513 from deck 611
+player 611 discards a 986 to deck 612
+player 611 current hand : 57 820 222 481 773 248 493 384 248 572 985 545 106 435 542 481 964 7 127 513 
+player 611 draws a 342 from deck 611
+player 611 discards a 57 to deck 612
+player 611 current hand : 820 222 481 773 248 493 384 248 572 985 545 106 435 542 481 964 7 127 513 342 
+player 611 draws a 731 from deck 611
+player 611 discards a 820 to deck 612
+player 611 current hand : 222 481 773 248 493 384 248 572 985 545 106 435 542 481 964 7 127 513 342 731 
+player 611 draws a 571 from deck 611
+player 611 discards a 222 to deck 612
+player 611 current hand : 481 773 248 493 384 248 572 985 545 106 435 542 481 964 7 127 513 342 731 571 
+player 611 draws a 809 from deck 611
+player 611 discards a 481 to deck 612
+player 611 current hand : 773 248 493 384 248 572 985 545 106 435 542 481 964 7 127 513 342 731 571 809 
+player 611 draws a 608 from deck 611
+player 611 discards a 773 to deck 612
+player 611 current hand : 248 493 384 248 572 985 545 106 435 542 481 964 7 127 513 342 731 571 809 608 
+player 611 draws a 900 from deck 611
+player 611 discards a 248 to deck 612
+player 611 current hand : 493 384 248 572 985 545 106 435 542 481 964 7 127 513 342 731 571 809 608 900 
+player 611 draws a 355 from deck 611
+player 611 discards a 493 to deck 612
+player 611 current hand : 384 248 572 985 545 106 435 542 481 964 7 127 513 342 731 571 809 608 900 355 
+player 611 draws a 187 from deck 611
+player 611 discards a 384 to deck 612
+player 611 current hand : 248 572 985 545 106 435 542 481 964 7 127 513 342 731 571 809 608 900 355 187 
+player 611 draws a 947 from deck 611
+player 611 discards a 248 to deck 612
+player 611 current hand : 572 985 545 106 435 542 481 964 7 127 513 342 731 571 809 608 900 355 187 947 
+player 611 draws a 165 from deck 611
+player 611 discards a 572 to deck 612
+player 611 current hand : 985 545 106 435 542 481 964 7 127 513 342 731 571 809 608 900 355 187 947 165 
+player 611 draws a 429 from deck 611
+player 611 discards a 985 to deck 612
+player 611 current hand : 545 106 435 542 481 964 7 127 513 342 731 571 809 608 900 355 187 947 165 429 
+player 611 draws a 999 from deck 611
+player 611 discards a 545 to deck 612
+player 611 current hand : 106 435 542 481 964 7 127 513 342 731 571 809 608 900 355 187 947 165 429 999 
+player 611 draws a 893 from deck 611
+player 611 discards a 106 to deck 612
+player 611 current hand : 435 542 481 964 7 127 513 342 731 571 809 608 900 355 187 947 165 429 999 893 
+player 611 draws a 31 from deck 611
+player 611 discards a 435 to deck 612
+player 611 current hand : 542 481 964 7 127 513 342 731 571 809 608 900 355 187 947 165 429 999 893 31 
+player 611 draws a 935 from deck 611
+player 611 discards a 542 to deck 612
+player 611 current hand : 481 964 7 127 513 342 731 571 809 608 900 355 187 947 165 429 999 893 31 935 
+player 611 draws a 407 from deck 611
+player 611 discards a 481 to deck 612
+player 611 current hand : 964 7 127 513 342 731 571 809 608 900 355 187 947 165 429 999 893 31 935 407 
+player 611 draws a 753 from deck 611
+player 611 discards a 964 to deck 612
+player 611 current hand : 7 127 513 342 731 571 809 608 900 355 187 947 165 429 999 893 31 935 407 753 
+player 611 draws a 645 from deck 611
+player 611 discards a 7 to deck 612
+player 611 current hand : 127 513 342 731 571 809 608 900 355 187 947 165 429 999 893 31 935 407 753 645 
+player 611 draws a 490 from deck 611
+player 611 discards a 127 to deck 612
+player 611 current hand : 513 342 731 571 809 608 900 355 187 947 165 429 999 893 31 935 407 753 645 490 
+player 611 draws a 499 from deck 611
+player 611 discards a 513 to deck 612
+player 611 current hand : 342 731 571 809 608 900 355 187 947 165 429 999 893 31 935 407 753 645 490 499 
+player 611 draws a 826 from deck 611
+player 611 discards a 342 to deck 612
+player 611 current hand : 731 571 809 608 900 355 187 947 165 429 999 893 31 935 407 753 645 490 499 826 
+player 611 draws a 152 from deck 611
+player 611 discards a 731 to deck 612
+player 611 current hand : 571 809 608 900 355 187 947 165 429 999 893 31 935 407 753 645 490 499 826 152 
+player 611 draws a 541 from deck 611
+player 611 discards a 571 to deck 612
+player 611 current hand : 809 608 900 355 187 947 165 429 999 893 31 935 407 753 645 490 499 826 152 541 
+player 611 draws a 705 from deck 611
+player 611 discards a 809 to deck 612
+player 611 current hand : 608 900 355 187 947 165 429 999 893 31 935 407 753 645 490 499 826 152 541 705 
+player 611 draws a 491 from deck 611
+player 611 discards a 608 to deck 612
+player 611 current hand : 900 355 187 947 165 429 999 893 31 935 407 753 645 490 499 826 152 541 705 491 
+player 611 draws a 555 from deck 611
+player 611 discards a 900 to deck 612
+player 611 current hand : 355 187 947 165 429 999 893 31 935 407 753 645 490 499 826 152 541 705 491 555 
+player 611 draws a 957 from deck 611
+player 611 discards a 355 to deck 612
+player 611 current hand : 187 947 165 429 999 893 31 935 407 753 645 490 499 826 152 541 705 491 555 957 
+player 611 draws a 255 from deck 611
+player 611 discards a 187 to deck 612
+player 611 current hand : 947 165 429 999 893 31 935 407 753 645 490 499 826 152 541 705 491 555 957 255 
+player 611 draws a 466 from deck 611
+player 611 discards a 947 to deck 612
+player 611 current hand : 165 429 999 893 31 935 407 753 645 490 499 826 152 541 705 491 555 957 255 466 
+player 611 draws a 416 from deck 611
+player 611 discards a 165 to deck 612
+player 611 current hand : 429 999 893 31 935 407 753 645 490 499 826 152 541 705 491 555 957 255 466 416 
+player 611 draws a 631 from deck 611
+player 611 discards a 429 to deck 612
+player 611 current hand : 999 893 31 935 407 753 645 490 499 826 152 541 705 491 555 957 255 466 416 631 
+player 611 draws a 868 from deck 611
+player 611 discards a 999 to deck 612
+player 611 current hand : 893 31 935 407 753 645 490 499 826 152 541 705 491 555 957 255 466 416 631 868 
+player 611 draws a 316 from deck 611
+player 611 discards a 893 to deck 612
+player 611 current hand : 31 935 407 753 645 490 499 826 152 541 705 491 555 957 255 466 416 631 868 316 
+player 611 draws a 173 from deck 611
+player 611 discards a 31 to deck 612
+player 611 current hand : 935 407 753 645 490 499 826 152 541 705 491 555 957 255 466 416 631 868 316 173 
+player 611 draws a 816 from deck 611
+player 611 discards a 935 to deck 612
+player 611 current hand : 407 753 645 490 499 826 152 541 705 491 555 957 255 466 416 631 868 316 173 816 
+player 611 draws a 661 from deck 611
+player 611 discards a 407 to deck 612
+player 611 current hand : 753 645 490 499 826 152 541 705 491 555 957 255 466 416 631 868 316 173 816 661 
+player 611 draws a 823 from deck 611
+player 611 discards a 753 to deck 612
+player 611 current hand : 645 490 499 826 152 541 705 491 555 957 255 466 416 631 868 316 173 816 661 823 
+player 611 draws a 200 from deck 611
+player 611 discards a 645 to deck 612
+player 611 current hand : 490 499 826 152 541 705 491 555 957 255 466 416 631 868 316 173 816 661 823 200 
+player 611 draws a 102 from deck 611
+player 611 discards a 490 to deck 612
+player 611 current hand : 499 826 152 541 705 491 555 957 255 466 416 631 868 316 173 816 661 823 200 102 
+player 611 draws a 581 from deck 611
+player 611 discards a 499 to deck 612
+player 611 current hand : 826 152 541 705 491 555 957 255 466 416 631 868 316 173 816 661 823 200 102 581 
+player 611 draws a 391 from deck 611
+player 611 discards a 826 to deck 612
+player 611 current hand : 152 541 705 491 555 957 255 466 416 631 868 316 173 816 661 823 200 102 581 391 
+player 611 draws a 655 from deck 611
+player 611 discards a 152 to deck 612
+player 611 current hand : 541 705 491 555 957 255 466 416 631 868 316 173 816 661 823 200 102 581 391 655 
+player 611 draws a 475 from deck 611
+player 611 discards a 541 to deck 612
+player 611 current hand : 705 491 555 957 255 466 416 631 868 316 173 816 661 823 200 102 581 391 655 475 
+player 611 draws a 968 from deck 611
+player 611 discards a 705 to deck 612
+player 611 current hand : 491 555 957 255 466 416 631 868 316 173 816 661 823 200 102 581 391 655 475 968 
+player 611 draws a 297 from deck 611
+player 611 discards a 491 to deck 612
+player 611 current hand : 555 957 255 466 416 631 868 316 173 816 661 823 200 102 581 391 655 475 968 297 
+player 611 draws a 817 from deck 611
+player 611 discards a 555 to deck 612
+player 611 current hand : 957 255 466 416 631 868 316 173 816 661 823 200 102 581 391 655 475 968 297 817 
+player 611 draws a 860 from deck 611
+player 611 discards a 957 to deck 612
+player 611 current hand : 255 466 416 631 868 316 173 816 661 823 200 102 581 391 655 475 968 297 817 860 
+player 611 draws a 143 from deck 611
+player 611 discards a 255 to deck 612
+player 611 current hand : 466 416 631 868 316 173 816 661 823 200 102 581 391 655 475 968 297 817 860 143 
+player 611 draws a 762 from deck 611
+player 611 discards a 466 to deck 612
+player 611 current hand : 416 631 868 316 173 816 661 823 200 102 581 391 655 475 968 297 817 860 143 762 
+player 611 draws a 549 from deck 611
+player 611 discards a 416 to deck 612
+player 611 current hand : 631 868 316 173 816 661 823 200 102 581 391 655 475 968 297 817 860 143 762 549 
+player 611 draws a 500 from deck 611
+player 611 discards a 631 to deck 612
+player 611 current hand : 868 316 173 816 661 823 200 102 581 391 655 475 968 297 817 860 143 762 549 500 
+player 611 draws a 654 from deck 611
+player 611 discards a 868 to deck 612
+player 611 current hand : 316 173 816 661 823 200 102 581 391 655 475 968 297 817 860 143 762 549 500 654 
+player 611 draws a 367 from deck 611
+player 611 discards a 316 to deck 612
+player 611 current hand : 173 816 661 823 200 102 581 391 655 475 968 297 817 860 143 762 549 500 654 367 
+player 611 draws a 247 from deck 611
+player 611 discards a 173 to deck 612
+player 611 current hand : 816 661 823 200 102 581 391 655 475 968 297 817 860 143 762 549 500 654 367 247 
+player 611 draws a 714 from deck 611
+player 611 discards a 816 to deck 612
+player 611 current hand : 661 823 200 102 581 391 655 475 968 297 817 860 143 762 549 500 654 367 247 714 
+player 611 draws a 513 from deck 611
+player 611 discards a 661 to deck 612
+player 611 current hand : 823 200 102 581 391 655 475 968 297 817 860 143 762 549 500 654 367 247 714 513 
+player 611 draws a 736 from deck 611
+player 611 discards a 823 to deck 612
+player 611 current hand : 200 102 581 391 655 475 968 297 817 860 143 762 549 500 654 367 247 714 513 736 
+player 611 draws a 452 from deck 611
+player 611 discards a 200 to deck 612
+player 611 current hand : 102 581 391 655 475 968 297 817 860 143 762 549 500 654 367 247 714 513 736 452 
+player 611 draws a 112 from deck 611
+player 611 discards a 102 to deck 612
+player 611 current hand : 581 391 655 475 968 297 817 860 143 762 549 500 654 367 247 714 513 736 452 112 
+player 611 draws a 527 from deck 611
+player 611 discards a 581 to deck 612
+player 611 current hand : 391 655 475 968 297 817 860 143 762 549 500 654 367 247 714 513 736 452 112 527 
+player 611 draws a 754 from deck 611
+player 611 discards a 391 to deck 612
+player 611 current hand : 655 475 968 297 817 860 143 762 549 500 654 367 247 714 513 736 452 112 527 754 
+player 611 draws a 137 from deck 611
+player 611 discards a 655 to deck 612
+player 611 current hand : 475 968 297 817 860 143 762 549 500 654 367 247 714 513 736 452 112 527 754 137 
+player 611 draws a 91 from deck 611
+player 611 discards a 475 to deck 612
+player 611 current hand : 968 297 817 860 143 762 549 500 654 367 247 714 513 736 452 112 527 754 137 91 
+player 611 draws a 981 from deck 611
+player 611 discards a 968 to deck 612
+player 611 current hand : 297 817 860 143 762 549 500 654 367 247 714 513 736 452 112 527 754 137 91 981 
+player 611 draws a 765 from deck 611
+player 611 discards a 297 to deck 612
+player 611 current hand : 817 860 143 762 549 500 654 367 247 714 513 736 452 112 527 754 137 91 981 765 
+player 611 draws a 664 from deck 611
+player 611 discards a 817 to deck 612
+player 611 current hand : 860 143 762 549 500 654 367 247 714 513 736 452 112 527 754 137 91 981 765 664 
+player 611 draws a 915 from deck 611
+player 611 discards a 860 to deck 612
+player 611 current hand : 143 762 549 500 654 367 247 714 513 736 452 112 527 754 137 91 981 765 664 915 
+player 611 draws a 317 from deck 611
+player 611 discards a 143 to deck 612
+player 611 current hand : 762 549 500 654 367 247 714 513 736 452 112 527 754 137 91 981 765 664 915 317 
+player 611 draws a 985 from deck 611
+player 611 discards a 762 to deck 612
+player 611 current hand : 549 500 654 367 247 714 513 736 452 112 527 754 137 91 981 765 664 915 317 985 
+player 611 draws a 947 from deck 611
+player 611 discards a 549 to deck 612
+player 611 current hand : 500 654 367 247 714 513 736 452 112 527 754 137 91 981 765 664 915 317 985 947 
+player 611 draws a 805 from deck 611
+player 611 discards a 500 to deck 612
+player 611 current hand : 654 367 247 714 513 736 452 112 527 754 137 91 981 765 664 915 317 985 947 805 
+player 611 draws a 681 from deck 611
+player 611 discards a 654 to deck 612
+player 611 current hand : 367 247 714 513 736 452 112 527 754 137 91 981 765 664 915 317 985 947 805 681 
+player 611 draws a 252 from deck 611
+player 611 discards a 367 to deck 612
+player 611 current hand : 247 714 513 736 452 112 527 754 137 91 981 765 664 915 317 985 947 805 681 252 
+player 611 draws a 837 from deck 611
+player 611 discards a 247 to deck 612
+player 611 current hand : 714 513 736 452 112 527 754 137 91 981 765 664 915 317 985 947 805 681 252 837 
+player 611 draws a 583 from deck 611
+player 611 discards a 714 to deck 612
+player 611 current hand : 513 736 452 112 527 754 137 91 981 765 664 915 317 985 947 805 681 252 837 583 
+player 611 draws a 219 from deck 611
+player 611 discards a 513 to deck 612
+player 611 current hand : 736 452 112 527 754 137 91 981 765 664 915 317 985 947 805 681 252 837 583 219 
+player 611 draws a 117 from deck 611
+player 611 discards a 736 to deck 612
+player 611 current hand : 452 112 527 754 137 91 981 765 664 915 317 985 947 805 681 252 837 583 219 117 
+player 611 draws a 223 from deck 611
+player 611 discards a 452 to deck 612
+player 611 current hand : 112 527 754 137 91 981 765 664 915 317 985 947 805 681 252 837 583 219 117 223 
+player 611 draws a 93 from deck 611
+player 611 discards a 112 to deck 612
+player 611 current hand : 527 754 137 91 981 765 664 915 317 985 947 805 681 252 837 583 219 117 223 93 
+player 611 draws a 860 from deck 611
+player 611 discards a 527 to deck 612
+player 611 current hand : 754 137 91 981 765 664 915 317 985 947 805 681 252 837 583 219 117 223 93 860 
+player 611 draws a 826 from deck 611
+player 611 discards a 754 to deck 612
+player 611 current hand : 137 91 981 765 664 915 317 985 947 805 681 252 837 583 219 117 223 93 860 826 
+player 611 draws a 440 from deck 611
+player 611 discards a 137 to deck 612
+player 611 current hand : 91 981 765 664 915 317 985 947 805 681 252 837 583 219 117 223 93 860 826 440 
+player 611 draws a 559 from deck 611
+player 611 discards a 91 to deck 612
+player 611 current hand : 981 765 664 915 317 985 947 805 681 252 837 583 219 117 223 93 860 826 440 559 
+player 611 draws a 240 from deck 611
+player 611 discards a 981 to deck 612
+player 611 current hand : 765 664 915 317 985 947 805 681 252 837 583 219 117 223 93 860 826 440 559 240 
+player 611 draws a 22 from deck 611
+player 611 discards a 765 to deck 612
+player 611 current hand : 664 915 317 985 947 805 681 252 837 583 219 117 223 93 860 826 440 559 240 22 
+player 611 draws a 796 from deck 611
+player 611 discards a 664 to deck 612
+player 611 current hand : 915 317 985 947 805 681 252 837 583 219 117 223 93 860 826 440 559 240 22 796 
+player 611 draws a 74 from deck 611
+player 611 discards a 915 to deck 612
+player 611 current hand : 317 985 947 805 681 252 837 583 219 117 223 93 860 826 440 559 240 22 796 74 
+player 611 draws a 507 from deck 611
+player 611 discards a 317 to deck 612
+player 611 current hand : 985 947 805 681 252 837 583 219 117 223 93 860 826 440 559 240 22 796 74 507 
+player 611 draws a 475 from deck 611
+player 611 discards a 985 to deck 612
+player 611 current hand : 947 805 681 252 837 583 219 117 223 93 860 826 440 559 240 22 796 74 507 475 

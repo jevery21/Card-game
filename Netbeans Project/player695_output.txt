@@ -1,0 +1,331 @@
+player 695 initial hand 822 737 826 554 321 157 365 51 262 338 571 844 958 577 724 880 969 647 635 818 
+player 695 draws a 115 from deck 695
+player 695 discards a 822 to deck 696
+player 695 current hand : 737 826 554 321 157 365 51 262 338 571 844 958 577 724 880 969 647 635 818 115 
+player 695 draws a 583 from deck 695
+player 695 discards a 737 to deck 696
+player 695 current hand : 826 554 321 157 365 51 262 338 571 844 958 577 724 880 969 647 635 818 115 583 
+player 695 draws a 691 from deck 695
+player 695 discards a 826 to deck 696
+player 695 current hand : 554 321 157 365 51 262 338 571 844 958 577 724 880 969 647 635 818 115 583 691 
+player 695 draws a 4 from deck 695
+player 695 discards a 554 to deck 696
+player 695 current hand : 321 157 365 51 262 338 571 844 958 577 724 880 969 647 635 818 115 583 691 4 
+player 695 draws a 542 from deck 695
+player 695 discards a 321 to deck 696
+player 695 current hand : 157 365 51 262 338 571 844 958 577 724 880 969 647 635 818 115 583 691 4 542 
+player 695 draws a 654 from deck 695
+player 695 discards a 157 to deck 696
+player 695 current hand : 365 51 262 338 571 844 958 577 724 880 969 647 635 818 115 583 691 4 542 654 
+player 695 draws a 296 from deck 695
+player 695 discards a 365 to deck 696
+player 695 current hand : 51 262 338 571 844 958 577 724 880 969 647 635 818 115 583 691 4 542 654 296 
+player 695 draws a 646 from deck 695
+player 695 discards a 51 to deck 696
+player 695 current hand : 262 338 571 844 958 577 724 880 969 647 635 818 115 583 691 4 542 654 296 646 
+player 695 draws a 773 from deck 695
+player 695 discards a 262 to deck 696
+player 695 current hand : 338 571 844 958 577 724 880 969 647 635 818 115 583 691 4 542 654 296 646 773 
+player 695 draws a 127 from deck 695
+player 695 discards a 338 to deck 696
+player 695 current hand : 571 844 958 577 724 880 969 647 635 818 115 583 691 4 542 654 296 646 773 127 
+player 695 draws a 695 from deck 695
+player 695 discards a 571 to deck 696
+player 695 current hand : 844 958 577 724 880 969 647 635 818 115 583 691 4 542 654 296 646 773 127 695 
+player 695 draws a 269 from deck 695
+player 695 discards a 844 to deck 696
+player 695 current hand : 958 577 724 880 969 647 635 818 115 583 691 4 542 654 296 646 773 127 695 269 
+player 695 draws a 757 from deck 695
+player 695 discards a 958 to deck 696
+player 695 current hand : 577 724 880 969 647 635 818 115 583 691 4 542 654 296 646 773 127 695 269 757 
+player 695 draws a 86 from deck 695
+player 695 discards a 577 to deck 696
+player 695 current hand : 724 880 969 647 635 818 115 583 691 4 542 654 296 646 773 127 695 269 757 86 
+player 695 draws a 868 from deck 695
+player 695 discards a 724 to deck 696
+player 695 current hand : 880 969 647 635 818 115 583 691 4 542 654 296 646 773 127 695 269 757 86 868 
+player 695 draws a 430 from deck 695
+player 695 discards a 880 to deck 696
+player 695 current hand : 969 647 635 818 115 583 691 4 542 654 296 646 773 127 695 269 757 86 868 430 
+player 695 draws a 65 from deck 695
+player 695 discards a 969 to deck 696
+player 695 current hand : 647 635 818 115 583 691 4 542 654 296 646 773 127 695 269 757 86 868 430 65 
+player 695 draws a 960 from deck 695
+player 695 discards a 647 to deck 696
+player 695 current hand : 635 818 115 583 691 4 542 654 296 646 773 127 695 269 757 86 868 430 65 960 
+player 695 draws a 402 from deck 695
+player 695 discards a 635 to deck 696
+player 695 current hand : 818 115 583 691 4 542 654 296 646 773 127 695 269 757 86 868 430 65 960 402 
+player 695 draws a 173 from deck 695
+player 695 discards a 818 to deck 696
+player 695 current hand : 115 583 691 4 542 654 296 646 773 127 695 269 757 86 868 430 65 960 402 173 
+player 695 draws a 442 from deck 695
+player 695 discards a 115 to deck 696
+player 695 current hand : 583 691 4 542 654 296 646 773 127 695 269 757 86 868 430 65 960 402 173 442 
+player 695 draws a 939 from deck 695
+player 695 discards a 583 to deck 696
+player 695 current hand : 691 4 542 654 296 646 773 127 695 269 757 86 868 430 65 960 402 173 442 939 
+player 695 draws a 98 from deck 695
+player 695 discards a 691 to deck 696
+player 695 current hand : 4 542 654 296 646 773 127 695 269 757 86 868 430 65 960 402 173 442 939 98 
+player 695 draws a 351 from deck 695
+player 695 discards a 4 to deck 696
+player 695 current hand : 542 654 296 646 773 127 695 269 757 86 868 430 65 960 402 173 442 939 98 351 
+player 695 draws a 637 from deck 695
+player 695 discards a 542 to deck 696
+player 695 current hand : 654 296 646 773 127 695 269 757 86 868 430 65 960 402 173 442 939 98 351 637 
+player 695 draws a 385 from deck 695
+player 695 discards a 654 to deck 696
+player 695 current hand : 296 646 773 127 695 269 757 86 868 430 65 960 402 173 442 939 98 351 637 385 
+player 695 draws a 776 from deck 695
+player 695 discards a 296 to deck 696
+player 695 current hand : 646 773 127 695 269 757 86 868 430 65 960 402 173 442 939 98 351 637 385 776 
+player 695 draws a 632 from deck 695
+player 695 discards a 646 to deck 696
+player 695 current hand : 773 127 695 269 757 86 868 430 65 960 402 173 442 939 98 351 637 385 776 632 
+player 695 draws a 926 from deck 695
+player 695 discards a 773 to deck 696
+player 695 current hand : 127 695 269 757 86 868 430 65 960 402 173 442 939 98 351 637 385 776 632 926 
+player 695 draws a 512 from deck 695
+player 695 discards a 127 to deck 696
+player 695 current hand : 695 269 757 86 868 430 65 960 402 173 442 939 98 351 637 385 776 632 926 512 
+player 695 draws a 546 from deck 695
+player 695 discards a 269 to deck 696
+player 695 current hand : 695 757 86 868 430 65 960 402 173 442 939 98 351 637 385 776 632 926 512 546 
+player 695 draws a 27 from deck 695
+player 695 discards a 757 to deck 696
+player 695 current hand : 695 86 868 430 65 960 402 173 442 939 98 351 637 385 776 632 926 512 546 27 
+player 695 draws a 498 from deck 695
+player 695 discards a 86 to deck 696
+player 695 current hand : 695 868 430 65 960 402 173 442 939 98 351 637 385 776 632 926 512 546 27 498 
+player 695 draws a 668 from deck 695
+player 695 discards a 868 to deck 696
+player 695 current hand : 695 430 65 960 402 173 442 939 98 351 637 385 776 632 926 512 546 27 498 668 
+player 695 draws a 375 from deck 695
+player 695 discards a 430 to deck 696
+player 695 current hand : 695 65 960 402 173 442 939 98 351 637 385 776 632 926 512 546 27 498 668 375 
+player 695 draws a 938 from deck 695
+player 695 discards a 65 to deck 696
+player 695 current hand : 695 960 402 173 442 939 98 351 637 385 776 632 926 512 546 27 498 668 375 938 
+player 695 draws a 575 from deck 695
+player 695 discards a 960 to deck 696
+player 695 current hand : 695 402 173 442 939 98 351 637 385 776 632 926 512 546 27 498 668 375 938 575 
+player 695 draws a 115 from deck 695
+player 695 discards a 402 to deck 696
+player 695 current hand : 695 173 442 939 98 351 637 385 776 632 926 512 546 27 498 668 375 938 575 115 
+player 695 draws a 631 from deck 695
+player 695 discards a 173 to deck 696
+player 695 current hand : 695 442 939 98 351 637 385 776 632 926 512 546 27 498 668 375 938 575 115 631 
+player 695 draws a 173 from deck 695
+player 695 discards a 442 to deck 696
+player 695 current hand : 695 939 98 351 637 385 776 632 926 512 546 27 498 668 375 938 575 115 631 173 
+player 695 draws a 393 from deck 695
+player 695 discards a 939 to deck 696
+player 695 current hand : 695 98 351 637 385 776 632 926 512 546 27 498 668 375 938 575 115 631 173 393 
+player 695 draws a 1 from deck 695
+player 695 discards a 98 to deck 696
+player 695 current hand : 695 351 637 385 776 632 926 512 546 27 498 668 375 938 575 115 631 173 393 1 
+player 695 draws a 917 from deck 695
+player 695 discards a 351 to deck 696
+player 695 current hand : 695 637 385 776 632 926 512 546 27 498 668 375 938 575 115 631 173 393 1 917 
+player 695 draws a 393 from deck 695
+player 695 discards a 637 to deck 696
+player 695 current hand : 695 385 776 632 926 512 546 27 498 668 375 938 575 115 631 173 393 1 917 393 
+player 695 draws a 258 from deck 695
+player 695 discards a 385 to deck 696
+player 695 current hand : 695 776 632 926 512 546 27 498 668 375 938 575 115 631 173 393 1 917 393 258 
+player 695 draws a 581 from deck 695
+player 695 discards a 776 to deck 696
+player 695 current hand : 695 632 926 512 546 27 498 668 375 938 575 115 631 173 393 1 917 393 258 581 
+player 695 draws a 197 from deck 695
+player 695 discards a 632 to deck 696
+player 695 current hand : 695 926 512 546 27 498 668 375 938 575 115 631 173 393 1 917 393 258 581 197 
+player 695 draws a 239 from deck 695
+player 695 discards a 926 to deck 696
+player 695 current hand : 695 512 546 27 498 668 375 938 575 115 631 173 393 1 917 393 258 581 197 239 
+player 695 draws a 598 from deck 695
+player 695 discards a 512 to deck 696
+player 695 current hand : 695 546 27 498 668 375 938 575 115 631 173 393 1 917 393 258 581 197 239 598 
+player 695 draws a 781 from deck 695
+player 695 discards a 546 to deck 696
+player 695 current hand : 695 27 498 668 375 938 575 115 631 173 393 1 917 393 258 581 197 239 598 781 
+player 695 draws a 581 from deck 695
+player 695 discards a 27 to deck 696
+player 695 current hand : 695 498 668 375 938 575 115 631 173 393 1 917 393 258 581 197 239 598 781 581 
+player 695 draws a 332 from deck 695
+player 695 discards a 498 to deck 696
+player 695 current hand : 695 668 375 938 575 115 631 173 393 1 917 393 258 581 197 239 598 781 581 332 
+player 695 draws a 530 from deck 695
+player 695 discards a 668 to deck 696
+player 695 current hand : 695 375 938 575 115 631 173 393 1 917 393 258 581 197 239 598 781 581 332 530 
+player 695 draws a 729 from deck 695
+player 695 discards a 375 to deck 696
+player 695 current hand : 695 938 575 115 631 173 393 1 917 393 258 581 197 239 598 781 581 332 530 729 
+player 695 draws a 182 from deck 695
+player 695 discards a 938 to deck 696
+player 695 current hand : 695 575 115 631 173 393 1 917 393 258 581 197 239 598 781 581 332 530 729 182 
+player 695 draws a 509 from deck 695
+player 695 discards a 575 to deck 696
+player 695 current hand : 695 115 631 173 393 1 917 393 258 581 197 239 598 781 581 332 530 729 182 509 
+player 695 draws a 317 from deck 695
+player 695 discards a 115 to deck 696
+player 695 current hand : 695 631 173 393 1 917 393 258 581 197 239 598 781 581 332 530 729 182 509 317 
+player 695 draws a 860 from deck 695
+player 695 discards a 631 to deck 696
+player 695 current hand : 695 173 393 1 917 393 258 581 197 239 598 781 581 332 530 729 182 509 317 860 
+player 695 draws a 44 from deck 695
+player 695 discards a 173 to deck 696
+player 695 current hand : 695 393 1 917 393 258 581 197 239 598 781 581 332 530 729 182 509 317 860 44 
+player 695 draws a 808 from deck 695
+player 695 discards a 393 to deck 696
+player 695 current hand : 695 1 917 393 258 581 197 239 598 781 581 332 530 729 182 509 317 860 44 808 
+player 695 draws a 144 from deck 695
+player 695 discards a 1 to deck 696
+player 695 current hand : 695 917 393 258 581 197 239 598 781 581 332 530 729 182 509 317 860 44 808 144 
+player 695 draws a 757 from deck 695
+player 695 discards a 917 to deck 696
+player 695 current hand : 695 393 258 581 197 239 598 781 581 332 530 729 182 509 317 860 44 808 144 757 
+player 695 draws a 490 from deck 695
+player 695 discards a 393 to deck 696
+player 695 current hand : 695 258 581 197 239 598 781 581 332 530 729 182 509 317 860 44 808 144 757 490 
+player 695 draws a 805 from deck 695
+player 695 discards a 258 to deck 696
+player 695 current hand : 695 581 197 239 598 781 581 332 530 729 182 509 317 860 44 808 144 757 490 805 
+player 695 draws a 407 from deck 695
+player 695 discards a 581 to deck 696
+player 695 current hand : 695 197 239 598 781 581 332 530 729 182 509 317 860 44 808 144 757 490 805 407 
+player 695 draws a 485 from deck 695
+player 695 discards a 197 to deck 696
+player 695 current hand : 695 239 598 781 581 332 530 729 182 509 317 860 44 808 144 757 490 805 407 485 
+player 695 draws a 86 from deck 695
+player 695 discards a 239 to deck 696
+player 695 current hand : 695 598 781 581 332 530 729 182 509 317 860 44 808 144 757 490 805 407 485 86 
+player 695 draws a 222 from deck 695
+player 695 discards a 598 to deck 696
+player 695 current hand : 695 781 581 332 530 729 182 509 317 860 44 808 144 757 490 805 407 485 86 222 
+player 695 draws a 377 from deck 695
+player 695 discards a 781 to deck 696
+player 695 current hand : 695 581 332 530 729 182 509 317 860 44 808 144 757 490 805 407 485 86 222 377 
+player 695 draws a 201 from deck 695
+player 695 discards a 581 to deck 696
+player 695 current hand : 695 332 530 729 182 509 317 860 44 808 144 757 490 805 407 485 86 222 377 201 
+player 695 draws a 816 from deck 695
+player 695 discards a 332 to deck 696
+player 695 current hand : 695 530 729 182 509 317 860 44 808 144 757 490 805 407 485 86 222 377 201 816 
+player 695 draws a 787 from deck 695
+player 695 discards a 530 to deck 696
+player 695 current hand : 695 729 182 509 317 860 44 808 144 757 490 805 407 485 86 222 377 201 816 787 
+player 695 draws a 944 from deck 695
+player 695 discards a 729 to deck 696
+player 695 current hand : 695 182 509 317 860 44 808 144 757 490 805 407 485 86 222 377 201 816 787 944 
+player 695 draws a 578 from deck 695
+player 695 discards a 182 to deck 696
+player 695 current hand : 695 509 317 860 44 808 144 757 490 805 407 485 86 222 377 201 816 787 944 578 
+player 695 draws a 412 from deck 695
+player 695 discards a 509 to deck 696
+player 695 current hand : 695 317 860 44 808 144 757 490 805 407 485 86 222 377 201 816 787 944 578 412 
+player 695 draws a 537 from deck 695
+player 695 discards a 317 to deck 696
+player 695 current hand : 695 860 44 808 144 757 490 805 407 485 86 222 377 201 816 787 944 578 412 537 
+player 695 draws a 734 from deck 695
+player 695 discards a 860 to deck 696
+player 695 current hand : 695 44 808 144 757 490 805 407 485 86 222 377 201 816 787 944 578 412 537 734 
+player 695 draws a 80 from deck 695
+player 695 discards a 44 to deck 696
+player 695 current hand : 695 808 144 757 490 805 407 485 86 222 377 201 816 787 944 578 412 537 734 80 
+player 695 draws a 729 from deck 695
+player 695 discards a 808 to deck 696
+player 695 current hand : 695 144 757 490 805 407 485 86 222 377 201 816 787 944 578 412 537 734 80 729 
+player 695 draws a 52 from deck 695
+player 695 discards a 144 to deck 696
+player 695 current hand : 695 757 490 805 407 485 86 222 377 201 816 787 944 578 412 537 734 80 729 52 
+player 695 draws a 510 from deck 695
+player 695 discards a 757 to deck 696
+player 695 current hand : 695 490 805 407 485 86 222 377 201 816 787 944 578 412 537 734 80 729 52 510 
+player 695 draws a 50 from deck 695
+player 695 discards a 490 to deck 696
+player 695 current hand : 695 805 407 485 86 222 377 201 816 787 944 578 412 537 734 80 729 52 510 50 
+player 695 draws a 98 from deck 695
+player 695 discards a 805 to deck 696
+player 695 current hand : 695 407 485 86 222 377 201 816 787 944 578 412 537 734 80 729 52 510 50 98 
+player 695 draws a 92 from deck 695
+player 695 discards a 407 to deck 696
+player 695 current hand : 695 485 86 222 377 201 816 787 944 578 412 537 734 80 729 52 510 50 98 92 
+player 695 draws a 566 from deck 695
+player 695 discards a 485 to deck 696
+player 695 current hand : 695 86 222 377 201 816 787 944 578 412 537 734 80 729 52 510 50 98 92 566 
+player 695 draws a 542 from deck 695
+player 695 discards a 86 to deck 696
+player 695 current hand : 695 222 377 201 816 787 944 578 412 537 734 80 729 52 510 50 98 92 566 542 
+player 695 draws a 300 from deck 695
+player 695 discards a 222 to deck 696
+player 695 current hand : 695 377 201 816 787 944 578 412 537 734 80 729 52 510 50 98 92 566 542 300 
+player 695 draws a 916 from deck 695
+player 695 discards a 377 to deck 696
+player 695 current hand : 695 201 816 787 944 578 412 537 734 80 729 52 510 50 98 92 566 542 300 916 
+player 695 draws a 215 from deck 695
+player 695 discards a 201 to deck 696
+player 695 current hand : 695 816 787 944 578 412 537 734 80 729 52 510 50 98 92 566 542 300 916 215 
+player 695 draws a 490 from deck 695
+player 695 discards a 816 to deck 696
+player 695 current hand : 695 787 944 578 412 537 734 80 729 52 510 50 98 92 566 542 300 916 215 490 
+player 695 draws a 653 from deck 695
+player 695 discards a 787 to deck 696
+player 695 current hand : 695 944 578 412 537 734 80 729 52 510 50 98 92 566 542 300 916 215 490 653 
+player 695 draws a 200 from deck 695
+player 695 discards a 944 to deck 696
+player 695 current hand : 695 578 412 537 734 80 729 52 510 50 98 92 566 542 300 916 215 490 653 200 
+player 695 draws a 480 from deck 695
+player 695 discards a 578 to deck 696
+player 695 current hand : 695 412 537 734 80 729 52 510 50 98 92 566 542 300 916 215 490 653 200 480 
+player 695 draws a 584 from deck 695
+player 695 discards a 412 to deck 696
+player 695 current hand : 695 537 734 80 729 52 510 50 98 92 566 542 300 916 215 490 653 200 480 584 
+player 695 draws a 706 from deck 695
+player 695 discards a 537 to deck 696
+player 695 current hand : 695 734 80 729 52 510 50 98 92 566 542 300 916 215 490 653 200 480 584 706 
+player 695 draws a 690 from deck 695
+player 695 discards a 734 to deck 696
+player 695 current hand : 695 80 729 52 510 50 98 92 566 542 300 916 215 490 653 200 480 584 706 690 
+player 695 draws a 778 from deck 695
+player 695 discards a 80 to deck 696
+player 695 current hand : 695 729 52 510 50 98 92 566 542 300 916 215 490 653 200 480 584 706 690 778 
+player 695 draws a 814 from deck 695
+player 695 discards a 729 to deck 696
+player 695 current hand : 695 52 510 50 98 92 566 542 300 916 215 490 653 200 480 584 706 690 778 814 
+player 695 draws a 373 from deck 695
+player 695 discards a 52 to deck 696
+player 695 current hand : 695 510 50 98 92 566 542 300 916 215 490 653 200 480 584 706 690 778 814 373 
+player 695 draws a 952 from deck 695
+player 695 discards a 510 to deck 696
+player 695 current hand : 695 50 98 92 566 542 300 916 215 490 653 200 480 584 706 690 778 814 373 952 
+player 695 draws a 464 from deck 695
+player 695 discards a 50 to deck 696
+player 695 current hand : 695 98 92 566 542 300 916 215 490 653 200 480 584 706 690 778 814 373 952 464 
+player 695 draws a 170 from deck 695
+player 695 discards a 98 to deck 696
+player 695 current hand : 695 92 566 542 300 916 215 490 653 200 480 584 706 690 778 814 373 952 464 170 
+player 695 draws a 349 from deck 695
+player 695 discards a 92 to deck 696
+player 695 current hand : 695 566 542 300 916 215 490 653 200 480 584 706 690 778 814 373 952 464 170 349 
+player 695 draws a 11 from deck 695
+player 695 discards a 566 to deck 696
+player 695 current hand : 695 542 300 916 215 490 653 200 480 584 706 690 778 814 373 952 464 170 349 11 
+player 695 draws a 783 from deck 695
+player 695 discards a 542 to deck 696
+player 695 current hand : 695 300 916 215 490 653 200 480 584 706 690 778 814 373 952 464 170 349 11 783 
+player 695 draws a 119 from deck 695
+player 695 discards a 300 to deck 696
+player 695 current hand : 695 916 215 490 653 200 480 584 706 690 778 814 373 952 464 170 349 11 783 119 
+player 695 draws a 605 from deck 695
+player 695 discards a 916 to deck 696
+player 695 current hand : 695 215 490 653 200 480 584 706 690 778 814 373 952 464 170 349 11 783 119 605 
+player 695 draws a 135 from deck 695
+player 695 discards a 215 to deck 696
+player 695 current hand : 695 490 653 200 480 584 706 690 778 814 373 952 464 170 349 11 783 119 605 135 
+player 695 draws a 885 from deck 695
+player 695 discards a 490 to deck 696
+player 695 current hand : 695 653 200 480 584 706 690 778 814 373 952 464 170 349 11 783 119 605 135 885 
+player 695 draws a 232 from deck 695
+player 695 discards a 653 to deck 696
+player 695 current hand : 695 200 480 584 706 690 778 814 373 952 464 170 349 11 783 119 605 135 885 232 

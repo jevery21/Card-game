@@ -1,0 +1,316 @@
+player 332 initial hand 740 830 886 691 608 653 141 868 37 669 764 392 589 787 682 105 511 466 287 117 
+player 332 draws a 660 from deck 332
+player 332 discards a 740 to deck 333
+player 332 current hand : 830 886 691 608 653 141 868 37 669 764 392 589 787 682 105 511 466 287 117 660 
+player 332 draws a 298 from deck 332
+player 332 discards a 830 to deck 333
+player 332 current hand : 886 691 608 653 141 868 37 669 764 392 589 787 682 105 511 466 287 117 660 298 
+player 332 draws a 385 from deck 332
+player 332 discards a 886 to deck 333
+player 332 current hand : 691 608 653 141 868 37 669 764 392 589 787 682 105 511 466 287 117 660 298 385 
+player 332 draws a 527 from deck 332
+player 332 discards a 691 to deck 333
+player 332 current hand : 608 653 141 868 37 669 764 392 589 787 682 105 511 466 287 117 660 298 385 527 
+player 332 draws a 609 from deck 332
+player 332 discards a 608 to deck 333
+player 332 current hand : 653 141 868 37 669 764 392 589 787 682 105 511 466 287 117 660 298 385 527 609 
+player 332 draws a 819 from deck 332
+player 332 discards a 653 to deck 333
+player 332 current hand : 141 868 37 669 764 392 589 787 682 105 511 466 287 117 660 298 385 527 609 819 
+player 332 draws a 508 from deck 332
+player 332 discards a 141 to deck 333
+player 332 current hand : 868 37 669 764 392 589 787 682 105 511 466 287 117 660 298 385 527 609 819 508 
+player 332 draws a 685 from deck 332
+player 332 discards a 868 to deck 333
+player 332 current hand : 37 669 764 392 589 787 682 105 511 466 287 117 660 298 385 527 609 819 508 685 
+player 332 draws a 512 from deck 332
+player 332 discards a 37 to deck 333
+player 332 current hand : 669 764 392 589 787 682 105 511 466 287 117 660 298 385 527 609 819 508 685 512 
+player 332 draws a 24 from deck 332
+player 332 discards a 669 to deck 333
+player 332 current hand : 764 392 589 787 682 105 511 466 287 117 660 298 385 527 609 819 508 685 512 24 
+player 332 draws a 152 from deck 332
+player 332 discards a 764 to deck 333
+player 332 current hand : 392 589 787 682 105 511 466 287 117 660 298 385 527 609 819 508 685 512 24 152 
+player 332 draws a 159 from deck 332
+player 332 discards a 392 to deck 333
+player 332 current hand : 589 787 682 105 511 466 287 117 660 298 385 527 609 819 508 685 512 24 152 159 
+player 332 draws a 20 from deck 332
+player 332 discards a 589 to deck 333
+player 332 current hand : 787 682 105 511 466 287 117 660 298 385 527 609 819 508 685 512 24 152 159 20 
+player 332 draws a 862 from deck 332
+player 332 discards a 787 to deck 333
+player 332 current hand : 682 105 511 466 287 117 660 298 385 527 609 819 508 685 512 24 152 159 20 862 
+player 332 draws a 834 from deck 332
+player 332 discards a 682 to deck 333
+player 332 current hand : 105 511 466 287 117 660 298 385 527 609 819 508 685 512 24 152 159 20 862 834 
+player 332 draws a 753 from deck 332
+player 332 discards a 105 to deck 333
+player 332 current hand : 511 466 287 117 660 298 385 527 609 819 508 685 512 24 152 159 20 862 834 753 
+player 332 draws a 673 from deck 332
+player 332 discards a 511 to deck 333
+player 332 current hand : 466 287 117 660 298 385 527 609 819 508 685 512 24 152 159 20 862 834 753 673 
+player 332 draws a 313 from deck 332
+player 332 discards a 466 to deck 333
+player 332 current hand : 287 117 660 298 385 527 609 819 508 685 512 24 152 159 20 862 834 753 673 313 
+player 332 draws a 559 from deck 332
+player 332 discards a 287 to deck 333
+player 332 current hand : 117 660 298 385 527 609 819 508 685 512 24 152 159 20 862 834 753 673 313 559 
+player 332 draws a 248 from deck 332
+player 332 discards a 117 to deck 333
+player 332 current hand : 660 298 385 527 609 819 508 685 512 24 152 159 20 862 834 753 673 313 559 248 
+player 332 draws a 642 from deck 332
+player 332 discards a 660 to deck 333
+player 332 current hand : 298 385 527 609 819 508 685 512 24 152 159 20 862 834 753 673 313 559 248 642 
+player 332 draws a 946 from deck 332
+player 332 discards a 298 to deck 333
+player 332 current hand : 385 527 609 819 508 685 512 24 152 159 20 862 834 753 673 313 559 248 642 946 
+player 332 draws a 33 from deck 332
+player 332 discards a 385 to deck 333
+player 332 current hand : 527 609 819 508 685 512 24 152 159 20 862 834 753 673 313 559 248 642 946 33 
+player 332 draws a 410 from deck 332
+player 332 discards a 527 to deck 333
+player 332 current hand : 609 819 508 685 512 24 152 159 20 862 834 753 673 313 559 248 642 946 33 410 
+player 332 draws a 365 from deck 332
+player 332 discards a 609 to deck 333
+player 332 current hand : 819 508 685 512 24 152 159 20 862 834 753 673 313 559 248 642 946 33 410 365 
+player 332 draws a 662 from deck 332
+player 332 discards a 819 to deck 333
+player 332 current hand : 508 685 512 24 152 159 20 862 834 753 673 313 559 248 642 946 33 410 365 662 
+player 332 draws a 74 from deck 332
+player 332 discards a 508 to deck 333
+player 332 current hand : 685 512 24 152 159 20 862 834 753 673 313 559 248 642 946 33 410 365 662 74 
+player 332 draws a 791 from deck 332
+player 332 discards a 685 to deck 333
+player 332 current hand : 512 24 152 159 20 862 834 753 673 313 559 248 642 946 33 410 365 662 74 791 
+player 332 draws a 152 from deck 332
+player 332 discards a 512 to deck 333
+player 332 current hand : 24 152 159 20 862 834 753 673 313 559 248 642 946 33 410 365 662 74 791 152 
+player 332 draws a 947 from deck 332
+player 332 discards a 24 to deck 333
+player 332 current hand : 152 159 20 862 834 753 673 313 559 248 642 946 33 410 365 662 74 791 152 947 
+player 332 draws a 145 from deck 332
+player 332 discards a 152 to deck 333
+player 332 current hand : 159 20 862 834 753 673 313 559 248 642 946 33 410 365 662 74 791 152 947 145 
+player 332 draws a 579 from deck 332
+player 332 discards a 159 to deck 333
+player 332 current hand : 20 862 834 753 673 313 559 248 642 946 33 410 365 662 74 791 152 947 145 579 
+player 332 draws a 403 from deck 332
+player 332 discards a 20 to deck 333
+player 332 current hand : 862 834 753 673 313 559 248 642 946 33 410 365 662 74 791 152 947 145 579 403 
+player 332 draws a 942 from deck 332
+player 332 discards a 862 to deck 333
+player 332 current hand : 834 753 673 313 559 248 642 946 33 410 365 662 74 791 152 947 145 579 403 942 
+player 332 draws a 426 from deck 332
+player 332 discards a 834 to deck 333
+player 332 current hand : 753 673 313 559 248 642 946 33 410 365 662 74 791 152 947 145 579 403 942 426 
+player 332 draws a 994 from deck 332
+player 332 discards a 753 to deck 333
+player 332 current hand : 673 313 559 248 642 946 33 410 365 662 74 791 152 947 145 579 403 942 426 994 
+player 332 draws a 124 from deck 332
+player 332 discards a 673 to deck 333
+player 332 current hand : 313 559 248 642 946 33 410 365 662 74 791 152 947 145 579 403 942 426 994 124 
+player 332 draws a 294 from deck 332
+player 332 discards a 313 to deck 333
+player 332 current hand : 559 248 642 946 33 410 365 662 74 791 152 947 145 579 403 942 426 994 124 294 
+player 332 draws a 983 from deck 332
+player 332 discards a 559 to deck 333
+player 332 current hand : 248 642 946 33 410 365 662 74 791 152 947 145 579 403 942 426 994 124 294 983 
+player 332 draws a 798 from deck 332
+player 332 discards a 248 to deck 333
+player 332 current hand : 642 946 33 410 365 662 74 791 152 947 145 579 403 942 426 994 124 294 983 798 
+player 332 draws a 449 from deck 332
+player 332 discards a 642 to deck 333
+player 332 current hand : 946 33 410 365 662 74 791 152 947 145 579 403 942 426 994 124 294 983 798 449 
+player 332 draws a 809 from deck 332
+player 332 discards a 946 to deck 333
+player 332 current hand : 33 410 365 662 74 791 152 947 145 579 403 942 426 994 124 294 983 798 449 809 
+player 332 draws a 1000 from deck 332
+player 332 discards a 33 to deck 333
+player 332 current hand : 410 365 662 74 791 152 947 145 579 403 942 426 994 124 294 983 798 449 809 1000 
+player 332 draws a 351 from deck 332
+player 332 discards a 410 to deck 333
+player 332 current hand : 365 662 74 791 152 947 145 579 403 942 426 994 124 294 983 798 449 809 1000 351 
+player 332 draws a 591 from deck 332
+player 332 discards a 365 to deck 333
+player 332 current hand : 662 74 791 152 947 145 579 403 942 426 994 124 294 983 798 449 809 1000 351 591 
+player 332 draws a 105 from deck 332
+player 332 discards a 662 to deck 333
+player 332 current hand : 74 791 152 947 145 579 403 942 426 994 124 294 983 798 449 809 1000 351 591 105 
+player 332 draws a 206 from deck 332
+player 332 discards a 74 to deck 333
+player 332 current hand : 791 152 947 145 579 403 942 426 994 124 294 983 798 449 809 1000 351 591 105 206 
+player 332 draws a 206 from deck 332
+player 332 discards a 791 to deck 333
+player 332 current hand : 152 947 145 579 403 942 426 994 124 294 983 798 449 809 1000 351 591 105 206 206 
+player 332 draws a 464 from deck 332
+player 332 discards a 152 to deck 333
+player 332 current hand : 947 145 579 403 942 426 994 124 294 983 798 449 809 1000 351 591 105 206 206 464 
+player 332 draws a 583 from deck 332
+player 332 discards a 947 to deck 333
+player 332 current hand : 145 579 403 942 426 994 124 294 983 798 449 809 1000 351 591 105 206 206 464 583 
+player 332 draws a 12 from deck 332
+player 332 discards a 145 to deck 333
+player 332 current hand : 579 403 942 426 994 124 294 983 798 449 809 1000 351 591 105 206 206 464 583 12 
+player 332 draws a 875 from deck 332
+player 332 discards a 579 to deck 333
+player 332 current hand : 403 942 426 994 124 294 983 798 449 809 1000 351 591 105 206 206 464 583 12 875 
+player 332 draws a 400 from deck 332
+player 332 discards a 403 to deck 333
+player 332 current hand : 942 426 994 124 294 983 798 449 809 1000 351 591 105 206 206 464 583 12 875 400 
+player 332 draws a 78 from deck 332
+player 332 discards a 942 to deck 333
+player 332 current hand : 426 994 124 294 983 798 449 809 1000 351 591 105 206 206 464 583 12 875 400 78 
+player 332 draws a 11 from deck 332
+player 332 discards a 426 to deck 333
+player 332 current hand : 994 124 294 983 798 449 809 1000 351 591 105 206 206 464 583 12 875 400 78 11 
+player 332 draws a 92 from deck 332
+player 332 discards a 994 to deck 333
+player 332 current hand : 124 294 983 798 449 809 1000 351 591 105 206 206 464 583 12 875 400 78 11 92 
+player 332 draws a 52 from deck 332
+player 332 discards a 124 to deck 333
+player 332 current hand : 294 983 798 449 809 1000 351 591 105 206 206 464 583 12 875 400 78 11 92 52 
+player 332 draws a 55 from deck 332
+player 332 discards a 294 to deck 333
+player 332 current hand : 983 798 449 809 1000 351 591 105 206 206 464 583 12 875 400 78 11 92 52 55 
+player 332 draws a 915 from deck 332
+player 332 discards a 983 to deck 333
+player 332 current hand : 798 449 809 1000 351 591 105 206 206 464 583 12 875 400 78 11 92 52 55 915 
+player 332 draws a 793 from deck 332
+player 332 discards a 798 to deck 333
+player 332 current hand : 449 809 1000 351 591 105 206 206 464 583 12 875 400 78 11 92 52 55 915 793 
+player 332 draws a 449 from deck 332
+player 332 discards a 449 to deck 333
+player 332 current hand : 809 1000 351 591 105 206 206 464 583 12 875 400 78 11 92 52 55 915 793 449 
+player 332 draws a 453 from deck 332
+player 332 discards a 809 to deck 333
+player 332 current hand : 1000 351 591 105 206 206 464 583 12 875 400 78 11 92 52 55 915 793 449 453 
+player 332 draws a 289 from deck 332
+player 332 discards a 1000 to deck 333
+player 332 current hand : 351 591 105 206 206 464 583 12 875 400 78 11 92 52 55 915 793 449 453 289 
+player 332 draws a 834 from deck 332
+player 332 discards a 351 to deck 333
+player 332 current hand : 591 105 206 206 464 583 12 875 400 78 11 92 52 55 915 793 449 453 289 834 
+player 332 draws a 514 from deck 332
+player 332 discards a 591 to deck 333
+player 332 current hand : 105 206 206 464 583 12 875 400 78 11 92 52 55 915 793 449 453 289 834 514 
+player 332 draws a 149 from deck 332
+player 332 discards a 105 to deck 333
+player 332 current hand : 206 206 464 583 12 875 400 78 11 92 52 55 915 793 449 453 289 834 514 149 
+player 332 draws a 920 from deck 332
+player 332 discards a 206 to deck 333
+player 332 current hand : 206 464 583 12 875 400 78 11 92 52 55 915 793 449 453 289 834 514 149 920 
+player 332 draws a 945 from deck 332
+player 332 discards a 206 to deck 333
+player 332 current hand : 464 583 12 875 400 78 11 92 52 55 915 793 449 453 289 834 514 149 920 945 
+player 332 draws a 27 from deck 332
+player 332 discards a 464 to deck 333
+player 332 current hand : 583 12 875 400 78 11 92 52 55 915 793 449 453 289 834 514 149 920 945 27 
+player 332 draws a 729 from deck 332
+player 332 discards a 583 to deck 333
+player 332 current hand : 12 875 400 78 11 92 52 55 915 793 449 453 289 834 514 149 920 945 27 729 
+player 332 draws a 358 from deck 332
+player 332 discards a 12 to deck 333
+player 332 current hand : 875 400 78 11 92 52 55 915 793 449 453 289 834 514 149 920 945 27 729 358 
+player 332 draws a 635 from deck 332
+player 332 discards a 875 to deck 333
+player 332 current hand : 400 78 11 92 52 55 915 793 449 453 289 834 514 149 920 945 27 729 358 635 
+player 332 draws a 280 from deck 332
+player 332 discards a 400 to deck 333
+player 332 current hand : 78 11 92 52 55 915 793 449 453 289 834 514 149 920 945 27 729 358 635 280 
+player 332 draws a 201 from deck 332
+player 332 discards a 78 to deck 333
+player 332 current hand : 11 92 52 55 915 793 449 453 289 834 514 149 920 945 27 729 358 635 280 201 
+player 332 draws a 786 from deck 332
+player 332 discards a 11 to deck 333
+player 332 current hand : 92 52 55 915 793 449 453 289 834 514 149 920 945 27 729 358 635 280 201 786 
+player 332 draws a 999 from deck 332
+player 332 discards a 92 to deck 333
+player 332 current hand : 52 55 915 793 449 453 289 834 514 149 920 945 27 729 358 635 280 201 786 999 
+player 332 draws a 100 from deck 332
+player 332 discards a 52 to deck 333
+player 332 current hand : 55 915 793 449 453 289 834 514 149 920 945 27 729 358 635 280 201 786 999 100 
+player 332 draws a 775 from deck 332
+player 332 discards a 55 to deck 333
+player 332 current hand : 915 793 449 453 289 834 514 149 920 945 27 729 358 635 280 201 786 999 100 775 
+player 332 draws a 676 from deck 332
+player 332 discards a 915 to deck 333
+player 332 current hand : 793 449 453 289 834 514 149 920 945 27 729 358 635 280 201 786 999 100 775 676 
+player 332 draws a 751 from deck 332
+player 332 discards a 793 to deck 333
+player 332 current hand : 449 453 289 834 514 149 920 945 27 729 358 635 280 201 786 999 100 775 676 751 
+player 332 draws a 234 from deck 332
+player 332 discards a 449 to deck 333
+player 332 current hand : 453 289 834 514 149 920 945 27 729 358 635 280 201 786 999 100 775 676 751 234 
+player 332 draws a 861 from deck 332
+player 332 discards a 453 to deck 333
+player 332 current hand : 289 834 514 149 920 945 27 729 358 635 280 201 786 999 100 775 676 751 234 861 
+player 332 draws a 794 from deck 332
+player 332 discards a 289 to deck 333
+player 332 current hand : 834 514 149 920 945 27 729 358 635 280 201 786 999 100 775 676 751 234 861 794 
+player 332 draws a 795 from deck 332
+player 332 discards a 834 to deck 333
+player 332 current hand : 514 149 920 945 27 729 358 635 280 201 786 999 100 775 676 751 234 861 794 795 
+player 332 draws a 746 from deck 332
+player 332 discards a 514 to deck 333
+player 332 current hand : 149 920 945 27 729 358 635 280 201 786 999 100 775 676 751 234 861 794 795 746 
+player 332 draws a 113 from deck 332
+player 332 discards a 149 to deck 333
+player 332 current hand : 920 945 27 729 358 635 280 201 786 999 100 775 676 751 234 861 794 795 746 113 
+player 332 draws a 455 from deck 332
+player 332 discards a 920 to deck 333
+player 332 current hand : 945 27 729 358 635 280 201 786 999 100 775 676 751 234 861 794 795 746 113 455 
+player 332 draws a 156 from deck 332
+player 332 discards a 945 to deck 333
+player 332 current hand : 27 729 358 635 280 201 786 999 100 775 676 751 234 861 794 795 746 113 455 156 
+player 332 draws a 935 from deck 332
+player 332 discards a 27 to deck 333
+player 332 current hand : 729 358 635 280 201 786 999 100 775 676 751 234 861 794 795 746 113 455 156 935 
+player 332 draws a 487 from deck 332
+player 332 discards a 729 to deck 333
+player 332 current hand : 358 635 280 201 786 999 100 775 676 751 234 861 794 795 746 113 455 156 935 487 
+player 332 draws a 951 from deck 332
+player 332 discards a 358 to deck 333
+player 332 current hand : 635 280 201 786 999 100 775 676 751 234 861 794 795 746 113 455 156 935 487 951 
+player 332 draws a 619 from deck 332
+player 332 discards a 635 to deck 333
+player 332 current hand : 280 201 786 999 100 775 676 751 234 861 794 795 746 113 455 156 935 487 951 619 
+player 332 draws a 840 from deck 332
+player 332 discards a 280 to deck 333
+player 332 current hand : 201 786 999 100 775 676 751 234 861 794 795 746 113 455 156 935 487 951 619 840 
+player 332 draws a 595 from deck 332
+player 332 discards a 201 to deck 333
+player 332 current hand : 786 999 100 775 676 751 234 861 794 795 746 113 455 156 935 487 951 619 840 595 
+player 332 draws a 819 from deck 332
+player 332 discards a 786 to deck 333
+player 332 current hand : 999 100 775 676 751 234 861 794 795 746 113 455 156 935 487 951 619 840 595 819 
+player 332 draws a 393 from deck 332
+player 332 discards a 999 to deck 333
+player 332 current hand : 100 775 676 751 234 861 794 795 746 113 455 156 935 487 951 619 840 595 819 393 
+player 332 draws a 778 from deck 332
+player 332 discards a 100 to deck 333
+player 332 current hand : 775 676 751 234 861 794 795 746 113 455 156 935 487 951 619 840 595 819 393 778 
+player 332 draws a 508 from deck 332
+player 332 discards a 775 to deck 333
+player 332 current hand : 676 751 234 861 794 795 746 113 455 156 935 487 951 619 840 595 819 393 778 508 
+player 332 draws a 13 from deck 332
+player 332 discards a 676 to deck 333
+player 332 current hand : 751 234 861 794 795 746 113 455 156 935 487 951 619 840 595 819 393 778 508 13 
+player 332 draws a 224 from deck 332
+player 332 discards a 751 to deck 333
+player 332 current hand : 234 861 794 795 746 113 455 156 935 487 951 619 840 595 819 393 778 508 13 224 
+player 332 draws a 177 from deck 332
+player 332 discards a 234 to deck 333
+player 332 current hand : 861 794 795 746 113 455 156 935 487 951 619 840 595 819 393 778 508 13 224 177 
+player 332 draws a 844 from deck 332
+player 332 discards a 861 to deck 333
+player 332 current hand : 794 795 746 113 455 156 935 487 951 619 840 595 819 393 778 508 13 224 177 844 
+player 332 draws a 495 from deck 332
+player 332 discards a 794 to deck 333
+player 332 current hand : 795 746 113 455 156 935 487 951 619 840 595 819 393 778 508 13 224 177 844 495 
+player 332 draws a 879 from deck 332
+player 332 discards a 795 to deck 333
+player 332 current hand : 746 113 455 156 935 487 951 619 840 595 819 393 778 508 13 224 177 844 495 879 
+player 332 draws a 396 from deck 332
+player 332 discards a 746 to deck 333
+player 332 current hand : 113 455 156 935 487 951 619 840 595 819 393 778 508 13 224 177 844 495 879 396 

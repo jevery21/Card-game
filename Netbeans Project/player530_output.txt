@@ -1,0 +1,291 @@
+player 530 initial hand 943 285 219 173 941 81 377 268 45 531 922 264 893 869 221 952 618 684 44 242 
+player 530 draws a 676 from deck 530
+player 530 discards a 943 to deck 531
+player 530 current hand : 285 219 173 941 81 377 268 45 531 922 264 893 869 221 952 618 684 44 242 676 
+player 530 draws a 54 from deck 530
+player 530 discards a 285 to deck 531
+player 530 current hand : 219 173 941 81 377 268 45 531 922 264 893 869 221 952 618 684 44 242 676 54 
+player 530 draws a 869 from deck 530
+player 530 discards a 219 to deck 531
+player 530 current hand : 173 941 81 377 268 45 531 922 264 893 869 221 952 618 684 44 242 676 54 869 
+player 530 draws a 555 from deck 530
+player 530 discards a 173 to deck 531
+player 530 current hand : 941 81 377 268 45 531 922 264 893 869 221 952 618 684 44 242 676 54 869 555 
+player 530 draws a 619 from deck 530
+player 530 discards a 941 to deck 531
+player 530 current hand : 81 377 268 45 531 922 264 893 869 221 952 618 684 44 242 676 54 869 555 619 
+player 530 draws a 787 from deck 530
+player 530 discards a 81 to deck 531
+player 530 current hand : 377 268 45 531 922 264 893 869 221 952 618 684 44 242 676 54 869 555 619 787 
+player 530 draws a 97 from deck 530
+player 530 discards a 377 to deck 531
+player 530 current hand : 268 45 531 922 264 893 869 221 952 618 684 44 242 676 54 869 555 619 787 97 
+player 530 draws a 159 from deck 530
+player 530 discards a 268 to deck 531
+player 530 current hand : 45 531 922 264 893 869 221 952 618 684 44 242 676 54 869 555 619 787 97 159 
+player 530 draws a 165 from deck 530
+player 530 discards a 45 to deck 531
+player 530 current hand : 531 922 264 893 869 221 952 618 684 44 242 676 54 869 555 619 787 97 159 165 
+player 530 draws a 969 from deck 530
+player 530 discards a 531 to deck 531
+player 530 current hand : 922 264 893 869 221 952 618 684 44 242 676 54 869 555 619 787 97 159 165 969 
+player 530 draws a 679 from deck 530
+player 530 discards a 922 to deck 531
+player 530 current hand : 264 893 869 221 952 618 684 44 242 676 54 869 555 619 787 97 159 165 969 679 
+player 530 draws a 14 from deck 530
+player 530 discards a 264 to deck 531
+player 530 current hand : 893 869 221 952 618 684 44 242 676 54 869 555 619 787 97 159 165 969 679 14 
+player 530 draws a 581 from deck 530
+player 530 discards a 893 to deck 531
+player 530 current hand : 869 221 952 618 684 44 242 676 54 869 555 619 787 97 159 165 969 679 14 581 
+player 530 draws a 504 from deck 530
+player 530 discards a 869 to deck 531
+player 530 current hand : 221 952 618 684 44 242 676 54 869 555 619 787 97 159 165 969 679 14 581 504 
+player 530 draws a 983 from deck 530
+player 530 discards a 221 to deck 531
+player 530 current hand : 952 618 684 44 242 676 54 869 555 619 787 97 159 165 969 679 14 581 504 983 
+player 530 draws a 691 from deck 530
+player 530 discards a 952 to deck 531
+player 530 current hand : 618 684 44 242 676 54 869 555 619 787 97 159 165 969 679 14 581 504 983 691 
+player 530 draws a 702 from deck 530
+player 530 discards a 618 to deck 531
+player 530 current hand : 684 44 242 676 54 869 555 619 787 97 159 165 969 679 14 581 504 983 691 702 
+player 530 draws a 571 from deck 530
+player 530 discards a 684 to deck 531
+player 530 current hand : 44 242 676 54 869 555 619 787 97 159 165 969 679 14 581 504 983 691 702 571 
+player 530 draws a 862 from deck 530
+player 530 discards a 44 to deck 531
+player 530 current hand : 242 676 54 869 555 619 787 97 159 165 969 679 14 581 504 983 691 702 571 862 
+player 530 draws a 788 from deck 530
+player 530 discards a 242 to deck 531
+player 530 current hand : 676 54 869 555 619 787 97 159 165 969 679 14 581 504 983 691 702 571 862 788 
+player 530 draws a 832 from deck 530
+player 530 discards a 676 to deck 531
+player 530 current hand : 54 869 555 619 787 97 159 165 969 679 14 581 504 983 691 702 571 862 788 832 
+player 530 draws a 654 from deck 530
+player 530 discards a 54 to deck 531
+player 530 current hand : 869 555 619 787 97 159 165 969 679 14 581 504 983 691 702 571 862 788 832 654 
+player 530 draws a 16 from deck 530
+player 530 discards a 869 to deck 531
+player 530 current hand : 555 619 787 97 159 165 969 679 14 581 504 983 691 702 571 862 788 832 654 16 
+player 530 draws a 224 from deck 530
+player 530 discards a 555 to deck 531
+player 530 current hand : 619 787 97 159 165 969 679 14 581 504 983 691 702 571 862 788 832 654 16 224 
+player 530 draws a 332 from deck 530
+player 530 discards a 619 to deck 531
+player 530 current hand : 787 97 159 165 969 679 14 581 504 983 691 702 571 862 788 832 654 16 224 332 
+player 530 draws a 805 from deck 530
+player 530 discards a 787 to deck 531
+player 530 current hand : 97 159 165 969 679 14 581 504 983 691 702 571 862 788 832 654 16 224 332 805 
+player 530 draws a 722 from deck 530
+player 530 discards a 97 to deck 531
+player 530 current hand : 159 165 969 679 14 581 504 983 691 702 571 862 788 832 654 16 224 332 805 722 
+player 530 draws a 28 from deck 530
+player 530 discards a 159 to deck 531
+player 530 current hand : 165 969 679 14 581 504 983 691 702 571 862 788 832 654 16 224 332 805 722 28 
+player 530 draws a 2 from deck 530
+player 530 discards a 165 to deck 531
+player 530 current hand : 969 679 14 581 504 983 691 702 571 862 788 832 654 16 224 332 805 722 28 2 
+player 530 draws a 694 from deck 530
+player 530 discards a 969 to deck 531
+player 530 current hand : 679 14 581 504 983 691 702 571 862 788 832 654 16 224 332 805 722 28 2 694 
+player 530 draws a 685 from deck 530
+player 530 discards a 679 to deck 531
+player 530 current hand : 14 581 504 983 691 702 571 862 788 832 654 16 224 332 805 722 28 2 694 685 
+player 530 draws a 364 from deck 530
+player 530 discards a 14 to deck 531
+player 530 current hand : 581 504 983 691 702 571 862 788 832 654 16 224 332 805 722 28 2 694 685 364 
+player 530 draws a 134 from deck 530
+player 530 discards a 581 to deck 531
+player 530 current hand : 504 983 691 702 571 862 788 832 654 16 224 332 805 722 28 2 694 685 364 134 
+player 530 draws a 176 from deck 530
+player 530 discards a 504 to deck 531
+player 530 current hand : 983 691 702 571 862 788 832 654 16 224 332 805 722 28 2 694 685 364 134 176 
+player 530 draws a 645 from deck 530
+player 530 discards a 983 to deck 531
+player 530 current hand : 691 702 571 862 788 832 654 16 224 332 805 722 28 2 694 685 364 134 176 645 
+player 530 draws a 975 from deck 530
+player 530 discards a 691 to deck 531
+player 530 current hand : 702 571 862 788 832 654 16 224 332 805 722 28 2 694 685 364 134 176 645 975 
+player 530 draws a 853 from deck 530
+player 530 discards a 702 to deck 531
+player 530 current hand : 571 862 788 832 654 16 224 332 805 722 28 2 694 685 364 134 176 645 975 853 
+player 530 draws a 976 from deck 530
+player 530 discards a 571 to deck 531
+player 530 current hand : 862 788 832 654 16 224 332 805 722 28 2 694 685 364 134 176 645 975 853 976 
+player 530 draws a 777 from deck 530
+player 530 discards a 862 to deck 531
+player 530 current hand : 788 832 654 16 224 332 805 722 28 2 694 685 364 134 176 645 975 853 976 777 
+player 530 draws a 888 from deck 530
+player 530 discards a 788 to deck 531
+player 530 current hand : 832 654 16 224 332 805 722 28 2 694 685 364 134 176 645 975 853 976 777 888 
+player 530 draws a 928 from deck 530
+player 530 discards a 832 to deck 531
+player 530 current hand : 654 16 224 332 805 722 28 2 694 685 364 134 176 645 975 853 976 777 888 928 
+player 530 draws a 198 from deck 530
+player 530 discards a 654 to deck 531
+player 530 current hand : 16 224 332 805 722 28 2 694 685 364 134 176 645 975 853 976 777 888 928 198 
+player 530 draws a 922 from deck 530
+player 530 discards a 16 to deck 531
+player 530 current hand : 224 332 805 722 28 2 694 685 364 134 176 645 975 853 976 777 888 928 198 922 
+player 530 draws a 870 from deck 530
+player 530 discards a 224 to deck 531
+player 530 current hand : 332 805 722 28 2 694 685 364 134 176 645 975 853 976 777 888 928 198 922 870 
+player 530 draws a 17 from deck 530
+player 530 discards a 332 to deck 531
+player 530 current hand : 805 722 28 2 694 685 364 134 176 645 975 853 976 777 888 928 198 922 870 17 
+player 530 draws a 706 from deck 530
+player 530 discards a 805 to deck 531
+player 530 current hand : 722 28 2 694 685 364 134 176 645 975 853 976 777 888 928 198 922 870 17 706 
+player 530 draws a 729 from deck 530
+player 530 discards a 722 to deck 531
+player 530 current hand : 28 2 694 685 364 134 176 645 975 853 976 777 888 928 198 922 870 17 706 729 
+player 530 draws a 849 from deck 530
+player 530 discards a 28 to deck 531
+player 530 current hand : 2 694 685 364 134 176 645 975 853 976 777 888 928 198 922 870 17 706 729 849 
+player 530 draws a 339 from deck 530
+player 530 discards a 2 to deck 531
+player 530 current hand : 694 685 364 134 176 645 975 853 976 777 888 928 198 922 870 17 706 729 849 339 
+player 530 draws a 481 from deck 530
+player 530 discards a 694 to deck 531
+player 530 current hand : 685 364 134 176 645 975 853 976 777 888 928 198 922 870 17 706 729 849 339 481 
+player 530 draws a 611 from deck 530
+player 530 discards a 685 to deck 531
+player 530 current hand : 364 134 176 645 975 853 976 777 888 928 198 922 870 17 706 729 849 339 481 611 
+player 530 draws a 392 from deck 530
+player 530 discards a 364 to deck 531
+player 530 current hand : 134 176 645 975 853 976 777 888 928 198 922 870 17 706 729 849 339 481 611 392 
+player 530 draws a 165 from deck 530
+player 530 discards a 134 to deck 531
+player 530 current hand : 176 645 975 853 976 777 888 928 198 922 870 17 706 729 849 339 481 611 392 165 
+player 530 draws a 224 from deck 530
+player 530 discards a 176 to deck 531
+player 530 current hand : 645 975 853 976 777 888 928 198 922 870 17 706 729 849 339 481 611 392 165 224 
+player 530 draws a 85 from deck 530
+player 530 discards a 645 to deck 531
+player 530 current hand : 975 853 976 777 888 928 198 922 870 17 706 729 849 339 481 611 392 165 224 85 
+player 530 draws a 709 from deck 530
+player 530 discards a 975 to deck 531
+player 530 current hand : 853 976 777 888 928 198 922 870 17 706 729 849 339 481 611 392 165 224 85 709 
+player 530 draws a 36 from deck 530
+player 530 discards a 853 to deck 531
+player 530 current hand : 976 777 888 928 198 922 870 17 706 729 849 339 481 611 392 165 224 85 709 36 
+player 530 draws a 950 from deck 530
+player 530 discards a 976 to deck 531
+player 530 current hand : 777 888 928 198 922 870 17 706 729 849 339 481 611 392 165 224 85 709 36 950 
+player 530 draws a 729 from deck 530
+player 530 discards a 777 to deck 531
+player 530 current hand : 888 928 198 922 870 17 706 729 849 339 481 611 392 165 224 85 709 36 950 729 
+player 530 draws a 364 from deck 530
+player 530 discards a 888 to deck 531
+player 530 current hand : 928 198 922 870 17 706 729 849 339 481 611 392 165 224 85 709 36 950 729 364 
+player 530 draws a 309 from deck 530
+player 530 discards a 928 to deck 531
+player 530 current hand : 198 922 870 17 706 729 849 339 481 611 392 165 224 85 709 36 950 729 364 309 
+player 530 draws a 991 from deck 530
+player 530 discards a 198 to deck 531
+player 530 current hand : 922 870 17 706 729 849 339 481 611 392 165 224 85 709 36 950 729 364 309 991 
+player 530 draws a 467 from deck 530
+player 530 discards a 922 to deck 531
+player 530 current hand : 870 17 706 729 849 339 481 611 392 165 224 85 709 36 950 729 364 309 991 467 
+player 530 draws a 946 from deck 530
+player 530 discards a 870 to deck 531
+player 530 current hand : 17 706 729 849 339 481 611 392 165 224 85 709 36 950 729 364 309 991 467 946 
+player 530 draws a 1000 from deck 530
+player 530 discards a 17 to deck 531
+player 530 current hand : 706 729 849 339 481 611 392 165 224 85 709 36 950 729 364 309 991 467 946 1000 
+player 530 draws a 355 from deck 530
+player 530 discards a 706 to deck 531
+player 530 current hand : 729 849 339 481 611 392 165 224 85 709 36 950 729 364 309 991 467 946 1000 355 
+player 530 draws a 886 from deck 530
+player 530 discards a 729 to deck 531
+player 530 current hand : 849 339 481 611 392 165 224 85 709 36 950 729 364 309 991 467 946 1000 355 886 
+player 530 draws a 734 from deck 530
+player 530 discards a 849 to deck 531
+player 530 current hand : 339 481 611 392 165 224 85 709 36 950 729 364 309 991 467 946 1000 355 886 734 
+player 530 draws a 717 from deck 530
+player 530 discards a 339 to deck 531
+player 530 current hand : 481 611 392 165 224 85 709 36 950 729 364 309 991 467 946 1000 355 886 734 717 
+player 530 draws a 214 from deck 530
+player 530 discards a 481 to deck 531
+player 530 current hand : 611 392 165 224 85 709 36 950 729 364 309 991 467 946 1000 355 886 734 717 214 
+player 530 draws a 999 from deck 530
+player 530 discards a 611 to deck 531
+player 530 current hand : 392 165 224 85 709 36 950 729 364 309 991 467 946 1000 355 886 734 717 214 999 
+player 530 draws a 667 from deck 530
+player 530 discards a 392 to deck 531
+player 530 current hand : 165 224 85 709 36 950 729 364 309 991 467 946 1000 355 886 734 717 214 999 667 
+player 530 draws a 868 from deck 530
+player 530 discards a 165 to deck 531
+player 530 current hand : 224 85 709 36 950 729 364 309 991 467 946 1000 355 886 734 717 214 999 667 868 
+player 530 draws a 880 from deck 530
+player 530 discards a 224 to deck 531
+player 530 current hand : 85 709 36 950 729 364 309 991 467 946 1000 355 886 734 717 214 999 667 868 880 
+player 530 draws a 865 from deck 530
+player 530 discards a 85 to deck 531
+player 530 current hand : 709 36 950 729 364 309 991 467 946 1000 355 886 734 717 214 999 667 868 880 865 
+player 530 draws a 546 from deck 530
+player 530 discards a 709 to deck 531
+player 530 current hand : 36 950 729 364 309 991 467 946 1000 355 886 734 717 214 999 667 868 880 865 546 
+player 530 draws a 855 from deck 530
+player 530 discards a 36 to deck 531
+player 530 current hand : 950 729 364 309 991 467 946 1000 355 886 734 717 214 999 667 868 880 865 546 855 
+player 530 draws a 875 from deck 530
+player 530 discards a 950 to deck 531
+player 530 current hand : 729 364 309 991 467 946 1000 355 886 734 717 214 999 667 868 880 865 546 855 875 
+player 530 draws a 744 from deck 530
+player 530 discards a 729 to deck 531
+player 530 current hand : 364 309 991 467 946 1000 355 886 734 717 214 999 667 868 880 865 546 855 875 744 
+player 530 draws a 726 from deck 530
+player 530 discards a 364 to deck 531
+player 530 current hand : 309 991 467 946 1000 355 886 734 717 214 999 667 868 880 865 546 855 875 744 726 
+player 530 draws a 83 from deck 530
+player 530 discards a 309 to deck 531
+player 530 current hand : 991 467 946 1000 355 886 734 717 214 999 667 868 880 865 546 855 875 744 726 83 
+player 530 draws a 387 from deck 530
+player 530 discards a 991 to deck 531
+player 530 current hand : 467 946 1000 355 886 734 717 214 999 667 868 880 865 546 855 875 744 726 83 387 
+player 530 draws a 908 from deck 530
+player 530 discards a 467 to deck 531
+player 530 current hand : 946 1000 355 886 734 717 214 999 667 868 880 865 546 855 875 744 726 83 387 908 
+player 530 draws a 923 from deck 530
+player 530 discards a 946 to deck 531
+player 530 current hand : 1000 355 886 734 717 214 999 667 868 880 865 546 855 875 744 726 83 387 908 923 
+player 530 draws a 453 from deck 530
+player 530 discards a 1000 to deck 531
+player 530 current hand : 355 886 734 717 214 999 667 868 880 865 546 855 875 744 726 83 387 908 923 453 
+player 530 draws a 768 from deck 530
+player 530 discards a 355 to deck 531
+player 530 current hand : 886 734 717 214 999 667 868 880 865 546 855 875 744 726 83 387 908 923 453 768 
+player 530 draws a 644 from deck 530
+player 530 discards a 886 to deck 531
+player 530 current hand : 734 717 214 999 667 868 880 865 546 855 875 744 726 83 387 908 923 453 768 644 
+player 530 draws a 317 from deck 530
+player 530 discards a 734 to deck 531
+player 530 current hand : 717 214 999 667 868 880 865 546 855 875 744 726 83 387 908 923 453 768 644 317 
+player 530 draws a 799 from deck 530
+player 530 discards a 717 to deck 531
+player 530 current hand : 214 999 667 868 880 865 546 855 875 744 726 83 387 908 923 453 768 644 317 799 
+player 530 draws a 151 from deck 530
+player 530 discards a 214 to deck 531
+player 530 current hand : 999 667 868 880 865 546 855 875 744 726 83 387 908 923 453 768 644 317 799 151 
+player 530 draws a 265 from deck 530
+player 530 discards a 999 to deck 531
+player 530 current hand : 667 868 880 865 546 855 875 744 726 83 387 908 923 453 768 644 317 799 151 265 
+player 530 draws a 744 from deck 530
+player 530 discards a 667 to deck 531
+player 530 current hand : 868 880 865 546 855 875 744 726 83 387 908 923 453 768 644 317 799 151 265 744 
+player 530 draws a 901 from deck 530
+player 530 discards a 868 to deck 531
+player 530 current hand : 880 865 546 855 875 744 726 83 387 908 923 453 768 644 317 799 151 265 744 901 
+player 530 draws a 739 from deck 530
+player 530 discards a 880 to deck 531
+player 530 current hand : 865 546 855 875 744 726 83 387 908 923 453 768 644 317 799 151 265 744 901 739 
+player 530 draws a 96 from deck 530
+player 530 discards a 865 to deck 531
+player 530 current hand : 546 855 875 744 726 83 387 908 923 453 768 644 317 799 151 265 744 901 739 96 
+player 530 draws a 856 from deck 530
+player 530 discards a 546 to deck 531
+player 530 current hand : 855 875 744 726 83 387 908 923 453 768 644 317 799 151 265 744 901 739 96 856 
+player 530 draws a 981 from deck 530
+player 530 discards a 855 to deck 531

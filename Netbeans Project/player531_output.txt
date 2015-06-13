@@ -1,0 +1,300 @@
+player 531 initial hand 525 791 835 257 514 655 351 386 626 645 360 645 633 473 971 946 432 482 719 195 
+player 531 draws a 215 from deck 531
+player 531 discards a 525 to deck 532
+player 531 current hand : 791 835 257 514 655 351 386 626 645 360 645 633 473 971 946 432 482 719 195 215 
+player 531 draws a 136 from deck 531
+player 531 discards a 791 to deck 532
+player 531 current hand : 835 257 514 655 351 386 626 645 360 645 633 473 971 946 432 482 719 195 215 136 
+player 531 draws a 138 from deck 531
+player 531 discards a 835 to deck 532
+player 531 current hand : 257 514 655 351 386 626 645 360 645 633 473 971 946 432 482 719 195 215 136 138 
+player 531 draws a 74 from deck 531
+player 531 discards a 257 to deck 532
+player 531 current hand : 514 655 351 386 626 645 360 645 633 473 971 946 432 482 719 195 215 136 138 74 
+player 531 draws a 31 from deck 531
+player 531 discards a 514 to deck 532
+player 531 current hand : 655 351 386 626 645 360 645 633 473 971 946 432 482 719 195 215 136 138 74 31 
+player 531 draws a 632 from deck 531
+player 531 discards a 655 to deck 532
+player 531 current hand : 351 386 626 645 360 645 633 473 971 946 432 482 719 195 215 136 138 74 31 632 
+player 531 draws a 746 from deck 531
+player 531 discards a 351 to deck 532
+player 531 current hand : 386 626 645 360 645 633 473 971 946 432 482 719 195 215 136 138 74 31 632 746 
+player 531 draws a 522 from deck 531
+player 531 discards a 386 to deck 532
+player 531 current hand : 626 645 360 645 633 473 971 946 432 482 719 195 215 136 138 74 31 632 746 522 
+player 531 draws a 18 from deck 531
+player 531 discards a 626 to deck 532
+player 531 current hand : 645 360 645 633 473 971 946 432 482 719 195 215 136 138 74 31 632 746 522 18 
+player 531 draws a 96 from deck 531
+player 531 discards a 645 to deck 532
+player 531 current hand : 360 645 633 473 971 946 432 482 719 195 215 136 138 74 31 632 746 522 18 96 
+player 531 draws a 103 from deck 531
+player 531 discards a 360 to deck 532
+player 531 current hand : 645 633 473 971 946 432 482 719 195 215 136 138 74 31 632 746 522 18 96 103 
+player 531 draws a 540 from deck 531
+player 531 discards a 645 to deck 532
+player 531 current hand : 633 473 971 946 432 482 719 195 215 136 138 74 31 632 746 522 18 96 103 540 
+player 531 draws a 268 from deck 531
+player 531 discards a 633 to deck 532
+player 531 current hand : 473 971 946 432 482 719 195 215 136 138 74 31 632 746 522 18 96 103 540 268 
+player 531 draws a 243 from deck 531
+player 531 discards a 473 to deck 532
+player 531 current hand : 971 946 432 482 719 195 215 136 138 74 31 632 746 522 18 96 103 540 268 243 
+player 531 draws a 162 from deck 531
+player 531 discards a 971 to deck 532
+player 531 current hand : 946 432 482 719 195 215 136 138 74 31 632 746 522 18 96 103 540 268 243 162 
+player 531 draws a 838 from deck 531
+player 531 discards a 946 to deck 532
+player 531 current hand : 432 482 719 195 215 136 138 74 31 632 746 522 18 96 103 540 268 243 162 838 
+player 531 draws a 241 from deck 531
+player 531 discards a 432 to deck 532
+player 531 current hand : 482 719 195 215 136 138 74 31 632 746 522 18 96 103 540 268 243 162 838 241 
+player 531 draws a 816 from deck 531
+player 531 discards a 482 to deck 532
+player 531 current hand : 719 195 215 136 138 74 31 632 746 522 18 96 103 540 268 243 162 838 241 816 
+player 531 draws a 466 from deck 531
+player 531 discards a 719 to deck 532
+player 531 current hand : 195 215 136 138 74 31 632 746 522 18 96 103 540 268 243 162 838 241 816 466 
+player 531 draws a 802 from deck 531
+player 531 discards a 195 to deck 532
+player 531 current hand : 215 136 138 74 31 632 746 522 18 96 103 540 268 243 162 838 241 816 466 802 
+player 531 draws a 943 from deck 531
+player 531 discards a 215 to deck 532
+player 531 current hand : 136 138 74 31 632 746 522 18 96 103 540 268 243 162 838 241 816 466 802 943 
+player 531 draws a 285 from deck 531
+player 531 discards a 136 to deck 532
+player 531 current hand : 138 74 31 632 746 522 18 96 103 540 268 243 162 838 241 816 466 802 943 285 
+player 531 draws a 219 from deck 531
+player 531 discards a 138 to deck 532
+player 531 current hand : 74 31 632 746 522 18 96 103 540 268 243 162 838 241 816 466 802 943 285 219 
+player 531 draws a 173 from deck 531
+player 531 discards a 74 to deck 532
+player 531 current hand : 31 632 746 522 18 96 103 540 268 243 162 838 241 816 466 802 943 285 219 173 
+player 531 draws a 941 from deck 531
+player 531 discards a 31 to deck 532
+player 531 current hand : 632 746 522 18 96 103 540 268 243 162 838 241 816 466 802 943 285 219 173 941 
+player 531 draws a 81 from deck 531
+player 531 discards a 632 to deck 532
+player 531 current hand : 746 522 18 96 103 540 268 243 162 838 241 816 466 802 943 285 219 173 941 81 
+player 531 draws a 377 from deck 531
+player 531 discards a 746 to deck 532
+player 531 current hand : 522 18 96 103 540 268 243 162 838 241 816 466 802 943 285 219 173 941 81 377 
+player 531 draws a 268 from deck 531
+player 531 discards a 522 to deck 532
+player 531 current hand : 18 96 103 540 268 243 162 838 241 816 466 802 943 285 219 173 941 81 377 268 
+player 531 draws a 45 from deck 531
+player 531 discards a 18 to deck 532
+player 531 current hand : 96 103 540 268 243 162 838 241 816 466 802 943 285 219 173 941 81 377 268 45 
+player 531 draws a 531 from deck 531
+player 531 discards a 96 to deck 532
+player 531 current hand : 103 540 268 243 162 838 241 816 466 802 943 285 219 173 941 81 377 268 45 531 
+player 531 draws a 922 from deck 531
+player 531 discards a 103 to deck 532
+player 531 current hand : 540 268 243 162 838 241 816 466 802 943 285 219 173 941 81 377 268 45 531 922 
+player 531 draws a 264 from deck 531
+player 531 discards a 540 to deck 532
+player 531 current hand : 268 243 162 838 241 816 466 802 943 285 219 173 941 81 377 268 45 531 922 264 
+player 531 draws a 893 from deck 531
+player 531 discards a 268 to deck 532
+player 531 current hand : 243 162 838 241 816 466 802 943 285 219 173 941 81 377 268 45 531 922 264 893 
+player 531 draws a 869 from deck 531
+player 531 discards a 243 to deck 532
+player 531 current hand : 162 838 241 816 466 802 943 285 219 173 941 81 377 268 45 531 922 264 893 869 
+player 531 draws a 221 from deck 531
+player 531 discards a 162 to deck 532
+player 531 current hand : 838 241 816 466 802 943 285 219 173 941 81 377 268 45 531 922 264 893 869 221 
+player 531 draws a 952 from deck 531
+player 531 discards a 838 to deck 532
+player 531 current hand : 241 816 466 802 943 285 219 173 941 81 377 268 45 531 922 264 893 869 221 952 
+player 531 draws a 618 from deck 531
+player 531 discards a 241 to deck 532
+player 531 current hand : 816 466 802 943 285 219 173 941 81 377 268 45 531 922 264 893 869 221 952 618 
+player 531 draws a 684 from deck 531
+player 531 discards a 816 to deck 532
+player 531 current hand : 466 802 943 285 219 173 941 81 377 268 45 531 922 264 893 869 221 952 618 684 
+player 531 draws a 44 from deck 531
+player 531 discards a 466 to deck 532
+player 531 current hand : 802 943 285 219 173 941 81 377 268 45 531 922 264 893 869 221 952 618 684 44 
+player 531 draws a 242 from deck 531
+player 531 discards a 802 to deck 532
+player 531 current hand : 943 285 219 173 941 81 377 268 45 531 922 264 893 869 221 952 618 684 44 242 
+player 531 draws a 676 from deck 531
+player 531 discards a 943 to deck 532
+player 531 current hand : 285 219 173 941 81 377 268 45 531 922 264 893 869 221 952 618 684 44 242 676 
+player 531 draws a 54 from deck 531
+player 531 discards a 285 to deck 532
+player 531 current hand : 219 173 941 81 377 268 45 531 922 264 893 869 221 952 618 684 44 242 676 54 
+player 531 draws a 869 from deck 531
+player 531 discards a 219 to deck 532
+player 531 current hand : 173 941 81 377 268 45 531 922 264 893 869 221 952 618 684 44 242 676 54 869 
+player 531 draws a 555 from deck 531
+player 531 discards a 173 to deck 532
+player 531 current hand : 941 81 377 268 45 531 922 264 893 869 221 952 618 684 44 242 676 54 869 555 
+player 531 draws a 619 from deck 531
+player 531 discards a 941 to deck 532
+player 531 current hand : 81 377 268 45 531 922 264 893 869 221 952 618 684 44 242 676 54 869 555 619 
+player 531 draws a 787 from deck 531
+player 531 discards a 81 to deck 532
+player 531 current hand : 377 268 45 531 922 264 893 869 221 952 618 684 44 242 676 54 869 555 619 787 
+player 531 draws a 97 from deck 531
+player 531 discards a 377 to deck 532
+player 531 current hand : 268 45 531 922 264 893 869 221 952 618 684 44 242 676 54 869 555 619 787 97 
+player 531 draws a 159 from deck 531
+player 531 discards a 268 to deck 532
+player 531 current hand : 45 531 922 264 893 869 221 952 618 684 44 242 676 54 869 555 619 787 97 159 
+player 531 draws a 165 from deck 531
+player 531 discards a 45 to deck 532
+player 531 current hand : 531 922 264 893 869 221 952 618 684 44 242 676 54 869 555 619 787 97 159 165 
+player 531 draws a 969 from deck 531
+player 531 discards a 922 to deck 532
+player 531 current hand : 531 264 893 869 221 952 618 684 44 242 676 54 869 555 619 787 97 159 165 969 
+player 531 draws a 679 from deck 531
+player 531 discards a 264 to deck 532
+player 531 current hand : 531 893 869 221 952 618 684 44 242 676 54 869 555 619 787 97 159 165 969 679 
+player 531 draws a 14 from deck 531
+player 531 discards a 893 to deck 532
+player 531 current hand : 531 869 221 952 618 684 44 242 676 54 869 555 619 787 97 159 165 969 679 14 
+player 531 draws a 581 from deck 531
+player 531 discards a 869 to deck 532
+player 531 current hand : 531 221 952 618 684 44 242 676 54 869 555 619 787 97 159 165 969 679 14 581 
+player 531 draws a 504 from deck 531
+player 531 discards a 221 to deck 532
+player 531 current hand : 531 952 618 684 44 242 676 54 869 555 619 787 97 159 165 969 679 14 581 504 
+player 531 draws a 983 from deck 531
+player 531 discards a 952 to deck 532
+player 531 current hand : 531 618 684 44 242 676 54 869 555 619 787 97 159 165 969 679 14 581 504 983 
+player 531 draws a 691 from deck 531
+player 531 discards a 618 to deck 532
+player 531 current hand : 531 684 44 242 676 54 869 555 619 787 97 159 165 969 679 14 581 504 983 691 
+player 531 draws a 702 from deck 531
+player 531 discards a 684 to deck 532
+player 531 current hand : 531 44 242 676 54 869 555 619 787 97 159 165 969 679 14 581 504 983 691 702 
+player 531 draws a 571 from deck 531
+player 531 discards a 44 to deck 532
+player 531 current hand : 531 242 676 54 869 555 619 787 97 159 165 969 679 14 581 504 983 691 702 571 
+player 531 draws a 862 from deck 531
+player 531 discards a 242 to deck 532
+player 531 current hand : 531 676 54 869 555 619 787 97 159 165 969 679 14 581 504 983 691 702 571 862 
+player 531 draws a 788 from deck 531
+player 531 discards a 676 to deck 532
+player 531 current hand : 531 54 869 555 619 787 97 159 165 969 679 14 581 504 983 691 702 571 862 788 
+player 531 draws a 832 from deck 531
+player 531 discards a 54 to deck 532
+player 531 current hand : 531 869 555 619 787 97 159 165 969 679 14 581 504 983 691 702 571 862 788 832 
+player 531 draws a 654 from deck 531
+player 531 discards a 869 to deck 532
+player 531 current hand : 531 555 619 787 97 159 165 969 679 14 581 504 983 691 702 571 862 788 832 654 
+player 531 draws a 16 from deck 531
+player 531 discards a 555 to deck 532
+player 531 current hand : 531 619 787 97 159 165 969 679 14 581 504 983 691 702 571 862 788 832 654 16 
+player 531 draws a 224 from deck 531
+player 531 discards a 619 to deck 532
+player 531 current hand : 531 787 97 159 165 969 679 14 581 504 983 691 702 571 862 788 832 654 16 224 
+player 531 draws a 332 from deck 531
+player 531 discards a 787 to deck 532
+player 531 current hand : 531 97 159 165 969 679 14 581 504 983 691 702 571 862 788 832 654 16 224 332 
+player 531 draws a 805 from deck 531
+player 531 discards a 97 to deck 532
+player 531 current hand : 531 159 165 969 679 14 581 504 983 691 702 571 862 788 832 654 16 224 332 805 
+player 531 draws a 722 from deck 531
+player 531 discards a 159 to deck 532
+player 531 current hand : 531 165 969 679 14 581 504 983 691 702 571 862 788 832 654 16 224 332 805 722 
+player 531 draws a 28 from deck 531
+player 531 discards a 165 to deck 532
+player 531 current hand : 531 969 679 14 581 504 983 691 702 571 862 788 832 654 16 224 332 805 722 28 
+player 531 draws a 2 from deck 531
+player 531 discards a 969 to deck 532
+player 531 current hand : 531 679 14 581 504 983 691 702 571 862 788 832 654 16 224 332 805 722 28 2 
+player 531 draws a 694 from deck 531
+player 531 discards a 679 to deck 532
+player 531 current hand : 531 14 581 504 983 691 702 571 862 788 832 654 16 224 332 805 722 28 2 694 
+player 531 draws a 685 from deck 531
+player 531 discards a 14 to deck 532
+player 531 current hand : 531 581 504 983 691 702 571 862 788 832 654 16 224 332 805 722 28 2 694 685 
+player 531 draws a 364 from deck 531
+player 531 discards a 581 to deck 532
+player 531 current hand : 531 504 983 691 702 571 862 788 832 654 16 224 332 805 722 28 2 694 685 364 
+player 531 draws a 134 from deck 531
+player 531 discards a 504 to deck 532
+player 531 current hand : 531 983 691 702 571 862 788 832 654 16 224 332 805 722 28 2 694 685 364 134 
+player 531 draws a 176 from deck 531
+player 531 discards a 983 to deck 532
+player 531 current hand : 531 691 702 571 862 788 832 654 16 224 332 805 722 28 2 694 685 364 134 176 
+player 531 draws a 645 from deck 531
+player 531 discards a 691 to deck 532
+player 531 current hand : 531 702 571 862 788 832 654 16 224 332 805 722 28 2 694 685 364 134 176 645 
+player 531 draws a 975 from deck 531
+player 531 discards a 702 to deck 532
+player 531 current hand : 531 571 862 788 832 654 16 224 332 805 722 28 2 694 685 364 134 176 645 975 
+player 531 draws a 853 from deck 531
+player 531 discards a 571 to deck 532
+player 531 current hand : 531 862 788 832 654 16 224 332 805 722 28 2 694 685 364 134 176 645 975 853 
+player 531 draws a 976 from deck 531
+player 531 discards a 862 to deck 532
+player 531 current hand : 531 788 832 654 16 224 332 805 722 28 2 694 685 364 134 176 645 975 853 976 
+player 531 draws a 777 from deck 531
+player 531 discards a 788 to deck 532
+player 531 current hand : 531 832 654 16 224 332 805 722 28 2 694 685 364 134 176 645 975 853 976 777 
+player 531 draws a 888 from deck 531
+player 531 discards a 832 to deck 532
+player 531 current hand : 531 654 16 224 332 805 722 28 2 694 685 364 134 176 645 975 853 976 777 888 
+player 531 draws a 928 from deck 531
+player 531 discards a 654 to deck 532
+player 531 current hand : 531 16 224 332 805 722 28 2 694 685 364 134 176 645 975 853 976 777 888 928 
+player 531 draws a 198 from deck 531
+player 531 discards a 16 to deck 532
+player 531 current hand : 531 224 332 805 722 28 2 694 685 364 134 176 645 975 853 976 777 888 928 198 
+player 531 draws a 922 from deck 531
+player 531 discards a 224 to deck 532
+player 531 current hand : 531 332 805 722 28 2 694 685 364 134 176 645 975 853 976 777 888 928 198 922 
+player 531 draws a 870 from deck 531
+player 531 discards a 332 to deck 532
+player 531 current hand : 531 805 722 28 2 694 685 364 134 176 645 975 853 976 777 888 928 198 922 870 
+player 531 draws a 17 from deck 531
+player 531 discards a 805 to deck 532
+player 531 current hand : 531 722 28 2 694 685 364 134 176 645 975 853 976 777 888 928 198 922 870 17 
+player 531 draws a 706 from deck 531
+player 531 discards a 722 to deck 532
+player 531 current hand : 531 28 2 694 685 364 134 176 645 975 853 976 777 888 928 198 922 870 17 706 
+player 531 draws a 729 from deck 531
+player 531 discards a 28 to deck 532
+player 531 current hand : 531 2 694 685 364 134 176 645 975 853 976 777 888 928 198 922 870 17 706 729 
+player 531 draws a 849 from deck 531
+player 531 discards a 2 to deck 532
+player 531 current hand : 531 694 685 364 134 176 645 975 853 976 777 888 928 198 922 870 17 706 729 849 
+player 531 draws a 339 from deck 531
+player 531 discards a 694 to deck 532
+player 531 current hand : 531 685 364 134 176 645 975 853 976 777 888 928 198 922 870 17 706 729 849 339 
+player 531 draws a 481 from deck 531
+player 531 discards a 685 to deck 532
+player 531 current hand : 531 364 134 176 645 975 853 976 777 888 928 198 922 870 17 706 729 849 339 481 
+player 531 draws a 611 from deck 531
+player 531 discards a 364 to deck 532
+player 531 current hand : 531 134 176 645 975 853 976 777 888 928 198 922 870 17 706 729 849 339 481 611 
+player 531 draws a 392 from deck 531
+player 531 discards a 134 to deck 532
+player 531 current hand : 531 176 645 975 853 976 777 888 928 198 922 870 17 706 729 849 339 481 611 392 
+player 531 draws a 165 from deck 531
+player 531 discards a 176 to deck 532
+player 531 current hand : 531 645 975 853 976 777 888 928 198 922 870 17 706 729 849 339 481 611 392 165 
+player 531 draws a 224 from deck 531
+player 531 discards a 645 to deck 532
+player 531 current hand : 531 975 853 976 777 888 928 198 922 870 17 706 729 849 339 481 611 392 165 224 
+player 531 draws a 85 from deck 531
+player 531 discards a 975 to deck 532
+player 531 current hand : 531 853 976 777 888 928 198 922 870 17 706 729 849 339 481 611 392 165 224 85 
+player 531 draws a 709 from deck 531
+player 531 discards a 853 to deck 532
+player 531 current hand : 531 976 777 888 928 198 922 870 17 706 729 849 339 481 611 392 165 224 85 709 
+player 531 draws a 36 from deck 531
+player 531 discards a 976 to deck 532
+player 531 current hand : 531 777 888 928 198 922 870 17 706 729 849 339 481 611 392 165 224 85 709 36 
+player 531 draws a 950 from deck 531
+player 531 discards a 777 to deck 532
+player 531 current hand : 531 888 928 198 922 870 17 706 729 849 339 481 611 392 165 224 85 709 36 950 
+player 531 draws a 729 from deck 531
+player 531 discards a 888 to deck 532
+player 531 current hand : 531 928 198 922 870 17 706 729 849 339 481 611 392 165 224 85 709 36 950 729 
+player 531 draws a 364 from deck 531
+player 531 discards a 928 to deck 532

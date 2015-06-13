@@ -1,0 +1,319 @@
+player 245 initial hand 15 423 464 50 426 799 86 313 617 588 621 510 205 365 52 797 844 970 870 531 
+player 245 draws a 331 from deck 245
+player 245 discards a 15 to deck 246
+player 245 current hand : 423 464 50 426 799 86 313 617 588 621 510 205 365 52 797 844 970 870 531 331 
+player 245 draws a 556 from deck 245
+player 245 discards a 423 to deck 246
+player 245 current hand : 464 50 426 799 86 313 617 588 621 510 205 365 52 797 844 970 870 531 331 556 
+player 245 draws a 672 from deck 245
+player 245 discards a 464 to deck 246
+player 245 current hand : 50 426 799 86 313 617 588 621 510 205 365 52 797 844 970 870 531 331 556 672 
+player 245 draws a 162 from deck 245
+player 245 discards a 50 to deck 246
+player 245 current hand : 426 799 86 313 617 588 621 510 205 365 52 797 844 970 870 531 331 556 672 162 
+player 245 draws a 137 from deck 245
+player 245 discards a 426 to deck 246
+player 245 current hand : 799 86 313 617 588 621 510 205 365 52 797 844 970 870 531 331 556 672 162 137 
+player 245 draws a 701 from deck 245
+player 245 discards a 799 to deck 246
+player 245 current hand : 86 313 617 588 621 510 205 365 52 797 844 970 870 531 331 556 672 162 137 701 
+player 245 draws a 481 from deck 245
+player 245 discards a 86 to deck 246
+player 245 current hand : 313 617 588 621 510 205 365 52 797 844 970 870 531 331 556 672 162 137 701 481 
+player 245 draws a 877 from deck 245
+player 245 discards a 313 to deck 246
+player 245 current hand : 617 588 621 510 205 365 52 797 844 970 870 531 331 556 672 162 137 701 481 877 
+player 245 draws a 153 from deck 245
+player 245 discards a 617 to deck 246
+player 245 current hand : 588 621 510 205 365 52 797 844 970 870 531 331 556 672 162 137 701 481 877 153 
+player 245 draws a 986 from deck 245
+player 245 discards a 588 to deck 246
+player 245 current hand : 621 510 205 365 52 797 844 970 870 531 331 556 672 162 137 701 481 877 153 986 
+player 245 draws a 135 from deck 245
+player 245 discards a 621 to deck 246
+player 245 current hand : 510 205 365 52 797 844 970 870 531 331 556 672 162 137 701 481 877 153 986 135 
+player 245 draws a 546 from deck 245
+player 245 discards a 510 to deck 246
+player 245 current hand : 205 365 52 797 844 970 870 531 331 556 672 162 137 701 481 877 153 986 135 546 
+player 245 draws a 441 from deck 245
+player 245 discards a 205 to deck 246
+player 245 current hand : 365 52 797 844 970 870 531 331 556 672 162 137 701 481 877 153 986 135 546 441 
+player 245 draws a 4 from deck 245
+player 245 discards a 365 to deck 246
+player 245 current hand : 52 797 844 970 870 531 331 556 672 162 137 701 481 877 153 986 135 546 441 4 
+player 245 draws a 984 from deck 245
+player 245 discards a 52 to deck 246
+player 245 current hand : 797 844 970 870 531 331 556 672 162 137 701 481 877 153 986 135 546 441 4 984 
+player 245 draws a 392 from deck 245
+player 245 discards a 797 to deck 246
+player 245 current hand : 844 970 870 531 331 556 672 162 137 701 481 877 153 986 135 546 441 4 984 392 
+player 245 draws a 409 from deck 245
+player 245 discards a 844 to deck 246
+player 245 current hand : 970 870 531 331 556 672 162 137 701 481 877 153 986 135 546 441 4 984 392 409 
+player 245 draws a 808 from deck 245
+player 245 discards a 970 to deck 246
+player 245 current hand : 870 531 331 556 672 162 137 701 481 877 153 986 135 546 441 4 984 392 409 808 
+player 245 draws a 522 from deck 245
+player 245 discards a 870 to deck 246
+player 245 current hand : 531 331 556 672 162 137 701 481 877 153 986 135 546 441 4 984 392 409 808 522 
+player 245 draws a 590 from deck 245
+player 245 discards a 531 to deck 246
+player 245 current hand : 331 556 672 162 137 701 481 877 153 986 135 546 441 4 984 392 409 808 522 590 
+player 245 draws a 349 from deck 245
+player 245 discards a 331 to deck 246
+player 245 current hand : 556 672 162 137 701 481 877 153 986 135 546 441 4 984 392 409 808 522 590 349 
+player 245 draws a 115 from deck 245
+player 245 discards a 556 to deck 246
+player 245 current hand : 672 162 137 701 481 877 153 986 135 546 441 4 984 392 409 808 522 590 349 115 
+player 245 draws a 177 from deck 245
+player 245 discards a 672 to deck 246
+player 245 current hand : 162 137 701 481 877 153 986 135 546 441 4 984 392 409 808 522 590 349 115 177 
+player 245 draws a 822 from deck 245
+player 245 discards a 162 to deck 246
+player 245 current hand : 137 701 481 877 153 986 135 546 441 4 984 392 409 808 522 590 349 115 177 822 
+player 245 draws a 571 from deck 245
+player 245 discards a 137 to deck 246
+player 245 current hand : 701 481 877 153 986 135 546 441 4 984 392 409 808 522 590 349 115 177 822 571 
+player 245 draws a 826 from deck 245
+player 245 discards a 701 to deck 246
+player 245 current hand : 481 877 153 986 135 546 441 4 984 392 409 808 522 590 349 115 177 822 571 826 
+player 245 draws a 926 from deck 245
+player 245 discards a 481 to deck 246
+player 245 current hand : 877 153 986 135 546 441 4 984 392 409 808 522 590 349 115 177 822 571 826 926 
+player 245 draws a 158 from deck 245
+player 245 discards a 877 to deck 246
+player 245 current hand : 153 986 135 546 441 4 984 392 409 808 522 590 349 115 177 822 571 826 926 158 
+player 245 draws a 786 from deck 245
+player 245 discards a 153 to deck 246
+player 245 current hand : 986 135 546 441 4 984 392 409 808 522 590 349 115 177 822 571 826 926 158 786 
+player 245 draws a 926 from deck 245
+player 245 discards a 986 to deck 246
+player 245 current hand : 135 546 441 4 984 392 409 808 522 590 349 115 177 822 571 826 926 158 786 926 
+player 245 draws a 702 from deck 245
+player 245 discards a 135 to deck 246
+player 245 current hand : 546 441 4 984 392 409 808 522 590 349 115 177 822 571 826 926 158 786 926 702 
+player 245 draws a 815 from deck 245
+player 245 discards a 546 to deck 246
+player 245 current hand : 441 4 984 392 409 808 522 590 349 115 177 822 571 826 926 158 786 926 702 815 
+player 245 draws a 598 from deck 245
+player 245 discards a 441 to deck 246
+player 245 current hand : 4 984 392 409 808 522 590 349 115 177 822 571 826 926 158 786 926 702 815 598 
+player 245 draws a 768 from deck 245
+player 245 discards a 4 to deck 246
+player 245 current hand : 984 392 409 808 522 590 349 115 177 822 571 826 926 158 786 926 702 815 598 768 
+player 245 draws a 204 from deck 245
+player 245 discards a 984 to deck 246
+player 245 current hand : 392 409 808 522 590 349 115 177 822 571 826 926 158 786 926 702 815 598 768 204 
+player 245 draws a 991 from deck 245
+player 245 discards a 392 to deck 246
+player 245 current hand : 409 808 522 590 349 115 177 822 571 826 926 158 786 926 702 815 598 768 204 991 
+player 245 draws a 229 from deck 245
+player 245 discards a 409 to deck 246
+player 245 current hand : 808 522 590 349 115 177 822 571 826 926 158 786 926 702 815 598 768 204 991 229 
+player 245 draws a 888 from deck 245
+player 245 discards a 808 to deck 246
+player 245 current hand : 522 590 349 115 177 822 571 826 926 158 786 926 702 815 598 768 204 991 229 888 
+player 245 draws a 3 from deck 245
+player 245 discards a 522 to deck 246
+player 245 current hand : 590 349 115 177 822 571 826 926 158 786 926 702 815 598 768 204 991 229 888 3 
+player 245 draws a 470 from deck 245
+player 245 discards a 590 to deck 246
+player 245 current hand : 349 115 177 822 571 826 926 158 786 926 702 815 598 768 204 991 229 888 3 470 
+player 245 draws a 4 from deck 245
+player 245 discards a 349 to deck 246
+player 245 current hand : 115 177 822 571 826 926 158 786 926 702 815 598 768 204 991 229 888 3 470 4 
+player 245 draws a 753 from deck 245
+player 245 discards a 115 to deck 246
+player 245 current hand : 177 822 571 826 926 158 786 926 702 815 598 768 204 991 229 888 3 470 4 753 
+player 245 draws a 507 from deck 245
+player 245 discards a 177 to deck 246
+player 245 current hand : 822 571 826 926 158 786 926 702 815 598 768 204 991 229 888 3 470 4 753 507 
+player 245 draws a 266 from deck 245
+player 245 discards a 822 to deck 246
+player 245 current hand : 571 826 926 158 786 926 702 815 598 768 204 991 229 888 3 470 4 753 507 266 
+player 245 draws a 497 from deck 245
+player 245 discards a 571 to deck 246
+player 245 current hand : 826 926 158 786 926 702 815 598 768 204 991 229 888 3 470 4 753 507 266 497 
+player 245 draws a 947 from deck 245
+player 245 discards a 826 to deck 246
+player 245 current hand : 926 158 786 926 702 815 598 768 204 991 229 888 3 470 4 753 507 266 497 947 
+player 245 draws a 400 from deck 245
+player 245 discards a 926 to deck 246
+player 245 current hand : 158 786 926 702 815 598 768 204 991 229 888 3 470 4 753 507 266 497 947 400 
+player 245 draws a 91 from deck 245
+player 245 discards a 158 to deck 246
+player 245 current hand : 786 926 702 815 598 768 204 991 229 888 3 470 4 753 507 266 497 947 400 91 
+player 245 draws a 13 from deck 245
+player 245 discards a 786 to deck 246
+player 245 current hand : 926 702 815 598 768 204 991 229 888 3 470 4 753 507 266 497 947 400 91 13 
+player 245 draws a 246 from deck 245
+player 245 discards a 926 to deck 246
+player 245 current hand : 702 815 598 768 204 991 229 888 3 470 4 753 507 266 497 947 400 91 13 246 
+player 245 draws a 634 from deck 245
+player 245 discards a 702 to deck 246
+player 245 current hand : 815 598 768 204 991 229 888 3 470 4 753 507 266 497 947 400 91 13 246 634 
+player 245 draws a 675 from deck 245
+player 245 discards a 815 to deck 246
+player 245 current hand : 598 768 204 991 229 888 3 470 4 753 507 266 497 947 400 91 13 246 634 675 
+player 245 draws a 113 from deck 245
+player 245 discards a 598 to deck 246
+player 245 current hand : 768 204 991 229 888 3 470 4 753 507 266 497 947 400 91 13 246 634 675 113 
+player 245 draws a 523 from deck 245
+player 245 discards a 768 to deck 246
+player 245 current hand : 204 991 229 888 3 470 4 753 507 266 497 947 400 91 13 246 634 675 113 523 
+player 245 draws a 814 from deck 245
+player 245 discards a 204 to deck 246
+player 245 current hand : 991 229 888 3 470 4 753 507 266 497 947 400 91 13 246 634 675 113 523 814 
+player 245 draws a 694 from deck 245
+player 245 discards a 991 to deck 246
+player 245 current hand : 229 888 3 470 4 753 507 266 497 947 400 91 13 246 634 675 113 523 814 694 
+player 245 draws a 860 from deck 245
+player 245 discards a 229 to deck 246
+player 245 current hand : 888 3 470 4 753 507 266 497 947 400 91 13 246 634 675 113 523 814 694 860 
+player 245 draws a 776 from deck 245
+player 245 discards a 888 to deck 246
+player 245 current hand : 3 470 4 753 507 266 497 947 400 91 13 246 634 675 113 523 814 694 860 776 
+player 245 draws a 180 from deck 245
+player 245 discards a 3 to deck 246
+player 245 current hand : 470 4 753 507 266 497 947 400 91 13 246 634 675 113 523 814 694 860 776 180 
+player 245 draws a 605 from deck 245
+player 245 discards a 470 to deck 246
+player 245 current hand : 4 753 507 266 497 947 400 91 13 246 634 675 113 523 814 694 860 776 180 605 
+player 245 draws a 537 from deck 245
+player 245 discards a 4 to deck 246
+player 245 current hand : 753 507 266 497 947 400 91 13 246 634 675 113 523 814 694 860 776 180 605 537 
+player 245 draws a 795 from deck 245
+player 245 discards a 753 to deck 246
+player 245 current hand : 507 266 497 947 400 91 13 246 634 675 113 523 814 694 860 776 180 605 537 795 
+player 245 draws a 537 from deck 245
+player 245 discards a 507 to deck 246
+player 245 current hand : 266 497 947 400 91 13 246 634 675 113 523 814 694 860 776 180 605 537 795 537 
+player 245 draws a 234 from deck 245
+player 245 discards a 266 to deck 246
+player 245 current hand : 497 947 400 91 13 246 634 675 113 523 814 694 860 776 180 605 537 795 537 234 
+player 245 draws a 616 from deck 245
+player 245 discards a 497 to deck 246
+player 245 current hand : 947 400 91 13 246 634 675 113 523 814 694 860 776 180 605 537 795 537 234 616 
+player 245 draws a 824 from deck 245
+player 245 discards a 947 to deck 246
+player 245 current hand : 400 91 13 246 634 675 113 523 814 694 860 776 180 605 537 795 537 234 616 824 
+player 245 draws a 574 from deck 245
+player 245 discards a 400 to deck 246
+player 245 current hand : 91 13 246 634 675 113 523 814 694 860 776 180 605 537 795 537 234 616 824 574 
+player 245 draws a 870 from deck 245
+player 245 discards a 91 to deck 246
+player 245 current hand : 13 246 634 675 113 523 814 694 860 776 180 605 537 795 537 234 616 824 574 870 
+player 245 draws a 185 from deck 245
+player 245 discards a 13 to deck 246
+player 245 current hand : 246 634 675 113 523 814 694 860 776 180 605 537 795 537 234 616 824 574 870 185 
+player 245 draws a 407 from deck 245
+player 245 discards a 246 to deck 246
+player 245 current hand : 634 675 113 523 814 694 860 776 180 605 537 795 537 234 616 824 574 870 185 407 
+player 245 draws a 438 from deck 245
+player 245 discards a 634 to deck 246
+player 245 current hand : 675 113 523 814 694 860 776 180 605 537 795 537 234 616 824 574 870 185 407 438 
+player 245 draws a 610 from deck 245
+player 245 discards a 675 to deck 246
+player 245 current hand : 113 523 814 694 860 776 180 605 537 795 537 234 616 824 574 870 185 407 438 610 
+player 245 draws a 699 from deck 245
+player 245 discards a 113 to deck 246
+player 245 current hand : 523 814 694 860 776 180 605 537 795 537 234 616 824 574 870 185 407 438 610 699 
+player 245 draws a 587 from deck 245
+player 245 discards a 523 to deck 246
+player 245 current hand : 814 694 860 776 180 605 537 795 537 234 616 824 574 870 185 407 438 610 699 587 
+player 245 draws a 875 from deck 245
+player 245 discards a 814 to deck 246
+player 245 current hand : 694 860 776 180 605 537 795 537 234 616 824 574 870 185 407 438 610 699 587 875 
+player 245 draws a 787 from deck 245
+player 245 discards a 694 to deck 246
+player 245 current hand : 860 776 180 605 537 795 537 234 616 824 574 870 185 407 438 610 699 587 875 787 
+player 245 draws a 317 from deck 245
+player 245 discards a 860 to deck 246
+player 245 current hand : 776 180 605 537 795 537 234 616 824 574 870 185 407 438 610 699 587 875 787 317 
+player 245 draws a 840 from deck 245
+player 245 discards a 776 to deck 246
+player 245 current hand : 180 605 537 795 537 234 616 824 574 870 185 407 438 610 699 587 875 787 317 840 
+player 245 draws a 814 from deck 245
+player 245 discards a 180 to deck 246
+player 245 current hand : 605 537 795 537 234 616 824 574 870 185 407 438 610 699 587 875 787 317 840 814 
+player 245 draws a 753 from deck 245
+player 245 discards a 605 to deck 246
+player 245 current hand : 537 795 537 234 616 824 574 870 185 407 438 610 699 587 875 787 317 840 814 753 
+player 245 draws a 96 from deck 245
+player 245 discards a 537 to deck 246
+player 245 current hand : 795 537 234 616 824 574 870 185 407 438 610 699 587 875 787 317 840 814 753 96 
+player 245 draws a 852 from deck 245
+player 245 discards a 795 to deck 246
+player 245 current hand : 537 234 616 824 574 870 185 407 438 610 699 587 875 787 317 840 814 753 96 852 
+player 245 draws a 20 from deck 245
+player 245 discards a 537 to deck 246
+player 245 current hand : 234 616 824 574 870 185 407 438 610 699 587 875 787 317 840 814 753 96 852 20 
+player 245 draws a 809 from deck 245
+player 245 discards a 234 to deck 246
+player 245 current hand : 616 824 574 870 185 407 438 610 699 587 875 787 317 840 814 753 96 852 20 809 
+player 245 draws a 856 from deck 245
+player 245 discards a 616 to deck 246
+player 245 current hand : 824 574 870 185 407 438 610 699 587 875 787 317 840 814 753 96 852 20 809 856 
+player 245 draws a 512 from deck 245
+player 245 discards a 824 to deck 246
+player 245 current hand : 574 870 185 407 438 610 699 587 875 787 317 840 814 753 96 852 20 809 856 512 
+player 245 draws a 641 from deck 245
+player 245 discards a 574 to deck 246
+player 245 current hand : 870 185 407 438 610 699 587 875 787 317 840 814 753 96 852 20 809 856 512 641 
+player 245 draws a 913 from deck 245
+player 245 discards a 870 to deck 246
+player 245 current hand : 185 407 438 610 699 587 875 787 317 840 814 753 96 852 20 809 856 512 641 913 
+player 245 draws a 111 from deck 245
+player 245 discards a 185 to deck 246
+player 245 current hand : 407 438 610 699 587 875 787 317 840 814 753 96 852 20 809 856 512 641 913 111 
+player 245 draws a 852 from deck 245
+player 245 discards a 407 to deck 246
+player 245 current hand : 438 610 699 587 875 787 317 840 814 753 96 852 20 809 856 512 641 913 111 852 
+player 245 draws a 431 from deck 245
+player 245 discards a 438 to deck 246
+player 245 current hand : 610 699 587 875 787 317 840 814 753 96 852 20 809 856 512 641 913 111 852 431 
+player 245 draws a 926 from deck 245
+player 245 discards a 610 to deck 246
+player 245 current hand : 699 587 875 787 317 840 814 753 96 852 20 809 856 512 641 913 111 852 431 926 
+player 245 draws a 220 from deck 245
+player 245 discards a 699 to deck 246
+player 245 current hand : 587 875 787 317 840 814 753 96 852 20 809 856 512 641 913 111 852 431 926 220 
+player 245 draws a 24 from deck 245
+player 245 discards a 587 to deck 246
+player 245 current hand : 875 787 317 840 814 753 96 852 20 809 856 512 641 913 111 852 431 926 220 24 
+player 245 draws a 641 from deck 245
+player 245 discards a 875 to deck 246
+player 245 current hand : 787 317 840 814 753 96 852 20 809 856 512 641 913 111 852 431 926 220 24 641 
+player 245 draws a 543 from deck 245
+player 245 discards a 787 to deck 246
+player 245 current hand : 317 840 814 753 96 852 20 809 856 512 641 913 111 852 431 926 220 24 641 543 
+player 245 draws a 967 from deck 245
+player 245 discards a 317 to deck 246
+player 245 current hand : 840 814 753 96 852 20 809 856 512 641 913 111 852 431 926 220 24 641 543 967 
+player 245 draws a 501 from deck 245
+player 245 discards a 840 to deck 246
+player 245 current hand : 814 753 96 852 20 809 856 512 641 913 111 852 431 926 220 24 641 543 967 501 
+player 245 draws a 456 from deck 245
+player 245 discards a 814 to deck 246
+player 245 current hand : 753 96 852 20 809 856 512 641 913 111 852 431 926 220 24 641 543 967 501 456 
+player 245 draws a 515 from deck 245
+player 245 discards a 753 to deck 246
+player 245 current hand : 96 852 20 809 856 512 641 913 111 852 431 926 220 24 641 543 967 501 456 515 
+player 245 draws a 793 from deck 245
+player 245 discards a 96 to deck 246
+player 245 current hand : 852 20 809 856 512 641 913 111 852 431 926 220 24 641 543 967 501 456 515 793 
+player 245 draws a 138 from deck 245
+player 245 discards a 852 to deck 246
+player 245 current hand : 20 809 856 512 641 913 111 852 431 926 220 24 641 543 967 501 456 515 793 138 
+player 245 draws a 791 from deck 245
+player 245 discards a 20 to deck 246
+player 245 current hand : 809 856 512 641 913 111 852 431 926 220 24 641 543 967 501 456 515 793 138 791 
+player 245 draws a 702 from deck 245
+player 245 discards a 809 to deck 246
+player 245 current hand : 856 512 641 913 111 852 431 926 220 24 641 543 967 501 456 515 793 138 791 702 
+player 245 draws a 246 from deck 245
+player 245 discards a 856 to deck 246
+player 245 current hand : 512 641 913 111 852 431 926 220 24 641 543 967 501 456 515 793 138 791 702 246 
+player 245 draws a 862 from deck 245
+player 245 discards a 512 to deck 246
+player 245 current hand : 641 913 111 852 431 926 220 24 641 543 967 501 456 515 793 138 791 702 246 862 

@@ -1,0 +1,304 @@
+player 131 initial hand 545 52 290 675 27 581 645 972 22 423 498 763 234 350 289 204 840 910 902 594 
+player 131 draws a 810 from deck 131
+player 131 discards a 545 to deck 132
+player 131 current hand : 52 290 675 27 581 645 972 22 423 498 763 234 350 289 204 840 910 902 594 810 
+player 131 draws a 300 from deck 131
+player 131 discards a 52 to deck 132
+player 131 current hand : 290 675 27 581 645 972 22 423 498 763 234 350 289 204 840 910 902 594 810 300 
+player 131 draws a 993 from deck 131
+player 131 discards a 290 to deck 132
+player 131 current hand : 675 27 581 645 972 22 423 498 763 234 350 289 204 840 910 902 594 810 300 993 
+player 131 draws a 835 from deck 131
+player 131 discards a 675 to deck 132
+player 131 current hand : 27 581 645 972 22 423 498 763 234 350 289 204 840 910 902 594 810 300 993 835 
+player 131 draws a 364 from deck 131
+player 131 discards a 27 to deck 132
+player 131 current hand : 581 645 972 22 423 498 763 234 350 289 204 840 910 902 594 810 300 993 835 364 
+player 131 draws a 136 from deck 131
+player 131 discards a 581 to deck 132
+player 131 current hand : 645 972 22 423 498 763 234 350 289 204 840 910 902 594 810 300 993 835 364 136 
+player 131 draws a 222 from deck 131
+player 131 discards a 645 to deck 132
+player 131 current hand : 972 22 423 498 763 234 350 289 204 840 910 902 594 810 300 993 835 364 136 222 
+player 131 draws a 121 from deck 131
+player 131 discards a 972 to deck 132
+player 131 current hand : 22 423 498 763 234 350 289 204 840 910 902 594 810 300 993 835 364 136 222 121 
+player 131 draws a 933 from deck 131
+player 131 discards a 22 to deck 132
+player 131 current hand : 423 498 763 234 350 289 204 840 910 902 594 810 300 993 835 364 136 222 121 933 
+player 131 draws a 924 from deck 131
+player 131 discards a 423 to deck 132
+player 131 current hand : 498 763 234 350 289 204 840 910 902 594 810 300 993 835 364 136 222 121 933 924 
+player 131 draws a 535 from deck 131
+player 131 discards a 498 to deck 132
+player 131 current hand : 763 234 350 289 204 840 910 902 594 810 300 993 835 364 136 222 121 933 924 535 
+player 131 draws a 786 from deck 131
+player 131 discards a 763 to deck 132
+player 131 current hand : 234 350 289 204 840 910 902 594 810 300 993 835 364 136 222 121 933 924 535 786 
+player 131 draws a 308 from deck 131
+player 131 discards a 234 to deck 132
+player 131 current hand : 350 289 204 840 910 902 594 810 300 993 835 364 136 222 121 933 924 535 786 308 
+player 131 draws a 488 from deck 131
+player 131 discards a 350 to deck 132
+player 131 current hand : 289 204 840 910 902 594 810 300 993 835 364 136 222 121 933 924 535 786 308 488 
+player 131 draws a 636 from deck 131
+player 131 discards a 289 to deck 132
+player 131 current hand : 204 840 910 902 594 810 300 993 835 364 136 222 121 933 924 535 786 308 488 636 
+player 131 draws a 897 from deck 131
+player 131 discards a 204 to deck 132
+player 131 current hand : 840 910 902 594 810 300 993 835 364 136 222 121 933 924 535 786 308 488 636 897 
+player 131 draws a 728 from deck 131
+player 131 discards a 840 to deck 132
+player 131 current hand : 910 902 594 810 300 993 835 364 136 222 121 933 924 535 786 308 488 636 897 728 
+player 131 draws a 176 from deck 131
+player 131 discards a 910 to deck 132
+player 131 current hand : 902 594 810 300 993 835 364 136 222 121 933 924 535 786 308 488 636 897 728 176 
+player 131 draws a 226 from deck 131
+player 131 discards a 902 to deck 132
+player 131 current hand : 594 810 300 993 835 364 136 222 121 933 924 535 786 308 488 636 897 728 176 226 
+player 131 draws a 18 from deck 131
+player 131 discards a 594 to deck 132
+player 131 current hand : 810 300 993 835 364 136 222 121 933 924 535 786 308 488 636 897 728 176 226 18 
+player 131 draws a 964 from deck 131
+player 131 discards a 810 to deck 132
+player 131 current hand : 300 993 835 364 136 222 121 933 924 535 786 308 488 636 897 728 176 226 18 964 
+player 131 draws a 224 from deck 131
+player 131 discards a 300 to deck 132
+player 131 current hand : 993 835 364 136 222 121 933 924 535 786 308 488 636 897 728 176 226 18 964 224 
+player 131 draws a 51 from deck 131
+player 131 discards a 993 to deck 132
+player 131 current hand : 835 364 136 222 121 933 924 535 786 308 488 636 897 728 176 226 18 964 224 51 
+player 131 draws a 505 from deck 131
+player 131 discards a 835 to deck 132
+player 131 current hand : 364 136 222 121 933 924 535 786 308 488 636 897 728 176 226 18 964 224 51 505 
+player 131 draws a 981 from deck 131
+player 131 discards a 364 to deck 132
+player 131 current hand : 136 222 121 933 924 535 786 308 488 636 897 728 176 226 18 964 224 51 505 981 
+player 131 draws a 919 from deck 131
+player 131 discards a 136 to deck 132
+player 131 current hand : 222 121 933 924 535 786 308 488 636 897 728 176 226 18 964 224 51 505 981 919 
+player 131 draws a 846 from deck 131
+player 131 discards a 222 to deck 132
+player 131 current hand : 121 933 924 535 786 308 488 636 897 728 176 226 18 964 224 51 505 981 919 846 
+player 131 draws a 509 from deck 131
+player 131 discards a 121 to deck 132
+player 131 current hand : 933 924 535 786 308 488 636 897 728 176 226 18 964 224 51 505 981 919 846 509 
+player 131 draws a 370 from deck 131
+player 131 discards a 933 to deck 132
+player 131 current hand : 924 535 786 308 488 636 897 728 176 226 18 964 224 51 505 981 919 846 509 370 
+player 131 draws a 548 from deck 131
+player 131 discards a 924 to deck 132
+player 131 current hand : 535 786 308 488 636 897 728 176 226 18 964 224 51 505 981 919 846 509 370 548 
+player 131 draws a 220 from deck 131
+player 131 discards a 535 to deck 132
+player 131 current hand : 786 308 488 636 897 728 176 226 18 964 224 51 505 981 919 846 509 370 548 220 
+player 131 draws a 822 from deck 131
+player 131 discards a 786 to deck 132
+player 131 current hand : 308 488 636 897 728 176 226 18 964 224 51 505 981 919 846 509 370 548 220 822 
+player 131 draws a 364 from deck 131
+player 131 discards a 308 to deck 132
+player 131 current hand : 488 636 897 728 176 226 18 964 224 51 505 981 919 846 509 370 548 220 822 364 
+player 131 draws a 143 from deck 131
+player 131 discards a 488 to deck 132
+player 131 current hand : 636 897 728 176 226 18 964 224 51 505 981 919 846 509 370 548 220 822 364 143 
+player 131 draws a 304 from deck 131
+player 131 discards a 636 to deck 132
+player 131 current hand : 897 728 176 226 18 964 224 51 505 981 919 846 509 370 548 220 822 364 143 304 
+player 131 draws a 314 from deck 131
+player 131 discards a 897 to deck 132
+player 131 current hand : 728 176 226 18 964 224 51 505 981 919 846 509 370 548 220 822 364 143 304 314 
+player 131 draws a 691 from deck 131
+player 131 discards a 728 to deck 132
+player 131 current hand : 176 226 18 964 224 51 505 981 919 846 509 370 548 220 822 364 143 304 314 691 
+player 131 draws a 373 from deck 131
+player 131 discards a 176 to deck 132
+player 131 current hand : 226 18 964 224 51 505 981 919 846 509 370 548 220 822 364 143 304 314 691 373 
+player 131 draws a 320 from deck 131
+player 131 discards a 226 to deck 132
+player 131 current hand : 18 964 224 51 505 981 919 846 509 370 548 220 822 364 143 304 314 691 373 320 
+player 131 draws a 4 from deck 131
+player 131 discards a 18 to deck 132
+player 131 current hand : 964 224 51 505 981 919 846 509 370 548 220 822 364 143 304 314 691 373 320 4 
+player 131 draws a 944 from deck 131
+player 131 discards a 964 to deck 132
+player 131 current hand : 224 51 505 981 919 846 509 370 548 220 822 364 143 304 314 691 373 320 4 944 
+player 131 draws a 741 from deck 131
+player 131 discards a 224 to deck 132
+player 131 current hand : 51 505 981 919 846 509 370 548 220 822 364 143 304 314 691 373 320 4 944 741 
+player 131 draws a 269 from deck 131
+player 131 discards a 51 to deck 132
+player 131 current hand : 505 981 919 846 509 370 548 220 822 364 143 304 314 691 373 320 4 944 741 269 
+player 131 draws a 501 from deck 131
+player 131 discards a 505 to deck 132
+player 131 current hand : 981 919 846 509 370 548 220 822 364 143 304 314 691 373 320 4 944 741 269 501 
+player 131 draws a 985 from deck 131
+player 131 discards a 981 to deck 132
+player 131 current hand : 919 846 509 370 548 220 822 364 143 304 314 691 373 320 4 944 741 269 501 985 
+player 131 draws a 310 from deck 131
+player 131 discards a 919 to deck 132
+player 131 current hand : 846 509 370 548 220 822 364 143 304 314 691 373 320 4 944 741 269 501 985 310 
+player 131 draws a 310 from deck 131
+player 131 discards a 846 to deck 132
+player 131 current hand : 509 370 548 220 822 364 143 304 314 691 373 320 4 944 741 269 501 985 310 310 
+player 131 draws a 105 from deck 131
+player 131 discards a 509 to deck 132
+player 131 current hand : 370 548 220 822 364 143 304 314 691 373 320 4 944 741 269 501 985 310 310 105 
+player 131 draws a 432 from deck 131
+player 131 discards a 370 to deck 132
+player 131 current hand : 548 220 822 364 143 304 314 691 373 320 4 944 741 269 501 985 310 310 105 432 
+player 131 draws a 224 from deck 131
+player 131 discards a 548 to deck 132
+player 131 current hand : 220 822 364 143 304 314 691 373 320 4 944 741 269 501 985 310 310 105 432 224 
+player 131 draws a 816 from deck 131
+player 131 discards a 220 to deck 132
+player 131 current hand : 822 364 143 304 314 691 373 320 4 944 741 269 501 985 310 310 105 432 224 816 
+player 131 draws a 834 from deck 131
+player 131 discards a 822 to deck 132
+player 131 current hand : 364 143 304 314 691 373 320 4 944 741 269 501 985 310 310 105 432 224 816 834 
+player 131 draws a 25 from deck 131
+player 131 discards a 364 to deck 132
+player 131 current hand : 143 304 314 691 373 320 4 944 741 269 501 985 310 310 105 432 224 816 834 25 
+player 131 draws a 423 from deck 131
+player 131 discards a 143 to deck 132
+player 131 current hand : 304 314 691 373 320 4 944 741 269 501 985 310 310 105 432 224 816 834 25 423 
+player 131 draws a 200 from deck 131
+player 131 discards a 304 to deck 132
+player 131 current hand : 314 691 373 320 4 944 741 269 501 985 310 310 105 432 224 816 834 25 423 200 
+player 131 draws a 38 from deck 131
+player 131 discards a 314 to deck 132
+player 131 current hand : 691 373 320 4 944 741 269 501 985 310 310 105 432 224 816 834 25 423 200 38 
+player 131 draws a 258 from deck 131
+player 131 discards a 691 to deck 132
+player 131 current hand : 373 320 4 944 741 269 501 985 310 310 105 432 224 816 834 25 423 200 38 258 
+player 131 draws a 875 from deck 131
+player 131 discards a 373 to deck 132
+player 131 current hand : 320 4 944 741 269 501 985 310 310 105 432 224 816 834 25 423 200 38 258 875 
+player 131 draws a 661 from deck 131
+player 131 discards a 320 to deck 132
+player 131 current hand : 4 944 741 269 501 985 310 310 105 432 224 816 834 25 423 200 38 258 875 661 
+player 131 draws a 240 from deck 131
+player 131 discards a 4 to deck 132
+player 131 current hand : 944 741 269 501 985 310 310 105 432 224 816 834 25 423 200 38 258 875 661 240 
+player 131 draws a 793 from deck 131
+player 131 discards a 944 to deck 132
+player 131 current hand : 741 269 501 985 310 310 105 432 224 816 834 25 423 200 38 258 875 661 240 793 
+player 131 draws a 874 from deck 131
+player 131 discards a 741 to deck 132
+player 131 current hand : 269 501 985 310 310 105 432 224 816 834 25 423 200 38 258 875 661 240 793 874 
+player 131 draws a 14 from deck 131
+player 131 discards a 269 to deck 132
+player 131 current hand : 501 985 310 310 105 432 224 816 834 25 423 200 38 258 875 661 240 793 874 14 
+player 131 draws a 657 from deck 131
+player 131 discards a 501 to deck 132
+player 131 current hand : 985 310 310 105 432 224 816 834 25 423 200 38 258 875 661 240 793 874 14 657 
+player 131 draws a 86 from deck 131
+player 131 discards a 985 to deck 132
+player 131 current hand : 310 310 105 432 224 816 834 25 423 200 38 258 875 661 240 793 874 14 657 86 
+player 131 draws a 609 from deck 131
+player 131 discards a 310 to deck 132
+player 131 current hand : 310 105 432 224 816 834 25 423 200 38 258 875 661 240 793 874 14 657 86 609 
+player 131 draws a 93 from deck 131
+player 131 discards a 310 to deck 132
+player 131 current hand : 105 432 224 816 834 25 423 200 38 258 875 661 240 793 874 14 657 86 609 93 
+player 131 draws a 206 from deck 131
+player 131 discards a 105 to deck 132
+player 131 current hand : 432 224 816 834 25 423 200 38 258 875 661 240 793 874 14 657 86 609 93 206 
+player 131 draws a 455 from deck 131
+player 131 discards a 432 to deck 132
+player 131 current hand : 224 816 834 25 423 200 38 258 875 661 240 793 874 14 657 86 609 93 206 455 
+player 131 draws a 759 from deck 131
+player 131 discards a 224 to deck 132
+player 131 current hand : 816 834 25 423 200 38 258 875 661 240 793 874 14 657 86 609 93 206 455 759 
+player 131 draws a 31 from deck 131
+player 131 discards a 816 to deck 132
+player 131 current hand : 834 25 423 200 38 258 875 661 240 793 874 14 657 86 609 93 206 455 759 31 
+player 131 draws a 537 from deck 131
+player 131 discards a 834 to deck 132
+player 131 current hand : 25 423 200 38 258 875 661 240 793 874 14 657 86 609 93 206 455 759 31 537 
+player 131 draws a 159 from deck 131
+player 131 discards a 25 to deck 132
+player 131 current hand : 423 200 38 258 875 661 240 793 874 14 657 86 609 93 206 455 759 31 537 159 
+player 131 draws a 729 from deck 131
+player 131 discards a 423 to deck 132
+player 131 current hand : 200 38 258 875 661 240 793 874 14 657 86 609 93 206 455 759 31 537 159 729 
+player 131 draws a 422 from deck 131
+player 131 discards a 200 to deck 132
+player 131 current hand : 38 258 875 661 240 793 874 14 657 86 609 93 206 455 759 31 537 159 729 422 
+player 131 draws a 924 from deck 131
+player 131 discards a 38 to deck 132
+player 131 current hand : 258 875 661 240 793 874 14 657 86 609 93 206 455 759 31 537 159 729 422 924 
+player 131 draws a 644 from deck 131
+player 131 discards a 258 to deck 132
+player 131 current hand : 875 661 240 793 874 14 657 86 609 93 206 455 759 31 537 159 729 422 924 644 
+player 131 draws a 686 from deck 131
+player 131 discards a 875 to deck 132
+player 131 current hand : 661 240 793 874 14 657 86 609 93 206 455 759 31 537 159 729 422 924 644 686 
+player 131 draws a 240 from deck 131
+player 131 discards a 661 to deck 132
+player 131 current hand : 240 793 874 14 657 86 609 93 206 455 759 31 537 159 729 422 924 644 686 240 
+player 131 draws a 649 from deck 131
+player 131 discards a 240 to deck 132
+player 131 current hand : 793 874 14 657 86 609 93 206 455 759 31 537 159 729 422 924 644 686 240 649 
+player 131 draws a 732 from deck 131
+player 131 discards a 793 to deck 132
+player 131 current hand : 874 14 657 86 609 93 206 455 759 31 537 159 729 422 924 644 686 240 649 732 
+player 131 draws a 796 from deck 131
+player 131 discards a 874 to deck 132
+player 131 current hand : 14 657 86 609 93 206 455 759 31 537 159 729 422 924 644 686 240 649 732 796 
+player 131 draws a 393 from deck 131
+player 131 discards a 14 to deck 132
+player 131 current hand : 657 86 609 93 206 455 759 31 537 159 729 422 924 644 686 240 649 732 796 393 
+player 131 draws a 595 from deck 131
+player 131 discards a 657 to deck 132
+player 131 current hand : 86 609 93 206 455 759 31 537 159 729 422 924 644 686 240 649 732 796 393 595 
+player 131 draws a 518 from deck 131
+player 131 discards a 86 to deck 132
+player 131 current hand : 609 93 206 455 759 31 537 159 729 422 924 644 686 240 649 732 796 393 595 518 
+player 131 draws a 251 from deck 131
+player 131 discards a 609 to deck 132
+player 131 current hand : 93 206 455 759 31 537 159 729 422 924 644 686 240 649 732 796 393 595 518 251 
+player 131 draws a 746 from deck 131
+player 131 discards a 93 to deck 132
+player 131 current hand : 206 455 759 31 537 159 729 422 924 644 686 240 649 732 796 393 595 518 251 746 
+player 131 draws a 297 from deck 131
+player 131 discards a 206 to deck 132
+player 131 current hand : 455 759 31 537 159 729 422 924 644 686 240 649 732 796 393 595 518 251 746 297 
+player 131 draws a 701 from deck 131
+player 131 discards a 455 to deck 132
+player 131 current hand : 759 31 537 159 729 422 924 644 686 240 649 732 796 393 595 518 251 746 297 701 
+player 131 draws a 336 from deck 131
+player 131 discards a 759 to deck 132
+player 131 current hand : 31 537 159 729 422 924 644 686 240 649 732 796 393 595 518 251 746 297 701 336 
+player 131 draws a 5 from deck 131
+player 131 discards a 31 to deck 132
+player 131 current hand : 537 159 729 422 924 644 686 240 649 732 796 393 595 518 251 746 297 701 336 5 
+player 131 draws a 260 from deck 131
+player 131 discards a 537 to deck 132
+player 131 current hand : 159 729 422 924 644 686 240 649 732 796 393 595 518 251 746 297 701 336 5 260 
+player 131 draws a 616 from deck 131
+player 131 discards a 159 to deck 132
+player 131 current hand : 729 422 924 644 686 240 649 732 796 393 595 518 251 746 297 701 336 5 260 616 
+player 131 draws a 430 from deck 131
+player 131 discards a 729 to deck 132
+player 131 current hand : 422 924 644 686 240 649 732 796 393 595 518 251 746 297 701 336 5 260 616 430 
+player 131 draws a 81 from deck 131
+player 131 discards a 422 to deck 132
+player 131 current hand : 924 644 686 240 649 732 796 393 595 518 251 746 297 701 336 5 260 616 430 81 
+player 131 draws a 309 from deck 131
+player 131 discards a 924 to deck 132
+player 131 current hand : 644 686 240 649 732 796 393 595 518 251 746 297 701 336 5 260 616 430 81 309 
+player 131 draws a 634 from deck 131
+player 131 discards a 644 to deck 132
+player 131 current hand : 686 240 649 732 796 393 595 518 251 746 297 701 336 5 260 616 430 81 309 634 
+player 131 draws a 291 from deck 131
+player 131 discards a 686 to deck 132
+player 131 current hand : 240 649 732 796 393 595 518 251 746 297 701 336 5 260 616 430 81 309 634 291 
+player 131 draws a 888 from deck 131
+player 131 discards a 240 to deck 132
+player 131 current hand : 649 732 796 393 595 518 251 746 297 701 336 5 260 616 430 81 309 634 291 888 
+player 131 draws a 66 from deck 131
+player 131 discards a 649 to deck 132
+player 131 current hand : 732 796 393 595 518 251 746 297 701 336 5 260 616 430 81 309 634 291 888 66 
+player 131 draws a 14 from deck 131
+player 131 discards a 732 to deck 132
+player 131 current hand : 796 393 595 518 251 746 297 701 336 5 260 616 430 81 309 634 291 888 66 14 

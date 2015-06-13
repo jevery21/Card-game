@@ -1,0 +1,334 @@
+player 431 initial hand 627 879 219 919 255 875 919 868 209 515 737 902 721 412 744 795 337 870 740 842 
+player 431 draws a 301 from deck 431
+player 431 discards a 627 to deck 432
+player 431 current hand : 879 219 919 255 875 919 868 209 515 737 902 721 412 744 795 337 870 740 842 301 
+player 431 draws a 452 from deck 431
+player 431 discards a 879 to deck 432
+player 431 current hand : 219 919 255 875 919 868 209 515 737 902 721 412 744 795 337 870 740 842 301 452 
+player 431 draws a 396 from deck 431
+player 431 discards a 219 to deck 432
+player 431 current hand : 919 255 875 919 868 209 515 737 902 721 412 744 795 337 870 740 842 301 452 396 
+player 431 draws a 552 from deck 431
+player 431 discards a 919 to deck 432
+player 431 current hand : 255 875 919 868 209 515 737 902 721 412 744 795 337 870 740 842 301 452 396 552 
+player 431 draws a 84 from deck 431
+player 431 discards a 255 to deck 432
+player 431 current hand : 875 919 868 209 515 737 902 721 412 744 795 337 870 740 842 301 452 396 552 84 
+player 431 draws a 926 from deck 431
+player 431 discards a 875 to deck 432
+player 431 current hand : 919 868 209 515 737 902 721 412 744 795 337 870 740 842 301 452 396 552 84 926 
+player 431 draws a 746 from deck 431
+player 431 discards a 919 to deck 432
+player 431 current hand : 868 209 515 737 902 721 412 744 795 337 870 740 842 301 452 396 552 84 926 746 
+player 431 draws a 282 from deck 431
+player 431 discards a 868 to deck 432
+player 431 current hand : 209 515 737 902 721 412 744 795 337 870 740 842 301 452 396 552 84 926 746 282 
+player 431 draws a 401 from deck 431
+player 431 discards a 209 to deck 432
+player 431 current hand : 515 737 902 721 412 744 795 337 870 740 842 301 452 396 552 84 926 746 282 401 
+player 431 draws a 99 from deck 431
+player 431 discards a 515 to deck 432
+player 431 current hand : 737 902 721 412 744 795 337 870 740 842 301 452 396 552 84 926 746 282 401 99 
+player 431 draws a 642 from deck 431
+player 431 discards a 737 to deck 432
+player 431 current hand : 902 721 412 744 795 337 870 740 842 301 452 396 552 84 926 746 282 401 99 642 
+player 431 draws a 44 from deck 431
+player 431 discards a 902 to deck 432
+player 431 current hand : 721 412 744 795 337 870 740 842 301 452 396 552 84 926 746 282 401 99 642 44 
+player 431 draws a 176 from deck 431
+player 431 discards a 721 to deck 432
+player 431 current hand : 412 744 795 337 870 740 842 301 452 396 552 84 926 746 282 401 99 642 44 176 
+player 431 draws a 900 from deck 431
+player 431 discards a 412 to deck 432
+player 431 current hand : 744 795 337 870 740 842 301 452 396 552 84 926 746 282 401 99 642 44 176 900 
+player 431 draws a 275 from deck 431
+player 431 discards a 744 to deck 432
+player 431 current hand : 795 337 870 740 842 301 452 396 552 84 926 746 282 401 99 642 44 176 900 275 
+player 431 draws a 886 from deck 431
+player 431 discards a 795 to deck 432
+player 431 current hand : 337 870 740 842 301 452 396 552 84 926 746 282 401 99 642 44 176 900 275 886 
+player 431 draws a 475 from deck 431
+player 431 discards a 337 to deck 432
+player 431 current hand : 870 740 842 301 452 396 552 84 926 746 282 401 99 642 44 176 900 275 886 475 
+player 431 draws a 516 from deck 431
+player 431 discards a 870 to deck 432
+player 431 current hand : 740 842 301 452 396 552 84 926 746 282 401 99 642 44 176 900 275 886 475 516 
+player 431 draws a 223 from deck 431
+player 431 discards a 740 to deck 432
+player 431 current hand : 842 301 452 396 552 84 926 746 282 401 99 642 44 176 900 275 886 475 516 223 
+player 431 draws a 342 from deck 431
+player 431 discards a 842 to deck 432
+player 431 current hand : 301 452 396 552 84 926 746 282 401 99 642 44 176 900 275 886 475 516 223 342 
+player 431 draws a 675 from deck 431
+player 431 discards a 301 to deck 432
+player 431 current hand : 452 396 552 84 926 746 282 401 99 642 44 176 900 275 886 475 516 223 342 675 
+player 431 draws a 741 from deck 431
+player 431 discards a 452 to deck 432
+player 431 current hand : 396 552 84 926 746 282 401 99 642 44 176 900 275 886 475 516 223 342 675 741 
+player 431 draws a 856 from deck 431
+player 431 discards a 396 to deck 432
+player 431 current hand : 552 84 926 746 282 401 99 642 44 176 900 275 886 475 516 223 342 675 741 856 
+player 431 draws a 595 from deck 431
+player 431 discards a 552 to deck 432
+player 431 current hand : 84 926 746 282 401 99 642 44 176 900 275 886 475 516 223 342 675 741 856 595 
+player 431 draws a 426 from deck 431
+player 431 discards a 84 to deck 432
+player 431 current hand : 926 746 282 401 99 642 44 176 900 275 886 475 516 223 342 675 741 856 595 426 
+player 431 draws a 581 from deck 431
+player 431 discards a 926 to deck 432
+player 431 current hand : 746 282 401 99 642 44 176 900 275 886 475 516 223 342 675 741 856 595 426 581 
+player 431 draws a 499 from deck 431
+player 431 discards a 746 to deck 432
+player 431 current hand : 282 401 99 642 44 176 900 275 886 475 516 223 342 675 741 856 595 426 581 499 
+player 431 draws a 735 from deck 431
+player 431 discards a 282 to deck 432
+player 431 current hand : 401 99 642 44 176 900 275 886 475 516 223 342 675 741 856 595 426 581 499 735 
+player 431 draws a 240 from deck 431
+player 431 discards a 401 to deck 432
+player 431 current hand : 99 642 44 176 900 275 886 475 516 223 342 675 741 856 595 426 581 499 735 240 
+player 431 draws a 400 from deck 431
+player 431 discards a 99 to deck 432
+player 431 current hand : 642 44 176 900 275 886 475 516 223 342 675 741 856 595 426 581 499 735 240 400 
+player 431 draws a 18 from deck 431
+player 431 discards a 642 to deck 432
+player 431 current hand : 44 176 900 275 886 475 516 223 342 675 741 856 595 426 581 499 735 240 400 18 
+player 431 draws a 504 from deck 431
+player 431 discards a 44 to deck 432
+player 431 current hand : 176 900 275 886 475 516 223 342 675 741 856 595 426 581 499 735 240 400 18 504 
+player 431 draws a 441 from deck 431
+player 431 discards a 176 to deck 432
+player 431 current hand : 900 275 886 475 516 223 342 675 741 856 595 426 581 499 735 240 400 18 504 441 
+player 431 draws a 792 from deck 431
+player 431 discards a 900 to deck 432
+player 431 current hand : 275 886 475 516 223 342 675 741 856 595 426 581 499 735 240 400 18 504 441 792 
+player 431 draws a 536 from deck 431
+player 431 discards a 275 to deck 432
+player 431 current hand : 886 475 516 223 342 675 741 856 595 426 581 499 735 240 400 18 504 441 792 536 
+player 431 draws a 856 from deck 431
+player 431 discards a 886 to deck 432
+player 431 current hand : 475 516 223 342 675 741 856 595 426 581 499 735 240 400 18 504 441 792 536 856 
+player 431 draws a 282 from deck 431
+player 431 discards a 475 to deck 432
+player 431 current hand : 516 223 342 675 741 856 595 426 581 499 735 240 400 18 504 441 792 536 856 282 
+player 431 draws a 913 from deck 431
+player 431 discards a 516 to deck 432
+player 431 current hand : 223 342 675 741 856 595 426 581 499 735 240 400 18 504 441 792 536 856 282 913 
+player 431 draws a 909 from deck 431
+player 431 discards a 223 to deck 432
+player 431 current hand : 342 675 741 856 595 426 581 499 735 240 400 18 504 441 792 536 856 282 913 909 
+player 431 draws a 510 from deck 431
+player 431 discards a 342 to deck 432
+player 431 current hand : 675 741 856 595 426 581 499 735 240 400 18 504 441 792 536 856 282 913 909 510 
+player 431 draws a 745 from deck 431
+player 431 discards a 675 to deck 432
+player 431 current hand : 741 856 595 426 581 499 735 240 400 18 504 441 792 536 856 282 913 909 510 745 
+player 431 draws a 128 from deck 431
+player 431 discards a 741 to deck 432
+player 431 current hand : 856 595 426 581 499 735 240 400 18 504 441 792 536 856 282 913 909 510 745 128 
+player 431 draws a 49 from deck 431
+player 431 discards a 856 to deck 432
+player 431 current hand : 595 426 581 499 735 240 400 18 504 441 792 536 856 282 913 909 510 745 128 49 
+player 431 draws a 460 from deck 431
+player 431 discards a 595 to deck 432
+player 431 current hand : 426 581 499 735 240 400 18 504 441 792 536 856 282 913 909 510 745 128 49 460 
+player 431 draws a 808 from deck 431
+player 431 discards a 426 to deck 432
+player 431 current hand : 581 499 735 240 400 18 504 441 792 536 856 282 913 909 510 745 128 49 460 808 
+player 431 draws a 544 from deck 431
+player 431 discards a 581 to deck 432
+player 431 current hand : 499 735 240 400 18 504 441 792 536 856 282 913 909 510 745 128 49 460 808 544 
+player 431 draws a 583 from deck 431
+player 431 discards a 499 to deck 432
+player 431 current hand : 735 240 400 18 504 441 792 536 856 282 913 909 510 745 128 49 460 808 544 583 
+player 431 draws a 822 from deck 431
+player 431 discards a 735 to deck 432
+player 431 current hand : 240 400 18 504 441 792 536 856 282 913 909 510 745 128 49 460 808 544 583 822 
+player 431 draws a 397 from deck 431
+player 431 discards a 240 to deck 432
+player 431 current hand : 400 18 504 441 792 536 856 282 913 909 510 745 128 49 460 808 544 583 822 397 
+player 431 draws a 518 from deck 431
+player 431 discards a 400 to deck 432
+player 431 current hand : 18 504 441 792 536 856 282 913 909 510 745 128 49 460 808 544 583 822 397 518 
+player 431 draws a 851 from deck 431
+player 431 discards a 18 to deck 432
+player 431 current hand : 504 441 792 536 856 282 913 909 510 745 128 49 460 808 544 583 822 397 518 851 
+player 431 draws a 777 from deck 431
+player 431 discards a 504 to deck 432
+player 431 current hand : 441 792 536 856 282 913 909 510 745 128 49 460 808 544 583 822 397 518 851 777 
+player 431 draws a 74 from deck 431
+player 431 discards a 441 to deck 432
+player 431 current hand : 792 536 856 282 913 909 510 745 128 49 460 808 544 583 822 397 518 851 777 74 
+player 431 draws a 336 from deck 431
+player 431 discards a 792 to deck 432
+player 431 current hand : 536 856 282 913 909 510 745 128 49 460 808 544 583 822 397 518 851 777 74 336 
+player 431 draws a 865 from deck 431
+player 431 discards a 536 to deck 432
+player 431 current hand : 856 282 913 909 510 745 128 49 460 808 544 583 822 397 518 851 777 74 336 865 
+player 431 draws a 338 from deck 431
+player 431 discards a 856 to deck 432
+player 431 current hand : 282 913 909 510 745 128 49 460 808 544 583 822 397 518 851 777 74 336 865 338 
+player 431 draws a 422 from deck 431
+player 431 discards a 282 to deck 432
+player 431 current hand : 913 909 510 745 128 49 460 808 544 583 822 397 518 851 777 74 336 865 338 422 
+player 431 draws a 255 from deck 431
+player 431 discards a 913 to deck 432
+player 431 current hand : 909 510 745 128 49 460 808 544 583 822 397 518 851 777 74 336 865 338 422 255 
+player 431 draws a 666 from deck 431
+player 431 discards a 909 to deck 432
+player 431 current hand : 510 745 128 49 460 808 544 583 822 397 518 851 777 74 336 865 338 422 255 666 
+player 431 draws a 14 from deck 431
+player 431 discards a 510 to deck 432
+player 431 current hand : 745 128 49 460 808 544 583 822 397 518 851 777 74 336 865 338 422 255 666 14 
+player 431 draws a 229 from deck 431
+player 431 discards a 745 to deck 432
+player 431 current hand : 128 49 460 808 544 583 822 397 518 851 777 74 336 865 338 422 255 666 14 229 
+player 431 draws a 241 from deck 431
+player 431 discards a 128 to deck 432
+player 431 current hand : 49 460 808 544 583 822 397 518 851 777 74 336 865 338 422 255 666 14 229 241 
+player 431 draws a 702 from deck 431
+player 431 discards a 49 to deck 432
+player 431 current hand : 460 808 544 583 822 397 518 851 777 74 336 865 338 422 255 666 14 229 241 702 
+player 431 draws a 325 from deck 431
+player 431 discards a 460 to deck 432
+player 431 current hand : 808 544 583 822 397 518 851 777 74 336 865 338 422 255 666 14 229 241 702 325 
+player 431 draws a 264 from deck 431
+player 431 discards a 808 to deck 432
+player 431 current hand : 544 583 822 397 518 851 777 74 336 865 338 422 255 666 14 229 241 702 325 264 
+player 431 draws a 426 from deck 431
+player 431 discards a 544 to deck 432
+player 431 current hand : 583 822 397 518 851 777 74 336 865 338 422 255 666 14 229 241 702 325 264 426 
+player 431 draws a 489 from deck 431
+player 431 discards a 583 to deck 432
+player 431 current hand : 822 397 518 851 777 74 336 865 338 422 255 666 14 229 241 702 325 264 426 489 
+player 431 draws a 128 from deck 431
+player 431 discards a 822 to deck 432
+player 431 current hand : 397 518 851 777 74 336 865 338 422 255 666 14 229 241 702 325 264 426 489 128 
+player 431 draws a 696 from deck 431
+player 431 discards a 397 to deck 432
+player 431 current hand : 518 851 777 74 336 865 338 422 255 666 14 229 241 702 325 264 426 489 128 696 
+player 431 draws a 163 from deck 431
+player 431 discards a 518 to deck 432
+player 431 current hand : 851 777 74 336 865 338 422 255 666 14 229 241 702 325 264 426 489 128 696 163 
+player 431 draws a 570 from deck 431
+player 431 discards a 851 to deck 432
+player 431 current hand : 777 74 336 865 338 422 255 666 14 229 241 702 325 264 426 489 128 696 163 570 
+player 431 draws a 214 from deck 431
+player 431 discards a 777 to deck 432
+player 431 current hand : 74 336 865 338 422 255 666 14 229 241 702 325 264 426 489 128 696 163 570 214 
+player 431 draws a 955 from deck 431
+player 431 discards a 74 to deck 432
+player 431 current hand : 336 865 338 422 255 666 14 229 241 702 325 264 426 489 128 696 163 570 214 955 
+player 431 draws a 263 from deck 431
+player 431 discards a 336 to deck 432
+player 431 current hand : 865 338 422 255 666 14 229 241 702 325 264 426 489 128 696 163 570 214 955 263 
+player 431 draws a 630 from deck 431
+player 431 discards a 865 to deck 432
+player 431 current hand : 338 422 255 666 14 229 241 702 325 264 426 489 128 696 163 570 214 955 263 630 
+player 431 draws a 66 from deck 431
+player 431 discards a 338 to deck 432
+player 431 current hand : 422 255 666 14 229 241 702 325 264 426 489 128 696 163 570 214 955 263 630 66 
+player 431 draws a 426 from deck 431
+player 431 discards a 422 to deck 432
+player 431 current hand : 255 666 14 229 241 702 325 264 426 489 128 696 163 570 214 955 263 630 66 426 
+player 431 draws a 720 from deck 431
+player 431 discards a 255 to deck 432
+player 431 current hand : 666 14 229 241 702 325 264 426 489 128 696 163 570 214 955 263 630 66 426 720 
+player 431 draws a 879 from deck 431
+player 431 discards a 666 to deck 432
+player 431 current hand : 14 229 241 702 325 264 426 489 128 696 163 570 214 955 263 630 66 426 720 879 
+player 431 draws a 160 from deck 431
+player 431 discards a 14 to deck 432
+player 431 current hand : 229 241 702 325 264 426 489 128 696 163 570 214 955 263 630 66 426 720 879 160 
+player 431 draws a 12 from deck 431
+player 431 discards a 229 to deck 432
+player 431 current hand : 241 702 325 264 426 489 128 696 163 570 214 955 263 630 66 426 720 879 160 12 
+player 431 draws a 825 from deck 431
+player 431 discards a 241 to deck 432
+player 431 current hand : 702 325 264 426 489 128 696 163 570 214 955 263 630 66 426 720 879 160 12 825 
+player 431 draws a 120 from deck 431
+player 431 discards a 702 to deck 432
+player 431 current hand : 325 264 426 489 128 696 163 570 214 955 263 630 66 426 720 879 160 12 825 120 
+player 431 draws a 775 from deck 431
+player 431 discards a 325 to deck 432
+player 431 current hand : 264 426 489 128 696 163 570 214 955 263 630 66 426 720 879 160 12 825 120 775 
+player 431 draws a 177 from deck 431
+player 431 discards a 264 to deck 432
+player 431 current hand : 426 489 128 696 163 570 214 955 263 630 66 426 720 879 160 12 825 120 775 177 
+player 431 draws a 62 from deck 431
+player 431 discards a 426 to deck 432
+player 431 current hand : 489 128 696 163 570 214 955 263 630 66 426 720 879 160 12 825 120 775 177 62 
+player 431 draws a 655 from deck 431
+player 431 discards a 489 to deck 432
+player 431 current hand : 128 696 163 570 214 955 263 630 66 426 720 879 160 12 825 120 775 177 62 655 
+player 431 draws a 563 from deck 431
+player 431 discards a 128 to deck 432
+player 431 current hand : 696 163 570 214 955 263 630 66 426 720 879 160 12 825 120 775 177 62 655 563 
+player 431 draws a 71 from deck 431
+player 431 discards a 696 to deck 432
+player 431 current hand : 163 570 214 955 263 630 66 426 720 879 160 12 825 120 775 177 62 655 563 71 
+player 431 draws a 296 from deck 431
+player 431 discards a 163 to deck 432
+player 431 current hand : 570 214 955 263 630 66 426 720 879 160 12 825 120 775 177 62 655 563 71 296 
+player 431 draws a 351 from deck 431
+player 431 discards a 570 to deck 432
+player 431 current hand : 214 955 263 630 66 426 720 879 160 12 825 120 775 177 62 655 563 71 296 351 
+player 431 draws a 862 from deck 431
+player 431 discards a 214 to deck 432
+player 431 current hand : 955 263 630 66 426 720 879 160 12 825 120 775 177 62 655 563 71 296 351 862 
+player 431 draws a 805 from deck 431
+player 431 discards a 955 to deck 432
+player 431 current hand : 263 630 66 426 720 879 160 12 825 120 775 177 62 655 563 71 296 351 862 805 
+player 431 draws a 760 from deck 431
+player 431 discards a 263 to deck 432
+player 431 current hand : 630 66 426 720 879 160 12 825 120 775 177 62 655 563 71 296 351 862 805 760 
+player 431 draws a 4 from deck 431
+player 431 discards a 630 to deck 432
+player 431 current hand : 66 426 720 879 160 12 825 120 775 177 62 655 563 71 296 351 862 805 760 4 
+player 431 draws a 755 from deck 431
+player 431 discards a 66 to deck 432
+player 431 current hand : 426 720 879 160 12 825 120 775 177 62 655 563 71 296 351 862 805 760 4 755 
+player 431 draws a 661 from deck 431
+player 431 discards a 426 to deck 432
+player 431 current hand : 720 879 160 12 825 120 775 177 62 655 563 71 296 351 862 805 760 4 755 661 
+player 431 draws a 862 from deck 431
+player 431 discards a 720 to deck 432
+player 431 current hand : 879 160 12 825 120 775 177 62 655 563 71 296 351 862 805 760 4 755 661 862 
+player 431 draws a 293 from deck 431
+player 431 discards a 879 to deck 432
+player 431 current hand : 160 12 825 120 775 177 62 655 563 71 296 351 862 805 760 4 755 661 862 293 
+player 431 draws a 970 from deck 431
+player 431 discards a 160 to deck 432
+player 431 current hand : 12 825 120 775 177 62 655 563 71 296 351 862 805 760 4 755 661 862 293 970 
+player 431 draws a 354 from deck 431
+player 431 discards a 12 to deck 432
+player 431 current hand : 825 120 775 177 62 655 563 71 296 351 862 805 760 4 755 661 862 293 970 354 
+player 431 draws a 566 from deck 431
+player 431 discards a 825 to deck 432
+player 431 current hand : 120 775 177 62 655 563 71 296 351 862 805 760 4 755 661 862 293 970 354 566 
+player 431 draws a 255 from deck 431
+player 431 discards a 120 to deck 432
+player 431 current hand : 775 177 62 655 563 71 296 351 862 805 760 4 755 661 862 293 970 354 566 255 
+player 431 draws a 401 from deck 431
+player 431 discards a 775 to deck 432
+player 431 current hand : 177 62 655 563 71 296 351 862 805 760 4 755 661 862 293 970 354 566 255 401 
+player 431 draws a 505 from deck 431
+player 431 discards a 177 to deck 432
+player 431 current hand : 62 655 563 71 296 351 862 805 760 4 755 661 862 293 970 354 566 255 401 505 
+player 431 draws a 564 from deck 431
+player 431 discards a 62 to deck 432
+player 431 current hand : 655 563 71 296 351 862 805 760 4 755 661 862 293 970 354 566 255 401 505 564 
+player 431 draws a 252 from deck 431
+player 431 discards a 655 to deck 432
+player 431 current hand : 563 71 296 351 862 805 760 4 755 661 862 293 970 354 566 255 401 505 564 252 
+player 431 draws a 574 from deck 431
+player 431 discards a 563 to deck 432
+player 431 current hand : 71 296 351 862 805 760 4 755 661 862 293 970 354 566 255 401 505 564 252 574 
+player 431 draws a 578 from deck 431
+player 431 discards a 71 to deck 432
+player 431 current hand : 296 351 862 805 760 4 755 661 862 293 970 354 566 255 401 505 564 252 574 578 
+player 431 draws a 11 from deck 431
+player 431 discards a 296 to deck 432
+player 431 current hand : 351 862 805 760 4 755 661 862 293 970 354 566 255 401 505 564 252 574 578 11 
+player 431 draws a 670 from deck 431
+player 431 discards a 351 to deck 432
+player 431 current hand : 862 805 760 4 755 661 862 293 970 354 566 255 401 505 564 252 574 578 11 670 

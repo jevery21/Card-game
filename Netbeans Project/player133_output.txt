@@ -1,0 +1,319 @@
+player 133 initial hand 994 127 149 577 758 747 257 111 930 11 853 114 622 442 871 341 143 943 143 291 
+player 133 draws a 85 from deck 133
+player 133 discards a 994 to deck 134
+player 133 current hand : 127 149 577 758 747 257 111 930 11 853 114 622 442 871 341 143 943 143 291 85 
+player 133 draws a 728 from deck 133
+player 133 discards a 127 to deck 134
+player 133 current hand : 149 577 758 747 257 111 930 11 853 114 622 442 871 341 143 943 143 291 85 728 
+player 133 draws a 657 from deck 133
+player 133 discards a 149 to deck 134
+player 133 current hand : 577 758 747 257 111 930 11 853 114 622 442 871 341 143 943 143 291 85 728 657 
+player 133 draws a 581 from deck 133
+player 133 discards a 577 to deck 134
+player 133 current hand : 758 747 257 111 930 11 853 114 622 442 871 341 143 943 143 291 85 728 657 581 
+player 133 draws a 679 from deck 133
+player 133 discards a 758 to deck 134
+player 133 current hand : 747 257 111 930 11 853 114 622 442 871 341 143 943 143 291 85 728 657 581 679 
+player 133 draws a 830 from deck 133
+player 133 discards a 747 to deck 134
+player 133 current hand : 257 111 930 11 853 114 622 442 871 341 143 943 143 291 85 728 657 581 679 830 
+player 133 draws a 828 from deck 133
+player 133 discards a 257 to deck 134
+player 133 current hand : 111 930 11 853 114 622 442 871 341 143 943 143 291 85 728 657 581 679 830 828 
+player 133 draws a 264 from deck 133
+player 133 discards a 111 to deck 134
+player 133 current hand : 930 11 853 114 622 442 871 341 143 943 143 291 85 728 657 581 679 830 828 264 
+player 133 draws a 879 from deck 133
+player 133 discards a 930 to deck 134
+player 133 current hand : 11 853 114 622 442 871 341 143 943 143 291 85 728 657 581 679 830 828 264 879 
+player 133 draws a 332 from deck 133
+player 133 discards a 11 to deck 134
+player 133 current hand : 853 114 622 442 871 341 143 943 143 291 85 728 657 581 679 830 828 264 879 332 
+player 133 draws a 458 from deck 133
+player 133 discards a 853 to deck 134
+player 133 current hand : 114 622 442 871 341 143 943 143 291 85 728 657 581 679 830 828 264 879 332 458 
+player 133 draws a 540 from deck 133
+player 133 discards a 114 to deck 134
+player 133 current hand : 622 442 871 341 143 943 143 291 85 728 657 581 679 830 828 264 879 332 458 540 
+player 133 draws a 732 from deck 133
+player 133 discards a 622 to deck 134
+player 133 current hand : 442 871 341 143 943 143 291 85 728 657 581 679 830 828 264 879 332 458 540 732 
+player 133 draws a 329 from deck 133
+player 133 discards a 442 to deck 134
+player 133 current hand : 871 341 143 943 143 291 85 728 657 581 679 830 828 264 879 332 458 540 732 329 
+player 133 draws a 672 from deck 133
+player 133 discards a 871 to deck 134
+player 133 current hand : 341 143 943 143 291 85 728 657 581 679 830 828 264 879 332 458 540 732 329 672 
+player 133 draws a 967 from deck 133
+player 133 discards a 341 to deck 134
+player 133 current hand : 143 943 143 291 85 728 657 581 679 830 828 264 879 332 458 540 732 329 672 967 
+player 133 draws a 385 from deck 133
+player 133 discards a 143 to deck 134
+player 133 current hand : 943 143 291 85 728 657 581 679 830 828 264 879 332 458 540 732 329 672 967 385 
+player 133 draws a 710 from deck 133
+player 133 discards a 943 to deck 134
+player 133 current hand : 143 291 85 728 657 581 679 830 828 264 879 332 458 540 732 329 672 967 385 710 
+player 133 draws a 835 from deck 133
+player 133 discards a 143 to deck 134
+player 133 current hand : 291 85 728 657 581 679 830 828 264 879 332 458 540 732 329 672 967 385 710 835 
+player 133 draws a 12 from deck 133
+player 133 discards a 291 to deck 134
+player 133 current hand : 85 728 657 581 679 830 828 264 879 332 458 540 732 329 672 967 385 710 835 12 
+player 133 draws a 200 from deck 133
+player 133 discards a 85 to deck 134
+player 133 current hand : 728 657 581 679 830 828 264 879 332 458 540 732 329 672 967 385 710 835 12 200 
+player 133 draws a 300 from deck 133
+player 133 discards a 728 to deck 134
+player 133 current hand : 657 581 679 830 828 264 879 332 458 540 732 329 672 967 385 710 835 12 200 300 
+player 133 draws a 266 from deck 133
+player 133 discards a 657 to deck 134
+player 133 current hand : 581 679 830 828 264 879 332 458 540 732 329 672 967 385 710 835 12 200 300 266 
+player 133 draws a 833 from deck 133
+player 133 discards a 581 to deck 134
+player 133 current hand : 679 830 828 264 879 332 458 540 732 329 672 967 385 710 835 12 200 300 266 833 
+player 133 draws a 135 from deck 133
+player 133 discards a 679 to deck 134
+player 133 current hand : 830 828 264 879 332 458 540 732 329 672 967 385 710 835 12 200 300 266 833 135 
+player 133 draws a 972 from deck 133
+player 133 discards a 830 to deck 134
+player 133 current hand : 828 264 879 332 458 540 732 329 672 967 385 710 835 12 200 300 266 833 135 972 
+player 133 draws a 684 from deck 133
+player 133 discards a 828 to deck 134
+player 133 current hand : 264 879 332 458 540 732 329 672 967 385 710 835 12 200 300 266 833 135 972 684 
+player 133 draws a 160 from deck 133
+player 133 discards a 264 to deck 134
+player 133 current hand : 879 332 458 540 732 329 672 967 385 710 835 12 200 300 266 833 135 972 684 160 
+player 133 draws a 595 from deck 133
+player 133 discards a 879 to deck 134
+player 133 current hand : 332 458 540 732 329 672 967 385 710 835 12 200 300 266 833 135 972 684 160 595 
+player 133 draws a 377 from deck 133
+player 133 discards a 332 to deck 134
+player 133 current hand : 458 540 732 329 672 967 385 710 835 12 200 300 266 833 135 972 684 160 595 377 
+player 133 draws a 303 from deck 133
+player 133 discards a 458 to deck 134
+player 133 current hand : 540 732 329 672 967 385 710 835 12 200 300 266 833 135 972 684 160 595 377 303 
+player 133 draws a 862 from deck 133
+player 133 discards a 540 to deck 134
+player 133 current hand : 732 329 672 967 385 710 835 12 200 300 266 833 135 972 684 160 595 377 303 862 
+player 133 draws a 282 from deck 133
+player 133 discards a 732 to deck 134
+player 133 current hand : 329 672 967 385 710 835 12 200 300 266 833 135 972 684 160 595 377 303 862 282 
+player 133 draws a 291 from deck 133
+player 133 discards a 329 to deck 134
+player 133 current hand : 672 967 385 710 835 12 200 300 266 833 135 972 684 160 595 377 303 862 282 291 
+player 133 draws a 797 from deck 133
+player 133 discards a 672 to deck 134
+player 133 current hand : 967 385 710 835 12 200 300 266 833 135 972 684 160 595 377 303 862 282 291 797 
+player 133 draws a 332 from deck 133
+player 133 discards a 967 to deck 134
+player 133 current hand : 385 710 835 12 200 300 266 833 135 972 684 160 595 377 303 862 282 291 797 332 
+player 133 draws a 842 from deck 133
+player 133 discards a 385 to deck 134
+player 133 current hand : 710 835 12 200 300 266 833 135 972 684 160 595 377 303 862 282 291 797 332 842 
+player 133 draws a 400 from deck 133
+player 133 discards a 710 to deck 134
+player 133 current hand : 835 12 200 300 266 833 135 972 684 160 595 377 303 862 282 291 797 332 842 400 
+player 133 draws a 875 from deck 133
+player 133 discards a 835 to deck 134
+player 133 current hand : 12 200 300 266 833 135 972 684 160 595 377 303 862 282 291 797 332 842 400 875 
+player 133 draws a 239 from deck 133
+player 133 discards a 12 to deck 134
+player 133 current hand : 200 300 266 833 135 972 684 160 595 377 303 862 282 291 797 332 842 400 875 239 
+player 133 draws a 176 from deck 133
+player 133 discards a 200 to deck 134
+player 133 current hand : 300 266 833 135 972 684 160 595 377 303 862 282 291 797 332 842 400 875 239 176 
+player 133 draws a 586 from deck 133
+player 133 discards a 300 to deck 134
+player 133 current hand : 266 833 135 972 684 160 595 377 303 862 282 291 797 332 842 400 875 239 176 586 
+player 133 draws a 906 from deck 133
+player 133 discards a 266 to deck 134
+player 133 current hand : 833 135 972 684 160 595 377 303 862 282 291 797 332 842 400 875 239 176 586 906 
+player 133 draws a 490 from deck 133
+player 133 discards a 833 to deck 134
+player 133 current hand : 135 972 684 160 595 377 303 862 282 291 797 332 842 400 875 239 176 586 906 490 
+player 133 draws a 117 from deck 133
+player 133 discards a 135 to deck 134
+player 133 current hand : 972 684 160 595 377 303 862 282 291 797 332 842 400 875 239 176 586 906 490 117 
+player 133 draws a 33 from deck 133
+player 133 discards a 972 to deck 134
+player 133 current hand : 684 160 595 377 303 862 282 291 797 332 842 400 875 239 176 586 906 490 117 33 
+player 133 draws a 475 from deck 133
+player 133 discards a 684 to deck 134
+player 133 current hand : 160 595 377 303 862 282 291 797 332 842 400 875 239 176 586 906 490 117 33 475 
+player 133 draws a 29 from deck 133
+player 133 discards a 160 to deck 134
+player 133 current hand : 595 377 303 862 282 291 797 332 842 400 875 239 176 586 906 490 117 33 475 29 
+player 133 draws a 765 from deck 133
+player 133 discards a 595 to deck 134
+player 133 current hand : 377 303 862 282 291 797 332 842 400 875 239 176 586 906 490 117 33 475 29 765 
+player 133 draws a 737 from deck 133
+player 133 discards a 377 to deck 134
+player 133 current hand : 303 862 282 291 797 332 842 400 875 239 176 586 906 490 117 33 475 29 765 737 
+player 133 draws a 415 from deck 133
+player 133 discards a 303 to deck 134
+player 133 current hand : 862 282 291 797 332 842 400 875 239 176 586 906 490 117 33 475 29 765 737 415 
+player 133 draws a 473 from deck 133
+player 133 discards a 862 to deck 134
+player 133 current hand : 282 291 797 332 842 400 875 239 176 586 906 490 117 33 475 29 765 737 415 473 
+player 133 draws a 197 from deck 133
+player 133 discards a 282 to deck 134
+player 133 current hand : 291 797 332 842 400 875 239 176 586 906 490 117 33 475 29 765 737 415 473 197 
+player 133 draws a 633 from deck 133
+player 133 discards a 291 to deck 134
+player 133 current hand : 797 332 842 400 875 239 176 586 906 490 117 33 475 29 765 737 415 473 197 633 
+player 133 draws a 757 from deck 133
+player 133 discards a 797 to deck 134
+player 133 current hand : 332 842 400 875 239 176 586 906 490 117 33 475 29 765 737 415 473 197 633 757 
+player 133 draws a 452 from deck 133
+player 133 discards a 332 to deck 134
+player 133 current hand : 842 400 875 239 176 586 906 490 117 33 475 29 765 737 415 473 197 633 757 452 
+player 133 draws a 546 from deck 133
+player 133 discards a 842 to deck 134
+player 133 current hand : 400 875 239 176 586 906 490 117 33 475 29 765 737 415 473 197 633 757 452 546 
+player 133 draws a 135 from deck 133
+player 133 discards a 400 to deck 134
+player 133 current hand : 875 239 176 586 906 490 117 33 475 29 765 737 415 473 197 633 757 452 546 135 
+player 133 draws a 514 from deck 133
+player 133 discards a 875 to deck 134
+player 133 current hand : 239 176 586 906 490 117 33 475 29 765 737 415 473 197 633 757 452 546 135 514 
+player 133 draws a 385 from deck 133
+player 133 discards a 239 to deck 134
+player 133 current hand : 176 586 906 490 117 33 475 29 765 737 415 473 197 633 757 452 546 135 514 385 
+player 133 draws a 545 from deck 133
+player 133 discards a 176 to deck 134
+player 133 current hand : 586 906 490 117 33 475 29 765 737 415 473 197 633 757 452 546 135 514 385 545 
+player 133 draws a 52 from deck 133
+player 133 discards a 586 to deck 134
+player 133 current hand : 906 490 117 33 475 29 765 737 415 473 197 633 757 452 546 135 514 385 545 52 
+player 133 draws a 290 from deck 133
+player 133 discards a 906 to deck 134
+player 133 current hand : 490 117 33 475 29 765 737 415 473 197 633 757 452 546 135 514 385 545 52 290 
+player 133 draws a 675 from deck 133
+player 133 discards a 490 to deck 134
+player 133 current hand : 117 33 475 29 765 737 415 473 197 633 757 452 546 135 514 385 545 52 290 675 
+player 133 draws a 27 from deck 133
+player 133 discards a 117 to deck 134
+player 133 current hand : 33 475 29 765 737 415 473 197 633 757 452 546 135 514 385 545 52 290 675 27 
+player 133 draws a 581 from deck 133
+player 133 discards a 33 to deck 134
+player 133 current hand : 475 29 765 737 415 473 197 633 757 452 546 135 514 385 545 52 290 675 27 581 
+player 133 draws a 645 from deck 133
+player 133 discards a 475 to deck 134
+player 133 current hand : 29 765 737 415 473 197 633 757 452 546 135 514 385 545 52 290 675 27 581 645 
+player 133 draws a 972 from deck 133
+player 133 discards a 29 to deck 134
+player 133 current hand : 765 737 415 473 197 633 757 452 546 135 514 385 545 52 290 675 27 581 645 972 
+player 133 draws a 22 from deck 133
+player 133 discards a 765 to deck 134
+player 133 current hand : 737 415 473 197 633 757 452 546 135 514 385 545 52 290 675 27 581 645 972 22 
+player 133 draws a 423 from deck 133
+player 133 discards a 737 to deck 134
+player 133 current hand : 415 473 197 633 757 452 546 135 514 385 545 52 290 675 27 581 645 972 22 423 
+player 133 draws a 498 from deck 133
+player 133 discards a 415 to deck 134
+player 133 current hand : 473 197 633 757 452 546 135 514 385 545 52 290 675 27 581 645 972 22 423 498 
+player 133 draws a 763 from deck 133
+player 133 discards a 473 to deck 134
+player 133 current hand : 197 633 757 452 546 135 514 385 545 52 290 675 27 581 645 972 22 423 498 763 
+player 133 draws a 234 from deck 133
+player 133 discards a 197 to deck 134
+player 133 current hand : 633 757 452 546 135 514 385 545 52 290 675 27 581 645 972 22 423 498 763 234 
+player 133 draws a 350 from deck 133
+player 133 discards a 633 to deck 134
+player 133 current hand : 757 452 546 135 514 385 545 52 290 675 27 581 645 972 22 423 498 763 234 350 
+player 133 draws a 289 from deck 133
+player 133 discards a 757 to deck 134
+player 133 current hand : 452 546 135 514 385 545 52 290 675 27 581 645 972 22 423 498 763 234 350 289 
+player 133 draws a 204 from deck 133
+player 133 discards a 452 to deck 134
+player 133 current hand : 546 135 514 385 545 52 290 675 27 581 645 972 22 423 498 763 234 350 289 204 
+player 133 draws a 840 from deck 133
+player 133 discards a 546 to deck 134
+player 133 current hand : 135 514 385 545 52 290 675 27 581 645 972 22 423 498 763 234 350 289 204 840 
+player 133 draws a 910 from deck 133
+player 133 discards a 135 to deck 134
+player 133 current hand : 514 385 545 52 290 675 27 581 645 972 22 423 498 763 234 350 289 204 840 910 
+player 133 draws a 902 from deck 133
+player 133 discards a 514 to deck 134
+player 133 current hand : 385 545 52 290 675 27 581 645 972 22 423 498 763 234 350 289 204 840 910 902 
+player 133 draws a 594 from deck 133
+player 133 discards a 385 to deck 134
+player 133 current hand : 545 52 290 675 27 581 645 972 22 423 498 763 234 350 289 204 840 910 902 594 
+player 133 draws a 810 from deck 133
+player 133 discards a 545 to deck 134
+player 133 current hand : 52 290 675 27 581 645 972 22 423 498 763 234 350 289 204 840 910 902 594 810 
+player 133 draws a 300 from deck 133
+player 133 discards a 52 to deck 134
+player 133 current hand : 290 675 27 581 645 972 22 423 498 763 234 350 289 204 840 910 902 594 810 300 
+player 133 draws a 993 from deck 133
+player 133 discards a 290 to deck 134
+player 133 current hand : 675 27 581 645 972 22 423 498 763 234 350 289 204 840 910 902 594 810 300 993 
+player 133 draws a 835 from deck 133
+player 133 discards a 675 to deck 134
+player 133 current hand : 27 581 645 972 22 423 498 763 234 350 289 204 840 910 902 594 810 300 993 835 
+player 133 draws a 364 from deck 133
+player 133 discards a 27 to deck 134
+player 133 current hand : 581 645 972 22 423 498 763 234 350 289 204 840 910 902 594 810 300 993 835 364 
+player 133 draws a 136 from deck 133
+player 133 discards a 581 to deck 134
+player 133 current hand : 645 972 22 423 498 763 234 350 289 204 840 910 902 594 810 300 993 835 364 136 
+player 133 draws a 222 from deck 133
+player 133 discards a 645 to deck 134
+player 133 current hand : 972 22 423 498 763 234 350 289 204 840 910 902 594 810 300 993 835 364 136 222 
+player 133 draws a 121 from deck 133
+player 133 discards a 972 to deck 134
+player 133 current hand : 22 423 498 763 234 350 289 204 840 910 902 594 810 300 993 835 364 136 222 121 
+player 133 draws a 933 from deck 133
+player 133 discards a 22 to deck 134
+player 133 current hand : 423 498 763 234 350 289 204 840 910 902 594 810 300 993 835 364 136 222 121 933 
+player 133 draws a 924 from deck 133
+player 133 discards a 423 to deck 134
+player 133 current hand : 498 763 234 350 289 204 840 910 902 594 810 300 993 835 364 136 222 121 933 924 
+player 133 draws a 535 from deck 133
+player 133 discards a 498 to deck 134
+player 133 current hand : 763 234 350 289 204 840 910 902 594 810 300 993 835 364 136 222 121 933 924 535 
+player 133 draws a 786 from deck 133
+player 133 discards a 763 to deck 134
+player 133 current hand : 234 350 289 204 840 910 902 594 810 300 993 835 364 136 222 121 933 924 535 786 
+player 133 draws a 308 from deck 133
+player 133 discards a 234 to deck 134
+player 133 current hand : 350 289 204 840 910 902 594 810 300 993 835 364 136 222 121 933 924 535 786 308 
+player 133 draws a 488 from deck 133
+player 133 discards a 350 to deck 134
+player 133 current hand : 289 204 840 910 902 594 810 300 993 835 364 136 222 121 933 924 535 786 308 488 
+player 133 draws a 636 from deck 133
+player 133 discards a 289 to deck 134
+player 133 current hand : 204 840 910 902 594 810 300 993 835 364 136 222 121 933 924 535 786 308 488 636 
+player 133 draws a 897 from deck 133
+player 133 discards a 204 to deck 134
+player 133 current hand : 840 910 902 594 810 300 993 835 364 136 222 121 933 924 535 786 308 488 636 897 
+player 133 draws a 728 from deck 133
+player 133 discards a 840 to deck 134
+player 133 current hand : 910 902 594 810 300 993 835 364 136 222 121 933 924 535 786 308 488 636 897 728 
+player 133 draws a 176 from deck 133
+player 133 discards a 910 to deck 134
+player 133 current hand : 902 594 810 300 993 835 364 136 222 121 933 924 535 786 308 488 636 897 728 176 
+player 133 draws a 226 from deck 133
+player 133 discards a 902 to deck 134
+player 133 current hand : 594 810 300 993 835 364 136 222 121 933 924 535 786 308 488 636 897 728 176 226 
+player 133 draws a 18 from deck 133
+player 133 discards a 594 to deck 134
+player 133 current hand : 810 300 993 835 364 136 222 121 933 924 535 786 308 488 636 897 728 176 226 18 
+player 133 draws a 964 from deck 133
+player 133 discards a 810 to deck 134
+player 133 current hand : 300 993 835 364 136 222 121 933 924 535 786 308 488 636 897 728 176 226 18 964 
+player 133 draws a 224 from deck 133
+player 133 discards a 300 to deck 134
+player 133 current hand : 993 835 364 136 222 121 933 924 535 786 308 488 636 897 728 176 226 18 964 224 
+player 133 draws a 51 from deck 133
+player 133 discards a 993 to deck 134
+player 133 current hand : 835 364 136 222 121 933 924 535 786 308 488 636 897 728 176 226 18 964 224 51 
+player 133 draws a 505 from deck 133
+player 133 discards a 835 to deck 134
+player 133 current hand : 364 136 222 121 933 924 535 786 308 488 636 897 728 176 226 18 964 224 51 505 
+player 133 draws a 981 from deck 133
+player 133 discards a 364 to deck 134
+player 133 current hand : 136 222 121 933 924 535 786 308 488 636 897 728 176 226 18 964 224 51 505 981 
+player 133 draws a 919 from deck 133
+player 133 discards a 136 to deck 134
+player 133 current hand : 222 121 933 924 535 786 308 488 636 897 728 176 226 18 964 224 51 505 981 919 

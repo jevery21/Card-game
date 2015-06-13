@@ -1,0 +1,343 @@
+player 803 initial hand 598 403 724 261 732 949 737 537 896 661 613 913 8 337 694 135 680 359 28 905 
+player 803 draws a 787 from deck 803
+player 803 discards a 598 to deck 804
+player 803 current hand : 403 724 261 732 949 737 537 896 661 613 913 8 337 694 135 680 359 28 905 787 
+player 803 draws a 464 from deck 803
+player 803 discards a 403 to deck 804
+player 803 current hand : 724 261 732 949 737 537 896 661 613 913 8 337 694 135 680 359 28 905 787 464 
+player 803 draws a 707 from deck 803
+player 803 discards a 724 to deck 804
+player 803 current hand : 261 732 949 737 537 896 661 613 913 8 337 694 135 680 359 28 905 787 464 707 
+player 803 draws a 271 from deck 803
+player 803 discards a 261 to deck 804
+player 803 current hand : 732 949 737 537 896 661 613 913 8 337 694 135 680 359 28 905 787 464 707 271 
+player 803 draws a 50 from deck 803
+player 803 discards a 732 to deck 804
+player 803 current hand : 949 737 537 896 661 613 913 8 337 694 135 680 359 28 905 787 464 707 271 50 
+player 803 draws a 205 from deck 803
+player 803 discards a 949 to deck 804
+player 803 current hand : 737 537 896 661 613 913 8 337 694 135 680 359 28 905 787 464 707 271 50 205 
+player 803 draws a 255 from deck 803
+player 803 discards a 737 to deck 804
+player 803 current hand : 537 896 661 613 913 8 337 694 135 680 359 28 905 787 464 707 271 50 205 255 
+player 803 draws a 43 from deck 803
+player 803 discards a 537 to deck 804
+player 803 current hand : 896 661 613 913 8 337 694 135 680 359 28 905 787 464 707 271 50 205 255 43 
+player 803 draws a 329 from deck 803
+player 803 discards a 896 to deck 804
+player 803 current hand : 661 613 913 8 337 694 135 680 359 28 905 787 464 707 271 50 205 255 43 329 
+player 803 draws a 392 from deck 803
+player 803 discards a 661 to deck 804
+player 803 current hand : 613 913 8 337 694 135 680 359 28 905 787 464 707 271 50 205 255 43 329 392 
+player 803 draws a 515 from deck 803
+player 803 discards a 613 to deck 804
+player 803 current hand : 913 8 337 694 135 680 359 28 905 787 464 707 271 50 205 255 43 329 392 515 
+player 803 draws a 231 from deck 803
+player 803 discards a 913 to deck 804
+player 803 current hand : 8 337 694 135 680 359 28 905 787 464 707 271 50 205 255 43 329 392 515 231 
+player 803 draws a 706 from deck 803
+player 803 discards a 8 to deck 804
+player 803 current hand : 337 694 135 680 359 28 905 787 464 707 271 50 205 255 43 329 392 515 231 706 
+player 803 draws a 509 from deck 803
+player 803 discards a 337 to deck 804
+player 803 current hand : 694 135 680 359 28 905 787 464 707 271 50 205 255 43 329 392 515 231 706 509 
+player 803 draws a 151 from deck 803
+player 803 discards a 694 to deck 804
+player 803 current hand : 135 680 359 28 905 787 464 707 271 50 205 255 43 329 392 515 231 706 509 151 
+player 803 draws a 23 from deck 803
+player 803 discards a 135 to deck 804
+player 803 current hand : 680 359 28 905 787 464 707 271 50 205 255 43 329 392 515 231 706 509 151 23 
+player 803 draws a 115 from deck 803
+player 803 discards a 680 to deck 804
+player 803 current hand : 359 28 905 787 464 707 271 50 205 255 43 329 392 515 231 706 509 151 23 115 
+player 803 draws a 177 from deck 803
+player 803 discards a 359 to deck 804
+player 803 current hand : 28 905 787 464 707 271 50 205 255 43 329 392 515 231 706 509 151 23 115 177 
+player 803 draws a 176 from deck 803
+player 803 discards a 28 to deck 804
+player 803 current hand : 905 787 464 707 271 50 205 255 43 329 392 515 231 706 509 151 23 115 177 176 
+player 803 draws a 952 from deck 803
+player 803 discards a 905 to deck 804
+player 803 current hand : 787 464 707 271 50 205 255 43 329 392 515 231 706 509 151 23 115 177 176 952 
+player 803 draws a 322 from deck 803
+player 803 discards a 787 to deck 804
+player 803 current hand : 464 707 271 50 205 255 43 329 392 515 231 706 509 151 23 115 177 176 952 322 
+player 803 draws a 830 from deck 803
+player 803 discards a 464 to deck 804
+player 803 current hand : 707 271 50 205 255 43 329 392 515 231 706 509 151 23 115 177 176 952 322 830 
+player 803 draws a 320 from deck 803
+player 803 discards a 707 to deck 804
+player 803 current hand : 271 50 205 255 43 329 392 515 231 706 509 151 23 115 177 176 952 322 830 320 
+player 803 draws a 600 from deck 803
+player 803 discards a 271 to deck 804
+player 803 current hand : 50 205 255 43 329 392 515 231 706 509 151 23 115 177 176 952 322 830 320 600 
+player 803 draws a 653 from deck 803
+player 803 discards a 50 to deck 804
+player 803 current hand : 205 255 43 329 392 515 231 706 509 151 23 115 177 176 952 322 830 320 600 653 
+player 803 draws a 455 from deck 803
+player 803 discards a 205 to deck 804
+player 803 current hand : 255 43 329 392 515 231 706 509 151 23 115 177 176 952 322 830 320 600 653 455 
+player 803 draws a 739 from deck 803
+player 803 discards a 255 to deck 804
+player 803 current hand : 43 329 392 515 231 706 509 151 23 115 177 176 952 322 830 320 600 653 455 739 
+player 803 draws a 156 from deck 803
+player 803 discards a 43 to deck 804
+player 803 current hand : 329 392 515 231 706 509 151 23 115 177 176 952 322 830 320 600 653 455 739 156 
+player 803 draws a 153 from deck 803
+player 803 discards a 329 to deck 804
+player 803 current hand : 392 515 231 706 509 151 23 115 177 176 952 322 830 320 600 653 455 739 156 153 
+player 803 draws a 294 from deck 803
+player 803 discards a 392 to deck 804
+player 803 current hand : 515 231 706 509 151 23 115 177 176 952 322 830 320 600 653 455 739 156 153 294 
+player 803 draws a 855 from deck 803
+player 803 discards a 515 to deck 804
+player 803 current hand : 231 706 509 151 23 115 177 176 952 322 830 320 600 653 455 739 156 153 294 855 
+player 803 draws a 765 from deck 803
+player 803 discards a 231 to deck 804
+player 803 current hand : 706 509 151 23 115 177 176 952 322 830 320 600 653 455 739 156 153 294 855 765 
+player 803 draws a 179 from deck 803
+player 803 discards a 706 to deck 804
+player 803 current hand : 509 151 23 115 177 176 952 322 830 320 600 653 455 739 156 153 294 855 765 179 
+player 803 draws a 315 from deck 803
+player 803 discards a 509 to deck 804
+player 803 current hand : 151 23 115 177 176 952 322 830 320 600 653 455 739 156 153 294 855 765 179 315 
+player 803 draws a 928 from deck 803
+player 803 discards a 151 to deck 804
+player 803 current hand : 23 115 177 176 952 322 830 320 600 653 455 739 156 153 294 855 765 179 315 928 
+player 803 draws a 351 from deck 803
+player 803 discards a 23 to deck 804
+player 803 current hand : 115 177 176 952 322 830 320 600 653 455 739 156 153 294 855 765 179 315 928 351 
+player 803 draws a 613 from deck 803
+player 803 discards a 115 to deck 804
+player 803 current hand : 177 176 952 322 830 320 600 653 455 739 156 153 294 855 765 179 315 928 351 613 
+player 803 draws a 716 from deck 803
+player 803 discards a 177 to deck 804
+player 803 current hand : 176 952 322 830 320 600 653 455 739 156 153 294 855 765 179 315 928 351 613 716 
+player 803 draws a 982 from deck 803
+player 803 discards a 176 to deck 804
+player 803 current hand : 952 322 830 320 600 653 455 739 156 153 294 855 765 179 315 928 351 613 716 982 
+player 803 draws a 835 from deck 803
+player 803 discards a 952 to deck 804
+player 803 current hand : 322 830 320 600 653 455 739 156 153 294 855 765 179 315 928 351 613 716 982 835 
+player 803 draws a 121 from deck 803
+player 803 discards a 322 to deck 804
+player 803 current hand : 830 320 600 653 455 739 156 153 294 855 765 179 315 928 351 613 716 982 835 121 
+player 803 draws a 279 from deck 803
+player 803 discards a 830 to deck 804
+player 803 current hand : 320 600 653 455 739 156 153 294 855 765 179 315 928 351 613 716 982 835 121 279 
+player 803 draws a 464 from deck 803
+player 803 discards a 320 to deck 804
+player 803 current hand : 600 653 455 739 156 153 294 855 765 179 315 928 351 613 716 982 835 121 279 464 
+player 803 draws a 759 from deck 803
+player 803 discards a 600 to deck 804
+player 803 current hand : 653 455 739 156 153 294 855 765 179 315 928 351 613 716 982 835 121 279 464 759 
+player 803 draws a 24 from deck 803
+player 803 discards a 653 to deck 804
+player 803 current hand : 455 739 156 153 294 855 765 179 315 928 351 613 716 982 835 121 279 464 759 24 
+player 803 draws a 683 from deck 803
+player 803 discards a 455 to deck 804
+player 803 current hand : 739 156 153 294 855 765 179 315 928 351 613 716 982 835 121 279 464 759 24 683 
+player 803 draws a 344 from deck 803
+player 803 discards a 739 to deck 804
+player 803 current hand : 156 153 294 855 765 179 315 928 351 613 716 982 835 121 279 464 759 24 683 344 
+player 803 draws a 16 from deck 803
+player 803 discards a 156 to deck 804
+player 803 current hand : 153 294 855 765 179 315 928 351 613 716 982 835 121 279 464 759 24 683 344 16 
+player 803 draws a 424 from deck 803
+player 803 discards a 153 to deck 804
+player 803 current hand : 294 855 765 179 315 928 351 613 716 982 835 121 279 464 759 24 683 344 16 424 
+player 803 draws a 847 from deck 803
+player 803 discards a 294 to deck 804
+player 803 current hand : 855 765 179 315 928 351 613 716 982 835 121 279 464 759 24 683 344 16 424 847 
+player 803 draws a 422 from deck 803
+player 803 discards a 855 to deck 804
+player 803 current hand : 765 179 315 928 351 613 716 982 835 121 279 464 759 24 683 344 16 424 847 422 
+player 803 draws a 449 from deck 803
+player 803 discards a 765 to deck 804
+player 803 current hand : 179 315 928 351 613 716 982 835 121 279 464 759 24 683 344 16 424 847 422 449 
+player 803 draws a 719 from deck 803
+player 803 discards a 179 to deck 804
+player 803 current hand : 315 928 351 613 716 982 835 121 279 464 759 24 683 344 16 424 847 422 449 719 
+player 803 draws a 48 from deck 803
+player 803 discards a 315 to deck 804
+player 803 current hand : 928 351 613 716 982 835 121 279 464 759 24 683 344 16 424 847 422 449 719 48 
+player 803 draws a 947 from deck 803
+player 803 discards a 928 to deck 804
+player 803 current hand : 351 613 716 982 835 121 279 464 759 24 683 344 16 424 847 422 449 719 48 947 
+player 803 draws a 868 from deck 803
+player 803 discards a 351 to deck 804
+player 803 current hand : 613 716 982 835 121 279 464 759 24 683 344 16 424 847 422 449 719 48 947 868 
+player 803 draws a 18 from deck 803
+player 803 discards a 613 to deck 804
+player 803 current hand : 716 982 835 121 279 464 759 24 683 344 16 424 847 422 449 719 48 947 868 18 
+player 803 draws a 680 from deck 803
+player 803 discards a 716 to deck 804
+player 803 current hand : 982 835 121 279 464 759 24 683 344 16 424 847 422 449 719 48 947 868 18 680 
+player 803 draws a 602 from deck 803
+player 803 discards a 982 to deck 804
+player 803 current hand : 835 121 279 464 759 24 683 344 16 424 847 422 449 719 48 947 868 18 680 602 
+player 803 draws a 706 from deck 803
+player 803 discards a 835 to deck 804
+player 803 current hand : 121 279 464 759 24 683 344 16 424 847 422 449 719 48 947 868 18 680 602 706 
+player 803 draws a 206 from deck 803
+player 803 discards a 121 to deck 804
+player 803 current hand : 279 464 759 24 683 344 16 424 847 422 449 719 48 947 868 18 680 602 706 206 
+player 803 draws a 470 from deck 803
+player 803 discards a 279 to deck 804
+player 803 current hand : 464 759 24 683 344 16 424 847 422 449 719 48 947 868 18 680 602 706 206 470 
+player 803 draws a 375 from deck 803
+player 803 discards a 464 to deck 804
+player 803 current hand : 759 24 683 344 16 424 847 422 449 719 48 947 868 18 680 602 706 206 470 375 
+player 803 draws a 161 from deck 803
+player 803 discards a 759 to deck 804
+player 803 current hand : 24 683 344 16 424 847 422 449 719 48 947 868 18 680 602 706 206 470 375 161 
+player 803 draws a 758 from deck 803
+player 803 discards a 24 to deck 804
+player 803 current hand : 683 344 16 424 847 422 449 719 48 947 868 18 680 602 706 206 470 375 161 758 
+player 803 draws a 833 from deck 803
+player 803 discards a 683 to deck 804
+player 803 current hand : 344 16 424 847 422 449 719 48 947 868 18 680 602 706 206 470 375 161 758 833 
+player 803 draws a 482 from deck 803
+player 803 discards a 344 to deck 804
+player 803 current hand : 16 424 847 422 449 719 48 947 868 18 680 602 706 206 470 375 161 758 833 482 
+player 803 draws a 822 from deck 803
+player 803 discards a 16 to deck 804
+player 803 current hand : 424 847 422 449 719 48 947 868 18 680 602 706 206 470 375 161 758 833 482 822 
+player 803 draws a 493 from deck 803
+player 803 discards a 424 to deck 804
+player 803 current hand : 847 422 449 719 48 947 868 18 680 602 706 206 470 375 161 758 833 482 822 493 
+player 803 draws a 467 from deck 803
+player 803 discards a 847 to deck 804
+player 803 current hand : 422 449 719 48 947 868 18 680 602 706 206 470 375 161 758 833 482 822 493 467 
+player 803 draws a 783 from deck 803
+player 803 discards a 422 to deck 804
+player 803 current hand : 449 719 48 947 868 18 680 602 706 206 470 375 161 758 833 482 822 493 467 783 
+player 803 draws a 19 from deck 803
+player 803 discards a 449 to deck 804
+player 803 current hand : 719 48 947 868 18 680 602 706 206 470 375 161 758 833 482 822 493 467 783 19 
+player 803 draws a 645 from deck 803
+player 803 discards a 719 to deck 804
+player 803 current hand : 48 947 868 18 680 602 706 206 470 375 161 758 833 482 822 493 467 783 19 645 
+player 803 draws a 559 from deck 803
+player 803 discards a 48 to deck 804
+player 803 current hand : 947 868 18 680 602 706 206 470 375 161 758 833 482 822 493 467 783 19 645 559 
+player 803 draws a 125 from deck 803
+player 803 discards a 947 to deck 804
+player 803 current hand : 868 18 680 602 706 206 470 375 161 758 833 482 822 493 467 783 19 645 559 125 
+player 803 draws a 595 from deck 803
+player 803 discards a 868 to deck 804
+player 803 current hand : 18 680 602 706 206 470 375 161 758 833 482 822 493 467 783 19 645 559 125 595 
+player 803 draws a 393 from deck 803
+player 803 discards a 18 to deck 804
+player 803 current hand : 680 602 706 206 470 375 161 758 833 482 822 493 467 783 19 645 559 125 595 393 
+player 803 draws a 240 from deck 803
+player 803 discards a 680 to deck 804
+player 803 current hand : 602 706 206 470 375 161 758 833 482 822 493 467 783 19 645 559 125 595 393 240 
+player 803 draws a 571 from deck 803
+player 803 discards a 602 to deck 804
+player 803 current hand : 706 206 470 375 161 758 833 482 822 493 467 783 19 645 559 125 595 393 240 571 
+player 803 draws a 37 from deck 803
+player 803 discards a 706 to deck 804
+player 803 current hand : 206 470 375 161 758 833 482 822 493 467 783 19 645 559 125 595 393 240 571 37 
+player 803 draws a 349 from deck 803
+player 803 discards a 206 to deck 804
+player 803 current hand : 470 375 161 758 833 482 822 493 467 783 19 645 559 125 595 393 240 571 37 349 
+player 803 draws a 984 from deck 803
+player 803 discards a 470 to deck 804
+player 803 current hand : 375 161 758 833 482 822 493 467 783 19 645 559 125 595 393 240 571 37 349 984 
+player 803 draws a 254 from deck 803
+player 803 discards a 375 to deck 804
+player 803 current hand : 161 758 833 482 822 493 467 783 19 645 559 125 595 393 240 571 37 349 984 254 
+player 803 draws a 982 from deck 803
+player 803 discards a 161 to deck 804
+player 803 current hand : 758 833 482 822 493 467 783 19 645 559 125 595 393 240 571 37 349 984 254 982 
+player 803 draws a 827 from deck 803
+player 803 discards a 758 to deck 804
+player 803 current hand : 833 482 822 493 467 783 19 645 559 125 595 393 240 571 37 349 984 254 982 827 
+player 803 draws a 343 from deck 803
+player 803 discards a 833 to deck 804
+player 803 current hand : 482 822 493 467 783 19 645 559 125 595 393 240 571 37 349 984 254 982 827 343 
+player 803 draws a 860 from deck 803
+player 803 discards a 482 to deck 804
+player 803 current hand : 822 493 467 783 19 645 559 125 595 393 240 571 37 349 984 254 982 827 343 860 
+player 803 draws a 773 from deck 803
+player 803 discards a 822 to deck 804
+player 803 current hand : 493 467 783 19 645 559 125 595 393 240 571 37 349 984 254 982 827 343 860 773 
+player 803 draws a 552 from deck 803
+player 803 discards a 493 to deck 804
+player 803 current hand : 467 783 19 645 559 125 595 393 240 571 37 349 984 254 982 827 343 860 773 552 
+player 803 draws a 384 from deck 803
+player 803 discards a 467 to deck 804
+player 803 current hand : 783 19 645 559 125 595 393 240 571 37 349 984 254 982 827 343 860 773 552 384 
+player 803 draws a 126 from deck 803
+player 803 discards a 783 to deck 804
+player 803 current hand : 19 645 559 125 595 393 240 571 37 349 984 254 982 827 343 860 773 552 384 126 
+player 803 draws a 595 from deck 803
+player 803 discards a 19 to deck 804
+player 803 current hand : 645 559 125 595 393 240 571 37 349 984 254 982 827 343 860 773 552 384 126 595 
+player 803 draws a 63 from deck 803
+player 803 discards a 645 to deck 804
+player 803 current hand : 559 125 595 393 240 571 37 349 984 254 982 827 343 860 773 552 384 126 595 63 
+player 803 draws a 635 from deck 803
+player 803 discards a 559 to deck 804
+player 803 current hand : 125 595 393 240 571 37 349 984 254 982 827 343 860 773 552 384 126 595 63 635 
+player 803 draws a 462 from deck 803
+player 803 discards a 125 to deck 804
+player 803 current hand : 595 393 240 571 37 349 984 254 982 827 343 860 773 552 384 126 595 63 635 462 
+player 803 draws a 664 from deck 803
+player 803 discards a 595 to deck 804
+player 803 current hand : 393 240 571 37 349 984 254 982 827 343 860 773 552 384 126 595 63 635 462 664 
+player 803 draws a 485 from deck 803
+player 803 discards a 393 to deck 804
+player 803 current hand : 240 571 37 349 984 254 982 827 343 860 773 552 384 126 595 63 635 462 664 485 
+player 803 draws a 822 from deck 803
+player 803 discards a 240 to deck 804
+player 803 current hand : 571 37 349 984 254 982 827 343 860 773 552 384 126 595 63 635 462 664 485 822 
+player 803 draws a 971 from deck 803
+player 803 discards a 571 to deck 804
+player 803 current hand : 37 349 984 254 982 827 343 860 773 552 384 126 595 63 635 462 664 485 822 971 
+player 803 draws a 808 from deck 803
+player 803 discards a 37 to deck 804
+player 803 current hand : 349 984 254 982 827 343 860 773 552 384 126 595 63 635 462 664 485 822 971 808 
+player 803 draws a 242 from deck 803
+player 803 discards a 349 to deck 804
+player 803 current hand : 984 254 982 827 343 860 773 552 384 126 595 63 635 462 664 485 822 971 808 242 
+player 803 draws a 635 from deck 803
+player 803 discards a 984 to deck 804
+player 803 current hand : 254 982 827 343 860 773 552 384 126 595 63 635 462 664 485 822 971 808 242 635 
+player 803 draws a 637 from deck 803
+player 803 discards a 254 to deck 804
+player 803 current hand : 982 827 343 860 773 552 384 126 595 63 635 462 664 485 822 971 808 242 635 637 
+player 803 draws a 726 from deck 803
+player 803 discards a 982 to deck 804
+player 803 current hand : 827 343 860 773 552 384 126 595 63 635 462 664 485 822 971 808 242 635 637 726 
+player 803 draws a 672 from deck 803
+player 803 discards a 827 to deck 804
+player 803 current hand : 343 860 773 552 384 126 595 63 635 462 664 485 822 971 808 242 635 637 726 672 
+player 803 draws a 571 from deck 803
+player 803 discards a 343 to deck 804
+player 803 current hand : 860 773 552 384 126 595 63 635 462 664 485 822 971 808 242 635 637 726 672 571 
+player 803 draws a 105 from deck 803
+player 803 discards a 860 to deck 804
+player 803 current hand : 773 552 384 126 595 63 635 462 664 485 822 971 808 242 635 637 726 672 571 105 
+player 803 draws a 45 from deck 803
+player 803 discards a 773 to deck 804
+player 803 current hand : 552 384 126 595 63 635 462 664 485 822 971 808 242 635 637 726 672 571 105 45 
+player 803 draws a 186 from deck 803
+player 803 discards a 552 to deck 804
+player 803 current hand : 384 126 595 63 635 462 664 485 822 971 808 242 635 637 726 672 571 105 45 186 
+player 803 draws a 870 from deck 803
+player 803 discards a 384 to deck 804
+player 803 current hand : 126 595 63 635 462 664 485 822 971 808 242 635 637 726 672 571 105 45 186 870 
+player 803 draws a 374 from deck 803
+player 803 discards a 126 to deck 804
+player 803 current hand : 595 63 635 462 664 485 822 971 808 242 635 637 726 672 571 105 45 186 870 374 
+player 803 draws a 507 from deck 803
+player 803 discards a 595 to deck 804
+player 803 current hand : 63 635 462 664 485 822 971 808 242 635 637 726 672 571 105 45 186 870 374 507 
+player 803 draws a 795 from deck 803
+player 803 discards a 63 to deck 804
+player 803 current hand : 635 462 664 485 822 971 808 242 635 637 726 672 571 105 45 186 870 374 507 795 
+player 803 draws a 62 from deck 803
+player 803 discards a 635 to deck 804
+player 803 current hand : 462 664 485 822 971 808 242 635 637 726 672 571 105 45 186 870 374 507 795 62 

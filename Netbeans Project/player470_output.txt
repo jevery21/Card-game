@@ -1,0 +1,315 @@
+player 470 initial hand 52 177 370 485 588 833 110 293 490 792 378 210 418 475 532 617 124 411 24 812 
+player 470 draws a 714 from deck 470
+player 470 discards a 52 to deck 471
+player 470 current hand : 177 370 485 588 833 110 293 490 792 378 210 418 475 532 617 124 411 24 812 714 
+player 470 draws a 558 from deck 470
+player 470 discards a 177 to deck 471
+player 470 current hand : 370 485 588 833 110 293 490 792 378 210 418 475 532 617 124 411 24 812 714 558 
+player 470 draws a 765 from deck 470
+player 470 discards a 370 to deck 471
+player 470 current hand : 485 588 833 110 293 490 792 378 210 418 475 532 617 124 411 24 812 714 558 765 
+player 470 draws a 204 from deck 470
+player 470 discards a 485 to deck 471
+player 470 current hand : 588 833 110 293 490 792 378 210 418 475 532 617 124 411 24 812 714 558 765 204 
+player 470 draws a 14 from deck 470
+player 470 discards a 588 to deck 471
+player 470 current hand : 833 110 293 490 792 378 210 418 475 532 617 124 411 24 812 714 558 765 204 14 
+player 470 draws a 762 from deck 470
+player 470 discards a 833 to deck 471
+player 470 current hand : 110 293 490 792 378 210 418 475 532 617 124 411 24 812 714 558 765 204 14 762 
+player 470 draws a 672 from deck 470
+player 470 discards a 110 to deck 471
+player 470 current hand : 293 490 792 378 210 418 475 532 617 124 411 24 812 714 558 765 204 14 762 672 
+player 470 draws a 994 from deck 470
+player 470 discards a 293 to deck 471
+player 470 current hand : 490 792 378 210 418 475 532 617 124 411 24 812 714 558 765 204 14 762 672 994 
+player 470 draws a 9 from deck 470
+player 470 discards a 490 to deck 471
+player 470 current hand : 792 378 210 418 475 532 617 124 411 24 812 714 558 765 204 14 762 672 994 9 
+player 470 draws a 373 from deck 470
+player 470 discards a 792 to deck 471
+player 470 current hand : 378 210 418 475 532 617 124 411 24 812 714 558 765 204 14 762 672 994 9 373 
+player 470 draws a 377 from deck 470
+player 470 discards a 378 to deck 471
+player 470 current hand : 210 418 475 532 617 124 411 24 812 714 558 765 204 14 762 672 994 9 373 377 
+player 470 draws a 301 from deck 470
+player 470 discards a 210 to deck 471
+player 470 current hand : 418 475 532 617 124 411 24 812 714 558 765 204 14 762 672 994 9 373 377 301 
+player 470 draws a 793 from deck 470
+player 470 discards a 418 to deck 471
+player 470 current hand : 475 532 617 124 411 24 812 714 558 765 204 14 762 672 994 9 373 377 301 793 
+player 470 draws a 978 from deck 470
+player 470 discards a 475 to deck 471
+player 470 current hand : 532 617 124 411 24 812 714 558 765 204 14 762 672 994 9 373 377 301 793 978 
+player 470 draws a 973 from deck 470
+player 470 discards a 532 to deck 471
+player 470 current hand : 617 124 411 24 812 714 558 765 204 14 762 672 994 9 373 377 301 793 978 973 
+player 470 draws a 326 from deck 470
+player 470 discards a 617 to deck 471
+player 470 current hand : 124 411 24 812 714 558 765 204 14 762 672 994 9 373 377 301 793 978 973 326 
+player 470 draws a 360 from deck 470
+player 470 discards a 124 to deck 471
+player 470 current hand : 411 24 812 714 558 765 204 14 762 672 994 9 373 377 301 793 978 973 326 360 
+player 470 draws a 446 from deck 470
+player 470 discards a 411 to deck 471
+player 470 current hand : 24 812 714 558 765 204 14 762 672 994 9 373 377 301 793 978 973 326 360 446 
+player 470 draws a 316 from deck 470
+player 470 discards a 24 to deck 471
+player 470 current hand : 812 714 558 765 204 14 762 672 994 9 373 377 301 793 978 973 326 360 446 316 
+player 470 draws a 393 from deck 470
+player 470 discards a 812 to deck 471
+player 470 current hand : 714 558 765 204 14 762 672 994 9 373 377 301 793 978 973 326 360 446 316 393 
+player 470 draws a 476 from deck 470
+player 470 discards a 714 to deck 471
+player 470 current hand : 558 765 204 14 762 672 994 9 373 377 301 793 978 973 326 360 446 316 393 476 
+player 470 draws a 256 from deck 470
+player 470 discards a 558 to deck 471
+player 470 current hand : 765 204 14 762 672 994 9 373 377 301 793 978 973 326 360 446 316 393 476 256 
+player 470 draws a 470 from deck 470
+player 470 discards a 765 to deck 471
+player 470 current hand : 204 14 762 672 994 9 373 377 301 793 978 973 326 360 446 316 393 476 256 470 
+player 470 draws a 899 from deck 470
+player 470 discards a 204 to deck 471
+player 470 current hand : 14 762 672 994 9 373 377 301 793 978 973 326 360 446 316 393 476 256 470 899 
+player 470 draws a 233 from deck 470
+player 470 discards a 14 to deck 471
+player 470 current hand : 762 672 994 9 373 377 301 793 978 973 326 360 446 316 393 476 256 470 899 233 
+player 470 draws a 446 from deck 470
+player 470 discards a 762 to deck 471
+player 470 current hand : 672 994 9 373 377 301 793 978 973 326 360 446 316 393 476 256 470 899 233 446 
+player 470 draws a 111 from deck 470
+player 470 discards a 672 to deck 471
+player 470 current hand : 994 9 373 377 301 793 978 973 326 360 446 316 393 476 256 470 899 233 446 111 
+player 470 draws a 175 from deck 470
+player 470 discards a 994 to deck 471
+player 470 current hand : 9 373 377 301 793 978 973 326 360 446 316 393 476 256 470 899 233 446 111 175 
+player 470 draws a 452 from deck 470
+player 470 discards a 9 to deck 471
+player 470 current hand : 373 377 301 793 978 973 326 360 446 316 393 476 256 470 899 233 446 111 175 452 
+player 470 draws a 497 from deck 470
+player 470 discards a 373 to deck 471
+player 470 current hand : 377 301 793 978 973 326 360 446 316 393 476 256 470 899 233 446 111 175 452 497 
+player 470 draws a 902 from deck 470
+player 470 discards a 377 to deck 471
+player 470 current hand : 301 793 978 973 326 360 446 316 393 476 256 470 899 233 446 111 175 452 497 902 
+player 470 draws a 846 from deck 470
+player 470 discards a 301 to deck 471
+player 470 current hand : 793 978 973 326 360 446 316 393 476 256 470 899 233 446 111 175 452 497 902 846 
+player 470 draws a 419 from deck 470
+player 470 discards a 793 to deck 471
+player 470 current hand : 978 973 326 360 446 316 393 476 256 470 899 233 446 111 175 452 497 902 846 419 
+player 470 draws a 970 from deck 470
+player 470 discards a 978 to deck 471
+player 470 current hand : 973 326 360 446 316 393 476 256 470 899 233 446 111 175 452 497 902 846 419 970 
+player 470 draws a 85 from deck 470
+player 470 discards a 973 to deck 471
+player 470 current hand : 326 360 446 316 393 476 256 470 899 233 446 111 175 452 497 902 846 419 970 85 
+player 470 draws a 291 from deck 470
+player 470 discards a 326 to deck 471
+player 470 current hand : 360 446 316 393 476 256 470 899 233 446 111 175 452 497 902 846 419 970 85 291 
+player 470 draws a 252 from deck 470
+player 470 discards a 360 to deck 471
+player 470 current hand : 446 316 393 476 256 470 899 233 446 111 175 452 497 902 846 419 970 85 291 252 
+player 470 draws a 893 from deck 470
+player 470 discards a 446 to deck 471
+player 470 current hand : 316 393 476 256 470 899 233 446 111 175 452 497 902 846 419 970 85 291 252 893 
+player 470 draws a 946 from deck 470
+player 470 discards a 316 to deck 471
+player 470 current hand : 393 476 256 470 899 233 446 111 175 452 497 902 846 419 970 85 291 252 893 946 
+player 470 draws a 868 from deck 470
+player 470 discards a 393 to deck 471
+player 470 current hand : 476 256 470 899 233 446 111 175 452 497 902 846 419 970 85 291 252 893 946 868 
+player 470 draws a 336 from deck 470
+player 470 discards a 476 to deck 471
+player 470 current hand : 256 470 899 233 446 111 175 452 497 902 846 419 970 85 291 252 893 946 868 336 
+player 470 draws a 735 from deck 470
+player 470 discards a 256 to deck 471
+player 470 current hand : 470 899 233 446 111 175 452 497 902 846 419 970 85 291 252 893 946 868 336 735 
+player 470 draws a 83 from deck 470
+player 470 discards a 899 to deck 471
+player 470 current hand : 470 233 446 111 175 452 497 902 846 419 970 85 291 252 893 946 868 336 735 83 
+player 470 draws a 442 from deck 470
+player 470 discards a 233 to deck 471
+player 470 current hand : 470 446 111 175 452 497 902 846 419 970 85 291 252 893 946 868 336 735 83 442 
+player 470 draws a 523 from deck 470
+player 470 discards a 446 to deck 471
+player 470 current hand : 470 111 175 452 497 902 846 419 970 85 291 252 893 946 868 336 735 83 442 523 
+player 470 draws a 100 from deck 470
+player 470 discards a 111 to deck 471
+player 470 current hand : 470 175 452 497 902 846 419 970 85 291 252 893 946 868 336 735 83 442 523 100 
+player 470 draws a 734 from deck 470
+player 470 discards a 175 to deck 471
+player 470 current hand : 470 452 497 902 846 419 970 85 291 252 893 946 868 336 735 83 442 523 100 734 
+player 470 draws a 762 from deck 470
+player 470 discards a 452 to deck 471
+player 470 current hand : 470 497 902 846 419 970 85 291 252 893 946 868 336 735 83 442 523 100 734 762 
+player 470 draws a 74 from deck 470
+player 470 discards a 497 to deck 471
+player 470 current hand : 470 902 846 419 970 85 291 252 893 946 868 336 735 83 442 523 100 734 762 74 
+player 470 draws a 613 from deck 470
+player 470 discards a 902 to deck 471
+player 470 current hand : 470 846 419 970 85 291 252 893 946 868 336 735 83 442 523 100 734 762 74 613 
+player 470 draws a 636 from deck 470
+player 470 discards a 846 to deck 471
+player 470 current hand : 470 419 970 85 291 252 893 946 868 336 735 83 442 523 100 734 762 74 613 636 
+player 470 draws a 60 from deck 470
+player 470 discards a 419 to deck 471
+player 470 current hand : 470 970 85 291 252 893 946 868 336 735 83 442 523 100 734 762 74 613 636 60 
+player 470 draws a 481 from deck 470
+player 470 discards a 970 to deck 471
+player 470 current hand : 470 85 291 252 893 946 868 336 735 83 442 523 100 734 762 74 613 636 60 481 
+player 470 draws a 142 from deck 470
+player 470 discards a 85 to deck 471
+player 470 current hand : 470 291 252 893 946 868 336 735 83 442 523 100 734 762 74 613 636 60 481 142 
+player 470 draws a 20 from deck 470
+player 470 discards a 291 to deck 471
+player 470 current hand : 470 252 893 946 868 336 735 83 442 523 100 734 762 74 613 636 60 481 142 20 
+player 470 draws a 24 from deck 470
+player 470 discards a 252 to deck 471
+player 470 current hand : 470 893 946 868 336 735 83 442 523 100 734 762 74 613 636 60 481 142 20 24 
+player 470 draws a 800 from deck 470
+player 470 discards a 893 to deck 471
+player 470 current hand : 470 946 868 336 735 83 442 523 100 734 762 74 613 636 60 481 142 20 24 800 
+player 470 draws a 555 from deck 470
+player 470 discards a 946 to deck 471
+player 470 current hand : 470 868 336 735 83 442 523 100 734 762 74 613 636 60 481 142 20 24 800 555 
+player 470 draws a 795 from deck 470
+player 470 discards a 868 to deck 471
+player 470 current hand : 470 336 735 83 442 523 100 734 762 74 613 636 60 481 142 20 24 800 555 795 
+player 470 draws a 930 from deck 470
+player 470 discards a 336 to deck 471
+player 470 current hand : 470 735 83 442 523 100 734 762 74 613 636 60 481 142 20 24 800 555 795 930 
+player 470 draws a 403 from deck 470
+player 470 discards a 735 to deck 471
+player 470 current hand : 470 83 442 523 100 734 762 74 613 636 60 481 142 20 24 800 555 795 930 403 
+player 470 draws a 494 from deck 470
+player 470 discards a 83 to deck 471
+player 470 current hand : 470 442 523 100 734 762 74 613 636 60 481 142 20 24 800 555 795 930 403 494 
+player 470 draws a 838 from deck 470
+player 470 discards a 442 to deck 471
+player 470 current hand : 470 523 100 734 762 74 613 636 60 481 142 20 24 800 555 795 930 403 494 838 
+player 470 draws a 527 from deck 470
+player 470 discards a 523 to deck 471
+player 470 current hand : 470 100 734 762 74 613 636 60 481 142 20 24 800 555 795 930 403 494 838 527 
+player 470 draws a 466 from deck 470
+player 470 discards a 100 to deck 471
+player 470 current hand : 470 734 762 74 613 636 60 481 142 20 24 800 555 795 930 403 494 838 527 466 
+player 470 draws a 475 from deck 470
+player 470 discards a 734 to deck 471
+player 470 current hand : 470 762 74 613 636 60 481 142 20 24 800 555 795 930 403 494 838 527 466 475 
+player 470 draws a 938 from deck 470
+player 470 discards a 762 to deck 471
+player 470 current hand : 470 74 613 636 60 481 142 20 24 800 555 795 930 403 494 838 527 466 475 938 
+player 470 draws a 538 from deck 470
+player 470 discards a 74 to deck 471
+player 470 current hand : 470 613 636 60 481 142 20 24 800 555 795 930 403 494 838 527 466 475 938 538 
+player 470 draws a 120 from deck 470
+player 470 discards a 613 to deck 471
+player 470 current hand : 470 636 60 481 142 20 24 800 555 795 930 403 494 838 527 466 475 938 538 120 
+player 470 draws a 546 from deck 470
+player 470 discards a 636 to deck 471
+player 470 current hand : 470 60 481 142 20 24 800 555 795 930 403 494 838 527 466 475 938 538 120 546 
+player 470 draws a 16 from deck 470
+player 470 discards a 60 to deck 471
+player 470 current hand : 470 481 142 20 24 800 555 795 930 403 494 838 527 466 475 938 538 120 546 16 
+player 470 draws a 751 from deck 470
+player 470 discards a 481 to deck 471
+player 470 current hand : 470 142 20 24 800 555 795 930 403 494 838 527 466 475 938 538 120 546 16 751 
+player 470 draws a 853 from deck 470
+player 470 discards a 142 to deck 471
+player 470 current hand : 470 20 24 800 555 795 930 403 494 838 527 466 475 938 538 120 546 16 751 853 
+player 470 draws a 275 from deck 470
+player 470 discards a 20 to deck 471
+player 470 current hand : 470 24 800 555 795 930 403 494 838 527 466 475 938 538 120 546 16 751 853 275 
+player 470 draws a 728 from deck 470
+player 470 discards a 24 to deck 471
+player 470 current hand : 470 800 555 795 930 403 494 838 527 466 475 938 538 120 546 16 751 853 275 728 
+player 470 draws a 344 from deck 470
+player 470 discards a 800 to deck 471
+player 470 current hand : 470 555 795 930 403 494 838 527 466 475 938 538 120 546 16 751 853 275 728 344 
+player 470 draws a 285 from deck 470
+player 470 discards a 555 to deck 471
+player 470 current hand : 470 795 930 403 494 838 527 466 475 938 538 120 546 16 751 853 275 728 344 285 
+player 470 draws a 737 from deck 470
+player 470 discards a 795 to deck 471
+player 470 current hand : 470 930 403 494 838 527 466 475 938 538 120 546 16 751 853 275 728 344 285 737 
+player 470 draws a 897 from deck 470
+player 470 discards a 930 to deck 471
+player 470 current hand : 470 403 494 838 527 466 475 938 538 120 546 16 751 853 275 728 344 285 737 897 
+player 470 draws a 740 from deck 470
+player 470 discards a 403 to deck 471
+player 470 current hand : 470 494 838 527 466 475 938 538 120 546 16 751 853 275 728 344 285 737 897 740 
+player 470 draws a 496 from deck 470
+player 470 discards a 494 to deck 471
+player 470 current hand : 470 838 527 466 475 938 538 120 546 16 751 853 275 728 344 285 737 897 740 496 
+player 470 draws a 570 from deck 470
+player 470 discards a 838 to deck 471
+player 470 current hand : 470 527 466 475 938 538 120 546 16 751 853 275 728 344 285 737 897 740 496 570 
+player 470 draws a 505 from deck 470
+player 470 discards a 527 to deck 471
+player 470 current hand : 470 466 475 938 538 120 546 16 751 853 275 728 344 285 737 897 740 496 570 505 
+player 470 draws a 255 from deck 470
+player 470 discards a 466 to deck 471
+player 470 current hand : 470 475 938 538 120 546 16 751 853 275 728 344 285 737 897 740 496 570 505 255 
+player 470 draws a 785 from deck 470
+player 470 discards a 475 to deck 471
+player 470 current hand : 470 938 538 120 546 16 751 853 275 728 344 285 737 897 740 496 570 505 255 785 
+player 470 draws a 515 from deck 470
+player 470 discards a 938 to deck 471
+player 470 current hand : 470 538 120 546 16 751 853 275 728 344 285 737 897 740 496 570 505 255 785 515 
+player 470 draws a 374 from deck 470
+player 470 discards a 538 to deck 471
+player 470 current hand : 470 120 546 16 751 853 275 728 344 285 737 897 740 496 570 505 255 785 515 374 
+player 470 draws a 9 from deck 470
+player 470 discards a 120 to deck 471
+player 470 current hand : 470 546 16 751 853 275 728 344 285 737 897 740 496 570 505 255 785 515 374 9 
+player 470 draws a 333 from deck 470
+player 470 discards a 546 to deck 471
+player 470 current hand : 470 16 751 853 275 728 344 285 737 897 740 496 570 505 255 785 515 374 9 333 
+player 470 draws a 839 from deck 470
+player 470 discards a 16 to deck 471
+player 470 current hand : 470 751 853 275 728 344 285 737 897 740 496 570 505 255 785 515 374 9 333 839 
+player 470 draws a 257 from deck 470
+player 470 discards a 751 to deck 471
+player 470 current hand : 470 853 275 728 344 285 737 897 740 496 570 505 255 785 515 374 9 333 839 257 
+player 470 draws a 922 from deck 470
+player 470 discards a 853 to deck 471
+player 470 current hand : 470 275 728 344 285 737 897 740 496 570 505 255 785 515 374 9 333 839 257 922 
+player 470 draws a 138 from deck 470
+player 470 discards a 275 to deck 471
+player 470 current hand : 470 728 344 285 737 897 740 496 570 505 255 785 515 374 9 333 839 257 922 138 
+player 470 draws a 812 from deck 470
+player 470 discards a 728 to deck 471
+player 470 current hand : 470 344 285 737 897 740 496 570 505 255 785 515 374 9 333 839 257 922 138 812 
+player 470 draws a 602 from deck 470
+player 470 discards a 344 to deck 471
+player 470 current hand : 470 285 737 897 740 496 570 505 255 785 515 374 9 333 839 257 922 138 812 602 
+player 470 draws a 706 from deck 470
+player 470 discards a 285 to deck 471
+player 470 current hand : 470 737 897 740 496 570 505 255 785 515 374 9 333 839 257 922 138 812 602 706 
+player 470 draws a 113 from deck 470
+player 470 discards a 737 to deck 471
+player 470 current hand : 470 897 740 496 570 505 255 785 515 374 9 333 839 257 922 138 812 602 706 113 
+player 470 draws a 426 from deck 470
+player 470 discards a 897 to deck 471
+player 470 current hand : 470 740 496 570 505 255 785 515 374 9 333 839 257 922 138 812 602 706 113 426 
+player 470 draws a 165 from deck 470
+player 470 discards a 740 to deck 471
+player 470 current hand : 470 496 570 505 255 785 515 374 9 333 839 257 922 138 812 602 706 113 426 165 
+player 470 draws a 346 from deck 470
+player 470 discards a 496 to deck 471
+player 470 current hand : 470 570 505 255 785 515 374 9 333 839 257 922 138 812 602 706 113 426 165 346 
+player 470 draws a 233 from deck 470
+player 470 discards a 570 to deck 471
+player 470 current hand : 470 505 255 785 515 374 9 333 839 257 922 138 812 602 706 113 426 165 346 233 
+player 470 draws a 866 from deck 470
+player 470 discards a 505 to deck 471
+player 470 current hand : 470 255 785 515 374 9 333 839 257 922 138 812 602 706 113 426 165 346 233 866 
+player 470 draws a 180 from deck 470
+player 470 discards a 255 to deck 471
+player 470 current hand : 470 785 515 374 9 333 839 257 922 138 812 602 706 113 426 165 346 233 866 180 
+player 470 draws a 243 from deck 470
+player 470 discards a 785 to deck 471
+player 470 current hand : 470 515 374 9 333 839 257 922 138 812 602 706 113 426 165 346 233 866 180 243 
+player 470 draws a 416 from deck 470
+player 470 discards a 515 to deck 471

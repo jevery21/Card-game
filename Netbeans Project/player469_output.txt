@@ -1,0 +1,309 @@
+player 469 initial hand 476 256 470 899 233 446 111 175 452 497 902 846 419 970 85 291 252 893 946 868 
+player 469 draws a 336 from deck 469
+player 469 discards a 476 to deck 470
+player 469 current hand : 256 470 899 233 446 111 175 452 497 902 846 419 970 85 291 252 893 946 868 336 
+player 469 draws a 735 from deck 469
+player 469 discards a 256 to deck 470
+player 469 current hand : 470 899 233 446 111 175 452 497 902 846 419 970 85 291 252 893 946 868 336 735 
+player 469 draws a 83 from deck 469
+player 469 discards a 470 to deck 470
+player 469 current hand : 899 233 446 111 175 452 497 902 846 419 970 85 291 252 893 946 868 336 735 83 
+player 469 draws a 442 from deck 469
+player 469 discards a 899 to deck 470
+player 469 current hand : 233 446 111 175 452 497 902 846 419 970 85 291 252 893 946 868 336 735 83 442 
+player 469 draws a 523 from deck 469
+player 469 discards a 233 to deck 470
+player 469 current hand : 446 111 175 452 497 902 846 419 970 85 291 252 893 946 868 336 735 83 442 523 
+player 469 draws a 100 from deck 469
+player 469 discards a 446 to deck 470
+player 469 current hand : 111 175 452 497 902 846 419 970 85 291 252 893 946 868 336 735 83 442 523 100 
+player 469 draws a 734 from deck 469
+player 469 discards a 111 to deck 470
+player 469 current hand : 175 452 497 902 846 419 970 85 291 252 893 946 868 336 735 83 442 523 100 734 
+player 469 draws a 762 from deck 469
+player 469 discards a 175 to deck 470
+player 469 current hand : 452 497 902 846 419 970 85 291 252 893 946 868 336 735 83 442 523 100 734 762 
+player 469 draws a 74 from deck 469
+player 469 discards a 452 to deck 470
+player 469 current hand : 497 902 846 419 970 85 291 252 893 946 868 336 735 83 442 523 100 734 762 74 
+player 469 draws a 613 from deck 469
+player 469 discards a 497 to deck 470
+player 469 current hand : 902 846 419 970 85 291 252 893 946 868 336 735 83 442 523 100 734 762 74 613 
+player 469 draws a 636 from deck 469
+player 469 discards a 902 to deck 470
+player 469 current hand : 846 419 970 85 291 252 893 946 868 336 735 83 442 523 100 734 762 74 613 636 
+player 469 draws a 60 from deck 469
+player 469 discards a 846 to deck 470
+player 469 current hand : 419 970 85 291 252 893 946 868 336 735 83 442 523 100 734 762 74 613 636 60 
+player 469 draws a 481 from deck 469
+player 469 discards a 419 to deck 470
+player 469 current hand : 970 85 291 252 893 946 868 336 735 83 442 523 100 734 762 74 613 636 60 481 
+player 469 draws a 142 from deck 469
+player 469 discards a 970 to deck 470
+player 469 current hand : 85 291 252 893 946 868 336 735 83 442 523 100 734 762 74 613 636 60 481 142 
+player 469 draws a 20 from deck 469
+player 469 discards a 85 to deck 470
+player 469 current hand : 291 252 893 946 868 336 735 83 442 523 100 734 762 74 613 636 60 481 142 20 
+player 469 draws a 24 from deck 469
+player 469 discards a 291 to deck 470
+player 469 current hand : 252 893 946 868 336 735 83 442 523 100 734 762 74 613 636 60 481 142 20 24 
+player 469 draws a 800 from deck 469
+player 469 discards a 252 to deck 470
+player 469 current hand : 893 946 868 336 735 83 442 523 100 734 762 74 613 636 60 481 142 20 24 800 
+player 469 draws a 555 from deck 469
+player 469 discards a 893 to deck 470
+player 469 current hand : 946 868 336 735 83 442 523 100 734 762 74 613 636 60 481 142 20 24 800 555 
+player 469 draws a 795 from deck 469
+player 469 discards a 946 to deck 470
+player 469 current hand : 868 336 735 83 442 523 100 734 762 74 613 636 60 481 142 20 24 800 555 795 
+player 469 draws a 930 from deck 469
+player 469 discards a 868 to deck 470
+player 469 current hand : 336 735 83 442 523 100 734 762 74 613 636 60 481 142 20 24 800 555 795 930 
+player 469 draws a 403 from deck 469
+player 469 discards a 336 to deck 470
+player 469 current hand : 735 83 442 523 100 734 762 74 613 636 60 481 142 20 24 800 555 795 930 403 
+player 469 draws a 494 from deck 469
+player 469 discards a 735 to deck 470
+player 469 current hand : 83 442 523 100 734 762 74 613 636 60 481 142 20 24 800 555 795 930 403 494 
+player 469 draws a 838 from deck 469
+player 469 discards a 83 to deck 470
+player 469 current hand : 442 523 100 734 762 74 613 636 60 481 142 20 24 800 555 795 930 403 494 838 
+player 469 draws a 527 from deck 469
+player 469 discards a 442 to deck 470
+player 469 current hand : 523 100 734 762 74 613 636 60 481 142 20 24 800 555 795 930 403 494 838 527 
+player 469 draws a 466 from deck 469
+player 469 discards a 523 to deck 470
+player 469 current hand : 100 734 762 74 613 636 60 481 142 20 24 800 555 795 930 403 494 838 527 466 
+player 469 draws a 475 from deck 469
+player 469 discards a 100 to deck 470
+player 469 current hand : 734 762 74 613 636 60 481 142 20 24 800 555 795 930 403 494 838 527 466 475 
+player 469 draws a 938 from deck 469
+player 469 discards a 734 to deck 470
+player 469 current hand : 762 74 613 636 60 481 142 20 24 800 555 795 930 403 494 838 527 466 475 938 
+player 469 draws a 538 from deck 469
+player 469 discards a 762 to deck 470
+player 469 current hand : 74 613 636 60 481 142 20 24 800 555 795 930 403 494 838 527 466 475 938 538 
+player 469 draws a 120 from deck 469
+player 469 discards a 74 to deck 470
+player 469 current hand : 613 636 60 481 142 20 24 800 555 795 930 403 494 838 527 466 475 938 538 120 
+player 469 draws a 546 from deck 469
+player 469 discards a 613 to deck 470
+player 469 current hand : 636 60 481 142 20 24 800 555 795 930 403 494 838 527 466 475 938 538 120 546 
+player 469 draws a 16 from deck 469
+player 469 discards a 636 to deck 470
+player 469 current hand : 60 481 142 20 24 800 555 795 930 403 494 838 527 466 475 938 538 120 546 16 
+player 469 draws a 751 from deck 469
+player 469 discards a 60 to deck 470
+player 469 current hand : 481 142 20 24 800 555 795 930 403 494 838 527 466 475 938 538 120 546 16 751 
+player 469 draws a 853 from deck 469
+player 469 discards a 481 to deck 470
+player 469 current hand : 142 20 24 800 555 795 930 403 494 838 527 466 475 938 538 120 546 16 751 853 
+player 469 draws a 275 from deck 469
+player 469 discards a 142 to deck 470
+player 469 current hand : 20 24 800 555 795 930 403 494 838 527 466 475 938 538 120 546 16 751 853 275 
+player 469 draws a 728 from deck 469
+player 469 discards a 20 to deck 470
+player 469 current hand : 24 800 555 795 930 403 494 838 527 466 475 938 538 120 546 16 751 853 275 728 
+player 469 draws a 344 from deck 469
+player 469 discards a 24 to deck 470
+player 469 current hand : 800 555 795 930 403 494 838 527 466 475 938 538 120 546 16 751 853 275 728 344 
+player 469 draws a 285 from deck 469
+player 469 discards a 800 to deck 470
+player 469 current hand : 555 795 930 403 494 838 527 466 475 938 538 120 546 16 751 853 275 728 344 285 
+player 469 draws a 737 from deck 469
+player 469 discards a 555 to deck 470
+player 469 current hand : 795 930 403 494 838 527 466 475 938 538 120 546 16 751 853 275 728 344 285 737 
+player 469 draws a 897 from deck 469
+player 469 discards a 795 to deck 470
+player 469 current hand : 930 403 494 838 527 466 475 938 538 120 546 16 751 853 275 728 344 285 737 897 
+player 469 draws a 740 from deck 469
+player 469 discards a 930 to deck 470
+player 469 current hand : 403 494 838 527 466 475 938 538 120 546 16 751 853 275 728 344 285 737 897 740 
+player 469 draws a 496 from deck 469
+player 469 discards a 403 to deck 470
+player 469 current hand : 494 838 527 466 475 938 538 120 546 16 751 853 275 728 344 285 737 897 740 496 
+player 469 draws a 570 from deck 469
+player 469 discards a 494 to deck 470
+player 469 current hand : 838 527 466 475 938 538 120 546 16 751 853 275 728 344 285 737 897 740 496 570 
+player 469 draws a 505 from deck 469
+player 469 discards a 838 to deck 470
+player 469 current hand : 527 466 475 938 538 120 546 16 751 853 275 728 344 285 737 897 740 496 570 505 
+player 469 draws a 255 from deck 469
+player 469 discards a 527 to deck 470
+player 469 current hand : 466 475 938 538 120 546 16 751 853 275 728 344 285 737 897 740 496 570 505 255 
+player 469 draws a 785 from deck 469
+player 469 discards a 466 to deck 470
+player 469 current hand : 475 938 538 120 546 16 751 853 275 728 344 285 737 897 740 496 570 505 255 785 
+player 469 draws a 515 from deck 469
+player 469 discards a 475 to deck 470
+player 469 current hand : 938 538 120 546 16 751 853 275 728 344 285 737 897 740 496 570 505 255 785 515 
+player 469 draws a 374 from deck 469
+player 469 discards a 938 to deck 470
+player 469 current hand : 538 120 546 16 751 853 275 728 344 285 737 897 740 496 570 505 255 785 515 374 
+player 469 draws a 9 from deck 469
+player 469 discards a 538 to deck 470
+player 469 current hand : 120 546 16 751 853 275 728 344 285 737 897 740 496 570 505 255 785 515 374 9 
+player 469 draws a 333 from deck 469
+player 469 discards a 120 to deck 470
+player 469 current hand : 546 16 751 853 275 728 344 285 737 897 740 496 570 505 255 785 515 374 9 333 
+player 469 draws a 839 from deck 469
+player 469 discards a 546 to deck 470
+player 469 current hand : 16 751 853 275 728 344 285 737 897 740 496 570 505 255 785 515 374 9 333 839 
+player 469 draws a 257 from deck 469
+player 469 discards a 16 to deck 470
+player 469 current hand : 751 853 275 728 344 285 737 897 740 496 570 505 255 785 515 374 9 333 839 257 
+player 469 draws a 922 from deck 469
+player 469 discards a 751 to deck 470
+player 469 current hand : 853 275 728 344 285 737 897 740 496 570 505 255 785 515 374 9 333 839 257 922 
+player 469 draws a 138 from deck 469
+player 469 discards a 853 to deck 470
+player 469 current hand : 275 728 344 285 737 897 740 496 570 505 255 785 515 374 9 333 839 257 922 138 
+player 469 draws a 812 from deck 469
+player 469 discards a 275 to deck 470
+player 469 current hand : 728 344 285 737 897 740 496 570 505 255 785 515 374 9 333 839 257 922 138 812 
+player 469 draws a 602 from deck 469
+player 469 discards a 728 to deck 470
+player 469 current hand : 344 285 737 897 740 496 570 505 255 785 515 374 9 333 839 257 922 138 812 602 
+player 469 draws a 706 from deck 469
+player 469 discards a 344 to deck 470
+player 469 current hand : 285 737 897 740 496 570 505 255 785 515 374 9 333 839 257 922 138 812 602 706 
+player 469 draws a 113 from deck 469
+player 469 discards a 285 to deck 470
+player 469 current hand : 737 897 740 496 570 505 255 785 515 374 9 333 839 257 922 138 812 602 706 113 
+player 469 draws a 426 from deck 469
+player 469 discards a 737 to deck 470
+player 469 current hand : 897 740 496 570 505 255 785 515 374 9 333 839 257 922 138 812 602 706 113 426 
+player 469 draws a 165 from deck 469
+player 469 discards a 897 to deck 470
+player 469 current hand : 740 496 570 505 255 785 515 374 9 333 839 257 922 138 812 602 706 113 426 165 
+player 469 draws a 346 from deck 469
+player 469 discards a 740 to deck 470
+player 469 current hand : 496 570 505 255 785 515 374 9 333 839 257 922 138 812 602 706 113 426 165 346 
+player 469 draws a 233 from deck 469
+player 469 discards a 496 to deck 470
+player 469 current hand : 570 505 255 785 515 374 9 333 839 257 922 138 812 602 706 113 426 165 346 233 
+player 469 draws a 866 from deck 469
+player 469 discards a 570 to deck 470
+player 469 current hand : 505 255 785 515 374 9 333 839 257 922 138 812 602 706 113 426 165 346 233 866 
+player 469 draws a 180 from deck 469
+player 469 discards a 505 to deck 470
+player 469 current hand : 255 785 515 374 9 333 839 257 922 138 812 602 706 113 426 165 346 233 866 180 
+player 469 draws a 243 from deck 469
+player 469 discards a 255 to deck 470
+player 469 current hand : 785 515 374 9 333 839 257 922 138 812 602 706 113 426 165 346 233 866 180 243 
+player 469 draws a 416 from deck 469
+player 469 discards a 785 to deck 470
+player 469 current hand : 515 374 9 333 839 257 922 138 812 602 706 113 426 165 346 233 866 180 243 416 
+player 469 draws a 527 from deck 469
+player 469 discards a 515 to deck 470
+player 469 current hand : 374 9 333 839 257 922 138 812 602 706 113 426 165 346 233 866 180 243 416 527 
+player 469 draws a 106 from deck 469
+player 469 discards a 374 to deck 470
+player 469 current hand : 9 333 839 257 922 138 812 602 706 113 426 165 346 233 866 180 243 416 527 106 
+player 469 draws a 50 from deck 469
+player 469 discards a 9 to deck 470
+player 469 current hand : 333 839 257 922 138 812 602 706 113 426 165 346 233 866 180 243 416 527 106 50 
+player 469 draws a 38 from deck 469
+player 469 discards a 333 to deck 470
+player 469 current hand : 839 257 922 138 812 602 706 113 426 165 346 233 866 180 243 416 527 106 50 38 
+player 469 draws a 10 from deck 469
+player 469 discards a 839 to deck 470
+player 469 current hand : 257 922 138 812 602 706 113 426 165 346 233 866 180 243 416 527 106 50 38 10 
+player 469 draws a 824 from deck 469
+player 469 discards a 257 to deck 470
+player 469 current hand : 922 138 812 602 706 113 426 165 346 233 866 180 243 416 527 106 50 38 10 824 
+player 469 draws a 111 from deck 469
+player 469 discards a 922 to deck 470
+player 469 current hand : 138 812 602 706 113 426 165 346 233 866 180 243 416 527 106 50 38 10 824 111 
+player 469 draws a 261 from deck 469
+player 469 discards a 138 to deck 470
+player 469 current hand : 812 602 706 113 426 165 346 233 866 180 243 416 527 106 50 38 10 824 111 261 
+player 469 draws a 777 from deck 469
+player 469 discards a 812 to deck 470
+player 469 current hand : 602 706 113 426 165 346 233 866 180 243 416 527 106 50 38 10 824 111 261 777 
+player 469 draws a 42 from deck 469
+player 469 discards a 602 to deck 470
+player 469 current hand : 706 113 426 165 346 233 866 180 243 416 527 106 50 38 10 824 111 261 777 42 
+player 469 draws a 892 from deck 469
+player 469 discards a 706 to deck 470
+player 469 current hand : 113 426 165 346 233 866 180 243 416 527 106 50 38 10 824 111 261 777 42 892 
+player 469 draws a 928 from deck 469
+player 469 discards a 113 to deck 470
+player 469 current hand : 426 165 346 233 866 180 243 416 527 106 50 38 10 824 111 261 777 42 892 928 
+player 469 draws a 199 from deck 469
+player 469 discards a 426 to deck 470
+player 469 current hand : 165 346 233 866 180 243 416 527 106 50 38 10 824 111 261 777 42 892 928 199 
+player 469 draws a 206 from deck 469
+player 469 discards a 165 to deck 470
+player 469 current hand : 346 233 866 180 243 416 527 106 50 38 10 824 111 261 777 42 892 928 199 206 
+player 469 draws a 964 from deck 469
+player 469 discards a 346 to deck 470
+player 469 current hand : 233 866 180 243 416 527 106 50 38 10 824 111 261 777 42 892 928 199 206 964 
+player 469 draws a 910 from deck 469
+player 469 discards a 233 to deck 470
+player 469 current hand : 866 180 243 416 527 106 50 38 10 824 111 261 777 42 892 928 199 206 964 910 
+player 469 draws a 734 from deck 469
+player 469 discards a 866 to deck 470
+player 469 current hand : 180 243 416 527 106 50 38 10 824 111 261 777 42 892 928 199 206 964 910 734 
+player 469 draws a 118 from deck 469
+player 469 discards a 180 to deck 470
+player 469 current hand : 243 416 527 106 50 38 10 824 111 261 777 42 892 928 199 206 964 910 734 118 
+player 469 draws a 15 from deck 469
+player 469 discards a 243 to deck 470
+player 469 current hand : 416 527 106 50 38 10 824 111 261 777 42 892 928 199 206 964 910 734 118 15 
+player 469 draws a 915 from deck 469
+player 469 discards a 416 to deck 470
+player 469 current hand : 527 106 50 38 10 824 111 261 777 42 892 928 199 206 964 910 734 118 15 915 
+player 469 draws a 412 from deck 469
+player 469 discards a 527 to deck 470
+player 469 current hand : 106 50 38 10 824 111 261 777 42 892 928 199 206 964 910 734 118 15 915 412 
+player 469 draws a 81 from deck 469
+player 469 discards a 106 to deck 470
+player 469 current hand : 50 38 10 824 111 261 777 42 892 928 199 206 964 910 734 118 15 915 412 81 
+player 469 draws a 175 from deck 469
+player 469 discards a 50 to deck 470
+player 469 current hand : 38 10 824 111 261 777 42 892 928 199 206 964 910 734 118 15 915 412 81 175 
+player 469 draws a 453 from deck 469
+player 469 discards a 38 to deck 470
+player 469 current hand : 10 824 111 261 777 42 892 928 199 206 964 910 734 118 15 915 412 81 175 453 
+player 469 draws a 852 from deck 469
+player 469 discards a 10 to deck 470
+player 469 current hand : 824 111 261 777 42 892 928 199 206 964 910 734 118 15 915 412 81 175 453 852 
+player 469 draws a 627 from deck 469
+player 469 discards a 824 to deck 470
+player 469 current hand : 111 261 777 42 892 928 199 206 964 910 734 118 15 915 412 81 175 453 852 627 
+player 469 draws a 240 from deck 469
+player 469 discards a 111 to deck 470
+player 469 current hand : 261 777 42 892 928 199 206 964 910 734 118 15 915 412 81 175 453 852 627 240 
+player 469 draws a 688 from deck 469
+player 469 discards a 261 to deck 470
+player 469 current hand : 777 42 892 928 199 206 964 910 734 118 15 915 412 81 175 453 852 627 240 688 
+player 469 draws a 636 from deck 469
+player 469 discards a 777 to deck 470
+player 469 current hand : 42 892 928 199 206 964 910 734 118 15 915 412 81 175 453 852 627 240 688 636 
+player 469 draws a 36 from deck 469
+player 469 discards a 42 to deck 470
+player 469 current hand : 892 928 199 206 964 910 734 118 15 915 412 81 175 453 852 627 240 688 636 36 
+player 469 draws a 429 from deck 469
+player 469 discards a 892 to deck 470
+player 469 current hand : 928 199 206 964 910 734 118 15 915 412 81 175 453 852 627 240 688 636 36 429 
+player 469 draws a 128 from deck 469
+player 469 discards a 928 to deck 470
+player 469 current hand : 199 206 964 910 734 118 15 915 412 81 175 453 852 627 240 688 636 36 429 128 
+player 469 draws a 726 from deck 469
+player 469 discards a 199 to deck 470
+player 469 current hand : 206 964 910 734 118 15 915 412 81 175 453 852 627 240 688 636 36 429 128 726 
+player 469 draws a 255 from deck 469
+player 469 discards a 206 to deck 470
+player 469 current hand : 964 910 734 118 15 915 412 81 175 453 852 627 240 688 636 36 429 128 726 255 
+player 469 draws a 73 from deck 469
+player 469 discards a 964 to deck 470
+player 469 current hand : 910 734 118 15 915 412 81 175 453 852 627 240 688 636 36 429 128 726 255 73 
+player 469 draws a 852 from deck 469
+player 469 discards a 910 to deck 470
+player 469 current hand : 734 118 15 915 412 81 175 453 852 627 240 688 636 36 429 128 726 255 73 852 
+player 469 draws a 83 from deck 469
+player 469 discards a 734 to deck 470
+player 469 current hand : 118 15 915 412 81 175 453 852 627 240 688 636 36 429 128 726 255 73 852 83 
+player 469 draws a 545 from deck 469
+player 469 discards a 118 to deck 470

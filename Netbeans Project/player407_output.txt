@@ -1,0 +1,328 @@
+player 407 initial hand 643 835 571 924 617 827 309 52 173 402 107 753 164 407 692 339 707 115 822 763 
+player 407 draws a 716 from deck 407
+player 407 discards a 643 to deck 408
+player 407 current hand : 835 571 924 617 827 309 52 173 402 107 753 164 407 692 339 707 115 822 763 716 
+player 407 draws a 754 from deck 407
+player 407 discards a 835 to deck 408
+player 407 current hand : 571 924 617 827 309 52 173 402 107 753 164 407 692 339 707 115 822 763 716 754 
+player 407 draws a 972 from deck 407
+player 407 discards a 571 to deck 408
+player 407 current hand : 924 617 827 309 52 173 402 107 753 164 407 692 339 707 115 822 763 716 754 972 
+player 407 draws a 973 from deck 407
+player 407 discards a 924 to deck 408
+player 407 current hand : 617 827 309 52 173 402 107 753 164 407 692 339 707 115 822 763 716 754 972 973 
+player 407 draws a 920 from deck 407
+player 407 discards a 617 to deck 408
+player 407 current hand : 827 309 52 173 402 107 753 164 407 692 339 707 115 822 763 716 754 972 973 920 
+player 407 draws a 537 from deck 407
+player 407 discards a 827 to deck 408
+player 407 current hand : 309 52 173 402 107 753 164 407 692 339 707 115 822 763 716 754 972 973 920 537 
+player 407 draws a 952 from deck 407
+player 407 discards a 309 to deck 408
+player 407 current hand : 52 173 402 107 753 164 407 692 339 707 115 822 763 716 754 972 973 920 537 952 
+player 407 draws a 634 from deck 407
+player 407 discards a 52 to deck 408
+player 407 current hand : 173 402 107 753 164 407 692 339 707 115 822 763 716 754 972 973 920 537 952 634 
+player 407 draws a 837 from deck 407
+player 407 discards a 173 to deck 408
+player 407 current hand : 402 107 753 164 407 692 339 707 115 822 763 716 754 972 973 920 537 952 634 837 
+player 407 draws a 904 from deck 407
+player 407 discards a 402 to deck 408
+player 407 current hand : 107 753 164 407 692 339 707 115 822 763 716 754 972 973 920 537 952 634 837 904 
+player 407 draws a 720 from deck 407
+player 407 discards a 107 to deck 408
+player 407 current hand : 753 164 407 692 339 707 115 822 763 716 754 972 973 920 537 952 634 837 904 720 
+player 407 draws a 717 from deck 407
+player 407 discards a 753 to deck 408
+player 407 current hand : 164 407 692 339 707 115 822 763 716 754 972 973 920 537 952 634 837 904 720 717 
+player 407 draws a 534 from deck 407
+player 407 discards a 164 to deck 408
+player 407 current hand : 407 692 339 707 115 822 763 716 754 972 973 920 537 952 634 837 904 720 717 534 
+player 407 draws a 279 from deck 407
+player 407 discards a 692 to deck 408
+player 407 current hand : 407 339 707 115 822 763 716 754 972 973 920 537 952 634 837 904 720 717 534 279 
+player 407 draws a 616 from deck 407
+player 407 discards a 339 to deck 408
+player 407 current hand : 407 707 115 822 763 716 754 972 973 920 537 952 634 837 904 720 717 534 279 616 
+player 407 draws a 131 from deck 407
+player 407 discards a 707 to deck 408
+player 407 current hand : 407 115 822 763 716 754 972 973 920 537 952 634 837 904 720 717 534 279 616 131 
+player 407 draws a 105 from deck 407
+player 407 discards a 115 to deck 408
+player 407 current hand : 407 822 763 716 754 972 973 920 537 952 634 837 904 720 717 534 279 616 131 105 
+player 407 draws a 991 from deck 407
+player 407 discards a 822 to deck 408
+player 407 current hand : 407 763 716 754 972 973 920 537 952 634 837 904 720 717 534 279 616 131 105 991 
+player 407 draws a 779 from deck 407
+player 407 discards a 763 to deck 408
+player 407 current hand : 407 716 754 972 973 920 537 952 634 837 904 720 717 534 279 616 131 105 991 779 
+player 407 draws a 589 from deck 407
+player 407 discards a 716 to deck 408
+player 407 current hand : 407 754 972 973 920 537 952 634 837 904 720 717 534 279 616 131 105 991 779 589 
+player 407 draws a 231 from deck 407
+player 407 discards a 754 to deck 408
+player 407 current hand : 407 972 973 920 537 952 634 837 904 720 717 534 279 616 131 105 991 779 589 231 
+player 407 draws a 31 from deck 407
+player 407 discards a 972 to deck 408
+player 407 current hand : 407 973 920 537 952 634 837 904 720 717 534 279 616 131 105 991 779 589 231 31 
+player 407 draws a 105 from deck 407
+player 407 discards a 973 to deck 408
+player 407 current hand : 407 920 537 952 634 837 904 720 717 534 279 616 131 105 991 779 589 231 31 105 
+player 407 draws a 284 from deck 407
+player 407 discards a 920 to deck 408
+player 407 current hand : 407 537 952 634 837 904 720 717 534 279 616 131 105 991 779 589 231 31 105 284 
+player 407 draws a 336 from deck 407
+player 407 discards a 537 to deck 408
+player 407 current hand : 407 952 634 837 904 720 717 534 279 616 131 105 991 779 589 231 31 105 284 336 
+player 407 draws a 392 from deck 407
+player 407 discards a 952 to deck 408
+player 407 current hand : 407 634 837 904 720 717 534 279 616 131 105 991 779 589 231 31 105 284 336 392 
+player 407 draws a 274 from deck 407
+player 407 discards a 634 to deck 408
+player 407 current hand : 407 837 904 720 717 534 279 616 131 105 991 779 589 231 31 105 284 336 392 274 
+player 407 draws a 549 from deck 407
+player 407 discards a 837 to deck 408
+player 407 current hand : 407 904 720 717 534 279 616 131 105 991 779 589 231 31 105 284 336 392 274 549 
+player 407 draws a 258 from deck 407
+player 407 discards a 904 to deck 408
+player 407 current hand : 407 720 717 534 279 616 131 105 991 779 589 231 31 105 284 336 392 274 549 258 
+player 407 draws a 238 from deck 407
+player 407 discards a 720 to deck 408
+player 407 current hand : 407 717 534 279 616 131 105 991 779 589 231 31 105 284 336 392 274 549 258 238 
+player 407 draws a 720 from deck 407
+player 407 discards a 717 to deck 408
+player 407 current hand : 407 534 279 616 131 105 991 779 589 231 31 105 284 336 392 274 549 258 238 720 
+player 407 draws a 156 from deck 407
+player 407 discards a 534 to deck 408
+player 407 current hand : 407 279 616 131 105 991 779 589 231 31 105 284 336 392 274 549 258 238 720 156 
+player 407 draws a 574 from deck 407
+player 407 discards a 279 to deck 408
+player 407 current hand : 407 616 131 105 991 779 589 231 31 105 284 336 392 274 549 258 238 720 156 574 
+player 407 draws a 525 from deck 407
+player 407 discards a 616 to deck 408
+player 407 current hand : 407 131 105 991 779 589 231 31 105 284 336 392 274 549 258 238 720 156 574 525 
+player 407 draws a 797 from deck 407
+player 407 discards a 131 to deck 408
+player 407 current hand : 407 105 991 779 589 231 31 105 284 336 392 274 549 258 238 720 156 574 525 797 
+player 407 draws a 31 from deck 407
+player 407 discards a 105 to deck 408
+player 407 current hand : 407 991 779 589 231 31 105 284 336 392 274 549 258 238 720 156 574 525 797 31 
+player 407 draws a 649 from deck 407
+player 407 discards a 991 to deck 408
+player 407 current hand : 407 779 589 231 31 105 284 336 392 274 549 258 238 720 156 574 525 797 31 649 
+player 407 draws a 446 from deck 407
+player 407 discards a 779 to deck 408
+player 407 current hand : 407 589 231 31 105 284 336 392 274 549 258 238 720 156 574 525 797 31 649 446 
+player 407 draws a 809 from deck 407
+player 407 discards a 589 to deck 408
+player 407 current hand : 407 231 31 105 284 336 392 274 549 258 238 720 156 574 525 797 31 649 446 809 
+player 407 draws a 918 from deck 407
+player 407 discards a 231 to deck 408
+player 407 current hand : 407 31 105 284 336 392 274 549 258 238 720 156 574 525 797 31 649 446 809 918 
+player 407 draws a 729 from deck 407
+player 407 discards a 31 to deck 408
+player 407 current hand : 407 105 284 336 392 274 549 258 238 720 156 574 525 797 31 649 446 809 918 729 
+player 407 draws a 797 from deck 407
+player 407 discards a 105 to deck 408
+player 407 current hand : 407 284 336 392 274 549 258 238 720 156 574 525 797 31 649 446 809 918 729 797 
+player 407 draws a 214 from deck 407
+player 407 discards a 284 to deck 408
+player 407 current hand : 407 336 392 274 549 258 238 720 156 574 525 797 31 649 446 809 918 729 797 214 
+player 407 draws a 40 from deck 407
+player 407 discards a 336 to deck 408
+player 407 current hand : 407 392 274 549 258 238 720 156 574 525 797 31 649 446 809 918 729 797 214 40 
+player 407 draws a 533 from deck 407
+player 407 discards a 392 to deck 408
+player 407 current hand : 407 274 549 258 238 720 156 574 525 797 31 649 446 809 918 729 797 214 40 533 
+player 407 draws a 991 from deck 407
+player 407 discards a 274 to deck 408
+player 407 current hand : 407 549 258 238 720 156 574 525 797 31 649 446 809 918 729 797 214 40 533 991 
+player 407 draws a 690 from deck 407
+player 407 discards a 549 to deck 408
+player 407 current hand : 407 258 238 720 156 574 525 797 31 649 446 809 918 729 797 214 40 533 991 690 
+player 407 draws a 632 from deck 407
+player 407 discards a 258 to deck 408
+player 407 current hand : 407 238 720 156 574 525 797 31 649 446 809 918 729 797 214 40 533 991 690 632 
+player 407 draws a 740 from deck 407
+player 407 discards a 238 to deck 408
+player 407 current hand : 407 720 156 574 525 797 31 649 446 809 918 729 797 214 40 533 991 690 632 740 
+player 407 draws a 52 from deck 407
+player 407 discards a 720 to deck 408
+player 407 current hand : 407 156 574 525 797 31 649 446 809 918 729 797 214 40 533 991 690 632 740 52 
+player 407 draws a 627 from deck 407
+player 407 discards a 156 to deck 408
+player 407 current hand : 407 574 525 797 31 649 446 809 918 729 797 214 40 533 991 690 632 740 52 627 
+player 407 draws a 947 from deck 407
+player 407 discards a 574 to deck 408
+player 407 current hand : 407 525 797 31 649 446 809 918 729 797 214 40 533 991 690 632 740 52 627 947 
+player 407 draws a 849 from deck 407
+player 407 discards a 525 to deck 408
+player 407 current hand : 407 797 31 649 446 809 918 729 797 214 40 533 991 690 632 740 52 627 947 849 
+player 407 draws a 633 from deck 407
+player 407 discards a 797 to deck 408
+player 407 current hand : 407 31 649 446 809 918 729 797 214 40 533 991 690 632 740 52 627 947 849 633 
+player 407 draws a 682 from deck 407
+player 407 discards a 31 to deck 408
+player 407 current hand : 407 649 446 809 918 729 797 214 40 533 991 690 632 740 52 627 947 849 633 682 
+player 407 draws a 481 from deck 407
+player 407 discards a 649 to deck 408
+player 407 current hand : 407 446 809 918 729 797 214 40 533 991 690 632 740 52 627 947 849 633 682 481 
+player 407 draws a 549 from deck 407
+player 407 discards a 446 to deck 408
+player 407 current hand : 407 809 918 729 797 214 40 533 991 690 632 740 52 627 947 849 633 682 481 549 
+player 407 draws a 838 from deck 407
+player 407 discards a 809 to deck 408
+player 407 current hand : 407 918 729 797 214 40 533 991 690 632 740 52 627 947 849 633 682 481 549 838 
+player 407 draws a 320 from deck 407
+player 407 discards a 918 to deck 408
+player 407 current hand : 407 729 797 214 40 533 991 690 632 740 52 627 947 849 633 682 481 549 838 320 
+player 407 draws a 712 from deck 407
+player 407 discards a 729 to deck 408
+player 407 current hand : 407 797 214 40 533 991 690 632 740 52 627 947 849 633 682 481 549 838 320 712 
+player 407 draws a 424 from deck 407
+player 407 discards a 797 to deck 408
+player 407 current hand : 407 214 40 533 991 690 632 740 52 627 947 849 633 682 481 549 838 320 712 424 
+player 407 draws a 72 from deck 407
+player 407 discards a 214 to deck 408
+player 407 current hand : 407 40 533 991 690 632 740 52 627 947 849 633 682 481 549 838 320 712 424 72 
+player 407 draws a 589 from deck 407
+player 407 discards a 40 to deck 408
+player 407 current hand : 407 533 991 690 632 740 52 627 947 849 633 682 481 549 838 320 712 424 72 589 
+player 407 draws a 732 from deck 407
+player 407 discards a 533 to deck 408
+player 407 current hand : 407 991 690 632 740 52 627 947 849 633 682 481 549 838 320 712 424 72 589 732 
+player 407 draws a 743 from deck 407
+player 407 discards a 991 to deck 408
+player 407 current hand : 407 690 632 740 52 627 947 849 633 682 481 549 838 320 712 424 72 589 732 743 
+player 407 draws a 305 from deck 407
+player 407 discards a 690 to deck 408
+player 407 current hand : 407 632 740 52 627 947 849 633 682 481 549 838 320 712 424 72 589 732 743 305 
+player 407 draws a 797 from deck 407
+player 407 discards a 632 to deck 408
+player 407 current hand : 407 740 52 627 947 849 633 682 481 549 838 320 712 424 72 589 732 743 305 797 
+player 407 draws a 319 from deck 407
+player 407 discards a 740 to deck 408
+player 407 current hand : 407 52 627 947 849 633 682 481 549 838 320 712 424 72 589 732 743 305 797 319 
+player 407 draws a 852 from deck 407
+player 407 discards a 52 to deck 408
+player 407 current hand : 407 627 947 849 633 682 481 549 838 320 712 424 72 589 732 743 305 797 319 852 
+player 407 draws a 917 from deck 407
+player 407 discards a 627 to deck 408
+player 407 current hand : 407 947 849 633 682 481 549 838 320 712 424 72 589 732 743 305 797 319 852 917 
+player 407 draws a 401 from deck 407
+player 407 discards a 947 to deck 408
+player 407 current hand : 407 849 633 682 481 549 838 320 712 424 72 589 732 743 305 797 319 852 917 401 
+player 407 draws a 986 from deck 407
+player 407 discards a 849 to deck 408
+player 407 current hand : 407 633 682 481 549 838 320 712 424 72 589 732 743 305 797 319 852 917 401 986 
+player 407 draws a 329 from deck 407
+player 407 discards a 633 to deck 408
+player 407 current hand : 407 682 481 549 838 320 712 424 72 589 732 743 305 797 319 852 917 401 986 329 
+player 407 draws a 709 from deck 407
+player 407 discards a 682 to deck 408
+player 407 current hand : 407 481 549 838 320 712 424 72 589 732 743 305 797 319 852 917 401 986 329 709 
+player 407 draws a 669 from deck 407
+player 407 discards a 481 to deck 408
+player 407 current hand : 407 549 838 320 712 424 72 589 732 743 305 797 319 852 917 401 986 329 709 669 
+player 407 draws a 635 from deck 407
+player 407 discards a 549 to deck 408
+player 407 current hand : 407 838 320 712 424 72 589 732 743 305 797 319 852 917 401 986 329 709 669 635 
+player 407 draws a 620 from deck 407
+player 407 discards a 838 to deck 408
+player 407 current hand : 407 320 712 424 72 589 732 743 305 797 319 852 917 401 986 329 709 669 635 620 
+player 407 draws a 745 from deck 407
+player 407 discards a 320 to deck 408
+player 407 current hand : 407 712 424 72 589 732 743 305 797 319 852 917 401 986 329 709 669 635 620 745 
+player 407 draws a 343 from deck 407
+player 407 discards a 712 to deck 408
+player 407 current hand : 407 424 72 589 732 743 305 797 319 852 917 401 986 329 709 669 635 620 745 343 
+player 407 draws a 680 from deck 407
+player 407 discards a 424 to deck 408
+player 407 current hand : 407 72 589 732 743 305 797 319 852 917 401 986 329 709 669 635 620 745 343 680 
+player 407 draws a 546 from deck 407
+player 407 discards a 72 to deck 408
+player 407 current hand : 407 589 732 743 305 797 319 852 917 401 986 329 709 669 635 620 745 343 680 546 
+player 407 draws a 537 from deck 407
+player 407 discards a 589 to deck 408
+player 407 current hand : 407 732 743 305 797 319 852 917 401 986 329 709 669 635 620 745 343 680 546 537 
+player 407 draws a 285 from deck 407
+player 407 discards a 732 to deck 408
+player 407 current hand : 407 743 305 797 319 852 917 401 986 329 709 669 635 620 745 343 680 546 537 285 
+player 407 draws a 480 from deck 407
+player 407 discards a 743 to deck 408
+player 407 current hand : 407 305 797 319 852 917 401 986 329 709 669 635 620 745 343 680 546 537 285 480 
+player 407 draws a 842 from deck 407
+player 407 discards a 305 to deck 408
+player 407 current hand : 407 797 319 852 917 401 986 329 709 669 635 620 745 343 680 546 537 285 480 842 
+player 407 draws a 845 from deck 407
+player 407 discards a 797 to deck 408
+player 407 current hand : 407 319 852 917 401 986 329 709 669 635 620 745 343 680 546 537 285 480 842 845 
+player 407 draws a 158 from deck 407
+player 407 discards a 319 to deck 408
+player 407 current hand : 407 852 917 401 986 329 709 669 635 620 745 343 680 546 537 285 480 842 845 158 
+player 407 draws a 750 from deck 407
+player 407 discards a 852 to deck 408
+player 407 current hand : 407 917 401 986 329 709 669 635 620 745 343 680 546 537 285 480 842 845 158 750 
+player 407 draws a 508 from deck 407
+player 407 discards a 917 to deck 408
+player 407 current hand : 407 401 986 329 709 669 635 620 745 343 680 546 537 285 480 842 845 158 750 508 
+player 407 draws a 509 from deck 407
+player 407 discards a 401 to deck 408
+player 407 current hand : 407 986 329 709 669 635 620 745 343 680 546 537 285 480 842 845 158 750 508 509 
+player 407 draws a 464 from deck 407
+player 407 discards a 986 to deck 408
+player 407 current hand : 407 329 709 669 635 620 745 343 680 546 537 285 480 842 845 158 750 508 509 464 
+player 407 draws a 926 from deck 407
+player 407 discards a 329 to deck 408
+player 407 current hand : 407 709 669 635 620 745 343 680 546 537 285 480 842 845 158 750 508 509 464 926 
+player 407 draws a 426 from deck 407
+player 407 discards a 709 to deck 408
+player 407 current hand : 407 669 635 620 745 343 680 546 537 285 480 842 845 158 750 508 509 464 926 426 
+player 407 draws a 290 from deck 407
+player 407 discards a 669 to deck 408
+player 407 current hand : 407 635 620 745 343 680 546 537 285 480 842 845 158 750 508 509 464 926 426 290 
+player 407 draws a 470 from deck 407
+player 407 discards a 635 to deck 408
+player 407 current hand : 407 620 745 343 680 546 537 285 480 842 845 158 750 508 509 464 926 426 290 470 
+player 407 draws a 475 from deck 407
+player 407 discards a 620 to deck 408
+player 407 current hand : 407 745 343 680 546 537 285 480 842 845 158 750 508 509 464 926 426 290 470 475 
+player 407 draws a 105 from deck 407
+player 407 discards a 745 to deck 408
+player 407 current hand : 407 343 680 546 537 285 480 842 845 158 750 508 509 464 926 426 290 470 475 105 
+player 407 draws a 878 from deck 407
+player 407 discards a 343 to deck 408
+player 407 current hand : 407 680 546 537 285 480 842 845 158 750 508 509 464 926 426 290 470 475 105 878 
+player 407 draws a 732 from deck 407
+player 407 discards a 680 to deck 408
+player 407 current hand : 407 546 537 285 480 842 845 158 750 508 509 464 926 426 290 470 475 105 878 732 
+player 407 draws a 518 from deck 407
+player 407 discards a 546 to deck 408
+player 407 current hand : 407 537 285 480 842 845 158 750 508 509 464 926 426 290 470 475 105 878 732 518 
+player 407 draws a 537 from deck 407
+player 407 discards a 537 to deck 408
+player 407 current hand : 407 285 480 842 845 158 750 508 509 464 926 426 290 470 475 105 878 732 518 537 
+player 407 draws a 314 from deck 407
+player 407 discards a 285 to deck 408
+player 407 current hand : 407 480 842 845 158 750 508 509 464 926 426 290 470 475 105 878 732 518 537 314 
+player 407 draws a 223 from deck 407
+player 407 discards a 480 to deck 408
+player 407 current hand : 407 842 845 158 750 508 509 464 926 426 290 470 475 105 878 732 518 537 314 223 
+player 407 draws a 97 from deck 407
+player 407 discards a 842 to deck 408
+player 407 current hand : 407 845 158 750 508 509 464 926 426 290 470 475 105 878 732 518 537 314 223 97 
+player 407 draws a 730 from deck 407
+player 407 discards a 845 to deck 408
+player 407 current hand : 407 158 750 508 509 464 926 426 290 470 475 105 878 732 518 537 314 223 97 730 
+player 407 draws a 390 from deck 407
+player 407 discards a 158 to deck 408
+player 407 current hand : 407 750 508 509 464 926 426 290 470 475 105 878 732 518 537 314 223 97 730 390 
+player 407 draws a 47 from deck 407
+player 407 discards a 750 to deck 408
+player 407 current hand : 407 508 509 464 926 426 290 470 475 105 878 732 518 537 314 223 97 730 390 47 
+player 407 draws a 571 from deck 407
+player 407 discards a 508 to deck 408
+player 407 current hand : 407 509 464 926 426 290 470 475 105 878 732 518 537 314 223 97 730 390 47 571 
+player 407 draws a 168 from deck 407
+player 407 discards a 509 to deck 408
+player 407 current hand : 407 464 926 426 290 470 475 105 878 732 518 537 314 223 97 730 390 47 571 168 

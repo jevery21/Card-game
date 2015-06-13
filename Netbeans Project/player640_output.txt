@@ -1,0 +1,296 @@
+player 640 initial hand 452 277 24 838 980 938 581 242 137 54 835 137 599 926 616 336 589 654 229 975 
+player 640 draws a 44 from deck 640
+player 640 discards a 452 to deck 641
+player 640 current hand : 277 24 838 980 938 581 242 137 54 835 137 599 926 616 336 589 654 229 975 44 
+player 640 draws a 206 from deck 640
+player 640 discards a 277 to deck 641
+player 640 current hand : 24 838 980 938 581 242 137 54 835 137 599 926 616 336 589 654 229 975 44 206 
+player 640 draws a 169 from deck 640
+player 640 discards a 24 to deck 641
+player 640 current hand : 838 980 938 581 242 137 54 835 137 599 926 616 336 589 654 229 975 44 206 169 
+player 640 draws a 817 from deck 640
+player 640 discards a 838 to deck 641
+player 640 current hand : 980 938 581 242 137 54 835 137 599 926 616 336 589 654 229 975 44 206 169 817 
+player 640 draws a 951 from deck 640
+player 640 discards a 980 to deck 641
+player 640 current hand : 938 581 242 137 54 835 137 599 926 616 336 589 654 229 975 44 206 169 817 951 
+player 640 draws a 239 from deck 640
+player 640 discards a 938 to deck 641
+player 640 current hand : 581 242 137 54 835 137 599 926 616 336 589 654 229 975 44 206 169 817 951 239 
+player 640 draws a 344 from deck 640
+player 640 discards a 581 to deck 641
+player 640 current hand : 242 137 54 835 137 599 926 616 336 589 654 229 975 44 206 169 817 951 239 344 
+player 640 draws a 269 from deck 640
+player 640 discards a 242 to deck 641
+player 640 current hand : 137 54 835 137 599 926 616 336 589 654 229 975 44 206 169 817 951 239 344 269 
+player 640 draws a 527 from deck 640
+player 640 discards a 137 to deck 641
+player 640 current hand : 54 835 137 599 926 616 336 589 654 229 975 44 206 169 817 951 239 344 269 527 
+player 640 draws a 796 from deck 640
+player 640 discards a 54 to deck 641
+player 640 current hand : 835 137 599 926 616 336 589 654 229 975 44 206 169 817 951 239 344 269 527 796 
+player 640 draws a 458 from deck 640
+player 640 discards a 835 to deck 641
+player 640 current hand : 137 599 926 616 336 589 654 229 975 44 206 169 817 951 239 344 269 527 796 458 
+player 640 draws a 710 from deck 640
+player 640 discards a 137 to deck 641
+player 640 current hand : 599 926 616 336 589 654 229 975 44 206 169 817 951 239 344 269 527 796 458 710 
+player 640 draws a 712 from deck 640
+player 640 discards a 599 to deck 641
+player 640 current hand : 926 616 336 589 654 229 975 44 206 169 817 951 239 344 269 527 796 458 710 712 
+player 640 draws a 32 from deck 640
+player 640 discards a 926 to deck 641
+player 640 current hand : 616 336 589 654 229 975 44 206 169 817 951 239 344 269 527 796 458 710 712 32 
+player 640 draws a 686 from deck 640
+player 640 discards a 616 to deck 641
+player 640 current hand : 336 589 654 229 975 44 206 169 817 951 239 344 269 527 796 458 710 712 32 686 
+player 640 draws a 388 from deck 640
+player 640 discards a 336 to deck 641
+player 640 current hand : 589 654 229 975 44 206 169 817 951 239 344 269 527 796 458 710 712 32 686 388 
+player 640 draws a 835 from deck 640
+player 640 discards a 589 to deck 641
+player 640 current hand : 654 229 975 44 206 169 817 951 239 344 269 527 796 458 710 712 32 686 388 835 
+player 640 draws a 50 from deck 640
+player 640 discards a 654 to deck 641
+player 640 current hand : 229 975 44 206 169 817 951 239 344 269 527 796 458 710 712 32 686 388 835 50 
+player 640 draws a 654 from deck 640
+player 640 discards a 229 to deck 641
+player 640 current hand : 975 44 206 169 817 951 239 344 269 527 796 458 710 712 32 686 388 835 50 654 
+player 640 draws a 77 from deck 640
+player 640 discards a 975 to deck 641
+player 640 current hand : 44 206 169 817 951 239 344 269 527 796 458 710 712 32 686 388 835 50 654 77 
+player 640 draws a 270 from deck 640
+player 640 discards a 44 to deck 641
+player 640 current hand : 206 169 817 951 239 344 269 527 796 458 710 712 32 686 388 835 50 654 77 270 
+player 640 draws a 415 from deck 640
+player 640 discards a 206 to deck 641
+player 640 current hand : 169 817 951 239 344 269 527 796 458 710 712 32 686 388 835 50 654 77 270 415 
+player 640 draws a 4 from deck 640
+player 640 discards a 169 to deck 641
+player 640 current hand : 817 951 239 344 269 527 796 458 710 712 32 686 388 835 50 654 77 270 415 4 
+player 640 draws a 549 from deck 640
+player 640 discards a 817 to deck 641
+player 640 current hand : 951 239 344 269 527 796 458 710 712 32 686 388 835 50 654 77 270 415 4 549 
+player 640 draws a 562 from deck 640
+player 640 discards a 951 to deck 641
+player 640 current hand : 239 344 269 527 796 458 710 712 32 686 388 835 50 654 77 270 415 4 549 562 
+player 640 draws a 708 from deck 640
+player 640 discards a 239 to deck 641
+player 640 current hand : 344 269 527 796 458 710 712 32 686 388 835 50 654 77 270 415 4 549 562 708 
+player 640 draws a 117 from deck 640
+player 640 discards a 344 to deck 641
+player 640 current hand : 269 527 796 458 710 712 32 686 388 835 50 654 77 270 415 4 549 562 708 117 
+player 640 draws a 331 from deck 640
+player 640 discards a 269 to deck 641
+player 640 current hand : 527 796 458 710 712 32 686 388 835 50 654 77 270 415 4 549 562 708 117 331 
+player 640 draws a 440 from deck 640
+player 640 discards a 527 to deck 641
+player 640 current hand : 796 458 710 712 32 686 388 835 50 654 77 270 415 4 549 562 708 117 331 440 
+player 640 draws a 449 from deck 640
+player 640 discards a 796 to deck 641
+player 640 current hand : 458 710 712 32 686 388 835 50 654 77 270 415 4 549 562 708 117 331 440 449 
+player 640 draws a 620 from deck 640
+player 640 discards a 458 to deck 641
+player 640 current hand : 710 712 32 686 388 835 50 654 77 270 415 4 549 562 708 117 331 440 449 620 
+player 640 draws a 514 from deck 640
+player 640 discards a 710 to deck 641
+player 640 current hand : 712 32 686 388 835 50 654 77 270 415 4 549 562 708 117 331 440 449 620 514 
+player 640 draws a 481 from deck 640
+player 640 discards a 712 to deck 641
+player 640 current hand : 32 686 388 835 50 654 77 270 415 4 549 562 708 117 331 440 449 620 514 481 
+player 640 draws a 712 from deck 640
+player 640 discards a 32 to deck 641
+player 640 current hand : 686 388 835 50 654 77 270 415 4 549 562 708 117 331 440 449 620 514 481 712 
+player 640 draws a 621 from deck 640
+player 640 discards a 686 to deck 641
+player 640 current hand : 388 835 50 654 77 270 415 4 549 562 708 117 331 440 449 620 514 481 712 621 
+player 640 draws a 509 from deck 640
+player 640 discards a 388 to deck 641
+player 640 current hand : 835 50 654 77 270 415 4 549 562 708 117 331 440 449 620 514 481 712 621 509 
+player 640 draws a 361 from deck 640
+player 640 discards a 835 to deck 641
+player 640 current hand : 50 654 77 270 415 4 549 562 708 117 331 440 449 620 514 481 712 621 509 361 
+player 640 draws a 672 from deck 640
+player 640 discards a 50 to deck 641
+player 640 current hand : 654 77 270 415 4 549 562 708 117 331 440 449 620 514 481 712 621 509 361 672 
+player 640 draws a 471 from deck 640
+player 640 discards a 654 to deck 641
+player 640 current hand : 77 270 415 4 549 562 708 117 331 440 449 620 514 481 712 621 509 361 672 471 
+player 640 draws a 765 from deck 640
+player 640 discards a 77 to deck 641
+player 640 current hand : 270 415 4 549 562 708 117 331 440 449 620 514 481 712 621 509 361 672 471 765 
+player 640 draws a 497 from deck 640
+player 640 discards a 270 to deck 641
+player 640 current hand : 415 4 549 562 708 117 331 440 449 620 514 481 712 621 509 361 672 471 765 497 
+player 640 draws a 316 from deck 640
+player 640 discards a 415 to deck 641
+player 640 current hand : 4 549 562 708 117 331 440 449 620 514 481 712 621 509 361 672 471 765 497 316 
+player 640 draws a 492 from deck 640
+player 640 discards a 4 to deck 641
+player 640 current hand : 549 562 708 117 331 440 449 620 514 481 712 621 509 361 672 471 765 497 316 492 
+player 640 draws a 562 from deck 640
+player 640 discards a 549 to deck 641
+player 640 current hand : 562 708 117 331 440 449 620 514 481 712 621 509 361 672 471 765 497 316 492 562 
+player 640 draws a 426 from deck 640
+player 640 discards a 562 to deck 641
+player 640 current hand : 708 117 331 440 449 620 514 481 712 621 509 361 672 471 765 497 316 492 562 426 
+player 640 draws a 18 from deck 640
+player 640 discards a 708 to deck 641
+player 640 current hand : 117 331 440 449 620 514 481 712 621 509 361 672 471 765 497 316 492 562 426 18 
+player 640 draws a 49 from deck 640
+player 640 discards a 117 to deck 641
+player 640 current hand : 331 440 449 620 514 481 712 621 509 361 672 471 765 497 316 492 562 426 18 49 
+player 640 draws a 620 from deck 640
+player 640 discards a 331 to deck 641
+player 640 current hand : 440 449 620 514 481 712 621 509 361 672 471 765 497 316 492 562 426 18 49 620 
+player 640 draws a 649 from deck 640
+player 640 discards a 440 to deck 641
+player 640 current hand : 449 620 514 481 712 621 509 361 672 471 765 497 316 492 562 426 18 49 620 649 
+player 640 draws a 511 from deck 640
+player 640 discards a 449 to deck 641
+player 640 current hand : 620 514 481 712 621 509 361 672 471 765 497 316 492 562 426 18 49 620 649 511 
+player 640 draws a 393 from deck 640
+player 640 discards a 620 to deck 641
+player 640 current hand : 514 481 712 621 509 361 672 471 765 497 316 492 562 426 18 49 620 649 511 393 
+player 640 draws a 623 from deck 640
+player 640 discards a 514 to deck 641
+player 640 current hand : 481 712 621 509 361 672 471 765 497 316 492 562 426 18 49 620 649 511 393 623 
+player 640 draws a 460 from deck 640
+player 640 discards a 481 to deck 641
+player 640 current hand : 712 621 509 361 672 471 765 497 316 492 562 426 18 49 620 649 511 393 623 460 
+player 640 draws a 872 from deck 640
+player 640 discards a 712 to deck 641
+player 640 current hand : 621 509 361 672 471 765 497 316 492 562 426 18 49 620 649 511 393 623 460 872 
+player 640 draws a 460 from deck 640
+player 640 discards a 621 to deck 641
+player 640 current hand : 509 361 672 471 765 497 316 492 562 426 18 49 620 649 511 393 623 460 872 460 
+player 640 draws a 579 from deck 640
+player 640 discards a 509 to deck 641
+player 640 current hand : 361 672 471 765 497 316 492 562 426 18 49 620 649 511 393 623 460 872 460 579 
+player 640 draws a 741 from deck 640
+player 640 discards a 361 to deck 641
+player 640 current hand : 672 471 765 497 316 492 562 426 18 49 620 649 511 393 623 460 872 460 579 741 
+player 640 draws a 897 from deck 640
+player 640 discards a 672 to deck 641
+player 640 current hand : 471 765 497 316 492 562 426 18 49 620 649 511 393 623 460 872 460 579 741 897 
+player 640 draws a 967 from deck 640
+player 640 discards a 471 to deck 641
+player 640 current hand : 765 497 316 492 562 426 18 49 620 649 511 393 623 460 872 460 579 741 897 967 
+player 640 draws a 984 from deck 640
+player 640 discards a 765 to deck 641
+player 640 current hand : 497 316 492 562 426 18 49 620 649 511 393 623 460 872 460 579 741 897 967 984 
+player 640 draws a 750 from deck 640
+player 640 discards a 497 to deck 641
+player 640 current hand : 316 492 562 426 18 49 620 649 511 393 623 460 872 460 579 741 897 967 984 750 
+player 640 draws a 538 from deck 640
+player 640 discards a 316 to deck 641
+player 640 current hand : 492 562 426 18 49 620 649 511 393 623 460 872 460 579 741 897 967 984 750 538 
+player 640 draws a 618 from deck 640
+player 640 discards a 492 to deck 641
+player 640 current hand : 562 426 18 49 620 649 511 393 623 460 872 460 579 741 897 967 984 750 538 618 
+player 640 draws a 364 from deck 640
+player 640 discards a 562 to deck 641
+player 640 current hand : 426 18 49 620 649 511 393 623 460 872 460 579 741 897 967 984 750 538 618 364 
+player 640 draws a 152 from deck 640
+player 640 discards a 426 to deck 641
+player 640 current hand : 18 49 620 649 511 393 623 460 872 460 579 741 897 967 984 750 538 618 364 152 
+player 640 draws a 655 from deck 640
+player 640 discards a 18 to deck 641
+player 640 current hand : 49 620 649 511 393 623 460 872 460 579 741 897 967 984 750 538 618 364 152 655 
+player 640 draws a 870 from deck 640
+player 640 discards a 49 to deck 641
+player 640 current hand : 620 649 511 393 623 460 872 460 579 741 897 967 984 750 538 618 364 152 655 870 
+player 640 draws a 626 from deck 640
+player 640 discards a 620 to deck 641
+player 640 current hand : 649 511 393 623 460 872 460 579 741 897 967 984 750 538 618 364 152 655 870 626 
+player 640 draws a 831 from deck 640
+player 640 discards a 649 to deck 641
+player 640 current hand : 511 393 623 460 872 460 579 741 897 967 984 750 538 618 364 152 655 870 626 831 
+player 640 draws a 473 from deck 640
+player 640 discards a 511 to deck 641
+player 640 current hand : 393 623 460 872 460 579 741 897 967 984 750 538 618 364 152 655 870 626 831 473 
+player 640 draws a 4 from deck 640
+player 640 discards a 393 to deck 641
+player 640 current hand : 623 460 872 460 579 741 897 967 984 750 538 618 364 152 655 870 626 831 473 4 
+player 640 draws a 746 from deck 640
+player 640 discards a 623 to deck 641
+player 640 current hand : 460 872 460 579 741 897 967 984 750 538 618 364 152 655 870 626 831 473 4 746 
+player 640 draws a 446 from deck 640
+player 640 discards a 460 to deck 641
+player 640 current hand : 872 460 579 741 897 967 984 750 538 618 364 152 655 870 626 831 473 4 746 446 
+player 640 draws a 991 from deck 640
+player 640 discards a 872 to deck 641
+player 640 current hand : 460 579 741 897 967 984 750 538 618 364 152 655 870 626 831 473 4 746 446 991 
+player 640 draws a 792 from deck 640
+player 640 discards a 460 to deck 641
+player 640 current hand : 579 741 897 967 984 750 538 618 364 152 655 870 626 831 473 4 746 446 991 792 
+player 640 draws a 456 from deck 640
+player 640 discards a 579 to deck 641
+player 640 current hand : 741 897 967 984 750 538 618 364 152 655 870 626 831 473 4 746 446 991 792 456 
+player 640 draws a 945 from deck 640
+player 640 discards a 741 to deck 641
+player 640 current hand : 897 967 984 750 538 618 364 152 655 870 626 831 473 4 746 446 991 792 456 945 
+player 640 draws a 840 from deck 640
+player 640 discards a 897 to deck 641
+player 640 current hand : 967 984 750 538 618 364 152 655 870 626 831 473 4 746 446 991 792 456 945 840 
+player 640 draws a 60 from deck 640
+player 640 discards a 967 to deck 641
+player 640 current hand : 984 750 538 618 364 152 655 870 626 831 473 4 746 446 991 792 456 945 840 60 
+player 640 draws a 342 from deck 640
+player 640 discards a 984 to deck 641
+player 640 current hand : 750 538 618 364 152 655 870 626 831 473 4 746 446 991 792 456 945 840 60 342 
+player 640 draws a 709 from deck 640
+player 640 discards a 750 to deck 641
+player 640 current hand : 538 618 364 152 655 870 626 831 473 4 746 446 991 792 456 945 840 60 342 709 
+player 640 draws a 810 from deck 640
+player 640 discards a 538 to deck 641
+player 640 current hand : 618 364 152 655 870 626 831 473 4 746 446 991 792 456 945 840 60 342 709 810 
+player 640 draws a 164 from deck 640
+player 640 discards a 618 to deck 641
+player 640 current hand : 364 152 655 870 626 831 473 4 746 446 991 792 456 945 840 60 342 709 810 164 
+player 640 draws a 222 from deck 640
+player 640 discards a 364 to deck 641
+player 640 current hand : 152 655 870 626 831 473 4 746 446 991 792 456 945 840 60 342 709 810 164 222 
+player 640 draws a 680 from deck 640
+player 640 discards a 152 to deck 641
+player 640 current hand : 655 870 626 831 473 4 746 446 991 792 456 945 840 60 342 709 810 164 222 680 
+player 640 draws a 844 from deck 640
+player 640 discards a 655 to deck 641
+player 640 current hand : 870 626 831 473 4 746 446 991 792 456 945 840 60 342 709 810 164 222 680 844 
+player 640 draws a 793 from deck 640
+player 640 discards a 870 to deck 641
+player 640 current hand : 626 831 473 4 746 446 991 792 456 945 840 60 342 709 810 164 222 680 844 793 
+player 640 draws a 686 from deck 640
+player 640 discards a 626 to deck 641
+player 640 current hand : 831 473 4 746 446 991 792 456 945 840 60 342 709 810 164 222 680 844 793 686 
+player 640 draws a 44 from deck 640
+player 640 discards a 831 to deck 641
+player 640 current hand : 473 4 746 446 991 792 456 945 840 60 342 709 810 164 222 680 844 793 686 44 
+player 640 draws a 255 from deck 640
+player 640 discards a 473 to deck 641
+player 640 current hand : 4 746 446 991 792 456 945 840 60 342 709 810 164 222 680 844 793 686 44 255 
+player 640 draws a 257 from deck 640
+player 640 discards a 4 to deck 641
+player 640 current hand : 746 446 991 792 456 945 840 60 342 709 810 164 222 680 844 793 686 44 255 257 
+player 640 draws a 338 from deck 640
+player 640 discards a 746 to deck 641
+player 640 current hand : 446 991 792 456 945 840 60 342 709 810 164 222 680 844 793 686 44 255 257 338 
+player 640 draws a 432 from deck 640
+player 640 discards a 446 to deck 641
+player 640 current hand : 991 792 456 945 840 60 342 709 810 164 222 680 844 793 686 44 255 257 338 432 
+player 640 draws a 277 from deck 640
+player 640 discards a 991 to deck 641
+player 640 current hand : 792 456 945 840 60 342 709 810 164 222 680 844 793 686 44 255 257 338 432 277 
+player 640 draws a 254 from deck 640
+player 640 discards a 792 to deck 641
+player 640 current hand : 456 945 840 60 342 709 810 164 222 680 844 793 686 44 255 257 338 432 277 254 
+player 640 draws a 913 from deck 640
+player 640 discards a 456 to deck 641
+player 640 current hand : 945 840 60 342 709 810 164 222 680 844 793 686 44 255 257 338 432 277 254 913 
+player 640 draws a 787 from deck 640
+player 640 discards a 945 to deck 641
+player 640 current hand : 840 60 342 709 810 164 222 680 844 793 686 44 255 257 338 432 277 254 913 787 
+player 640 draws a 901 from deck 640
+player 640 discards a 840 to deck 641
+player 640 current hand : 60 342 709 810 164 222 680 844 793 686 44 255 257 338 432 277 254 913 787 901 
+player 640 draws a 841 from deck 640

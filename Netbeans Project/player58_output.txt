@@ -1,0 +1,312 @@
+player 58 initial hand 500 390 351 589 435 482 735 636 370 579 559 440 920 541 622 691 500 105 184 518 
+player 58 draws a 265 from deck 58
+player 58 discards a 500 to deck 59
+player 58 current hand : 390 351 589 435 482 735 636 370 579 559 440 920 541 622 691 500 105 184 518 265 
+player 58 draws a 817 from deck 58
+player 58 discards a 390 to deck 59
+player 58 current hand : 351 589 435 482 735 636 370 579 559 440 920 541 622 691 500 105 184 518 265 817 
+player 58 draws a 282 from deck 58
+player 58 discards a 351 to deck 59
+player 58 current hand : 589 435 482 735 636 370 579 559 440 920 541 622 691 500 105 184 518 265 817 282 
+player 58 draws a 415 from deck 58
+player 58 discards a 589 to deck 59
+player 58 current hand : 435 482 735 636 370 579 559 440 920 541 622 691 500 105 184 518 265 817 282 415 
+player 58 draws a 14 from deck 58
+player 58 discards a 435 to deck 59
+player 58 current hand : 482 735 636 370 579 559 440 920 541 622 691 500 105 184 518 265 817 282 415 14 
+player 58 draws a 274 from deck 58
+player 58 discards a 482 to deck 59
+player 58 current hand : 735 636 370 579 559 440 920 541 622 691 500 105 184 518 265 817 282 415 14 274 
+player 58 draws a 646 from deck 58
+player 58 discards a 735 to deck 59
+player 58 current hand : 636 370 579 559 440 920 541 622 691 500 105 184 518 265 817 282 415 14 274 646 
+player 58 draws a 720 from deck 58
+player 58 discards a 636 to deck 59
+player 58 current hand : 370 579 559 440 920 541 622 691 500 105 184 518 265 817 282 415 14 274 646 720 
+player 58 draws a 660 from deck 58
+player 58 discards a 370 to deck 59
+player 58 current hand : 579 559 440 920 541 622 691 500 105 184 518 265 817 282 415 14 274 646 720 660 
+player 58 draws a 124 from deck 58
+player 58 discards a 579 to deck 59
+player 58 current hand : 559 440 920 541 622 691 500 105 184 518 265 817 282 415 14 274 646 720 660 124 
+player 58 draws a 658 from deck 58
+player 58 discards a 559 to deck 59
+player 58 current hand : 440 920 541 622 691 500 105 184 518 265 817 282 415 14 274 646 720 660 124 658 
+player 58 draws a 715 from deck 58
+player 58 discards a 440 to deck 59
+player 58 current hand : 920 541 622 691 500 105 184 518 265 817 282 415 14 274 646 720 660 124 658 715 
+player 58 draws a 326 from deck 58
+player 58 discards a 920 to deck 59
+player 58 current hand : 541 622 691 500 105 184 518 265 817 282 415 14 274 646 720 660 124 658 715 326 
+player 58 draws a 922 from deck 58
+player 58 discards a 541 to deck 59
+player 58 current hand : 622 691 500 105 184 518 265 817 282 415 14 274 646 720 660 124 658 715 326 922 
+player 58 draws a 712 from deck 58
+player 58 discards a 622 to deck 59
+player 58 current hand : 691 500 105 184 518 265 817 282 415 14 274 646 720 660 124 658 715 326 922 712 
+player 58 draws a 787 from deck 58
+player 58 discards a 691 to deck 59
+player 58 current hand : 500 105 184 518 265 817 282 415 14 274 646 720 660 124 658 715 326 922 712 787 
+player 58 draws a 392 from deck 58
+player 58 discards a 500 to deck 59
+player 58 current hand : 105 184 518 265 817 282 415 14 274 646 720 660 124 658 715 326 922 712 787 392 
+player 58 draws a 555 from deck 58
+player 58 discards a 105 to deck 59
+player 58 current hand : 184 518 265 817 282 415 14 274 646 720 660 124 658 715 326 922 712 787 392 555 
+player 58 draws a 425 from deck 58
+player 58 discards a 184 to deck 59
+player 58 current hand : 518 265 817 282 415 14 274 646 720 660 124 658 715 326 922 712 787 392 555 425 
+player 58 draws a 456 from deck 58
+player 58 discards a 518 to deck 59
+player 58 current hand : 265 817 282 415 14 274 646 720 660 124 658 715 326 922 712 787 392 555 425 456 
+player 58 draws a 65 from deck 58
+player 58 discards a 265 to deck 59
+player 58 current hand : 817 282 415 14 274 646 720 660 124 658 715 326 922 712 787 392 555 425 456 65 
+player 58 draws a 935 from deck 58
+player 58 discards a 817 to deck 59
+player 58 current hand : 282 415 14 274 646 720 660 124 658 715 326 922 712 787 392 555 425 456 65 935 
+player 58 draws a 880 from deck 58
+player 58 discards a 282 to deck 59
+player 58 current hand : 415 14 274 646 720 660 124 658 715 326 922 712 787 392 555 425 456 65 935 880 
+player 58 draws a 287 from deck 58
+player 58 discards a 415 to deck 59
+player 58 current hand : 14 274 646 720 660 124 658 715 326 922 712 787 392 555 425 456 65 935 880 287 
+player 58 draws a 554 from deck 58
+player 58 discards a 14 to deck 59
+player 58 current hand : 274 646 720 660 124 658 715 326 922 712 787 392 555 425 456 65 935 880 287 554 
+player 58 draws a 212 from deck 58
+player 58 discards a 274 to deck 59
+player 58 current hand : 646 720 660 124 658 715 326 922 712 787 392 555 425 456 65 935 880 287 554 212 
+player 58 draws a 120 from deck 58
+player 58 discards a 646 to deck 59
+player 58 current hand : 720 660 124 658 715 326 922 712 787 392 555 425 456 65 935 880 287 554 212 120 
+player 58 draws a 403 from deck 58
+player 58 discards a 720 to deck 59
+player 58 current hand : 660 124 658 715 326 922 712 787 392 555 425 456 65 935 880 287 554 212 120 403 
+player 58 draws a 223 from deck 58
+player 58 discards a 660 to deck 59
+player 58 current hand : 124 658 715 326 922 712 787 392 555 425 456 65 935 880 287 554 212 120 403 223 
+player 58 draws a 478 from deck 58
+player 58 discards a 124 to deck 59
+player 58 current hand : 658 715 326 922 712 787 392 555 425 456 65 935 880 287 554 212 120 403 223 478 
+player 58 draws a 530 from deck 58
+player 58 discards a 658 to deck 59
+player 58 current hand : 715 326 922 712 787 392 555 425 456 65 935 880 287 554 212 120 403 223 478 530 
+player 58 draws a 25 from deck 58
+player 58 discards a 715 to deck 59
+player 58 current hand : 326 922 712 787 392 555 425 456 65 935 880 287 554 212 120 403 223 478 530 25 
+player 58 draws a 509 from deck 58
+player 58 discards a 326 to deck 59
+player 58 current hand : 922 712 787 392 555 425 456 65 935 880 287 554 212 120 403 223 478 530 25 509 
+player 58 draws a 700 from deck 58
+player 58 discards a 922 to deck 59
+player 58 current hand : 712 787 392 555 425 456 65 935 880 287 554 212 120 403 223 478 530 25 509 700 
+player 58 draws a 605 from deck 58
+player 58 discards a 712 to deck 59
+player 58 current hand : 787 392 555 425 456 65 935 880 287 554 212 120 403 223 478 530 25 509 700 605 
+player 58 draws a 642 from deck 58
+player 58 discards a 787 to deck 59
+player 58 current hand : 392 555 425 456 65 935 880 287 554 212 120 403 223 478 530 25 509 700 605 642 
+player 58 draws a 602 from deck 58
+player 58 discards a 392 to deck 59
+player 58 current hand : 555 425 456 65 935 880 287 554 212 120 403 223 478 530 25 509 700 605 642 602 
+player 58 draws a 734 from deck 58
+player 58 discards a 555 to deck 59
+player 58 current hand : 425 456 65 935 880 287 554 212 120 403 223 478 530 25 509 700 605 642 602 734 
+player 58 draws a 920 from deck 58
+player 58 discards a 425 to deck 59
+player 58 current hand : 456 65 935 880 287 554 212 120 403 223 478 530 25 509 700 605 642 602 734 920 
+player 58 draws a 533 from deck 58
+player 58 discards a 456 to deck 59
+player 58 current hand : 65 935 880 287 554 212 120 403 223 478 530 25 509 700 605 642 602 734 920 533 
+player 58 draws a 960 from deck 58
+player 58 discards a 65 to deck 59
+player 58 current hand : 935 880 287 554 212 120 403 223 478 530 25 509 700 605 642 602 734 920 533 960 
+player 58 draws a 115 from deck 58
+player 58 discards a 935 to deck 59
+player 58 current hand : 880 287 554 212 120 403 223 478 530 25 509 700 605 642 602 734 920 533 960 115 
+player 58 draws a 931 from deck 58
+player 58 discards a 880 to deck 59
+player 58 current hand : 287 554 212 120 403 223 478 530 25 509 700 605 642 602 734 920 533 960 115 931 
+player 58 draws a 4 from deck 58
+player 58 discards a 287 to deck 59
+player 58 current hand : 554 212 120 403 223 478 530 25 509 700 605 642 602 734 920 533 960 115 931 4 
+player 58 draws a 988 from deck 58
+player 58 discards a 554 to deck 59
+player 58 current hand : 212 120 403 223 478 530 25 509 700 605 642 602 734 920 533 960 115 931 4 988 
+player 58 draws a 840 from deck 58
+player 58 discards a 212 to deck 59
+player 58 current hand : 120 403 223 478 530 25 509 700 605 642 602 734 920 533 960 115 931 4 988 840 
+player 58 draws a 434 from deck 58
+player 58 discards a 120 to deck 59
+player 58 current hand : 403 223 478 530 25 509 700 605 642 602 734 920 533 960 115 931 4 988 840 434 
+player 58 draws a 685 from deck 58
+player 58 discards a 403 to deck 59
+player 58 current hand : 223 478 530 25 509 700 605 642 602 734 920 533 960 115 931 4 988 840 434 685 
+player 58 draws a 880 from deck 58
+player 58 discards a 223 to deck 59
+player 58 current hand : 478 530 25 509 700 605 642 602 734 920 533 960 115 931 4 988 840 434 685 880 
+player 58 draws a 373 from deck 58
+player 58 discards a 478 to deck 59
+player 58 current hand : 530 25 509 700 605 642 602 734 920 533 960 115 931 4 988 840 434 685 880 373 
+player 58 draws a 122 from deck 58
+player 58 discards a 530 to deck 59
+player 58 current hand : 25 509 700 605 642 602 734 920 533 960 115 931 4 988 840 434 685 880 373 122 
+player 58 draws a 70 from deck 58
+player 58 discards a 25 to deck 59
+player 58 current hand : 509 700 605 642 602 734 920 533 960 115 931 4 988 840 434 685 880 373 122 70 
+player 58 draws a 871 from deck 58
+player 58 discards a 509 to deck 59
+player 58 current hand : 700 605 642 602 734 920 533 960 115 931 4 988 840 434 685 880 373 122 70 871 
+player 58 draws a 575 from deck 58
+player 58 discards a 700 to deck 59
+player 58 current hand : 605 642 602 734 920 533 960 115 931 4 988 840 434 685 880 373 122 70 871 575 
+player 58 draws a 637 from deck 58
+player 58 discards a 605 to deck 59
+player 58 current hand : 642 602 734 920 533 960 115 931 4 988 840 434 685 880 373 122 70 871 575 637 
+player 58 draws a 589 from deck 58
+player 58 discards a 642 to deck 59
+player 58 current hand : 602 734 920 533 960 115 931 4 988 840 434 685 880 373 122 70 871 575 637 589 
+player 58 draws a 499 from deck 58
+player 58 discards a 602 to deck 59
+player 58 current hand : 734 920 533 960 115 931 4 988 840 434 685 880 373 122 70 871 575 637 589 499 
+player 58 draws a 645 from deck 58
+player 58 discards a 734 to deck 59
+player 58 current hand : 920 533 960 115 931 4 988 840 434 685 880 373 122 70 871 575 637 589 499 645 
+player 58 draws a 214 from deck 58
+player 58 discards a 920 to deck 59
+player 58 current hand : 533 960 115 931 4 988 840 434 685 880 373 122 70 871 575 637 589 499 645 214 
+player 58 draws a 581 from deck 58
+player 58 discards a 533 to deck 59
+player 58 current hand : 960 115 931 4 988 840 434 685 880 373 122 70 871 575 637 589 499 645 214 581 
+player 58 draws a 103 from deck 58
+player 58 discards a 960 to deck 59
+player 58 current hand : 115 931 4 988 840 434 685 880 373 122 70 871 575 637 589 499 645 214 581 103 
+player 58 draws a 768 from deck 58
+player 58 discards a 115 to deck 59
+player 58 current hand : 931 4 988 840 434 685 880 373 122 70 871 575 637 589 499 645 214 581 103 768 
+player 58 draws a 559 from deck 58
+player 58 discards a 931 to deck 59
+player 58 current hand : 4 988 840 434 685 880 373 122 70 871 575 637 589 499 645 214 581 103 768 559 
+player 58 draws a 401 from deck 58
+player 58 discards a 4 to deck 59
+player 58 current hand : 988 840 434 685 880 373 122 70 871 575 637 589 499 645 214 581 103 768 559 401 
+player 58 draws a 740 from deck 58
+player 58 discards a 988 to deck 59
+player 58 current hand : 840 434 685 880 373 122 70 871 575 637 589 499 645 214 581 103 768 559 401 740 
+player 58 draws a 177 from deck 58
+player 58 discards a 840 to deck 59
+player 58 current hand : 434 685 880 373 122 70 871 575 637 589 499 645 214 581 103 768 559 401 740 177 
+player 58 draws a 990 from deck 58
+player 58 discards a 434 to deck 59
+player 58 current hand : 685 880 373 122 70 871 575 637 589 499 645 214 581 103 768 559 401 740 177 990 
+player 58 draws a 896 from deck 58
+player 58 discards a 685 to deck 59
+player 58 current hand : 880 373 122 70 871 575 637 589 499 645 214 581 103 768 559 401 740 177 990 896 
+player 58 draws a 480 from deck 58
+player 58 discards a 880 to deck 59
+player 58 current hand : 373 122 70 871 575 637 589 499 645 214 581 103 768 559 401 740 177 990 896 480 
+player 58 draws a 507 from deck 58
+player 58 discards a 373 to deck 59
+player 58 current hand : 122 70 871 575 637 589 499 645 214 581 103 768 559 401 740 177 990 896 480 507 
+player 58 draws a 437 from deck 58
+player 58 discards a 122 to deck 59
+player 58 current hand : 70 871 575 637 589 499 645 214 581 103 768 559 401 740 177 990 896 480 507 437 
+player 58 draws a 210 from deck 58
+player 58 discards a 70 to deck 59
+player 58 current hand : 871 575 637 589 499 645 214 581 103 768 559 401 740 177 990 896 480 507 437 210 
+player 58 draws a 107 from deck 58
+player 58 discards a 871 to deck 59
+player 58 current hand : 575 637 589 499 645 214 581 103 768 559 401 740 177 990 896 480 507 437 210 107 
+player 58 draws a 327 from deck 58
+player 58 discards a 575 to deck 59
+player 58 current hand : 637 589 499 645 214 581 103 768 559 401 740 177 990 896 480 507 437 210 107 327 
+player 58 draws a 773 from deck 58
+player 58 discards a 637 to deck 59
+player 58 current hand : 589 499 645 214 581 103 768 559 401 740 177 990 896 480 507 437 210 107 327 773 
+player 58 draws a 269 from deck 58
+player 58 discards a 589 to deck 59
+player 58 current hand : 499 645 214 581 103 768 559 401 740 177 990 896 480 507 437 210 107 327 773 269 
+player 58 draws a 799 from deck 58
+player 58 discards a 499 to deck 59
+player 58 current hand : 645 214 581 103 768 559 401 740 177 990 896 480 507 437 210 107 327 773 269 799 
+player 58 draws a 635 from deck 58
+player 58 discards a 645 to deck 59
+player 58 current hand : 214 581 103 768 559 401 740 177 990 896 480 507 437 210 107 327 773 269 799 635 
+player 58 draws a 574 from deck 58
+player 58 discards a 214 to deck 59
+player 58 current hand : 581 103 768 559 401 740 177 990 896 480 507 437 210 107 327 773 269 799 635 574 
+player 58 draws a 252 from deck 58
+player 58 discards a 581 to deck 59
+player 58 current hand : 103 768 559 401 740 177 990 896 480 507 437 210 107 327 773 269 799 635 574 252 
+player 58 draws a 530 from deck 58
+player 58 discards a 103 to deck 59
+player 58 current hand : 768 559 401 740 177 990 896 480 507 437 210 107 327 773 269 799 635 574 252 530 
+player 58 draws a 124 from deck 58
+player 58 discards a 768 to deck 59
+player 58 current hand : 559 401 740 177 990 896 480 507 437 210 107 327 773 269 799 635 574 252 530 124 
+player 58 draws a 501 from deck 58
+player 58 discards a 559 to deck 59
+player 58 current hand : 401 740 177 990 896 480 507 437 210 107 327 773 269 799 635 574 252 530 124 501 
+player 58 draws a 810 from deck 58
+player 58 discards a 401 to deck 59
+player 58 current hand : 740 177 990 896 480 507 437 210 107 327 773 269 799 635 574 252 530 124 501 810 
+player 58 draws a 545 from deck 58
+player 58 discards a 740 to deck 59
+player 58 current hand : 177 990 896 480 507 437 210 107 327 773 269 799 635 574 252 530 124 501 810 545 
+player 58 draws a 116 from deck 58
+player 58 discards a 177 to deck 59
+player 58 current hand : 990 896 480 507 437 210 107 327 773 269 799 635 574 252 530 124 501 810 545 116 
+player 58 draws a 407 from deck 58
+player 58 discards a 990 to deck 59
+player 58 current hand : 896 480 507 437 210 107 327 773 269 799 635 574 252 530 124 501 810 545 116 407 
+player 58 draws a 152 from deck 58
+player 58 discards a 896 to deck 59
+player 58 current hand : 480 507 437 210 107 327 773 269 799 635 574 252 530 124 501 810 545 116 407 152 
+player 58 draws a 469 from deck 58
+player 58 discards a 480 to deck 59
+player 58 current hand : 507 437 210 107 327 773 269 799 635 574 252 530 124 501 810 545 116 407 152 469 
+player 58 draws a 554 from deck 58
+player 58 discards a 507 to deck 59
+player 58 current hand : 437 210 107 327 773 269 799 635 574 252 530 124 501 810 545 116 407 152 469 554 
+player 58 draws a 865 from deck 58
+player 58 discards a 437 to deck 59
+player 58 current hand : 210 107 327 773 269 799 635 574 252 530 124 501 810 545 116 407 152 469 554 865 
+player 58 draws a 910 from deck 58
+player 58 discards a 210 to deck 59
+player 58 current hand : 107 327 773 269 799 635 574 252 530 124 501 810 545 116 407 152 469 554 865 910 
+player 58 draws a 429 from deck 58
+player 58 discards a 107 to deck 59
+player 58 current hand : 327 773 269 799 635 574 252 530 124 501 810 545 116 407 152 469 554 865 910 429 
+player 58 draws a 712 from deck 58
+player 58 discards a 327 to deck 59
+player 58 current hand : 773 269 799 635 574 252 530 124 501 810 545 116 407 152 469 554 865 910 429 712 
+player 58 draws a 475 from deck 58
+player 58 discards a 773 to deck 59
+player 58 current hand : 269 799 635 574 252 530 124 501 810 545 116 407 152 469 554 865 910 429 712 475 
+player 58 draws a 879 from deck 58
+player 58 discards a 269 to deck 59
+player 58 current hand : 799 635 574 252 530 124 501 810 545 116 407 152 469 554 865 910 429 712 475 879 
+player 58 draws a 791 from deck 58
+player 58 discards a 799 to deck 59
+player 58 current hand : 635 574 252 530 124 501 810 545 116 407 152 469 554 865 910 429 712 475 879 791 
+player 58 draws a 229 from deck 58
+player 58 discards a 635 to deck 59
+player 58 current hand : 574 252 530 124 501 810 545 116 407 152 469 554 865 910 429 712 475 879 791 229 
+player 58 draws a 176 from deck 58
+player 58 discards a 574 to deck 59
+player 58 current hand : 252 530 124 501 810 545 116 407 152 469 554 865 910 429 712 475 879 791 229 176 
+player 58 draws a 874 from deck 58
+player 58 discards a 252 to deck 59
+player 58 current hand : 530 124 501 810 545 116 407 152 469 554 865 910 429 712 475 879 791 229 176 874 
+player 58 draws a 746 from deck 58
+player 58 discards a 530 to deck 59
+player 58 current hand : 124 501 810 545 116 407 152 469 554 865 910 429 712 475 879 791 229 176 874 746 
+player 58 draws a 482 from deck 58
+player 58 discards a 124 to deck 59
+player 58 current hand : 501 810 545 116 407 152 469 554 865 910 429 712 475 879 791 229 176 874 746 482 
+player 58 draws a 119 from deck 58
+player 58 discards a 501 to deck 59
+player 58 current hand : 810 545 116 407 152 469 554 865 910 429 712 475 879 791 229 176 874 746 482 119 
+player 58 draws a 452 from deck 58
+player 58 discards a 810 to deck 59

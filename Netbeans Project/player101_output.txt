@@ -1,0 +1,337 @@
+player 101 initial hand 438 983 919 415 7 175 532 768 921 501 885 267 359 279 54 79 355 642 971 135 
+player 101 draws a 773 from deck 101
+player 101 discards a 438 to deck 102
+player 101 current hand : 983 919 415 7 175 532 768 921 501 885 267 359 279 54 79 355 642 971 135 773 
+player 101 draws a 261 from deck 101
+player 101 discards a 983 to deck 102
+player 101 current hand : 919 415 7 175 532 768 921 501 885 267 359 279 54 79 355 642 971 135 773 261 
+player 101 draws a 222 from deck 101
+player 101 discards a 919 to deck 102
+player 101 current hand : 415 7 175 532 768 921 501 885 267 359 279 54 79 355 642 971 135 773 261 222 
+player 101 draws a 640 from deck 101
+player 101 discards a 415 to deck 102
+player 101 current hand : 7 175 532 768 921 501 885 267 359 279 54 79 355 642 971 135 773 261 222 640 
+player 101 draws a 973 from deck 101
+player 101 discards a 7 to deck 102
+player 101 current hand : 175 532 768 921 501 885 267 359 279 54 79 355 642 971 135 773 261 222 640 973 
+player 101 draws a 645 from deck 101
+player 101 discards a 175 to deck 102
+player 101 current hand : 532 768 921 501 885 267 359 279 54 79 355 642 971 135 773 261 222 640 973 645 
+player 101 draws a 32 from deck 101
+player 101 discards a 532 to deck 102
+player 101 current hand : 768 921 501 885 267 359 279 54 79 355 642 971 135 773 261 222 640 973 645 32 
+player 101 draws a 485 from deck 101
+player 101 discards a 768 to deck 102
+player 101 current hand : 921 501 885 267 359 279 54 79 355 642 971 135 773 261 222 640 973 645 32 485 
+player 101 draws a 920 from deck 101
+player 101 discards a 921 to deck 102
+player 101 current hand : 501 885 267 359 279 54 79 355 642 971 135 773 261 222 640 973 645 32 485 920 
+player 101 draws a 61 from deck 101
+player 101 discards a 501 to deck 102
+player 101 current hand : 885 267 359 279 54 79 355 642 971 135 773 261 222 640 973 645 32 485 920 61 
+player 101 draws a 705 from deck 101
+player 101 discards a 885 to deck 102
+player 101 current hand : 267 359 279 54 79 355 642 971 135 773 261 222 640 973 645 32 485 920 61 705 
+player 101 draws a 295 from deck 101
+player 101 discards a 267 to deck 102
+player 101 current hand : 359 279 54 79 355 642 971 135 773 261 222 640 973 645 32 485 920 61 705 295 
+player 101 draws a 457 from deck 101
+player 101 discards a 359 to deck 102
+player 101 current hand : 279 54 79 355 642 971 135 773 261 222 640 973 645 32 485 920 61 705 295 457 
+player 101 draws a 955 from deck 101
+player 101 discards a 279 to deck 102
+player 101 current hand : 54 79 355 642 971 135 773 261 222 640 973 645 32 485 920 61 705 295 457 955 
+player 101 draws a 260 from deck 101
+player 101 discards a 54 to deck 102
+player 101 current hand : 79 355 642 971 135 773 261 222 640 973 645 32 485 920 61 705 295 457 955 260 
+player 101 draws a 729 from deck 101
+player 101 discards a 79 to deck 102
+player 101 current hand : 355 642 971 135 773 261 222 640 973 645 32 485 920 61 705 295 457 955 260 729 
+player 101 draws a 939 from deck 101
+player 101 discards a 355 to deck 102
+player 101 current hand : 642 971 135 773 261 222 640 973 645 32 485 920 61 705 295 457 955 260 729 939 
+player 101 draws a 480 from deck 101
+player 101 discards a 642 to deck 102
+player 101 current hand : 971 135 773 261 222 640 973 645 32 485 920 61 705 295 457 955 260 729 939 480 
+player 101 draws a 175 from deck 101
+player 101 discards a 971 to deck 102
+player 101 current hand : 135 773 261 222 640 973 645 32 485 920 61 705 295 457 955 260 729 939 480 175 
+player 101 draws a 45 from deck 101
+player 101 discards a 135 to deck 102
+player 101 current hand : 773 261 222 640 973 645 32 485 920 61 705 295 457 955 260 729 939 480 175 45 
+player 101 draws a 648 from deck 101
+player 101 discards a 773 to deck 102
+player 101 current hand : 261 222 640 973 645 32 485 920 61 705 295 457 955 260 729 939 480 175 45 648 
+player 101 draws a 518 from deck 101
+player 101 discards a 261 to deck 102
+player 101 current hand : 222 640 973 645 32 485 920 61 705 295 457 955 260 729 939 480 175 45 648 518 
+player 101 draws a 948 from deck 101
+player 101 discards a 222 to deck 102
+player 101 current hand : 640 973 645 32 485 920 61 705 295 457 955 260 729 939 480 175 45 648 518 948 
+player 101 draws a 325 from deck 101
+player 101 discards a 640 to deck 102
+player 101 current hand : 973 645 32 485 920 61 705 295 457 955 260 729 939 480 175 45 648 518 948 325 
+player 101 draws a 265 from deck 101
+player 101 discards a 973 to deck 102
+player 101 current hand : 645 32 485 920 61 705 295 457 955 260 729 939 480 175 45 648 518 948 325 265 
+player 101 draws a 423 from deck 101
+player 101 discards a 645 to deck 102
+player 101 current hand : 32 485 920 61 705 295 457 955 260 729 939 480 175 45 648 518 948 325 265 423 
+player 101 draws a 236 from deck 101
+player 101 discards a 32 to deck 102
+player 101 current hand : 485 920 61 705 295 457 955 260 729 939 480 175 45 648 518 948 325 265 423 236 
+player 101 draws a 793 from deck 101
+player 101 discards a 485 to deck 102
+player 101 current hand : 920 61 705 295 457 955 260 729 939 480 175 45 648 518 948 325 265 423 236 793 
+player 101 draws a 276 from deck 101
+player 101 discards a 920 to deck 102
+player 101 current hand : 61 705 295 457 955 260 729 939 480 175 45 648 518 948 325 265 423 236 793 276 
+player 101 draws a 115 from deck 101
+player 101 discards a 61 to deck 102
+player 101 current hand : 705 295 457 955 260 729 939 480 175 45 648 518 948 325 265 423 236 793 276 115 
+player 101 draws a 708 from deck 101
+player 101 discards a 705 to deck 102
+player 101 current hand : 295 457 955 260 729 939 480 175 45 648 518 948 325 265 423 236 793 276 115 708 
+player 101 draws a 766 from deck 101
+player 101 discards a 295 to deck 102
+player 101 current hand : 457 955 260 729 939 480 175 45 648 518 948 325 265 423 236 793 276 115 708 766 
+player 101 draws a 824 from deck 101
+player 101 discards a 457 to deck 102
+player 101 current hand : 955 260 729 939 480 175 45 648 518 948 325 265 423 236 793 276 115 708 766 824 
+player 101 draws a 189 from deck 101
+player 101 discards a 955 to deck 102
+player 101 current hand : 260 729 939 480 175 45 648 518 948 325 265 423 236 793 276 115 708 766 824 189 
+player 101 draws a 38 from deck 101
+player 101 discards a 260 to deck 102
+player 101 current hand : 729 939 480 175 45 648 518 948 325 265 423 236 793 276 115 708 766 824 189 38 
+player 101 draws a 216 from deck 101
+player 101 discards a 729 to deck 102
+player 101 current hand : 939 480 175 45 648 518 948 325 265 423 236 793 276 115 708 766 824 189 38 216 
+player 101 draws a 670 from deck 101
+player 101 discards a 939 to deck 102
+player 101 current hand : 480 175 45 648 518 948 325 265 423 236 793 276 115 708 766 824 189 38 216 670 
+player 101 draws a 86 from deck 101
+player 101 discards a 480 to deck 102
+player 101 current hand : 175 45 648 518 948 325 265 423 236 793 276 115 708 766 824 189 38 216 670 86 
+player 101 draws a 681 from deck 101
+player 101 discards a 175 to deck 102
+player 101 current hand : 45 648 518 948 325 265 423 236 793 276 115 708 766 824 189 38 216 670 86 681 
+player 101 draws a 138 from deck 101
+player 101 discards a 45 to deck 102
+player 101 current hand : 648 518 948 325 265 423 236 793 276 115 708 766 824 189 38 216 670 86 681 138 
+player 101 draws a 241 from deck 101
+player 101 discards a 648 to deck 102
+player 101 current hand : 518 948 325 265 423 236 793 276 115 708 766 824 189 38 216 670 86 681 138 241 
+player 101 draws a 667 from deck 101
+player 101 discards a 518 to deck 102
+player 101 current hand : 948 325 265 423 236 793 276 115 708 766 824 189 38 216 670 86 681 138 241 667 
+player 101 draws a 475 from deck 101
+player 101 discards a 948 to deck 102
+player 101 current hand : 325 265 423 236 793 276 115 708 766 824 189 38 216 670 86 681 138 241 667 475 
+player 101 draws a 636 from deck 101
+player 101 discards a 325 to deck 102
+player 101 current hand : 265 423 236 793 276 115 708 766 824 189 38 216 670 86 681 138 241 667 475 636 
+player 101 draws a 117 from deck 101
+player 101 discards a 265 to deck 102
+player 101 current hand : 423 236 793 276 115 708 766 824 189 38 216 670 86 681 138 241 667 475 636 117 
+player 101 draws a 118 from deck 101
+player 101 discards a 423 to deck 102
+player 101 current hand : 236 793 276 115 708 766 824 189 38 216 670 86 681 138 241 667 475 636 117 118 
+player 101 draws a 795 from deck 101
+player 101 discards a 236 to deck 102
+player 101 current hand : 793 276 115 708 766 824 189 38 216 670 86 681 138 241 667 475 636 117 118 795 
+player 101 draws a 321 from deck 101
+player 101 discards a 793 to deck 102
+player 101 current hand : 276 115 708 766 824 189 38 216 670 86 681 138 241 667 475 636 117 118 795 321 
+player 101 draws a 782 from deck 101
+player 101 discards a 276 to deck 102
+player 101 current hand : 115 708 766 824 189 38 216 670 86 681 138 241 667 475 636 117 118 795 321 782 
+player 101 draws a 713 from deck 101
+player 101 discards a 115 to deck 102
+player 101 current hand : 708 766 824 189 38 216 670 86 681 138 241 667 475 636 117 118 795 321 782 713 
+player 101 draws a 161 from deck 101
+player 101 discards a 708 to deck 102
+player 101 current hand : 766 824 189 38 216 670 86 681 138 241 667 475 636 117 118 795 321 782 713 161 
+player 101 draws a 938 from deck 101
+player 101 discards a 766 to deck 102
+player 101 current hand : 824 189 38 216 670 86 681 138 241 667 475 636 117 118 795 321 782 713 161 938 
+player 101 draws a 626 from deck 101
+player 101 discards a 824 to deck 102
+player 101 current hand : 189 38 216 670 86 681 138 241 667 475 636 117 118 795 321 782 713 161 938 626 
+player 101 draws a 723 from deck 101
+player 101 discards a 189 to deck 102
+player 101 current hand : 38 216 670 86 681 138 241 667 475 636 117 118 795 321 782 713 161 938 626 723 
+player 101 draws a 968 from deck 101
+player 101 discards a 38 to deck 102
+player 101 current hand : 216 670 86 681 138 241 667 475 636 117 118 795 321 782 713 161 938 626 723 968 
+player 101 draws a 320 from deck 101
+player 101 discards a 216 to deck 102
+player 101 current hand : 670 86 681 138 241 667 475 636 117 118 795 321 782 713 161 938 626 723 968 320 
+player 101 draws a 699 from deck 101
+player 101 discards a 670 to deck 102
+player 101 current hand : 86 681 138 241 667 475 636 117 118 795 321 782 713 161 938 626 723 968 320 699 
+player 101 draws a 338 from deck 101
+player 101 discards a 86 to deck 102
+player 101 current hand : 681 138 241 667 475 636 117 118 795 321 782 713 161 938 626 723 968 320 699 338 
+player 101 draws a 530 from deck 101
+player 101 discards a 681 to deck 102
+player 101 current hand : 138 241 667 475 636 117 118 795 321 782 713 161 938 626 723 968 320 699 338 530 
+player 101 draws a 120 from deck 101
+player 101 discards a 138 to deck 102
+player 101 current hand : 241 667 475 636 117 118 795 321 782 713 161 938 626 723 968 320 699 338 530 120 
+player 101 draws a 44 from deck 101
+player 101 discards a 241 to deck 102
+player 101 current hand : 667 475 636 117 118 795 321 782 713 161 938 626 723 968 320 699 338 530 120 44 
+player 101 draws a 294 from deck 101
+player 101 discards a 667 to deck 102
+player 101 current hand : 475 636 117 118 795 321 782 713 161 938 626 723 968 320 699 338 530 120 44 294 
+player 101 draws a 452 from deck 101
+player 101 discards a 475 to deck 102
+player 101 current hand : 636 117 118 795 321 782 713 161 938 626 723 968 320 699 338 530 120 44 294 452 
+player 101 draws a 319 from deck 101
+player 101 discards a 636 to deck 102
+player 101 current hand : 117 118 795 321 782 713 161 938 626 723 968 320 699 338 530 120 44 294 452 319 
+player 101 draws a 896 from deck 101
+player 101 discards a 117 to deck 102
+player 101 current hand : 118 795 321 782 713 161 938 626 723 968 320 699 338 530 120 44 294 452 319 896 
+player 101 draws a 792 from deck 101
+player 101 discards a 118 to deck 102
+player 101 current hand : 795 321 782 713 161 938 626 723 968 320 699 338 530 120 44 294 452 319 896 792 
+player 101 draws a 941 from deck 101
+player 101 discards a 795 to deck 102
+player 101 current hand : 321 782 713 161 938 626 723 968 320 699 338 530 120 44 294 452 319 896 792 941 
+player 101 draws a 537 from deck 101
+player 101 discards a 321 to deck 102
+player 101 current hand : 782 713 161 938 626 723 968 320 699 338 530 120 44 294 452 319 896 792 941 537 
+player 101 draws a 515 from deck 101
+player 101 discards a 782 to deck 102
+player 101 current hand : 713 161 938 626 723 968 320 699 338 530 120 44 294 452 319 896 792 941 537 515 
+player 101 draws a 808 from deck 101
+player 101 discards a 713 to deck 102
+player 101 current hand : 161 938 626 723 968 320 699 338 530 120 44 294 452 319 896 792 941 537 515 808 
+player 101 draws a 901 from deck 101
+player 101 discards a 161 to deck 102
+player 101 current hand : 938 626 723 968 320 699 338 530 120 44 294 452 319 896 792 941 537 515 808 901 
+player 101 draws a 637 from deck 101
+player 101 discards a 938 to deck 102
+player 101 current hand : 626 723 968 320 699 338 530 120 44 294 452 319 896 792 941 537 515 808 901 637 
+player 101 draws a 685 from deck 101
+player 101 discards a 626 to deck 102
+player 101 current hand : 723 968 320 699 338 530 120 44 294 452 319 896 792 941 537 515 808 901 637 685 
+player 101 draws a 633 from deck 101
+player 101 discards a 723 to deck 102
+player 101 current hand : 968 320 699 338 530 120 44 294 452 319 896 792 941 537 515 808 901 637 685 633 
+player 101 draws a 401 from deck 101
+player 101 discards a 968 to deck 102
+player 101 current hand : 320 699 338 530 120 44 294 452 319 896 792 941 537 515 808 901 637 685 633 401 
+player 101 draws a 391 from deck 101
+player 101 discards a 320 to deck 102
+player 101 current hand : 699 338 530 120 44 294 452 319 896 792 941 537 515 808 901 637 685 633 401 391 
+player 101 draws a 413 from deck 101
+player 101 discards a 699 to deck 102
+player 101 current hand : 338 530 120 44 294 452 319 896 792 941 537 515 808 901 637 685 633 401 391 413 
+player 101 draws a 541 from deck 101
+player 101 discards a 338 to deck 102
+player 101 current hand : 530 120 44 294 452 319 896 792 941 537 515 808 901 637 685 633 401 391 413 541 
+player 101 draws a 297 from deck 101
+player 101 discards a 530 to deck 102
+player 101 current hand : 120 44 294 452 319 896 792 941 537 515 808 901 637 685 633 401 391 413 541 297 
+player 101 draws a 270 from deck 101
+player 101 discards a 120 to deck 102
+player 101 current hand : 44 294 452 319 896 792 941 537 515 808 901 637 685 633 401 391 413 541 297 270 
+player 101 draws a 287 from deck 101
+player 101 discards a 44 to deck 102
+player 101 current hand : 294 452 319 896 792 941 537 515 808 901 637 685 633 401 391 413 541 297 270 287 
+player 101 draws a 692 from deck 101
+player 101 discards a 294 to deck 102
+player 101 current hand : 452 319 896 792 941 537 515 808 901 637 685 633 401 391 413 541 297 270 287 692 
+player 101 draws a 550 from deck 101
+player 101 discards a 452 to deck 102
+player 101 current hand : 319 896 792 941 537 515 808 901 637 685 633 401 391 413 541 297 270 287 692 550 
+player 101 draws a 189 from deck 101
+player 101 discards a 319 to deck 102
+player 101 current hand : 896 792 941 537 515 808 901 637 685 633 401 391 413 541 297 270 287 692 550 189 
+player 101 draws a 389 from deck 101
+player 101 discards a 896 to deck 102
+player 101 current hand : 792 941 537 515 808 901 637 685 633 401 391 413 541 297 270 287 692 550 189 389 
+player 101 draws a 793 from deck 101
+player 101 discards a 792 to deck 102
+player 101 current hand : 941 537 515 808 901 637 685 633 401 391 413 541 297 270 287 692 550 189 389 793 
+player 101 draws a 435 from deck 101
+player 101 discards a 941 to deck 102
+player 101 current hand : 537 515 808 901 637 685 633 401 391 413 541 297 270 287 692 550 189 389 793 435 
+player 101 draws a 317 from deck 101
+player 101 discards a 537 to deck 102
+player 101 current hand : 515 808 901 637 685 633 401 391 413 541 297 270 287 692 550 189 389 793 435 317 
+player 101 draws a 8 from deck 101
+player 101 discards a 515 to deck 102
+player 101 current hand : 808 901 637 685 633 401 391 413 541 297 270 287 692 550 189 389 793 435 317 8 
+player 101 draws a 771 from deck 101
+player 101 discards a 808 to deck 102
+player 101 current hand : 901 637 685 633 401 391 413 541 297 270 287 692 550 189 389 793 435 317 8 771 
+player 101 draws a 289 from deck 101
+player 101 discards a 901 to deck 102
+player 101 current hand : 637 685 633 401 391 413 541 297 270 287 692 550 189 389 793 435 317 8 771 289 
+player 101 draws a 595 from deck 101
+player 101 discards a 637 to deck 102
+player 101 current hand : 685 633 401 391 413 541 297 270 287 692 550 189 389 793 435 317 8 771 289 595 
+player 101 draws a 737 from deck 101
+player 101 discards a 685 to deck 102
+player 101 current hand : 633 401 391 413 541 297 270 287 692 550 189 389 793 435 317 8 771 289 595 737 
+player 101 draws a 438 from deck 101
+player 101 discards a 633 to deck 102
+player 101 current hand : 401 391 413 541 297 270 287 692 550 189 389 793 435 317 8 771 289 595 737 438 
+player 101 draws a 261 from deck 101
+player 101 discards a 401 to deck 102
+player 101 current hand : 391 413 541 297 270 287 692 550 189 389 793 435 317 8 771 289 595 737 438 261 
+player 101 draws a 858 from deck 101
+player 101 discards a 391 to deck 102
+player 101 current hand : 413 541 297 270 287 692 550 189 389 793 435 317 8 771 289 595 737 438 261 858 
+player 101 draws a 690 from deck 101
+player 101 discards a 413 to deck 102
+player 101 current hand : 541 297 270 287 692 550 189 389 793 435 317 8 771 289 595 737 438 261 858 690 
+player 101 draws a 841 from deck 101
+player 101 discards a 541 to deck 102
+player 101 current hand : 297 270 287 692 550 189 389 793 435 317 8 771 289 595 737 438 261 858 690 841 
+player 101 draws a 636 from deck 101
+player 101 discards a 297 to deck 102
+player 101 current hand : 270 287 692 550 189 389 793 435 317 8 771 289 595 737 438 261 858 690 841 636 
+player 101 draws a 617 from deck 101
+player 101 discards a 270 to deck 102
+player 101 current hand : 287 692 550 189 389 793 435 317 8 771 289 595 737 438 261 858 690 841 636 617 
+player 101 draws a 473 from deck 101
+player 101 discards a 287 to deck 102
+player 101 current hand : 692 550 189 389 793 435 317 8 771 289 595 737 438 261 858 690 841 636 617 473 
+player 101 draws a 720 from deck 101
+player 101 discards a 692 to deck 102
+player 101 current hand : 550 189 389 793 435 317 8 771 289 595 737 438 261 858 690 841 636 617 473 720 
+player 101 draws a 555 from deck 101
+player 101 discards a 550 to deck 102
+player 101 current hand : 189 389 793 435 317 8 771 289 595 737 438 261 858 690 841 636 617 473 720 555 
+player 101 draws a 127 from deck 101
+player 101 discards a 189 to deck 102
+player 101 current hand : 389 793 435 317 8 771 289 595 737 438 261 858 690 841 636 617 473 720 555 127 
+player 101 draws a 707 from deck 101
+player 101 discards a 389 to deck 102
+player 101 current hand : 793 435 317 8 771 289 595 737 438 261 858 690 841 636 617 473 720 555 127 707 
+player 101 draws a 788 from deck 101
+player 101 discards a 793 to deck 102
+player 101 current hand : 435 317 8 771 289 595 737 438 261 858 690 841 636 617 473 720 555 127 707 788 
+player 101 draws a 224 from deck 101
+player 101 discards a 435 to deck 102
+player 101 current hand : 317 8 771 289 595 737 438 261 858 690 841 636 617 473 720 555 127 707 788 224 
+player 101 draws a 901 from deck 101
+player 101 discards a 317 to deck 102
+player 101 current hand : 8 771 289 595 737 438 261 858 690 841 636 617 473 720 555 127 707 788 224 901 
+player 101 draws a 133 from deck 101
+player 101 discards a 8 to deck 102
+player 101 current hand : 771 289 595 737 438 261 858 690 841 636 617 473 720 555 127 707 788 224 901 133 
+player 101 draws a 858 from deck 101
+player 101 discards a 771 to deck 102
+player 101 current hand : 289 595 737 438 261 858 690 841 636 617 473 720 555 127 707 788 224 901 133 858 
+player 101 draws a 538 from deck 101
+player 101 discards a 289 to deck 102
+player 101 current hand : 595 737 438 261 858 690 841 636 617 473 720 555 127 707 788 224 901 133 858 538 
+player 101 draws a 791 from deck 101
+player 101 discards a 595 to deck 102
+player 101 current hand : 737 438 261 858 690 841 636 617 473 720 555 127 707 788 224 901 133 858 538 791 

@@ -1,0 +1,353 @@
+player 676 initial hand 852 614 161 879 729 118 524 86 641 406 373 587 321 739 199 214 434 49 480 853 
+player 676 draws a 91 from deck 676
+player 676 discards a 852 to deck 677
+player 676 current hand : 614 161 879 729 118 524 86 641 406 373 587 321 739 199 214 434 49 480 853 91 
+player 676 draws a 184 from deck 676
+player 676 discards a 614 to deck 677
+player 676 current hand : 161 879 729 118 524 86 641 406 373 587 321 739 199 214 434 49 480 853 91 184 
+player 676 draws a 777 from deck 676
+player 676 discards a 161 to deck 677
+player 676 current hand : 879 729 118 524 86 641 406 373 587 321 739 199 214 434 49 480 853 91 184 777 
+player 676 draws a 758 from deck 676
+player 676 discards a 879 to deck 677
+player 676 current hand : 729 118 524 86 641 406 373 587 321 739 199 214 434 49 480 853 91 184 777 758 
+player 676 draws a 328 from deck 676
+player 676 discards a 729 to deck 677
+player 676 current hand : 118 524 86 641 406 373 587 321 739 199 214 434 49 480 853 91 184 777 758 328 
+player 676 draws a 579 from deck 676
+player 676 discards a 118 to deck 677
+player 676 current hand : 524 86 641 406 373 587 321 739 199 214 434 49 480 853 91 184 777 758 328 579 
+player 676 draws a 298 from deck 676
+player 676 discards a 524 to deck 677
+player 676 current hand : 86 641 406 373 587 321 739 199 214 434 49 480 853 91 184 777 758 328 579 298 
+player 676 draws a 983 from deck 676
+player 676 discards a 86 to deck 677
+player 676 current hand : 641 406 373 587 321 739 199 214 434 49 480 853 91 184 777 758 328 579 298 983 
+player 676 draws a 870 from deck 676
+player 676 discards a 641 to deck 677
+player 676 current hand : 406 373 587 321 739 199 214 434 49 480 853 91 184 777 758 328 579 298 983 870 
+player 676 draws a 131 from deck 676
+player 676 discards a 406 to deck 677
+player 676 current hand : 373 587 321 739 199 214 434 49 480 853 91 184 777 758 328 579 298 983 870 131 
+player 676 draws a 265 from deck 676
+player 676 discards a 373 to deck 677
+player 676 current hand : 587 321 739 199 214 434 49 480 853 91 184 777 758 328 579 298 983 870 131 265 
+player 676 draws a 105 from deck 676
+player 676 discards a 587 to deck 677
+player 676 current hand : 321 739 199 214 434 49 480 853 91 184 777 758 328 579 298 983 870 131 265 105 
+player 676 draws a 633 from deck 676
+player 676 discards a 321 to deck 677
+player 676 current hand : 739 199 214 434 49 480 853 91 184 777 758 328 579 298 983 870 131 265 105 633 
+player 676 draws a 729 from deck 676
+player 676 discards a 739 to deck 677
+player 676 current hand : 199 214 434 49 480 853 91 184 777 758 328 579 298 983 870 131 265 105 633 729 
+player 676 draws a 24 from deck 676
+player 676 discards a 199 to deck 677
+player 676 current hand : 214 434 49 480 853 91 184 777 758 328 579 298 983 870 131 265 105 633 729 24 
+player 676 draws a 269 from deck 676
+player 676 discards a 214 to deck 677
+player 676 current hand : 434 49 480 853 91 184 777 758 328 579 298 983 870 131 265 105 633 729 24 269 
+player 676 draws a 977 from deck 676
+player 676 discards a 434 to deck 677
+player 676 current hand : 49 480 853 91 184 777 758 328 579 298 983 870 131 265 105 633 729 24 269 977 
+player 676 draws a 252 from deck 676
+player 676 discards a 49 to deck 677
+player 676 current hand : 480 853 91 184 777 758 328 579 298 983 870 131 265 105 633 729 24 269 977 252 
+player 676 draws a 921 from deck 676
+player 676 discards a 480 to deck 677
+player 676 current hand : 853 91 184 777 758 328 579 298 983 870 131 265 105 633 729 24 269 977 252 921 
+player 676 draws a 541 from deck 676
+player 676 discards a 853 to deck 677
+player 676 current hand : 91 184 777 758 328 579 298 983 870 131 265 105 633 729 24 269 977 252 921 541 
+player 676 draws a 744 from deck 676
+player 676 discards a 91 to deck 677
+player 676 current hand : 184 777 758 328 579 298 983 870 131 265 105 633 729 24 269 977 252 921 541 744 
+player 676 draws a 599 from deck 676
+player 676 discards a 184 to deck 677
+player 676 current hand : 777 758 328 579 298 983 870 131 265 105 633 729 24 269 977 252 921 541 744 599 
+player 676 draws a 200 from deck 676
+player 676 discards a 777 to deck 677
+player 676 current hand : 758 328 579 298 983 870 131 265 105 633 729 24 269 977 252 921 541 744 599 200 
+player 676 draws a 868 from deck 676
+player 676 discards a 758 to deck 677
+player 676 current hand : 328 579 298 983 870 131 265 105 633 729 24 269 977 252 921 541 744 599 200 868 
+player 676 draws a 642 from deck 676
+player 676 discards a 328 to deck 677
+player 676 current hand : 579 298 983 870 131 265 105 633 729 24 269 977 252 921 541 744 599 200 868 642 
+player 676 draws a 393 from deck 676
+player 676 discards a 579 to deck 677
+player 676 current hand : 298 983 870 131 265 105 633 729 24 269 977 252 921 541 744 599 200 868 642 393 
+player 676 draws a 596 from deck 676
+player 676 discards a 298 to deck 677
+player 676 current hand : 983 870 131 265 105 633 729 24 269 977 252 921 541 744 599 200 868 642 393 596 
+player 676 draws a 720 from deck 676
+player 676 discards a 983 to deck 677
+player 676 current hand : 870 131 265 105 633 729 24 269 977 252 921 541 744 599 200 868 642 393 596 720 
+player 676 draws a 645 from deck 676
+player 676 discards a 870 to deck 677
+player 676 current hand : 131 265 105 633 729 24 269 977 252 921 541 744 599 200 868 642 393 596 720 645 
+player 676 draws a 751 from deck 676
+player 676 discards a 131 to deck 677
+player 676 current hand : 265 105 633 729 24 269 977 252 921 541 744 599 200 868 642 393 596 720 645 751 
+player 676 draws a 332 from deck 676
+player 676 discards a 265 to deck 677
+player 676 current hand : 105 633 729 24 269 977 252 921 541 744 599 200 868 642 393 596 720 645 751 332 
+player 676 draws a 854 from deck 676
+player 676 discards a 105 to deck 677
+player 676 current hand : 633 729 24 269 977 252 921 541 744 599 200 868 642 393 596 720 645 751 332 854 
+player 676 draws a 320 from deck 676
+player 676 discards a 633 to deck 677
+player 676 current hand : 729 24 269 977 252 921 541 744 599 200 868 642 393 596 720 645 751 332 854 320 
+player 676 draws a 878 from deck 676
+player 676 discards a 729 to deck 677
+player 676 current hand : 24 269 977 252 921 541 744 599 200 868 642 393 596 720 645 751 332 854 320 878 
+player 676 draws a 383 from deck 676
+player 676 discards a 24 to deck 677
+player 676 current hand : 269 977 252 921 541 744 599 200 868 642 393 596 720 645 751 332 854 320 878 383 
+player 676 draws a 655 from deck 676
+player 676 discards a 269 to deck 677
+player 676 current hand : 977 252 921 541 744 599 200 868 642 393 596 720 645 751 332 854 320 878 383 655 
+player 676 draws a 947 from deck 676
+player 676 discards a 977 to deck 677
+player 676 current hand : 252 921 541 744 599 200 868 642 393 596 720 645 751 332 854 320 878 383 655 947 
+player 676 draws a 686 from deck 676
+player 676 discards a 252 to deck 677
+player 676 current hand : 921 541 744 599 200 868 642 393 596 720 645 751 332 854 320 878 383 655 947 686 
+player 676 draws a 423 from deck 676
+player 676 discards a 921 to deck 677
+player 676 current hand : 541 744 599 200 868 642 393 596 720 645 751 332 854 320 878 383 655 947 686 423 
+player 676 draws a 138 from deck 676
+player 676 discards a 541 to deck 677
+player 676 current hand : 744 599 200 868 642 393 596 720 645 751 332 854 320 878 383 655 947 686 423 138 
+player 676 draws a 740 from deck 676
+player 676 discards a 744 to deck 677
+player 676 current hand : 599 200 868 642 393 596 720 645 751 332 854 320 878 383 655 947 686 423 138 740 
+player 676 draws a 232 from deck 676
+player 676 discards a 599 to deck 677
+player 676 current hand : 200 868 642 393 596 720 645 751 332 854 320 878 383 655 947 686 423 138 740 232 
+player 676 draws a 384 from deck 676
+player 676 discards a 200 to deck 677
+player 676 current hand : 868 642 393 596 720 645 751 332 854 320 878 383 655 947 686 423 138 740 232 384 
+player 676 draws a 511 from deck 676
+player 676 discards a 868 to deck 677
+player 676 current hand : 642 393 596 720 645 751 332 854 320 878 383 655 947 686 423 138 740 232 384 511 
+player 676 draws a 622 from deck 676
+player 676 discards a 642 to deck 677
+player 676 current hand : 393 596 720 645 751 332 854 320 878 383 655 947 686 423 138 740 232 384 511 622 
+player 676 draws a 684 from deck 676
+player 676 discards a 393 to deck 677
+player 676 current hand : 596 720 645 751 332 854 320 878 383 655 947 686 423 138 740 232 384 511 622 684 
+player 676 draws a 437 from deck 676
+player 676 discards a 596 to deck 677
+player 676 current hand : 720 645 751 332 854 320 878 383 655 947 686 423 138 740 232 384 511 622 684 437 
+player 676 draws a 247 from deck 676
+player 676 discards a 720 to deck 677
+player 676 current hand : 645 751 332 854 320 878 383 655 947 686 423 138 740 232 384 511 622 684 437 247 
+player 676 draws a 247 from deck 676
+player 676 discards a 645 to deck 677
+player 676 current hand : 751 332 854 320 878 383 655 947 686 423 138 740 232 384 511 622 684 437 247 247 
+player 676 draws a 640 from deck 676
+player 676 discards a 751 to deck 677
+player 676 current hand : 332 854 320 878 383 655 947 686 423 138 740 232 384 511 622 684 437 247 247 640 
+player 676 draws a 33 from deck 676
+player 676 discards a 332 to deck 677
+player 676 current hand : 854 320 878 383 655 947 686 423 138 740 232 384 511 622 684 437 247 247 640 33 
+player 676 draws a 452 from deck 676
+player 676 discards a 854 to deck 677
+player 676 current hand : 320 878 383 655 947 686 423 138 740 232 384 511 622 684 437 247 247 640 33 452 
+player 676 draws a 750 from deck 676
+player 676 discards a 320 to deck 677
+player 676 current hand : 878 383 655 947 686 423 138 740 232 384 511 622 684 437 247 247 640 33 452 750 
+player 676 draws a 557 from deck 676
+player 676 discards a 878 to deck 677
+player 676 current hand : 383 655 947 686 423 138 740 232 384 511 622 684 437 247 247 640 33 452 750 557 
+player 676 draws a 570 from deck 676
+player 676 discards a 383 to deck 677
+player 676 current hand : 655 947 686 423 138 740 232 384 511 622 684 437 247 247 640 33 452 750 557 570 
+player 676 draws a 220 from deck 676
+player 676 discards a 655 to deck 677
+player 676 current hand : 947 686 423 138 740 232 384 511 622 684 437 247 247 640 33 452 750 557 570 220 
+player 676 draws a 535 from deck 676
+player 676 discards a 947 to deck 677
+player 676 current hand : 686 423 138 740 232 384 511 622 684 437 247 247 640 33 452 750 557 570 220 535 
+player 676 draws a 105 from deck 676
+player 676 discards a 686 to deck 677
+player 676 current hand : 423 138 740 232 384 511 622 684 437 247 247 640 33 452 750 557 570 220 535 105 
+player 676 draws a 924 from deck 676
+player 676 discards a 423 to deck 677
+player 676 current hand : 138 740 232 384 511 622 684 437 247 247 640 33 452 750 557 570 220 535 105 924 
+player 676 draws a 450 from deck 676
+player 676 discards a 138 to deck 677
+player 676 current hand : 740 232 384 511 622 684 437 247 247 640 33 452 750 557 570 220 535 105 924 450 
+player 676 draws a 7 from deck 676
+player 676 discards a 740 to deck 677
+player 676 current hand : 232 384 511 622 684 437 247 247 640 33 452 750 557 570 220 535 105 924 450 7 
+player 676 draws a 773 from deck 676
+player 676 discards a 232 to deck 677
+player 676 current hand : 384 511 622 684 437 247 247 640 33 452 750 557 570 220 535 105 924 450 7 773 
+player 676 draws a 654 from deck 676
+player 676 discards a 384 to deck 677
+player 676 current hand : 511 622 684 437 247 247 640 33 452 750 557 570 220 535 105 924 450 7 773 654 
+player 676 draws a 105 from deck 676
+player 676 discards a 511 to deck 677
+player 676 current hand : 622 684 437 247 247 640 33 452 750 557 570 220 535 105 924 450 7 773 654 105 
+player 676 draws a 365 from deck 676
+player 676 discards a 622 to deck 677
+player 676 current hand : 684 437 247 247 640 33 452 750 557 570 220 535 105 924 450 7 773 654 105 365 
+player 676 draws a 705 from deck 676
+player 676 discards a 684 to deck 677
+player 676 current hand : 437 247 247 640 33 452 750 557 570 220 535 105 924 450 7 773 654 105 365 705 
+player 676 draws a 791 from deck 676
+player 676 discards a 437 to deck 677
+player 676 current hand : 247 247 640 33 452 750 557 570 220 535 105 924 450 7 773 654 105 365 705 791 
+player 676 draws a 45 from deck 676
+player 676 discards a 247 to deck 677
+player 676 current hand : 247 640 33 452 750 557 570 220 535 105 924 450 7 773 654 105 365 705 791 45 
+player 676 draws a 25 from deck 676
+player 676 discards a 247 to deck 677
+player 676 current hand : 640 33 452 750 557 570 220 535 105 924 450 7 773 654 105 365 705 791 45 25 
+player 676 draws a 164 from deck 676
+player 676 discards a 640 to deck 677
+player 676 current hand : 33 452 750 557 570 220 535 105 924 450 7 773 654 105 365 705 791 45 25 164 
+player 676 draws a 566 from deck 676
+player 676 discards a 33 to deck 677
+player 676 current hand : 452 750 557 570 220 535 105 924 450 7 773 654 105 365 705 791 45 25 164 566 
+player 676 draws a 734 from deck 676
+player 676 discards a 452 to deck 677
+player 676 current hand : 750 557 570 220 535 105 924 450 7 773 654 105 365 705 791 45 25 164 566 734 
+player 676 draws a 707 from deck 676
+player 676 discards a 750 to deck 677
+player 676 current hand : 557 570 220 535 105 924 450 7 773 654 105 365 705 791 45 25 164 566 734 707 
+player 676 draws a 720 from deck 676
+player 676 discards a 557 to deck 677
+player 676 current hand : 570 220 535 105 924 450 7 773 654 105 365 705 791 45 25 164 566 734 707 720 
+player 676 draws a 878 from deck 676
+player 676 discards a 570 to deck 677
+player 676 current hand : 220 535 105 924 450 7 773 654 105 365 705 791 45 25 164 566 734 707 720 878 
+player 676 draws a 438 from deck 676
+player 676 discards a 220 to deck 677
+player 676 current hand : 535 105 924 450 7 773 654 105 365 705 791 45 25 164 566 734 707 720 878 438 
+player 676 draws a 340 from deck 676
+player 676 discards a 535 to deck 677
+player 676 current hand : 105 924 450 7 773 654 105 365 705 791 45 25 164 566 734 707 720 878 438 340 
+player 676 draws a 9 from deck 676
+player 676 discards a 105 to deck 677
+player 676 current hand : 924 450 7 773 654 105 365 705 791 45 25 164 566 734 707 720 878 438 340 9 
+player 676 draws a 303 from deck 676
+player 676 discards a 924 to deck 677
+player 676 current hand : 450 7 773 654 105 365 705 791 45 25 164 566 734 707 720 878 438 340 9 303 
+player 676 draws a 478 from deck 676
+player 676 discards a 450 to deck 677
+player 676 current hand : 7 773 654 105 365 705 791 45 25 164 566 734 707 720 878 438 340 9 303 478 
+player 676 draws a 835 from deck 676
+player 676 discards a 7 to deck 677
+player 676 current hand : 773 654 105 365 705 791 45 25 164 566 734 707 720 878 438 340 9 303 478 835 
+player 676 draws a 239 from deck 676
+player 676 discards a 773 to deck 677
+player 676 current hand : 654 105 365 705 791 45 25 164 566 734 707 720 878 438 340 9 303 478 835 239 
+player 676 draws a 823 from deck 676
+player 676 discards a 654 to deck 677
+player 676 current hand : 105 365 705 791 45 25 164 566 734 707 720 878 438 340 9 303 478 835 239 823 
+player 676 draws a 816 from deck 676
+player 676 discards a 105 to deck 677
+player 676 current hand : 365 705 791 45 25 164 566 734 707 720 878 438 340 9 303 478 835 239 823 816 
+player 676 draws a 462 from deck 676
+player 676 discards a 365 to deck 677
+player 676 current hand : 705 791 45 25 164 566 734 707 720 878 438 340 9 303 478 835 239 823 816 462 
+player 676 draws a 29 from deck 676
+player 676 discards a 705 to deck 677
+player 676 current hand : 791 45 25 164 566 734 707 720 878 438 340 9 303 478 835 239 823 816 462 29 
+player 676 draws a 80 from deck 676
+player 676 discards a 791 to deck 677
+player 676 current hand : 45 25 164 566 734 707 720 878 438 340 9 303 478 835 239 823 816 462 29 80 
+player 676 draws a 585 from deck 676
+player 676 discards a 45 to deck 677
+player 676 current hand : 25 164 566 734 707 720 878 438 340 9 303 478 835 239 823 816 462 29 80 585 
+player 676 draws a 121 from deck 676
+player 676 discards a 25 to deck 677
+player 676 current hand : 164 566 734 707 720 878 438 340 9 303 478 835 239 823 816 462 29 80 585 121 
+player 676 draws a 476 from deck 676
+player 676 discards a 164 to deck 677
+player 676 current hand : 566 734 707 720 878 438 340 9 303 478 835 239 823 816 462 29 80 585 121 476 
+player 676 draws a 93 from deck 676
+player 676 discards a 566 to deck 677
+player 676 current hand : 734 707 720 878 438 340 9 303 478 835 239 823 816 462 29 80 585 121 476 93 
+player 676 draws a 100 from deck 676
+player 676 discards a 734 to deck 677
+player 676 current hand : 707 720 878 438 340 9 303 478 835 239 823 816 462 29 80 585 121 476 93 100 
+player 676 draws a 885 from deck 676
+player 676 discards a 707 to deck 677
+player 676 current hand : 720 878 438 340 9 303 478 835 239 823 816 462 29 80 585 121 476 93 100 885 
+player 676 draws a 71 from deck 676
+player 676 discards a 720 to deck 677
+player 676 current hand : 878 438 340 9 303 478 835 239 823 816 462 29 80 585 121 476 93 100 885 71 
+player 676 draws a 855 from deck 676
+player 676 discards a 878 to deck 677
+player 676 current hand : 438 340 9 303 478 835 239 823 816 462 29 80 585 121 476 93 100 885 71 855 
+player 676 draws a 764 from deck 676
+player 676 discards a 438 to deck 677
+player 676 current hand : 340 9 303 478 835 239 823 816 462 29 80 585 121 476 93 100 885 71 855 764 
+player 676 draws a 160 from deck 676
+player 676 discards a 340 to deck 677
+player 676 current hand : 9 303 478 835 239 823 816 462 29 80 585 121 476 93 100 885 71 855 764 160 
+player 676 draws a 852 from deck 676
+player 676 discards a 9 to deck 677
+player 676 current hand : 303 478 835 239 823 816 462 29 80 585 121 476 93 100 885 71 855 764 160 852 
+player 676 draws a 910 from deck 676
+player 676 discards a 303 to deck 677
+player 676 current hand : 478 835 239 823 816 462 29 80 585 121 476 93 100 885 71 855 764 160 852 910 
+player 676 draws a 973 from deck 676
+player 676 discards a 478 to deck 677
+player 676 current hand : 835 239 823 816 462 29 80 585 121 476 93 100 885 71 855 764 160 852 910 973 
+player 676 draws a 37 from deck 676
+player 676 discards a 835 to deck 677
+player 676 current hand : 239 823 816 462 29 80 585 121 476 93 100 885 71 855 764 160 852 910 973 37 
+player 676 draws a 834 from deck 676
+player 676 discards a 239 to deck 677
+player 676 current hand : 823 816 462 29 80 585 121 476 93 100 885 71 855 764 160 852 910 973 37 834 
+player 676 draws a 242 from deck 676
+player 676 discards a 823 to deck 677
+player 676 current hand : 816 462 29 80 585 121 476 93 100 885 71 855 764 160 852 910 973 37 834 242 
+player 676 draws a 424 from deck 676
+player 676 discards a 816 to deck 677
+player 676 current hand : 462 29 80 585 121 476 93 100 885 71 855 764 160 852 910 973 37 834 242 424 
+player 676 draws a 654 from deck 676
+player 676 discards a 462 to deck 677
+player 676 current hand : 29 80 585 121 476 93 100 885 71 855 764 160 852 910 973 37 834 242 424 654 
+player 676 draws a 897 from deck 676
+player 676 discards a 29 to deck 677
+player 676 current hand : 80 585 121 476 93 100 885 71 855 764 160 852 910 973 37 834 242 424 654 897 
+player 676 draws a 622 from deck 676
+player 676 discards a 80 to deck 677
+player 676 current hand : 585 121 476 93 100 885 71 855 764 160 852 910 973 37 834 242 424 654 897 622 
+player 676 draws a 367 from deck 676
+player 676 discards a 585 to deck 677
+player 676 current hand : 121 476 93 100 885 71 855 764 160 852 910 973 37 834 242 424 654 897 622 367 
+player 676 draws a 24 from deck 676
+player 676 discards a 121 to deck 677
+player 676 current hand : 476 93 100 885 71 855 764 160 852 910 973 37 834 242 424 654 897 622 367 24 
+player 676 draws a 40 from deck 676
+player 676 discards a 476 to deck 677
+player 676 current hand : 93 100 885 71 855 764 160 852 910 973 37 834 242 424 654 897 622 367 24 40 
+player 676 draws a 332 from deck 676
+player 676 discards a 93 to deck 677
+player 676 current hand : 100 885 71 855 764 160 852 910 973 37 834 242 424 654 897 622 367 24 40 332 
+player 676 draws a 863 from deck 676
+player 676 discards a 100 to deck 677
+player 676 current hand : 885 71 855 764 160 852 910 973 37 834 242 424 654 897 622 367 24 40 332 863 
+player 676 draws a 944 from deck 676
+player 676 discards a 885 to deck 677
+player 676 current hand : 71 855 764 160 852 910 973 37 834 242 424 654 897 622 367 24 40 332 863 944 
+player 676 draws a 39 from deck 676
+player 676 discards a 71 to deck 677
+player 676 current hand : 855 764 160 852 910 973 37 834 242 424 654 897 622 367 24 40 332 863 944 39 
+player 676 draws a 767 from deck 676
+player 676 discards a 855 to deck 677
+player 676 current hand : 764 160 852 910 973 37 834 242 424 654 897 622 367 24 40 332 863 944 39 767 
+player 676 draws a 283 from deck 676
+player 676 discards a 764 to deck 677
+player 676 current hand : 160 852 910 973 37 834 242 424 654 897 622 367 24 40 332 863 944 39 767 283 
+player 676 draws a 81 from deck 676
+player 676 discards a 160 to deck 677
+player 676 current hand : 852 910 973 37 834 242 424 654 897 622 367 24 40 332 863 944 39 767 283 81 
+player 676 draws a 796 from deck 676

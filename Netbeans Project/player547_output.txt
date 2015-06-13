@@ -1,0 +1,313 @@
+player 547 initial hand 320 260 490 274 537 358 434 546 110 763 647 184 98 634 403 62 951 849 719 269 
+player 547 draws a 534 from deck 547
+player 547 discards a 320 to deck 548
+player 547 current hand : 260 490 274 537 358 434 546 110 763 647 184 98 634 403 62 951 849 719 269 534 
+player 547 draws a 291 from deck 547
+player 547 discards a 260 to deck 548
+player 547 current hand : 490 274 537 358 434 546 110 763 647 184 98 634 403 62 951 849 719 269 534 291 
+player 547 draws a 515 from deck 547
+player 547 discards a 490 to deck 548
+player 547 current hand : 274 537 358 434 546 110 763 647 184 98 634 403 62 951 849 719 269 534 291 515 
+player 547 draws a 862 from deck 547
+player 547 discards a 274 to deck 548
+player 547 current hand : 537 358 434 546 110 763 647 184 98 634 403 62 951 849 719 269 534 291 515 862 
+player 547 draws a 737 from deck 547
+player 547 discards a 537 to deck 548
+player 547 current hand : 358 434 546 110 763 647 184 98 634 403 62 951 849 719 269 534 291 515 862 737 
+player 547 draws a 277 from deck 547
+player 547 discards a 358 to deck 548
+player 547 current hand : 434 546 110 763 647 184 98 634 403 62 951 849 719 269 534 291 515 862 737 277 
+player 547 draws a 518 from deck 547
+player 547 discards a 434 to deck 548
+player 547 current hand : 546 110 763 647 184 98 634 403 62 951 849 719 269 534 291 515 862 737 277 518 
+player 547 draws a 975 from deck 547
+player 547 discards a 546 to deck 548
+player 547 current hand : 110 763 647 184 98 634 403 62 951 849 719 269 534 291 515 862 737 277 518 975 
+player 547 draws a 654 from deck 547
+player 547 discards a 110 to deck 548
+player 547 current hand : 763 647 184 98 634 403 62 951 849 719 269 534 291 515 862 737 277 518 975 654 
+player 547 draws a 457 from deck 547
+player 547 discards a 763 to deck 548
+player 547 current hand : 647 184 98 634 403 62 951 849 719 269 534 291 515 862 737 277 518 975 654 457 
+player 547 draws a 853 from deck 547
+player 547 discards a 647 to deck 548
+player 547 current hand : 184 98 634 403 62 951 849 719 269 534 291 515 862 737 277 518 975 654 457 853 
+player 547 draws a 370 from deck 547
+player 547 discards a 184 to deck 548
+player 547 current hand : 98 634 403 62 951 849 719 269 534 291 515 862 737 277 518 975 654 457 853 370 
+player 547 draws a 44 from deck 547
+player 547 discards a 98 to deck 548
+player 547 current hand : 634 403 62 951 849 719 269 534 291 515 862 737 277 518 975 654 457 853 370 44 
+player 547 draws a 476 from deck 547
+player 547 discards a 634 to deck 548
+player 547 current hand : 403 62 951 849 719 269 534 291 515 862 737 277 518 975 654 457 853 370 44 476 
+player 547 draws a 331 from deck 547
+player 547 discards a 403 to deck 548
+player 547 current hand : 62 951 849 719 269 534 291 515 862 737 277 518 975 654 457 853 370 44 476 331 
+player 547 draws a 939 from deck 547
+player 547 discards a 62 to deck 548
+player 547 current hand : 951 849 719 269 534 291 515 862 737 277 518 975 654 457 853 370 44 476 331 939 
+player 547 draws a 376 from deck 547
+player 547 discards a 951 to deck 548
+player 547 current hand : 849 719 269 534 291 515 862 737 277 518 975 654 457 853 370 44 476 331 939 376 
+player 547 draws a 37 from deck 547
+player 547 discards a 849 to deck 548
+player 547 current hand : 719 269 534 291 515 862 737 277 518 975 654 457 853 370 44 476 331 939 376 37 
+player 547 draws a 848 from deck 547
+player 547 discards a 719 to deck 548
+player 547 current hand : 269 534 291 515 862 737 277 518 975 654 457 853 370 44 476 331 939 376 37 848 
+player 547 draws a 495 from deck 547
+player 547 discards a 269 to deck 548
+player 547 current hand : 534 291 515 862 737 277 518 975 654 457 853 370 44 476 331 939 376 37 848 495 
+player 547 draws a 384 from deck 547
+player 547 discards a 534 to deck 548
+player 547 current hand : 291 515 862 737 277 518 975 654 457 853 370 44 476 331 939 376 37 848 495 384 
+player 547 draws a 8 from deck 547
+player 547 discards a 291 to deck 548
+player 547 current hand : 515 862 737 277 518 975 654 457 853 370 44 476 331 939 376 37 848 495 384 8 
+player 547 draws a 792 from deck 547
+player 547 discards a 515 to deck 548
+player 547 current hand : 862 737 277 518 975 654 457 853 370 44 476 331 939 376 37 848 495 384 8 792 
+player 547 draws a 635 from deck 547
+player 547 discards a 862 to deck 548
+player 547 current hand : 737 277 518 975 654 457 853 370 44 476 331 939 376 37 848 495 384 8 792 635 
+player 547 draws a 691 from deck 547
+player 547 discards a 737 to deck 548
+player 547 current hand : 277 518 975 654 457 853 370 44 476 331 939 376 37 848 495 384 8 792 635 691 
+player 547 draws a 536 from deck 547
+player 547 discards a 277 to deck 548
+player 547 current hand : 518 975 654 457 853 370 44 476 331 939 376 37 848 495 384 8 792 635 691 536 
+player 547 draws a 635 from deck 547
+player 547 discards a 518 to deck 548
+player 547 current hand : 975 654 457 853 370 44 476 331 939 376 37 848 495 384 8 792 635 691 536 635 
+player 547 draws a 415 from deck 547
+player 547 discards a 975 to deck 548
+player 547 current hand : 654 457 853 370 44 476 331 939 376 37 848 495 384 8 792 635 691 536 635 415 
+player 547 draws a 498 from deck 547
+player 547 discards a 654 to deck 548
+player 547 current hand : 457 853 370 44 476 331 939 376 37 848 495 384 8 792 635 691 536 635 415 498 
+player 547 draws a 341 from deck 547
+player 547 discards a 457 to deck 548
+player 547 current hand : 853 370 44 476 331 939 376 37 848 495 384 8 792 635 691 536 635 415 498 341 
+player 547 draws a 657 from deck 547
+player 547 discards a 853 to deck 548
+player 547 current hand : 370 44 476 331 939 376 37 848 495 384 8 792 635 691 536 635 415 498 341 657 
+player 547 draws a 428 from deck 547
+player 547 discards a 370 to deck 548
+player 547 current hand : 44 476 331 939 376 37 848 495 384 8 792 635 691 536 635 415 498 341 657 428 
+player 547 draws a 933 from deck 547
+player 547 discards a 44 to deck 548
+player 547 current hand : 476 331 939 376 37 848 495 384 8 792 635 691 536 635 415 498 341 657 428 933 
+player 547 draws a 822 from deck 547
+player 547 discards a 476 to deck 548
+player 547 current hand : 331 939 376 37 848 495 384 8 792 635 691 536 635 415 498 341 657 428 933 822 
+player 547 draws a 510 from deck 547
+player 547 discards a 331 to deck 548
+player 547 current hand : 939 376 37 848 495 384 8 792 635 691 536 635 415 498 341 657 428 933 822 510 
+player 547 draws a 983 from deck 547
+player 547 discards a 939 to deck 548
+player 547 current hand : 376 37 848 495 384 8 792 635 691 536 635 415 498 341 657 428 933 822 510 983 
+player 547 draws a 922 from deck 547
+player 547 discards a 376 to deck 548
+player 547 current hand : 37 848 495 384 8 792 635 691 536 635 415 498 341 657 428 933 822 510 983 922 
+player 547 draws a 621 from deck 547
+player 547 discards a 37 to deck 548
+player 547 current hand : 848 495 384 8 792 635 691 536 635 415 498 341 657 428 933 822 510 983 922 621 
+player 547 draws a 699 from deck 547
+player 547 discards a 848 to deck 548
+player 547 current hand : 495 384 8 792 635 691 536 635 415 498 341 657 428 933 822 510 983 922 621 699 
+player 547 draws a 258 from deck 547
+player 547 discards a 495 to deck 548
+player 547 current hand : 384 8 792 635 691 536 635 415 498 341 657 428 933 822 510 983 922 621 699 258 
+player 547 draws a 4 from deck 547
+player 547 discards a 384 to deck 548
+player 547 current hand : 8 792 635 691 536 635 415 498 341 657 428 933 822 510 983 922 621 699 258 4 
+player 547 draws a 348 from deck 547
+player 547 discards a 8 to deck 548
+player 547 current hand : 792 635 691 536 635 415 498 341 657 428 933 822 510 983 922 621 699 258 4 348 
+player 547 draws a 773 from deck 547
+player 547 discards a 792 to deck 548
+player 547 current hand : 635 691 536 635 415 498 341 657 428 933 822 510 983 922 621 699 258 4 348 773 
+player 547 draws a 173 from deck 547
+player 547 discards a 635 to deck 548
+player 547 current hand : 691 536 635 415 498 341 657 428 933 822 510 983 922 621 699 258 4 348 773 173 
+player 547 draws a 470 from deck 547
+player 547 discards a 691 to deck 548
+player 547 current hand : 536 635 415 498 341 657 428 933 822 510 983 922 621 699 258 4 348 773 173 470 
+player 547 draws a 496 from deck 547
+player 547 discards a 536 to deck 548
+player 547 current hand : 635 415 498 341 657 428 933 822 510 983 922 621 699 258 4 348 773 173 470 496 
+player 547 draws a 661 from deck 547
+player 547 discards a 635 to deck 548
+player 547 current hand : 415 498 341 657 428 933 822 510 983 922 621 699 258 4 348 773 173 470 496 661 
+player 547 draws a 525 from deck 547
+player 547 discards a 415 to deck 548
+player 547 current hand : 498 341 657 428 933 822 510 983 922 621 699 258 4 348 773 173 470 496 661 525 
+player 547 draws a 93 from deck 547
+player 547 discards a 498 to deck 548
+player 547 current hand : 341 657 428 933 822 510 983 922 621 699 258 4 348 773 173 470 496 661 525 93 
+player 547 draws a 605 from deck 547
+player 547 discards a 341 to deck 548
+player 547 current hand : 657 428 933 822 510 983 922 621 699 258 4 348 773 173 470 496 661 525 93 605 
+player 547 draws a 612 from deck 547
+player 547 discards a 657 to deck 548
+player 547 current hand : 428 933 822 510 983 922 621 699 258 4 348 773 173 470 496 661 525 93 605 612 
+player 547 draws a 282 from deck 547
+player 547 discards a 428 to deck 548
+player 547 current hand : 933 822 510 983 922 621 699 258 4 348 773 173 470 496 661 525 93 605 612 282 
+player 547 draws a 918 from deck 547
+player 547 discards a 933 to deck 548
+player 547 current hand : 822 510 983 922 621 699 258 4 348 773 173 470 496 661 525 93 605 612 282 918 
+player 547 draws a 666 from deck 547
+player 547 discards a 822 to deck 548
+player 547 current hand : 510 983 922 621 699 258 4 348 773 173 470 496 661 525 93 605 612 282 918 666 
+player 547 draws a 493 from deck 547
+player 547 discards a 510 to deck 548
+player 547 current hand : 983 922 621 699 258 4 348 773 173 470 496 661 525 93 605 612 282 918 666 493 
+player 547 draws a 574 from deck 547
+player 547 discards a 983 to deck 548
+player 547 current hand : 922 621 699 258 4 348 773 173 470 496 661 525 93 605 612 282 918 666 493 574 
+player 547 draws a 462 from deck 547
+player 547 discards a 922 to deck 548
+player 547 current hand : 621 699 258 4 348 773 173 470 496 661 525 93 605 612 282 918 666 493 574 462 
+player 547 draws a 118 from deck 547
+player 547 discards a 621 to deck 548
+player 547 current hand : 699 258 4 348 773 173 470 496 661 525 93 605 612 282 918 666 493 574 462 118 
+player 547 draws a 696 from deck 547
+player 547 discards a 699 to deck 548
+player 547 current hand : 258 4 348 773 173 470 496 661 525 93 605 612 282 918 666 493 574 462 118 696 
+player 547 draws a 163 from deck 547
+player 547 discards a 258 to deck 548
+player 547 current hand : 4 348 773 173 470 496 661 525 93 605 612 282 918 666 493 574 462 118 696 163 
+player 547 draws a 681 from deck 547
+player 547 discards a 4 to deck 548
+player 547 current hand : 348 773 173 470 496 661 525 93 605 612 282 918 666 493 574 462 118 696 163 681 
+player 547 draws a 329 from deck 547
+player 547 discards a 348 to deck 548
+player 547 current hand : 773 173 470 496 661 525 93 605 612 282 918 666 493 574 462 118 696 163 681 329 
+player 547 draws a 562 from deck 547
+player 547 discards a 773 to deck 548
+player 547 current hand : 173 470 496 661 525 93 605 612 282 918 666 493 574 462 118 696 163 681 329 562 
+player 547 draws a 677 from deck 547
+player 547 discards a 173 to deck 548
+player 547 current hand : 470 496 661 525 93 605 612 282 918 666 493 574 462 118 696 163 681 329 562 677 
+player 547 draws a 622 from deck 547
+player 547 discards a 470 to deck 548
+player 547 current hand : 496 661 525 93 605 612 282 918 666 493 574 462 118 696 163 681 329 562 677 622 
+player 547 draws a 334 from deck 547
+player 547 discards a 496 to deck 548
+player 547 current hand : 661 525 93 605 612 282 918 666 493 574 462 118 696 163 681 329 562 677 622 334 
+player 547 draws a 455 from deck 547
+player 547 discards a 661 to deck 548
+player 547 current hand : 525 93 605 612 282 918 666 493 574 462 118 696 163 681 329 562 677 622 334 455 
+player 547 draws a 167 from deck 547
+player 547 discards a 525 to deck 548
+player 547 current hand : 93 605 612 282 918 666 493 574 462 118 696 163 681 329 562 677 622 334 455 167 
+player 547 draws a 894 from deck 547
+player 547 discards a 93 to deck 548
+player 547 current hand : 605 612 282 918 666 493 574 462 118 696 163 681 329 562 677 622 334 455 167 894 
+player 547 draws a 355 from deck 547
+player 547 discards a 605 to deck 548
+player 547 current hand : 612 282 918 666 493 574 462 118 696 163 681 329 562 677 622 334 455 167 894 355 
+player 547 draws a 777 from deck 547
+player 547 discards a 612 to deck 548
+player 547 current hand : 282 918 666 493 574 462 118 696 163 681 329 562 677 622 334 455 167 894 355 777 
+player 547 draws a 453 from deck 547
+player 547 discards a 282 to deck 548
+player 547 current hand : 918 666 493 574 462 118 696 163 681 329 562 677 622 334 455 167 894 355 777 453 
+player 547 draws a 237 from deck 547
+player 547 discards a 918 to deck 548
+player 547 current hand : 666 493 574 462 118 696 163 681 329 562 677 622 334 455 167 894 355 777 453 237 
+player 547 draws a 27 from deck 547
+player 547 discards a 666 to deck 548
+player 547 current hand : 493 574 462 118 696 163 681 329 562 677 622 334 455 167 894 355 777 453 237 27 
+player 547 draws a 744 from deck 547
+player 547 discards a 493 to deck 548
+player 547 current hand : 574 462 118 696 163 681 329 562 677 622 334 455 167 894 355 777 453 237 27 744 
+player 547 draws a 663 from deck 547
+player 547 discards a 574 to deck 548
+player 547 current hand : 462 118 696 163 681 329 562 677 622 334 455 167 894 355 777 453 237 27 744 663 
+player 547 draws a 630 from deck 547
+player 547 discards a 462 to deck 548
+player 547 current hand : 118 696 163 681 329 562 677 622 334 455 167 894 355 777 453 237 27 744 663 630 
+player 547 draws a 11 from deck 547
+player 547 discards a 118 to deck 548
+player 547 current hand : 696 163 681 329 562 677 622 334 455 167 894 355 777 453 237 27 744 663 630 11 
+player 547 draws a 999 from deck 547
+player 547 discards a 696 to deck 548
+player 547 current hand : 163 681 329 562 677 622 334 455 167 894 355 777 453 237 27 744 663 630 11 999 
+player 547 draws a 554 from deck 547
+player 547 discards a 163 to deck 548
+player 547 current hand : 681 329 562 677 622 334 455 167 894 355 777 453 237 27 744 663 630 11 999 554 
+player 547 draws a 5 from deck 547
+player 547 discards a 681 to deck 548
+player 547 current hand : 329 562 677 622 334 455 167 894 355 777 453 237 27 744 663 630 11 999 554 5 
+player 547 draws a 179 from deck 547
+player 547 discards a 329 to deck 548
+player 547 current hand : 562 677 622 334 455 167 894 355 777 453 237 27 744 663 630 11 999 554 5 179 
+player 547 draws a 199 from deck 547
+player 547 discards a 562 to deck 548
+player 547 current hand : 677 622 334 455 167 894 355 777 453 237 27 744 663 630 11 999 554 5 179 199 
+player 547 draws a 719 from deck 547
+player 547 discards a 677 to deck 548
+player 547 current hand : 622 334 455 167 894 355 777 453 237 27 744 663 630 11 999 554 5 179 199 719 
+player 547 draws a 390 from deck 547
+player 547 discards a 622 to deck 548
+player 547 current hand : 334 455 167 894 355 777 453 237 27 744 663 630 11 999 554 5 179 199 719 390 
+player 547 draws a 930 from deck 547
+player 547 discards a 334 to deck 548
+player 547 current hand : 455 167 894 355 777 453 237 27 744 663 630 11 999 554 5 179 199 719 390 930 
+player 547 draws a 581 from deck 547
+player 547 discards a 455 to deck 548
+player 547 current hand : 167 894 355 777 453 237 27 744 663 630 11 999 554 5 179 199 719 390 930 581 
+player 547 draws a 976 from deck 547
+player 547 discards a 167 to deck 548
+player 547 current hand : 894 355 777 453 237 27 744 663 630 11 999 554 5 179 199 719 390 930 581 976 
+player 547 draws a 40 from deck 547
+player 547 discards a 894 to deck 548
+player 547 current hand : 355 777 453 237 27 744 663 630 11 999 554 5 179 199 719 390 930 581 976 40 
+player 547 draws a 138 from deck 547
+player 547 discards a 355 to deck 548
+player 547 current hand : 777 453 237 27 744 663 630 11 999 554 5 179 199 719 390 930 581 976 40 138 
+player 547 draws a 554 from deck 547
+player 547 discards a 777 to deck 548
+player 547 current hand : 453 237 27 744 663 630 11 999 554 5 179 199 719 390 930 581 976 40 138 554 
+player 547 draws a 709 from deck 547
+player 547 discards a 453 to deck 548
+player 547 current hand : 237 27 744 663 630 11 999 554 5 179 199 719 390 930 581 976 40 138 554 709 
+player 547 draws a 158 from deck 547
+player 547 discards a 237 to deck 548
+player 547 current hand : 27 744 663 630 11 999 554 5 179 199 719 390 930 581 976 40 138 554 709 158 
+player 547 draws a 498 from deck 547
+player 547 discards a 27 to deck 548
+player 547 current hand : 744 663 630 11 999 554 5 179 199 719 390 930 581 976 40 138 554 709 158 498 
+player 547 draws a 673 from deck 547
+player 547 discards a 744 to deck 548
+player 547 current hand : 663 630 11 999 554 5 179 199 719 390 930 581 976 40 138 554 709 158 498 673 
+player 547 draws a 890 from deck 547
+player 547 discards a 663 to deck 548
+player 547 current hand : 630 11 999 554 5 179 199 719 390 930 581 976 40 138 554 709 158 498 673 890 
+player 547 draws a 536 from deck 547
+player 547 discards a 630 to deck 548
+player 547 current hand : 11 999 554 5 179 199 719 390 930 581 976 40 138 554 709 158 498 673 890 536 
+player 547 draws a 343 from deck 547
+player 547 discards a 11 to deck 548
+player 547 current hand : 999 554 5 179 199 719 390 930 581 976 40 138 554 709 158 498 673 890 536 343 
+player 547 draws a 74 from deck 547
+player 547 discards a 999 to deck 548
+player 547 current hand : 554 5 179 199 719 390 930 581 976 40 138 554 709 158 498 673 890 536 343 74 
+player 547 draws a 204 from deck 547
+player 547 discards a 554 to deck 548
+player 547 current hand : 5 179 199 719 390 930 581 976 40 138 554 709 158 498 673 890 536 343 74 204 
+player 547 draws a 735 from deck 547
+player 547 discards a 5 to deck 548
+player 547 current hand : 179 199 719 390 930 581 976 40 138 554 709 158 498 673 890 536 343 74 204 735 
+player 547 draws a 960 from deck 547
+player 547 discards a 179 to deck 548
+player 547 current hand : 199 719 390 930 581 976 40 138 554 709 158 498 673 890 536 343 74 204 735 960 
+player 547 draws a 730 from deck 547
+player 547 discards a 199 to deck 548
+player 547 current hand : 719 390 930 581 976 40 138 554 709 158 498 673 890 536 343 74 204 735 960 730 
+player 547 draws a 872 from deck 547
+player 547 discards a 719 to deck 548
+player 547 current hand : 390 930 581 976 40 138 554 709 158 498 673 890 536 343 74 204 735 960 730 872 

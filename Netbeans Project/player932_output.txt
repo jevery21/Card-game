@@ -1,0 +1,310 @@
+player 932 initial hand 491 123 537 541 177 65 984 618 577 316 487 348 620 348 98 619 827 598 374 845 
+player 932 draws a 537 from deck 932
+player 932 discards a 491 to deck 933
+player 932 current hand : 123 537 541 177 65 984 618 577 316 487 348 620 348 98 619 827 598 374 845 537 
+player 932 draws a 839 from deck 932
+player 932 discards a 123 to deck 933
+player 932 current hand : 537 541 177 65 984 618 577 316 487 348 620 348 98 619 827 598 374 845 537 839 
+player 932 draws a 391 from deck 932
+player 932 discards a 537 to deck 933
+player 932 current hand : 541 177 65 984 618 577 316 487 348 620 348 98 619 827 598 374 845 537 839 391 
+player 932 draws a 224 from deck 932
+player 932 discards a 541 to deck 933
+player 932 current hand : 177 65 984 618 577 316 487 348 620 348 98 619 827 598 374 845 537 839 391 224 
+player 932 draws a 343 from deck 932
+player 932 discards a 177 to deck 933
+player 932 current hand : 65 984 618 577 316 487 348 620 348 98 619 827 598 374 845 537 839 391 224 343 
+player 932 draws a 126 from deck 932
+player 932 discards a 65 to deck 933
+player 932 current hand : 984 618 577 316 487 348 620 348 98 619 827 598 374 845 537 839 391 224 343 126 
+player 932 draws a 870 from deck 932
+player 932 discards a 984 to deck 933
+player 932 current hand : 618 577 316 487 348 620 348 98 619 827 598 374 845 537 839 391 224 343 126 870 
+player 932 draws a 610 from deck 932
+player 932 discards a 618 to deck 933
+player 932 current hand : 577 316 487 348 620 348 98 619 827 598 374 845 537 839 391 224 343 126 870 610 
+player 932 draws a 618 from deck 932
+player 932 discards a 577 to deck 933
+player 932 current hand : 316 487 348 620 348 98 619 827 598 374 845 537 839 391 224 343 126 870 610 618 
+player 932 draws a 537 from deck 932
+player 932 discards a 316 to deck 933
+player 932 current hand : 487 348 620 348 98 619 827 598 374 845 537 839 391 224 343 126 870 610 618 537 
+player 932 draws a 91 from deck 932
+player 932 discards a 487 to deck 933
+player 932 current hand : 348 620 348 98 619 827 598 374 845 537 839 391 224 343 126 870 610 618 537 91 
+player 932 draws a 117 from deck 932
+player 932 discards a 348 to deck 933
+player 932 current hand : 620 348 98 619 827 598 374 845 537 839 391 224 343 126 870 610 618 537 91 117 
+player 932 draws a 246 from deck 932
+player 932 discards a 620 to deck 933
+player 932 current hand : 348 98 619 827 598 374 845 537 839 391 224 343 126 870 610 618 537 91 117 246 
+player 932 draws a 348 from deck 932
+player 932 discards a 348 to deck 933
+player 932 current hand : 98 619 827 598 374 845 537 839 391 224 343 126 870 610 618 537 91 117 246 348 
+player 932 draws a 97 from deck 932
+player 932 discards a 98 to deck 933
+player 932 current hand : 619 827 598 374 845 537 839 391 224 343 126 870 610 618 537 91 117 246 348 97 
+player 932 draws a 958 from deck 932
+player 932 discards a 619 to deck 933
+player 932 current hand : 827 598 374 845 537 839 391 224 343 126 870 610 618 537 91 117 246 348 97 958 
+player 932 draws a 977 from deck 932
+player 932 discards a 827 to deck 933
+player 932 current hand : 598 374 845 537 839 391 224 343 126 870 610 618 537 91 117 246 348 97 958 977 
+player 932 draws a 402 from deck 932
+player 932 discards a 598 to deck 933
+player 932 current hand : 374 845 537 839 391 224 343 126 870 610 618 537 91 117 246 348 97 958 977 402 
+player 932 draws a 440 from deck 932
+player 932 discards a 374 to deck 933
+player 932 current hand : 845 537 839 391 224 343 126 870 610 618 537 91 117 246 348 97 958 977 402 440 
+player 932 draws a 155 from deck 932
+player 932 discards a 845 to deck 933
+player 932 current hand : 537 839 391 224 343 126 870 610 618 537 91 117 246 348 97 958 977 402 440 155 
+player 932 draws a 341 from deck 932
+player 932 discards a 537 to deck 933
+player 932 current hand : 839 391 224 343 126 870 610 618 537 91 117 246 348 97 958 977 402 440 155 341 
+player 932 draws a 437 from deck 932
+player 932 discards a 839 to deck 933
+player 932 current hand : 391 224 343 126 870 610 618 537 91 117 246 348 97 958 977 402 440 155 341 437 
+player 932 draws a 862 from deck 932
+player 932 discards a 391 to deck 933
+player 932 current hand : 224 343 126 870 610 618 537 91 117 246 348 97 958 977 402 440 155 341 437 862 
+player 932 draws a 137 from deck 932
+player 932 discards a 224 to deck 933
+player 932 current hand : 343 126 870 610 618 537 91 117 246 348 97 958 977 402 440 155 341 437 862 137 
+player 932 draws a 97 from deck 932
+player 932 discards a 343 to deck 933
+player 932 current hand : 126 870 610 618 537 91 117 246 348 97 958 977 402 440 155 341 437 862 137 97 
+player 932 draws a 435 from deck 932
+player 932 discards a 126 to deck 933
+player 932 current hand : 870 610 618 537 91 117 246 348 97 958 977 402 440 155 341 437 862 137 97 435 
+player 932 draws a 124 from deck 932
+player 932 discards a 870 to deck 933
+player 932 current hand : 610 618 537 91 117 246 348 97 958 977 402 440 155 341 437 862 137 97 435 124 
+player 932 draws a 870 from deck 932
+player 932 discards a 610 to deck 933
+player 932 current hand : 618 537 91 117 246 348 97 958 977 402 440 155 341 437 862 137 97 435 124 870 
+player 932 draws a 993 from deck 932
+player 932 discards a 618 to deck 933
+player 932 current hand : 537 91 117 246 348 97 958 977 402 440 155 341 437 862 137 97 435 124 870 993 
+player 932 draws a 666 from deck 932
+player 932 discards a 537 to deck 933
+player 932 current hand : 91 117 246 348 97 958 977 402 440 155 341 437 862 137 97 435 124 870 993 666 
+player 932 draws a 781 from deck 932
+player 932 discards a 91 to deck 933
+player 932 current hand : 117 246 348 97 958 977 402 440 155 341 437 862 137 97 435 124 870 993 666 781 
+player 932 draws a 944 from deck 932
+player 932 discards a 117 to deck 933
+player 932 current hand : 246 348 97 958 977 402 440 155 341 437 862 137 97 435 124 870 993 666 781 944 
+player 932 draws a 343 from deck 932
+player 932 discards a 246 to deck 933
+player 932 current hand : 348 97 958 977 402 440 155 341 437 862 137 97 435 124 870 993 666 781 944 343 
+player 932 draws a 354 from deck 932
+player 932 discards a 348 to deck 933
+player 932 current hand : 97 958 977 402 440 155 341 437 862 137 97 435 124 870 993 666 781 944 343 354 
+player 932 draws a 401 from deck 932
+player 932 discards a 97 to deck 933
+player 932 current hand : 958 977 402 440 155 341 437 862 137 97 435 124 870 993 666 781 944 343 354 401 
+player 932 draws a 436 from deck 932
+player 932 discards a 958 to deck 933
+player 932 current hand : 977 402 440 155 341 437 862 137 97 435 124 870 993 666 781 944 343 354 401 436 
+player 932 draws a 136 from deck 932
+player 932 discards a 977 to deck 933
+player 932 current hand : 402 440 155 341 437 862 137 97 435 124 870 993 666 781 944 343 354 401 436 136 
+player 932 draws a 893 from deck 932
+player 932 discards a 402 to deck 933
+player 932 current hand : 440 155 341 437 862 137 97 435 124 870 993 666 781 944 343 354 401 436 136 893 
+player 932 draws a 205 from deck 932
+player 932 discards a 440 to deck 933
+player 932 current hand : 155 341 437 862 137 97 435 124 870 993 666 781 944 343 354 401 436 136 893 205 
+player 932 draws a 701 from deck 932
+player 932 discards a 155 to deck 933
+player 932 current hand : 341 437 862 137 97 435 124 870 993 666 781 944 343 354 401 436 136 893 205 701 
+player 932 draws a 971 from deck 932
+player 932 discards a 341 to deck 933
+player 932 current hand : 437 862 137 97 435 124 870 993 666 781 944 343 354 401 436 136 893 205 701 971 
+player 932 draws a 470 from deck 932
+player 932 discards a 437 to deck 933
+player 932 current hand : 862 137 97 435 124 870 993 666 781 944 343 354 401 436 136 893 205 701 971 470 
+player 932 draws a 159 from deck 932
+player 932 discards a 862 to deck 933
+player 932 current hand : 137 97 435 124 870 993 666 781 944 343 354 401 436 136 893 205 701 971 470 159 
+player 932 draws a 861 from deck 932
+player 932 discards a 137 to deck 933
+player 932 current hand : 97 435 124 870 993 666 781 944 343 354 401 436 136 893 205 701 971 470 159 861 
+player 932 draws a 495 from deck 932
+player 932 discards a 97 to deck 933
+player 932 current hand : 435 124 870 993 666 781 944 343 354 401 436 136 893 205 701 971 470 159 861 495 
+player 932 draws a 302 from deck 932
+player 932 discards a 435 to deck 933
+player 932 current hand : 124 870 993 666 781 944 343 354 401 436 136 893 205 701 971 470 159 861 495 302 
+player 932 draws a 269 from deck 932
+player 932 discards a 124 to deck 933
+player 932 current hand : 870 993 666 781 944 343 354 401 436 136 893 205 701 971 470 159 861 495 302 269 
+player 932 draws a 686 from deck 932
+player 932 discards a 870 to deck 933
+player 932 current hand : 993 666 781 944 343 354 401 436 136 893 205 701 971 470 159 861 495 302 269 686 
+player 932 draws a 280 from deck 932
+player 932 discards a 993 to deck 933
+player 932 current hand : 666 781 944 343 354 401 436 136 893 205 701 971 470 159 861 495 302 269 686 280 
+player 932 draws a 79 from deck 932
+player 932 discards a 666 to deck 933
+player 932 current hand : 781 944 343 354 401 436 136 893 205 701 971 470 159 861 495 302 269 686 280 79 
+player 932 draws a 314 from deck 932
+player 932 discards a 781 to deck 933
+player 932 current hand : 944 343 354 401 436 136 893 205 701 971 470 159 861 495 302 269 686 280 79 314 
+player 932 draws a 153 from deck 932
+player 932 discards a 944 to deck 933
+player 932 current hand : 343 354 401 436 136 893 205 701 971 470 159 861 495 302 269 686 280 79 314 153 
+player 932 draws a 946 from deck 932
+player 932 discards a 343 to deck 933
+player 932 current hand : 354 401 436 136 893 205 701 971 470 159 861 495 302 269 686 280 79 314 153 946 
+player 932 draws a 422 from deck 932
+player 932 discards a 354 to deck 933
+player 932 current hand : 401 436 136 893 205 701 971 470 159 861 495 302 269 686 280 79 314 153 946 422 
+player 932 draws a 24 from deck 932
+player 932 discards a 401 to deck 933
+player 932 current hand : 436 136 893 205 701 971 470 159 861 495 302 269 686 280 79 314 153 946 422 24 
+player 932 draws a 104 from deck 932
+player 932 discards a 436 to deck 933
+player 932 current hand : 136 893 205 701 971 470 159 861 495 302 269 686 280 79 314 153 946 422 24 104 
+player 932 draws a 36 from deck 932
+player 932 discards a 136 to deck 933
+player 932 current hand : 893 205 701 971 470 159 861 495 302 269 686 280 79 314 153 946 422 24 104 36 
+player 932 draws a 999 from deck 932
+player 932 discards a 893 to deck 933
+player 932 current hand : 205 701 971 470 159 861 495 302 269 686 280 79 314 153 946 422 24 104 36 999 
+player 932 draws a 831 from deck 932
+player 932 discards a 205 to deck 933
+player 932 current hand : 701 971 470 159 861 495 302 269 686 280 79 314 153 946 422 24 104 36 999 831 
+player 932 draws a 319 from deck 932
+player 932 discards a 701 to deck 933
+player 932 current hand : 971 470 159 861 495 302 269 686 280 79 314 153 946 422 24 104 36 999 831 319 
+player 932 draws a 847 from deck 932
+player 932 discards a 971 to deck 933
+player 932 current hand : 470 159 861 495 302 269 686 280 79 314 153 946 422 24 104 36 999 831 319 847 
+player 932 draws a 939 from deck 932
+player 932 discards a 470 to deck 933
+player 932 current hand : 159 861 495 302 269 686 280 79 314 153 946 422 24 104 36 999 831 319 847 939 
+player 932 draws a 602 from deck 932
+player 932 discards a 159 to deck 933
+player 932 current hand : 861 495 302 269 686 280 79 314 153 946 422 24 104 36 999 831 319 847 939 602 
+player 932 draws a 822 from deck 932
+player 932 discards a 861 to deck 933
+player 932 current hand : 495 302 269 686 280 79 314 153 946 422 24 104 36 999 831 319 847 939 602 822 
+player 932 draws a 160 from deck 932
+player 932 discards a 495 to deck 933
+player 932 current hand : 302 269 686 280 79 314 153 946 422 24 104 36 999 831 319 847 939 602 822 160 
+player 932 draws a 200 from deck 932
+player 932 discards a 302 to deck 933
+player 932 current hand : 269 686 280 79 314 153 946 422 24 104 36 999 831 319 847 939 602 822 160 200 
+player 932 draws a 535 from deck 932
+player 932 discards a 269 to deck 933
+player 932 current hand : 686 280 79 314 153 946 422 24 104 36 999 831 319 847 939 602 822 160 200 535 
+player 932 draws a 861 from deck 932
+player 932 discards a 686 to deck 933
+player 932 current hand : 280 79 314 153 946 422 24 104 36 999 831 319 847 939 602 822 160 200 535 861 
+player 932 draws a 677 from deck 932
+player 932 discards a 280 to deck 933
+player 932 current hand : 79 314 153 946 422 24 104 36 999 831 319 847 939 602 822 160 200 535 861 677 
+player 932 draws a 163 from deck 932
+player 932 discards a 79 to deck 933
+player 932 current hand : 314 153 946 422 24 104 36 999 831 319 847 939 602 822 160 200 535 861 677 163 
+player 932 draws a 643 from deck 932
+player 932 discards a 314 to deck 933
+player 932 current hand : 153 946 422 24 104 36 999 831 319 847 939 602 822 160 200 535 861 677 163 643 
+player 932 draws a 719 from deck 932
+player 932 discards a 153 to deck 933
+player 932 current hand : 946 422 24 104 36 999 831 319 847 939 602 822 160 200 535 861 677 163 643 719 
+player 932 draws a 457 from deck 932
+player 932 discards a 946 to deck 933
+player 932 current hand : 422 24 104 36 999 831 319 847 939 602 822 160 200 535 861 677 163 643 719 457 
+player 932 draws a 533 from deck 932
+player 932 discards a 422 to deck 933
+player 932 current hand : 24 104 36 999 831 319 847 939 602 822 160 200 535 861 677 163 643 719 457 533 
+player 932 draws a 837 from deck 932
+player 932 discards a 24 to deck 933
+player 932 current hand : 104 36 999 831 319 847 939 602 822 160 200 535 861 677 163 643 719 457 533 837 
+player 932 draws a 795 from deck 932
+player 932 discards a 104 to deck 933
+player 932 current hand : 36 999 831 319 847 939 602 822 160 200 535 861 677 163 643 719 457 533 837 795 
+player 932 draws a 852 from deck 932
+player 932 discards a 36 to deck 933
+player 932 current hand : 999 831 319 847 939 602 822 160 200 535 861 677 163 643 719 457 533 837 795 852 
+player 932 draws a 913 from deck 932
+player 932 discards a 999 to deck 933
+player 932 current hand : 831 319 847 939 602 822 160 200 535 861 677 163 643 719 457 533 837 795 852 913 
+player 932 draws a 464 from deck 932
+player 932 discards a 831 to deck 933
+player 932 current hand : 319 847 939 602 822 160 200 535 861 677 163 643 719 457 533 837 795 852 913 464 
+player 932 draws a 901 from deck 932
+player 932 discards a 319 to deck 933
+player 932 current hand : 847 939 602 822 160 200 535 861 677 163 643 719 457 533 837 795 852 913 464 901 
+player 932 draws a 466 from deck 932
+player 932 discards a 847 to deck 933
+player 932 current hand : 939 602 822 160 200 535 861 677 163 643 719 457 533 837 795 852 913 464 901 466 
+player 932 draws a 767 from deck 932
+player 932 discards a 939 to deck 933
+player 932 current hand : 602 822 160 200 535 861 677 163 643 719 457 533 837 795 852 913 464 901 466 767 
+player 932 draws a 16 from deck 932
+player 932 discards a 602 to deck 933
+player 932 current hand : 822 160 200 535 861 677 163 643 719 457 533 837 795 852 913 464 901 466 767 16 
+player 932 draws a 279 from deck 932
+player 932 discards a 822 to deck 933
+player 932 current hand : 160 200 535 861 677 163 643 719 457 533 837 795 852 913 464 901 466 767 16 279 
+player 932 draws a 460 from deck 932
+player 932 discards a 160 to deck 933
+player 932 current hand : 200 535 861 677 163 643 719 457 533 837 795 852 913 464 901 466 767 16 279 460 
+player 932 draws a 422 from deck 932
+player 932 discards a 200 to deck 933
+player 932 current hand : 535 861 677 163 643 719 457 533 837 795 852 913 464 901 466 767 16 279 460 422 
+player 932 draws a 636 from deck 932
+player 932 discards a 535 to deck 933
+player 932 current hand : 861 677 163 643 719 457 533 837 795 852 913 464 901 466 767 16 279 460 422 636 
+player 932 draws a 585 from deck 932
+player 932 discards a 861 to deck 933
+player 932 current hand : 677 163 643 719 457 533 837 795 852 913 464 901 466 767 16 279 460 422 636 585 
+player 932 draws a 635 from deck 932
+player 932 discards a 677 to deck 933
+player 932 current hand : 163 643 719 457 533 837 795 852 913 464 901 466 767 16 279 460 422 636 585 635 
+player 932 draws a 939 from deck 932
+player 932 discards a 163 to deck 933
+player 932 current hand : 643 719 457 533 837 795 852 913 464 901 466 767 16 279 460 422 636 585 635 939 
+player 932 draws a 768 from deck 932
+player 932 discards a 643 to deck 933
+player 932 current hand : 719 457 533 837 795 852 913 464 901 466 767 16 279 460 422 636 585 635 939 768 
+player 932 draws a 135 from deck 932
+player 932 discards a 719 to deck 933
+player 932 current hand : 457 533 837 795 852 913 464 901 466 767 16 279 460 422 636 585 635 939 768 135 
+player 932 draws a 996 from deck 932
+player 932 discards a 457 to deck 933
+player 932 current hand : 533 837 795 852 913 464 901 466 767 16 279 460 422 636 585 635 939 768 135 996 
+player 932 draws a 988 from deck 932
+player 932 discards a 533 to deck 933
+player 932 current hand : 837 795 852 913 464 901 466 767 16 279 460 422 636 585 635 939 768 135 996 988 
+player 932 draws a 463 from deck 932
+player 932 discards a 837 to deck 933
+player 932 current hand : 795 852 913 464 901 466 767 16 279 460 422 636 585 635 939 768 135 996 988 463 
+player 932 draws a 255 from deck 932
+player 932 discards a 795 to deck 933
+player 932 current hand : 852 913 464 901 466 767 16 279 460 422 636 585 635 939 768 135 996 988 463 255 
+player 932 draws a 839 from deck 932
+player 932 discards a 852 to deck 933
+player 932 current hand : 913 464 901 466 767 16 279 460 422 636 585 635 939 768 135 996 988 463 255 839 
+player 932 draws a 473 from deck 932
+player 932 discards a 913 to deck 933
+player 932 current hand : 464 901 466 767 16 279 460 422 636 585 635 939 768 135 996 988 463 255 839 473 
+player 932 draws a 20 from deck 932
+player 932 discards a 464 to deck 933
+player 932 current hand : 901 466 767 16 279 460 422 636 585 635 939 768 135 996 988 463 255 839 473 20 
+player 932 draws a 750 from deck 932
+player 932 discards a 901 to deck 933
+player 932 current hand : 466 767 16 279 460 422 636 585 635 939 768 135 996 988 463 255 839 473 20 750 
+player 932 draws a 1000 from deck 932
+player 932 discards a 466 to deck 933
+player 932 current hand : 767 16 279 460 422 636 585 635 939 768 135 996 988 463 255 839 473 20 750 1000 
+player 932 draws a 991 from deck 932
+player 932 discards a 767 to deck 933
+player 932 current hand : 16 279 460 422 636 585 635 939 768 135 996 988 463 255 839 473 20 750 1000 991 
+player 932 draws a 365 from deck 932
+player 932 discards a 16 to deck 933
+player 932 current hand : 279 460 422 636 585 635 939 768 135 996 988 463 255 839 473 20 750 1000 991 365 

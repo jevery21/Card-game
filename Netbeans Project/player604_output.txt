@@ -1,0 +1,310 @@
+player 604 initial hand 913 449 422 655 527 840 777 714 762 170 481 696 171 712 621 376 552 497 299 872 
+player 604 draws a 233 from deck 604
+player 604 discards a 913 to deck 605
+player 604 current hand : 449 422 655 527 840 777 714 762 170 481 696 171 712 621 376 552 497 299 872 233 
+player 604 draws a 549 from deck 604
+player 604 discards a 449 to deck 605
+player 604 current hand : 422 655 527 840 777 714 762 170 481 696 171 712 621 376 552 497 299 872 233 549 
+player 604 draws a 499 from deck 604
+player 604 discards a 422 to deck 605
+player 604 current hand : 655 527 840 777 714 762 170 481 696 171 712 621 376 552 497 299 872 233 549 499 
+player 604 draws a 424 from deck 604
+player 604 discards a 655 to deck 605
+player 604 current hand : 527 840 777 714 762 170 481 696 171 712 621 376 552 497 299 872 233 549 499 424 
+player 604 draws a 457 from deck 604
+player 604 discards a 527 to deck 605
+player 604 current hand : 840 777 714 762 170 481 696 171 712 621 376 552 497 299 872 233 549 499 424 457 
+player 604 draws a 818 from deck 604
+player 604 discards a 840 to deck 605
+player 604 current hand : 777 714 762 170 481 696 171 712 621 376 552 497 299 872 233 549 499 424 457 818 
+player 604 draws a 763 from deck 604
+player 604 discards a 777 to deck 605
+player 604 current hand : 714 762 170 481 696 171 712 621 376 552 497 299 872 233 549 499 424 457 818 763 
+player 604 draws a 481 from deck 604
+player 604 discards a 714 to deck 605
+player 604 current hand : 762 170 481 696 171 712 621 376 552 497 299 872 233 549 499 424 457 818 763 481 
+player 604 draws a 366 from deck 604
+player 604 discards a 762 to deck 605
+player 604 current hand : 170 481 696 171 712 621 376 552 497 299 872 233 549 499 424 457 818 763 481 366 
+player 604 draws a 350 from deck 604
+player 604 discards a 170 to deck 605
+player 604 current hand : 481 696 171 712 621 376 552 497 299 872 233 549 499 424 457 818 763 481 366 350 
+player 604 draws a 411 from deck 604
+player 604 discards a 481 to deck 605
+player 604 current hand : 696 171 712 621 376 552 497 299 872 233 549 499 424 457 818 763 481 366 350 411 
+player 604 draws a 720 from deck 604
+player 604 discards a 696 to deck 605
+player 604 current hand : 171 712 621 376 552 497 299 872 233 549 499 424 457 818 763 481 366 350 411 720 
+player 604 draws a 168 from deck 604
+player 604 discards a 171 to deck 605
+player 604 current hand : 712 621 376 552 497 299 872 233 549 499 424 457 818 763 481 366 350 411 720 168 
+player 604 draws a 589 from deck 604
+player 604 discards a 712 to deck 605
+player 604 current hand : 621 376 552 497 299 872 233 549 499 424 457 818 763 481 366 350 411 720 168 589 
+player 604 draws a 714 from deck 604
+player 604 discards a 621 to deck 605
+player 604 current hand : 376 552 497 299 872 233 549 499 424 457 818 763 481 366 350 411 720 168 589 714 
+player 604 draws a 135 from deck 604
+player 604 discards a 376 to deck 605
+player 604 current hand : 552 497 299 872 233 549 499 424 457 818 763 481 366 350 411 720 168 589 714 135 
+player 604 draws a 287 from deck 604
+player 604 discards a 552 to deck 605
+player 604 current hand : 497 299 872 233 549 499 424 457 818 763 481 366 350 411 720 168 589 714 135 287 
+player 604 draws a 537 from deck 604
+player 604 discards a 497 to deck 605
+player 604 current hand : 299 872 233 549 499 424 457 818 763 481 366 350 411 720 168 589 714 135 287 537 
+player 604 draws a 947 from deck 604
+player 604 discards a 299 to deck 605
+player 604 current hand : 872 233 549 499 424 457 818 763 481 366 350 411 720 168 589 714 135 287 537 947 
+player 604 draws a 556 from deck 604
+player 604 discards a 872 to deck 605
+player 604 current hand : 233 549 499 424 457 818 763 481 366 350 411 720 168 589 714 135 287 537 947 556 
+player 604 draws a 16 from deck 604
+player 604 discards a 233 to deck 605
+player 604 current hand : 549 499 424 457 818 763 481 366 350 411 720 168 589 714 135 287 537 947 556 16 
+player 604 draws a 612 from deck 604
+player 604 discards a 549 to deck 605
+player 604 current hand : 499 424 457 818 763 481 366 350 411 720 168 589 714 135 287 537 947 556 16 612 
+player 604 draws a 240 from deck 604
+player 604 discards a 499 to deck 605
+player 604 current hand : 424 457 818 763 481 366 350 411 720 168 589 714 135 287 537 947 556 16 612 240 
+player 604 draws a 100 from deck 604
+player 604 discards a 424 to deck 605
+player 604 current hand : 457 818 763 481 366 350 411 720 168 589 714 135 287 537 947 556 16 612 240 100 
+player 604 draws a 102 from deck 604
+player 604 discards a 457 to deck 605
+player 604 current hand : 818 763 481 366 350 411 720 168 589 714 135 287 537 947 556 16 612 240 100 102 
+player 604 draws a 777 from deck 604
+player 604 discards a 818 to deck 605
+player 604 current hand : 763 481 366 350 411 720 168 589 714 135 287 537 947 556 16 612 240 100 102 777 
+player 604 draws a 261 from deck 604
+player 604 discards a 763 to deck 605
+player 604 current hand : 481 366 350 411 720 168 589 714 135 287 537 947 556 16 612 240 100 102 777 261 
+player 604 draws a 471 from deck 604
+player 604 discards a 481 to deck 605
+player 604 current hand : 366 350 411 720 168 589 714 135 287 537 947 556 16 612 240 100 102 777 261 471 
+player 604 draws a 605 from deck 604
+player 604 discards a 366 to deck 605
+player 604 current hand : 350 411 720 168 589 714 135 287 537 947 556 16 612 240 100 102 777 261 471 605 
+player 604 draws a 301 from deck 604
+player 604 discards a 350 to deck 605
+player 604 current hand : 411 720 168 589 714 135 287 537 947 556 16 612 240 100 102 777 261 471 605 301 
+player 604 draws a 239 from deck 604
+player 604 discards a 411 to deck 605
+player 604 current hand : 720 168 589 714 135 287 537 947 556 16 612 240 100 102 777 261 471 605 301 239 
+player 604 draws a 491 from deck 604
+player 604 discards a 720 to deck 605
+player 604 current hand : 168 589 714 135 287 537 947 556 16 612 240 100 102 777 261 471 605 301 239 491 
+player 604 draws a 169 from deck 604
+player 604 discards a 168 to deck 605
+player 604 current hand : 589 714 135 287 537 947 556 16 612 240 100 102 777 261 471 605 301 239 491 169 
+player 604 draws a 295 from deck 604
+player 604 discards a 589 to deck 605
+player 604 current hand : 714 135 287 537 947 556 16 612 240 100 102 777 261 471 605 301 239 491 169 295 
+player 604 draws a 666 from deck 604
+player 604 discards a 714 to deck 605
+player 604 current hand : 135 287 537 947 556 16 612 240 100 102 777 261 471 605 301 239 491 169 295 666 
+player 604 draws a 403 from deck 604
+player 604 discards a 135 to deck 605
+player 604 current hand : 287 537 947 556 16 612 240 100 102 777 261 471 605 301 239 491 169 295 666 403 
+player 604 draws a 497 from deck 604
+player 604 discards a 287 to deck 605
+player 604 current hand : 537 947 556 16 612 240 100 102 777 261 471 605 301 239 491 169 295 666 403 497 
+player 604 draws a 275 from deck 604
+player 604 discards a 537 to deck 605
+player 604 current hand : 947 556 16 612 240 100 102 777 261 471 605 301 239 491 169 295 666 403 497 275 
+player 604 draws a 637 from deck 604
+player 604 discards a 947 to deck 605
+player 604 current hand : 556 16 612 240 100 102 777 261 471 605 301 239 491 169 295 666 403 497 275 637 
+player 604 draws a 238 from deck 604
+player 604 discards a 556 to deck 605
+player 604 current hand : 16 612 240 100 102 777 261 471 605 301 239 491 169 295 666 403 497 275 637 238 
+player 604 draws a 455 from deck 604
+player 604 discards a 16 to deck 605
+player 604 current hand : 612 240 100 102 777 261 471 605 301 239 491 169 295 666 403 497 275 637 238 455 
+player 604 draws a 815 from deck 604
+player 604 discards a 612 to deck 605
+player 604 current hand : 240 100 102 777 261 471 605 301 239 491 169 295 666 403 497 275 637 238 455 815 
+player 604 draws a 642 from deck 604
+player 604 discards a 240 to deck 605
+player 604 current hand : 100 102 777 261 471 605 301 239 491 169 295 666 403 497 275 637 238 455 815 642 
+player 604 draws a 537 from deck 604
+player 604 discards a 100 to deck 605
+player 604 current hand : 102 777 261 471 605 301 239 491 169 295 666 403 497 275 637 238 455 815 642 537 
+player 604 draws a 11 from deck 604
+player 604 discards a 102 to deck 605
+player 604 current hand : 777 261 471 605 301 239 491 169 295 666 403 497 275 637 238 455 815 642 537 11 
+player 604 draws a 532 from deck 604
+player 604 discards a 777 to deck 605
+player 604 current hand : 261 471 605 301 239 491 169 295 666 403 497 275 637 238 455 815 642 537 11 532 
+player 604 draws a 507 from deck 604
+player 604 discards a 261 to deck 605
+player 604 current hand : 471 605 301 239 491 169 295 666 403 497 275 637 238 455 815 642 537 11 532 507 
+player 604 draws a 238 from deck 604
+player 604 discards a 471 to deck 605
+player 604 current hand : 605 301 239 491 169 295 666 403 497 275 637 238 455 815 642 537 11 532 507 238 
+player 604 draws a 459 from deck 604
+player 604 discards a 605 to deck 605
+player 604 current hand : 301 239 491 169 295 666 403 497 275 637 238 455 815 642 537 11 532 507 238 459 
+player 604 draws a 794 from deck 604
+player 604 discards a 301 to deck 605
+player 604 current hand : 239 491 169 295 666 403 497 275 637 238 455 815 642 537 11 532 507 238 459 794 
+player 604 draws a 533 from deck 604
+player 604 discards a 239 to deck 605
+player 604 current hand : 491 169 295 666 403 497 275 637 238 455 815 642 537 11 532 507 238 459 794 533 
+player 604 draws a 121 from deck 604
+player 604 discards a 491 to deck 605
+player 604 current hand : 169 295 666 403 497 275 637 238 455 815 642 537 11 532 507 238 459 794 533 121 
+player 604 draws a 460 from deck 604
+player 604 discards a 169 to deck 605
+player 604 current hand : 295 666 403 497 275 637 238 455 815 642 537 11 532 507 238 459 794 533 121 460 
+player 604 draws a 54 from deck 604
+player 604 discards a 295 to deck 605
+player 604 current hand : 666 403 497 275 637 238 455 815 642 537 11 532 507 238 459 794 533 121 460 54 
+player 604 draws a 642 from deck 604
+player 604 discards a 666 to deck 605
+player 604 current hand : 403 497 275 637 238 455 815 642 537 11 532 507 238 459 794 533 121 460 54 642 
+player 604 draws a 856 from deck 604
+player 604 discards a 403 to deck 605
+player 604 current hand : 497 275 637 238 455 815 642 537 11 532 507 238 459 794 533 121 460 54 642 856 
+player 604 draws a 767 from deck 604
+player 604 discards a 497 to deck 605
+player 604 current hand : 275 637 238 455 815 642 537 11 532 507 238 459 794 533 121 460 54 642 856 767 
+player 604 draws a 107 from deck 604
+player 604 discards a 275 to deck 605
+player 604 current hand : 637 238 455 815 642 537 11 532 507 238 459 794 533 121 460 54 642 856 767 107 
+player 604 draws a 442 from deck 604
+player 604 discards a 637 to deck 605
+player 604 current hand : 238 455 815 642 537 11 532 507 238 459 794 533 121 460 54 642 856 767 107 442 
+player 604 draws a 68 from deck 604
+player 604 discards a 238 to deck 605
+player 604 current hand : 455 815 642 537 11 532 507 238 459 794 533 121 460 54 642 856 767 107 442 68 
+player 604 draws a 523 from deck 604
+player 604 discards a 455 to deck 605
+player 604 current hand : 815 642 537 11 532 507 238 459 794 533 121 460 54 642 856 767 107 442 68 523 
+player 604 draws a 153 from deck 604
+player 604 discards a 815 to deck 605
+player 604 current hand : 642 537 11 532 507 238 459 794 533 121 460 54 642 856 767 107 442 68 523 153 
+player 604 draws a 554 from deck 604
+player 604 discards a 642 to deck 605
+player 604 current hand : 537 11 532 507 238 459 794 533 121 460 54 642 856 767 107 442 68 523 153 554 
+player 604 draws a 826 from deck 604
+player 604 discards a 537 to deck 605
+player 604 current hand : 11 532 507 238 459 794 533 121 460 54 642 856 767 107 442 68 523 153 554 826 
+player 604 draws a 915 from deck 604
+player 604 discards a 11 to deck 605
+player 604 current hand : 532 507 238 459 794 533 121 460 54 642 856 767 107 442 68 523 153 554 826 915 
+player 604 draws a 538 from deck 604
+player 604 discards a 532 to deck 605
+player 604 current hand : 507 238 459 794 533 121 460 54 642 856 767 107 442 68 523 153 554 826 915 538 
+player 604 draws a 364 from deck 604
+player 604 discards a 507 to deck 605
+player 604 current hand : 238 459 794 533 121 460 54 642 856 767 107 442 68 523 153 554 826 915 538 364 
+player 604 draws a 585 from deck 604
+player 604 discards a 238 to deck 605
+player 604 current hand : 459 794 533 121 460 54 642 856 767 107 442 68 523 153 554 826 915 538 364 585 
+player 604 draws a 978 from deck 604
+player 604 discards a 459 to deck 605
+player 604 current hand : 794 533 121 460 54 642 856 767 107 442 68 523 153 554 826 915 538 364 585 978 
+player 604 draws a 60 from deck 604
+player 604 discards a 794 to deck 605
+player 604 current hand : 533 121 460 54 642 856 767 107 442 68 523 153 554 826 915 538 364 585 978 60 
+player 604 draws a 690 from deck 604
+player 604 discards a 533 to deck 605
+player 604 current hand : 121 460 54 642 856 767 107 442 68 523 153 554 826 915 538 364 585 978 60 690 
+player 604 draws a 841 from deck 604
+player 604 discards a 121 to deck 605
+player 604 current hand : 460 54 642 856 767 107 442 68 523 153 554 826 915 538 364 585 978 60 690 841 
+player 604 draws a 748 from deck 604
+player 604 discards a 460 to deck 605
+player 604 current hand : 54 642 856 767 107 442 68 523 153 554 826 915 538 364 585 978 60 690 841 748 
+player 604 draws a 434 from deck 604
+player 604 discards a 54 to deck 605
+player 604 current hand : 642 856 767 107 442 68 523 153 554 826 915 538 364 585 978 60 690 841 748 434 
+player 604 draws a 218 from deck 604
+player 604 discards a 642 to deck 605
+player 604 current hand : 856 767 107 442 68 523 153 554 826 915 538 364 585 978 60 690 841 748 434 218 
+player 604 draws a 853 from deck 604
+player 604 discards a 856 to deck 605
+player 604 current hand : 767 107 442 68 523 153 554 826 915 538 364 585 978 60 690 841 748 434 218 853 
+player 604 draws a 329 from deck 604
+player 604 discards a 767 to deck 605
+player 604 current hand : 107 442 68 523 153 554 826 915 538 364 585 978 60 690 841 748 434 218 853 329 
+player 604 draws a 268 from deck 604
+player 604 discards a 107 to deck 605
+player 604 current hand : 442 68 523 153 554 826 915 538 364 585 978 60 690 841 748 434 218 853 329 268 
+player 604 draws a 1000 from deck 604
+player 604 discards a 442 to deck 605
+player 604 current hand : 68 523 153 554 826 915 538 364 585 978 60 690 841 748 434 218 853 329 268 1000 
+player 604 draws a 200 from deck 604
+player 604 discards a 68 to deck 605
+player 604 current hand : 523 153 554 826 915 538 364 585 978 60 690 841 748 434 218 853 329 268 1000 200 
+player 604 draws a 816 from deck 604
+player 604 discards a 523 to deck 605
+player 604 current hand : 153 554 826 915 538 364 585 978 60 690 841 748 434 218 853 329 268 1000 200 816 
+player 604 draws a 308 from deck 604
+player 604 discards a 153 to deck 605
+player 604 current hand : 554 826 915 538 364 585 978 60 690 841 748 434 218 853 329 268 1000 200 816 308 
+player 604 draws a 791 from deck 604
+player 604 discards a 554 to deck 605
+player 604 current hand : 826 915 538 364 585 978 60 690 841 748 434 218 853 329 268 1000 200 816 308 791 
+player 604 draws a 69 from deck 604
+player 604 discards a 826 to deck 605
+player 604 current hand : 915 538 364 585 978 60 690 841 748 434 218 853 329 268 1000 200 816 308 791 69 
+player 604 draws a 773 from deck 604
+player 604 discards a 915 to deck 605
+player 604 current hand : 538 364 585 978 60 690 841 748 434 218 853 329 268 1000 200 816 308 791 69 773 
+player 604 draws a 500 from deck 604
+player 604 discards a 538 to deck 605
+player 604 current hand : 364 585 978 60 690 841 748 434 218 853 329 268 1000 200 816 308 791 69 773 500 
+player 604 draws a 29 from deck 604
+player 604 discards a 364 to deck 605
+player 604 current hand : 585 978 60 690 841 748 434 218 853 329 268 1000 200 816 308 791 69 773 500 29 
+player 604 draws a 946 from deck 604
+player 604 discards a 585 to deck 605
+player 604 current hand : 978 60 690 841 748 434 218 853 329 268 1000 200 816 308 791 69 773 500 29 946 
+player 604 draws a 22 from deck 604
+player 604 discards a 978 to deck 605
+player 604 current hand : 60 690 841 748 434 218 853 329 268 1000 200 816 308 791 69 773 500 29 946 22 
+player 604 draws a 696 from deck 604
+player 604 discards a 60 to deck 605
+player 604 current hand : 690 841 748 434 218 853 329 268 1000 200 816 308 791 69 773 500 29 946 22 696 
+player 604 draws a 444 from deck 604
+player 604 discards a 690 to deck 605
+player 604 current hand : 841 748 434 218 853 329 268 1000 200 816 308 791 69 773 500 29 946 22 696 444 
+player 604 draws a 957 from deck 604
+player 604 discards a 841 to deck 605
+player 604 current hand : 748 434 218 853 329 268 1000 200 816 308 791 69 773 500 29 946 22 696 444 957 
+player 604 draws a 156 from deck 604
+player 604 discards a 748 to deck 605
+player 604 current hand : 434 218 853 329 268 1000 200 816 308 791 69 773 500 29 946 22 696 444 957 156 
+player 604 draws a 886 from deck 604
+player 604 discards a 434 to deck 605
+player 604 current hand : 218 853 329 268 1000 200 816 308 791 69 773 500 29 946 22 696 444 957 156 886 
+player 604 draws a 829 from deck 604
+player 604 discards a 218 to deck 605
+player 604 current hand : 853 329 268 1000 200 816 308 791 69 773 500 29 946 22 696 444 957 156 886 829 
+player 604 draws a 490 from deck 604
+player 604 discards a 853 to deck 605
+player 604 current hand : 329 268 1000 200 816 308 791 69 773 500 29 946 22 696 444 957 156 886 829 490 
+player 604 draws a 922 from deck 604
+player 604 discards a 329 to deck 605
+player 604 current hand : 268 1000 200 816 308 791 69 773 500 29 946 22 696 444 957 156 886 829 490 922 
+player 604 draws a 740 from deck 604
+player 604 discards a 268 to deck 605
+player 604 current hand : 1000 200 816 308 791 69 773 500 29 946 22 696 444 957 156 886 829 490 922 740 
+player 604 draws a 117 from deck 604
+player 604 discards a 1000 to deck 605
+player 604 current hand : 200 816 308 791 69 773 500 29 946 22 696 444 957 156 886 829 490 922 740 117 
+player 604 draws a 4 from deck 604
+player 604 discards a 200 to deck 605
+player 604 current hand : 816 308 791 69 773 500 29 946 22 696 444 957 156 886 829 490 922 740 117 4 
+player 604 draws a 220 from deck 604
+player 604 discards a 816 to deck 605
+player 604 current hand : 308 791 69 773 500 29 946 22 696 444 957 156 886 829 490 922 740 117 4 220 
+player 604 draws a 533 from deck 604
+player 604 discards a 308 to deck 605
+player 604 current hand : 791 69 773 500 29 946 22 696 444 957 156 886 829 490 922 740 117 4 220 533 
+player 604 draws a 793 from deck 604
+player 604 discards a 791 to deck 605
+player 604 current hand : 69 773 500 29 946 22 696 444 957 156 886 829 490 922 740 117 4 220 533 793 

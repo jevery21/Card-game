@@ -1,0 +1,306 @@
+player 428 initial hand 354 566 255 401 505 564 252 574 578 429 11 670 105 819 708 265 636 305 426 4 
+player 428 draws a 643 from deck 428
+player 428 discards a 354 to deck 429
+player 428 current hand : 566 255 401 505 564 252 574 578 429 11 670 105 819 708 265 636 305 426 4 643 
+player 428 draws a 729 from deck 428
+player 428 discards a 566 to deck 429
+player 428 current hand : 255 401 505 564 252 574 578 429 11 670 105 819 708 265 636 305 426 4 643 729 
+player 428 draws a 600 from deck 428
+player 428 discards a 255 to deck 429
+player 428 current hand : 401 505 564 252 574 578 429 11 670 105 819 708 265 636 305 426 4 643 729 600 
+player 428 draws a 971 from deck 428
+player 428 discards a 401 to deck 429
+player 428 current hand : 505 564 252 574 578 429 11 670 105 819 708 265 636 305 426 4 643 729 600 971 
+player 428 draws a 958 from deck 428
+player 428 discards a 505 to deck 429
+player 428 current hand : 564 252 574 578 429 11 670 105 819 708 265 636 305 426 4 643 729 600 971 958 
+player 428 draws a 239 from deck 428
+player 428 discards a 564 to deck 429
+player 428 current hand : 252 574 578 429 11 670 105 819 708 265 636 305 426 4 643 729 600 971 958 239 
+player 428 draws a 814 from deck 428
+player 428 discards a 252 to deck 429
+player 428 current hand : 574 578 429 11 670 105 819 708 265 636 305 426 4 643 729 600 971 958 239 814 
+player 428 draws a 47 from deck 428
+player 428 discards a 574 to deck 429
+player 428 current hand : 578 429 11 670 105 819 708 265 636 305 426 4 643 729 600 971 958 239 814 47 
+player 428 draws a 475 from deck 428
+player 428 discards a 578 to deck 429
+player 428 current hand : 429 11 670 105 819 708 265 636 305 426 4 643 729 600 971 958 239 814 47 475 
+player 428 draws a 429 from deck 428
+player 428 discards a 429 to deck 429
+player 428 current hand : 11 670 105 819 708 265 636 305 426 4 643 729 600 971 958 239 814 47 475 429 
+player 428 draws a 587 from deck 428
+player 428 discards a 11 to deck 429
+player 428 current hand : 670 105 819 708 265 636 305 426 4 643 729 600 971 958 239 814 47 475 429 587 
+player 428 draws a 390 from deck 428
+player 428 discards a 670 to deck 429
+player 428 current hand : 105 819 708 265 636 305 426 4 643 729 600 971 958 239 814 47 475 429 587 390 
+player 428 draws a 410 from deck 428
+player 428 discards a 105 to deck 429
+player 428 current hand : 819 708 265 636 305 426 4 643 729 600 971 958 239 814 47 475 429 587 390 410 
+player 428 draws a 133 from deck 428
+player 428 discards a 819 to deck 429
+player 428 current hand : 708 265 636 305 426 4 643 729 600 971 958 239 814 47 475 429 587 390 410 133 
+player 428 draws a 518 from deck 428
+player 428 discards a 708 to deck 429
+player 428 current hand : 265 636 305 426 4 643 729 600 971 958 239 814 47 475 429 587 390 410 133 518 
+player 428 draws a 593 from deck 428
+player 428 discards a 265 to deck 429
+player 428 current hand : 636 305 426 4 643 729 600 971 958 239 814 47 475 429 587 390 410 133 518 593 
+player 428 draws a 856 from deck 428
+player 428 discards a 636 to deck 429
+player 428 current hand : 305 426 4 643 729 600 971 958 239 814 47 475 429 587 390 410 133 518 593 856 
+player 428 draws a 209 from deck 428
+player 428 discards a 305 to deck 429
+player 428 current hand : 426 4 643 729 600 971 958 239 814 47 475 429 587 390 410 133 518 593 856 209 
+player 428 draws a 824 from deck 428
+player 428 discards a 426 to deck 429
+player 428 current hand : 4 643 729 600 971 958 239 814 47 475 429 587 390 410 133 518 593 856 209 824 
+player 428 draws a 266 from deck 428
+player 428 discards a 4 to deck 429
+player 428 current hand : 643 729 600 971 958 239 814 47 475 429 587 390 410 133 518 593 856 209 824 266 
+player 428 draws a 691 from deck 428
+player 428 discards a 643 to deck 429
+player 428 current hand : 729 600 971 958 239 814 47 475 429 587 390 410 133 518 593 856 209 824 266 691 
+player 428 draws a 970 from deck 428
+player 428 discards a 729 to deck 429
+player 428 current hand : 600 971 958 239 814 47 475 429 587 390 410 133 518 593 856 209 824 266 691 970 
+player 428 draws a 153 from deck 428
+player 428 discards a 600 to deck 429
+player 428 current hand : 971 958 239 814 47 475 429 587 390 410 133 518 593 856 209 824 266 691 970 153 
+player 428 draws a 189 from deck 428
+player 428 discards a 971 to deck 429
+player 428 current hand : 958 239 814 47 475 429 587 390 410 133 518 593 856 209 824 266 691 970 153 189 
+player 428 draws a 830 from deck 428
+player 428 discards a 958 to deck 429
+player 428 current hand : 239 814 47 475 429 587 390 410 133 518 593 856 209 824 266 691 970 153 189 830 
+player 428 draws a 530 from deck 428
+player 428 discards a 239 to deck 429
+player 428 current hand : 814 47 475 429 587 390 410 133 518 593 856 209 824 266 691 970 153 189 830 530 
+player 428 draws a 395 from deck 428
+player 428 discards a 814 to deck 429
+player 428 current hand : 47 475 429 587 390 410 133 518 593 856 209 824 266 691 970 153 189 830 530 395 
+player 428 draws a 346 from deck 428
+player 428 discards a 47 to deck 429
+player 428 current hand : 475 429 587 390 410 133 518 593 856 209 824 266 691 970 153 189 830 530 395 346 
+player 428 draws a 736 from deck 428
+player 428 discards a 475 to deck 429
+player 428 current hand : 429 587 390 410 133 518 593 856 209 824 266 691 970 153 189 830 530 395 346 736 
+player 428 draws a 802 from deck 428
+player 428 discards a 429 to deck 429
+player 428 current hand : 587 390 410 133 518 593 856 209 824 266 691 970 153 189 830 530 395 346 736 802 
+player 428 draws a 978 from deck 428
+player 428 discards a 587 to deck 429
+player 428 current hand : 390 410 133 518 593 856 209 824 266 691 970 153 189 830 530 395 346 736 802 978 
+player 428 draws a 97 from deck 428
+player 428 discards a 390 to deck 429
+player 428 current hand : 410 133 518 593 856 209 824 266 691 970 153 189 830 530 395 346 736 802 978 97 
+player 428 draws a 978 from deck 428
+player 428 discards a 410 to deck 429
+player 428 current hand : 133 518 593 856 209 824 266 691 970 153 189 830 530 395 346 736 802 978 97 978 
+player 428 draws a 54 from deck 428
+player 428 discards a 133 to deck 429
+player 428 current hand : 518 593 856 209 824 266 691 970 153 189 830 530 395 346 736 802 978 97 978 54 
+player 428 draws a 595 from deck 428
+player 428 discards a 518 to deck 429
+player 428 current hand : 593 856 209 824 266 691 970 153 189 830 530 395 346 736 802 978 97 978 54 595 
+player 428 draws a 412 from deck 428
+player 428 discards a 593 to deck 429
+player 428 current hand : 856 209 824 266 691 970 153 189 830 530 395 346 736 802 978 97 978 54 595 412 
+player 428 draws a 375 from deck 428
+player 428 discards a 856 to deck 429
+player 428 current hand : 209 824 266 691 970 153 189 830 530 395 346 736 802 978 97 978 54 595 412 375 
+player 428 draws a 27 from deck 428
+player 428 discards a 209 to deck 429
+player 428 current hand : 824 266 691 970 153 189 830 530 395 346 736 802 978 97 978 54 595 412 375 27 
+player 428 draws a 866 from deck 428
+player 428 discards a 824 to deck 429
+player 428 current hand : 266 691 970 153 189 830 530 395 346 736 802 978 97 978 54 595 412 375 27 866 
+player 428 draws a 177 from deck 428
+player 428 discards a 266 to deck 429
+player 428 current hand : 691 970 153 189 830 530 395 346 736 802 978 97 978 54 595 412 375 27 866 177 
+player 428 draws a 977 from deck 428
+player 428 discards a 691 to deck 429
+player 428 current hand : 970 153 189 830 530 395 346 736 802 978 97 978 54 595 412 375 27 866 177 977 
+player 428 draws a 834 from deck 428
+player 428 discards a 970 to deck 429
+player 428 current hand : 153 189 830 530 395 346 736 802 978 97 978 54 595 412 375 27 866 177 977 834 
+player 428 draws a 221 from deck 428
+player 428 discards a 153 to deck 429
+player 428 current hand : 189 830 530 395 346 736 802 978 97 978 54 595 412 375 27 866 177 977 834 221 
+player 428 draws a 556 from deck 428
+player 428 discards a 189 to deck 429
+player 428 current hand : 830 530 395 346 736 802 978 97 978 54 595 412 375 27 866 177 977 834 221 556 
+player 428 draws a 280 from deck 428
+player 428 discards a 830 to deck 429
+player 428 current hand : 530 395 346 736 802 978 97 978 54 595 412 375 27 866 177 977 834 221 556 280 
+player 428 draws a 478 from deck 428
+player 428 discards a 530 to deck 429
+player 428 current hand : 395 346 736 802 978 97 978 54 595 412 375 27 866 177 977 834 221 556 280 478 
+player 428 draws a 568 from deck 428
+player 428 discards a 395 to deck 429
+player 428 current hand : 346 736 802 978 97 978 54 595 412 375 27 866 177 977 834 221 556 280 478 568 
+player 428 draws a 632 from deck 428
+player 428 discards a 346 to deck 429
+player 428 current hand : 736 802 978 97 978 54 595 412 375 27 866 177 977 834 221 556 280 478 568 632 
+player 428 draws a 112 from deck 428
+player 428 discards a 736 to deck 429
+player 428 current hand : 802 978 97 978 54 595 412 375 27 866 177 977 834 221 556 280 478 568 632 112 
+player 428 draws a 841 from deck 428
+player 428 discards a 802 to deck 429
+player 428 current hand : 978 97 978 54 595 412 375 27 866 177 977 834 221 556 280 478 568 632 112 841 
+player 428 draws a 271 from deck 428
+player 428 discards a 978 to deck 429
+player 428 current hand : 97 978 54 595 412 375 27 866 177 977 834 221 556 280 478 568 632 112 841 271 
+player 428 draws a 280 from deck 428
+player 428 discards a 97 to deck 429
+player 428 current hand : 978 54 595 412 375 27 866 177 977 834 221 556 280 478 568 632 112 841 271 280 
+player 428 draws a 107 from deck 428
+player 428 discards a 978 to deck 429
+player 428 current hand : 54 595 412 375 27 866 177 977 834 221 556 280 478 568 632 112 841 271 280 107 
+player 428 draws a 4 from deck 428
+player 428 discards a 54 to deck 429
+player 428 current hand : 595 412 375 27 866 177 977 834 221 556 280 478 568 632 112 841 271 280 107 4 
+player 428 draws a 113 from deck 428
+player 428 discards a 595 to deck 429
+player 428 current hand : 412 375 27 866 177 977 834 221 556 280 478 568 632 112 841 271 280 107 4 113 
+player 428 draws a 125 from deck 428
+player 428 discards a 412 to deck 429
+player 428 current hand : 375 27 866 177 977 834 221 556 280 478 568 632 112 841 271 280 107 4 113 125 
+player 428 draws a 229 from deck 428
+player 428 discards a 375 to deck 429
+player 428 current hand : 27 866 177 977 834 221 556 280 478 568 632 112 841 271 280 107 4 113 125 229 
+player 428 draws a 453 from deck 428
+player 428 discards a 27 to deck 429
+player 428 current hand : 866 177 977 834 221 556 280 478 568 632 112 841 271 280 107 4 113 125 229 453 
+player 428 draws a 670 from deck 428
+player 428 discards a 866 to deck 429
+player 428 current hand : 177 977 834 221 556 280 478 568 632 112 841 271 280 107 4 113 125 229 453 670 
+player 428 draws a 320 from deck 428
+player 428 discards a 177 to deck 429
+player 428 current hand : 977 834 221 556 280 478 568 632 112 841 271 280 107 4 113 125 229 453 670 320 
+player 428 draws a 417 from deck 428
+player 428 discards a 977 to deck 429
+player 428 current hand : 834 221 556 280 478 568 632 112 841 271 280 107 4 113 125 229 453 670 320 417 
+player 428 draws a 210 from deck 428
+player 428 discards a 834 to deck 429
+player 428 current hand : 221 556 280 478 568 632 112 841 271 280 107 4 113 125 229 453 670 320 417 210 
+player 428 draws a 309 from deck 428
+player 428 discards a 221 to deck 429
+player 428 current hand : 556 280 478 568 632 112 841 271 280 107 4 113 125 229 453 670 320 417 210 309 
+player 428 draws a 565 from deck 428
+player 428 discards a 556 to deck 429
+player 428 current hand : 280 478 568 632 112 841 271 280 107 4 113 125 229 453 670 320 417 210 309 565 
+player 428 draws a 496 from deck 428
+player 428 discards a 280 to deck 429
+player 428 current hand : 478 568 632 112 841 271 280 107 4 113 125 229 453 670 320 417 210 309 565 496 
+player 428 draws a 552 from deck 428
+player 428 discards a 478 to deck 429
+player 428 current hand : 568 632 112 841 271 280 107 4 113 125 229 453 670 320 417 210 309 565 496 552 
+player 428 draws a 50 from deck 428
+player 428 discards a 568 to deck 429
+player 428 current hand : 632 112 841 271 280 107 4 113 125 229 453 670 320 417 210 309 565 496 552 50 
+player 428 draws a 160 from deck 428
+player 428 discards a 632 to deck 429
+player 428 current hand : 112 841 271 280 107 4 113 125 229 453 670 320 417 210 309 565 496 552 50 160 
+player 428 draws a 127 from deck 428
+player 428 discards a 112 to deck 429
+player 428 current hand : 841 271 280 107 4 113 125 229 453 670 320 417 210 309 565 496 552 50 160 127 
+player 428 draws a 112 from deck 428
+player 428 discards a 841 to deck 429
+player 428 current hand : 271 280 107 4 113 125 229 453 670 320 417 210 309 565 496 552 50 160 127 112 
+player 428 draws a 69 from deck 428
+player 428 discards a 271 to deck 429
+player 428 current hand : 280 107 4 113 125 229 453 670 320 417 210 309 565 496 552 50 160 127 112 69 
+player 428 draws a 204 from deck 428
+player 428 discards a 280 to deck 429
+player 428 current hand : 107 4 113 125 229 453 670 320 417 210 309 565 496 552 50 160 127 112 69 204 
+player 428 draws a 589 from deck 428
+player 428 discards a 107 to deck 429
+player 428 current hand : 4 113 125 229 453 670 320 417 210 309 565 496 552 50 160 127 112 69 204 589 
+player 428 draws a 134 from deck 428
+player 428 discards a 4 to deck 429
+player 428 current hand : 113 125 229 453 670 320 417 210 309 565 496 552 50 160 127 112 69 204 589 134 
+player 428 draws a 751 from deck 428
+player 428 discards a 113 to deck 429
+player 428 current hand : 125 229 453 670 320 417 210 309 565 496 552 50 160 127 112 69 204 589 134 751 
+player 428 draws a 163 from deck 428
+player 428 discards a 125 to deck 429
+player 428 current hand : 229 453 670 320 417 210 309 565 496 552 50 160 127 112 69 204 589 134 751 163 
+player 428 draws a 919 from deck 428
+player 428 discards a 229 to deck 429
+player 428 current hand : 453 670 320 417 210 309 565 496 552 50 160 127 112 69 204 589 134 751 163 919 
+player 428 draws a 921 from deck 428
+player 428 discards a 453 to deck 429
+player 428 current hand : 670 320 417 210 309 565 496 552 50 160 127 112 69 204 589 134 751 163 919 921 
+player 428 draws a 285 from deck 428
+player 428 discards a 670 to deck 429
+player 428 current hand : 320 417 210 309 565 496 552 50 160 127 112 69 204 589 134 751 163 919 921 285 
+player 428 draws a 918 from deck 428
+player 428 discards a 320 to deck 429
+player 428 current hand : 417 210 309 565 496 552 50 160 127 112 69 204 589 134 751 163 919 921 285 918 
+player 428 draws a 105 from deck 428
+player 428 discards a 417 to deck 429
+player 428 current hand : 210 309 565 496 552 50 160 127 112 69 204 589 134 751 163 919 921 285 918 105 
+player 428 draws a 808 from deck 428
+player 428 discards a 210 to deck 429
+player 428 current hand : 309 565 496 552 50 160 127 112 69 204 589 134 751 163 919 921 285 918 105 808 
+player 428 draws a 691 from deck 428
+player 428 discards a 309 to deck 429
+player 428 current hand : 565 496 552 50 160 127 112 69 204 589 134 751 163 919 921 285 918 105 808 691 
+player 428 draws a 114 from deck 428
+player 428 discards a 565 to deck 429
+player 428 current hand : 496 552 50 160 127 112 69 204 589 134 751 163 919 921 285 918 105 808 691 114 
+player 428 draws a 770 from deck 428
+player 428 discards a 496 to deck 429
+player 428 current hand : 552 50 160 127 112 69 204 589 134 751 163 919 921 285 918 105 808 691 114 770 
+player 428 draws a 717 from deck 428
+player 428 discards a 552 to deck 429
+player 428 current hand : 50 160 127 112 69 204 589 134 751 163 919 921 285 918 105 808 691 114 770 717 
+player 428 draws a 976 from deck 428
+player 428 discards a 50 to deck 429
+player 428 current hand : 160 127 112 69 204 589 134 751 163 919 921 285 918 105 808 691 114 770 717 976 
+player 428 draws a 867 from deck 428
+player 428 discards a 160 to deck 429
+player 428 current hand : 127 112 69 204 589 134 751 163 919 921 285 918 105 808 691 114 770 717 976 867 
+player 428 draws a 576 from deck 428
+player 428 discards a 127 to deck 429
+player 428 current hand : 112 69 204 589 134 751 163 919 921 285 918 105 808 691 114 770 717 976 867 576 
+player 428 draws a 28 from deck 428
+player 428 discards a 112 to deck 429
+player 428 current hand : 69 204 589 134 751 163 919 921 285 918 105 808 691 114 770 717 976 867 576 28 
+player 428 draws a 290 from deck 428
+player 428 discards a 69 to deck 429
+player 428 current hand : 204 589 134 751 163 919 921 285 918 105 808 691 114 770 717 976 867 576 28 290 
+player 428 draws a 944 from deck 428
+player 428 discards a 204 to deck 429
+player 428 current hand : 589 134 751 163 919 921 285 918 105 808 691 114 770 717 976 867 576 28 290 944 
+player 428 draws a 771 from deck 428
+player 428 discards a 589 to deck 429
+player 428 current hand : 134 751 163 919 921 285 918 105 808 691 114 770 717 976 867 576 28 290 944 771 
+player 428 draws a 215 from deck 428
+player 428 discards a 134 to deck 429
+player 428 current hand : 751 163 919 921 285 918 105 808 691 114 770 717 976 867 576 28 290 944 771 215 
+player 428 draws a 775 from deck 428
+player 428 discards a 751 to deck 429
+player 428 current hand : 163 919 921 285 918 105 808 691 114 770 717 976 867 576 28 290 944 771 215 775 
+player 428 draws a 373 from deck 428
+player 428 discards a 163 to deck 429
+player 428 current hand : 919 921 285 918 105 808 691 114 770 717 976 867 576 28 290 944 771 215 775 373 
+player 428 draws a 168 from deck 428
+player 428 discards a 919 to deck 429
+player 428 current hand : 921 285 918 105 808 691 114 770 717 976 867 576 28 290 944 771 215 775 373 168 
+player 428 draws a 773 from deck 428
+player 428 discards a 921 to deck 429
+player 428 current hand : 285 918 105 808 691 114 770 717 976 867 576 28 290 944 771 215 775 373 168 773 
+player 428 draws a 456 from deck 428
+player 428 discards a 285 to deck 429
+player 428 current hand : 918 105 808 691 114 770 717 976 867 576 28 290 944 771 215 775 373 168 773 456 
+player 428 draws a 734 from deck 428
+player 428 discards a 918 to deck 429
+player 428 current hand : 105 808 691 114 770 717 976 867 576 28 290 944 771 215 775 373 168 773 456 734 
+player 428 draws a 444 from deck 428
+player 428 discards a 105 to deck 429
+player 428 current hand : 808 691 114 770 717 976 867 576 28 290 944 771 215 775 373 168 773 456 734 444 
+player 428 draws a 655 from deck 428
+player 428 discards a 808 to deck 429

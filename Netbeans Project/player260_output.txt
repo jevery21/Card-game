@@ -1,0 +1,310 @@
+player 260 initial hand 339 918 326 829 291 561 496 794 196 117 700 135 944 965 464 941 845 655 13 712 
+player 260 draws a 194 from deck 260
+player 260 discards a 339 to deck 261
+player 260 current hand : 918 326 829 291 561 496 794 196 117 700 135 944 965 464 941 845 655 13 712 194 
+player 260 draws a 284 from deck 260
+player 260 discards a 918 to deck 261
+player 260 current hand : 326 829 291 561 496 794 196 117 700 135 944 965 464 941 845 655 13 712 194 284 
+player 260 draws a 834 from deck 260
+player 260 discards a 326 to deck 261
+player 260 current hand : 829 291 561 496 794 196 117 700 135 944 965 464 941 845 655 13 712 194 284 834 
+player 260 draws a 765 from deck 260
+player 260 discards a 829 to deck 261
+player 260 current hand : 291 561 496 794 196 117 700 135 944 965 464 941 845 655 13 712 194 284 834 765 
+player 260 draws a 228 from deck 260
+player 260 discards a 291 to deck 261
+player 260 current hand : 561 496 794 196 117 700 135 944 965 464 941 845 655 13 712 194 284 834 765 228 
+player 260 draws a 426 from deck 260
+player 260 discards a 561 to deck 261
+player 260 current hand : 496 794 196 117 700 135 944 965 464 941 845 655 13 712 194 284 834 765 228 426 
+player 260 draws a 499 from deck 260
+player 260 discards a 496 to deck 261
+player 260 current hand : 794 196 117 700 135 944 965 464 941 845 655 13 712 194 284 834 765 228 426 499 
+player 260 draws a 768 from deck 260
+player 260 discards a 794 to deck 261
+player 260 current hand : 196 117 700 135 944 965 464 941 845 655 13 712 194 284 834 765 228 426 499 768 
+player 260 draws a 458 from deck 260
+player 260 discards a 196 to deck 261
+player 260 current hand : 117 700 135 944 965 464 941 845 655 13 712 194 284 834 765 228 426 499 768 458 
+player 260 draws a 767 from deck 260
+player 260 discards a 117 to deck 261
+player 260 current hand : 700 135 944 965 464 941 845 655 13 712 194 284 834 765 228 426 499 768 458 767 
+player 260 draws a 562 from deck 260
+player 260 discards a 700 to deck 261
+player 260 current hand : 135 944 965 464 941 845 655 13 712 194 284 834 765 228 426 499 768 458 767 562 
+player 260 draws a 853 from deck 260
+player 260 discards a 135 to deck 261
+player 260 current hand : 944 965 464 941 845 655 13 712 194 284 834 765 228 426 499 768 458 767 562 853 
+player 260 draws a 291 from deck 260
+player 260 discards a 944 to deck 261
+player 260 current hand : 965 464 941 845 655 13 712 194 284 834 765 228 426 499 768 458 767 562 853 291 
+player 260 draws a 701 from deck 260
+player 260 discards a 965 to deck 261
+player 260 current hand : 464 941 845 655 13 712 194 284 834 765 228 426 499 768 458 767 562 853 291 701 
+player 260 draws a 874 from deck 260
+player 260 discards a 464 to deck 261
+player 260 current hand : 941 845 655 13 712 194 284 834 765 228 426 499 768 458 767 562 853 291 701 874 
+player 260 draws a 25 from deck 260
+player 260 discards a 941 to deck 261
+player 260 current hand : 845 655 13 712 194 284 834 765 228 426 499 768 458 767 562 853 291 701 874 25 
+player 260 draws a 882 from deck 260
+player 260 discards a 845 to deck 261
+player 260 current hand : 655 13 712 194 284 834 765 228 426 499 768 458 767 562 853 291 701 874 25 882 
+player 260 draws a 142 from deck 260
+player 260 discards a 655 to deck 261
+player 260 current hand : 13 712 194 284 834 765 228 426 499 768 458 767 562 853 291 701 874 25 882 142 
+player 260 draws a 965 from deck 260
+player 260 discards a 13 to deck 261
+player 260 current hand : 712 194 284 834 765 228 426 499 768 458 767 562 853 291 701 874 25 882 142 965 
+player 260 draws a 446 from deck 260
+player 260 discards a 712 to deck 261
+player 260 current hand : 194 284 834 765 228 426 499 768 458 767 562 853 291 701 874 25 882 142 965 446 
+player 260 draws a 399 from deck 260
+player 260 discards a 194 to deck 261
+player 260 current hand : 284 834 765 228 426 499 768 458 767 562 853 291 701 874 25 882 142 965 446 399 
+player 260 draws a 452 from deck 260
+player 260 discards a 284 to deck 261
+player 260 current hand : 834 765 228 426 499 768 458 767 562 853 291 701 874 25 882 142 965 446 399 452 
+player 260 draws a 478 from deck 260
+player 260 discards a 834 to deck 261
+player 260 current hand : 765 228 426 499 768 458 767 562 853 291 701 874 25 882 142 965 446 399 452 478 
+player 260 draws a 71 from deck 260
+player 260 discards a 765 to deck 261
+player 260 current hand : 228 426 499 768 458 767 562 853 291 701 874 25 882 142 965 446 399 452 478 71 
+player 260 draws a 595 from deck 260
+player 260 discards a 228 to deck 261
+player 260 current hand : 426 499 768 458 767 562 853 291 701 874 25 882 142 965 446 399 452 478 71 595 
+player 260 draws a 819 from deck 260
+player 260 discards a 426 to deck 261
+player 260 current hand : 499 768 458 767 562 853 291 701 874 25 882 142 965 446 399 452 478 71 595 819 
+player 260 draws a 753 from deck 260
+player 260 discards a 499 to deck 261
+player 260 current hand : 768 458 767 562 853 291 701 874 25 882 142 965 446 399 452 478 71 595 819 753 
+player 260 draws a 476 from deck 260
+player 260 discards a 768 to deck 261
+player 260 current hand : 458 767 562 853 291 701 874 25 882 142 965 446 399 452 478 71 595 819 753 476 
+player 260 draws a 579 from deck 260
+player 260 discards a 458 to deck 261
+player 260 current hand : 767 562 853 291 701 874 25 882 142 965 446 399 452 478 71 595 819 753 476 579 
+player 260 draws a 182 from deck 260
+player 260 discards a 767 to deck 261
+player 260 current hand : 562 853 291 701 874 25 882 142 965 446 399 452 478 71 595 819 753 476 579 182 
+player 260 draws a 888 from deck 260
+player 260 discards a 562 to deck 261
+player 260 current hand : 853 291 701 874 25 882 142 965 446 399 452 478 71 595 819 753 476 579 182 888 
+player 260 draws a 65 from deck 260
+player 260 discards a 853 to deck 261
+player 260 current hand : 291 701 874 25 882 142 965 446 399 452 478 71 595 819 753 476 579 182 888 65 
+player 260 draws a 487 from deck 260
+player 260 discards a 291 to deck 261
+player 260 current hand : 701 874 25 882 142 965 446 399 452 478 71 595 819 753 476 579 182 888 65 487 
+player 260 draws a 83 from deck 260
+player 260 discards a 701 to deck 261
+player 260 current hand : 874 25 882 142 965 446 399 452 478 71 595 819 753 476 579 182 888 65 487 83 
+player 260 draws a 792 from deck 260
+player 260 discards a 874 to deck 261
+player 260 current hand : 25 882 142 965 446 399 452 478 71 595 819 753 476 579 182 888 65 487 83 792 
+player 260 draws a 488 from deck 260
+player 260 discards a 25 to deck 261
+player 260 current hand : 882 142 965 446 399 452 478 71 595 819 753 476 579 182 888 65 487 83 792 488 
+player 260 draws a 754 from deck 260
+player 260 discards a 882 to deck 261
+player 260 current hand : 142 965 446 399 452 478 71 595 819 753 476 579 182 888 65 487 83 792 488 754 
+player 260 draws a 842 from deck 260
+player 260 discards a 142 to deck 261
+player 260 current hand : 965 446 399 452 478 71 595 819 753 476 579 182 888 65 487 83 792 488 754 842 
+player 260 draws a 328 from deck 260
+player 260 discards a 965 to deck 261
+player 260 current hand : 446 399 452 478 71 595 819 753 476 579 182 888 65 487 83 792 488 754 842 328 
+player 260 draws a 827 from deck 260
+player 260 discards a 446 to deck 261
+player 260 current hand : 399 452 478 71 595 819 753 476 579 182 888 65 487 83 792 488 754 842 328 827 
+player 260 draws a 301 from deck 260
+player 260 discards a 399 to deck 261
+player 260 current hand : 452 478 71 595 819 753 476 579 182 888 65 487 83 792 488 754 842 328 827 301 
+player 260 draws a 314 from deck 260
+player 260 discards a 452 to deck 261
+player 260 current hand : 478 71 595 819 753 476 579 182 888 65 487 83 792 488 754 842 328 827 301 314 
+player 260 draws a 150 from deck 260
+player 260 discards a 478 to deck 261
+player 260 current hand : 71 595 819 753 476 579 182 888 65 487 83 792 488 754 842 328 827 301 314 150 
+player 260 draws a 234 from deck 260
+player 260 discards a 71 to deck 261
+player 260 current hand : 595 819 753 476 579 182 888 65 487 83 792 488 754 842 328 827 301 314 150 234 
+player 260 draws a 485 from deck 260
+player 260 discards a 595 to deck 261
+player 260 current hand : 819 753 476 579 182 888 65 487 83 792 488 754 842 328 827 301 314 150 234 485 
+player 260 draws a 370 from deck 260
+player 260 discards a 819 to deck 261
+player 260 current hand : 753 476 579 182 888 65 487 83 792 488 754 842 328 827 301 314 150 234 485 370 
+player 260 draws a 4 from deck 260
+player 260 discards a 753 to deck 261
+player 260 current hand : 476 579 182 888 65 487 83 792 488 754 842 328 827 301 314 150 234 485 370 4 
+player 260 draws a 511 from deck 260
+player 260 discards a 476 to deck 261
+player 260 current hand : 579 182 888 65 487 83 792 488 754 842 328 827 301 314 150 234 485 370 4 511 
+player 260 draws a 159 from deck 260
+player 260 discards a 579 to deck 261
+player 260 current hand : 182 888 65 487 83 792 488 754 842 328 827 301 314 150 234 485 370 4 511 159 
+player 260 draws a 265 from deck 260
+player 260 discards a 182 to deck 261
+player 260 current hand : 888 65 487 83 792 488 754 842 328 827 301 314 150 234 485 370 4 511 159 265 
+player 260 draws a 729 from deck 260
+player 260 discards a 888 to deck 261
+player 260 current hand : 65 487 83 792 488 754 842 328 827 301 314 150 234 485 370 4 511 159 265 729 
+player 260 draws a 535 from deck 260
+player 260 discards a 65 to deck 261
+player 260 current hand : 487 83 792 488 754 842 328 827 301 314 150 234 485 370 4 511 159 265 729 535 
+player 260 draws a 507 from deck 260
+player 260 discards a 487 to deck 261
+player 260 current hand : 83 792 488 754 842 328 827 301 314 150 234 485 370 4 511 159 265 729 535 507 
+player 260 draws a 778 from deck 260
+player 260 discards a 83 to deck 261
+player 260 current hand : 792 488 754 842 328 827 301 314 150 234 485 370 4 511 159 265 729 535 507 778 
+player 260 draws a 899 from deck 260
+player 260 discards a 792 to deck 261
+player 260 current hand : 488 754 842 328 827 301 314 150 234 485 370 4 511 159 265 729 535 507 778 899 
+player 260 draws a 822 from deck 260
+player 260 discards a 488 to deck 261
+player 260 current hand : 754 842 328 827 301 314 150 234 485 370 4 511 159 265 729 535 507 778 899 822 
+player 260 draws a 827 from deck 260
+player 260 discards a 754 to deck 261
+player 260 current hand : 842 328 827 301 314 150 234 485 370 4 511 159 265 729 535 507 778 899 822 827 
+player 260 draws a 614 from deck 260
+player 260 discards a 842 to deck 261
+player 260 current hand : 328 827 301 314 150 234 485 370 4 511 159 265 729 535 507 778 899 822 827 614 
+player 260 draws a 343 from deck 260
+player 260 discards a 328 to deck 261
+player 260 current hand : 827 301 314 150 234 485 370 4 511 159 265 729 535 507 778 899 822 827 614 343 
+player 260 draws a 285 from deck 260
+player 260 discards a 827 to deck 261
+player 260 current hand : 301 314 150 234 485 370 4 511 159 265 729 535 507 778 899 822 827 614 343 285 
+player 260 draws a 44 from deck 260
+player 260 discards a 301 to deck 261
+player 260 current hand : 314 150 234 485 370 4 511 159 265 729 535 507 778 899 822 827 614 343 285 44 
+player 260 draws a 320 from deck 260
+player 260 discards a 314 to deck 261
+player 260 current hand : 150 234 485 370 4 511 159 265 729 535 507 778 899 822 827 614 343 285 44 320 
+player 260 draws a 875 from deck 260
+player 260 discards a 150 to deck 261
+player 260 current hand : 234 485 370 4 511 159 265 729 535 507 778 899 822 827 614 343 285 44 320 875 
+player 260 draws a 919 from deck 260
+player 260 discards a 234 to deck 261
+player 260 current hand : 485 370 4 511 159 265 729 535 507 778 899 822 827 614 343 285 44 320 875 919 
+player 260 draws a 907 from deck 260
+player 260 discards a 485 to deck 261
+player 260 current hand : 370 4 511 159 265 729 535 507 778 899 822 827 614 343 285 44 320 875 919 907 
+player 260 draws a 816 from deck 260
+player 260 discards a 370 to deck 261
+player 260 current hand : 4 511 159 265 729 535 507 778 899 822 827 614 343 285 44 320 875 919 907 816 
+player 260 draws a 805 from deck 260
+player 260 discards a 4 to deck 261
+player 260 current hand : 511 159 265 729 535 507 778 899 822 827 614 343 285 44 320 875 919 907 816 805 
+player 260 draws a 386 from deck 260
+player 260 discards a 511 to deck 261
+player 260 current hand : 159 265 729 535 507 778 899 822 827 614 343 285 44 320 875 919 907 816 805 386 
+player 260 draws a 296 from deck 260
+player 260 discards a 159 to deck 261
+player 260 current hand : 265 729 535 507 778 899 822 827 614 343 285 44 320 875 919 907 816 805 386 296 
+player 260 draws a 133 from deck 260
+player 260 discards a 265 to deck 261
+player 260 current hand : 729 535 507 778 899 822 827 614 343 285 44 320 875 919 907 816 805 386 296 133 
+player 260 draws a 18 from deck 260
+player 260 discards a 729 to deck 261
+player 260 current hand : 535 507 778 899 822 827 614 343 285 44 320 875 919 907 816 805 386 296 133 18 
+player 260 draws a 847 from deck 260
+player 260 discards a 535 to deck 261
+player 260 current hand : 507 778 899 822 827 614 343 285 44 320 875 919 907 816 805 386 296 133 18 847 
+player 260 draws a 721 from deck 260
+player 260 discards a 507 to deck 261
+player 260 current hand : 778 899 822 827 614 343 285 44 320 875 919 907 816 805 386 296 133 18 847 721 
+player 260 draws a 235 from deck 260
+player 260 discards a 778 to deck 261
+player 260 current hand : 899 822 827 614 343 285 44 320 875 919 907 816 805 386 296 133 18 847 721 235 
+player 260 draws a 219 from deck 260
+player 260 discards a 899 to deck 261
+player 260 current hand : 822 827 614 343 285 44 320 875 919 907 816 805 386 296 133 18 847 721 235 219 
+player 260 draws a 839 from deck 260
+player 260 discards a 822 to deck 261
+player 260 current hand : 827 614 343 285 44 320 875 919 907 816 805 386 296 133 18 847 721 235 219 839 
+player 260 draws a 947 from deck 260
+player 260 discards a 827 to deck 261
+player 260 current hand : 614 343 285 44 320 875 919 907 816 805 386 296 133 18 847 721 235 219 839 947 
+player 260 draws a 571 from deck 260
+player 260 discards a 614 to deck 261
+player 260 current hand : 343 285 44 320 875 919 907 816 805 386 296 133 18 847 721 235 219 839 947 571 
+player 260 draws a 822 from deck 260
+player 260 discards a 343 to deck 261
+player 260 current hand : 285 44 320 875 919 907 816 805 386 296 133 18 847 721 235 219 839 947 571 822 
+player 260 draws a 111 from deck 260
+player 260 discards a 285 to deck 261
+player 260 current hand : 44 320 875 919 907 816 805 386 296 133 18 847 721 235 219 839 947 571 822 111 
+player 260 draws a 73 from deck 260
+player 260 discards a 44 to deck 261
+player 260 current hand : 320 875 919 907 816 805 386 296 133 18 847 721 235 219 839 947 571 822 111 73 
+player 260 draws a 92 from deck 260
+player 260 discards a 320 to deck 261
+player 260 current hand : 875 919 907 816 805 386 296 133 18 847 721 235 219 839 947 571 822 111 73 92 
+player 260 draws a 773 from deck 260
+player 260 discards a 875 to deck 261
+player 260 current hand : 919 907 816 805 386 296 133 18 847 721 235 219 839 947 571 822 111 73 92 773 
+player 260 draws a 518 from deck 260
+player 260 discards a 919 to deck 261
+player 260 current hand : 907 816 805 386 296 133 18 847 721 235 219 839 947 571 822 111 73 92 773 518 
+player 260 draws a 996 from deck 260
+player 260 discards a 907 to deck 261
+player 260 current hand : 816 805 386 296 133 18 847 721 235 219 839 947 571 822 111 73 92 773 518 996 
+player 260 draws a 802 from deck 260
+player 260 discards a 816 to deck 261
+player 260 current hand : 805 386 296 133 18 847 721 235 219 839 947 571 822 111 73 92 773 518 996 802 
+player 260 draws a 426 from deck 260
+player 260 discards a 805 to deck 261
+player 260 current hand : 386 296 133 18 847 721 235 219 839 947 571 822 111 73 92 773 518 996 802 426 
+player 260 draws a 348 from deck 260
+player 260 discards a 386 to deck 261
+player 260 current hand : 296 133 18 847 721 235 219 839 947 571 822 111 73 92 773 518 996 802 426 348 
+player 260 draws a 717 from deck 260
+player 260 discards a 296 to deck 261
+player 260 current hand : 133 18 847 721 235 219 839 947 571 822 111 73 92 773 518 996 802 426 348 717 
+player 260 draws a 814 from deck 260
+player 260 discards a 133 to deck 261
+player 260 current hand : 18 847 721 235 219 839 947 571 822 111 73 92 773 518 996 802 426 348 717 814 
+player 260 draws a 853 from deck 260
+player 260 discards a 18 to deck 261
+player 260 current hand : 847 721 235 219 839 947 571 822 111 73 92 773 518 996 802 426 348 717 814 853 
+player 260 draws a 320 from deck 260
+player 260 discards a 847 to deck 261
+player 260 current hand : 721 235 219 839 947 571 822 111 73 92 773 518 996 802 426 348 717 814 853 320 
+player 260 draws a 120 from deck 260
+player 260 discards a 721 to deck 261
+player 260 current hand : 235 219 839 947 571 822 111 73 92 773 518 996 802 426 348 717 814 853 320 120 
+player 260 draws a 769 from deck 260
+player 260 discards a 235 to deck 261
+player 260 current hand : 219 839 947 571 822 111 73 92 773 518 996 802 426 348 717 814 853 320 120 769 
+player 260 draws a 681 from deck 260
+player 260 discards a 219 to deck 261
+player 260 current hand : 839 947 571 822 111 73 92 773 518 996 802 426 348 717 814 853 320 120 769 681 
+player 260 draws a 447 from deck 260
+player 260 discards a 839 to deck 261
+player 260 current hand : 947 571 822 111 73 92 773 518 996 802 426 348 717 814 853 320 120 769 681 447 
+player 260 draws a 540 from deck 260
+player 260 discards a 947 to deck 261
+player 260 current hand : 571 822 111 73 92 773 518 996 802 426 348 717 814 853 320 120 769 681 447 540 
+player 260 draws a 196 from deck 260
+player 260 discards a 571 to deck 261
+player 260 current hand : 822 111 73 92 773 518 996 802 426 348 717 814 853 320 120 769 681 447 540 196 
+player 260 draws a 473 from deck 260
+player 260 discards a 822 to deck 261
+player 260 current hand : 111 73 92 773 518 996 802 426 348 717 814 853 320 120 769 681 447 540 196 473 
+player 260 draws a 821 from deck 260
+player 260 discards a 111 to deck 261
+player 260 current hand : 73 92 773 518 996 802 426 348 717 814 853 320 120 769 681 447 540 196 473 821 
+player 260 draws a 31 from deck 260
+player 260 discards a 73 to deck 261
+player 260 current hand : 92 773 518 996 802 426 348 717 814 853 320 120 769 681 447 540 196 473 821 31 
+player 260 draws a 694 from deck 260
+player 260 discards a 92 to deck 261
+player 260 current hand : 773 518 996 802 426 348 717 814 853 320 120 769 681 447 540 196 473 821 31 694 
+player 260 draws a 593 from deck 260
+player 260 discards a 773 to deck 261
+player 260 current hand : 518 996 802 426 348 717 814 853 320 120 769 681 447 540 196 473 821 31 694 593 

@@ -1,0 +1,305 @@
+player 823 initial hand 838 319 600 93 631 699 535 133 738 626 983 649 685 182 105 363 853 27 584 604 
+player 823 draws a 200 from deck 823
+player 823 discards a 838 to deck 824
+player 823 current hand : 319 600 93 631 699 535 133 738 626 983 649 685 182 105 363 853 27 584 604 200 
+player 823 draws a 45 from deck 823
+player 823 discards a 319 to deck 824
+player 823 current hand : 600 93 631 699 535 133 738 626 983 649 685 182 105 363 853 27 584 604 200 45 
+player 823 draws a 844 from deck 823
+player 823 discards a 600 to deck 824
+player 823 current hand : 93 631 699 535 133 738 626 983 649 685 182 105 363 853 27 584 604 200 45 844 
+player 823 draws a 163 from deck 823
+player 823 discards a 93 to deck 824
+player 823 current hand : 631 699 535 133 738 626 983 649 685 182 105 363 853 27 584 604 200 45 844 163 
+player 823 draws a 102 from deck 823
+player 823 discards a 631 to deck 824
+player 823 current hand : 699 535 133 738 626 983 649 685 182 105 363 853 27 584 604 200 45 844 163 102 
+player 823 draws a 488 from deck 823
+player 823 discards a 699 to deck 824
+player 823 current hand : 535 133 738 626 983 649 685 182 105 363 853 27 584 604 200 45 844 163 102 488 
+player 823 draws a 438 from deck 823
+player 823 discards a 535 to deck 824
+player 823 current hand : 133 738 626 983 649 685 182 105 363 853 27 584 604 200 45 844 163 102 488 438 
+player 823 draws a 170 from deck 823
+player 823 discards a 133 to deck 824
+player 823 current hand : 738 626 983 649 685 182 105 363 853 27 584 604 200 45 844 163 102 488 438 170 
+player 823 draws a 620 from deck 823
+player 823 discards a 738 to deck 824
+player 823 current hand : 626 983 649 685 182 105 363 853 27 584 604 200 45 844 163 102 488 438 170 620 
+player 823 draws a 93 from deck 823
+player 823 discards a 626 to deck 824
+player 823 current hand : 983 649 685 182 105 363 853 27 584 604 200 45 844 163 102 488 438 170 620 93 
+player 823 draws a 244 from deck 823
+player 823 discards a 983 to deck 824
+player 823 current hand : 649 685 182 105 363 853 27 584 604 200 45 844 163 102 488 438 170 620 93 244 
+player 823 draws a 62 from deck 823
+player 823 discards a 649 to deck 824
+player 823 current hand : 685 182 105 363 853 27 584 604 200 45 844 163 102 488 438 170 620 93 244 62 
+player 823 draws a 820 from deck 823
+player 823 discards a 685 to deck 824
+player 823 current hand : 182 105 363 853 27 584 604 200 45 844 163 102 488 438 170 620 93 244 62 820 
+player 823 draws a 900 from deck 823
+player 823 discards a 182 to deck 824
+player 823 current hand : 105 363 853 27 584 604 200 45 844 163 102 488 438 170 620 93 244 62 820 900 
+player 823 draws a 767 from deck 823
+player 823 discards a 105 to deck 824
+player 823 current hand : 363 853 27 584 604 200 45 844 163 102 488 438 170 620 93 244 62 820 900 767 
+player 823 draws a 173 from deck 823
+player 823 discards a 363 to deck 824
+player 823 current hand : 853 27 584 604 200 45 844 163 102 488 438 170 620 93 244 62 820 900 767 173 
+player 823 draws a 247 from deck 823
+player 823 discards a 853 to deck 824
+player 823 current hand : 27 584 604 200 45 844 163 102 488 438 170 620 93 244 62 820 900 767 173 247 
+player 823 draws a 363 from deck 823
+player 823 discards a 27 to deck 824
+player 823 current hand : 584 604 200 45 844 163 102 488 438 170 620 93 244 62 820 900 767 173 247 363 
+player 823 draws a 754 from deck 823
+player 823 discards a 584 to deck 824
+player 823 current hand : 604 200 45 844 163 102 488 438 170 620 93 244 62 820 900 767 173 247 363 754 
+player 823 draws a 836 from deck 823
+player 823 discards a 604 to deck 824
+player 823 current hand : 200 45 844 163 102 488 438 170 620 93 244 62 820 900 767 173 247 363 754 836 
+player 823 draws a 252 from deck 823
+player 823 discards a 200 to deck 824
+player 823 current hand : 45 844 163 102 488 438 170 620 93 244 62 820 900 767 173 247 363 754 836 252 
+player 823 draws a 919 from deck 823
+player 823 discards a 45 to deck 824
+player 823 current hand : 844 163 102 488 438 170 620 93 244 62 820 900 767 173 247 363 754 836 252 919 
+player 823 draws a 718 from deck 823
+player 823 discards a 844 to deck 824
+player 823 current hand : 163 102 488 438 170 620 93 244 62 820 900 767 173 247 363 754 836 252 919 718 
+player 823 draws a 499 from deck 823
+player 823 discards a 163 to deck 824
+player 823 current hand : 102 488 438 170 620 93 244 62 820 900 767 173 247 363 754 836 252 919 718 499 
+player 823 draws a 737 from deck 823
+player 823 discards a 102 to deck 824
+player 823 current hand : 488 438 170 620 93 244 62 820 900 767 173 247 363 754 836 252 919 718 499 737 
+player 823 draws a 378 from deck 823
+player 823 discards a 488 to deck 824
+player 823 current hand : 438 170 620 93 244 62 820 900 767 173 247 363 754 836 252 919 718 499 737 378 
+player 823 draws a 45 from deck 823
+player 823 discards a 438 to deck 824
+player 823 current hand : 170 620 93 244 62 820 900 767 173 247 363 754 836 252 919 718 499 737 378 45 
+player 823 draws a 320 from deck 823
+player 823 discards a 170 to deck 824
+player 823 current hand : 620 93 244 62 820 900 767 173 247 363 754 836 252 919 718 499 737 378 45 320 
+player 823 draws a 81 from deck 823
+player 823 discards a 620 to deck 824
+player 823 current hand : 93 244 62 820 900 767 173 247 363 754 836 252 919 718 499 737 378 45 320 81 
+player 823 draws a 714 from deck 823
+player 823 discards a 93 to deck 824
+player 823 current hand : 244 62 820 900 767 173 247 363 754 836 252 919 718 499 737 378 45 320 81 714 
+player 823 draws a 163 from deck 823
+player 823 discards a 244 to deck 824
+player 823 current hand : 62 820 900 767 173 247 363 754 836 252 919 718 499 737 378 45 320 81 714 163 
+player 823 draws a 197 from deck 823
+player 823 discards a 62 to deck 824
+player 823 current hand : 820 900 767 173 247 363 754 836 252 919 718 499 737 378 45 320 81 714 163 197 
+player 823 draws a 577 from deck 823
+player 823 discards a 820 to deck 824
+player 823 current hand : 900 767 173 247 363 754 836 252 919 718 499 737 378 45 320 81 714 163 197 577 
+player 823 draws a 946 from deck 823
+player 823 discards a 900 to deck 824
+player 823 current hand : 767 173 247 363 754 836 252 919 718 499 737 378 45 320 81 714 163 197 577 946 
+player 823 draws a 922 from deck 823
+player 823 discards a 767 to deck 824
+player 823 current hand : 173 247 363 754 836 252 919 718 499 737 378 45 320 81 714 163 197 577 946 922 
+player 823 draws a 554 from deck 823
+player 823 discards a 173 to deck 824
+player 823 current hand : 247 363 754 836 252 919 718 499 737 378 45 320 81 714 163 197 577 946 922 554 
+player 823 draws a 409 from deck 823
+player 823 discards a 247 to deck 824
+player 823 current hand : 363 754 836 252 919 718 499 737 378 45 320 81 714 163 197 577 946 922 554 409 
+player 823 draws a 261 from deck 823
+player 823 discards a 363 to deck 824
+player 823 current hand : 754 836 252 919 718 499 737 378 45 320 81 714 163 197 577 946 922 554 409 261 
+player 823 draws a 662 from deck 823
+player 823 discards a 754 to deck 824
+player 823 current hand : 836 252 919 718 499 737 378 45 320 81 714 163 197 577 946 922 554 409 261 662 
+player 823 draws a 994 from deck 823
+player 823 discards a 836 to deck 824
+player 823 current hand : 252 919 718 499 737 378 45 320 81 714 163 197 577 946 922 554 409 261 662 994 
+player 823 draws a 897 from deck 823
+player 823 discards a 252 to deck 824
+player 823 current hand : 919 718 499 737 378 45 320 81 714 163 197 577 946 922 554 409 261 662 994 897 
+player 823 draws a 256 from deck 823
+player 823 discards a 919 to deck 824
+player 823 current hand : 718 499 737 378 45 320 81 714 163 197 577 946 922 554 409 261 662 994 897 256 
+player 823 draws a 430 from deck 823
+player 823 discards a 718 to deck 824
+player 823 current hand : 499 737 378 45 320 81 714 163 197 577 946 922 554 409 261 662 994 897 256 430 
+player 823 draws a 200 from deck 823
+player 823 discards a 499 to deck 824
+player 823 current hand : 737 378 45 320 81 714 163 197 577 946 922 554 409 261 662 994 897 256 430 200 
+player 823 draws a 320 from deck 823
+player 823 discards a 737 to deck 824
+player 823 current hand : 378 45 320 81 714 163 197 577 946 922 554 409 261 662 994 897 256 430 200 320 
+player 823 draws a 639 from deck 823
+player 823 discards a 378 to deck 824
+player 823 current hand : 45 320 81 714 163 197 577 946 922 554 409 261 662 994 897 256 430 200 320 639 
+player 823 draws a 623 from deck 823
+player 823 discards a 45 to deck 824
+player 823 current hand : 320 81 714 163 197 577 946 922 554 409 261 662 994 897 256 430 200 320 639 623 
+player 823 draws a 755 from deck 823
+player 823 discards a 320 to deck 824
+player 823 current hand : 81 714 163 197 577 946 922 554 409 261 662 994 897 256 430 200 320 639 623 755 
+player 823 draws a 105 from deck 823
+player 823 discards a 81 to deck 824
+player 823 current hand : 714 163 197 577 946 922 554 409 261 662 994 897 256 430 200 320 639 623 755 105 
+player 823 draws a 572 from deck 823
+player 823 discards a 714 to deck 824
+player 823 current hand : 163 197 577 946 922 554 409 261 662 994 897 256 430 200 320 639 623 755 105 572 
+player 823 draws a 162 from deck 823
+player 823 discards a 163 to deck 824
+player 823 current hand : 197 577 946 922 554 409 261 662 994 897 256 430 200 320 639 623 755 105 572 162 
+player 823 draws a 287 from deck 823
+player 823 discards a 197 to deck 824
+player 823 current hand : 577 946 922 554 409 261 662 994 897 256 430 200 320 639 623 755 105 572 162 287 
+player 823 draws a 765 from deck 823
+player 823 discards a 577 to deck 824
+player 823 current hand : 946 922 554 409 261 662 994 897 256 430 200 320 639 623 755 105 572 162 287 765 
+player 823 draws a 621 from deck 823
+player 823 discards a 946 to deck 824
+player 823 current hand : 922 554 409 261 662 994 897 256 430 200 320 639 623 755 105 572 162 287 765 621 
+player 823 draws a 657 from deck 823
+player 823 discards a 922 to deck 824
+player 823 current hand : 554 409 261 662 994 897 256 430 200 320 639 623 755 105 572 162 287 765 621 657 
+player 823 draws a 641 from deck 823
+player 823 discards a 554 to deck 824
+player 823 current hand : 409 261 662 994 897 256 430 200 320 639 623 755 105 572 162 287 765 621 657 641 
+player 823 draws a 600 from deck 823
+player 823 discards a 409 to deck 824
+player 823 current hand : 261 662 994 897 256 430 200 320 639 623 755 105 572 162 287 765 621 657 641 600 
+player 823 draws a 110 from deck 823
+player 823 discards a 261 to deck 824
+player 823 current hand : 662 994 897 256 430 200 320 639 623 755 105 572 162 287 765 621 657 641 600 110 
+player 823 draws a 931 from deck 823
+player 823 discards a 662 to deck 824
+player 823 current hand : 994 897 256 430 200 320 639 623 755 105 572 162 287 765 621 657 641 600 110 931 
+player 823 draws a 442 from deck 823
+player 823 discards a 994 to deck 824
+player 823 current hand : 897 256 430 200 320 639 623 755 105 572 162 287 765 621 657 641 600 110 931 442 
+player 823 draws a 879 from deck 823
+player 823 discards a 897 to deck 824
+player 823 current hand : 256 430 200 320 639 623 755 105 572 162 287 765 621 657 641 600 110 931 442 879 
+player 823 draws a 29 from deck 823
+player 823 discards a 256 to deck 824
+player 823 current hand : 430 200 320 639 623 755 105 572 162 287 765 621 657 641 600 110 931 442 879 29 
+player 823 draws a 245 from deck 823
+player 823 discards a 430 to deck 824
+player 823 current hand : 200 320 639 623 755 105 572 162 287 765 621 657 641 600 110 931 442 879 29 245 
+player 823 draws a 366 from deck 823
+player 823 discards a 200 to deck 824
+player 823 current hand : 320 639 623 755 105 572 162 287 765 621 657 641 600 110 931 442 879 29 245 366 
+player 823 draws a 211 from deck 823
+player 823 discards a 320 to deck 824
+player 823 current hand : 639 623 755 105 572 162 287 765 621 657 641 600 110 931 442 879 29 245 366 211 
+player 823 draws a 357 from deck 823
+player 823 discards a 639 to deck 824
+player 823 current hand : 623 755 105 572 162 287 765 621 657 641 600 110 931 442 879 29 245 366 211 357 
+player 823 draws a 792 from deck 823
+player 823 discards a 623 to deck 824
+player 823 current hand : 755 105 572 162 287 765 621 657 641 600 110 931 442 879 29 245 366 211 357 792 
+player 823 draws a 853 from deck 823
+player 823 discards a 755 to deck 824
+player 823 current hand : 105 572 162 287 765 621 657 641 600 110 931 442 879 29 245 366 211 357 792 853 
+player 823 draws a 773 from deck 823
+player 823 discards a 105 to deck 824
+player 823 current hand : 572 162 287 765 621 657 641 600 110 931 442 879 29 245 366 211 357 792 853 773 
+player 823 draws a 571 from deck 823
+player 823 discards a 572 to deck 824
+player 823 current hand : 162 287 765 621 657 641 600 110 931 442 879 29 245 366 211 357 792 853 773 571 
+player 823 draws a 256 from deck 823
+player 823 discards a 162 to deck 824
+player 823 current hand : 287 765 621 657 641 600 110 931 442 879 29 245 366 211 357 792 853 773 571 256 
+player 823 draws a 870 from deck 823
+player 823 discards a 287 to deck 824
+player 823 current hand : 765 621 657 641 600 110 931 442 879 29 245 366 211 357 792 853 773 571 256 870 
+player 823 draws a 93 from deck 823
+player 823 discards a 765 to deck 824
+player 823 current hand : 621 657 641 600 110 931 442 879 29 245 366 211 357 792 853 773 571 256 870 93 
+player 823 draws a 862 from deck 823
+player 823 discards a 621 to deck 824
+player 823 current hand : 657 641 600 110 931 442 879 29 245 366 211 357 792 853 773 571 256 870 93 862 
+player 823 draws a 612 from deck 823
+player 823 discards a 657 to deck 824
+player 823 current hand : 641 600 110 931 442 879 29 245 366 211 357 792 853 773 571 256 870 93 862 612 
+player 823 draws a 167 from deck 823
+player 823 discards a 641 to deck 824
+player 823 current hand : 600 110 931 442 879 29 245 366 211 357 792 853 773 571 256 870 93 862 612 167 
+player 823 draws a 899 from deck 823
+player 823 discards a 600 to deck 824
+player 823 current hand : 110 931 442 879 29 245 366 211 357 792 853 773 571 256 870 93 862 612 167 899 
+player 823 draws a 860 from deck 823
+player 823 discards a 110 to deck 824
+player 823 current hand : 931 442 879 29 245 366 211 357 792 853 773 571 256 870 93 862 612 167 899 860 
+player 823 draws a 709 from deck 823
+player 823 discards a 931 to deck 824
+player 823 current hand : 442 879 29 245 366 211 357 792 853 773 571 256 870 93 862 612 167 899 860 709 
+player 823 draws a 152 from deck 823
+player 823 discards a 442 to deck 824
+player 823 current hand : 879 29 245 366 211 357 792 853 773 571 256 870 93 862 612 167 899 860 709 152 
+player 823 draws a 238 from deck 823
+player 823 discards a 879 to deck 824
+player 823 current hand : 29 245 366 211 357 792 853 773 571 256 870 93 862 612 167 899 860 709 152 238 
+player 823 draws a 423 from deck 823
+player 823 discards a 29 to deck 824
+player 823 current hand : 245 366 211 357 792 853 773 571 256 870 93 862 612 167 899 860 709 152 238 423 
+player 823 draws a 861 from deck 823
+player 823 discards a 245 to deck 824
+player 823 current hand : 366 211 357 792 853 773 571 256 870 93 862 612 167 899 860 709 152 238 423 861 
+player 823 draws a 879 from deck 823
+player 823 discards a 366 to deck 824
+player 823 current hand : 211 357 792 853 773 571 256 870 93 862 612 167 899 860 709 152 238 423 861 879 
+player 823 draws a 590 from deck 823
+player 823 discards a 211 to deck 824
+player 823 current hand : 357 792 853 773 571 256 870 93 862 612 167 899 860 709 152 238 423 861 879 590 
+player 823 draws a 509 from deck 823
+player 823 discards a 357 to deck 824
+player 823 current hand : 792 853 773 571 256 870 93 862 612 167 899 860 709 152 238 423 861 879 590 509 
+player 823 draws a 933 from deck 823
+player 823 discards a 792 to deck 824
+player 823 current hand : 853 773 571 256 870 93 862 612 167 899 860 709 152 238 423 861 879 590 509 933 
+player 823 draws a 826 from deck 823
+player 823 discards a 853 to deck 824
+player 823 current hand : 773 571 256 870 93 862 612 167 899 860 709 152 238 423 861 879 590 509 933 826 
+player 823 draws a 135 from deck 823
+player 823 discards a 773 to deck 824
+player 823 current hand : 571 256 870 93 862 612 167 899 860 709 152 238 423 861 879 590 509 933 826 135 
+player 823 draws a 731 from deck 823
+player 823 discards a 571 to deck 824
+player 823 current hand : 256 870 93 862 612 167 899 860 709 152 238 423 861 879 590 509 933 826 135 731 
+player 823 draws a 561 from deck 823
+player 823 discards a 256 to deck 824
+player 823 current hand : 870 93 862 612 167 899 860 709 152 238 423 861 879 590 509 933 826 135 731 561 
+player 823 draws a 341 from deck 823
+player 823 discards a 870 to deck 824
+player 823 current hand : 93 862 612 167 899 860 709 152 238 423 861 879 590 509 933 826 135 731 561 341 
+player 823 draws a 291 from deck 823
+player 823 discards a 93 to deck 824
+player 823 current hand : 862 612 167 899 860 709 152 238 423 861 879 590 509 933 826 135 731 561 341 291 
+player 823 draws a 946 from deck 823
+player 823 discards a 862 to deck 824
+player 823 current hand : 612 167 899 860 709 152 238 423 861 879 590 509 933 826 135 731 561 341 291 946 
+player 823 draws a 501 from deck 823
+player 823 discards a 612 to deck 824
+player 823 current hand : 167 899 860 709 152 238 423 861 879 590 509 933 826 135 731 561 341 291 946 501 
+player 823 draws a 734 from deck 823
+player 823 discards a 167 to deck 824
+player 823 current hand : 899 860 709 152 238 423 861 879 590 509 933 826 135 731 561 341 291 946 501 734 
+player 823 draws a 542 from deck 823
+player 823 discards a 899 to deck 824
+player 823 current hand : 860 709 152 238 423 861 879 590 509 933 826 135 731 561 341 291 946 501 734 542 
+player 823 draws a 74 from deck 823
+player 823 discards a 860 to deck 824
+player 823 current hand : 709 152 238 423 861 879 590 509 933 826 135 731 561 341 291 946 501 734 542 74 
+player 823 draws a 305 from deck 823
+player 823 discards a 709 to deck 824
+player 823 current hand : 152 238 423 861 879 590 509 933 826 135 731 561 341 291 946 501 734 542 74 305 
+player 823 draws a 574 from deck 823
+player 823 discards a 152 to deck 824
+player 823 current hand : 238 423 861 879 590 509 933 826 135 731 561 341 291 946 501 734 542 74 305 574 
+player 823 draws a 737 from deck 823
+player 823 discards a 238 to deck 824
+player 823 current hand : 423 861 879 590 509 933 826 135 731 561 341 291 946 501 734 542 74 305 574 737 
+player 823 draws a 755 from deck 823

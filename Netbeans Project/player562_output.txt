@@ -1,0 +1,289 @@
+player 562 initial hand 260 505 150 233 750 856 350 823 111 648 574 105 980 326 842 690 435 855 584 549 
+player 562 draws a 875 from deck 562
+player 562 discards a 260 to deck 563
+player 562 current hand : 505 150 233 750 856 350 823 111 648 574 105 980 326 842 690 435 855 584 549 875 
+player 562 draws a 835 from deck 562
+player 562 discards a 505 to deck 563
+player 562 current hand : 150 233 750 856 350 823 111 648 574 105 980 326 842 690 435 855 584 549 875 835 
+player 562 draws a 328 from deck 562
+player 562 discards a 150 to deck 563
+player 562 current hand : 233 750 856 350 823 111 648 574 105 980 326 842 690 435 855 584 549 875 835 328 
+player 562 draws a 11 from deck 562
+player 562 discards a 233 to deck 563
+player 562 current hand : 750 856 350 823 111 648 574 105 980 326 842 690 435 855 584 549 875 835 328 11 
+player 562 draws a 926 from deck 562
+player 562 discards a 750 to deck 563
+player 562 current hand : 856 350 823 111 648 574 105 980 326 842 690 435 855 584 549 875 835 328 11 926 
+player 562 draws a 409 from deck 562
+player 562 discards a 856 to deck 563
+player 562 current hand : 350 823 111 648 574 105 980 326 842 690 435 855 584 549 875 835 328 11 926 409 
+player 562 draws a 466 from deck 562
+player 562 discards a 350 to deck 563
+player 562 current hand : 823 111 648 574 105 980 326 842 690 435 855 584 549 875 835 328 11 926 409 466 
+player 562 draws a 351 from deck 562
+player 562 discards a 823 to deck 563
+player 562 current hand : 111 648 574 105 980 326 842 690 435 855 584 549 875 835 328 11 926 409 466 351 
+player 562 draws a 774 from deck 562
+player 562 discards a 111 to deck 563
+player 562 current hand : 648 574 105 980 326 842 690 435 855 584 549 875 835 328 11 926 409 466 351 774 
+player 562 draws a 390 from deck 562
+player 562 discards a 648 to deck 563
+player 562 current hand : 574 105 980 326 842 690 435 855 584 549 875 835 328 11 926 409 466 351 774 390 
+player 562 draws a 417 from deck 562
+player 562 discards a 574 to deck 563
+player 562 current hand : 105 980 326 842 690 435 855 584 549 875 835 328 11 926 409 466 351 774 390 417 
+player 562 draws a 991 from deck 562
+player 562 discards a 105 to deck 563
+player 562 current hand : 980 326 842 690 435 855 584 549 875 835 328 11 926 409 466 351 774 390 417 991 
+player 562 draws a 282 from deck 562
+player 562 discards a 980 to deck 563
+player 562 current hand : 326 842 690 435 855 584 549 875 835 328 11 926 409 466 351 774 390 417 991 282 
+player 562 draws a 983 from deck 562
+player 562 discards a 326 to deck 563
+player 562 current hand : 842 690 435 855 584 549 875 835 328 11 926 409 466 351 774 390 417 991 282 983 
+player 562 draws a 391 from deck 562
+player 562 discards a 842 to deck 563
+player 562 current hand : 690 435 855 584 549 875 835 328 11 926 409 466 351 774 390 417 991 282 983 391 
+player 562 draws a 285 from deck 562
+player 562 discards a 690 to deck 563
+player 562 current hand : 435 855 584 549 875 835 328 11 926 409 466 351 774 390 417 991 282 983 391 285 
+player 562 draws a 188 from deck 562
+player 562 discards a 435 to deck 563
+player 562 current hand : 855 584 549 875 835 328 11 926 409 466 351 774 390 417 991 282 983 391 285 188 
+player 562 draws a 947 from deck 562
+player 562 discards a 855 to deck 563
+player 562 current hand : 584 549 875 835 328 11 926 409 466 351 774 390 417 991 282 983 391 285 188 947 
+player 562 draws a 302 from deck 562
+player 562 discards a 584 to deck 563
+player 562 current hand : 549 875 835 328 11 926 409 466 351 774 390 417 991 282 983 391 285 188 947 302 
+player 562 draws a 599 from deck 562
+player 562 discards a 549 to deck 563
+player 562 current hand : 875 835 328 11 926 409 466 351 774 390 417 991 282 983 391 285 188 947 302 599 
+player 562 draws a 853 from deck 562
+player 562 discards a 875 to deck 563
+player 562 current hand : 835 328 11 926 409 466 351 774 390 417 991 282 983 391 285 188 947 302 599 853 
+player 562 draws a 648 from deck 562
+player 562 discards a 835 to deck 563
+player 562 current hand : 328 11 926 409 466 351 774 390 417 991 282 983 391 285 188 947 302 599 853 648 
+player 562 draws a 177 from deck 562
+player 562 discards a 328 to deck 563
+player 562 current hand : 11 926 409 466 351 774 390 417 991 282 983 391 285 188 947 302 599 853 648 177 
+player 562 draws a 110 from deck 562
+player 562 discards a 11 to deck 563
+player 562 current hand : 926 409 466 351 774 390 417 991 282 983 391 285 188 947 302 599 853 648 177 110 
+player 562 draws a 70 from deck 562
+player 562 discards a 926 to deck 563
+player 562 current hand : 409 466 351 774 390 417 991 282 983 391 285 188 947 302 599 853 648 177 110 70 
+player 562 draws a 495 from deck 562
+player 562 discards a 409 to deck 563
+player 562 current hand : 466 351 774 390 417 991 282 983 391 285 188 947 302 599 853 648 177 110 70 495 
+player 562 draws a 144 from deck 562
+player 562 discards a 466 to deck 563
+player 562 current hand : 351 774 390 417 991 282 983 391 285 188 947 302 599 853 648 177 110 70 495 144 
+player 562 draws a 204 from deck 562
+player 562 discards a 351 to deck 563
+player 562 current hand : 774 390 417 991 282 983 391 285 188 947 302 599 853 648 177 110 70 495 144 204 
+player 562 draws a 954 from deck 562
+player 562 discards a 774 to deck 563
+player 562 current hand : 390 417 991 282 983 391 285 188 947 302 599 853 648 177 110 70 495 144 204 954 
+player 562 draws a 616 from deck 562
+player 562 discards a 390 to deck 563
+player 562 current hand : 417 991 282 983 391 285 188 947 302 599 853 648 177 110 70 495 144 204 954 616 
+player 562 draws a 768 from deck 562
+player 562 discards a 417 to deck 563
+player 562 current hand : 991 282 983 391 285 188 947 302 599 853 648 177 110 70 495 144 204 954 616 768 
+player 562 draws a 44 from deck 562
+player 562 discards a 991 to deck 563
+player 562 current hand : 282 983 391 285 188 947 302 599 853 648 177 110 70 495 144 204 954 616 768 44 
+player 562 draws a 189 from deck 562
+player 562 discards a 282 to deck 563
+player 562 current hand : 983 391 285 188 947 302 599 853 648 177 110 70 495 144 204 954 616 768 44 189 
+player 562 draws a 173 from deck 562
+player 562 discards a 983 to deck 563
+player 562 current hand : 391 285 188 947 302 599 853 648 177 110 70 495 144 204 954 616 768 44 189 173 
+player 562 draws a 537 from deck 562
+player 562 discards a 391 to deck 563
+player 562 current hand : 285 188 947 302 599 853 648 177 110 70 495 144 204 954 616 768 44 189 173 537 
+player 562 draws a 613 from deck 562
+player 562 discards a 285 to deck 563
+player 562 current hand : 188 947 302 599 853 648 177 110 70 495 144 204 954 616 768 44 189 173 537 613 
+player 562 draws a 514 from deck 562
+player 562 discards a 188 to deck 563
+player 562 current hand : 947 302 599 853 648 177 110 70 495 144 204 954 616 768 44 189 173 537 613 514 
+player 562 draws a 814 from deck 562
+player 562 discards a 947 to deck 563
+player 562 current hand : 302 599 853 648 177 110 70 495 144 204 954 616 768 44 189 173 537 613 514 814 
+player 562 draws a 428 from deck 562
+player 562 discards a 302 to deck 563
+player 562 current hand : 599 853 648 177 110 70 495 144 204 954 616 768 44 189 173 537 613 514 814 428 
+player 562 draws a 971 from deck 562
+player 562 discards a 599 to deck 563
+player 562 current hand : 853 648 177 110 70 495 144 204 954 616 768 44 189 173 537 613 514 814 428 971 
+player 562 draws a 272 from deck 562
+player 562 discards a 853 to deck 563
+player 562 current hand : 648 177 110 70 495 144 204 954 616 768 44 189 173 537 613 514 814 428 971 272 
+player 562 draws a 730 from deck 562
+player 562 discards a 648 to deck 563
+player 562 current hand : 177 110 70 495 144 204 954 616 768 44 189 173 537 613 514 814 428 971 272 730 
+player 562 draws a 655 from deck 562
+player 562 discards a 177 to deck 563
+player 562 current hand : 110 70 495 144 204 954 616 768 44 189 173 537 613 514 814 428 971 272 730 655 
+player 562 draws a 805 from deck 562
+player 562 discards a 110 to deck 563
+player 562 current hand : 70 495 144 204 954 616 768 44 189 173 537 613 514 814 428 971 272 730 655 805 
+player 562 draws a 256 from deck 562
+player 562 discards a 70 to deck 563
+player 562 current hand : 495 144 204 954 616 768 44 189 173 537 613 514 814 428 971 272 730 655 805 256 
+player 562 draws a 262 from deck 562
+player 562 discards a 495 to deck 563
+player 562 current hand : 144 204 954 616 768 44 189 173 537 613 514 814 428 971 272 730 655 805 256 262 
+player 562 draws a 686 from deck 562
+player 562 discards a 144 to deck 563
+player 562 current hand : 204 954 616 768 44 189 173 537 613 514 814 428 971 272 730 655 805 256 262 686 
+player 562 draws a 773 from deck 562
+player 562 discards a 204 to deck 563
+player 562 current hand : 954 616 768 44 189 173 537 613 514 814 428 971 272 730 655 805 256 262 686 773 
+player 562 draws a 417 from deck 562
+player 562 discards a 954 to deck 563
+player 562 current hand : 616 768 44 189 173 537 613 514 814 428 971 272 730 655 805 256 262 686 773 417 
+player 562 draws a 927 from deck 562
+player 562 discards a 616 to deck 563
+player 562 current hand : 768 44 189 173 537 613 514 814 428 971 272 730 655 805 256 262 686 773 417 927 
+player 562 draws a 618 from deck 562
+player 562 discards a 768 to deck 563
+player 562 current hand : 44 189 173 537 613 514 814 428 971 272 730 655 805 256 262 686 773 417 927 618 
+player 562 draws a 817 from deck 562
+player 562 discards a 44 to deck 563
+player 562 current hand : 189 173 537 613 514 814 428 971 272 730 655 805 256 262 686 773 417 927 618 817 
+player 562 draws a 970 from deck 562
+player 562 discards a 189 to deck 563
+player 562 current hand : 173 537 613 514 814 428 971 272 730 655 805 256 262 686 773 417 927 618 817 970 
+player 562 draws a 743 from deck 562
+player 562 discards a 173 to deck 563
+player 562 current hand : 537 613 514 814 428 971 272 730 655 805 256 262 686 773 417 927 618 817 970 743 
+player 562 draws a 143 from deck 562
+player 562 discards a 537 to deck 563
+player 562 current hand : 613 514 814 428 971 272 730 655 805 256 262 686 773 417 927 618 817 970 743 143 
+player 562 draws a 817 from deck 562
+player 562 discards a 613 to deck 563
+player 562 current hand : 514 814 428 971 272 730 655 805 256 262 686 773 417 927 618 817 970 743 143 817 
+player 562 draws a 935 from deck 562
+player 562 discards a 514 to deck 563
+player 562 current hand : 814 428 971 272 730 655 805 256 262 686 773 417 927 618 817 970 743 143 817 935 
+player 562 draws a 179 from deck 562
+player 562 discards a 814 to deck 563
+player 562 current hand : 428 971 272 730 655 805 256 262 686 773 417 927 618 817 970 743 143 817 935 179 
+player 562 draws a 417 from deck 562
+player 562 discards a 428 to deck 563
+player 562 current hand : 971 272 730 655 805 256 262 686 773 417 927 618 817 970 743 143 817 935 179 417 
+player 562 draws a 65 from deck 562
+player 562 discards a 971 to deck 563
+player 562 current hand : 272 730 655 805 256 262 686 773 417 927 618 817 970 743 143 817 935 179 417 65 
+player 562 draws a 233 from deck 562
+player 562 discards a 272 to deck 563
+player 562 current hand : 730 655 805 256 262 686 773 417 927 618 817 970 743 143 817 935 179 417 65 233 
+player 562 draws a 248 from deck 562
+player 562 discards a 730 to deck 563
+player 562 current hand : 655 805 256 262 686 773 417 927 618 817 970 743 143 817 935 179 417 65 233 248 
+player 562 draws a 833 from deck 562
+player 562 discards a 655 to deck 563
+player 562 current hand : 805 256 262 686 773 417 927 618 817 970 743 143 817 935 179 417 65 233 248 833 
+player 562 draws a 716 from deck 562
+player 562 discards a 805 to deck 563
+player 562 current hand : 256 262 686 773 417 927 618 817 970 743 143 817 935 179 417 65 233 248 833 716 
+player 562 draws a 572 from deck 562
+player 562 discards a 256 to deck 563
+player 562 current hand : 262 686 773 417 927 618 817 970 743 143 817 935 179 417 65 233 248 833 716 572 
+player 562 draws a 821 from deck 562
+player 562 discards a 262 to deck 563
+player 562 current hand : 686 773 417 927 618 817 970 743 143 817 935 179 417 65 233 248 833 716 572 821 
+player 562 draws a 925 from deck 562
+player 562 discards a 686 to deck 563
+player 562 current hand : 773 417 927 618 817 970 743 143 817 935 179 417 65 233 248 833 716 572 821 925 
+player 562 draws a 818 from deck 562
+player 562 discards a 773 to deck 563
+player 562 current hand : 417 927 618 817 970 743 143 817 935 179 417 65 233 248 833 716 572 821 925 818 
+player 562 draws a 198 from deck 562
+player 562 discards a 417 to deck 563
+player 562 current hand : 927 618 817 970 743 143 817 935 179 417 65 233 248 833 716 572 821 925 818 198 
+player 562 draws a 910 from deck 562
+player 562 discards a 927 to deck 563
+player 562 current hand : 618 817 970 743 143 817 935 179 417 65 233 248 833 716 572 821 925 818 198 910 
+player 562 draws a 773 from deck 562
+player 562 discards a 618 to deck 563
+player 562 current hand : 817 970 743 143 817 935 179 417 65 233 248 833 716 572 821 925 818 198 910 773 
+player 562 draws a 570 from deck 562
+player 562 discards a 817 to deck 563
+player 562 current hand : 970 743 143 817 935 179 417 65 233 248 833 716 572 821 925 818 198 910 773 570 
+player 562 draws a 264 from deck 562
+player 562 discards a 970 to deck 563
+player 562 current hand : 743 143 817 935 179 417 65 233 248 833 716 572 821 925 818 198 910 773 570 264 
+player 562 draws a 631 from deck 562
+player 562 discards a 743 to deck 563
+player 562 current hand : 143 817 935 179 417 65 233 248 833 716 572 821 925 818 198 910 773 570 264 631 
+player 562 draws a 240 from deck 562
+player 562 discards a 143 to deck 563
+player 562 current hand : 817 935 179 417 65 233 248 833 716 572 821 925 818 198 910 773 570 264 631 240 
+player 562 draws a 846 from deck 562
+player 562 discards a 817 to deck 563
+player 562 current hand : 935 179 417 65 233 248 833 716 572 821 925 818 198 910 773 570 264 631 240 846 
+player 562 draws a 113 from deck 562
+player 562 discards a 935 to deck 563
+player 562 current hand : 179 417 65 233 248 833 716 572 821 925 818 198 910 773 570 264 631 240 846 113 
+player 562 draws a 204 from deck 562
+player 562 discards a 179 to deck 563
+player 562 current hand : 417 65 233 248 833 716 572 821 925 818 198 910 773 570 264 631 240 846 113 204 
+player 562 draws a 862 from deck 562
+player 562 discards a 417 to deck 563
+player 562 current hand : 65 233 248 833 716 572 821 925 818 198 910 773 570 264 631 240 846 113 204 862 
+player 562 draws a 135 from deck 562
+player 562 discards a 65 to deck 563
+player 562 current hand : 233 248 833 716 572 821 925 818 198 910 773 570 264 631 240 846 113 204 862 135 
+player 562 draws a 632 from deck 562
+player 562 discards a 233 to deck 563
+player 562 current hand : 248 833 716 572 821 925 818 198 910 773 570 264 631 240 846 113 204 862 135 632 
+player 562 draws a 646 from deck 562
+player 562 discards a 248 to deck 563
+player 562 current hand : 833 716 572 821 925 818 198 910 773 570 264 631 240 846 113 204 862 135 632 646 
+player 562 draws a 138 from deck 562
+player 562 discards a 833 to deck 563
+player 562 current hand : 716 572 821 925 818 198 910 773 570 264 631 240 846 113 204 862 135 632 646 138 
+player 562 draws a 717 from deck 562
+player 562 discards a 716 to deck 563
+player 562 current hand : 572 821 925 818 198 910 773 570 264 631 240 846 113 204 862 135 632 646 138 717 
+player 562 draws a 110 from deck 562
+player 562 discards a 572 to deck 563
+player 562 current hand : 821 925 818 198 910 773 570 264 631 240 846 113 204 862 135 632 646 138 717 110 
+player 562 draws a 654 from deck 562
+player 562 discards a 821 to deck 563
+player 562 current hand : 925 818 198 910 773 570 264 631 240 846 113 204 862 135 632 646 138 717 110 654 
+player 562 draws a 758 from deck 562
+player 562 discards a 925 to deck 563
+player 562 current hand : 818 198 910 773 570 264 631 240 846 113 204 862 135 632 646 138 717 110 654 758 
+player 562 draws a 171 from deck 562
+player 562 discards a 818 to deck 563
+player 562 current hand : 198 910 773 570 264 631 240 846 113 204 862 135 632 646 138 717 110 654 758 171 
+player 562 draws a 966 from deck 562
+player 562 discards a 198 to deck 563
+player 562 current hand : 910 773 570 264 631 240 846 113 204 862 135 632 646 138 717 110 654 758 171 966 
+player 562 draws a 513 from deck 562
+player 562 discards a 910 to deck 563
+player 562 current hand : 773 570 264 631 240 846 113 204 862 135 632 646 138 717 110 654 758 171 966 513 
+player 562 draws a 871 from deck 562
+player 562 discards a 773 to deck 563
+player 562 current hand : 570 264 631 240 846 113 204 862 135 632 646 138 717 110 654 758 171 966 513 871 
+player 562 draws a 631 from deck 562
+player 562 discards a 570 to deck 563
+player 562 current hand : 264 631 240 846 113 204 862 135 632 646 138 717 110 654 758 171 966 513 871 631 
+player 562 draws a 310 from deck 562
+player 562 discards a 264 to deck 563
+player 562 current hand : 631 240 846 113 204 862 135 632 646 138 717 110 654 758 171 966 513 871 631 310 
+player 562 draws a 981 from deck 562
+player 562 discards a 631 to deck 563
+player 562 current hand : 240 846 113 204 862 135 632 646 138 717 110 654 758 171 966 513 871 631 310 981 
+player 562 draws a 562 from deck 562
+player 562 discards a 240 to deck 563
+player 562 current hand : 846 113 204 862 135 632 646 138 717 110 654 758 171 966 513 871 631 310 981 562 
+player 562 draws a 972 from deck 562
+player 562 discards a 846 to deck 563
+player 562 current hand : 113 204 862 135 632 646 138 717 110 654 758 171 966 513 871 631 310 981 562 972 

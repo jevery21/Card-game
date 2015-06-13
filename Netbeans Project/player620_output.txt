@@ -1,0 +1,308 @@
+player 620 initial hand 600 457 363 303 255 770 160 118 296 492 435 641 436 452 252 523 287 395 695 81 
+player 620 draws a 188 from deck 620
+player 620 discards a 600 to deck 621
+player 620 current hand : 457 363 303 255 770 160 118 296 492 435 641 436 452 252 523 287 395 695 81 188 
+player 620 draws a 328 from deck 620
+player 620 discards a 457 to deck 621
+player 620 current hand : 363 303 255 770 160 118 296 492 435 641 436 452 252 523 287 395 695 81 188 328 
+player 620 draws a 928 from deck 620
+player 620 discards a 363 to deck 621
+player 620 current hand : 303 255 770 160 118 296 492 435 641 436 452 252 523 287 395 695 81 188 328 928 
+player 620 draws a 928 from deck 620
+player 620 discards a 303 to deck 621
+player 620 current hand : 255 770 160 118 296 492 435 641 436 452 252 523 287 395 695 81 188 328 928 928 
+player 620 draws a 500 from deck 620
+player 620 discards a 255 to deck 621
+player 620 current hand : 770 160 118 296 492 435 641 436 452 252 523 287 395 695 81 188 328 928 928 500 
+player 620 draws a 970 from deck 620
+player 620 discards a 770 to deck 621
+player 620 current hand : 160 118 296 492 435 641 436 452 252 523 287 395 695 81 188 328 928 928 500 970 
+player 620 draws a 182 from deck 620
+player 620 discards a 160 to deck 621
+player 620 current hand : 118 296 492 435 641 436 452 252 523 287 395 695 81 188 328 928 928 500 970 182 
+player 620 draws a 475 from deck 620
+player 620 discards a 118 to deck 621
+player 620 current hand : 296 492 435 641 436 452 252 523 287 395 695 81 188 328 928 928 500 970 182 475 
+player 620 draws a 568 from deck 620
+player 620 discards a 296 to deck 621
+player 620 current hand : 492 435 641 436 452 252 523 287 395 695 81 188 328 928 928 500 970 182 475 568 
+player 620 draws a 966 from deck 620
+player 620 discards a 492 to deck 621
+player 620 current hand : 435 641 436 452 252 523 287 395 695 81 188 328 928 928 500 970 182 475 568 966 
+player 620 draws a 576 from deck 620
+player 620 discards a 435 to deck 621
+player 620 current hand : 641 436 452 252 523 287 395 695 81 188 328 928 928 500 970 182 475 568 966 576 
+player 620 draws a 975 from deck 620
+player 620 discards a 641 to deck 621
+player 620 current hand : 436 452 252 523 287 395 695 81 188 328 928 928 500 970 182 475 568 966 576 975 
+player 620 draws a 870 from deck 620
+player 620 discards a 436 to deck 621
+player 620 current hand : 452 252 523 287 395 695 81 188 328 928 928 500 970 182 475 568 966 576 975 870 
+player 620 draws a 179 from deck 620
+player 620 discards a 452 to deck 621
+player 620 current hand : 252 523 287 395 695 81 188 328 928 928 500 970 182 475 568 966 576 975 870 179 
+player 620 draws a 719 from deck 620
+player 620 discards a 252 to deck 621
+player 620 current hand : 523 287 395 695 81 188 328 928 928 500 970 182 475 568 966 576 975 870 179 719 
+player 620 draws a 209 from deck 620
+player 620 discards a 523 to deck 621
+player 620 current hand : 287 395 695 81 188 328 928 928 500 970 182 475 568 966 576 975 870 179 719 209 
+player 620 draws a 303 from deck 620
+player 620 discards a 287 to deck 621
+player 620 current hand : 395 695 81 188 328 928 928 500 970 182 475 568 966 576 975 870 179 719 209 303 
+player 620 draws a 168 from deck 620
+player 620 discards a 395 to deck 621
+player 620 current hand : 695 81 188 328 928 928 500 970 182 475 568 966 576 975 870 179 719 209 303 168 
+player 620 draws a 603 from deck 620
+player 620 discards a 695 to deck 621
+player 620 current hand : 81 188 328 928 928 500 970 182 475 568 966 576 975 870 179 719 209 303 168 603 
+player 620 draws a 10 from deck 620
+player 620 discards a 81 to deck 621
+player 620 current hand : 188 328 928 928 500 970 182 475 568 966 576 975 870 179 719 209 303 168 603 10 
+player 620 draws a 359 from deck 620
+player 620 discards a 188 to deck 621
+player 620 current hand : 328 928 928 500 970 182 475 568 966 576 975 870 179 719 209 303 168 603 10 359 
+player 620 draws a 1000 from deck 620
+player 620 discards a 328 to deck 621
+player 620 current hand : 928 928 500 970 182 475 568 966 576 975 870 179 719 209 303 168 603 10 359 1000 
+player 620 draws a 977 from deck 620
+player 620 discards a 928 to deck 621
+player 620 current hand : 928 500 970 182 475 568 966 576 975 870 179 719 209 303 168 603 10 359 1000 977 
+player 620 draws a 870 from deck 620
+player 620 discards a 928 to deck 621
+player 620 current hand : 500 970 182 475 568 966 576 975 870 179 719 209 303 168 603 10 359 1000 977 870 
+player 620 draws a 864 from deck 620
+player 620 discards a 500 to deck 621
+player 620 current hand : 970 182 475 568 966 576 975 870 179 719 209 303 168 603 10 359 1000 977 870 864 
+player 620 draws a 709 from deck 620
+player 620 discards a 970 to deck 621
+player 620 current hand : 182 475 568 966 576 975 870 179 719 209 303 168 603 10 359 1000 977 870 864 709 
+player 620 draws a 702 from deck 620
+player 620 discards a 182 to deck 621
+player 620 current hand : 475 568 966 576 975 870 179 719 209 303 168 603 10 359 1000 977 870 864 709 702 
+player 620 draws a 734 from deck 620
+player 620 discards a 475 to deck 621
+player 620 current hand : 568 966 576 975 870 179 719 209 303 168 603 10 359 1000 977 870 864 709 702 734 
+player 620 draws a 340 from deck 620
+player 620 discards a 568 to deck 621
+player 620 current hand : 966 576 975 870 179 719 209 303 168 603 10 359 1000 977 870 864 709 702 734 340 
+player 620 draws a 589 from deck 620
+player 620 discards a 966 to deck 621
+player 620 current hand : 576 975 870 179 719 209 303 168 603 10 359 1000 977 870 864 709 702 734 340 589 
+player 620 draws a 326 from deck 620
+player 620 discards a 576 to deck 621
+player 620 current hand : 975 870 179 719 209 303 168 603 10 359 1000 977 870 864 709 702 734 340 589 326 
+player 620 draws a 514 from deck 620
+player 620 discards a 975 to deck 621
+player 620 current hand : 870 179 719 209 303 168 603 10 359 1000 977 870 864 709 702 734 340 589 326 514 
+player 620 draws a 805 from deck 620
+player 620 discards a 870 to deck 621
+player 620 current hand : 179 719 209 303 168 603 10 359 1000 977 870 864 709 702 734 340 589 326 514 805 
+player 620 draws a 901 from deck 620
+player 620 discards a 179 to deck 621
+player 620 current hand : 719 209 303 168 603 10 359 1000 977 870 864 709 702 734 340 589 326 514 805 901 
+player 620 draws a 865 from deck 620
+player 620 discards a 719 to deck 621
+player 620 current hand : 209 303 168 603 10 359 1000 977 870 864 709 702 734 340 589 326 514 805 901 865 
+player 620 draws a 12 from deck 620
+player 620 discards a 209 to deck 621
+player 620 current hand : 303 168 603 10 359 1000 977 870 864 709 702 734 340 589 326 514 805 901 865 12 
+player 620 draws a 44 from deck 620
+player 620 discards a 303 to deck 621
+player 620 current hand : 168 603 10 359 1000 977 870 864 709 702 734 340 589 326 514 805 901 865 12 44 
+player 620 draws a 372 from deck 620
+player 620 discards a 168 to deck 621
+player 620 current hand : 603 10 359 1000 977 870 864 709 702 734 340 589 326 514 805 901 865 12 44 372 
+player 620 draws a 622 from deck 620
+player 620 discards a 603 to deck 621
+player 620 current hand : 10 359 1000 977 870 864 709 702 734 340 589 326 514 805 901 865 12 44 372 622 
+player 620 draws a 50 from deck 620
+player 620 discards a 10 to deck 621
+player 620 current hand : 359 1000 977 870 864 709 702 734 340 589 326 514 805 901 865 12 44 372 622 50 
+player 620 draws a 120 from deck 620
+player 620 discards a 359 to deck 621
+player 620 current hand : 1000 977 870 864 709 702 734 340 589 326 514 805 901 865 12 44 372 622 50 120 
+player 620 draws a 426 from deck 620
+player 620 discards a 1000 to deck 621
+player 620 current hand : 977 870 864 709 702 734 340 589 326 514 805 901 865 12 44 372 622 50 120 426 
+player 620 draws a 941 from deck 620
+player 620 discards a 977 to deck 621
+player 620 current hand : 870 864 709 702 734 340 589 326 514 805 901 865 12 44 372 622 50 120 426 941 
+player 620 draws a 241 from deck 620
+player 620 discards a 870 to deck 621
+player 620 current hand : 864 709 702 734 340 589 326 514 805 901 865 12 44 372 622 50 120 426 941 241 
+player 620 draws a 776 from deck 620
+player 620 discards a 864 to deck 621
+player 620 current hand : 709 702 734 340 589 326 514 805 901 865 12 44 372 622 50 120 426 941 241 776 
+player 620 draws a 242 from deck 620
+player 620 discards a 709 to deck 621
+player 620 current hand : 702 734 340 589 326 514 805 901 865 12 44 372 622 50 120 426 941 241 776 242 
+player 620 draws a 481 from deck 620
+player 620 discards a 702 to deck 621
+player 620 current hand : 734 340 589 326 514 805 901 865 12 44 372 622 50 120 426 941 241 776 242 481 
+player 620 draws a 171 from deck 620
+player 620 discards a 734 to deck 621
+player 620 current hand : 340 589 326 514 805 901 865 12 44 372 622 50 120 426 941 241 776 242 481 171 
+player 620 draws a 515 from deck 620
+player 620 discards a 340 to deck 621
+player 620 current hand : 589 326 514 805 901 865 12 44 372 622 50 120 426 941 241 776 242 481 171 515 
+player 620 draws a 917 from deck 620
+player 620 discards a 589 to deck 621
+player 620 current hand : 326 514 805 901 865 12 44 372 622 50 120 426 941 241 776 242 481 171 515 917 
+player 620 draws a 833 from deck 620
+player 620 discards a 326 to deck 621
+player 620 current hand : 514 805 901 865 12 44 372 622 50 120 426 941 241 776 242 481 171 515 917 833 
+player 620 draws a 255 from deck 620
+player 620 discards a 514 to deck 621
+player 620 current hand : 805 901 865 12 44 372 622 50 120 426 941 241 776 242 481 171 515 917 833 255 
+player 620 draws a 509 from deck 620
+player 620 discards a 805 to deck 621
+player 620 current hand : 901 865 12 44 372 622 50 120 426 941 241 776 242 481 171 515 917 833 255 509 
+player 620 draws a 827 from deck 620
+player 620 discards a 901 to deck 621
+player 620 current hand : 865 12 44 372 622 50 120 426 941 241 776 242 481 171 515 917 833 255 509 827 
+player 620 draws a 870 from deck 620
+player 620 discards a 865 to deck 621
+player 620 current hand : 12 44 372 622 50 120 426 941 241 776 242 481 171 515 917 833 255 509 827 870 
+player 620 draws a 14 from deck 620
+player 620 discards a 12 to deck 621
+player 620 current hand : 44 372 622 50 120 426 941 241 776 242 481 171 515 917 833 255 509 827 870 14 
+player 620 draws a 757 from deck 620
+player 620 discards a 44 to deck 621
+player 620 current hand : 372 622 50 120 426 941 241 776 242 481 171 515 917 833 255 509 827 870 14 757 
+player 620 draws a 909 from deck 620
+player 620 discards a 372 to deck 621
+player 620 current hand : 622 50 120 426 941 241 776 242 481 171 515 917 833 255 509 827 870 14 757 909 
+player 620 draws a 205 from deck 620
+player 620 discards a 622 to deck 621
+player 620 current hand : 50 120 426 941 241 776 242 481 171 515 917 833 255 509 827 870 14 757 909 205 
+player 620 draws a 38 from deck 620
+player 620 discards a 50 to deck 621
+player 620 current hand : 120 426 941 241 776 242 481 171 515 917 833 255 509 827 870 14 757 909 205 38 
+player 620 draws a 971 from deck 620
+player 620 discards a 120 to deck 621
+player 620 current hand : 426 941 241 776 242 481 171 515 917 833 255 509 827 870 14 757 909 205 38 971 
+player 620 draws a 871 from deck 620
+player 620 discards a 426 to deck 621
+player 620 current hand : 941 241 776 242 481 171 515 917 833 255 509 827 870 14 757 909 205 38 971 871 
+player 620 draws a 758 from deck 620
+player 620 discards a 941 to deck 621
+player 620 current hand : 241 776 242 481 171 515 917 833 255 509 827 870 14 757 909 205 38 971 871 758 
+player 620 draws a 669 from deck 620
+player 620 discards a 241 to deck 621
+player 620 current hand : 776 242 481 171 515 917 833 255 509 827 870 14 757 909 205 38 971 871 758 669 
+player 620 draws a 601 from deck 620
+player 620 discards a 776 to deck 621
+player 620 current hand : 242 481 171 515 917 833 255 509 827 870 14 757 909 205 38 971 871 758 669 601 
+player 620 draws a 54 from deck 620
+player 620 discards a 242 to deck 621
+player 620 current hand : 481 171 515 917 833 255 509 827 870 14 757 909 205 38 971 871 758 669 601 54 
+player 620 draws a 74 from deck 620
+player 620 discards a 481 to deck 621
+player 620 current hand : 171 515 917 833 255 509 827 870 14 757 909 205 38 971 871 758 669 601 54 74 
+player 620 draws a 635 from deck 620
+player 620 discards a 171 to deck 621
+player 620 current hand : 515 917 833 255 509 827 870 14 757 909 205 38 971 871 758 669 601 54 74 635 
+player 620 draws a 367 from deck 620
+player 620 discards a 515 to deck 621
+player 620 current hand : 917 833 255 509 827 870 14 757 909 205 38 971 871 758 669 601 54 74 635 367 
+player 620 draws a 97 from deck 620
+player 620 discards a 917 to deck 621
+player 620 current hand : 833 255 509 827 870 14 757 909 205 38 971 871 758 669 601 54 74 635 367 97 
+player 620 draws a 969 from deck 620
+player 620 discards a 833 to deck 621
+player 620 current hand : 255 509 827 870 14 757 909 205 38 971 871 758 669 601 54 74 635 367 97 969 
+player 620 draws a 6 from deck 620
+player 620 discards a 255 to deck 621
+player 620 current hand : 509 827 870 14 757 909 205 38 971 871 758 669 601 54 74 635 367 97 969 6 
+player 620 draws a 529 from deck 620
+player 620 discards a 509 to deck 621
+player 620 current hand : 827 870 14 757 909 205 38 971 871 758 669 601 54 74 635 367 97 969 6 529 
+player 620 draws a 882 from deck 620
+player 620 discards a 827 to deck 621
+player 620 current hand : 870 14 757 909 205 38 971 871 758 669 601 54 74 635 367 97 969 6 529 882 
+player 620 draws a 175 from deck 620
+player 620 discards a 870 to deck 621
+player 620 current hand : 14 757 909 205 38 971 871 758 669 601 54 74 635 367 97 969 6 529 882 175 
+player 620 draws a 415 from deck 620
+player 620 discards a 14 to deck 621
+player 620 current hand : 757 909 205 38 971 871 758 669 601 54 74 635 367 97 969 6 529 882 175 415 
+player 620 draws a 542 from deck 620
+player 620 discards a 757 to deck 621
+player 620 current hand : 909 205 38 971 871 758 669 601 54 74 635 367 97 969 6 529 882 175 415 542 
+player 620 draws a 537 from deck 620
+player 620 discards a 909 to deck 621
+player 620 current hand : 205 38 971 871 758 669 601 54 74 635 367 97 969 6 529 882 175 415 542 537 
+player 620 draws a 110 from deck 620
+player 620 discards a 205 to deck 621
+player 620 current hand : 38 971 871 758 669 601 54 74 635 367 97 969 6 529 882 175 415 542 537 110 
+player 620 draws a 262 from deck 620
+player 620 discards a 38 to deck 621
+player 620 current hand : 971 871 758 669 601 54 74 635 367 97 969 6 529 882 175 415 542 537 110 262 
+player 620 draws a 340 from deck 620
+player 620 discards a 971 to deck 621
+player 620 current hand : 871 758 669 601 54 74 635 367 97 969 6 529 882 175 415 542 537 110 262 340 
+player 620 draws a 24 from deck 620
+player 620 discards a 871 to deck 621
+player 620 current hand : 758 669 601 54 74 635 367 97 969 6 529 882 175 415 542 537 110 262 340 24 
+player 620 draws a 233 from deck 620
+player 620 discards a 758 to deck 621
+player 620 current hand : 669 601 54 74 635 367 97 969 6 529 882 175 415 542 537 110 262 340 24 233 
+player 620 draws a 24 from deck 620
+player 620 discards a 669 to deck 621
+player 620 current hand : 601 54 74 635 367 97 969 6 529 882 175 415 542 537 110 262 340 24 233 24 
+player 620 draws a 894 from deck 620
+player 620 discards a 601 to deck 621
+player 620 current hand : 54 74 635 367 97 969 6 529 882 175 415 542 537 110 262 340 24 233 24 894 
+player 620 draws a 249 from deck 620
+player 620 discards a 54 to deck 621
+player 620 current hand : 74 635 367 97 969 6 529 882 175 415 542 537 110 262 340 24 233 24 894 249 
+player 620 draws a 887 from deck 620
+player 620 discards a 74 to deck 621
+player 620 current hand : 635 367 97 969 6 529 882 175 415 542 537 110 262 340 24 233 24 894 249 887 
+player 620 draws a 472 from deck 620
+player 620 discards a 635 to deck 621
+player 620 current hand : 367 97 969 6 529 882 175 415 542 537 110 262 340 24 233 24 894 249 887 472 
+player 620 draws a 113 from deck 620
+player 620 discards a 367 to deck 621
+player 620 current hand : 97 969 6 529 882 175 415 542 537 110 262 340 24 233 24 894 249 887 472 113 
+player 620 draws a 146 from deck 620
+player 620 discards a 97 to deck 621
+player 620 current hand : 969 6 529 882 175 415 542 537 110 262 340 24 233 24 894 249 887 472 113 146 
+player 620 draws a 917 from deck 620
+player 620 discards a 969 to deck 621
+player 620 current hand : 6 529 882 175 415 542 537 110 262 340 24 233 24 894 249 887 472 113 146 917 
+player 620 draws a 157 from deck 620
+player 620 discards a 6 to deck 621
+player 620 current hand : 529 882 175 415 542 537 110 262 340 24 233 24 894 249 887 472 113 146 917 157 
+player 620 draws a 442 from deck 620
+player 620 discards a 529 to deck 621
+player 620 current hand : 882 175 415 542 537 110 262 340 24 233 24 894 249 887 472 113 146 917 157 442 
+player 620 draws a 899 from deck 620
+player 620 discards a 882 to deck 621
+player 620 current hand : 175 415 542 537 110 262 340 24 233 24 894 249 887 472 113 146 917 157 442 899 
+player 620 draws a 866 from deck 620
+player 620 discards a 175 to deck 621
+player 620 current hand : 415 542 537 110 262 340 24 233 24 894 249 887 472 113 146 917 157 442 899 866 
+player 620 draws a 162 from deck 620
+player 620 discards a 415 to deck 621
+player 620 current hand : 542 537 110 262 340 24 233 24 894 249 887 472 113 146 917 157 442 899 866 162 
+player 620 draws a 550 from deck 620
+player 620 discards a 542 to deck 621
+player 620 current hand : 537 110 262 340 24 233 24 894 249 887 472 113 146 917 157 442 899 866 162 550 
+player 620 draws a 622 from deck 620
+player 620 discards a 537 to deck 621
+player 620 current hand : 110 262 340 24 233 24 894 249 887 472 113 146 917 157 442 899 866 162 550 622 
+player 620 draws a 853 from deck 620
+player 620 discards a 110 to deck 621
+player 620 current hand : 262 340 24 233 24 894 249 887 472 113 146 917 157 442 899 866 162 550 622 853 
+player 620 draws a 834 from deck 620
+player 620 discards a 262 to deck 621
+player 620 current hand : 340 24 233 24 894 249 887 472 113 146 917 157 442 899 866 162 550 622 853 834 
+player 620 draws a 993 from deck 620
+player 620 discards a 340 to deck 621
+player 620 current hand : 24 233 24 894 249 887 472 113 146 917 157 442 899 866 162 550 622 853 834 993 
+player 620 draws a 812 from deck 620
+player 620 discards a 24 to deck 621
+player 620 current hand : 233 24 894 249 887 472 113 146 917 157 442 899 866 162 550 622 853 834 993 812 
+player 620 draws a 825 from deck 620

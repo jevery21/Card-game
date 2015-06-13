@@ -1,0 +1,312 @@
+player 513 initial hand 604 7 775 441 499 535 603 493 577 409 840 686 675 51 971 919 457 848 712 54 
+player 513 draws a 258 from deck 513
+player 513 discards a 604 to deck 514
+player 513 current hand : 7 775 441 499 535 603 493 577 409 840 686 675 51 971 919 457 848 712 54 258 
+player 513 draws a 2 from deck 513
+player 513 discards a 7 to deck 514
+player 513 current hand : 775 441 499 535 603 493 577 409 840 686 675 51 971 919 457 848 712 54 258 2 
+player 513 draws a 483 from deck 513
+player 513 discards a 775 to deck 514
+player 513 current hand : 441 499 535 603 493 577 409 840 686 675 51 971 919 457 848 712 54 258 2 483 
+player 513 draws a 984 from deck 513
+player 513 discards a 441 to deck 514
+player 513 current hand : 499 535 603 493 577 409 840 686 675 51 971 919 457 848 712 54 258 2 483 984 
+player 513 draws a 920 from deck 513
+player 513 discards a 499 to deck 514
+player 513 current hand : 535 603 493 577 409 840 686 675 51 971 919 457 848 712 54 258 2 483 984 920 
+player 513 draws a 812 from deck 513
+player 513 discards a 535 to deck 514
+player 513 current hand : 603 493 577 409 840 686 675 51 971 919 457 848 712 54 258 2 483 984 920 812 
+player 513 draws a 248 from deck 513
+player 513 discards a 603 to deck 514
+player 513 current hand : 493 577 409 840 686 675 51 971 919 457 848 712 54 258 2 483 984 920 812 248 
+player 513 draws a 837 from deck 513
+player 513 discards a 493 to deck 514
+player 513 current hand : 577 409 840 686 675 51 971 919 457 848 712 54 258 2 483 984 920 812 248 837 
+player 513 draws a 341 from deck 513
+player 513 discards a 577 to deck 514
+player 513 current hand : 409 840 686 675 51 971 919 457 848 712 54 258 2 483 984 920 812 248 837 341 
+player 513 draws a 346 from deck 513
+player 513 discards a 409 to deck 514
+player 513 current hand : 840 686 675 51 971 919 457 848 712 54 258 2 483 984 920 812 248 837 341 346 
+player 513 draws a 696 from deck 513
+player 513 discards a 840 to deck 514
+player 513 current hand : 686 675 51 971 919 457 848 712 54 258 2 483 984 920 812 248 837 341 346 696 
+player 513 draws a 51 from deck 513
+player 513 discards a 686 to deck 514
+player 513 current hand : 675 51 971 919 457 848 712 54 258 2 483 984 920 812 248 837 341 346 696 51 
+player 513 draws a 295 from deck 513
+player 513 discards a 675 to deck 514
+player 513 current hand : 51 971 919 457 848 712 54 258 2 483 984 920 812 248 837 341 346 696 51 295 
+player 513 draws a 776 from deck 513
+player 513 discards a 51 to deck 514
+player 513 current hand : 971 919 457 848 712 54 258 2 483 984 920 812 248 837 341 346 696 51 295 776 
+player 513 draws a 972 from deck 513
+player 513 discards a 971 to deck 514
+player 513 current hand : 919 457 848 712 54 258 2 483 984 920 812 248 837 341 346 696 51 295 776 972 
+player 513 draws a 168 from deck 513
+player 513 discards a 919 to deck 514
+player 513 current hand : 457 848 712 54 258 2 483 984 920 812 248 837 341 346 696 51 295 776 972 168 
+player 513 draws a 592 from deck 513
+player 513 discards a 457 to deck 514
+player 513 current hand : 848 712 54 258 2 483 984 920 812 248 837 341 346 696 51 295 776 972 168 592 
+player 513 draws a 10 from deck 513
+player 513 discards a 848 to deck 514
+player 513 current hand : 712 54 258 2 483 984 920 812 248 837 341 346 696 51 295 776 972 168 592 10 
+player 513 draws a 218 from deck 513
+player 513 discards a 712 to deck 514
+player 513 current hand : 54 258 2 483 984 920 812 248 837 341 346 696 51 295 776 972 168 592 10 218 
+player 513 draws a 747 from deck 513
+player 513 discards a 54 to deck 514
+player 513 current hand : 258 2 483 984 920 812 248 837 341 346 696 51 295 776 972 168 592 10 218 747 
+player 513 draws a 798 from deck 513
+player 513 discards a 258 to deck 514
+player 513 current hand : 2 483 984 920 812 248 837 341 346 696 51 295 776 972 168 592 10 218 747 798 
+player 513 draws a 369 from deck 513
+player 513 discards a 2 to deck 514
+player 513 current hand : 483 984 920 812 248 837 341 346 696 51 295 776 972 168 592 10 218 747 798 369 
+player 513 draws a 45 from deck 513
+player 513 discards a 483 to deck 514
+player 513 current hand : 984 920 812 248 837 341 346 696 51 295 776 972 168 592 10 218 747 798 369 45 
+player 513 draws a 229 from deck 513
+player 513 discards a 984 to deck 514
+player 513 current hand : 920 812 248 837 341 346 696 51 295 776 972 168 592 10 218 747 798 369 45 229 
+player 513 draws a 729 from deck 513
+player 513 discards a 920 to deck 514
+player 513 current hand : 812 248 837 341 346 696 51 295 776 972 168 592 10 218 747 798 369 45 229 729 
+player 513 draws a 642 from deck 513
+player 513 discards a 812 to deck 514
+player 513 current hand : 248 837 341 346 696 51 295 776 972 168 592 10 218 747 798 369 45 229 729 642 
+player 513 draws a 109 from deck 513
+player 513 discards a 248 to deck 514
+player 513 current hand : 837 341 346 696 51 295 776 972 168 592 10 218 747 798 369 45 229 729 642 109 
+player 513 draws a 210 from deck 513
+player 513 discards a 837 to deck 514
+player 513 current hand : 341 346 696 51 295 776 972 168 592 10 218 747 798 369 45 229 729 642 109 210 
+player 513 draws a 692 from deck 513
+player 513 discards a 341 to deck 514
+player 513 current hand : 346 696 51 295 776 972 168 592 10 218 747 798 369 45 229 729 642 109 210 692 
+player 513 draws a 287 from deck 513
+player 513 discards a 346 to deck 514
+player 513 current hand : 696 51 295 776 972 168 592 10 218 747 798 369 45 229 729 642 109 210 692 287 
+player 513 draws a 721 from deck 513
+player 513 discards a 696 to deck 514
+player 513 current hand : 51 295 776 972 168 592 10 218 747 798 369 45 229 729 642 109 210 692 287 721 
+player 513 draws a 778 from deck 513
+player 513 discards a 51 to deck 514
+player 513 current hand : 295 776 972 168 592 10 218 747 798 369 45 229 729 642 109 210 692 287 721 778 
+player 513 draws a 406 from deck 513
+player 513 discards a 295 to deck 514
+player 513 current hand : 776 972 168 592 10 218 747 798 369 45 229 729 642 109 210 692 287 721 778 406 
+player 513 draws a 778 from deck 513
+player 513 discards a 776 to deck 514
+player 513 current hand : 972 168 592 10 218 747 798 369 45 229 729 642 109 210 692 287 721 778 406 778 
+player 513 draws a 732 from deck 513
+player 513 discards a 972 to deck 514
+player 513 current hand : 168 592 10 218 747 798 369 45 229 729 642 109 210 692 287 721 778 406 778 732 
+player 513 draws a 189 from deck 513
+player 513 discards a 168 to deck 514
+player 513 current hand : 592 10 218 747 798 369 45 229 729 642 109 210 692 287 721 778 406 778 732 189 
+player 513 draws a 675 from deck 513
+player 513 discards a 592 to deck 514
+player 513 current hand : 10 218 747 798 369 45 229 729 642 109 210 692 287 721 778 406 778 732 189 675 
+player 513 draws a 907 from deck 513
+player 513 discards a 10 to deck 514
+player 513 current hand : 218 747 798 369 45 229 729 642 109 210 692 287 721 778 406 778 732 189 675 907 
+player 513 draws a 537 from deck 513
+player 513 discards a 218 to deck 514
+player 513 current hand : 747 798 369 45 229 729 642 109 210 692 287 721 778 406 778 732 189 675 907 537 
+player 513 draws a 920 from deck 513
+player 513 discards a 747 to deck 514
+player 513 current hand : 798 369 45 229 729 642 109 210 692 287 721 778 406 778 732 189 675 907 537 920 
+player 513 draws a 185 from deck 513
+player 513 discards a 798 to deck 514
+player 513 current hand : 369 45 229 729 642 109 210 692 287 721 778 406 778 732 189 675 907 537 920 185 
+player 513 draws a 839 from deck 513
+player 513 discards a 369 to deck 514
+player 513 current hand : 45 229 729 642 109 210 692 287 721 778 406 778 732 189 675 907 537 920 185 839 
+player 513 draws a 647 from deck 513
+player 513 discards a 45 to deck 514
+player 513 current hand : 229 729 642 109 210 692 287 721 778 406 778 732 189 675 907 537 920 185 839 647 
+player 513 draws a 709 from deck 513
+player 513 discards a 229 to deck 514
+player 513 current hand : 729 642 109 210 692 287 721 778 406 778 732 189 675 907 537 920 185 839 647 709 
+player 513 draws a 654 from deck 513
+player 513 discards a 729 to deck 514
+player 513 current hand : 642 109 210 692 287 721 778 406 778 732 189 675 907 537 920 185 839 647 709 654 
+player 513 draws a 453 from deck 513
+player 513 discards a 642 to deck 514
+player 513 current hand : 109 210 692 287 721 778 406 778 732 189 675 907 537 920 185 839 647 709 654 453 
+player 513 draws a 287 from deck 513
+player 513 discards a 109 to deck 514
+player 513 current hand : 210 692 287 721 778 406 778 732 189 675 907 537 920 185 839 647 709 654 453 287 
+player 513 draws a 426 from deck 513
+player 513 discards a 210 to deck 514
+player 513 current hand : 692 287 721 778 406 778 732 189 675 907 537 920 185 839 647 709 654 453 287 426 
+player 513 draws a 89 from deck 513
+player 513 discards a 692 to deck 514
+player 513 current hand : 287 721 778 406 778 732 189 675 907 537 920 185 839 647 709 654 453 287 426 89 
+player 513 draws a 255 from deck 513
+player 513 discards a 287 to deck 514
+player 513 current hand : 721 778 406 778 732 189 675 907 537 920 185 839 647 709 654 453 287 426 89 255 
+player 513 draws a 717 from deck 513
+player 513 discards a 721 to deck 514
+player 513 current hand : 778 406 778 732 189 675 907 537 920 185 839 647 709 654 453 287 426 89 255 717 
+player 513 draws a 592 from deck 513
+player 513 discards a 778 to deck 514
+player 513 current hand : 406 778 732 189 675 907 537 920 185 839 647 709 654 453 287 426 89 255 717 592 
+player 513 draws a 263 from deck 513
+player 513 discards a 406 to deck 514
+player 513 current hand : 778 732 189 675 907 537 920 185 839 647 709 654 453 287 426 89 255 717 592 263 
+player 513 draws a 423 from deck 513
+player 513 discards a 778 to deck 514
+player 513 current hand : 732 189 675 907 537 920 185 839 647 709 654 453 287 426 89 255 717 592 263 423 
+player 513 draws a 651 from deck 513
+player 513 discards a 732 to deck 514
+player 513 current hand : 189 675 907 537 920 185 839 647 709 654 453 287 426 89 255 717 592 263 423 651 
+player 513 draws a 555 from deck 513
+player 513 discards a 189 to deck 514
+player 513 current hand : 675 907 537 920 185 839 647 709 654 453 287 426 89 255 717 592 263 423 651 555 
+player 513 draws a 159 from deck 513
+player 513 discards a 675 to deck 514
+player 513 current hand : 907 537 920 185 839 647 709 654 453 287 426 89 255 717 592 263 423 651 555 159 
+player 513 draws a 950 from deck 513
+player 513 discards a 907 to deck 514
+player 513 current hand : 537 920 185 839 647 709 654 453 287 426 89 255 717 592 263 423 651 555 159 950 
+player 513 draws a 581 from deck 513
+player 513 discards a 537 to deck 514
+player 513 current hand : 920 185 839 647 709 654 453 287 426 89 255 717 592 263 423 651 555 159 950 581 
+player 513 draws a 593 from deck 513
+player 513 discards a 920 to deck 514
+player 513 current hand : 185 839 647 709 654 453 287 426 89 255 717 592 263 423 651 555 159 950 581 593 
+player 513 draws a 33 from deck 513
+player 513 discards a 185 to deck 514
+player 513 current hand : 839 647 709 654 453 287 426 89 255 717 592 263 423 651 555 159 950 581 593 33 
+player 513 draws a 105 from deck 513
+player 513 discards a 839 to deck 514
+player 513 current hand : 647 709 654 453 287 426 89 255 717 592 263 423 651 555 159 950 581 593 33 105 
+player 513 draws a 676 from deck 513
+player 513 discards a 647 to deck 514
+player 513 current hand : 709 654 453 287 426 89 255 717 592 263 423 651 555 159 950 581 593 33 105 676 
+player 513 draws a 72 from deck 513
+player 513 discards a 709 to deck 514
+player 513 current hand : 654 453 287 426 89 255 717 592 263 423 651 555 159 950 581 593 33 105 676 72 
+player 513 draws a 743 from deck 513
+player 513 discards a 654 to deck 514
+player 513 current hand : 453 287 426 89 255 717 592 263 423 651 555 159 950 581 593 33 105 676 72 743 
+player 513 draws a 391 from deck 513
+player 513 discards a 453 to deck 514
+player 513 current hand : 287 426 89 255 717 592 263 423 651 555 159 950 581 593 33 105 676 72 743 391 
+player 513 draws a 473 from deck 513
+player 513 discards a 287 to deck 514
+player 513 current hand : 426 89 255 717 592 263 423 651 555 159 950 581 593 33 105 676 72 743 391 473 
+player 513 draws a 814 from deck 513
+player 513 discards a 426 to deck 514
+player 513 current hand : 89 255 717 592 263 423 651 555 159 950 581 593 33 105 676 72 743 391 473 814 
+player 513 draws a 951 from deck 513
+player 513 discards a 89 to deck 514
+player 513 current hand : 255 717 592 263 423 651 555 159 950 581 593 33 105 676 72 743 391 473 814 951 
+player 513 draws a 549 from deck 513
+player 513 discards a 255 to deck 514
+player 513 current hand : 717 592 263 423 651 555 159 950 581 593 33 105 676 72 743 391 473 814 951 549 
+player 513 draws a 499 from deck 513
+player 513 discards a 717 to deck 514
+player 513 current hand : 592 263 423 651 555 159 950 581 593 33 105 676 72 743 391 473 814 951 549 499 
+player 513 draws a 285 from deck 513
+player 513 discards a 592 to deck 514
+player 513 current hand : 263 423 651 555 159 950 581 593 33 105 676 72 743 391 473 814 951 549 499 285 
+player 513 draws a 865 from deck 513
+player 513 discards a 263 to deck 514
+player 513 current hand : 423 651 555 159 950 581 593 33 105 676 72 743 391 473 814 951 549 499 285 865 
+player 513 draws a 532 from deck 513
+player 513 discards a 423 to deck 514
+player 513 current hand : 651 555 159 950 581 593 33 105 676 72 743 391 473 814 951 549 499 285 865 532 
+player 513 draws a 944 from deck 513
+player 513 discards a 651 to deck 514
+player 513 current hand : 555 159 950 581 593 33 105 676 72 743 391 473 814 951 549 499 285 865 532 944 
+player 513 draws a 920 from deck 513
+player 513 discards a 555 to deck 514
+player 513 current hand : 159 950 581 593 33 105 676 72 743 391 473 814 951 549 499 285 865 532 944 920 
+player 513 draws a 241 from deck 513
+player 513 discards a 159 to deck 514
+player 513 current hand : 950 581 593 33 105 676 72 743 391 473 814 951 549 499 285 865 532 944 920 241 
+player 513 draws a 269 from deck 513
+player 513 discards a 950 to deck 514
+player 513 current hand : 581 593 33 105 676 72 743 391 473 814 951 549 499 285 865 532 944 920 241 269 
+player 513 draws a 69 from deck 513
+player 513 discards a 581 to deck 514
+player 513 current hand : 593 33 105 676 72 743 391 473 814 951 549 499 285 865 532 944 920 241 269 69 
+player 513 draws a 504 from deck 513
+player 513 discards a 593 to deck 514
+player 513 current hand : 33 105 676 72 743 391 473 814 951 549 499 285 865 532 944 920 241 269 69 504 
+player 513 draws a 864 from deck 513
+player 513 discards a 33 to deck 514
+player 513 current hand : 105 676 72 743 391 473 814 951 549 499 285 865 532 944 920 241 269 69 504 864 
+player 513 draws a 948 from deck 513
+player 513 discards a 105 to deck 514
+player 513 current hand : 676 72 743 391 473 814 951 549 499 285 865 532 944 920 241 269 69 504 864 948 
+player 513 draws a 496 from deck 513
+player 513 discards a 676 to deck 514
+player 513 current hand : 72 743 391 473 814 951 549 499 285 865 532 944 920 241 269 69 504 864 948 496 
+player 513 draws a 841 from deck 513
+player 513 discards a 72 to deck 514
+player 513 current hand : 743 391 473 814 951 549 499 285 865 532 944 920 241 269 69 504 864 948 496 841 
+player 513 draws a 62 from deck 513
+player 513 discards a 743 to deck 514
+player 513 current hand : 391 473 814 951 549 499 285 865 532 944 920 241 269 69 504 864 948 496 841 62 
+player 513 draws a 684 from deck 513
+player 513 discards a 391 to deck 514
+player 513 current hand : 473 814 951 549 499 285 865 532 944 920 241 269 69 504 864 948 496 841 62 684 
+player 513 draws a 319 from deck 513
+player 513 discards a 473 to deck 514
+player 513 current hand : 814 951 549 499 285 865 532 944 920 241 269 69 504 864 948 496 841 62 684 319 
+player 513 draws a 875 from deck 513
+player 513 discards a 814 to deck 514
+player 513 current hand : 951 549 499 285 865 532 944 920 241 269 69 504 864 948 496 841 62 684 319 875 
+player 513 draws a 329 from deck 513
+player 513 discards a 951 to deck 514
+player 513 current hand : 549 499 285 865 532 944 920 241 269 69 504 864 948 496 841 62 684 319 875 329 
+player 513 draws a 777 from deck 513
+player 513 discards a 549 to deck 514
+player 513 current hand : 499 285 865 532 944 920 241 269 69 504 864 948 496 841 62 684 319 875 329 777 
+player 513 draws a 680 from deck 513
+player 513 discards a 499 to deck 514
+player 513 current hand : 285 865 532 944 920 241 269 69 504 864 948 496 841 62 684 319 875 329 777 680 
+player 513 draws a 600 from deck 513
+player 513 discards a 285 to deck 514
+player 513 current hand : 865 532 944 920 241 269 69 504 864 948 496 841 62 684 319 875 329 777 680 600 
+player 513 draws a 682 from deck 513
+player 513 discards a 865 to deck 514
+player 513 current hand : 532 944 920 241 269 69 504 864 948 496 841 62 684 319 875 329 777 680 600 682 
+player 513 draws a 928 from deck 513
+player 513 discards a 532 to deck 514
+player 513 current hand : 944 920 241 269 69 504 864 948 496 841 62 684 319 875 329 777 680 600 682 928 
+player 513 draws a 305 from deck 513
+player 513 discards a 944 to deck 514
+player 513 current hand : 920 241 269 69 504 864 948 496 841 62 684 319 875 329 777 680 600 682 928 305 
+player 513 draws a 973 from deck 513
+player 513 discards a 920 to deck 514
+player 513 current hand : 241 269 69 504 864 948 496 841 62 684 319 875 329 777 680 600 682 928 305 973 
+player 513 draws a 272 from deck 513
+player 513 discards a 241 to deck 514
+player 513 current hand : 269 69 504 864 948 496 841 62 684 319 875 329 777 680 600 682 928 305 973 272 
+player 513 draws a 636 from deck 513
+player 513 discards a 269 to deck 514
+player 513 current hand : 69 504 864 948 496 841 62 684 319 875 329 777 680 600 682 928 305 973 272 636 
+player 513 draws a 5 from deck 513
+player 513 discards a 69 to deck 514
+player 513 current hand : 504 864 948 496 841 62 684 319 875 329 777 680 600 682 928 305 973 272 636 5 
+player 513 draws a 9 from deck 513
+player 513 discards a 504 to deck 514
+player 513 current hand : 864 948 496 841 62 684 319 875 329 777 680 600 682 928 305 973 272 636 5 9 
+player 513 draws a 242 from deck 513
+player 513 discards a 864 to deck 514
+player 513 current hand : 948 496 841 62 684 319 875 329 777 680 600 682 928 305 973 272 636 5 9 242 
+player 513 draws a 753 from deck 513
+player 513 discards a 948 to deck 514
+player 513 current hand : 496 841 62 684 319 875 329 777 680 600 682 928 305 973 272 636 5 9 242 753 
+player 513 draws a 777 from deck 513
+player 513 discards a 496 to deck 514
+player 513 current hand : 841 62 684 319 875 329 777 680 600 682 928 305 973 272 636 5 9 242 753 777 
+player 513 draws a 308 from deck 513
+player 513 discards a 841 to deck 514

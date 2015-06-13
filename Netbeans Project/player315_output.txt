@@ -1,0 +1,297 @@
+player 315 initial hand 434 427 680 455 688 681 583 285 315 480 565 834 630 746 42 343 492 222 827 886 
+player 315 draws a 938 from deck 315
+player 315 discards a 434 to deck 316
+player 315 current hand : 427 680 455 688 681 583 285 315 480 565 834 630 746 42 343 492 222 827 886 938 
+player 315 draws a 568 from deck 315
+player 315 discards a 427 to deck 316
+player 315 current hand : 680 455 688 681 583 285 315 480 565 834 630 746 42 343 492 222 827 886 938 568 
+player 315 draws a 524 from deck 315
+player 315 discards a 680 to deck 316
+player 315 current hand : 455 688 681 583 285 315 480 565 834 630 746 42 343 492 222 827 886 938 568 524 
+player 315 draws a 391 from deck 315
+player 315 discards a 455 to deck 316
+player 315 current hand : 688 681 583 285 315 480 565 834 630 746 42 343 492 222 827 886 938 568 524 391 
+player 315 draws a 745 from deck 315
+player 315 discards a 688 to deck 316
+player 315 current hand : 681 583 285 315 480 565 834 630 746 42 343 492 222 827 886 938 568 524 391 745 
+player 315 draws a 60 from deck 315
+player 315 discards a 681 to deck 316
+player 315 current hand : 583 285 315 480 565 834 630 746 42 343 492 222 827 886 938 568 524 391 745 60 
+player 315 draws a 977 from deck 315
+player 315 discards a 583 to deck 316
+player 315 current hand : 285 315 480 565 834 630 746 42 343 492 222 827 886 938 568 524 391 745 60 977 
+player 315 draws a 246 from deck 315
+player 315 discards a 285 to deck 316
+player 315 current hand : 315 480 565 834 630 746 42 343 492 222 827 886 938 568 524 391 745 60 977 246 
+player 315 draws a 580 from deck 315
+player 315 discards a 480 to deck 316
+player 315 current hand : 315 565 834 630 746 42 343 492 222 827 886 938 568 524 391 745 60 977 246 580 
+player 315 draws a 855 from deck 315
+player 315 discards a 565 to deck 316
+player 315 current hand : 315 834 630 746 42 343 492 222 827 886 938 568 524 391 745 60 977 246 580 855 
+player 315 draws a 485 from deck 315
+player 315 discards a 834 to deck 316
+player 315 current hand : 315 630 746 42 343 492 222 827 886 938 568 524 391 745 60 977 246 580 855 485 
+player 315 draws a 605 from deck 315
+player 315 discards a 630 to deck 316
+player 315 current hand : 315 746 42 343 492 222 827 886 938 568 524 391 745 60 977 246 580 855 485 605 
+player 315 draws a 516 from deck 315
+player 315 discards a 746 to deck 316
+player 315 current hand : 315 42 343 492 222 827 886 938 568 524 391 745 60 977 246 580 855 485 605 516 
+player 315 draws a 605 from deck 315
+player 315 discards a 42 to deck 316
+player 315 current hand : 315 343 492 222 827 886 938 568 524 391 745 60 977 246 580 855 485 605 516 605 
+player 315 draws a 706 from deck 315
+player 315 discards a 343 to deck 316
+player 315 current hand : 315 492 222 827 886 938 568 524 391 745 60 977 246 580 855 485 605 516 605 706 
+player 315 draws a 860 from deck 315
+player 315 discards a 492 to deck 316
+player 315 current hand : 315 222 827 886 938 568 524 391 745 60 977 246 580 855 485 605 516 605 706 860 
+player 315 draws a 650 from deck 315
+player 315 discards a 222 to deck 316
+player 315 current hand : 315 827 886 938 568 524 391 745 60 977 246 580 855 485 605 516 605 706 860 650 
+player 315 draws a 38 from deck 315
+player 315 discards a 827 to deck 316
+player 315 current hand : 315 886 938 568 524 391 745 60 977 246 580 855 485 605 516 605 706 860 650 38 
+player 315 draws a 374 from deck 315
+player 315 discards a 886 to deck 316
+player 315 current hand : 315 938 568 524 391 745 60 977 246 580 855 485 605 516 605 706 860 650 38 374 
+player 315 draws a 361 from deck 315
+player 315 discards a 938 to deck 316
+player 315 current hand : 315 568 524 391 745 60 977 246 580 855 485 605 516 605 706 860 650 38 374 361 
+player 315 draws a 365 from deck 315
+player 315 discards a 568 to deck 316
+player 315 current hand : 315 524 391 745 60 977 246 580 855 485 605 516 605 706 860 650 38 374 361 365 
+player 315 draws a 19 from deck 315
+player 315 discards a 524 to deck 316
+player 315 current hand : 315 391 745 60 977 246 580 855 485 605 516 605 706 860 650 38 374 361 365 19 
+player 315 draws a 774 from deck 315
+player 315 discards a 391 to deck 316
+player 315 current hand : 315 745 60 977 246 580 855 485 605 516 605 706 860 650 38 374 361 365 19 774 
+player 315 draws a 38 from deck 315
+player 315 discards a 745 to deck 316
+player 315 current hand : 315 60 977 246 580 855 485 605 516 605 706 860 650 38 374 361 365 19 774 38 
+player 315 draws a 511 from deck 315
+player 315 discards a 60 to deck 316
+player 315 current hand : 315 977 246 580 855 485 605 516 605 706 860 650 38 374 361 365 19 774 38 511 
+player 315 draws a 863 from deck 315
+player 315 discards a 977 to deck 316
+player 315 current hand : 315 246 580 855 485 605 516 605 706 860 650 38 374 361 365 19 774 38 511 863 
+player 315 draws a 45 from deck 315
+player 315 discards a 246 to deck 316
+player 315 current hand : 315 580 855 485 605 516 605 706 860 650 38 374 361 365 19 774 38 511 863 45 
+player 315 draws a 926 from deck 315
+player 315 discards a 580 to deck 316
+player 315 current hand : 315 855 485 605 516 605 706 860 650 38 374 361 365 19 774 38 511 863 45 926 
+player 315 draws a 853 from deck 315
+player 315 discards a 855 to deck 316
+player 315 current hand : 315 485 605 516 605 706 860 650 38 374 361 365 19 774 38 511 863 45 926 853 
+player 315 draws a 747 from deck 315
+player 315 discards a 485 to deck 316
+player 315 current hand : 315 605 516 605 706 860 650 38 374 361 365 19 774 38 511 863 45 926 853 747 
+player 315 draws a 254 from deck 315
+player 315 discards a 605 to deck 316
+player 315 current hand : 315 516 605 706 860 650 38 374 361 365 19 774 38 511 863 45 926 853 747 254 
+player 315 draws a 644 from deck 315
+player 315 discards a 516 to deck 316
+player 315 current hand : 315 605 706 860 650 38 374 361 365 19 774 38 511 863 45 926 853 747 254 644 
+player 315 draws a 440 from deck 315
+player 315 discards a 605 to deck 316
+player 315 current hand : 315 706 860 650 38 374 361 365 19 774 38 511 863 45 926 853 747 254 644 440 
+player 315 draws a 266 from deck 315
+player 315 discards a 706 to deck 316
+player 315 current hand : 315 860 650 38 374 361 365 19 774 38 511 863 45 926 853 747 254 644 440 266 
+player 315 draws a 275 from deck 315
+player 315 discards a 860 to deck 316
+player 315 current hand : 315 650 38 374 361 365 19 774 38 511 863 45 926 853 747 254 644 440 266 275 
+player 315 draws a 396 from deck 315
+player 315 discards a 650 to deck 316
+player 315 current hand : 315 38 374 361 365 19 774 38 511 863 45 926 853 747 254 644 440 266 275 396 
+player 315 draws a 589 from deck 315
+player 315 discards a 38 to deck 316
+player 315 current hand : 315 374 361 365 19 774 38 511 863 45 926 853 747 254 644 440 266 275 396 589 
+player 315 draws a 341 from deck 315
+player 315 discards a 374 to deck 316
+player 315 current hand : 315 361 365 19 774 38 511 863 45 926 853 747 254 644 440 266 275 396 589 341 
+player 315 draws a 389 from deck 315
+player 315 discards a 361 to deck 316
+player 315 current hand : 315 365 19 774 38 511 863 45 926 853 747 254 644 440 266 275 396 589 341 389 
+player 315 draws a 879 from deck 315
+player 315 discards a 365 to deck 316
+player 315 current hand : 315 19 774 38 511 863 45 926 853 747 254 644 440 266 275 396 589 341 389 879 
+player 315 draws a 79 from deck 315
+player 315 discards a 19 to deck 316
+player 315 current hand : 315 774 38 511 863 45 926 853 747 254 644 440 266 275 396 589 341 389 879 79 
+player 315 draws a 330 from deck 315
+player 315 discards a 774 to deck 316
+player 315 current hand : 315 38 511 863 45 926 853 747 254 644 440 266 275 396 589 341 389 879 79 330 
+player 315 draws a 773 from deck 315
+player 315 discards a 38 to deck 316
+player 315 current hand : 315 511 863 45 926 853 747 254 644 440 266 275 396 589 341 389 879 79 330 773 
+player 315 draws a 722 from deck 315
+player 315 discards a 511 to deck 316
+player 315 current hand : 315 863 45 926 853 747 254 644 440 266 275 396 589 341 389 879 79 330 773 722 
+player 315 draws a 545 from deck 315
+player 315 discards a 863 to deck 316
+player 315 current hand : 315 45 926 853 747 254 644 440 266 275 396 589 341 389 879 79 330 773 722 545 
+player 315 draws a 309 from deck 315
+player 315 discards a 45 to deck 316
+player 315 current hand : 315 926 853 747 254 644 440 266 275 396 589 341 389 879 79 330 773 722 545 309 
+player 315 draws a 238 from deck 315
+player 315 discards a 926 to deck 316
+player 315 current hand : 315 853 747 254 644 440 266 275 396 589 341 389 879 79 330 773 722 545 309 238 
+player 315 draws a 255 from deck 315
+player 315 discards a 853 to deck 316
+player 315 current hand : 315 747 254 644 440 266 275 396 589 341 389 879 79 330 773 722 545 309 238 255 
+player 315 draws a 128 from deck 315
+player 315 discards a 747 to deck 316
+player 315 current hand : 315 254 644 440 266 275 396 589 341 389 879 79 330 773 722 545 309 238 255 128 
+player 315 draws a 242 from deck 315
+player 315 discards a 254 to deck 316
+player 315 current hand : 315 644 440 266 275 396 589 341 389 879 79 330 773 722 545 309 238 255 128 242 
+player 315 draws a 495 from deck 315
+player 315 discards a 644 to deck 316
+player 315 current hand : 315 440 266 275 396 589 341 389 879 79 330 773 722 545 309 238 255 128 242 495 
+player 315 draws a 557 from deck 315
+player 315 discards a 440 to deck 316
+player 315 current hand : 315 266 275 396 589 341 389 879 79 330 773 722 545 309 238 255 128 242 495 557 
+player 315 draws a 931 from deck 315
+player 315 discards a 266 to deck 316
+player 315 current hand : 315 275 396 589 341 389 879 79 330 773 722 545 309 238 255 128 242 495 557 931 
+player 315 draws a 462 from deck 315
+player 315 discards a 275 to deck 316
+player 315 current hand : 315 396 589 341 389 879 79 330 773 722 545 309 238 255 128 242 495 557 931 462 
+player 315 draws a 415 from deck 315
+player 315 discards a 396 to deck 316
+player 315 current hand : 315 589 341 389 879 79 330 773 722 545 309 238 255 128 242 495 557 931 462 415 
+player 315 draws a 240 from deck 315
+player 315 discards a 589 to deck 316
+player 315 current hand : 315 341 389 879 79 330 773 722 545 309 238 255 128 242 495 557 931 462 415 240 
+player 315 draws a 78 from deck 315
+player 315 discards a 341 to deck 316
+player 315 current hand : 315 389 879 79 330 773 722 545 309 238 255 128 242 495 557 931 462 415 240 78 
+player 315 draws a 196 from deck 315
+player 315 discards a 389 to deck 316
+player 315 current hand : 315 879 79 330 773 722 545 309 238 255 128 242 495 557 931 462 415 240 78 196 
+player 315 draws a 600 from deck 315
+player 315 discards a 879 to deck 316
+player 315 current hand : 315 79 330 773 722 545 309 238 255 128 242 495 557 931 462 415 240 78 196 600 
+player 315 draws a 988 from deck 315
+player 315 discards a 79 to deck 316
+player 315 current hand : 315 330 773 722 545 309 238 255 128 242 495 557 931 462 415 240 78 196 600 988 
+player 315 draws a 825 from deck 315
+player 315 discards a 330 to deck 316
+player 315 current hand : 315 773 722 545 309 238 255 128 242 495 557 931 462 415 240 78 196 600 988 825 
+player 315 draws a 10 from deck 315
+player 315 discards a 773 to deck 316
+player 315 current hand : 315 722 545 309 238 255 128 242 495 557 931 462 415 240 78 196 600 988 825 10 
+player 315 draws a 14 from deck 315
+player 315 discards a 722 to deck 316
+player 315 current hand : 315 545 309 238 255 128 242 495 557 931 462 415 240 78 196 600 988 825 10 14 
+player 315 draws a 41 from deck 315
+player 315 discards a 545 to deck 316
+player 315 current hand : 315 309 238 255 128 242 495 557 931 462 415 240 78 196 600 988 825 10 14 41 
+player 315 draws a 955 from deck 315
+player 315 discards a 309 to deck 316
+player 315 current hand : 315 238 255 128 242 495 557 931 462 415 240 78 196 600 988 825 10 14 41 955 
+player 315 draws a 260 from deck 315
+player 315 discards a 238 to deck 316
+player 315 current hand : 315 255 128 242 495 557 931 462 415 240 78 196 600 988 825 10 14 41 955 260 
+player 315 draws a 767 from deck 315
+player 315 discards a 255 to deck 316
+player 315 current hand : 315 128 242 495 557 931 462 415 240 78 196 600 988 825 10 14 41 955 260 767 
+player 315 draws a 128 from deck 315
+player 315 discards a 128 to deck 316
+player 315 current hand : 315 242 495 557 931 462 415 240 78 196 600 988 825 10 14 41 955 260 767 128 
+player 315 draws a 866 from deck 315
+player 315 discards a 242 to deck 316
+player 315 current hand : 315 495 557 931 462 415 240 78 196 600 988 825 10 14 41 955 260 767 128 866 
+player 315 draws a 456 from deck 315
+player 315 discards a 495 to deck 316
+player 315 current hand : 315 557 931 462 415 240 78 196 600 988 825 10 14 41 955 260 767 128 866 456 
+player 315 draws a 534 from deck 315
+player 315 discards a 557 to deck 316
+player 315 current hand : 315 931 462 415 240 78 196 600 988 825 10 14 41 955 260 767 128 866 456 534 
+player 315 draws a 478 from deck 315
+player 315 discards a 931 to deck 316
+player 315 current hand : 315 462 415 240 78 196 600 988 825 10 14 41 955 260 767 128 866 456 534 478 
+player 315 draws a 947 from deck 315
+player 315 discards a 462 to deck 316
+player 315 current hand : 315 415 240 78 196 600 988 825 10 14 41 955 260 767 128 866 456 534 478 947 
+player 315 draws a 524 from deck 315
+player 315 discards a 415 to deck 316
+player 315 current hand : 315 240 78 196 600 988 825 10 14 41 955 260 767 128 866 456 534 478 947 524 
+player 315 draws a 991 from deck 315
+player 315 discards a 240 to deck 316
+player 315 current hand : 315 78 196 600 988 825 10 14 41 955 260 767 128 866 456 534 478 947 524 991 
+player 315 draws a 1 from deck 315
+player 315 discards a 78 to deck 316
+player 315 current hand : 315 196 600 988 825 10 14 41 955 260 767 128 866 456 534 478 947 524 991 1 
+player 315 draws a 482 from deck 315
+player 315 discards a 196 to deck 316
+player 315 current hand : 315 600 988 825 10 14 41 955 260 767 128 866 456 534 478 947 524 991 1 482 
+player 315 draws a 527 from deck 315
+player 315 discards a 600 to deck 316
+player 315 current hand : 315 988 825 10 14 41 955 260 767 128 866 456 534 478 947 524 991 1 482 527 
+player 315 draws a 562 from deck 315
+player 315 discards a 988 to deck 316
+player 315 current hand : 315 825 10 14 41 955 260 767 128 866 456 534 478 947 524 991 1 482 527 562 
+player 315 draws a 375 from deck 315
+player 315 discards a 825 to deck 316
+player 315 current hand : 315 10 14 41 955 260 767 128 866 456 534 478 947 524 991 1 482 527 562 375 
+player 315 draws a 816 from deck 315
+player 315 discards a 10 to deck 316
+player 315 current hand : 315 14 41 955 260 767 128 866 456 534 478 947 524 991 1 482 527 562 375 816 
+player 315 draws a 426 from deck 315
+player 315 discards a 14 to deck 316
+player 315 current hand : 315 41 955 260 767 128 866 456 534 478 947 524 991 1 482 527 562 375 816 426 
+player 315 draws a 550 from deck 315
+player 315 discards a 41 to deck 316
+player 315 current hand : 315 955 260 767 128 866 456 534 478 947 524 991 1 482 527 562 375 816 426 550 
+player 315 draws a 779 from deck 315
+player 315 discards a 955 to deck 316
+player 315 current hand : 315 260 767 128 866 456 534 478 947 524 991 1 482 527 562 375 816 426 550 779 
+player 315 draws a 518 from deck 315
+player 315 discards a 260 to deck 316
+player 315 current hand : 315 767 128 866 456 534 478 947 524 991 1 482 527 562 375 816 426 550 779 518 
+player 315 draws a 142 from deck 315
+player 315 discards a 767 to deck 316
+player 315 current hand : 315 128 866 456 534 478 947 524 991 1 482 527 562 375 816 426 550 779 518 142 
+player 315 draws a 395 from deck 315
+player 315 discards a 128 to deck 316
+player 315 current hand : 315 866 456 534 478 947 524 991 1 482 527 562 375 816 426 550 779 518 142 395 
+player 315 draws a 173 from deck 315
+player 315 discards a 866 to deck 316
+player 315 current hand : 315 456 534 478 947 524 991 1 482 527 562 375 816 426 550 779 518 142 395 173 
+player 315 draws a 4 from deck 315
+player 315 discards a 456 to deck 316
+player 315 current hand : 315 534 478 947 524 991 1 482 527 562 375 816 426 550 779 518 142 395 173 4 
+player 315 draws a 163 from deck 315
+player 315 discards a 534 to deck 316
+player 315 current hand : 315 478 947 524 991 1 482 527 562 375 816 426 550 779 518 142 395 173 4 163 
+player 315 draws a 622 from deck 315
+player 315 discards a 478 to deck 316
+player 315 current hand : 315 947 524 991 1 482 527 562 375 816 426 550 779 518 142 395 173 4 163 622 
+player 315 draws a 825 from deck 315
+player 315 discards a 947 to deck 316
+player 315 current hand : 315 524 991 1 482 527 562 375 816 426 550 779 518 142 395 173 4 163 622 825 
+player 315 draws a 436 from deck 315
+player 315 discards a 524 to deck 316
+player 315 current hand : 315 991 1 482 527 562 375 816 426 550 779 518 142 395 173 4 163 622 825 436 
+player 315 draws a 580 from deck 315
+player 315 discards a 991 to deck 316
+player 315 current hand : 315 1 482 527 562 375 816 426 550 779 518 142 395 173 4 163 622 825 436 580 
+player 315 draws a 152 from deck 315
+player 315 discards a 1 to deck 316
+player 315 current hand : 315 482 527 562 375 816 426 550 779 518 142 395 173 4 163 622 825 436 580 152 
+player 315 draws a 157 from deck 315
+player 315 discards a 482 to deck 316
+player 315 current hand : 315 527 562 375 816 426 550 779 518 142 395 173 4 163 622 825 436 580 152 157 
+player 315 draws a 437 from deck 315
+player 315 discards a 527 to deck 316
+player 315 current hand : 315 562 375 816 426 550 779 518 142 395 173 4 163 622 825 436 580 152 157 437 
+player 315 draws a 422 from deck 315
+player 315 discards a 562 to deck 316
+player 315 current hand : 315 375 816 426 550 779 518 142 395 173 4 163 622 825 436 580 152 157 437 422 
+player 315 draws a 666 from deck 315
+player 315 discards a 375 to deck 316

@@ -1,0 +1,296 @@
+player 921 initial hand 102 792 805 582 361 242 4 633 778 729 605 925 177 709 292 177 16 412 363 242 
+player 921 draws a 950 from deck 921
+player 921 discards a 102 to deck 922
+player 921 current hand : 792 805 582 361 242 4 633 778 729 605 925 177 709 292 177 16 412 363 242 950 
+player 921 draws a 6 from deck 921
+player 921 discards a 792 to deck 922
+player 921 current hand : 805 582 361 242 4 633 778 729 605 925 177 709 292 177 16 412 363 242 950 6 
+player 921 draws a 44 from deck 921
+player 921 discards a 805 to deck 922
+player 921 current hand : 582 361 242 4 633 778 729 605 925 177 709 292 177 16 412 363 242 950 6 44 
+player 921 draws a 97 from deck 921
+player 921 discards a 582 to deck 922
+player 921 current hand : 361 242 4 633 778 729 605 925 177 709 292 177 16 412 363 242 950 6 44 97 
+player 921 draws a 255 from deck 921
+player 921 discards a 361 to deck 922
+player 921 current hand : 242 4 633 778 729 605 925 177 709 292 177 16 412 363 242 950 6 44 97 255 
+player 921 draws a 436 from deck 921
+player 921 discards a 242 to deck 922
+player 921 current hand : 4 633 778 729 605 925 177 709 292 177 16 412 363 242 950 6 44 97 255 436 
+player 921 draws a 4 from deck 921
+player 921 discards a 4 to deck 922
+player 921 current hand : 633 778 729 605 925 177 709 292 177 16 412 363 242 950 6 44 97 255 436 4 
+player 921 draws a 430 from deck 921
+player 921 discards a 633 to deck 922
+player 921 current hand : 778 729 605 925 177 709 292 177 16 412 363 242 950 6 44 97 255 436 4 430 
+player 921 draws a 406 from deck 921
+player 921 discards a 778 to deck 922
+player 921 current hand : 729 605 925 177 709 292 177 16 412 363 242 950 6 44 97 255 436 4 430 406 
+player 921 draws a 773 from deck 921
+player 921 discards a 729 to deck 922
+player 921 current hand : 605 925 177 709 292 177 16 412 363 242 950 6 44 97 255 436 4 430 406 773 
+player 921 draws a 346 from deck 921
+player 921 discards a 605 to deck 922
+player 921 current hand : 925 177 709 292 177 16 412 363 242 950 6 44 97 255 436 4 430 406 773 346 
+player 921 draws a 24 from deck 921
+player 921 discards a 925 to deck 922
+player 921 current hand : 177 709 292 177 16 412 363 242 950 6 44 97 255 436 4 430 406 773 346 24 
+player 921 draws a 808 from deck 921
+player 921 discards a 177 to deck 922
+player 921 current hand : 709 292 177 16 412 363 242 950 6 44 97 255 436 4 430 406 773 346 24 808 
+player 921 draws a 906 from deck 921
+player 921 discards a 709 to deck 922
+player 921 current hand : 292 177 16 412 363 242 950 6 44 97 255 436 4 430 406 773 346 24 808 906 
+player 921 draws a 327 from deck 921
+player 921 discards a 292 to deck 922
+player 921 current hand : 177 16 412 363 242 950 6 44 97 255 436 4 430 406 773 346 24 808 906 327 
+player 921 draws a 410 from deck 921
+player 921 discards a 177 to deck 922
+player 921 current hand : 16 412 363 242 950 6 44 97 255 436 4 430 406 773 346 24 808 906 327 410 
+player 921 draws a 918 from deck 921
+player 921 discards a 16 to deck 922
+player 921 current hand : 412 363 242 950 6 44 97 255 436 4 430 406 773 346 24 808 906 327 410 918 
+player 921 draws a 768 from deck 921
+player 921 discards a 412 to deck 922
+player 921 current hand : 363 242 950 6 44 97 255 436 4 430 406 773 346 24 808 906 327 410 918 768 
+player 921 draws a 206 from deck 921
+player 921 discards a 363 to deck 922
+player 921 current hand : 242 950 6 44 97 255 436 4 430 406 773 346 24 808 906 327 410 918 768 206 
+player 921 draws a 589 from deck 921
+player 921 discards a 242 to deck 922
+player 921 current hand : 950 6 44 97 255 436 4 430 406 773 346 24 808 906 327 410 918 768 206 589 
+player 921 draws a 329 from deck 921
+player 921 discards a 950 to deck 922
+player 921 current hand : 6 44 97 255 436 4 430 406 773 346 24 808 906 327 410 918 768 206 589 329 
+player 921 draws a 785 from deck 921
+player 921 discards a 6 to deck 922
+player 921 current hand : 44 97 255 436 4 430 406 773 346 24 808 906 327 410 918 768 206 589 329 785 
+player 921 draws a 951 from deck 921
+player 921 discards a 44 to deck 922
+player 921 current hand : 97 255 436 4 430 406 773 346 24 808 906 327 410 918 768 206 589 329 785 951 
+player 921 draws a 899 from deck 921
+player 921 discards a 97 to deck 922
+player 921 current hand : 255 436 4 430 406 773 346 24 808 906 327 410 918 768 206 589 329 785 951 899 
+player 921 draws a 616 from deck 921
+player 921 discards a 255 to deck 922
+player 921 current hand : 436 4 430 406 773 346 24 808 906 327 410 918 768 206 589 329 785 951 899 616 
+player 921 draws a 746 from deck 921
+player 921 discards a 436 to deck 922
+player 921 current hand : 4 430 406 773 346 24 808 906 327 410 918 768 206 589 329 785 951 899 616 746 
+player 921 draws a 887 from deck 921
+player 921 discards a 4 to deck 922
+player 921 current hand : 430 406 773 346 24 808 906 327 410 918 768 206 589 329 785 951 899 616 746 887 
+player 921 draws a 105 from deck 921
+player 921 discards a 430 to deck 922
+player 921 current hand : 406 773 346 24 808 906 327 410 918 768 206 589 329 785 951 899 616 746 887 105 
+player 921 draws a 875 from deck 921
+player 921 discards a 406 to deck 922
+player 921 current hand : 773 346 24 808 906 327 410 918 768 206 589 329 785 951 899 616 746 887 105 875 
+player 921 draws a 15 from deck 921
+player 921 discards a 773 to deck 922
+player 921 current hand : 346 24 808 906 327 410 918 768 206 589 329 785 951 899 616 746 887 105 875 15 
+player 921 draws a 981 from deck 921
+player 921 discards a 346 to deck 922
+player 921 current hand : 24 808 906 327 410 918 768 206 589 329 785 951 899 616 746 887 105 875 15 981 
+player 921 draws a 979 from deck 921
+player 921 discards a 24 to deck 922
+player 921 current hand : 808 906 327 410 918 768 206 589 329 785 951 899 616 746 887 105 875 15 981 979 
+player 921 draws a 474 from deck 921
+player 921 discards a 808 to deck 922
+player 921 current hand : 906 327 410 918 768 206 589 329 785 951 899 616 746 887 105 875 15 981 979 474 
+player 921 draws a 829 from deck 921
+player 921 discards a 906 to deck 922
+player 921 current hand : 327 410 918 768 206 589 329 785 951 899 616 746 887 105 875 15 981 979 474 829 
+player 921 draws a 919 from deck 921
+player 921 discards a 327 to deck 922
+player 921 current hand : 410 918 768 206 589 329 785 951 899 616 746 887 105 875 15 981 979 474 829 919 
+player 921 draws a 502 from deck 921
+player 921 discards a 410 to deck 922
+player 921 current hand : 918 768 206 589 329 785 951 899 616 746 887 105 875 15 981 979 474 829 919 502 
+player 921 draws a 649 from deck 921
+player 921 discards a 918 to deck 922
+player 921 current hand : 768 206 589 329 785 951 899 616 746 887 105 875 15 981 979 474 829 919 502 649 
+player 921 draws a 360 from deck 921
+player 921 discards a 768 to deck 922
+player 921 current hand : 206 589 329 785 951 899 616 746 887 105 875 15 981 979 474 829 919 502 649 360 
+player 921 draws a 328 from deck 921
+player 921 discards a 206 to deck 922
+player 921 current hand : 589 329 785 951 899 616 746 887 105 875 15 981 979 474 829 919 502 649 360 328 
+player 921 draws a 995 from deck 921
+player 921 discards a 589 to deck 922
+player 921 current hand : 329 785 951 899 616 746 887 105 875 15 981 979 474 829 919 502 649 360 328 995 
+player 921 draws a 763 from deck 921
+player 921 discards a 329 to deck 922
+player 921 current hand : 785 951 899 616 746 887 105 875 15 981 979 474 829 919 502 649 360 328 995 763 
+player 921 draws a 846 from deck 921
+player 921 discards a 785 to deck 922
+player 921 current hand : 951 899 616 746 887 105 875 15 981 979 474 829 919 502 649 360 328 995 763 846 
+player 921 draws a 440 from deck 921
+player 921 discards a 951 to deck 922
+player 921 current hand : 899 616 746 887 105 875 15 981 979 474 829 919 502 649 360 328 995 763 846 440 
+player 921 draws a 977 from deck 921
+player 921 discards a 899 to deck 922
+player 921 current hand : 616 746 887 105 875 15 981 979 474 829 919 502 649 360 328 995 763 846 440 977 
+player 921 draws a 350 from deck 921
+player 921 discards a 616 to deck 922
+player 921 current hand : 746 887 105 875 15 981 979 474 829 919 502 649 360 328 995 763 846 440 977 350 
+player 921 draws a 751 from deck 921
+player 921 discards a 746 to deck 922
+player 921 current hand : 887 105 875 15 981 979 474 829 919 502 649 360 328 995 763 846 440 977 350 751 
+player 921 draws a 183 from deck 921
+player 921 discards a 887 to deck 922
+player 921 current hand : 105 875 15 981 979 474 829 919 502 649 360 328 995 763 846 440 977 350 751 183 
+player 921 draws a 841 from deck 921
+player 921 discards a 105 to deck 922
+player 921 current hand : 875 15 981 979 474 829 919 502 649 360 328 995 763 846 440 977 350 751 183 841 
+player 921 draws a 550 from deck 921
+player 921 discards a 875 to deck 922
+player 921 current hand : 15 981 979 474 829 919 502 649 360 328 995 763 846 440 977 350 751 183 841 550 
+player 921 draws a 305 from deck 921
+player 921 discards a 15 to deck 922
+player 921 current hand : 981 979 474 829 919 502 649 360 328 995 763 846 440 977 350 751 183 841 550 305 
+player 921 draws a 174 from deck 921
+player 921 discards a 981 to deck 922
+player 921 current hand : 979 474 829 919 502 649 360 328 995 763 846 440 977 350 751 183 841 550 305 174 
+player 921 draws a 966 from deck 921
+player 921 discards a 979 to deck 922
+player 921 current hand : 474 829 919 502 649 360 328 995 763 846 440 977 350 751 183 841 550 305 174 966 
+player 921 draws a 228 from deck 921
+player 921 discards a 474 to deck 922
+player 921 current hand : 829 919 502 649 360 328 995 763 846 440 977 350 751 183 841 550 305 174 966 228 
+player 921 draws a 343 from deck 921
+player 921 discards a 829 to deck 922
+player 921 current hand : 919 502 649 360 328 995 763 846 440 977 350 751 183 841 550 305 174 966 228 343 
+player 921 draws a 728 from deck 921
+player 921 discards a 919 to deck 922
+player 921 current hand : 502 649 360 328 995 763 846 440 977 350 751 183 841 550 305 174 966 228 343 728 
+player 921 draws a 922 from deck 921
+player 921 discards a 502 to deck 922
+player 921 current hand : 649 360 328 995 763 846 440 977 350 751 183 841 550 305 174 966 228 343 728 922 
+player 921 draws a 949 from deck 921
+player 921 discards a 649 to deck 922
+player 921 current hand : 360 328 995 763 846 440 977 350 751 183 841 550 305 174 966 228 343 728 922 949 
+player 921 draws a 60 from deck 921
+player 921 discards a 360 to deck 922
+player 921 current hand : 328 995 763 846 440 977 350 751 183 841 550 305 174 966 228 343 728 922 949 60 
+player 921 draws a 708 from deck 921
+player 921 discards a 328 to deck 922
+player 921 current hand : 995 763 846 440 977 350 751 183 841 550 305 174 966 228 343 728 922 949 60 708 
+player 921 draws a 263 from deck 921
+player 921 discards a 995 to deck 922
+player 921 current hand : 763 846 440 977 350 751 183 841 550 305 174 966 228 343 728 922 949 60 708 263 
+player 921 draws a 975 from deck 921
+player 921 discards a 763 to deck 922
+player 921 current hand : 846 440 977 350 751 183 841 550 305 174 966 228 343 728 922 949 60 708 263 975 
+player 921 draws a 548 from deck 921
+player 921 discards a 846 to deck 922
+player 921 current hand : 440 977 350 751 183 841 550 305 174 966 228 343 728 922 949 60 708 263 975 548 
+player 921 draws a 392 from deck 921
+player 921 discards a 440 to deck 922
+player 921 current hand : 977 350 751 183 841 550 305 174 966 228 343 728 922 949 60 708 263 975 548 392 
+player 921 draws a 644 from deck 921
+player 921 discards a 977 to deck 922
+player 921 current hand : 350 751 183 841 550 305 174 966 228 343 728 922 949 60 708 263 975 548 392 644 
+player 921 draws a 260 from deck 921
+player 921 discards a 350 to deck 922
+player 921 current hand : 751 183 841 550 305 174 966 228 343 728 922 949 60 708 263 975 548 392 644 260 
+player 921 draws a 309 from deck 921
+player 921 discards a 751 to deck 922
+player 921 current hand : 183 841 550 305 174 966 228 343 728 922 949 60 708 263 975 548 392 644 260 309 
+player 921 draws a 269 from deck 921
+player 921 discards a 183 to deck 922
+player 921 current hand : 841 550 305 174 966 228 343 728 922 949 60 708 263 975 548 392 644 260 309 269 
+player 921 draws a 74 from deck 921
+player 921 discards a 841 to deck 922
+player 921 current hand : 550 305 174 966 228 343 728 922 949 60 708 263 975 548 392 644 260 309 269 74 
+player 921 draws a 869 from deck 921
+player 921 discards a 550 to deck 922
+player 921 current hand : 305 174 966 228 343 728 922 949 60 708 263 975 548 392 644 260 309 269 74 869 
+player 921 draws a 451 from deck 921
+player 921 discards a 305 to deck 922
+player 921 current hand : 174 966 228 343 728 922 949 60 708 263 975 548 392 644 260 309 269 74 869 451 
+player 921 draws a 726 from deck 921
+player 921 discards a 174 to deck 922
+player 921 current hand : 966 228 343 728 922 949 60 708 263 975 548 392 644 260 309 269 74 869 451 726 
+player 921 draws a 7 from deck 921
+player 921 discards a 966 to deck 922
+player 921 current hand : 228 343 728 922 949 60 708 263 975 548 392 644 260 309 269 74 869 451 726 7 
+player 921 draws a 523 from deck 921
+player 921 discards a 228 to deck 922
+player 921 current hand : 343 728 922 949 60 708 263 975 548 392 644 260 309 269 74 869 451 726 7 523 
+player 921 draws a 555 from deck 921
+player 921 discards a 343 to deck 922
+player 921 current hand : 728 922 949 60 708 263 975 548 392 644 260 309 269 74 869 451 726 7 523 555 
+player 921 draws a 233 from deck 921
+player 921 discards a 728 to deck 922
+player 921 current hand : 922 949 60 708 263 975 548 392 644 260 309 269 74 869 451 726 7 523 555 233 
+player 921 draws a 766 from deck 921
+player 921 discards a 922 to deck 922
+player 921 current hand : 949 60 708 263 975 548 392 644 260 309 269 74 869 451 726 7 523 555 233 766 
+player 921 draws a 15 from deck 921
+player 921 discards a 949 to deck 922
+player 921 current hand : 60 708 263 975 548 392 644 260 309 269 74 869 451 726 7 523 555 233 766 15 
+player 921 draws a 878 from deck 921
+player 921 discards a 60 to deck 922
+player 921 current hand : 708 263 975 548 392 644 260 309 269 74 869 451 726 7 523 555 233 766 15 878 
+player 921 draws a 710 from deck 921
+player 921 discards a 708 to deck 922
+player 921 current hand : 263 975 548 392 644 260 309 269 74 869 451 726 7 523 555 233 766 15 878 710 
+player 921 draws a 483 from deck 921
+player 921 discards a 263 to deck 922
+player 921 current hand : 975 548 392 644 260 309 269 74 869 451 726 7 523 555 233 766 15 878 710 483 
+player 921 draws a 707 from deck 921
+player 921 discards a 975 to deck 922
+player 921 current hand : 548 392 644 260 309 269 74 869 451 726 7 523 555 233 766 15 878 710 483 707 
+player 921 draws a 546 from deck 921
+player 921 discards a 548 to deck 922
+player 921 current hand : 392 644 260 309 269 74 869 451 726 7 523 555 233 766 15 878 710 483 707 546 
+player 921 draws a 177 from deck 921
+player 921 discards a 392 to deck 922
+player 921 current hand : 644 260 309 269 74 869 451 726 7 523 555 233 766 15 878 710 483 707 546 177 
+player 921 draws a 464 from deck 921
+player 921 discards a 644 to deck 922
+player 921 current hand : 260 309 269 74 869 451 726 7 523 555 233 766 15 878 710 483 707 546 177 464 
+player 921 draws a 366 from deck 921
+player 921 discards a 260 to deck 922
+player 921 current hand : 309 269 74 869 451 726 7 523 555 233 766 15 878 710 483 707 546 177 464 366 
+player 921 draws a 623 from deck 921
+player 921 discards a 309 to deck 922
+player 921 current hand : 269 74 869 451 726 7 523 555 233 766 15 878 710 483 707 546 177 464 366 623 
+player 921 draws a 326 from deck 921
+player 921 discards a 269 to deck 922
+player 921 current hand : 74 869 451 726 7 523 555 233 766 15 878 710 483 707 546 177 464 366 623 326 
+player 921 draws a 45 from deck 921
+player 921 discards a 74 to deck 922
+player 921 current hand : 869 451 726 7 523 555 233 766 15 878 710 483 707 546 177 464 366 623 326 45 
+player 921 draws a 111 from deck 921
+player 921 discards a 869 to deck 922
+player 921 current hand : 451 726 7 523 555 233 766 15 878 710 483 707 546 177 464 366 623 326 45 111 
+player 921 draws a 226 from deck 921
+player 921 discards a 451 to deck 922
+player 921 current hand : 726 7 523 555 233 766 15 878 710 483 707 546 177 464 366 623 326 45 111 226 
+player 921 draws a 724 from deck 921
+player 921 discards a 726 to deck 922
+player 921 current hand : 7 523 555 233 766 15 878 710 483 707 546 177 464 366 623 326 45 111 226 724 
+player 921 draws a 765 from deck 921
+player 921 discards a 7 to deck 922
+player 921 current hand : 523 555 233 766 15 878 710 483 707 546 177 464 366 623 326 45 111 226 724 765 
+player 921 draws a 455 from deck 921
+player 921 discards a 523 to deck 922
+player 921 current hand : 555 233 766 15 878 710 483 707 546 177 464 366 623 326 45 111 226 724 765 455 
+player 921 draws a 947 from deck 921
+player 921 discards a 555 to deck 922
+player 921 current hand : 233 766 15 878 710 483 707 546 177 464 366 623 326 45 111 226 724 765 455 947 
+player 921 draws a 255 from deck 921
+player 921 discards a 233 to deck 922
+player 921 current hand : 766 15 878 710 483 707 546 177 464 366 623 326 45 111 226 724 765 455 947 255 
+player 921 draws a 877 from deck 921
+player 921 discards a 766 to deck 922
+player 921 current hand : 15 878 710 483 707 546 177 464 366 623 326 45 111 226 724 765 455 947 255 877 
+player 921 draws a 824 from deck 921
+player 921 discards a 15 to deck 922
+player 921 current hand : 878 710 483 707 546 177 464 366 623 326 45 111 226 724 765 455 947 255 877 824 
+player 921 draws a 637 from deck 921
+player 921 discards a 878 to deck 922
+player 921 current hand : 710 483 707 546 177 464 366 623 326 45 111 226 724 765 455 947 255 877 824 637 
+player 921 draws a 348 from deck 921

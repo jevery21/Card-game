@@ -1,0 +1,295 @@
+player 301 initial hand 782 164 647 152 499 300 673 405 729 364 913 868 576 612 555 356 402 849 307 24 
+player 301 draws a 149 from deck 301
+player 301 discards a 782 to deck 302
+player 301 current hand : 164 647 152 499 300 673 405 729 364 913 868 576 612 555 356 402 849 307 24 149 
+player 301 draws a 290 from deck 301
+player 301 discards a 164 to deck 302
+player 301 current hand : 647 152 499 300 673 405 729 364 913 868 576 612 555 356 402 849 307 24 149 290 
+player 301 draws a 286 from deck 301
+player 301 discards a 647 to deck 302
+player 301 current hand : 152 499 300 673 405 729 364 913 868 576 612 555 356 402 849 307 24 149 290 286 
+player 301 draws a 875 from deck 301
+player 301 discards a 152 to deck 302
+player 301 current hand : 499 300 673 405 729 364 913 868 576 612 555 356 402 849 307 24 149 290 286 875 
+player 301 draws a 854 from deck 301
+player 301 discards a 499 to deck 302
+player 301 current hand : 300 673 405 729 364 913 868 576 612 555 356 402 849 307 24 149 290 286 875 854 
+player 301 draws a 499 from deck 301
+player 301 discards a 300 to deck 302
+player 301 current hand : 673 405 729 364 913 868 576 612 555 356 402 849 307 24 149 290 286 875 854 499 
+player 301 draws a 995 from deck 301
+player 301 discards a 673 to deck 302
+player 301 current hand : 405 729 364 913 868 576 612 555 356 402 849 307 24 149 290 286 875 854 499 995 
+player 301 draws a 901 from deck 301
+player 301 discards a 405 to deck 302
+player 301 current hand : 729 364 913 868 576 612 555 356 402 849 307 24 149 290 286 875 854 499 995 901 
+player 301 draws a 177 from deck 301
+player 301 discards a 729 to deck 302
+player 301 current hand : 364 913 868 576 612 555 356 402 849 307 24 149 290 286 875 854 499 995 901 177 
+player 301 draws a 457 from deck 301
+player 301 discards a 364 to deck 302
+player 301 current hand : 913 868 576 612 555 356 402 849 307 24 149 290 286 875 854 499 995 901 177 457 
+player 301 draws a 849 from deck 301
+player 301 discards a 913 to deck 302
+player 301 current hand : 868 576 612 555 356 402 849 307 24 149 290 286 875 854 499 995 901 177 457 849 
+player 301 draws a 85 from deck 301
+player 301 discards a 868 to deck 302
+player 301 current hand : 576 612 555 356 402 849 307 24 149 290 286 875 854 499 995 901 177 457 849 85 
+player 301 draws a 618 from deck 301
+player 301 discards a 576 to deck 302
+player 301 current hand : 612 555 356 402 849 307 24 149 290 286 875 854 499 995 901 177 457 849 85 618 
+player 301 draws a 393 from deck 301
+player 301 discards a 612 to deck 302
+player 301 current hand : 555 356 402 849 307 24 149 290 286 875 854 499 995 901 177 457 849 85 618 393 
+player 301 draws a 44 from deck 301
+player 301 discards a 555 to deck 302
+player 301 current hand : 356 402 849 307 24 149 290 286 875 854 499 995 901 177 457 849 85 618 393 44 
+player 301 draws a 954 from deck 301
+player 301 discards a 356 to deck 302
+player 301 current hand : 402 849 307 24 149 290 286 875 854 499 995 901 177 457 849 85 618 393 44 954 
+player 301 draws a 835 from deck 301
+player 301 discards a 402 to deck 302
+player 301 current hand : 849 307 24 149 290 286 875 854 499 995 901 177 457 849 85 618 393 44 954 835 
+player 301 draws a 364 from deck 301
+player 301 discards a 849 to deck 302
+player 301 current hand : 307 24 149 290 286 875 854 499 995 901 177 457 849 85 618 393 44 954 835 364 
+player 301 draws a 222 from deck 301
+player 301 discards a 307 to deck 302
+player 301 current hand : 24 149 290 286 875 854 499 995 901 177 457 849 85 618 393 44 954 835 364 222 
+player 301 draws a 209 from deck 301
+player 301 discards a 24 to deck 302
+player 301 current hand : 149 290 286 875 854 499 995 901 177 457 849 85 618 393 44 954 835 364 222 209 
+player 301 draws a 330 from deck 301
+player 301 discards a 149 to deck 302
+player 301 current hand : 290 286 875 854 499 995 901 177 457 849 85 618 393 44 954 835 364 222 209 330 
+player 301 draws a 496 from deck 301
+player 301 discards a 290 to deck 302
+player 301 current hand : 286 875 854 499 995 901 177 457 849 85 618 393 44 954 835 364 222 209 330 496 
+player 301 draws a 73 from deck 301
+player 301 discards a 286 to deck 302
+player 301 current hand : 875 854 499 995 901 177 457 849 85 618 393 44 954 835 364 222 209 330 496 73 
+player 301 draws a 740 from deck 301
+player 301 discards a 875 to deck 302
+player 301 current hand : 854 499 995 901 177 457 849 85 618 393 44 954 835 364 222 209 330 496 73 740 
+player 301 draws a 442 from deck 301
+player 301 discards a 854 to deck 302
+player 301 current hand : 499 995 901 177 457 849 85 618 393 44 954 835 364 222 209 330 496 73 740 442 
+player 301 draws a 329 from deck 301
+player 301 discards a 499 to deck 302
+player 301 current hand : 995 901 177 457 849 85 618 393 44 954 835 364 222 209 330 496 73 740 442 329 
+player 301 draws a 224 from deck 301
+player 301 discards a 995 to deck 302
+player 301 current hand : 901 177 457 849 85 618 393 44 954 835 364 222 209 330 496 73 740 442 329 224 
+player 301 draws a 699 from deck 301
+player 301 discards a 901 to deck 302
+player 301 current hand : 177 457 849 85 618 393 44 954 835 364 222 209 330 496 73 740 442 329 224 699 
+player 301 draws a 409 from deck 301
+player 301 discards a 177 to deck 302
+player 301 current hand : 457 849 85 618 393 44 954 835 364 222 209 330 496 73 740 442 329 224 699 409 
+player 301 draws a 74 from deck 301
+player 301 discards a 457 to deck 302
+player 301 current hand : 849 85 618 393 44 954 835 364 222 209 330 496 73 740 442 329 224 699 409 74 
+player 301 draws a 775 from deck 301
+player 301 discards a 849 to deck 302
+player 301 current hand : 85 618 393 44 954 835 364 222 209 330 496 73 740 442 329 224 699 409 74 775 
+player 301 draws a 74 from deck 301
+player 301 discards a 85 to deck 302
+player 301 current hand : 618 393 44 954 835 364 222 209 330 496 73 740 442 329 224 699 409 74 775 74 
+player 301 draws a 541 from deck 301
+player 301 discards a 618 to deck 302
+player 301 current hand : 393 44 954 835 364 222 209 330 496 73 740 442 329 224 699 409 74 775 74 541 
+player 301 draws a 280 from deck 301
+player 301 discards a 393 to deck 302
+player 301 current hand : 44 954 835 364 222 209 330 496 73 740 442 329 224 699 409 74 775 74 541 280 
+player 301 draws a 20 from deck 301
+player 301 discards a 44 to deck 302
+player 301 current hand : 954 835 364 222 209 330 496 73 740 442 329 224 699 409 74 775 74 541 280 20 
+player 301 draws a 685 from deck 301
+player 301 discards a 954 to deck 302
+player 301 current hand : 835 364 222 209 330 496 73 740 442 329 224 699 409 74 775 74 541 280 20 685 
+player 301 draws a 268 from deck 301
+player 301 discards a 835 to deck 302
+player 301 current hand : 364 222 209 330 496 73 740 442 329 224 699 409 74 775 74 541 280 20 685 268 
+player 301 draws a 4 from deck 301
+player 301 discards a 364 to deck 302
+player 301 current hand : 222 209 330 496 73 740 442 329 224 699 409 74 775 74 541 280 20 685 268 4 
+player 301 draws a 527 from deck 301
+player 301 discards a 222 to deck 302
+player 301 current hand : 209 330 496 73 740 442 329 224 699 409 74 775 74 541 280 20 685 268 4 527 
+player 301 draws a 916 from deck 301
+player 301 discards a 209 to deck 302
+player 301 current hand : 330 496 73 740 442 329 224 699 409 74 775 74 541 280 20 685 268 4 527 916 
+player 301 draws a 360 from deck 301
+player 301 discards a 330 to deck 302
+player 301 current hand : 496 73 740 442 329 224 699 409 74 775 74 541 280 20 685 268 4 527 916 360 
+player 301 draws a 785 from deck 301
+player 301 discards a 496 to deck 302
+player 301 current hand : 73 740 442 329 224 699 409 74 775 74 541 280 20 685 268 4 527 916 360 785 
+player 301 draws a 622 from deck 301
+player 301 discards a 73 to deck 302
+player 301 current hand : 740 442 329 224 699 409 74 775 74 541 280 20 685 268 4 527 916 360 785 622 
+player 301 draws a 183 from deck 301
+player 301 discards a 740 to deck 302
+player 301 current hand : 442 329 224 699 409 74 775 74 541 280 20 685 268 4 527 916 360 785 622 183 
+player 301 draws a 182 from deck 301
+player 301 discards a 442 to deck 302
+player 301 current hand : 329 224 699 409 74 775 74 541 280 20 685 268 4 527 916 360 785 622 183 182 
+player 301 draws a 549 from deck 301
+player 301 discards a 329 to deck 302
+player 301 current hand : 224 699 409 74 775 74 541 280 20 685 268 4 527 916 360 785 622 183 182 549 
+player 301 draws a 537 from deck 301
+player 301 discards a 224 to deck 302
+player 301 current hand : 699 409 74 775 74 541 280 20 685 268 4 527 916 360 785 622 183 182 549 537 
+player 301 draws a 969 from deck 301
+player 301 discards a 699 to deck 302
+player 301 current hand : 409 74 775 74 541 280 20 685 268 4 527 916 360 785 622 183 182 549 537 969 
+player 301 draws a 635 from deck 301
+player 301 discards a 409 to deck 302
+player 301 current hand : 74 775 74 541 280 20 685 268 4 527 916 360 785 622 183 182 549 537 969 635 
+player 301 draws a 401 from deck 301
+player 301 discards a 74 to deck 302
+player 301 current hand : 775 74 541 280 20 685 268 4 527 916 360 785 622 183 182 549 537 969 635 401 
+player 301 draws a 9 from deck 301
+player 301 discards a 775 to deck 302
+player 301 current hand : 74 541 280 20 685 268 4 527 916 360 785 622 183 182 549 537 969 635 401 9 
+player 301 draws a 951 from deck 301
+player 301 discards a 74 to deck 302
+player 301 current hand : 541 280 20 685 268 4 527 916 360 785 622 183 182 549 537 969 635 401 9 951 
+player 301 draws a 419 from deck 301
+player 301 discards a 541 to deck 302
+player 301 current hand : 280 20 685 268 4 527 916 360 785 622 183 182 549 537 969 635 401 9 951 419 
+player 301 draws a 546 from deck 301
+player 301 discards a 280 to deck 302
+player 301 current hand : 20 685 268 4 527 916 360 785 622 183 182 549 537 969 635 401 9 951 419 546 
+player 301 draws a 115 from deck 301
+player 301 discards a 20 to deck 302
+player 301 current hand : 685 268 4 527 916 360 785 622 183 182 549 537 969 635 401 9 951 419 546 115 
+player 301 draws a 13 from deck 301
+player 301 discards a 685 to deck 302
+player 301 current hand : 268 4 527 916 360 785 622 183 182 549 537 969 635 401 9 951 419 546 115 13 
+player 301 draws a 1000 from deck 301
+player 301 discards a 268 to deck 302
+player 301 current hand : 4 527 916 360 785 622 183 182 549 537 969 635 401 9 951 419 546 115 13 1000 
+player 301 draws a 200 from deck 301
+player 301 discards a 4 to deck 302
+player 301 current hand : 527 916 360 785 622 183 182 549 537 969 635 401 9 951 419 546 115 13 1000 200 
+player 301 draws a 89 from deck 301
+player 301 discards a 527 to deck 302
+player 301 current hand : 916 360 785 622 183 182 549 537 969 635 401 9 951 419 546 115 13 1000 200 89 
+player 301 draws a 991 from deck 301
+player 301 discards a 916 to deck 302
+player 301 current hand : 360 785 622 183 182 549 537 969 635 401 9 951 419 546 115 13 1000 200 89 991 
+player 301 draws a 24 from deck 301
+player 301 discards a 360 to deck 302
+player 301 current hand : 785 622 183 182 549 537 969 635 401 9 951 419 546 115 13 1000 200 89 991 24 
+player 301 draws a 879 from deck 301
+player 301 discards a 785 to deck 302
+player 301 current hand : 622 183 182 549 537 969 635 401 9 951 419 546 115 13 1000 200 89 991 24 879 
+player 301 draws a 901 from deck 301
+player 301 discards a 622 to deck 302
+player 301 current hand : 183 182 549 537 969 635 401 9 951 419 546 115 13 1000 200 89 991 24 879 901 
+player 301 draws a 555 from deck 301
+player 301 discards a 183 to deck 302
+player 301 current hand : 182 549 537 969 635 401 9 951 419 546 115 13 1000 200 89 991 24 879 901 555 
+player 301 draws a 985 from deck 301
+player 301 discards a 182 to deck 302
+player 301 current hand : 549 537 969 635 401 9 951 419 546 115 13 1000 200 89 991 24 879 901 555 985 
+player 301 draws a 631 from deck 301
+player 301 discards a 549 to deck 302
+player 301 current hand : 537 969 635 401 9 951 419 546 115 13 1000 200 89 991 24 879 901 555 985 631 
+player 301 draws a 632 from deck 301
+player 301 discards a 537 to deck 302
+player 301 current hand : 969 635 401 9 951 419 546 115 13 1000 200 89 991 24 879 901 555 985 631 632 
+player 301 draws a 967 from deck 301
+player 301 discards a 969 to deck 302
+player 301 current hand : 635 401 9 951 419 546 115 13 1000 200 89 991 24 879 901 555 985 631 632 967 
+player 301 draws a 497 from deck 301
+player 301 discards a 635 to deck 302
+player 301 current hand : 401 9 951 419 546 115 13 1000 200 89 991 24 879 901 555 985 631 632 967 497 
+player 301 draws a 852 from deck 301
+player 301 discards a 401 to deck 302
+player 301 current hand : 9 951 419 546 115 13 1000 200 89 991 24 879 901 555 985 631 632 967 497 852 
+player 301 draws a 319 from deck 301
+player 301 discards a 9 to deck 302
+player 301 current hand : 951 419 546 115 13 1000 200 89 991 24 879 901 555 985 631 632 967 497 852 319 
+player 301 draws a 233 from deck 301
+player 301 discards a 951 to deck 302
+player 301 current hand : 419 546 115 13 1000 200 89 991 24 879 901 555 985 631 632 967 497 852 319 233 
+player 301 draws a 153 from deck 301
+player 301 discards a 419 to deck 302
+player 301 current hand : 546 115 13 1000 200 89 991 24 879 901 555 985 631 632 967 497 852 319 233 153 
+player 301 draws a 788 from deck 301
+player 301 discards a 546 to deck 302
+player 301 current hand : 115 13 1000 200 89 991 24 879 901 555 985 631 632 967 497 852 319 233 153 788 
+player 301 draws a 856 from deck 301
+player 301 discards a 115 to deck 302
+player 301 current hand : 13 1000 200 89 991 24 879 901 555 985 631 632 967 497 852 319 233 153 788 856 
+player 301 draws a 52 from deck 301
+player 301 discards a 13 to deck 302
+player 301 current hand : 1000 200 89 991 24 879 901 555 985 631 632 967 497 852 319 233 153 788 856 52 
+player 301 draws a 856 from deck 301
+player 301 discards a 1000 to deck 302
+player 301 current hand : 200 89 991 24 879 901 555 985 631 632 967 497 852 319 233 153 788 856 52 856 
+player 301 draws a 602 from deck 301
+player 301 discards a 200 to deck 302
+player 301 current hand : 89 991 24 879 901 555 985 631 632 967 497 852 319 233 153 788 856 52 856 602 
+player 301 draws a 319 from deck 301
+player 301 discards a 89 to deck 302
+player 301 current hand : 991 24 879 901 555 985 631 632 967 497 852 319 233 153 788 856 52 856 602 319 
+player 301 draws a 130 from deck 301
+player 301 discards a 991 to deck 302
+player 301 current hand : 24 879 901 555 985 631 632 967 497 852 319 233 153 788 856 52 856 602 319 130 
+player 301 draws a 618 from deck 301
+player 301 discards a 24 to deck 302
+player 301 current hand : 879 901 555 985 631 632 967 497 852 319 233 153 788 856 52 856 602 319 130 618 
+player 301 draws a 525 from deck 301
+player 301 discards a 879 to deck 302
+player 301 current hand : 901 555 985 631 632 967 497 852 319 233 153 788 856 52 856 602 319 130 618 525 
+player 301 draws a 985 from deck 301
+player 301 discards a 901 to deck 302
+player 301 current hand : 555 985 631 632 967 497 852 319 233 153 788 856 52 856 602 319 130 618 525 985 
+player 301 draws a 423 from deck 301
+player 301 discards a 555 to deck 302
+player 301 current hand : 985 631 632 967 497 852 319 233 153 788 856 52 856 602 319 130 618 525 985 423 
+player 301 draws a 475 from deck 301
+player 301 discards a 985 to deck 302
+player 301 current hand : 631 632 967 497 852 319 233 153 788 856 52 856 602 319 130 618 525 985 423 475 
+player 301 draws a 863 from deck 301
+player 301 discards a 631 to deck 302
+player 301 current hand : 632 967 497 852 319 233 153 788 856 52 856 602 319 130 618 525 985 423 475 863 
+player 301 draws a 605 from deck 301
+player 301 discards a 632 to deck 302
+player 301 current hand : 967 497 852 319 233 153 788 856 52 856 602 319 130 618 525 985 423 475 863 605 
+player 301 draws a 272 from deck 301
+player 301 discards a 967 to deck 302
+player 301 current hand : 497 852 319 233 153 788 856 52 856 602 319 130 618 525 985 423 475 863 605 272 
+player 301 draws a 170 from deck 301
+player 301 discards a 497 to deck 302
+player 301 current hand : 852 319 233 153 788 856 52 856 602 319 130 618 525 985 423 475 863 605 272 170 
+player 301 draws a 256 from deck 301
+player 301 discards a 852 to deck 302
+player 301 current hand : 319 233 153 788 856 52 856 602 319 130 618 525 985 423 475 863 605 272 170 256 
+player 301 draws a 18 from deck 301
+player 301 discards a 319 to deck 302
+player 301 current hand : 233 153 788 856 52 856 602 319 130 618 525 985 423 475 863 605 272 170 256 18 
+player 301 draws a 29 from deck 301
+player 301 discards a 233 to deck 302
+player 301 current hand : 153 788 856 52 856 602 319 130 618 525 985 423 475 863 605 272 170 256 18 29 
+player 301 draws a 51 from deck 301
+player 301 discards a 153 to deck 302
+player 301 current hand : 788 856 52 856 602 319 130 618 525 985 423 475 863 605 272 170 256 18 29 51 
+player 301 draws a 120 from deck 301
+player 301 discards a 788 to deck 302
+player 301 current hand : 856 52 856 602 319 130 618 525 985 423 475 863 605 272 170 256 18 29 51 120 
+player 301 draws a 146 from deck 301
+player 301 discards a 856 to deck 302
+player 301 current hand : 52 856 602 319 130 618 525 985 423 475 863 605 272 170 256 18 29 51 120 146 
+player 301 draws a 457 from deck 301
+player 301 discards a 52 to deck 302
+player 301 current hand : 856 602 319 130 618 525 985 423 475 863 605 272 170 256 18 29 51 120 146 457 
+player 301 draws a 196 from deck 301
+player 301 discards a 856 to deck 302
+player 301 current hand : 602 319 130 618 525 985 423 475 863 605 272 170 256 18 29 51 120 146 457 196 
+player 301 draws a 145 from deck 301
+player 301 discards a 602 to deck 302
+player 301 current hand : 319 130 618 525 985 423 475 863 605 272 170 256 18 29 51 120 146 457 196 145 

@@ -1,0 +1,309 @@
+player 480 initial hand 317 743 497 355 672 539 24 927 185 554 313 255 377 548 16 975 98 24 930 310 
+player 480 draws a 299 from deck 480
+player 480 discards a 317 to deck 481
+player 480 current hand : 743 497 355 672 539 24 927 185 554 313 255 377 548 16 975 98 24 930 310 299 
+player 480 draws a 355 from deck 480
+player 480 discards a 743 to deck 481
+player 480 current hand : 497 355 672 539 24 927 185 554 313 255 377 548 16 975 98 24 930 310 299 355 
+player 480 draws a 217 from deck 480
+player 480 discards a 497 to deck 481
+player 480 current hand : 355 672 539 24 927 185 554 313 255 377 548 16 975 98 24 930 310 299 355 217 
+player 480 draws a 913 from deck 480
+player 480 discards a 355 to deck 481
+player 480 current hand : 672 539 24 927 185 554 313 255 377 548 16 975 98 24 930 310 299 355 217 913 
+player 480 draws a 452 from deck 480
+player 480 discards a 672 to deck 481
+player 480 current hand : 539 24 927 185 554 313 255 377 548 16 975 98 24 930 310 299 355 217 913 452 
+player 480 draws a 799 from deck 480
+player 480 discards a 539 to deck 481
+player 480 current hand : 24 927 185 554 313 255 377 548 16 975 98 24 930 310 299 355 217 913 452 799 
+player 480 draws a 4 from deck 480
+player 480 discards a 24 to deck 481
+player 480 current hand : 927 185 554 313 255 377 548 16 975 98 24 930 310 299 355 217 913 452 799 4 
+player 480 draws a 157 from deck 480
+player 480 discards a 927 to deck 481
+player 480 current hand : 185 554 313 255 377 548 16 975 98 24 930 310 299 355 217 913 452 799 4 157 
+player 480 draws a 582 from deck 480
+player 480 discards a 185 to deck 481
+player 480 current hand : 554 313 255 377 548 16 975 98 24 930 310 299 355 217 913 452 799 4 157 582 
+player 480 draws a 245 from deck 480
+player 480 discards a 554 to deck 481
+player 480 current hand : 313 255 377 548 16 975 98 24 930 310 299 355 217 913 452 799 4 157 582 245 
+player 480 draws a 825 from deck 480
+player 480 discards a 313 to deck 481
+player 480 current hand : 255 377 548 16 975 98 24 930 310 299 355 217 913 452 799 4 157 582 245 825 
+player 480 draws a 994 from deck 480
+player 480 discards a 255 to deck 481
+player 480 current hand : 377 548 16 975 98 24 930 310 299 355 217 913 452 799 4 157 582 245 825 994 
+player 480 draws a 579 from deck 480
+player 480 discards a 377 to deck 481
+player 480 current hand : 548 16 975 98 24 930 310 299 355 217 913 452 799 4 157 582 245 825 994 579 
+player 480 draws a 239 from deck 480
+player 480 discards a 548 to deck 481
+player 480 current hand : 16 975 98 24 930 310 299 355 217 913 452 799 4 157 582 245 825 994 579 239 
+player 480 draws a 228 from deck 480
+player 480 discards a 16 to deck 481
+player 480 current hand : 975 98 24 930 310 299 355 217 913 452 799 4 157 582 245 825 994 579 239 228 
+player 480 draws a 473 from deck 480
+player 480 discards a 975 to deck 481
+player 480 current hand : 98 24 930 310 299 355 217 913 452 799 4 157 582 245 825 994 579 239 228 473 
+player 480 draws a 701 from deck 480
+player 480 discards a 98 to deck 481
+player 480 current hand : 24 930 310 299 355 217 913 452 799 4 157 582 245 825 994 579 239 228 473 701 
+player 480 draws a 309 from deck 480
+player 480 discards a 24 to deck 481
+player 480 current hand : 930 310 299 355 217 913 452 799 4 157 582 245 825 994 579 239 228 473 701 309 
+player 480 draws a 117 from deck 480
+player 480 discards a 930 to deck 481
+player 480 current hand : 310 299 355 217 913 452 799 4 157 582 245 825 994 579 239 228 473 701 309 117 
+player 480 draws a 282 from deck 480
+player 480 discards a 310 to deck 481
+player 480 current hand : 299 355 217 913 452 799 4 157 582 245 825 994 579 239 228 473 701 309 117 282 
+player 480 draws a 350 from deck 480
+player 480 discards a 299 to deck 481
+player 480 current hand : 355 217 913 452 799 4 157 582 245 825 994 579 239 228 473 701 309 117 282 350 
+player 480 draws a 951 from deck 480
+player 480 discards a 355 to deck 481
+player 480 current hand : 217 913 452 799 4 157 582 245 825 994 579 239 228 473 701 309 117 282 350 951 
+player 480 draws a 52 from deck 480
+player 480 discards a 217 to deck 481
+player 480 current hand : 913 452 799 4 157 582 245 825 994 579 239 228 473 701 309 117 282 350 951 52 
+player 480 draws a 521 from deck 480
+player 480 discards a 913 to deck 481
+player 480 current hand : 452 799 4 157 582 245 825 994 579 239 228 473 701 309 117 282 350 951 52 521 
+player 480 draws a 661 from deck 480
+player 480 discards a 452 to deck 481
+player 480 current hand : 799 4 157 582 245 825 994 579 239 228 473 701 309 117 282 350 951 52 521 661 
+player 480 draws a 722 from deck 480
+player 480 discards a 799 to deck 481
+player 480 current hand : 4 157 582 245 825 994 579 239 228 473 701 309 117 282 350 951 52 521 661 722 
+player 480 draws a 690 from deck 480
+player 480 discards a 4 to deck 481
+player 480 current hand : 157 582 245 825 994 579 239 228 473 701 309 117 282 350 951 52 521 661 722 690 
+player 480 draws a 177 from deck 480
+player 480 discards a 157 to deck 481
+player 480 current hand : 582 245 825 994 579 239 228 473 701 309 117 282 350 951 52 521 661 722 690 177 
+player 480 draws a 453 from deck 480
+player 480 discards a 582 to deck 481
+player 480 current hand : 245 825 994 579 239 228 473 701 309 117 282 350 951 52 521 661 722 690 177 453 
+player 480 draws a 926 from deck 480
+player 480 discards a 245 to deck 481
+player 480 current hand : 825 994 579 239 228 473 701 309 117 282 350 951 52 521 661 722 690 177 453 926 
+player 480 draws a 515 from deck 480
+player 480 discards a 825 to deck 481
+player 480 current hand : 994 579 239 228 473 701 309 117 282 350 951 52 521 661 722 690 177 453 926 515 
+player 480 draws a 791 from deck 480
+player 480 discards a 994 to deck 481
+player 480 current hand : 579 239 228 473 701 309 117 282 350 951 52 521 661 722 690 177 453 926 515 791 
+player 480 draws a 699 from deck 480
+player 480 discards a 579 to deck 481
+player 480 current hand : 239 228 473 701 309 117 282 350 951 52 521 661 722 690 177 453 926 515 791 699 
+player 480 draws a 47 from deck 480
+player 480 discards a 239 to deck 481
+player 480 current hand : 228 473 701 309 117 282 350 951 52 521 661 722 690 177 453 926 515 791 699 47 
+player 480 draws a 944 from deck 480
+player 480 discards a 228 to deck 481
+player 480 current hand : 473 701 309 117 282 350 951 52 521 661 722 690 177 453 926 515 791 699 47 944 
+player 480 draws a 705 from deck 480
+player 480 discards a 473 to deck 481
+player 480 current hand : 701 309 117 282 350 951 52 521 661 722 690 177 453 926 515 791 699 47 944 705 
+player 480 draws a 808 from deck 480
+player 480 discards a 701 to deck 481
+player 480 current hand : 309 117 282 350 951 52 521 661 722 690 177 453 926 515 791 699 47 944 705 808 
+player 480 draws a 511 from deck 480
+player 480 discards a 309 to deck 481
+player 480 current hand : 117 282 350 951 52 521 661 722 690 177 453 926 515 791 699 47 944 705 808 511 
+player 480 draws a 328 from deck 480
+player 480 discards a 117 to deck 481
+player 480 current hand : 282 350 951 52 521 661 722 690 177 453 926 515 791 699 47 944 705 808 511 328 
+player 480 draws a 400 from deck 480
+player 480 discards a 282 to deck 481
+player 480 current hand : 350 951 52 521 661 722 690 177 453 926 515 791 699 47 944 705 808 511 328 400 
+player 480 draws a 585 from deck 480
+player 480 discards a 350 to deck 481
+player 480 current hand : 951 52 521 661 722 690 177 453 926 515 791 699 47 944 705 808 511 328 400 585 
+player 480 draws a 712 from deck 480
+player 480 discards a 951 to deck 481
+player 480 current hand : 52 521 661 722 690 177 453 926 515 791 699 47 944 705 808 511 328 400 585 712 
+player 480 draws a 793 from deck 480
+player 480 discards a 52 to deck 481
+player 480 current hand : 521 661 722 690 177 453 926 515 791 699 47 944 705 808 511 328 400 585 712 793 
+player 480 draws a 457 from deck 480
+player 480 discards a 521 to deck 481
+player 480 current hand : 661 722 690 177 453 926 515 791 699 47 944 705 808 511 328 400 585 712 793 457 
+player 480 draws a 171 from deck 480
+player 480 discards a 661 to deck 481
+player 480 current hand : 722 690 177 453 926 515 791 699 47 944 705 808 511 328 400 585 712 793 457 171 
+player 480 draws a 594 from deck 480
+player 480 discards a 722 to deck 481
+player 480 current hand : 690 177 453 926 515 791 699 47 944 705 808 511 328 400 585 712 793 457 171 594 
+player 480 draws a 571 from deck 480
+player 480 discards a 690 to deck 481
+player 480 current hand : 177 453 926 515 791 699 47 944 705 808 511 328 400 585 712 793 457 171 594 571 
+player 480 draws a 252 from deck 480
+player 480 discards a 177 to deck 481
+player 480 current hand : 453 926 515 791 699 47 944 705 808 511 328 400 585 712 793 457 171 594 571 252 
+player 480 draws a 24 from deck 480
+player 480 discards a 453 to deck 481
+player 480 current hand : 926 515 791 699 47 944 705 808 511 328 400 585 712 793 457 171 594 571 252 24 
+player 480 draws a 787 from deck 480
+player 480 discards a 926 to deck 481
+player 480 current hand : 515 791 699 47 944 705 808 511 328 400 585 712 793 457 171 594 571 252 24 787 
+player 480 draws a 837 from deck 480
+player 480 discards a 515 to deck 481
+player 480 current hand : 791 699 47 944 705 808 511 328 400 585 712 793 457 171 594 571 252 24 787 837 
+player 480 draws a 20 from deck 480
+player 480 discards a 791 to deck 481
+player 480 current hand : 699 47 944 705 808 511 328 400 585 712 793 457 171 594 571 252 24 787 837 20 
+player 480 draws a 245 from deck 480
+player 480 discards a 699 to deck 481
+player 480 current hand : 47 944 705 808 511 328 400 585 712 793 457 171 594 571 252 24 787 837 20 245 
+player 480 draws a 152 from deck 480
+player 480 discards a 47 to deck 481
+player 480 current hand : 944 705 808 511 328 400 585 712 793 457 171 594 571 252 24 787 837 20 245 152 
+player 480 draws a 722 from deck 480
+player 480 discards a 944 to deck 481
+player 480 current hand : 705 808 511 328 400 585 712 793 457 171 594 571 252 24 787 837 20 245 152 722 
+player 480 draws a 913 from deck 480
+player 480 discards a 705 to deck 481
+player 480 current hand : 808 511 328 400 585 712 793 457 171 594 571 252 24 787 837 20 245 152 722 913 
+player 480 draws a 700 from deck 480
+player 480 discards a 808 to deck 481
+player 480 current hand : 511 328 400 585 712 793 457 171 594 571 252 24 787 837 20 245 152 722 913 700 
+player 480 draws a 715 from deck 480
+player 480 discards a 511 to deck 481
+player 480 current hand : 328 400 585 712 793 457 171 594 571 252 24 787 837 20 245 152 722 913 700 715 
+player 480 draws a 852 from deck 480
+player 480 discards a 328 to deck 481
+player 480 current hand : 400 585 712 793 457 171 594 571 252 24 787 837 20 245 152 722 913 700 715 852 
+player 480 draws a 255 from deck 480
+player 480 discards a 400 to deck 481
+player 480 current hand : 585 712 793 457 171 594 571 252 24 787 837 20 245 152 722 913 700 715 852 255 
+player 480 draws a 782 from deck 480
+player 480 discards a 585 to deck 481
+player 480 current hand : 712 793 457 171 594 571 252 24 787 837 20 245 152 722 913 700 715 852 255 782 
+player 480 draws a 424 from deck 480
+player 480 discards a 712 to deck 481
+player 480 current hand : 793 457 171 594 571 252 24 787 837 20 245 152 722 913 700 715 852 255 782 424 
+player 480 draws a 162 from deck 480
+player 480 discards a 793 to deck 481
+player 480 current hand : 457 171 594 571 252 24 787 837 20 245 152 722 913 700 715 852 255 782 424 162 
+player 480 draws a 319 from deck 480
+player 480 discards a 457 to deck 481
+player 480 current hand : 171 594 571 252 24 787 837 20 245 152 722 913 700 715 852 255 782 424 162 319 
+player 480 draws a 170 from deck 480
+player 480 discards a 171 to deck 481
+player 480 current hand : 594 571 252 24 787 837 20 245 152 722 913 700 715 852 255 782 424 162 319 170 
+player 480 draws a 103 from deck 480
+player 480 discards a 594 to deck 481
+player 480 current hand : 571 252 24 787 837 20 245 152 722 913 700 715 852 255 782 424 162 319 170 103 
+player 480 draws a 242 from deck 480
+player 480 discards a 571 to deck 481
+player 480 current hand : 252 24 787 837 20 245 152 722 913 700 715 852 255 782 424 162 319 170 103 242 
+player 480 draws a 118 from deck 480
+player 480 discards a 252 to deck 481
+player 480 current hand : 24 787 837 20 245 152 722 913 700 715 852 255 782 424 162 319 170 103 242 118 
+player 480 draws a 817 from deck 480
+player 480 discards a 24 to deck 481
+player 480 current hand : 787 837 20 245 152 722 913 700 715 852 255 782 424 162 319 170 103 242 118 817 
+player 480 draws a 654 from deck 480
+player 480 discards a 787 to deck 481
+player 480 current hand : 837 20 245 152 722 913 700 715 852 255 782 424 162 319 170 103 242 118 817 654 
+player 480 draws a 283 from deck 480
+player 480 discards a 837 to deck 481
+player 480 current hand : 20 245 152 722 913 700 715 852 255 782 424 162 319 170 103 242 118 817 654 283 
+player 480 draws a 676 from deck 480
+player 480 discards a 20 to deck 481
+player 480 current hand : 245 152 722 913 700 715 852 255 782 424 162 319 170 103 242 118 817 654 283 676 
+player 480 draws a 951 from deck 480
+player 480 discards a 245 to deck 481
+player 480 current hand : 152 722 913 700 715 852 255 782 424 162 319 170 103 242 118 817 654 283 676 951 
+player 480 draws a 378 from deck 480
+player 480 discards a 152 to deck 481
+player 480 current hand : 722 913 700 715 852 255 782 424 162 319 170 103 242 118 817 654 283 676 951 378 
+player 480 draws a 456 from deck 480
+player 480 discards a 722 to deck 481
+player 480 current hand : 913 700 715 852 255 782 424 162 319 170 103 242 118 817 654 283 676 951 378 456 
+player 480 draws a 501 from deck 480
+player 480 discards a 913 to deck 481
+player 480 current hand : 700 715 852 255 782 424 162 319 170 103 242 118 817 654 283 676 951 378 456 501 
+player 480 draws a 650 from deck 480
+player 480 discards a 700 to deck 481
+player 480 current hand : 715 852 255 782 424 162 319 170 103 242 118 817 654 283 676 951 378 456 501 650 
+player 480 draws a 16 from deck 480
+player 480 discards a 715 to deck 481
+player 480 current hand : 852 255 782 424 162 319 170 103 242 118 817 654 283 676 951 378 456 501 650 16 
+player 480 draws a 765 from deck 480
+player 480 discards a 852 to deck 481
+player 480 current hand : 255 782 424 162 319 170 103 242 118 817 654 283 676 951 378 456 501 650 16 765 
+player 480 draws a 534 from deck 480
+player 480 discards a 255 to deck 481
+player 480 current hand : 782 424 162 319 170 103 242 118 817 654 283 676 951 378 456 501 650 16 765 534 
+player 480 draws a 470 from deck 480
+player 480 discards a 782 to deck 481
+player 480 current hand : 424 162 319 170 103 242 118 817 654 283 676 951 378 456 501 650 16 765 534 470 
+player 480 draws a 536 from deck 480
+player 480 discards a 424 to deck 481
+player 480 current hand : 162 319 170 103 242 118 817 654 283 676 951 378 456 501 650 16 765 534 470 536 
+player 480 draws a 320 from deck 480
+player 480 discards a 162 to deck 481
+player 480 current hand : 319 170 103 242 118 817 654 283 676 951 378 456 501 650 16 765 534 470 536 320 
+player 480 draws a 199 from deck 480
+player 480 discards a 319 to deck 481
+player 480 current hand : 170 103 242 118 817 654 283 676 951 378 456 501 650 16 765 534 470 536 320 199 
+player 480 draws a 240 from deck 480
+player 480 discards a 170 to deck 481
+player 480 current hand : 103 242 118 817 654 283 676 951 378 456 501 650 16 765 534 470 536 320 199 240 
+player 480 draws a 584 from deck 480
+player 480 discards a 103 to deck 481
+player 480 current hand : 242 118 817 654 283 676 951 378 456 501 650 16 765 534 470 536 320 199 240 584 
+player 480 draws a 562 from deck 480
+player 480 discards a 242 to deck 481
+player 480 current hand : 118 817 654 283 676 951 378 456 501 650 16 765 534 470 536 320 199 240 584 562 
+player 480 draws a 116 from deck 480
+player 480 discards a 118 to deck 481
+player 480 current hand : 817 654 283 676 951 378 456 501 650 16 765 534 470 536 320 199 240 584 562 116 
+player 480 draws a 829 from deck 480
+player 480 discards a 817 to deck 481
+player 480 current hand : 654 283 676 951 378 456 501 650 16 765 534 470 536 320 199 240 584 562 116 829 
+player 480 draws a 994 from deck 480
+player 480 discards a 654 to deck 481
+player 480 current hand : 283 676 951 378 456 501 650 16 765 534 470 536 320 199 240 584 562 116 829 994 
+player 480 draws a 54 from deck 480
+player 480 discards a 283 to deck 481
+player 480 current hand : 676 951 378 456 501 650 16 765 534 470 536 320 199 240 584 562 116 829 994 54 
+player 480 draws a 932 from deck 480
+player 480 discards a 676 to deck 481
+player 480 current hand : 951 378 456 501 650 16 765 534 470 536 320 199 240 584 562 116 829 994 54 932 
+player 480 draws a 862 from deck 480
+player 480 discards a 951 to deck 481
+player 480 current hand : 378 456 501 650 16 765 534 470 536 320 199 240 584 562 116 829 994 54 932 862 
+player 480 draws a 749 from deck 480
+player 480 discards a 378 to deck 481
+player 480 current hand : 456 501 650 16 765 534 470 536 320 199 240 584 562 116 829 994 54 932 862 749 
+player 480 draws a 8 from deck 480
+player 480 discards a 456 to deck 481
+player 480 current hand : 501 650 16 765 534 470 536 320 199 240 584 562 116 829 994 54 932 862 749 8 
+player 480 draws a 112 from deck 480
+player 480 discards a 501 to deck 481
+player 480 current hand : 650 16 765 534 470 536 320 199 240 584 562 116 829 994 54 932 862 749 8 112 
+player 480 draws a 852 from deck 480
+player 480 discards a 650 to deck 481
+player 480 current hand : 16 765 534 470 536 320 199 240 584 562 116 829 994 54 932 862 749 8 112 852 
+player 480 draws a 760 from deck 480
+player 480 discards a 16 to deck 481
+player 480 current hand : 765 534 470 536 320 199 240 584 562 116 829 994 54 932 862 749 8 112 852 760 
+player 480 draws a 18 from deck 480
+player 480 discards a 765 to deck 481
+player 480 current hand : 534 470 536 320 199 240 584 562 116 829 994 54 932 862 749 8 112 852 760 18 
+player 480 draws a 52 from deck 480
+player 480 discards a 534 to deck 481
+player 480 current hand : 470 536 320 199 240 584 562 116 829 994 54 932 862 749 8 112 852 760 18 52 
+player 480 draws a 389 from deck 480
+player 480 discards a 470 to deck 481
+player 480 current hand : 536 320 199 240 584 562 116 829 994 54 932 862 749 8 112 852 760 18 52 389 
+player 480 draws a 565 from deck 480
+player 480 discards a 536 to deck 481
+player 480 current hand : 320 199 240 584 562 116 829 994 54 932 862 749 8 112 852 760 18 52 389 565 
+player 480 draws a 580 from deck 480
+player 480 discards a 320 to deck 481

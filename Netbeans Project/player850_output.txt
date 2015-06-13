@@ -1,0 +1,326 @@
+player 850 initial hand 527 977 1000 45 572 386 434 370 223 862 912 870 980 709 778 946 981 639 127 535 
+player 850 draws a 928 from deck 850
+player 850 discards a 527 to deck 851
+player 850 current hand : 977 1000 45 572 386 434 370 223 862 912 870 980 709 778 946 981 639 127 535 928 
+player 850 draws a 559 from deck 850
+player 850 discards a 977 to deck 851
+player 850 current hand : 1000 45 572 386 434 370 223 862 912 870 980 709 778 946 981 639 127 535 928 559 
+player 850 draws a 879 from deck 850
+player 850 discards a 1000 to deck 851
+player 850 current hand : 45 572 386 434 370 223 862 912 870 980 709 778 946 981 639 127 535 928 559 879 
+player 850 draws a 387 from deck 850
+player 850 discards a 45 to deck 851
+player 850 current hand : 572 386 434 370 223 862 912 870 980 709 778 946 981 639 127 535 928 559 879 387 
+player 850 draws a 423 from deck 850
+player 850 discards a 572 to deck 851
+player 850 current hand : 386 434 370 223 862 912 870 980 709 778 946 981 639 127 535 928 559 879 387 423 
+player 850 draws a 490 from deck 850
+player 850 discards a 386 to deck 851
+player 850 current hand : 434 370 223 862 912 870 980 709 778 946 981 639 127 535 928 559 879 387 423 490 
+player 850 draws a 91 from deck 850
+player 850 discards a 434 to deck 851
+player 850 current hand : 370 223 862 912 870 980 709 778 946 981 639 127 535 928 559 879 387 423 490 91 
+player 850 draws a 748 from deck 850
+player 850 discards a 370 to deck 851
+player 850 current hand : 223 862 912 870 980 709 778 946 981 639 127 535 928 559 879 387 423 490 91 748 
+player 850 draws a 252 from deck 850
+player 850 discards a 223 to deck 851
+player 850 current hand : 862 912 870 980 709 778 946 981 639 127 535 928 559 879 387 423 490 91 748 252 
+player 850 draws a 160 from deck 850
+player 850 discards a 862 to deck 851
+player 850 current hand : 912 870 980 709 778 946 981 639 127 535 928 559 879 387 423 490 91 748 252 160 
+player 850 draws a 255 from deck 850
+player 850 discards a 912 to deck 851
+player 850 current hand : 870 980 709 778 946 981 639 127 535 928 559 879 387 423 490 91 748 252 160 255 
+player 850 draws a 701 from deck 850
+player 850 discards a 870 to deck 851
+player 850 current hand : 980 709 778 946 981 639 127 535 928 559 879 387 423 490 91 748 252 160 255 701 
+player 850 draws a 509 from deck 850
+player 850 discards a 980 to deck 851
+player 850 current hand : 709 778 946 981 639 127 535 928 559 879 387 423 490 91 748 252 160 255 701 509 
+player 850 draws a 677 from deck 850
+player 850 discards a 709 to deck 851
+player 850 current hand : 778 946 981 639 127 535 928 559 879 387 423 490 91 748 252 160 255 701 509 677 
+player 850 draws a 946 from deck 850
+player 850 discards a 778 to deck 851
+player 850 current hand : 946 981 639 127 535 928 559 879 387 423 490 91 748 252 160 255 701 509 677 946 
+player 850 draws a 805 from deck 850
+player 850 discards a 946 to deck 851
+player 850 current hand : 981 639 127 535 928 559 879 387 423 490 91 748 252 160 255 701 509 677 946 805 
+player 850 draws a 872 from deck 850
+player 850 discards a 981 to deck 851
+player 850 current hand : 639 127 535 928 559 879 387 423 490 91 748 252 160 255 701 509 677 946 805 872 
+player 850 draws a 775 from deck 850
+player 850 discards a 639 to deck 851
+player 850 current hand : 127 535 928 559 879 387 423 490 91 748 252 160 255 701 509 677 946 805 872 775 
+player 850 draws a 832 from deck 850
+player 850 discards a 127 to deck 851
+player 850 current hand : 535 928 559 879 387 423 490 91 748 252 160 255 701 509 677 946 805 872 775 832 
+player 850 draws a 838 from deck 850
+player 850 discards a 535 to deck 851
+player 850 current hand : 928 559 879 387 423 490 91 748 252 160 255 701 509 677 946 805 872 775 832 838 
+player 850 draws a 438 from deck 850
+player 850 discards a 928 to deck 851
+player 850 current hand : 559 879 387 423 490 91 748 252 160 255 701 509 677 946 805 872 775 832 838 438 
+player 850 draws a 83 from deck 850
+player 850 discards a 559 to deck 851
+player 850 current hand : 879 387 423 490 91 748 252 160 255 701 509 677 946 805 872 775 832 838 438 83 
+player 850 draws a 538 from deck 850
+player 850 discards a 879 to deck 851
+player 850 current hand : 387 423 490 91 748 252 160 255 701 509 677 946 805 872 775 832 838 438 83 538 
+player 850 draws a 4 from deck 850
+player 850 discards a 387 to deck 851
+player 850 current hand : 423 490 91 748 252 160 255 701 509 677 946 805 872 775 832 838 438 83 538 4 
+player 850 draws a 796 from deck 850
+player 850 discards a 423 to deck 851
+player 850 current hand : 490 91 748 252 160 255 701 509 677 946 805 872 775 832 838 438 83 538 4 796 
+player 850 draws a 568 from deck 850
+player 850 discards a 490 to deck 851
+player 850 current hand : 91 748 252 160 255 701 509 677 946 805 872 775 832 838 438 83 538 4 796 568 
+player 850 draws a 788 from deck 850
+player 850 discards a 91 to deck 851
+player 850 current hand : 748 252 160 255 701 509 677 946 805 872 775 832 838 438 83 538 4 796 568 788 
+player 850 draws a 700 from deck 850
+player 850 discards a 748 to deck 851
+player 850 current hand : 252 160 255 701 509 677 946 805 872 775 832 838 438 83 538 4 796 568 788 700 
+player 850 draws a 744 from deck 850
+player 850 discards a 252 to deck 851
+player 850 current hand : 160 255 701 509 677 946 805 872 775 832 838 438 83 538 4 796 568 788 700 744 
+player 850 draws a 15 from deck 850
+player 850 discards a 160 to deck 851
+player 850 current hand : 255 701 509 677 946 805 872 775 832 838 438 83 538 4 796 568 788 700 744 15 
+player 850 draws a 463 from deck 850
+player 850 discards a 255 to deck 851
+player 850 current hand : 701 509 677 946 805 872 775 832 838 438 83 538 4 796 568 788 700 744 15 463 
+player 850 draws a 364 from deck 850
+player 850 discards a 701 to deck 851
+player 850 current hand : 509 677 946 805 872 775 832 838 438 83 538 4 796 568 788 700 744 15 463 364 
+player 850 draws a 71 from deck 850
+player 850 discards a 509 to deck 851
+player 850 current hand : 677 946 805 872 775 832 838 438 83 538 4 796 568 788 700 744 15 463 364 71 
+player 850 draws a 960 from deck 850
+player 850 discards a 677 to deck 851
+player 850 current hand : 946 805 872 775 832 838 438 83 538 4 796 568 788 700 744 15 463 364 71 960 
+player 850 draws a 62 from deck 850
+player 850 discards a 946 to deck 851
+player 850 current hand : 805 872 775 832 838 438 83 538 4 796 568 788 700 744 15 463 364 71 960 62 
+player 850 draws a 654 from deck 850
+player 850 discards a 805 to deck 851
+player 850 current hand : 872 775 832 838 438 83 538 4 796 568 788 700 744 15 463 364 71 960 62 654 
+player 850 draws a 98 from deck 850
+player 850 discards a 872 to deck 851
+player 850 current hand : 775 832 838 438 83 538 4 796 568 788 700 744 15 463 364 71 960 62 654 98 
+player 850 draws a 917 from deck 850
+player 850 discards a 775 to deck 851
+player 850 current hand : 832 838 438 83 538 4 796 568 788 700 744 15 463 364 71 960 62 654 98 917 
+player 850 draws a 871 from deck 850
+player 850 discards a 832 to deck 851
+player 850 current hand : 838 438 83 538 4 796 568 788 700 744 15 463 364 71 960 62 654 98 917 871 
+player 850 draws a 823 from deck 850
+player 850 discards a 838 to deck 851
+player 850 current hand : 438 83 538 4 796 568 788 700 744 15 463 364 71 960 62 654 98 917 871 823 
+player 850 draws a 840 from deck 850
+player 850 discards a 438 to deck 851
+player 850 current hand : 83 538 4 796 568 788 700 744 15 463 364 71 960 62 654 98 917 871 823 840 
+player 850 draws a 320 from deck 850
+player 850 discards a 83 to deck 851
+player 850 current hand : 538 4 796 568 788 700 744 15 463 364 71 960 62 654 98 917 871 823 840 320 
+player 850 draws a 841 from deck 850
+player 850 discards a 538 to deck 851
+player 850 current hand : 4 796 568 788 700 744 15 463 364 71 960 62 654 98 917 871 823 840 320 841 
+player 850 draws a 80 from deck 850
+player 850 discards a 4 to deck 851
+player 850 current hand : 796 568 788 700 744 15 463 364 71 960 62 654 98 917 871 823 840 320 841 80 
+player 850 draws a 15 from deck 850
+player 850 discards a 796 to deck 851
+player 850 current hand : 568 788 700 744 15 463 364 71 960 62 654 98 917 871 823 840 320 841 80 15 
+player 850 draws a 7 from deck 850
+player 850 discards a 568 to deck 851
+player 850 current hand : 788 700 744 15 463 364 71 960 62 654 98 917 871 823 840 320 841 80 15 7 
+player 850 draws a 523 from deck 850
+player 850 discards a 788 to deck 851
+player 850 current hand : 700 744 15 463 364 71 960 62 654 98 917 871 823 840 320 841 80 15 7 523 
+player 850 draws a 331 from deck 850
+player 850 discards a 700 to deck 851
+player 850 current hand : 744 15 463 364 71 960 62 654 98 917 871 823 840 320 841 80 15 7 523 331 
+player 850 draws a 128 from deck 850
+player 850 discards a 744 to deck 851
+player 850 current hand : 15 463 364 71 960 62 654 98 917 871 823 840 320 841 80 15 7 523 331 128 
+player 850 draws a 968 from deck 850
+player 850 discards a 15 to deck 851
+player 850 current hand : 463 364 71 960 62 654 98 917 871 823 840 320 841 80 15 7 523 331 128 968 
+player 850 draws a 299 from deck 850
+player 850 discards a 463 to deck 851
+player 850 current hand : 364 71 960 62 654 98 917 871 823 840 320 841 80 15 7 523 331 128 968 299 
+player 850 draws a 735 from deck 850
+player 850 discards a 364 to deck 851
+player 850 current hand : 71 960 62 654 98 917 871 823 840 320 841 80 15 7 523 331 128 968 299 735 
+player 850 draws a 455 from deck 850
+player 850 discards a 71 to deck 851
+player 850 current hand : 960 62 654 98 917 871 823 840 320 841 80 15 7 523 331 128 968 299 735 455 
+player 850 draws a 490 from deck 850
+player 850 discards a 960 to deck 851
+player 850 current hand : 62 654 98 917 871 823 840 320 841 80 15 7 523 331 128 968 299 735 455 490 
+player 850 draws a 450 from deck 850
+player 850 discards a 62 to deck 851
+player 850 current hand : 654 98 917 871 823 840 320 841 80 15 7 523 331 128 968 299 735 455 490 450 
+player 850 draws a 527 from deck 850
+player 850 discards a 654 to deck 851
+player 850 current hand : 98 917 871 823 840 320 841 80 15 7 523 331 128 968 299 735 455 490 450 527 
+player 850 draws a 174 from deck 850
+player 850 discards a 98 to deck 851
+player 850 current hand : 917 871 823 840 320 841 80 15 7 523 331 128 968 299 735 455 490 450 527 174 
+player 850 draws a 560 from deck 850
+player 850 discards a 917 to deck 851
+player 850 current hand : 871 823 840 320 841 80 15 7 523 331 128 968 299 735 455 490 450 527 174 560 
+player 850 draws a 401 from deck 850
+player 850 discards a 871 to deck 851
+player 850 current hand : 823 840 320 841 80 15 7 523 331 128 968 299 735 455 490 450 527 174 560 401 
+player 850 draws a 865 from deck 850
+player 850 discards a 823 to deck 851
+player 850 current hand : 840 320 841 80 15 7 523 331 128 968 299 735 455 490 450 527 174 560 401 865 
+player 850 draws a 792 from deck 850
+player 850 discards a 840 to deck 851
+player 850 current hand : 320 841 80 15 7 523 331 128 968 299 735 455 490 450 527 174 560 401 865 792 
+player 850 draws a 902 from deck 850
+player 850 discards a 320 to deck 851
+player 850 current hand : 841 80 15 7 523 331 128 968 299 735 455 490 450 527 174 560 401 865 792 902 
+player 850 draws a 327 from deck 850
+player 850 discards a 841 to deck 851
+player 850 current hand : 80 15 7 523 331 128 968 299 735 455 490 450 527 174 560 401 865 792 902 327 
+player 850 draws a 898 from deck 850
+player 850 discards a 80 to deck 851
+player 850 current hand : 15 7 523 331 128 968 299 735 455 490 450 527 174 560 401 865 792 902 327 898 
+player 850 draws a 946 from deck 850
+player 850 discards a 15 to deck 851
+player 850 current hand : 7 523 331 128 968 299 735 455 490 450 527 174 560 401 865 792 902 327 898 946 
+player 850 draws a 157 from deck 850
+player 850 discards a 7 to deck 851
+player 850 current hand : 523 331 128 968 299 735 455 490 450 527 174 560 401 865 792 902 327 898 946 157 
+player 850 draws a 840 from deck 850
+player 850 discards a 523 to deck 851
+player 850 current hand : 331 128 968 299 735 455 490 450 527 174 560 401 865 792 902 327 898 946 157 840 
+player 850 draws a 535 from deck 850
+player 850 discards a 331 to deck 851
+player 850 current hand : 128 968 299 735 455 490 450 527 174 560 401 865 792 902 327 898 946 157 840 535 
+player 850 draws a 507 from deck 850
+player 850 discards a 128 to deck 851
+player 850 current hand : 968 299 735 455 490 450 527 174 560 401 865 792 902 327 898 946 157 840 535 507 
+player 850 draws a 508 from deck 850
+player 850 discards a 968 to deck 851
+player 850 current hand : 299 735 455 490 450 527 174 560 401 865 792 902 327 898 946 157 840 535 507 508 
+player 850 draws a 523 from deck 850
+player 850 discards a 299 to deck 851
+player 850 current hand : 735 455 490 450 527 174 560 401 865 792 902 327 898 946 157 840 535 507 508 523 
+player 850 draws a 211 from deck 850
+player 850 discards a 735 to deck 851
+player 850 current hand : 455 490 450 527 174 560 401 865 792 902 327 898 946 157 840 535 507 508 523 211 
+player 850 draws a 776 from deck 850
+player 850 discards a 455 to deck 851
+player 850 current hand : 490 450 527 174 560 401 865 792 902 327 898 946 157 840 535 507 508 523 211 776 
+player 850 draws a 829 from deck 850
+player 850 discards a 490 to deck 851
+player 850 current hand : 450 527 174 560 401 865 792 902 327 898 946 157 840 535 507 508 523 211 776 829 
+player 850 draws a 544 from deck 850
+player 850 discards a 450 to deck 851
+player 850 current hand : 527 174 560 401 865 792 902 327 898 946 157 840 535 507 508 523 211 776 829 544 
+player 850 draws a 666 from deck 850
+player 850 discards a 527 to deck 851
+player 850 current hand : 174 560 401 865 792 902 327 898 946 157 840 535 507 508 523 211 776 829 544 666 
+player 850 draws a 815 from deck 850
+player 850 discards a 174 to deck 851
+player 850 current hand : 560 401 865 792 902 327 898 946 157 840 535 507 508 523 211 776 829 544 666 815 
+player 850 draws a 817 from deck 850
+player 850 discards a 560 to deck 851
+player 850 current hand : 401 865 792 902 327 898 946 157 840 535 507 508 523 211 776 829 544 666 815 817 
+player 850 draws a 291 from deck 850
+player 850 discards a 401 to deck 851
+player 850 current hand : 865 792 902 327 898 946 157 840 535 507 508 523 211 776 829 544 666 815 817 291 
+player 850 draws a 804 from deck 850
+player 850 discards a 865 to deck 851
+player 850 current hand : 792 902 327 898 946 157 840 535 507 508 523 211 776 829 544 666 815 817 291 804 
+player 850 draws a 870 from deck 850
+player 850 discards a 792 to deck 851
+player 850 current hand : 902 327 898 946 157 840 535 507 508 523 211 776 829 544 666 815 817 291 804 870 
+player 850 draws a 692 from deck 850
+player 850 discards a 902 to deck 851
+player 850 current hand : 327 898 946 157 840 535 507 508 523 211 776 829 544 666 815 817 291 804 870 692 
+player 850 draws a 270 from deck 850
+player 850 discards a 327 to deck 851
+player 850 current hand : 898 946 157 840 535 507 508 523 211 776 829 544 666 815 817 291 804 870 692 270 
+player 850 draws a 234 from deck 850
+player 850 discards a 898 to deck 851
+player 850 current hand : 946 157 840 535 507 508 523 211 776 829 544 666 815 817 291 804 870 692 270 234 
+player 850 draws a 773 from deck 850
+player 850 discards a 946 to deck 851
+player 850 current hand : 157 840 535 507 508 523 211 776 829 544 666 815 817 291 804 870 692 270 234 773 
+player 850 draws a 719 from deck 850
+player 850 discards a 157 to deck 851
+player 850 current hand : 840 535 507 508 523 211 776 829 544 666 815 817 291 804 870 692 270 234 773 719 
+player 850 draws a 947 from deck 850
+player 850 discards a 840 to deck 851
+player 850 current hand : 535 507 508 523 211 776 829 544 666 815 817 291 804 870 692 270 234 773 719 947 
+player 850 draws a 393 from deck 850
+player 850 discards a 535 to deck 851
+player 850 current hand : 507 508 523 211 776 829 544 666 815 817 291 804 870 692 270 234 773 719 947 393 
+player 850 draws a 447 from deck 850
+player 850 discards a 507 to deck 851
+player 850 current hand : 508 523 211 776 829 544 666 815 817 291 804 870 692 270 234 773 719 947 393 447 
+player 850 draws a 595 from deck 850
+player 850 discards a 508 to deck 851
+player 850 current hand : 523 211 776 829 544 666 815 817 291 804 870 692 270 234 773 719 947 393 447 595 
+player 850 draws a 462 from deck 850
+player 850 discards a 523 to deck 851
+player 850 current hand : 211 776 829 544 666 815 817 291 804 870 692 270 234 773 719 947 393 447 595 462 
+player 850 draws a 985 from deck 850
+player 850 discards a 211 to deck 851
+player 850 current hand : 776 829 544 666 815 817 291 804 870 692 270 234 773 719 947 393 447 595 462 985 
+player 850 draws a 630 from deck 850
+player 850 discards a 776 to deck 851
+player 850 current hand : 829 544 666 815 817 291 804 870 692 270 234 773 719 947 393 447 595 462 985 630 
+player 850 draws a 633 from deck 850
+player 850 discards a 829 to deck 851
+player 850 current hand : 544 666 815 817 291 804 870 692 270 234 773 719 947 393 447 595 462 985 630 633 
+player 850 draws a 110 from deck 850
+player 850 discards a 544 to deck 851
+player 850 current hand : 666 815 817 291 804 870 692 270 234 773 719 947 393 447 595 462 985 630 633 110 
+player 850 draws a 630 from deck 850
+player 850 discards a 666 to deck 851
+player 850 current hand : 815 817 291 804 870 692 270 234 773 719 947 393 447 595 462 985 630 633 110 630 
+player 850 draws a 944 from deck 850
+player 850 discards a 815 to deck 851
+player 850 current hand : 817 291 804 870 692 270 234 773 719 947 393 447 595 462 985 630 633 110 630 944 
+player 850 draws a 554 from deck 850
+player 850 discards a 817 to deck 851
+player 850 current hand : 291 804 870 692 270 234 773 719 947 393 447 595 462 985 630 633 110 630 944 554 
+player 850 draws a 949 from deck 850
+player 850 discards a 291 to deck 851
+player 850 current hand : 804 870 692 270 234 773 719 947 393 447 595 462 985 630 633 110 630 944 554 949 
+player 850 draws a 941 from deck 850
+player 850 discards a 804 to deck 851
+player 850 current hand : 870 692 270 234 773 719 947 393 447 595 462 985 630 633 110 630 944 554 949 941 
+player 850 draws a 137 from deck 850
+player 850 discards a 870 to deck 851
+player 850 current hand : 692 270 234 773 719 947 393 447 595 462 985 630 633 110 630 944 554 949 941 137 
+player 850 draws a 152 from deck 850
+player 850 discards a 692 to deck 851
+player 850 current hand : 270 234 773 719 947 393 447 595 462 985 630 633 110 630 944 554 949 941 137 152 
+player 850 draws a 7 from deck 850
+player 850 discards a 270 to deck 851
+player 850 current hand : 234 773 719 947 393 447 595 462 985 630 633 110 630 944 554 949 941 137 152 7 
+player 850 draws a 645 from deck 850
+player 850 discards a 234 to deck 851
+player 850 current hand : 773 719 947 393 447 595 462 985 630 633 110 630 944 554 949 941 137 152 7 645 
+player 850 draws a 442 from deck 850
+player 850 discards a 773 to deck 851
+player 850 current hand : 719 947 393 447 595 462 985 630 633 110 630 944 554 949 941 137 152 7 645 442 
+player 850 draws a 411 from deck 850
+player 850 discards a 719 to deck 851
+player 850 current hand : 947 393 447 595 462 985 630 633 110 630 944 554 949 941 137 152 7 645 442 411 
+player 850 draws a 824 from deck 850
+player 850 discards a 947 to deck 851
+player 850 current hand : 393 447 595 462 985 630 633 110 630 944 554 949 941 137 152 7 645 442 411 824 
+player 850 draws a 427 from deck 850
+player 850 discards a 393 to deck 851
+player 850 current hand : 447 595 462 985 630 633 110 630 944 554 949 941 137 152 7 645 442 411 824 427 
+player 850 draws a 308 from deck 850

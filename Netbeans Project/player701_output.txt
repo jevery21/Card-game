@@ -1,0 +1,295 @@
+player 701 initial hand 925 918 729 338 23 920 545 252 138 223 110 924 134 159 397 910 582 773 922 262 
+player 701 draws a 676 from deck 701
+player 701 discards a 925 to deck 702
+player 701 current hand : 918 729 338 23 920 545 252 138 223 110 924 134 159 397 910 582 773 922 262 676 
+player 701 draws a 753 from deck 701
+player 701 discards a 918 to deck 702
+player 701 current hand : 729 338 23 920 545 252 138 223 110 924 134 159 397 910 582 773 922 262 676 753 
+player 701 draws a 266 from deck 701
+player 701 discards a 729 to deck 702
+player 701 current hand : 338 23 920 545 252 138 223 110 924 134 159 397 910 582 773 922 262 676 753 266 
+player 701 draws a 620 from deck 701
+player 701 discards a 338 to deck 702
+player 701 current hand : 23 920 545 252 138 223 110 924 134 159 397 910 582 773 922 262 676 753 266 620 
+player 701 draws a 531 from deck 701
+player 701 discards a 23 to deck 702
+player 701 current hand : 920 545 252 138 223 110 924 134 159 397 910 582 773 922 262 676 753 266 620 531 
+player 701 draws a 729 from deck 701
+player 701 discards a 920 to deck 702
+player 701 current hand : 545 252 138 223 110 924 134 159 397 910 582 773 922 262 676 753 266 620 531 729 
+player 701 draws a 128 from deck 701
+player 701 discards a 545 to deck 702
+player 701 current hand : 252 138 223 110 924 134 159 397 910 582 773 922 262 676 753 266 620 531 729 128 
+player 701 draws a 945 from deck 701
+player 701 discards a 252 to deck 702
+player 701 current hand : 138 223 110 924 134 159 397 910 582 773 922 262 676 753 266 620 531 729 128 945 
+player 701 draws a 173 from deck 701
+player 701 discards a 138 to deck 702
+player 701 current hand : 223 110 924 134 159 397 910 582 773 922 262 676 753 266 620 531 729 128 945 173 
+player 701 draws a 849 from deck 701
+player 701 discards a 223 to deck 702
+player 701 current hand : 110 924 134 159 397 910 582 773 922 262 676 753 266 620 531 729 128 945 173 849 
+player 701 draws a 180 from deck 701
+player 701 discards a 110 to deck 702
+player 701 current hand : 924 134 159 397 910 582 773 922 262 676 753 266 620 531 729 128 945 173 849 180 
+player 701 draws a 816 from deck 701
+player 701 discards a 924 to deck 702
+player 701 current hand : 134 159 397 910 582 773 922 262 676 753 266 620 531 729 128 945 173 849 180 816 
+player 701 draws a 608 from deck 701
+player 701 discards a 134 to deck 702
+player 701 current hand : 159 397 910 582 773 922 262 676 753 266 620 531 729 128 945 173 849 180 816 608 
+player 701 draws a 97 from deck 701
+player 701 discards a 159 to deck 702
+player 701 current hand : 397 910 582 773 922 262 676 753 266 620 531 729 128 945 173 849 180 816 608 97 
+player 701 draws a 224 from deck 701
+player 701 discards a 397 to deck 702
+player 701 current hand : 910 582 773 922 262 676 753 266 620 531 729 128 945 173 849 180 816 608 97 224 
+player 701 draws a 430 from deck 701
+player 701 discards a 910 to deck 702
+player 701 current hand : 582 773 922 262 676 753 266 620 531 729 128 945 173 849 180 816 608 97 224 430 
+player 701 draws a 712 from deck 701
+player 701 discards a 582 to deck 702
+player 701 current hand : 773 922 262 676 753 266 620 531 729 128 945 173 849 180 816 608 97 224 430 712 
+player 701 draws a 85 from deck 701
+player 701 discards a 773 to deck 702
+player 701 current hand : 922 262 676 753 266 620 531 729 128 945 173 849 180 816 608 97 224 430 712 85 
+player 701 draws a 833 from deck 701
+player 701 discards a 922 to deck 702
+player 701 current hand : 262 676 753 266 620 531 729 128 945 173 849 180 816 608 97 224 430 712 85 833 
+player 701 draws a 819 from deck 701
+player 701 discards a 262 to deck 702
+player 701 current hand : 676 753 266 620 531 729 128 945 173 849 180 816 608 97 224 430 712 85 833 819 
+player 701 draws a 242 from deck 701
+player 701 discards a 676 to deck 702
+player 701 current hand : 753 266 620 531 729 128 945 173 849 180 816 608 97 224 430 712 85 833 819 242 
+player 701 draws a 585 from deck 701
+player 701 discards a 753 to deck 702
+player 701 current hand : 266 620 531 729 128 945 173 849 180 816 608 97 224 430 712 85 833 819 242 585 
+player 701 draws a 186 from deck 701
+player 701 discards a 266 to deck 702
+player 701 current hand : 620 531 729 128 945 173 849 180 816 608 97 224 430 712 85 833 819 242 585 186 
+player 701 draws a 979 from deck 701
+player 701 discards a 620 to deck 702
+player 701 current hand : 531 729 128 945 173 849 180 816 608 97 224 430 712 85 833 819 242 585 186 979 
+player 701 draws a 209 from deck 701
+player 701 discards a 531 to deck 702
+player 701 current hand : 729 128 945 173 849 180 816 608 97 224 430 712 85 833 819 242 585 186 979 209 
+player 701 draws a 720 from deck 701
+player 701 discards a 729 to deck 702
+player 701 current hand : 128 945 173 849 180 816 608 97 224 430 712 85 833 819 242 585 186 979 209 720 
+player 701 draws a 60 from deck 701
+player 701 discards a 128 to deck 702
+player 701 current hand : 945 173 849 180 816 608 97 224 430 712 85 833 819 242 585 186 979 209 720 60 
+player 701 draws a 392 from deck 701
+player 701 discards a 945 to deck 702
+player 701 current hand : 173 849 180 816 608 97 224 430 712 85 833 819 242 585 186 979 209 720 60 392 
+player 701 draws a 608 from deck 701
+player 701 discards a 173 to deck 702
+player 701 current hand : 849 180 816 608 97 224 430 712 85 833 819 242 585 186 979 209 720 60 392 608 
+player 701 draws a 429 from deck 701
+player 701 discards a 849 to deck 702
+player 701 current hand : 180 816 608 97 224 430 712 85 833 819 242 585 186 979 209 720 60 392 608 429 
+player 701 draws a 495 from deck 701
+player 701 discards a 180 to deck 702
+player 701 current hand : 816 608 97 224 430 712 85 833 819 242 585 186 979 209 720 60 392 608 429 495 
+player 701 draws a 287 from deck 701
+player 701 discards a 816 to deck 702
+player 701 current hand : 608 97 224 430 712 85 833 819 242 585 186 979 209 720 60 392 608 429 495 287 
+player 701 draws a 303 from deck 701
+player 701 discards a 608 to deck 702
+player 701 current hand : 97 224 430 712 85 833 819 242 585 186 979 209 720 60 392 608 429 495 287 303 
+player 701 draws a 516 from deck 701
+player 701 discards a 97 to deck 702
+player 701 current hand : 224 430 712 85 833 819 242 585 186 979 209 720 60 392 608 429 495 287 303 516 
+player 701 draws a 200 from deck 701
+player 701 discards a 224 to deck 702
+player 701 current hand : 430 712 85 833 819 242 585 186 979 209 720 60 392 608 429 495 287 303 516 200 
+player 701 draws a 470 from deck 701
+player 701 discards a 430 to deck 702
+player 701 current hand : 712 85 833 819 242 585 186 979 209 720 60 392 608 429 495 287 303 516 200 470 
+player 701 draws a 654 from deck 701
+player 701 discards a 712 to deck 702
+player 701 current hand : 85 833 819 242 585 186 979 209 720 60 392 608 429 495 287 303 516 200 470 654 
+player 701 draws a 951 from deck 701
+player 701 discards a 85 to deck 702
+player 701 current hand : 833 819 242 585 186 979 209 720 60 392 608 429 495 287 303 516 200 470 654 951 
+player 701 draws a 817 from deck 701
+player 701 discards a 833 to deck 702
+player 701 current hand : 819 242 585 186 979 209 720 60 392 608 429 495 287 303 516 200 470 654 951 817 
+player 701 draws a 842 from deck 701
+player 701 discards a 819 to deck 702
+player 701 current hand : 242 585 186 979 209 720 60 392 608 429 495 287 303 516 200 470 654 951 817 842 
+player 701 draws a 529 from deck 701
+player 701 discards a 242 to deck 702
+player 701 current hand : 585 186 979 209 720 60 392 608 429 495 287 303 516 200 470 654 951 817 842 529 
+player 701 draws a 286 from deck 701
+player 701 discards a 585 to deck 702
+player 701 current hand : 186 979 209 720 60 392 608 429 495 287 303 516 200 470 654 951 817 842 529 286 
+player 701 draws a 265 from deck 701
+player 701 discards a 186 to deck 702
+player 701 current hand : 979 209 720 60 392 608 429 495 287 303 516 200 470 654 951 817 842 529 286 265 
+player 701 draws a 102 from deck 701
+player 701 discards a 979 to deck 702
+player 701 current hand : 209 720 60 392 608 429 495 287 303 516 200 470 654 951 817 842 529 286 265 102 
+player 701 draws a 764 from deck 701
+player 701 discards a 209 to deck 702
+player 701 current hand : 720 60 392 608 429 495 287 303 516 200 470 654 951 817 842 529 286 265 102 764 
+player 701 draws a 182 from deck 701
+player 701 discards a 720 to deck 702
+player 701 current hand : 60 392 608 429 495 287 303 516 200 470 654 951 817 842 529 286 265 102 764 182 
+player 701 draws a 348 from deck 701
+player 701 discards a 60 to deck 702
+player 701 current hand : 392 608 429 495 287 303 516 200 470 654 951 817 842 529 286 265 102 764 182 348 
+player 701 draws a 138 from deck 701
+player 701 discards a 392 to deck 702
+player 701 current hand : 608 429 495 287 303 516 200 470 654 951 817 842 529 286 265 102 764 182 348 138 
+player 701 draws a 363 from deck 701
+player 701 discards a 608 to deck 702
+player 701 current hand : 429 495 287 303 516 200 470 654 951 817 842 529 286 265 102 764 182 348 138 363 
+player 701 draws a 446 from deck 701
+player 701 discards a 429 to deck 702
+player 701 current hand : 495 287 303 516 200 470 654 951 817 842 529 286 265 102 764 182 348 138 363 446 
+player 701 draws a 897 from deck 701
+player 701 discards a 495 to deck 702
+player 701 current hand : 287 303 516 200 470 654 951 817 842 529 286 265 102 764 182 348 138 363 446 897 
+player 701 draws a 152 from deck 701
+player 701 discards a 287 to deck 702
+player 701 current hand : 303 516 200 470 654 951 817 842 529 286 265 102 764 182 348 138 363 446 897 152 
+player 701 draws a 792 from deck 701
+player 701 discards a 303 to deck 702
+player 701 current hand : 516 200 470 654 951 817 842 529 286 265 102 764 182 348 138 363 446 897 152 792 
+player 701 draws a 360 from deck 701
+player 701 discards a 516 to deck 702
+player 701 current hand : 200 470 654 951 817 842 529 286 265 102 764 182 348 138 363 446 897 152 792 360 
+player 701 draws a 314 from deck 701
+player 701 discards a 200 to deck 702
+player 701 current hand : 470 654 951 817 842 529 286 265 102 764 182 348 138 363 446 897 152 792 360 314 
+player 701 draws a 973 from deck 701
+player 701 discards a 470 to deck 702
+player 701 current hand : 654 951 817 842 529 286 265 102 764 182 348 138 363 446 897 152 792 360 314 973 
+player 701 draws a 762 from deck 701
+player 701 discards a 654 to deck 702
+player 701 current hand : 951 817 842 529 286 265 102 764 182 348 138 363 446 897 152 792 360 314 973 762 
+player 701 draws a 571 from deck 701
+player 701 discards a 951 to deck 702
+player 701 current hand : 817 842 529 286 265 102 764 182 348 138 363 446 897 152 792 360 314 973 762 571 
+player 701 draws a 787 from deck 701
+player 701 discards a 817 to deck 702
+player 701 current hand : 842 529 286 265 102 764 182 348 138 363 446 897 152 792 360 314 973 762 571 787 
+player 701 draws a 128 from deck 701
+player 701 discards a 842 to deck 702
+player 701 current hand : 529 286 265 102 764 182 348 138 363 446 897 152 792 360 314 973 762 571 787 128 
+player 701 draws a 595 from deck 701
+player 701 discards a 529 to deck 702
+player 701 current hand : 286 265 102 764 182 348 138 363 446 897 152 792 360 314 973 762 571 787 128 595 
+player 701 draws a 868 from deck 701
+player 701 discards a 286 to deck 702
+player 701 current hand : 265 102 764 182 348 138 363 446 897 152 792 360 314 973 762 571 787 128 595 868 
+player 701 draws a 79 from deck 701
+player 701 discards a 265 to deck 702
+player 701 current hand : 102 764 182 348 138 363 446 897 152 792 360 314 973 762 571 787 128 595 868 79 
+player 701 draws a 955 from deck 701
+player 701 discards a 102 to deck 702
+player 701 current hand : 764 182 348 138 363 446 897 152 792 360 314 973 762 571 787 128 595 868 79 955 
+player 701 draws a 350 from deck 701
+player 701 discards a 764 to deck 702
+player 701 current hand : 182 348 138 363 446 897 152 792 360 314 973 762 571 787 128 595 868 79 955 350 
+player 701 draws a 374 from deck 701
+player 701 discards a 182 to deck 702
+player 701 current hand : 348 138 363 446 897 152 792 360 314 973 762 571 787 128 595 868 79 955 350 374 
+player 701 draws a 822 from deck 701
+player 701 discards a 348 to deck 702
+player 701 current hand : 138 363 446 897 152 792 360 314 973 762 571 787 128 595 868 79 955 350 374 822 
+player 701 draws a 653 from deck 701
+player 701 discards a 138 to deck 702
+player 701 current hand : 363 446 897 152 792 360 314 973 762 571 787 128 595 868 79 955 350 374 822 653 
+player 701 draws a 969 from deck 701
+player 701 discards a 363 to deck 702
+player 701 current hand : 446 897 152 792 360 314 973 762 571 787 128 595 868 79 955 350 374 822 653 969 
+player 701 draws a 410 from deck 701
+player 701 discards a 446 to deck 702
+player 701 current hand : 897 152 792 360 314 973 762 571 787 128 595 868 79 955 350 374 822 653 969 410 
+player 701 draws a 480 from deck 701
+player 701 discards a 897 to deck 702
+player 701 current hand : 152 792 360 314 973 762 571 787 128 595 868 79 955 350 374 822 653 969 410 480 
+player 701 draws a 478 from deck 701
+player 701 discards a 152 to deck 702
+player 701 current hand : 792 360 314 973 762 571 787 128 595 868 79 955 350 374 822 653 969 410 480 478 
+player 701 draws a 241 from deck 701
+player 701 discards a 792 to deck 702
+player 701 current hand : 360 314 973 762 571 787 128 595 868 79 955 350 374 822 653 969 410 480 478 241 
+player 701 draws a 332 from deck 701
+player 701 discards a 360 to deck 702
+player 701 current hand : 314 973 762 571 787 128 595 868 79 955 350 374 822 653 969 410 480 478 241 332 
+player 701 draws a 152 from deck 701
+player 701 discards a 314 to deck 702
+player 701 current hand : 973 762 571 787 128 595 868 79 955 350 374 822 653 969 410 480 478 241 332 152 
+player 701 draws a 603 from deck 701
+player 701 discards a 973 to deck 702
+player 701 current hand : 762 571 787 128 595 868 79 955 350 374 822 653 969 410 480 478 241 332 152 603 
+player 701 draws a 239 from deck 701
+player 701 discards a 762 to deck 702
+player 701 current hand : 571 787 128 595 868 79 955 350 374 822 653 969 410 480 478 241 332 152 603 239 
+player 701 draws a 42 from deck 701
+player 701 discards a 571 to deck 702
+player 701 current hand : 787 128 595 868 79 955 350 374 822 653 969 410 480 478 241 332 152 603 239 42 
+player 701 draws a 652 from deck 701
+player 701 discards a 787 to deck 702
+player 701 current hand : 128 595 868 79 955 350 374 822 653 969 410 480 478 241 332 152 603 239 42 652 
+player 701 draws a 564 from deck 701
+player 701 discards a 128 to deck 702
+player 701 current hand : 595 868 79 955 350 374 822 653 969 410 480 478 241 332 152 603 239 42 652 564 
+player 701 draws a 459 from deck 701
+player 701 discards a 595 to deck 702
+player 701 current hand : 868 79 955 350 374 822 653 969 410 480 478 241 332 152 603 239 42 652 564 459 
+player 701 draws a 159 from deck 701
+player 701 discards a 868 to deck 702
+player 701 current hand : 79 955 350 374 822 653 969 410 480 478 241 332 152 603 239 42 652 564 459 159 
+player 701 draws a 978 from deck 701
+player 701 discards a 79 to deck 702
+player 701 current hand : 955 350 374 822 653 969 410 480 478 241 332 152 603 239 42 652 564 459 159 978 
+player 701 draws a 518 from deck 701
+player 701 discards a 955 to deck 702
+player 701 current hand : 350 374 822 653 969 410 480 478 241 332 152 603 239 42 652 564 459 159 978 518 
+player 701 draws a 548 from deck 701
+player 701 discards a 350 to deck 702
+player 701 current hand : 374 822 653 969 410 480 478 241 332 152 603 239 42 652 564 459 159 978 518 548 
+player 701 draws a 518 from deck 701
+player 701 discards a 374 to deck 702
+player 701 current hand : 822 653 969 410 480 478 241 332 152 603 239 42 652 564 459 159 978 518 548 518 
+player 701 draws a 214 from deck 701
+player 701 discards a 822 to deck 702
+player 701 current hand : 653 969 410 480 478 241 332 152 603 239 42 652 564 459 159 978 518 548 518 214 
+player 701 draws a 984 from deck 701
+player 701 discards a 653 to deck 702
+player 701 current hand : 969 410 480 478 241 332 152 603 239 42 652 564 459 159 978 518 548 518 214 984 
+player 701 draws a 285 from deck 701
+player 701 discards a 969 to deck 702
+player 701 current hand : 410 480 478 241 332 152 603 239 42 652 564 459 159 978 518 548 518 214 984 285 
+player 701 draws a 527 from deck 701
+player 701 discards a 410 to deck 702
+player 701 current hand : 480 478 241 332 152 603 239 42 652 564 459 159 978 518 548 518 214 984 285 527 
+player 701 draws a 913 from deck 701
+player 701 discards a 480 to deck 702
+player 701 current hand : 478 241 332 152 603 239 42 652 564 459 159 978 518 548 518 214 984 285 527 913 
+player 701 draws a 662 from deck 701
+player 701 discards a 478 to deck 702
+player 701 current hand : 241 332 152 603 239 42 652 564 459 159 978 518 548 518 214 984 285 527 913 662 
+player 701 draws a 822 from deck 701
+player 701 discards a 241 to deck 702
+player 701 current hand : 332 152 603 239 42 652 564 459 159 978 518 548 518 214 984 285 527 913 662 822 
+player 701 draws a 248 from deck 701
+player 701 discards a 332 to deck 702
+player 701 current hand : 152 603 239 42 652 564 459 159 978 518 548 518 214 984 285 527 913 662 822 248 
+player 701 draws a 825 from deck 701
+player 701 discards a 152 to deck 702
+player 701 current hand : 603 239 42 652 564 459 159 978 518 548 518 214 984 285 527 913 662 822 248 825 
+player 701 draws a 792 from deck 701
+player 701 discards a 603 to deck 702
+player 701 current hand : 239 42 652 564 459 159 978 518 548 518 214 984 285 527 913 662 822 248 825 792 
+player 701 draws a 331 from deck 701
+player 701 discards a 239 to deck 702
+player 701 current hand : 42 652 564 459 159 978 518 548 518 214 984 285 527 913 662 822 248 825 792 331 
+player 701 draws a 426 from deck 701
+player 701 discards a 42 to deck 702
+player 701 current hand : 652 564 459 159 978 518 548 518 214 984 285 527 913 662 822 248 825 792 331 426 

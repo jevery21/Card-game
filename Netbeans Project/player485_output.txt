@@ -1,0 +1,317 @@
+player 485 initial hand 399 626 636 776 294 40 84 85 189 613 105 632 66 258 833 949 28 423 864 500 
+player 485 draws a 899 from deck 485
+player 485 discards a 399 to deck 486
+player 485 current hand : 626 636 776 294 40 84 85 189 613 105 632 66 258 833 949 28 423 864 500 899 
+player 485 draws a 363 from deck 485
+player 485 discards a 626 to deck 486
+player 485 current hand : 636 776 294 40 84 85 189 613 105 632 66 258 833 949 28 423 864 500 899 363 
+player 485 draws a 969 from deck 485
+player 485 discards a 636 to deck 486
+player 485 current hand : 776 294 40 84 85 189 613 105 632 66 258 833 949 28 423 864 500 899 363 969 
+player 485 draws a 217 from deck 485
+player 485 discards a 776 to deck 486
+player 485 current hand : 294 40 84 85 189 613 105 632 66 258 833 949 28 423 864 500 899 363 969 217 
+player 485 draws a 407 from deck 485
+player 485 discards a 294 to deck 486
+player 485 current hand : 40 84 85 189 613 105 632 66 258 833 949 28 423 864 500 899 363 969 217 407 
+player 485 draws a 440 from deck 485
+player 485 discards a 40 to deck 486
+player 485 current hand : 84 85 189 613 105 632 66 258 833 949 28 423 864 500 899 363 969 217 407 440 
+player 485 draws a 81 from deck 485
+player 485 discards a 84 to deck 486
+player 485 current hand : 85 189 613 105 632 66 258 833 949 28 423 864 500 899 363 969 217 407 440 81 
+player 485 draws a 388 from deck 485
+player 485 discards a 85 to deck 486
+player 485 current hand : 189 613 105 632 66 258 833 949 28 423 864 500 899 363 969 217 407 440 81 388 
+player 485 draws a 249 from deck 485
+player 485 discards a 189 to deck 486
+player 485 current hand : 613 105 632 66 258 833 949 28 423 864 500 899 363 969 217 407 440 81 388 249 
+player 485 draws a 218 from deck 485
+player 485 discards a 613 to deck 486
+player 485 current hand : 105 632 66 258 833 949 28 423 864 500 899 363 969 217 407 440 81 388 249 218 
+player 485 draws a 375 from deck 485
+player 485 discards a 105 to deck 486
+player 485 current hand : 632 66 258 833 949 28 423 864 500 899 363 969 217 407 440 81 388 249 218 375 
+player 485 draws a 568 from deck 485
+player 485 discards a 632 to deck 486
+player 485 current hand : 66 258 833 949 28 423 864 500 899 363 969 217 407 440 81 388 249 218 375 568 
+player 485 draws a 222 from deck 485
+player 485 discards a 66 to deck 486
+player 485 current hand : 258 833 949 28 423 864 500 899 363 969 217 407 440 81 388 249 218 375 568 222 
+player 485 draws a 334 from deck 485
+player 485 discards a 258 to deck 486
+player 485 current hand : 833 949 28 423 864 500 899 363 969 217 407 440 81 388 249 218 375 568 222 334 
+player 485 draws a 86 from deck 485
+player 485 discards a 833 to deck 486
+player 485 current hand : 949 28 423 864 500 899 363 969 217 407 440 81 388 249 218 375 568 222 334 86 
+player 485 draws a 522 from deck 485
+player 485 discards a 949 to deck 486
+player 485 current hand : 28 423 864 500 899 363 969 217 407 440 81 388 249 218 375 568 222 334 86 522 
+player 485 draws a 121 from deck 485
+player 485 discards a 28 to deck 486
+player 485 current hand : 423 864 500 899 363 969 217 407 440 81 388 249 218 375 568 222 334 86 522 121 
+player 485 draws a 699 from deck 485
+player 485 discards a 423 to deck 486
+player 485 current hand : 864 500 899 363 969 217 407 440 81 388 249 218 375 568 222 334 86 522 121 699 
+player 485 draws a 548 from deck 485
+player 485 discards a 864 to deck 486
+player 485 current hand : 500 899 363 969 217 407 440 81 388 249 218 375 568 222 334 86 522 121 699 548 
+player 485 draws a 89 from deck 485
+player 485 discards a 500 to deck 486
+player 485 current hand : 899 363 969 217 407 440 81 388 249 218 375 568 222 334 86 522 121 699 548 89 
+player 485 draws a 642 from deck 485
+player 485 discards a 899 to deck 486
+player 485 current hand : 363 969 217 407 440 81 388 249 218 375 568 222 334 86 522 121 699 548 89 642 
+player 485 draws a 343 from deck 485
+player 485 discards a 363 to deck 486
+player 485 current hand : 969 217 407 440 81 388 249 218 375 568 222 334 86 522 121 699 548 89 642 343 
+player 485 draws a 794 from deck 485
+player 485 discards a 969 to deck 486
+player 485 current hand : 217 407 440 81 388 249 218 375 568 222 334 86 522 121 699 548 89 642 343 794 
+player 485 draws a 507 from deck 485
+player 485 discards a 217 to deck 486
+player 485 current hand : 407 440 81 388 249 218 375 568 222 334 86 522 121 699 548 89 642 343 794 507 
+player 485 draws a 810 from deck 485
+player 485 discards a 407 to deck 486
+player 485 current hand : 440 81 388 249 218 375 568 222 334 86 522 121 699 548 89 642 343 794 507 810 
+player 485 draws a 947 from deck 485
+player 485 discards a 440 to deck 486
+player 485 current hand : 81 388 249 218 375 568 222 334 86 522 121 699 548 89 642 343 794 507 810 947 
+player 485 draws a 815 from deck 485
+player 485 discards a 81 to deck 486
+player 485 current hand : 388 249 218 375 568 222 334 86 522 121 699 548 89 642 343 794 507 810 947 815 
+player 485 draws a 621 from deck 485
+player 485 discards a 388 to deck 486
+player 485 current hand : 249 218 375 568 222 334 86 522 121 699 548 89 642 343 794 507 810 947 815 621 
+player 485 draws a 521 from deck 485
+player 485 discards a 249 to deck 486
+player 485 current hand : 218 375 568 222 334 86 522 121 699 548 89 642 343 794 507 810 947 815 621 521 
+player 485 draws a 875 from deck 485
+player 485 discards a 218 to deck 486
+player 485 current hand : 375 568 222 334 86 522 121 699 548 89 642 343 794 507 810 947 815 621 521 875 
+player 485 draws a 788 from deck 485
+player 485 discards a 375 to deck 486
+player 485 current hand : 568 222 334 86 522 121 699 548 89 642 343 794 507 810 947 815 621 521 875 788 
+player 485 draws a 548 from deck 485
+player 485 discards a 568 to deck 486
+player 485 current hand : 222 334 86 522 121 699 548 89 642 343 794 507 810 947 815 621 521 875 788 548 
+player 485 draws a 282 from deck 485
+player 485 discards a 222 to deck 486
+player 485 current hand : 334 86 522 121 699 548 89 642 343 794 507 810 947 815 621 521 875 788 548 282 
+player 485 draws a 729 from deck 485
+player 485 discards a 334 to deck 486
+player 485 current hand : 86 522 121 699 548 89 642 343 794 507 810 947 815 621 521 875 788 548 282 729 
+player 485 draws a 863 from deck 485
+player 485 discards a 86 to deck 486
+player 485 current hand : 522 121 699 548 89 642 343 794 507 810 947 815 621 521 875 788 548 282 729 863 
+player 485 draws a 880 from deck 485
+player 485 discards a 522 to deck 486
+player 485 current hand : 121 699 548 89 642 343 794 507 810 947 815 621 521 875 788 548 282 729 863 880 
+player 485 draws a 501 from deck 485
+player 485 discards a 121 to deck 486
+player 485 current hand : 699 548 89 642 343 794 507 810 947 815 621 521 875 788 548 282 729 863 880 501 
+player 485 draws a 217 from deck 485
+player 485 discards a 699 to deck 486
+player 485 current hand : 548 89 642 343 794 507 810 947 815 621 521 875 788 548 282 729 863 880 501 217 
+player 485 draws a 981 from deck 485
+player 485 discards a 548 to deck 486
+player 485 current hand : 89 642 343 794 507 810 947 815 621 521 875 788 548 282 729 863 880 501 217 981 
+player 485 draws a 996 from deck 485
+player 485 discards a 89 to deck 486
+player 485 current hand : 642 343 794 507 810 947 815 621 521 875 788 548 282 729 863 880 501 217 981 996 
+player 485 draws a 162 from deck 485
+player 485 discards a 642 to deck 486
+player 485 current hand : 343 794 507 810 947 815 621 521 875 788 548 282 729 863 880 501 217 981 996 162 
+player 485 draws a 1000 from deck 485
+player 485 discards a 343 to deck 486
+player 485 current hand : 794 507 810 947 815 621 521 875 788 548 282 729 863 880 501 217 981 996 162 1000 
+player 485 draws a 793 from deck 485
+player 485 discards a 794 to deck 486
+player 485 current hand : 507 810 947 815 621 521 875 788 548 282 729 863 880 501 217 981 996 162 1000 793 
+player 485 draws a 269 from deck 485
+player 485 discards a 507 to deck 486
+player 485 current hand : 810 947 815 621 521 875 788 548 282 729 863 880 501 217 981 996 162 1000 793 269 
+player 485 draws a 265 from deck 485
+player 485 discards a 810 to deck 486
+player 485 current hand : 947 815 621 521 875 788 548 282 729 863 880 501 217 981 996 162 1000 793 269 265 
+player 485 draws a 829 from deck 485
+player 485 discards a 947 to deck 486
+player 485 current hand : 815 621 521 875 788 548 282 729 863 880 501 217 981 996 162 1000 793 269 265 829 
+player 485 draws a 867 from deck 485
+player 485 discards a 815 to deck 486
+player 485 current hand : 621 521 875 788 548 282 729 863 880 501 217 981 996 162 1000 793 269 265 829 867 
+player 485 draws a 316 from deck 485
+player 485 discards a 621 to deck 486
+player 485 current hand : 521 875 788 548 282 729 863 880 501 217 981 996 162 1000 793 269 265 829 867 316 
+player 485 draws a 10 from deck 485
+player 485 discards a 521 to deck 486
+player 485 current hand : 875 788 548 282 729 863 880 501 217 981 996 162 1000 793 269 265 829 867 316 10 
+player 485 draws a 500 from deck 485
+player 485 discards a 875 to deck 486
+player 485 current hand : 788 548 282 729 863 880 501 217 981 996 162 1000 793 269 265 829 867 316 10 500 
+player 485 draws a 872 from deck 485
+player 485 discards a 788 to deck 486
+player 485 current hand : 548 282 729 863 880 501 217 981 996 162 1000 793 269 265 829 867 316 10 500 872 
+player 485 draws a 100 from deck 485
+player 485 discards a 548 to deck 486
+player 485 current hand : 282 729 863 880 501 217 981 996 162 1000 793 269 265 829 867 316 10 500 872 100 
+player 485 draws a 200 from deck 485
+player 485 discards a 282 to deck 486
+player 485 current hand : 729 863 880 501 217 981 996 162 1000 793 269 265 829 867 316 10 500 872 100 200 
+player 485 draws a 554 from deck 485
+player 485 discards a 729 to deck 486
+player 485 current hand : 863 880 501 217 981 996 162 1000 793 269 265 829 867 316 10 500 872 100 200 554 
+player 485 draws a 233 from deck 485
+player 485 discards a 863 to deck 486
+player 485 current hand : 880 501 217 981 996 162 1000 793 269 265 829 867 316 10 500 872 100 200 554 233 
+player 485 draws a 210 from deck 485
+player 485 discards a 880 to deck 486
+player 485 current hand : 501 217 981 996 162 1000 793 269 265 829 867 316 10 500 872 100 200 554 233 210 
+player 485 draws a 601 from deck 485
+player 485 discards a 501 to deck 486
+player 485 current hand : 217 981 996 162 1000 793 269 265 829 867 316 10 500 872 100 200 554 233 210 601 
+player 485 draws a 388 from deck 485
+player 485 discards a 217 to deck 486
+player 485 current hand : 981 996 162 1000 793 269 265 829 867 316 10 500 872 100 200 554 233 210 601 388 
+player 485 draws a 262 from deck 485
+player 485 discards a 981 to deck 486
+player 485 current hand : 996 162 1000 793 269 265 829 867 316 10 500 872 100 200 554 233 210 601 388 262 
+player 485 draws a 919 from deck 485
+player 485 discards a 996 to deck 486
+player 485 current hand : 162 1000 793 269 265 829 867 316 10 500 872 100 200 554 233 210 601 388 262 919 
+player 485 draws a 309 from deck 485
+player 485 discards a 162 to deck 486
+player 485 current hand : 1000 793 269 265 829 867 316 10 500 872 100 200 554 233 210 601 388 262 919 309 
+player 485 draws a 691 from deck 485
+player 485 discards a 1000 to deck 486
+player 485 current hand : 793 269 265 829 867 316 10 500 872 100 200 554 233 210 601 388 262 919 309 691 
+player 485 draws a 782 from deck 485
+player 485 discards a 793 to deck 486
+player 485 current hand : 269 265 829 867 316 10 500 872 100 200 554 233 210 601 388 262 919 309 691 782 
+player 485 draws a 373 from deck 485
+player 485 discards a 269 to deck 486
+player 485 current hand : 265 829 867 316 10 500 872 100 200 554 233 210 601 388 262 919 309 691 782 373 
+player 485 draws a 7 from deck 485
+player 485 discards a 265 to deck 486
+player 485 current hand : 829 867 316 10 500 872 100 200 554 233 210 601 388 262 919 309 691 782 373 7 
+player 485 draws a 110 from deck 485
+player 485 discards a 829 to deck 486
+player 485 current hand : 867 316 10 500 872 100 200 554 233 210 601 388 262 919 309 691 782 373 7 110 
+player 485 draws a 922 from deck 485
+player 485 discards a 867 to deck 486
+player 485 current hand : 316 10 500 872 100 200 554 233 210 601 388 262 919 309 691 782 373 7 110 922 
+player 485 draws a 874 from deck 485
+player 485 discards a 316 to deck 486
+player 485 current hand : 10 500 872 100 200 554 233 210 601 388 262 919 309 691 782 373 7 110 922 874 
+player 485 draws a 15 from deck 485
+player 485 discards a 10 to deck 486
+player 485 current hand : 500 872 100 200 554 233 210 601 388 262 919 309 691 782 373 7 110 922 874 15 
+player 485 draws a 96 from deck 485
+player 485 discards a 500 to deck 486
+player 485 current hand : 872 100 200 554 233 210 601 388 262 919 309 691 782 373 7 110 922 874 15 96 
+player 485 draws a 618 from deck 485
+player 485 discards a 872 to deck 486
+player 485 current hand : 100 200 554 233 210 601 388 262 919 309 691 782 373 7 110 922 874 15 96 618 
+player 485 draws a 917 from deck 485
+player 485 discards a 100 to deck 486
+player 485 current hand : 200 554 233 210 601 388 262 919 309 691 782 373 7 110 922 874 15 96 618 917 
+player 485 draws a 810 from deck 485
+player 485 discards a 200 to deck 486
+player 485 current hand : 554 233 210 601 388 262 919 309 691 782 373 7 110 922 874 15 96 618 917 810 
+player 485 draws a 532 from deck 485
+player 485 discards a 554 to deck 486
+player 485 current hand : 233 210 601 388 262 919 309 691 782 373 7 110 922 874 15 96 618 917 810 532 
+player 485 draws a 714 from deck 485
+player 485 discards a 233 to deck 486
+player 485 current hand : 210 601 388 262 919 309 691 782 373 7 110 922 874 15 96 618 917 810 532 714 
+player 485 draws a 626 from deck 485
+player 485 discards a 210 to deck 486
+player 485 current hand : 601 388 262 919 309 691 782 373 7 110 922 874 15 96 618 917 810 532 714 626 
+player 485 draws a 983 from deck 485
+player 485 discards a 601 to deck 486
+player 485 current hand : 388 262 919 309 691 782 373 7 110 922 874 15 96 618 917 810 532 714 626 983 
+player 485 draws a 773 from deck 485
+player 485 discards a 388 to deck 486
+player 485 current hand : 262 919 309 691 782 373 7 110 922 874 15 96 618 917 810 532 714 626 983 773 
+player 485 draws a 778 from deck 485
+player 485 discards a 262 to deck 486
+player 485 current hand : 919 309 691 782 373 7 110 922 874 15 96 618 917 810 532 714 626 983 773 778 
+player 485 draws a 205 from deck 485
+player 485 discards a 919 to deck 486
+player 485 current hand : 309 691 782 373 7 110 922 874 15 96 618 917 810 532 714 626 983 773 778 205 
+player 485 draws a 70 from deck 485
+player 485 discards a 309 to deck 486
+player 485 current hand : 691 782 373 7 110 922 874 15 96 618 917 810 532 714 626 983 773 778 205 70 
+player 485 draws a 320 from deck 485
+player 485 discards a 691 to deck 486
+player 485 current hand : 782 373 7 110 922 874 15 96 618 917 810 532 714 626 983 773 778 205 70 320 
+player 485 draws a 571 from deck 485
+player 485 discards a 782 to deck 486
+player 485 current hand : 373 7 110 922 874 15 96 618 917 810 532 714 626 983 773 778 205 70 320 571 
+player 485 draws a 509 from deck 485
+player 485 discards a 373 to deck 486
+player 485 current hand : 7 110 922 874 15 96 618 917 810 532 714 626 983 773 778 205 70 320 571 509 
+player 485 draws a 142 from deck 485
+player 485 discards a 7 to deck 486
+player 485 current hand : 110 922 874 15 96 618 917 810 532 714 626 983 773 778 205 70 320 571 509 142 
+player 485 draws a 793 from deck 485
+player 485 discards a 110 to deck 486
+player 485 current hand : 922 874 15 96 618 917 810 532 714 626 983 773 778 205 70 320 571 509 142 793 
+player 485 draws a 896 from deck 485
+player 485 discards a 922 to deck 486
+player 485 current hand : 874 15 96 618 917 810 532 714 626 983 773 778 205 70 320 571 509 142 793 896 
+player 485 draws a 793 from deck 485
+player 485 discards a 874 to deck 486
+player 485 current hand : 15 96 618 917 810 532 714 626 983 773 778 205 70 320 571 509 142 793 896 793 
+player 485 draws a 170 from deck 485
+player 485 discards a 15 to deck 486
+player 485 current hand : 96 618 917 810 532 714 626 983 773 778 205 70 320 571 509 142 793 896 793 170 
+player 485 draws a 827 from deck 485
+player 485 discards a 96 to deck 486
+player 485 current hand : 618 917 810 532 714 626 983 773 778 205 70 320 571 509 142 793 896 793 170 827 
+player 485 draws a 994 from deck 485
+player 485 discards a 618 to deck 486
+player 485 current hand : 917 810 532 714 626 983 773 778 205 70 320 571 509 142 793 896 793 170 827 994 
+player 485 draws a 164 from deck 485
+player 485 discards a 917 to deck 486
+player 485 current hand : 810 532 714 626 983 773 778 205 70 320 571 509 142 793 896 793 170 827 994 164 
+player 485 draws a 580 from deck 485
+player 485 discards a 810 to deck 486
+player 485 current hand : 532 714 626 983 773 778 205 70 320 571 509 142 793 896 793 170 827 994 164 580 
+player 485 draws a 325 from deck 485
+player 485 discards a 532 to deck 486
+player 485 current hand : 714 626 983 773 778 205 70 320 571 509 142 793 896 793 170 827 994 164 580 325 
+player 485 draws a 452 from deck 485
+player 485 discards a 714 to deck 486
+player 485 current hand : 626 983 773 778 205 70 320 571 509 142 793 896 793 170 827 994 164 580 325 452 
+player 485 draws a 971 from deck 485
+player 485 discards a 626 to deck 486
+player 485 current hand : 983 773 778 205 70 320 571 509 142 793 896 793 170 827 994 164 580 325 452 971 
+player 485 draws a 367 from deck 485
+player 485 discards a 983 to deck 486
+player 485 current hand : 773 778 205 70 320 571 509 142 793 896 793 170 827 994 164 580 325 452 971 367 
+player 485 draws a 176 from deck 485
+player 485 discards a 773 to deck 486
+player 485 current hand : 778 205 70 320 571 509 142 793 896 793 170 827 994 164 580 325 452 971 367 176 
+player 485 draws a 61 from deck 485
+player 485 discards a 778 to deck 486
+player 485 current hand : 205 70 320 571 509 142 793 896 793 170 827 994 164 580 325 452 971 367 176 61 
+player 485 draws a 986 from deck 485
+player 485 discards a 205 to deck 486
+player 485 current hand : 70 320 571 509 142 793 896 793 170 827 994 164 580 325 452 971 367 176 61 986 
+player 485 draws a 835 from deck 485
+player 485 discards a 70 to deck 486
+player 485 current hand : 320 571 509 142 793 896 793 170 827 994 164 580 325 452 971 367 176 61 986 835 
+player 485 draws a 511 from deck 485
+player 485 discards a 320 to deck 486
+player 485 current hand : 571 509 142 793 896 793 170 827 994 164 580 325 452 971 367 176 61 986 835 511 
+player 485 draws a 645 from deck 485
+player 485 discards a 571 to deck 486
+player 485 current hand : 509 142 793 896 793 170 827 994 164 580 325 452 971 367 176 61 986 835 511 645 
+player 485 draws a 804 from deck 485
+player 485 discards a 509 to deck 486
+player 485 current hand : 142 793 896 793 170 827 994 164 580 325 452 971 367 176 61 986 835 511 645 804 
+player 485 draws a 885 from deck 485
+player 485 discards a 142 to deck 486
+player 485 current hand : 793 896 793 170 827 994 164 580 325 452 971 367 176 61 986 835 511 645 804 885 
+player 485 draws a 93 from deck 485

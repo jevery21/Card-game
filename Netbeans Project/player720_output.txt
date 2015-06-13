@@ -1,0 +1,325 @@
+player 720 initial hand 240 793 913 72 681 121 121 224 860 930 117 767 984 763 117 400 252 875 836 908 
+player 720 draws a 677 from deck 720
+player 720 discards a 240 to deck 721
+player 720 current hand : 793 913 72 681 121 121 224 860 930 117 767 984 763 117 400 252 875 836 908 677 
+player 720 draws a 490 from deck 720
+player 720 discards a 793 to deck 721
+player 720 current hand : 913 72 681 121 121 224 860 930 117 767 984 763 117 400 252 875 836 908 677 490 
+player 720 draws a 50 from deck 720
+player 720 discards a 913 to deck 721
+player 720 current hand : 72 681 121 121 224 860 930 117 767 984 763 117 400 252 875 836 908 677 490 50 
+player 720 draws a 169 from deck 720
+player 720 discards a 72 to deck 721
+player 720 current hand : 681 121 121 224 860 930 117 767 984 763 117 400 252 875 836 908 677 490 50 169 
+player 720 draws a 673 from deck 720
+player 720 discards a 681 to deck 721
+player 720 current hand : 121 121 224 860 930 117 767 984 763 117 400 252 875 836 908 677 490 50 169 673 
+player 720 draws a 979 from deck 720
+player 720 discards a 121 to deck 721
+player 720 current hand : 121 224 860 930 117 767 984 763 117 400 252 875 836 908 677 490 50 169 673 979 
+player 720 draws a 926 from deck 720
+player 720 discards a 121 to deck 721
+player 720 current hand : 224 860 930 117 767 984 763 117 400 252 875 836 908 677 490 50 169 673 979 926 
+player 720 draws a 714 from deck 720
+player 720 discards a 224 to deck 721
+player 720 current hand : 860 930 117 767 984 763 117 400 252 875 836 908 677 490 50 169 673 979 926 714 
+player 720 draws a 908 from deck 720
+player 720 discards a 860 to deck 721
+player 720 current hand : 930 117 767 984 763 117 400 252 875 836 908 677 490 50 169 673 979 926 714 908 
+player 720 draws a 266 from deck 720
+player 720 discards a 930 to deck 721
+player 720 current hand : 117 767 984 763 117 400 252 875 836 908 677 490 50 169 673 979 926 714 908 266 
+player 720 draws a 518 from deck 720
+player 720 discards a 117 to deck 721
+player 720 current hand : 767 984 763 117 400 252 875 836 908 677 490 50 169 673 979 926 714 908 266 518 
+player 720 draws a 162 from deck 720
+player 720 discards a 767 to deck 721
+player 720 current hand : 984 763 117 400 252 875 836 908 677 490 50 169 673 979 926 714 908 266 518 162 
+player 720 draws a 593 from deck 720
+player 720 discards a 984 to deck 721
+player 720 current hand : 763 117 400 252 875 836 908 677 490 50 169 673 979 926 714 908 266 518 162 593 
+player 720 draws a 456 from deck 720
+player 720 discards a 763 to deck 721
+player 720 current hand : 117 400 252 875 836 908 677 490 50 169 673 979 926 714 908 266 518 162 593 456 
+player 720 draws a 846 from deck 720
+player 720 discards a 117 to deck 721
+player 720 current hand : 400 252 875 836 908 677 490 50 169 673 979 926 714 908 266 518 162 593 456 846 
+player 720 draws a 219 from deck 720
+player 720 discards a 400 to deck 721
+player 720 current hand : 252 875 836 908 677 490 50 169 673 979 926 714 908 266 518 162 593 456 846 219 
+player 720 draws a 152 from deck 720
+player 720 discards a 252 to deck 721
+player 720 current hand : 875 836 908 677 490 50 169 673 979 926 714 908 266 518 162 593 456 846 219 152 
+player 720 draws a 603 from deck 720
+player 720 discards a 875 to deck 721
+player 720 current hand : 836 908 677 490 50 169 673 979 926 714 908 266 518 162 593 456 846 219 152 603 
+player 720 draws a 70 from deck 720
+player 720 discards a 836 to deck 721
+player 720 current hand : 908 677 490 50 169 673 979 926 714 908 266 518 162 593 456 846 219 152 603 70 
+player 720 draws a 793 from deck 720
+player 720 discards a 908 to deck 721
+player 720 current hand : 677 490 50 169 673 979 926 714 908 266 518 162 593 456 846 219 152 603 70 793 
+player 720 draws a 862 from deck 720
+player 720 discards a 677 to deck 721
+player 720 current hand : 490 50 169 673 979 926 714 908 266 518 162 593 456 846 219 152 603 70 793 862 
+player 720 draws a 979 from deck 720
+player 720 discards a 490 to deck 721
+player 720 current hand : 50 169 673 979 926 714 908 266 518 162 593 456 846 219 152 603 70 793 862 979 
+player 720 draws a 621 from deck 720
+player 720 discards a 50 to deck 721
+player 720 current hand : 169 673 979 926 714 908 266 518 162 593 456 846 219 152 603 70 793 862 979 621 
+player 720 draws a 527 from deck 720
+player 720 discards a 169 to deck 721
+player 720 current hand : 673 979 926 714 908 266 518 162 593 456 846 219 152 603 70 793 862 979 621 527 
+player 720 draws a 370 from deck 720
+player 720 discards a 673 to deck 721
+player 720 current hand : 979 926 714 908 266 518 162 593 456 846 219 152 603 70 793 862 979 621 527 370 
+player 720 draws a 252 from deck 720
+player 720 discards a 979 to deck 721
+player 720 current hand : 926 714 908 266 518 162 593 456 846 219 152 603 70 793 862 979 621 527 370 252 
+player 720 draws a 699 from deck 720
+player 720 discards a 926 to deck 721
+player 720 current hand : 714 908 266 518 162 593 456 846 219 152 603 70 793 862 979 621 527 370 252 699 
+player 720 draws a 856 from deck 720
+player 720 discards a 714 to deck 721
+player 720 current hand : 908 266 518 162 593 456 846 219 152 603 70 793 862 979 621 527 370 252 699 856 
+player 720 draws a 773 from deck 720
+player 720 discards a 908 to deck 721
+player 720 current hand : 266 518 162 593 456 846 219 152 603 70 793 862 979 621 527 370 252 699 856 773 
+player 720 draws a 731 from deck 720
+player 720 discards a 266 to deck 721
+player 720 current hand : 518 162 593 456 846 219 152 603 70 793 862 979 621 527 370 252 699 856 773 731 
+player 720 draws a 422 from deck 720
+player 720 discards a 518 to deck 721
+player 720 current hand : 162 593 456 846 219 152 603 70 793 862 979 621 527 370 252 699 856 773 731 422 
+player 720 draws a 359 from deck 720
+player 720 discards a 162 to deck 721
+player 720 current hand : 593 456 846 219 152 603 70 793 862 979 621 527 370 252 699 856 773 731 422 359 
+player 720 draws a 539 from deck 720
+player 720 discards a 593 to deck 721
+player 720 current hand : 456 846 219 152 603 70 793 862 979 621 527 370 252 699 856 773 731 422 359 539 
+player 720 draws a 341 from deck 720
+player 720 discards a 456 to deck 721
+player 720 current hand : 846 219 152 603 70 793 862 979 621 527 370 252 699 856 773 731 422 359 539 341 
+player 720 draws a 773 from deck 720
+player 720 discards a 846 to deck 721
+player 720 current hand : 219 152 603 70 793 862 979 621 527 370 252 699 856 773 731 422 359 539 341 773 
+player 720 draws a 113 from deck 720
+player 720 discards a 219 to deck 721
+player 720 current hand : 152 603 70 793 862 979 621 527 370 252 699 856 773 731 422 359 539 341 773 113 
+player 720 draws a 104 from deck 720
+player 720 discards a 152 to deck 721
+player 720 current hand : 603 70 793 862 979 621 527 370 252 699 856 773 731 422 359 539 341 773 113 104 
+player 720 draws a 605 from deck 720
+player 720 discards a 603 to deck 721
+player 720 current hand : 70 793 862 979 621 527 370 252 699 856 773 731 422 359 539 341 773 113 104 605 
+player 720 draws a 950 from deck 720
+player 720 discards a 70 to deck 721
+player 720 current hand : 793 862 979 621 527 370 252 699 856 773 731 422 359 539 341 773 113 104 605 950 
+player 720 draws a 898 from deck 720
+player 720 discards a 793 to deck 721
+player 720 current hand : 862 979 621 527 370 252 699 856 773 731 422 359 539 341 773 113 104 605 950 898 
+player 720 draws a 152 from deck 720
+player 720 discards a 862 to deck 721
+player 720 current hand : 979 621 527 370 252 699 856 773 731 422 359 539 341 773 113 104 605 950 898 152 
+player 720 draws a 403 from deck 720
+player 720 discards a 979 to deck 721
+player 720 current hand : 621 527 370 252 699 856 773 731 422 359 539 341 773 113 104 605 950 898 152 403 
+player 720 draws a 589 from deck 720
+player 720 discards a 621 to deck 721
+player 720 current hand : 527 370 252 699 856 773 731 422 359 539 341 773 113 104 605 950 898 152 403 589 
+player 720 draws a 909 from deck 720
+player 720 discards a 527 to deck 721
+player 720 current hand : 370 252 699 856 773 731 422 359 539 341 773 113 104 605 950 898 152 403 589 909 
+player 720 draws a 675 from deck 720
+player 720 discards a 370 to deck 721
+player 720 current hand : 252 699 856 773 731 422 359 539 341 773 113 104 605 950 898 152 403 589 909 675 
+player 720 draws a 364 from deck 720
+player 720 discards a 252 to deck 721
+player 720 current hand : 699 856 773 731 422 359 539 341 773 113 104 605 950 898 152 403 589 909 675 364 
+player 720 draws a 845 from deck 720
+player 720 discards a 699 to deck 721
+player 720 current hand : 856 773 731 422 359 539 341 773 113 104 605 950 898 152 403 589 909 675 364 845 
+player 720 draws a 823 from deck 720
+player 720 discards a 856 to deck 721
+player 720 current hand : 773 731 422 359 539 341 773 113 104 605 950 898 152 403 589 909 675 364 845 823 
+player 720 draws a 114 from deck 720
+player 720 discards a 773 to deck 721
+player 720 current hand : 731 422 359 539 341 773 113 104 605 950 898 152 403 589 909 675 364 845 823 114 
+player 720 draws a 149 from deck 720
+player 720 discards a 731 to deck 721
+player 720 current hand : 422 359 539 341 773 113 104 605 950 898 152 403 589 909 675 364 845 823 114 149 
+player 720 draws a 619 from deck 720
+player 720 discards a 422 to deck 721
+player 720 current hand : 359 539 341 773 113 104 605 950 898 152 403 589 909 675 364 845 823 114 149 619 
+player 720 draws a 923 from deck 720
+player 720 discards a 359 to deck 721
+player 720 current hand : 539 341 773 113 104 605 950 898 152 403 589 909 675 364 845 823 114 149 619 923 
+player 720 draws a 501 from deck 720
+player 720 discards a 539 to deck 721
+player 720 current hand : 341 773 113 104 605 950 898 152 403 589 909 675 364 845 823 114 149 619 923 501 
+player 720 draws a 222 from deck 720
+player 720 discards a 341 to deck 721
+player 720 current hand : 773 113 104 605 950 898 152 403 589 909 675 364 845 823 114 149 619 923 501 222 
+player 720 draws a 9 from deck 720
+player 720 discards a 773 to deck 721
+player 720 current hand : 113 104 605 950 898 152 403 589 909 675 364 845 823 114 149 619 923 501 222 9 
+player 720 draws a 852 from deck 720
+player 720 discards a 113 to deck 721
+player 720 current hand : 104 605 950 898 152 403 589 909 675 364 845 823 114 149 619 923 501 222 9 852 
+player 720 draws a 515 from deck 720
+player 720 discards a 104 to deck 721
+player 720 current hand : 605 950 898 152 403 589 909 675 364 845 823 114 149 619 923 501 222 9 852 515 
+player 720 draws a 862 from deck 720
+player 720 discards a 605 to deck 721
+player 720 current hand : 950 898 152 403 589 909 675 364 845 823 114 149 619 923 501 222 9 852 515 862 
+player 720 draws a 947 from deck 720
+player 720 discards a 950 to deck 721
+player 720 current hand : 898 152 403 589 909 675 364 845 823 114 149 619 923 501 222 9 852 515 862 947 
+player 720 draws a 609 from deck 720
+player 720 discards a 898 to deck 721
+player 720 current hand : 152 403 589 909 675 364 845 823 114 149 619 923 501 222 9 852 515 862 947 609 
+player 720 draws a 387 from deck 720
+player 720 discards a 152 to deck 721
+player 720 current hand : 403 589 909 675 364 845 823 114 149 619 923 501 222 9 852 515 862 947 609 387 
+player 720 draws a 114 from deck 720
+player 720 discards a 403 to deck 721
+player 720 current hand : 589 909 675 364 845 823 114 149 619 923 501 222 9 852 515 862 947 609 387 114 
+player 720 draws a 151 from deck 720
+player 720 discards a 589 to deck 721
+player 720 current hand : 909 675 364 845 823 114 149 619 923 501 222 9 852 515 862 947 609 387 114 151 
+player 720 draws a 303 from deck 720
+player 720 discards a 909 to deck 721
+player 720 current hand : 675 364 845 823 114 149 619 923 501 222 9 852 515 862 947 609 387 114 151 303 
+player 720 draws a 169 from deck 720
+player 720 discards a 675 to deck 721
+player 720 current hand : 364 845 823 114 149 619 923 501 222 9 852 515 862 947 609 387 114 151 303 169 
+player 720 draws a 650 from deck 720
+player 720 discards a 364 to deck 721
+player 720 current hand : 845 823 114 149 619 923 501 222 9 852 515 862 947 609 387 114 151 303 169 650 
+player 720 draws a 48 from deck 720
+player 720 discards a 845 to deck 721
+player 720 current hand : 823 114 149 619 923 501 222 9 852 515 862 947 609 387 114 151 303 169 650 48 
+player 720 draws a 36 from deck 720
+player 720 discards a 823 to deck 721
+player 720 current hand : 114 149 619 923 501 222 9 852 515 862 947 609 387 114 151 303 169 650 48 36 
+player 720 draws a 864 from deck 720
+player 720 discards a 114 to deck 721
+player 720 current hand : 149 619 923 501 222 9 852 515 862 947 609 387 114 151 303 169 650 48 36 864 
+player 720 draws a 44 from deck 720
+player 720 discards a 149 to deck 721
+player 720 current hand : 619 923 501 222 9 852 515 862 947 609 387 114 151 303 169 650 48 36 864 44 
+player 720 draws a 241 from deck 720
+player 720 discards a 619 to deck 721
+player 720 current hand : 923 501 222 9 852 515 862 947 609 387 114 151 303 169 650 48 36 864 44 241 
+player 720 draws a 835 from deck 720
+player 720 discards a 923 to deck 721
+player 720 current hand : 501 222 9 852 515 862 947 609 387 114 151 303 169 650 48 36 864 44 241 835 
+player 720 draws a 490 from deck 720
+player 720 discards a 501 to deck 721
+player 720 current hand : 222 9 852 515 862 947 609 387 114 151 303 169 650 48 36 864 44 241 835 490 
+player 720 draws a 392 from deck 720
+player 720 discards a 222 to deck 721
+player 720 current hand : 9 852 515 862 947 609 387 114 151 303 169 650 48 36 864 44 241 835 490 392 
+player 720 draws a 942 from deck 720
+player 720 discards a 9 to deck 721
+player 720 current hand : 852 515 862 947 609 387 114 151 303 169 650 48 36 864 44 241 835 490 392 942 
+player 720 draws a 19 from deck 720
+player 720 discards a 852 to deck 721
+player 720 current hand : 515 862 947 609 387 114 151 303 169 650 48 36 864 44 241 835 490 392 942 19 
+player 720 draws a 3 from deck 720
+player 720 discards a 515 to deck 721
+player 720 current hand : 862 947 609 387 114 151 303 169 650 48 36 864 44 241 835 490 392 942 19 3 
+player 720 draws a 649 from deck 720
+player 720 discards a 862 to deck 721
+player 720 current hand : 947 609 387 114 151 303 169 650 48 36 864 44 241 835 490 392 942 19 3 649 
+player 720 draws a 744 from deck 720
+player 720 discards a 947 to deck 721
+player 720 current hand : 609 387 114 151 303 169 650 48 36 864 44 241 835 490 392 942 19 3 649 744 
+player 720 draws a 317 from deck 720
+player 720 discards a 609 to deck 721
+player 720 current hand : 387 114 151 303 169 650 48 36 864 44 241 835 490 392 942 19 3 649 744 317 
+player 720 draws a 981 from deck 720
+player 720 discards a 387 to deck 721
+player 720 current hand : 114 151 303 169 650 48 36 864 44 241 835 490 392 942 19 3 649 744 317 981 
+player 720 draws a 247 from deck 720
+player 720 discards a 114 to deck 721
+player 720 current hand : 151 303 169 650 48 36 864 44 241 835 490 392 942 19 3 649 744 317 981 247 
+player 720 draws a 62 from deck 720
+player 720 discards a 151 to deck 721
+player 720 current hand : 303 169 650 48 36 864 44 241 835 490 392 942 19 3 649 744 317 981 247 62 
+player 720 draws a 3 from deck 720
+player 720 discards a 303 to deck 721
+player 720 current hand : 169 650 48 36 864 44 241 835 490 392 942 19 3 649 744 317 981 247 62 3 
+player 720 draws a 469 from deck 720
+player 720 discards a 169 to deck 721
+player 720 current hand : 650 48 36 864 44 241 835 490 392 942 19 3 649 744 317 981 247 62 3 469 
+player 720 draws a 443 from deck 720
+player 720 discards a 650 to deck 721
+player 720 current hand : 48 36 864 44 241 835 490 392 942 19 3 649 744 317 981 247 62 3 469 443 
+player 720 draws a 702 from deck 720
+player 720 discards a 48 to deck 721
+player 720 current hand : 36 864 44 241 835 490 392 942 19 3 649 744 317 981 247 62 3 469 443 702 
+player 720 draws a 922 from deck 720
+player 720 discards a 36 to deck 721
+player 720 current hand : 864 44 241 835 490 392 942 19 3 649 744 317 981 247 62 3 469 443 702 922 
+player 720 draws a 924 from deck 720
+player 720 discards a 864 to deck 721
+player 720 current hand : 44 241 835 490 392 942 19 3 649 744 317 981 247 62 3 469 443 702 922 924 
+player 720 draws a 625 from deck 720
+player 720 discards a 44 to deck 721
+player 720 current hand : 241 835 490 392 942 19 3 649 744 317 981 247 62 3 469 443 702 922 924 625 
+player 720 draws a 872 from deck 720
+player 720 discards a 241 to deck 721
+player 720 current hand : 835 490 392 942 19 3 649 744 317 981 247 62 3 469 443 702 922 924 625 872 
+player 720 draws a 449 from deck 720
+player 720 discards a 835 to deck 721
+player 720 current hand : 490 392 942 19 3 649 744 317 981 247 62 3 469 443 702 922 924 625 872 449 
+player 720 draws a 268 from deck 720
+player 720 discards a 490 to deck 721
+player 720 current hand : 392 942 19 3 649 744 317 981 247 62 3 469 443 702 922 924 625 872 449 268 
+player 720 draws a 443 from deck 720
+player 720 discards a 392 to deck 721
+player 720 current hand : 942 19 3 649 744 317 981 247 62 3 469 443 702 922 924 625 872 449 268 443 
+player 720 draws a 774 from deck 720
+player 720 discards a 942 to deck 721
+player 720 current hand : 19 3 649 744 317 981 247 62 3 469 443 702 922 924 625 872 449 268 443 774 
+player 720 draws a 533 from deck 720
+player 720 discards a 19 to deck 721
+player 720 current hand : 3 649 744 317 981 247 62 3 469 443 702 922 924 625 872 449 268 443 774 533 
+player 720 draws a 24 from deck 720
+player 720 discards a 3 to deck 721
+player 720 current hand : 649 744 317 981 247 62 3 469 443 702 922 924 625 872 449 268 443 774 533 24 
+player 720 draws a 541 from deck 720
+player 720 discards a 649 to deck 721
+player 720 current hand : 744 317 981 247 62 3 469 443 702 922 924 625 872 449 268 443 774 533 24 541 
+player 720 draws a 875 from deck 720
+player 720 discards a 744 to deck 721
+player 720 current hand : 317 981 247 62 3 469 443 702 922 924 625 872 449 268 443 774 533 24 541 875 
+player 720 draws a 300 from deck 720
+player 720 discards a 317 to deck 721
+player 720 current hand : 981 247 62 3 469 443 702 922 924 625 872 449 268 443 774 533 24 541 875 300 
+player 720 draws a 74 from deck 720
+player 720 discards a 981 to deck 721
+player 720 current hand : 247 62 3 469 443 702 922 924 625 872 449 268 443 774 533 24 541 875 300 74 
+player 720 draws a 15 from deck 720
+player 720 discards a 247 to deck 721
+player 720 current hand : 62 3 469 443 702 922 924 625 872 449 268 443 774 533 24 541 875 300 74 15 
+player 720 draws a 977 from deck 720
+player 720 discards a 62 to deck 721
+player 720 current hand : 3 469 443 702 922 924 625 872 449 268 443 774 533 24 541 875 300 74 15 977 
+player 720 draws a 84 from deck 720
+player 720 discards a 3 to deck 721
+player 720 current hand : 469 443 702 922 924 625 872 449 268 443 774 533 24 541 875 300 74 15 977 84 
+player 720 draws a 863 from deck 720
+player 720 discards a 469 to deck 721
+player 720 current hand : 443 702 922 924 625 872 449 268 443 774 533 24 541 875 300 74 15 977 84 863 
+player 720 draws a 92 from deck 720
+player 720 discards a 443 to deck 721
+player 720 current hand : 702 922 924 625 872 449 268 443 774 533 24 541 875 300 74 15 977 84 863 92 
+player 720 draws a 403 from deck 720
+player 720 discards a 702 to deck 721
+player 720 current hand : 922 924 625 872 449 268 443 774 533 24 541 875 300 74 15 977 84 863 92 403 
+player 720 draws a 824 from deck 720
+player 720 discards a 922 to deck 721
+player 720 current hand : 924 625 872 449 268 443 774 533 24 541 875 300 74 15 977 84 863 92 403 824 

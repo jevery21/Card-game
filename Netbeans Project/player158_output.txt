@@ -1,0 +1,308 @@
+player 158 initial hand 957 508 645 283 578 633 774 456 120 514 171 480 939 115 947 17 294 758 475 640 
+player 158 draws a 304 from deck 158
+player 158 discards a 957 to deck 159
+player 158 current hand : 508 645 283 578 633 774 456 120 514 171 480 939 115 947 17 294 758 475 640 304 
+player 158 draws a 668 from deck 158
+player 158 discards a 508 to deck 159
+player 158 current hand : 645 283 578 633 774 456 120 514 171 480 939 115 947 17 294 758 475 640 304 668 
+player 158 draws a 204 from deck 158
+player 158 discards a 645 to deck 159
+player 158 current hand : 283 578 633 774 456 120 514 171 480 939 115 947 17 294 758 475 640 304 668 204 
+player 158 draws a 785 from deck 158
+player 158 discards a 283 to deck 159
+player 158 current hand : 578 633 774 456 120 514 171 480 939 115 947 17 294 758 475 640 304 668 204 785 
+player 158 draws a 442 from deck 158
+player 158 discards a 578 to deck 159
+player 158 current hand : 633 774 456 120 514 171 480 939 115 947 17 294 758 475 640 304 668 204 785 442 
+player 158 draws a 925 from deck 158
+player 158 discards a 633 to deck 159
+player 158 current hand : 774 456 120 514 171 480 939 115 947 17 294 758 475 640 304 668 204 785 442 925 
+player 158 draws a 666 from deck 158
+player 158 discards a 774 to deck 159
+player 158 current hand : 456 120 514 171 480 939 115 947 17 294 758 475 640 304 668 204 785 442 925 666 
+player 158 draws a 5 from deck 158
+player 158 discards a 456 to deck 159
+player 158 current hand : 120 514 171 480 939 115 947 17 294 758 475 640 304 668 204 785 442 925 666 5 
+player 158 draws a 996 from deck 158
+player 158 discards a 120 to deck 159
+player 158 current hand : 514 171 480 939 115 947 17 294 758 475 640 304 668 204 785 442 925 666 5 996 
+player 158 draws a 1 from deck 158
+player 158 discards a 514 to deck 159
+player 158 current hand : 171 480 939 115 947 17 294 758 475 640 304 668 204 785 442 925 666 5 996 1 
+player 158 draws a 715 from deck 158
+player 158 discards a 171 to deck 159
+player 158 current hand : 480 939 115 947 17 294 758 475 640 304 668 204 785 442 925 666 5 996 1 715 
+player 158 draws a 589 from deck 158
+player 158 discards a 480 to deck 159
+player 158 current hand : 939 115 947 17 294 758 475 640 304 668 204 785 442 925 666 5 996 1 715 589 
+player 158 draws a 470 from deck 158
+player 158 discards a 939 to deck 159
+player 158 current hand : 115 947 17 294 758 475 640 304 668 204 785 442 925 666 5 996 1 715 589 470 
+player 158 draws a 159 from deck 158
+player 158 discards a 115 to deck 159
+player 158 current hand : 947 17 294 758 475 640 304 668 204 785 442 925 666 5 996 1 715 589 470 159 
+player 158 draws a 630 from deck 158
+player 158 discards a 947 to deck 159
+player 158 current hand : 17 294 758 475 640 304 668 204 785 442 925 666 5 996 1 715 589 470 159 630 
+player 158 draws a 224 from deck 158
+player 158 discards a 17 to deck 159
+player 158 current hand : 294 758 475 640 304 668 204 785 442 925 666 5 996 1 715 589 470 159 630 224 
+player 158 draws a 732 from deck 158
+player 158 discards a 294 to deck 159
+player 158 current hand : 758 475 640 304 668 204 785 442 925 666 5 996 1 715 589 470 159 630 224 732 
+player 158 draws a 542 from deck 158
+player 158 discards a 758 to deck 159
+player 158 current hand : 475 640 304 668 204 785 442 925 666 5 996 1 715 589 470 159 630 224 732 542 
+player 158 draws a 787 from deck 158
+player 158 discards a 475 to deck 159
+player 158 current hand : 640 304 668 204 785 442 925 666 5 996 1 715 589 470 159 630 224 732 542 787 
+player 158 draws a 365 from deck 158
+player 158 discards a 640 to deck 159
+player 158 current hand : 304 668 204 785 442 925 666 5 996 1 715 589 470 159 630 224 732 542 787 365 
+player 158 draws a 603 from deck 158
+player 158 discards a 304 to deck 159
+player 158 current hand : 668 204 785 442 925 666 5 996 1 715 589 470 159 630 224 732 542 787 365 603 
+player 158 draws a 204 from deck 158
+player 158 discards a 668 to deck 159
+player 158 current hand : 204 785 442 925 666 5 996 1 715 589 470 159 630 224 732 542 787 365 603 204 
+player 158 draws a 690 from deck 158
+player 158 discards a 204 to deck 159
+player 158 current hand : 785 442 925 666 5 996 1 715 589 470 159 630 224 732 542 787 365 603 204 690 
+player 158 draws a 349 from deck 158
+player 158 discards a 785 to deck 159
+player 158 current hand : 442 925 666 5 996 1 715 589 470 159 630 224 732 542 787 365 603 204 690 349 
+player 158 draws a 2 from deck 158
+player 158 discards a 442 to deck 159
+player 158 current hand : 925 666 5 996 1 715 589 470 159 630 224 732 542 787 365 603 204 690 349 2 
+player 158 draws a 714 from deck 158
+player 158 discards a 925 to deck 159
+player 158 current hand : 666 5 996 1 715 589 470 159 630 224 732 542 787 365 603 204 690 349 2 714 
+player 158 draws a 633 from deck 158
+player 158 discards a 666 to deck 159
+player 158 current hand : 5 996 1 715 589 470 159 630 224 732 542 787 365 603 204 690 349 2 714 633 
+player 158 draws a 925 from deck 158
+player 158 discards a 5 to deck 159
+player 158 current hand : 996 1 715 589 470 159 630 224 732 542 787 365 603 204 690 349 2 714 633 925 
+player 158 draws a 861 from deck 158
+player 158 discards a 996 to deck 159
+player 158 current hand : 1 715 589 470 159 630 224 732 542 787 365 603 204 690 349 2 714 633 925 861 
+player 158 draws a 62 from deck 158
+player 158 discards a 1 to deck 159
+player 158 current hand : 715 589 470 159 630 224 732 542 787 365 603 204 690 349 2 714 633 925 861 62 
+player 158 draws a 722 from deck 158
+player 158 discards a 715 to deck 159
+player 158 current hand : 589 470 159 630 224 732 542 787 365 603 204 690 349 2 714 633 925 861 62 722 
+player 158 draws a 226 from deck 158
+player 158 discards a 589 to deck 159
+player 158 current hand : 470 159 630 224 732 542 787 365 603 204 690 349 2 714 633 925 861 62 722 226 
+player 158 draws a 124 from deck 158
+player 158 discards a 470 to deck 159
+player 158 current hand : 159 630 224 732 542 787 365 603 204 690 349 2 714 633 925 861 62 722 226 124 
+player 158 draws a 396 from deck 158
+player 158 discards a 159 to deck 159
+player 158 current hand : 630 224 732 542 787 365 603 204 690 349 2 714 633 925 861 62 722 226 124 396 
+player 158 draws a 238 from deck 158
+player 158 discards a 630 to deck 159
+player 158 current hand : 224 732 542 787 365 603 204 690 349 2 714 633 925 861 62 722 226 124 396 238 
+player 158 draws a 138 from deck 158
+player 158 discards a 224 to deck 159
+player 158 current hand : 732 542 787 365 603 204 690 349 2 714 633 925 861 62 722 226 124 396 238 138 
+player 158 draws a 984 from deck 158
+player 158 discards a 732 to deck 159
+player 158 current hand : 542 787 365 603 204 690 349 2 714 633 925 861 62 722 226 124 396 238 138 984 
+player 158 draws a 103 from deck 158
+player 158 discards a 542 to deck 159
+player 158 current hand : 787 365 603 204 690 349 2 714 633 925 861 62 722 226 124 396 238 138 984 103 
+player 158 draws a 429 from deck 158
+player 158 discards a 787 to deck 159
+player 158 current hand : 365 603 204 690 349 2 714 633 925 861 62 722 226 124 396 238 138 984 103 429 
+player 158 draws a 650 from deck 158
+player 158 discards a 365 to deck 159
+player 158 current hand : 603 204 690 349 2 714 633 925 861 62 722 226 124 396 238 138 984 103 429 650 
+player 158 draws a 623 from deck 158
+player 158 discards a 603 to deck 159
+player 158 current hand : 204 690 349 2 714 633 925 861 62 722 226 124 396 238 138 984 103 429 650 623 
+player 158 draws a 7 from deck 158
+player 158 discards a 204 to deck 159
+player 158 current hand : 690 349 2 714 633 925 861 62 722 226 124 396 238 138 984 103 429 650 623 7 
+player 158 draws a 513 from deck 158
+player 158 discards a 690 to deck 159
+player 158 current hand : 349 2 714 633 925 861 62 722 226 124 396 238 138 984 103 429 650 623 7 513 
+player 158 draws a 587 from deck 158
+player 158 discards a 349 to deck 159
+player 158 current hand : 2 714 633 925 861 62 722 226 124 396 238 138 984 103 429 650 623 7 513 587 
+player 158 draws a 604 from deck 158
+player 158 discards a 2 to deck 159
+player 158 current hand : 714 633 925 861 62 722 226 124 396 238 138 984 103 429 650 623 7 513 587 604 
+player 158 draws a 438 from deck 158
+player 158 discards a 714 to deck 159
+player 158 current hand : 633 925 861 62 722 226 124 396 238 138 984 103 429 650 623 7 513 587 604 438 
+player 158 draws a 560 from deck 158
+player 158 discards a 633 to deck 159
+player 158 current hand : 925 861 62 722 226 124 396 238 138 984 103 429 650 623 7 513 587 604 438 560 
+player 158 draws a 473 from deck 158
+player 158 discards a 925 to deck 159
+player 158 current hand : 861 62 722 226 124 396 238 138 984 103 429 650 623 7 513 587 604 438 560 473 
+player 158 draws a 983 from deck 158
+player 158 discards a 861 to deck 159
+player 158 current hand : 62 722 226 124 396 238 138 984 103 429 650 623 7 513 587 604 438 560 473 983 
+player 158 draws a 605 from deck 158
+player 158 discards a 62 to deck 159
+player 158 current hand : 722 226 124 396 238 138 984 103 429 650 623 7 513 587 604 438 560 473 983 605 
+player 158 draws a 635 from deck 158
+player 158 discards a 722 to deck 159
+player 158 current hand : 226 124 396 238 138 984 103 429 650 623 7 513 587 604 438 560 473 983 605 635 
+player 158 draws a 762 from deck 158
+player 158 discards a 226 to deck 159
+player 158 current hand : 124 396 238 138 984 103 429 650 623 7 513 587 604 438 560 473 983 605 635 762 
+player 158 draws a 299 from deck 158
+player 158 discards a 124 to deck 159
+player 158 current hand : 396 238 138 984 103 429 650 623 7 513 587 604 438 560 473 983 605 635 762 299 
+player 158 draws a 126 from deck 158
+player 158 discards a 396 to deck 159
+player 158 current hand : 238 138 984 103 429 650 623 7 513 587 604 438 560 473 983 605 635 762 299 126 
+player 158 draws a 351 from deck 158
+player 158 discards a 238 to deck 159
+player 158 current hand : 138 984 103 429 650 623 7 513 587 604 438 560 473 983 605 635 762 299 126 351 
+player 158 draws a 764 from deck 158
+player 158 discards a 138 to deck 159
+player 158 current hand : 984 103 429 650 623 7 513 587 604 438 560 473 983 605 635 762 299 126 351 764 
+player 158 draws a 894 from deck 158
+player 158 discards a 984 to deck 159
+player 158 current hand : 103 429 650 623 7 513 587 604 438 560 473 983 605 635 762 299 126 351 764 894 
+player 158 draws a 350 from deck 158
+player 158 discards a 103 to deck 159
+player 158 current hand : 429 650 623 7 513 587 604 438 560 473 983 605 635 762 299 126 351 764 894 350 
+player 158 draws a 719 from deck 158
+player 158 discards a 429 to deck 159
+player 158 current hand : 650 623 7 513 587 604 438 560 473 983 605 635 762 299 126 351 764 894 350 719 
+player 158 draws a 218 from deck 158
+player 158 discards a 650 to deck 159
+player 158 current hand : 623 7 513 587 604 438 560 473 983 605 635 762 299 126 351 764 894 350 719 218 
+player 158 draws a 870 from deck 158
+player 158 discards a 623 to deck 159
+player 158 current hand : 7 513 587 604 438 560 473 983 605 635 762 299 126 351 764 894 350 719 218 870 
+player 158 draws a 778 from deck 158
+player 158 discards a 7 to deck 159
+player 158 current hand : 513 587 604 438 560 473 983 605 635 762 299 126 351 764 894 350 719 218 870 778 
+player 158 draws a 666 from deck 158
+player 158 discards a 513 to deck 159
+player 158 current hand : 587 604 438 560 473 983 605 635 762 299 126 351 764 894 350 719 218 870 778 666 
+player 158 draws a 310 from deck 158
+player 158 discards a 587 to deck 159
+player 158 current hand : 604 438 560 473 983 605 635 762 299 126 351 764 894 350 719 218 870 778 666 310 
+player 158 draws a 637 from deck 158
+player 158 discards a 604 to deck 159
+player 158 current hand : 438 560 473 983 605 635 762 299 126 351 764 894 350 719 218 870 778 666 310 637 
+player 158 draws a 152 from deck 158
+player 158 discards a 438 to deck 159
+player 158 current hand : 560 473 983 605 635 762 299 126 351 764 894 350 719 218 870 778 666 310 637 152 
+player 158 draws a 47 from deck 158
+player 158 discards a 560 to deck 159
+player 158 current hand : 473 983 605 635 762 299 126 351 764 894 350 719 218 870 778 666 310 637 152 47 
+player 158 draws a 469 from deck 158
+player 158 discards a 473 to deck 159
+player 158 current hand : 983 605 635 762 299 126 351 764 894 350 719 218 870 778 666 310 637 152 47 469 
+player 158 draws a 112 from deck 158
+player 158 discards a 983 to deck 159
+player 158 current hand : 605 635 762 299 126 351 764 894 350 719 218 870 778 666 310 637 152 47 469 112 
+player 158 draws a 316 from deck 158
+player 158 discards a 605 to deck 159
+player 158 current hand : 635 762 299 126 351 764 894 350 719 218 870 778 666 310 637 152 47 469 112 316 
+player 158 draws a 681 from deck 158
+player 158 discards a 635 to deck 159
+player 158 current hand : 762 299 126 351 764 894 350 719 218 870 778 666 310 637 152 47 469 112 316 681 
+player 158 draws a 860 from deck 158
+player 158 discards a 762 to deck 159
+player 158 current hand : 299 126 351 764 894 350 719 218 870 778 666 310 637 152 47 469 112 316 681 860 
+player 158 draws a 968 from deck 158
+player 158 discards a 299 to deck 159
+player 158 current hand : 126 351 764 894 350 719 218 870 778 666 310 637 152 47 469 112 316 681 860 968 
+player 158 draws a 324 from deck 158
+player 158 discards a 126 to deck 159
+player 158 current hand : 351 764 894 350 719 218 870 778 666 310 637 152 47 469 112 316 681 860 968 324 
+player 158 draws a 729 from deck 158
+player 158 discards a 351 to deck 159
+player 158 current hand : 764 894 350 719 218 870 778 666 310 637 152 47 469 112 316 681 860 968 324 729 
+player 158 draws a 210 from deck 158
+player 158 discards a 764 to deck 159
+player 158 current hand : 894 350 719 218 870 778 666 310 637 152 47 469 112 316 681 860 968 324 729 210 
+player 158 draws a 452 from deck 158
+player 158 discards a 894 to deck 159
+player 158 current hand : 350 719 218 870 778 666 310 637 152 47 469 112 316 681 860 968 324 729 210 452 
+player 158 draws a 464 from deck 158
+player 158 discards a 350 to deck 159
+player 158 current hand : 719 218 870 778 666 310 637 152 47 469 112 316 681 860 968 324 729 210 452 464 
+player 158 draws a 991 from deck 158
+player 158 discards a 719 to deck 159
+player 158 current hand : 218 870 778 666 310 637 152 47 469 112 316 681 860 968 324 729 210 452 464 991 
+player 158 draws a 370 from deck 158
+player 158 discards a 218 to deck 159
+player 158 current hand : 870 778 666 310 637 152 47 469 112 316 681 860 968 324 729 210 452 464 991 370 
+player 158 draws a 328 from deck 158
+player 158 discards a 870 to deck 159
+player 158 current hand : 778 666 310 637 152 47 469 112 316 681 860 968 324 729 210 452 464 991 370 328 
+player 158 draws a 480 from deck 158
+player 158 discards a 778 to deck 159
+player 158 current hand : 666 310 637 152 47 469 112 316 681 860 968 324 729 210 452 464 991 370 328 480 
+player 158 draws a 178 from deck 158
+player 158 discards a 666 to deck 159
+player 158 current hand : 310 637 152 47 469 112 316 681 860 968 324 729 210 452 464 991 370 328 480 178 
+player 158 draws a 861 from deck 158
+player 158 discards a 310 to deck 159
+player 158 current hand : 637 152 47 469 112 316 681 860 968 324 729 210 452 464 991 370 328 480 178 861 
+player 158 draws a 685 from deck 158
+player 158 discards a 637 to deck 159
+player 158 current hand : 152 47 469 112 316 681 860 968 324 729 210 452 464 991 370 328 480 178 861 685 
+player 158 draws a 631 from deck 158
+player 158 discards a 152 to deck 159
+player 158 current hand : 47 469 112 316 681 860 968 324 729 210 452 464 991 370 328 480 178 861 685 631 
+player 158 draws a 721 from deck 158
+player 158 discards a 47 to deck 159
+player 158 current hand : 469 112 316 681 860 968 324 729 210 452 464 991 370 328 480 178 861 685 631 721 
+player 158 draws a 400 from deck 158
+player 158 discards a 469 to deck 159
+player 158 current hand : 112 316 681 860 968 324 729 210 452 464 991 370 328 480 178 861 685 631 721 400 
+player 158 draws a 608 from deck 158
+player 158 discards a 112 to deck 159
+player 158 current hand : 316 681 860 968 324 729 210 452 464 991 370 328 480 178 861 685 631 721 400 608 
+player 158 draws a 723 from deck 158
+player 158 discards a 316 to deck 159
+player 158 current hand : 681 860 968 324 729 210 452 464 991 370 328 480 178 861 685 631 721 400 608 723 
+player 158 draws a 616 from deck 158
+player 158 discards a 681 to deck 159
+player 158 current hand : 860 968 324 729 210 452 464 991 370 328 480 178 861 685 631 721 400 608 723 616 
+player 158 draws a 977 from deck 158
+player 158 discards a 860 to deck 159
+player 158 current hand : 968 324 729 210 452 464 991 370 328 480 178 861 685 631 721 400 608 723 616 977 
+player 158 draws a 319 from deck 158
+player 158 discards a 968 to deck 159
+player 158 current hand : 324 729 210 452 464 991 370 328 480 178 861 685 631 721 400 608 723 616 977 319 
+player 158 draws a 105 from deck 158
+player 158 discards a 324 to deck 159
+player 158 current hand : 729 210 452 464 991 370 328 480 178 861 685 631 721 400 608 723 616 977 319 105 
+player 158 draws a 767 from deck 158
+player 158 discards a 729 to deck 159
+player 158 current hand : 210 452 464 991 370 328 480 178 861 685 631 721 400 608 723 616 977 319 105 767 
+player 158 draws a 460 from deck 158
+player 158 discards a 210 to deck 159
+player 158 current hand : 452 464 991 370 328 480 178 861 685 631 721 400 608 723 616 977 319 105 767 460 
+player 158 draws a 588 from deck 158
+player 158 discards a 452 to deck 159
+player 158 current hand : 464 991 370 328 480 178 861 685 631 721 400 608 723 616 977 319 105 767 460 588 
+player 158 draws a 707 from deck 158
+player 158 discards a 464 to deck 159
+player 158 current hand : 991 370 328 480 178 861 685 631 721 400 608 723 616 977 319 105 767 460 588 707 
+player 158 draws a 74 from deck 158
+player 158 discards a 991 to deck 159
+player 158 current hand : 370 328 480 178 861 685 631 721 400 608 723 616 977 319 105 767 460 588 707 74 
+player 158 draws a 39 from deck 158
+player 158 discards a 370 to deck 159
+player 158 current hand : 328 480 178 861 685 631 721 400 608 723 616 977 319 105 767 460 588 707 74 39 
+player 158 draws a 480 from deck 158
+player 158 discards a 328 to deck 159
+player 158 current hand : 480 178 861 685 631 721 400 608 723 616 977 319 105 767 460 588 707 74 39 480 
+player 158 draws a 851 from deck 158
+player 158 discards a 480 to deck 159
+player 158 current hand : 178 861 685 631 721 400 608 723 616 977 319 105 767 460 588 707 74 39 480 851 
+player 158 draws a 265 from deck 158

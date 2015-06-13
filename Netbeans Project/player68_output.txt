@@ -1,0 +1,339 @@
+player 68 initial hand 644 341 958 105 933 482 419 750 985 236 10 146 65 860 824 757 946 38 322 474 
+player 68 draws a 515 from deck 68
+player 68 discards a 644 to deck 69
+player 68 current hand : 341 958 105 933 482 419 750 985 236 10 146 65 860 824 757 946 38 322 474 515 
+player 68 draws a 658 from deck 68
+player 68 discards a 341 to deck 69
+player 68 current hand : 958 105 933 482 419 750 985 236 10 146 65 860 824 757 946 38 322 474 515 658 
+player 68 draws a 922 from deck 68
+player 68 discards a 958 to deck 69
+player 68 current hand : 105 933 482 419 750 985 236 10 146 65 860 824 757 946 38 322 474 515 658 922 
+player 68 draws a 215 from deck 68
+player 68 discards a 105 to deck 69
+player 68 current hand : 933 482 419 750 985 236 10 146 65 860 824 757 946 38 322 474 515 658 922 215 
+player 68 draws a 750 from deck 68
+player 68 discards a 933 to deck 69
+player 68 current hand : 482 419 750 985 236 10 146 65 860 824 757 946 38 322 474 515 658 922 215 750 
+player 68 draws a 489 from deck 68
+player 68 discards a 482 to deck 69
+player 68 current hand : 419 750 985 236 10 146 65 860 824 757 946 38 322 474 515 658 922 215 750 489 
+player 68 draws a 157 from deck 68
+player 68 discards a 419 to deck 69
+player 68 current hand : 750 985 236 10 146 65 860 824 757 946 38 322 474 515 658 922 215 750 489 157 
+player 68 draws a 511 from deck 68
+player 68 discards a 750 to deck 69
+player 68 current hand : 985 236 10 146 65 860 824 757 946 38 322 474 515 658 922 215 750 489 157 511 
+player 68 draws a 275 from deck 68
+player 68 discards a 985 to deck 69
+player 68 current hand : 236 10 146 65 860 824 757 946 38 322 474 515 658 922 215 750 489 157 511 275 
+player 68 draws a 187 from deck 68
+player 68 discards a 236 to deck 69
+player 68 current hand : 10 146 65 860 824 757 946 38 322 474 515 658 922 215 750 489 157 511 275 187 
+player 68 draws a 714 from deck 68
+player 68 discards a 10 to deck 69
+player 68 current hand : 146 65 860 824 757 946 38 322 474 515 658 922 215 750 489 157 511 275 187 714 
+player 68 draws a 583 from deck 68
+player 68 discards a 146 to deck 69
+player 68 current hand : 65 860 824 757 946 38 322 474 515 658 922 215 750 489 157 511 275 187 714 583 
+player 68 draws a 637 from deck 68
+player 68 discards a 65 to deck 69
+player 68 current hand : 860 824 757 946 38 322 474 515 658 922 215 750 489 157 511 275 187 714 583 637 
+player 68 draws a 212 from deck 68
+player 68 discards a 860 to deck 69
+player 68 current hand : 824 757 946 38 322 474 515 658 922 215 750 489 157 511 275 187 714 583 637 212 
+player 68 draws a 732 from deck 68
+player 68 discards a 824 to deck 69
+player 68 current hand : 757 946 38 322 474 515 658 922 215 750 489 157 511 275 187 714 583 637 212 732 
+player 68 draws a 69 from deck 68
+player 68 discards a 757 to deck 69
+player 68 current hand : 946 38 322 474 515 658 922 215 750 489 157 511 275 187 714 583 637 212 732 69 
+player 68 draws a 657 from deck 68
+player 68 discards a 946 to deck 69
+player 68 current hand : 38 322 474 515 658 922 215 750 489 157 511 275 187 714 583 637 212 732 69 657 
+player 68 draws a 135 from deck 68
+player 68 discards a 38 to deck 69
+player 68 current hand : 322 474 515 658 922 215 750 489 157 511 275 187 714 583 637 212 732 69 657 135 
+player 68 draws a 871 from deck 68
+player 68 discards a 322 to deck 69
+player 68 current hand : 474 515 658 922 215 750 489 157 511 275 187 714 583 637 212 732 69 657 135 871 
+player 68 draws a 406 from deck 68
+player 68 discards a 474 to deck 69
+player 68 current hand : 515 658 922 215 750 489 157 511 275 187 714 583 637 212 732 69 657 135 871 406 
+player 68 draws a 599 from deck 68
+player 68 discards a 515 to deck 69
+player 68 current hand : 658 922 215 750 489 157 511 275 187 714 583 637 212 732 69 657 135 871 406 599 
+player 68 draws a 374 from deck 68
+player 68 discards a 658 to deck 69
+player 68 current hand : 922 215 750 489 157 511 275 187 714 583 637 212 732 69 657 135 871 406 599 374 
+player 68 draws a 707 from deck 68
+player 68 discards a 922 to deck 69
+player 68 current hand : 215 750 489 157 511 275 187 714 583 637 212 732 69 657 135 871 406 599 374 707 
+player 68 draws a 135 from deck 68
+player 68 discards a 215 to deck 69
+player 68 current hand : 750 489 157 511 275 187 714 583 637 212 732 69 657 135 871 406 599 374 707 135 
+player 68 draws a 326 from deck 68
+player 68 discards a 750 to deck 69
+player 68 current hand : 489 157 511 275 187 714 583 637 212 732 69 657 135 871 406 599 374 707 135 326 
+player 68 draws a 444 from deck 68
+player 68 discards a 489 to deck 69
+player 68 current hand : 157 511 275 187 714 583 637 212 732 69 657 135 871 406 599 374 707 135 326 444 
+player 68 draws a 20 from deck 68
+player 68 discards a 157 to deck 69
+player 68 current hand : 511 275 187 714 583 637 212 732 69 657 135 871 406 599 374 707 135 326 444 20 
+player 68 draws a 170 from deck 68
+player 68 discards a 511 to deck 69
+player 68 current hand : 275 187 714 583 637 212 732 69 657 135 871 406 599 374 707 135 326 444 20 170 
+player 68 draws a 303 from deck 68
+player 68 discards a 275 to deck 69
+player 68 current hand : 187 714 583 637 212 732 69 657 135 871 406 599 374 707 135 326 444 20 170 303 
+player 68 draws a 491 from deck 68
+player 68 discards a 187 to deck 69
+player 68 current hand : 714 583 637 212 732 69 657 135 871 406 599 374 707 135 326 444 20 170 303 491 
+player 68 draws a 952 from deck 68
+player 68 discards a 714 to deck 69
+player 68 current hand : 583 637 212 732 69 657 135 871 406 599 374 707 135 326 444 20 170 303 491 952 
+player 68 draws a 117 from deck 68
+player 68 discards a 583 to deck 69
+player 68 current hand : 637 212 732 69 657 135 871 406 599 374 707 135 326 444 20 170 303 491 952 117 
+player 68 draws a 516 from deck 68
+player 68 discards a 637 to deck 69
+player 68 current hand : 212 732 69 657 135 871 406 599 374 707 135 326 444 20 170 303 491 952 117 516 
+player 68 draws a 122 from deck 68
+player 68 discards a 212 to deck 69
+player 68 current hand : 732 69 657 135 871 406 599 374 707 135 326 444 20 170 303 491 952 117 516 122 
+player 68 draws a 683 from deck 68
+player 68 discards a 732 to deck 69
+player 68 current hand : 69 657 135 871 406 599 374 707 135 326 444 20 170 303 491 952 117 516 122 683 
+player 68 draws a 816 from deck 68
+player 68 discards a 69 to deck 69
+player 68 current hand : 657 135 871 406 599 374 707 135 326 444 20 170 303 491 952 117 516 122 683 816 
+player 68 draws a 644 from deck 68
+player 68 discards a 657 to deck 69
+player 68 current hand : 135 871 406 599 374 707 135 326 444 20 170 303 491 952 117 516 122 683 816 644 
+player 68 draws a 714 from deck 68
+player 68 discards a 135 to deck 69
+player 68 current hand : 871 406 599 374 707 135 326 444 20 170 303 491 952 117 516 122 683 816 644 714 
+player 68 draws a 491 from deck 68
+player 68 discards a 871 to deck 69
+player 68 current hand : 406 599 374 707 135 326 444 20 170 303 491 952 117 516 122 683 816 644 714 491 
+player 68 draws a 105 from deck 68
+player 68 discards a 406 to deck 69
+player 68 current hand : 599 374 707 135 326 444 20 170 303 491 952 117 516 122 683 816 644 714 491 105 
+player 68 draws a 730 from deck 68
+player 68 discards a 599 to deck 69
+player 68 current hand : 374 707 135 326 444 20 170 303 491 952 117 516 122 683 816 644 714 491 105 730 
+player 68 draws a 815 from deck 68
+player 68 discards a 374 to deck 69
+player 68 current hand : 707 135 326 444 20 170 303 491 952 117 516 122 683 816 644 714 491 105 730 815 
+player 68 draws a 699 from deck 68
+player 68 discards a 707 to deck 69
+player 68 current hand : 135 326 444 20 170 303 491 952 117 516 122 683 816 644 714 491 105 730 815 699 
+player 68 draws a 284 from deck 68
+player 68 discards a 135 to deck 69
+player 68 current hand : 326 444 20 170 303 491 952 117 516 122 683 816 644 714 491 105 730 815 699 284 
+player 68 draws a 16 from deck 68
+player 68 discards a 326 to deck 69
+player 68 current hand : 444 20 170 303 491 952 117 516 122 683 816 644 714 491 105 730 815 699 284 16 
+player 68 draws a 744 from deck 68
+player 68 discards a 444 to deck 69
+player 68 current hand : 20 170 303 491 952 117 516 122 683 816 644 714 491 105 730 815 699 284 16 744 
+player 68 draws a 499 from deck 68
+player 68 discards a 20 to deck 69
+player 68 current hand : 170 303 491 952 117 516 122 683 816 644 714 491 105 730 815 699 284 16 744 499 
+player 68 draws a 774 from deck 68
+player 68 discards a 170 to deck 69
+player 68 current hand : 303 491 952 117 516 122 683 816 644 714 491 105 730 815 699 284 16 744 499 774 
+player 68 draws a 954 from deck 68
+player 68 discards a 303 to deck 69
+player 68 current hand : 491 952 117 516 122 683 816 644 714 491 105 730 815 699 284 16 744 499 774 954 
+player 68 draws a 793 from deck 68
+player 68 discards a 491 to deck 69
+player 68 current hand : 952 117 516 122 683 816 644 714 491 105 730 815 699 284 16 744 499 774 954 793 
+player 68 draws a 754 from deck 68
+player 68 discards a 952 to deck 69
+player 68 current hand : 117 516 122 683 816 644 714 491 105 730 815 699 284 16 744 499 774 954 793 754 
+player 68 draws a 274 from deck 68
+player 68 discards a 117 to deck 69
+player 68 current hand : 516 122 683 816 644 714 491 105 730 815 699 284 16 744 499 774 954 793 754 274 
+player 68 draws a 222 from deck 68
+player 68 discards a 516 to deck 69
+player 68 current hand : 122 683 816 644 714 491 105 730 815 699 284 16 744 499 774 954 793 754 274 222 
+player 68 draws a 309 from deck 68
+player 68 discards a 122 to deck 69
+player 68 current hand : 683 816 644 714 491 105 730 815 699 284 16 744 499 774 954 793 754 274 222 309 
+player 68 draws a 732 from deck 68
+player 68 discards a 683 to deck 69
+player 68 current hand : 816 644 714 491 105 730 815 699 284 16 744 499 774 954 793 754 274 222 309 732 
+player 68 draws a 730 from deck 68
+player 68 discards a 816 to deck 69
+player 68 current hand : 644 714 491 105 730 815 699 284 16 744 499 774 954 793 754 274 222 309 732 730 
+player 68 draws a 355 from deck 68
+player 68 discards a 644 to deck 69
+player 68 current hand : 714 491 105 730 815 699 284 16 744 499 774 954 793 754 274 222 309 732 730 355 
+player 68 draws a 827 from deck 68
+player 68 discards a 714 to deck 69
+player 68 current hand : 491 105 730 815 699 284 16 744 499 774 954 793 754 274 222 309 732 730 355 827 
+player 68 draws a 601 from deck 68
+player 68 discards a 491 to deck 69
+player 68 current hand : 105 730 815 699 284 16 744 499 774 954 793 754 274 222 309 732 730 355 827 601 
+player 68 draws a 320 from deck 68
+player 68 discards a 105 to deck 69
+player 68 current hand : 730 815 699 284 16 744 499 774 954 793 754 274 222 309 732 730 355 827 601 320 
+player 68 draws a 993 from deck 68
+player 68 discards a 730 to deck 69
+player 68 current hand : 815 699 284 16 744 499 774 954 793 754 274 222 309 732 730 355 827 601 320 993 
+player 68 draws a 370 from deck 68
+player 68 discards a 815 to deck 69
+player 68 current hand : 699 284 16 744 499 774 954 793 754 274 222 309 732 730 355 827 601 320 993 370 
+player 68 draws a 870 from deck 68
+player 68 discards a 699 to deck 69
+player 68 current hand : 284 16 744 499 774 954 793 754 274 222 309 732 730 355 827 601 320 993 370 870 
+player 68 draws a 266 from deck 68
+player 68 discards a 284 to deck 69
+player 68 current hand : 16 744 499 774 954 793 754 274 222 309 732 730 355 827 601 320 993 370 870 266 
+player 68 draws a 399 from deck 68
+player 68 discards a 16 to deck 69
+player 68 current hand : 744 499 774 954 793 754 274 222 309 732 730 355 827 601 320 993 370 870 266 399 
+player 68 draws a 946 from deck 68
+player 68 discards a 744 to deck 69
+player 68 current hand : 499 774 954 793 754 274 222 309 732 730 355 827 601 320 993 370 870 266 399 946 
+player 68 draws a 135 from deck 68
+player 68 discards a 499 to deck 69
+player 68 current hand : 774 954 793 754 274 222 309 732 730 355 827 601 320 993 370 870 266 399 946 135 
+player 68 draws a 917 from deck 68
+player 68 discards a 774 to deck 69
+player 68 current hand : 954 793 754 274 222 309 732 730 355 827 601 320 993 370 870 266 399 946 135 917 
+player 68 draws a 290 from deck 68
+player 68 discards a 954 to deck 69
+player 68 current hand : 793 754 274 222 309 732 730 355 827 601 320 993 370 870 266 399 946 135 917 290 
+player 68 draws a 809 from deck 68
+player 68 discards a 793 to deck 69
+player 68 current hand : 754 274 222 309 732 730 355 827 601 320 993 370 870 266 399 946 135 917 290 809 
+player 68 draws a 612 from deck 68
+player 68 discards a 754 to deck 69
+player 68 current hand : 274 222 309 732 730 355 827 601 320 993 370 870 266 399 946 135 917 290 809 612 
+player 68 draws a 795 from deck 68
+player 68 discards a 274 to deck 69
+player 68 current hand : 222 309 732 730 355 827 601 320 993 370 870 266 399 946 135 917 290 809 612 795 
+player 68 draws a 888 from deck 68
+player 68 discards a 222 to deck 69
+player 68 current hand : 309 732 730 355 827 601 320 993 370 870 266 399 946 135 917 290 809 612 795 888 
+player 68 draws a 860 from deck 68
+player 68 discards a 309 to deck 69
+player 68 current hand : 732 730 355 827 601 320 993 370 870 266 399 946 135 917 290 809 612 795 888 860 
+player 68 draws a 305 from deck 68
+player 68 discards a 732 to deck 69
+player 68 current hand : 730 355 827 601 320 993 370 870 266 399 946 135 917 290 809 612 795 888 860 305 
+player 68 draws a 532 from deck 68
+player 68 discards a 730 to deck 69
+player 68 current hand : 355 827 601 320 993 370 870 266 399 946 135 917 290 809 612 795 888 860 305 532 
+player 68 draws a 111 from deck 68
+player 68 discards a 355 to deck 69
+player 68 current hand : 827 601 320 993 370 870 266 399 946 135 917 290 809 612 795 888 860 305 532 111 
+player 68 draws a 52 from deck 68
+player 68 discards a 827 to deck 69
+player 68 current hand : 601 320 993 370 870 266 399 946 135 917 290 809 612 795 888 860 305 532 111 52 
+player 68 draws a 269 from deck 68
+player 68 discards a 601 to deck 69
+player 68 current hand : 320 993 370 870 266 399 946 135 917 290 809 612 795 888 860 305 532 111 52 269 
+player 68 draws a 611 from deck 68
+player 68 discards a 320 to deck 69
+player 68 current hand : 993 370 870 266 399 946 135 917 290 809 612 795 888 860 305 532 111 52 269 611 
+player 68 draws a 239 from deck 68
+player 68 discards a 993 to deck 69
+player 68 current hand : 370 870 266 399 946 135 917 290 809 612 795 888 860 305 532 111 52 269 611 239 
+player 68 draws a 521 from deck 68
+player 68 discards a 370 to deck 69
+player 68 current hand : 870 266 399 946 135 917 290 809 612 795 888 860 305 532 111 52 269 611 239 521 
+player 68 draws a 452 from deck 68
+player 68 discards a 870 to deck 69
+player 68 current hand : 266 399 946 135 917 290 809 612 795 888 860 305 532 111 52 269 611 239 521 452 
+player 68 draws a 580 from deck 68
+player 68 discards a 266 to deck 69
+player 68 current hand : 399 946 135 917 290 809 612 795 888 860 305 532 111 52 269 611 239 521 452 580 
+player 68 draws a 156 from deck 68
+player 68 discards a 399 to deck 69
+player 68 current hand : 946 135 917 290 809 612 795 888 860 305 532 111 52 269 611 239 521 452 580 156 
+player 68 draws a 572 from deck 68
+player 68 discards a 946 to deck 69
+player 68 current hand : 135 917 290 809 612 795 888 860 305 532 111 52 269 611 239 521 452 580 156 572 
+player 68 draws a 4 from deck 68
+player 68 discards a 135 to deck 69
+player 68 current hand : 917 290 809 612 795 888 860 305 532 111 52 269 611 239 521 452 580 156 572 4 
+player 68 draws a 750 from deck 68
+player 68 discards a 917 to deck 69
+player 68 current hand : 290 809 612 795 888 860 305 532 111 52 269 611 239 521 452 580 156 572 4 750 
+player 68 draws a 835 from deck 68
+player 68 discards a 290 to deck 69
+player 68 current hand : 809 612 795 888 860 305 532 111 52 269 611 239 521 452 580 156 572 4 750 835 
+player 68 draws a 960 from deck 68
+player 68 discards a 809 to deck 69
+player 68 current hand : 612 795 888 860 305 532 111 52 269 611 239 521 452 580 156 572 4 750 835 960 
+player 68 draws a 263 from deck 68
+player 68 discards a 612 to deck 69
+player 68 current hand : 795 888 860 305 532 111 52 269 611 239 521 452 580 156 572 4 750 835 960 263 
+player 68 draws a 755 from deck 68
+player 68 discards a 795 to deck 69
+player 68 current hand : 888 860 305 532 111 52 269 611 239 521 452 580 156 572 4 750 835 960 263 755 
+player 68 draws a 814 from deck 68
+player 68 discards a 888 to deck 69
+player 68 current hand : 860 305 532 111 52 269 611 239 521 452 580 156 572 4 750 835 960 263 755 814 
+player 68 draws a 645 from deck 68
+player 68 discards a 860 to deck 69
+player 68 current hand : 305 532 111 52 269 611 239 521 452 580 156 572 4 750 835 960 263 755 814 645 
+player 68 draws a 285 from deck 68
+player 68 discards a 305 to deck 69
+player 68 current hand : 532 111 52 269 611 239 521 452 580 156 572 4 750 835 960 263 755 814 645 285 
+player 68 draws a 904 from deck 68
+player 68 discards a 532 to deck 69
+player 68 current hand : 111 52 269 611 239 521 452 580 156 572 4 750 835 960 263 755 814 645 285 904 
+player 68 draws a 578 from deck 68
+player 68 discards a 111 to deck 69
+player 68 current hand : 52 269 611 239 521 452 580 156 572 4 750 835 960 263 755 814 645 285 904 578 
+player 68 draws a 29 from deck 68
+player 68 discards a 52 to deck 69
+player 68 current hand : 269 611 239 521 452 580 156 572 4 750 835 960 263 755 814 645 285 904 578 29 
+player 68 draws a 955 from deck 68
+player 68 discards a 269 to deck 69
+player 68 current hand : 611 239 521 452 580 156 572 4 750 835 960 263 755 814 645 285 904 578 29 955 
+player 68 draws a 901 from deck 68
+player 68 discards a 611 to deck 69
+player 68 current hand : 239 521 452 580 156 572 4 750 835 960 263 755 814 645 285 904 578 29 955 901 
+player 68 draws a 200 from deck 68
+player 68 discards a 239 to deck 69
+player 68 current hand : 521 452 580 156 572 4 750 835 960 263 755 814 645 285 904 578 29 955 901 200 
+player 68 draws a 782 from deck 68
+player 68 discards a 521 to deck 69
+player 68 current hand : 452 580 156 572 4 750 835 960 263 755 814 645 285 904 578 29 955 901 200 782 
+player 68 draws a 498 from deck 68
+player 68 discards a 452 to deck 69
+player 68 current hand : 580 156 572 4 750 835 960 263 755 814 645 285 904 578 29 955 901 200 782 498 
+player 68 draws a 967 from deck 68
+player 68 discards a 580 to deck 69
+player 68 current hand : 156 572 4 750 835 960 263 755 814 645 285 904 578 29 955 901 200 782 498 967 
+player 68 draws a 298 from deck 68
+player 68 discards a 156 to deck 69
+player 68 current hand : 572 4 750 835 960 263 755 814 645 285 904 578 29 955 901 200 782 498 967 298 
+player 68 draws a 320 from deck 68
+player 68 discards a 572 to deck 69
+player 68 current hand : 4 750 835 960 263 755 814 645 285 904 578 29 955 901 200 782 498 967 298 320 
+player 68 draws a 707 from deck 68
+player 68 discards a 4 to deck 69
+player 68 current hand : 750 835 960 263 755 814 645 285 904 578 29 955 901 200 782 498 967 298 320 707 
+player 68 draws a 527 from deck 68
+player 68 discards a 750 to deck 69
+player 68 current hand : 835 960 263 755 814 645 285 904 578 29 955 901 200 782 498 967 298 320 707 527 
+player 68 draws a 136 from deck 68
+player 68 discards a 835 to deck 69
+player 68 current hand : 960 263 755 814 645 285 904 578 29 955 901 200 782 498 967 298 320 707 527 136 
+player 68 draws a 513 from deck 68
+player 68 discards a 960 to deck 69
+player 68 current hand : 263 755 814 645 285 904 578 29 955 901 200 782 498 967 298 320 707 527 136 513 
+player 68 draws a 662 from deck 68
+player 68 discards a 263 to deck 69
+player 68 current hand : 755 814 645 285 904 578 29 955 901 200 782 498 967 298 320 707 527 136 513 662 
+player 68 draws a 498 from deck 68
+player 68 discards a 755 to deck 69
+player 68 current hand : 814 645 285 904 578 29 955 901 200 782 498 967 298 320 707 527 136 513 662 498 
+player 68 draws a 28 from deck 68
+player 68 discards a 814 to deck 69

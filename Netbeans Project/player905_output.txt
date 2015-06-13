@@ -1,0 +1,309 @@
+player 905 initial hand 146 949 863 608 888 673 149 200 291 283 632 355 31 635 502 287 201 197 805 136 
+player 905 draws a 497 from deck 905
+player 905 discards a 146 to deck 906
+player 905 current hand : 949 863 608 888 673 149 200 291 283 632 355 31 635 502 287 201 197 805 136 497 
+player 905 draws a 797 from deck 905
+player 905 discards a 949 to deck 906
+player 905 current hand : 863 608 888 673 149 200 291 283 632 355 31 635 502 287 201 197 805 136 497 797 
+player 905 draws a 990 from deck 905
+player 905 discards a 863 to deck 906
+player 905 current hand : 608 888 673 149 200 291 283 632 355 31 635 502 287 201 197 805 136 497 797 990 
+player 905 draws a 216 from deck 905
+player 905 discards a 608 to deck 906
+player 905 current hand : 888 673 149 200 291 283 632 355 31 635 502 287 201 197 805 136 497 797 990 216 
+player 905 draws a 971 from deck 905
+player 905 discards a 888 to deck 906
+player 905 current hand : 673 149 200 291 283 632 355 31 635 502 287 201 197 805 136 497 797 990 216 971 
+player 905 draws a 845 from deck 905
+player 905 discards a 673 to deck 906
+player 905 current hand : 149 200 291 283 632 355 31 635 502 287 201 197 805 136 497 797 990 216 971 845 
+player 905 draws a 855 from deck 905
+player 905 discards a 149 to deck 906
+player 905 current hand : 200 291 283 632 355 31 635 502 287 201 197 805 136 497 797 990 216 971 845 855 
+player 905 draws a 481 from deck 905
+player 905 discards a 200 to deck 906
+player 905 current hand : 291 283 632 355 31 635 502 287 201 197 805 136 497 797 990 216 971 845 855 481 
+player 905 draws a 634 from deck 905
+player 905 discards a 291 to deck 906
+player 905 current hand : 283 632 355 31 635 502 287 201 197 805 136 497 797 990 216 971 845 855 481 634 
+player 905 draws a 457 from deck 905
+player 905 discards a 283 to deck 906
+player 905 current hand : 632 355 31 635 502 287 201 197 805 136 497 797 990 216 971 845 855 481 634 457 
+player 905 draws a 460 from deck 905
+player 905 discards a 632 to deck 906
+player 905 current hand : 355 31 635 502 287 201 197 805 136 497 797 990 216 971 845 855 481 634 457 460 
+player 905 draws a 189 from deck 905
+player 905 discards a 355 to deck 906
+player 905 current hand : 31 635 502 287 201 197 805 136 497 797 990 216 971 845 855 481 634 457 460 189 
+player 905 draws a 320 from deck 905
+player 905 discards a 31 to deck 906
+player 905 current hand : 635 502 287 201 197 805 136 497 797 990 216 971 845 855 481 634 457 460 189 320 
+player 905 draws a 549 from deck 905
+player 905 discards a 635 to deck 906
+player 905 current hand : 502 287 201 197 805 136 497 797 990 216 971 845 855 481 634 457 460 189 320 549 
+player 905 draws a 15 from deck 905
+player 905 discards a 502 to deck 906
+player 905 current hand : 287 201 197 805 136 497 797 990 216 971 845 855 481 634 457 460 189 320 549 15 
+player 905 draws a 238 from deck 905
+player 905 discards a 287 to deck 906
+player 905 current hand : 201 197 805 136 497 797 990 216 971 845 855 481 634 457 460 189 320 549 15 238 
+player 905 draws a 424 from deck 905
+player 905 discards a 201 to deck 906
+player 905 current hand : 197 805 136 497 797 990 216 971 845 855 481 634 457 460 189 320 549 15 238 424 
+player 905 draws a 984 from deck 905
+player 905 discards a 197 to deck 906
+player 905 current hand : 805 136 497 797 990 216 971 845 855 481 634 457 460 189 320 549 15 238 424 984 
+player 905 draws a 649 from deck 905
+player 905 discards a 805 to deck 906
+player 905 current hand : 136 497 797 990 216 971 845 855 481 634 457 460 189 320 549 15 238 424 984 649 
+player 905 draws a 518 from deck 905
+player 905 discards a 136 to deck 906
+player 905 current hand : 497 797 990 216 971 845 855 481 634 457 460 189 320 549 15 238 424 984 649 518 
+player 905 draws a 415 from deck 905
+player 905 discards a 497 to deck 906
+player 905 current hand : 797 990 216 971 845 855 481 634 457 460 189 320 549 15 238 424 984 649 518 415 
+player 905 draws a 152 from deck 905
+player 905 discards a 797 to deck 906
+player 905 current hand : 990 216 971 845 855 481 634 457 460 189 320 549 15 238 424 984 649 518 415 152 
+player 905 draws a 310 from deck 905
+player 905 discards a 990 to deck 906
+player 905 current hand : 216 971 845 855 481 634 457 460 189 320 549 15 238 424 984 649 518 415 152 310 
+player 905 draws a 829 from deck 905
+player 905 discards a 216 to deck 906
+player 905 current hand : 971 845 855 481 634 457 460 189 320 549 15 238 424 984 649 518 415 152 310 829 
+player 905 draws a 933 from deck 905
+player 905 discards a 971 to deck 906
+player 905 current hand : 845 855 481 634 457 460 189 320 549 15 238 424 984 649 518 415 152 310 829 933 
+player 905 draws a 114 from deck 905
+player 905 discards a 845 to deck 906
+player 905 current hand : 855 481 634 457 460 189 320 549 15 238 424 984 649 518 415 152 310 829 933 114 
+player 905 draws a 154 from deck 905
+player 905 discards a 855 to deck 906
+player 905 current hand : 481 634 457 460 189 320 549 15 238 424 984 649 518 415 152 310 829 933 114 154 
+player 905 draws a 252 from deck 905
+player 905 discards a 481 to deck 906
+player 905 current hand : 634 457 460 189 320 549 15 238 424 984 649 518 415 152 310 829 933 114 154 252 
+player 905 draws a 446 from deck 905
+player 905 discards a 634 to deck 906
+player 905 current hand : 457 460 189 320 549 15 238 424 984 649 518 415 152 310 829 933 114 154 252 446 
+player 905 draws a 634 from deck 905
+player 905 discards a 457 to deck 906
+player 905 current hand : 460 189 320 549 15 238 424 984 649 518 415 152 310 829 933 114 154 252 446 634 
+player 905 draws a 808 from deck 905
+player 905 discards a 460 to deck 906
+player 905 current hand : 189 320 549 15 238 424 984 649 518 415 152 310 829 933 114 154 252 446 634 808 
+player 905 draws a 195 from deck 905
+player 905 discards a 189 to deck 906
+player 905 current hand : 320 549 15 238 424 984 649 518 415 152 310 829 933 114 154 252 446 634 808 195 
+player 905 draws a 933 from deck 905
+player 905 discards a 320 to deck 906
+player 905 current hand : 549 15 238 424 984 649 518 415 152 310 829 933 114 154 252 446 634 808 195 933 
+player 905 draws a 921 from deck 905
+player 905 discards a 549 to deck 906
+player 905 current hand : 15 238 424 984 649 518 415 152 310 829 933 114 154 252 446 634 808 195 933 921 
+player 905 draws a 240 from deck 905
+player 905 discards a 15 to deck 906
+player 905 current hand : 238 424 984 649 518 415 152 310 829 933 114 154 252 446 634 808 195 933 921 240 
+player 905 draws a 673 from deck 905
+player 905 discards a 238 to deck 906
+player 905 current hand : 424 984 649 518 415 152 310 829 933 114 154 252 446 634 808 195 933 921 240 673 
+player 905 draws a 497 from deck 905
+player 905 discards a 424 to deck 906
+player 905 current hand : 984 649 518 415 152 310 829 933 114 154 252 446 634 808 195 933 921 240 673 497 
+player 905 draws a 121 from deck 905
+player 905 discards a 984 to deck 906
+player 905 current hand : 649 518 415 152 310 829 933 114 154 252 446 634 808 195 933 921 240 673 497 121 
+player 905 draws a 242 from deck 905
+player 905 discards a 649 to deck 906
+player 905 current hand : 518 415 152 310 829 933 114 154 252 446 634 808 195 933 921 240 673 497 121 242 
+player 905 draws a 612 from deck 905
+player 905 discards a 518 to deck 906
+player 905 current hand : 415 152 310 829 933 114 154 252 446 634 808 195 933 921 240 673 497 121 242 612 
+player 905 draws a 834 from deck 905
+player 905 discards a 415 to deck 906
+player 905 current hand : 152 310 829 933 114 154 252 446 634 808 195 933 921 240 673 497 121 242 612 834 
+player 905 draws a 422 from deck 905
+player 905 discards a 152 to deck 906
+player 905 current hand : 310 829 933 114 154 252 446 634 808 195 933 921 240 673 497 121 242 612 834 422 
+player 905 draws a 798 from deck 905
+player 905 discards a 310 to deck 906
+player 905 current hand : 829 933 114 154 252 446 634 808 195 933 921 240 673 497 121 242 612 834 422 798 
+player 905 draws a 820 from deck 905
+player 905 discards a 829 to deck 906
+player 905 current hand : 933 114 154 252 446 634 808 195 933 921 240 673 497 121 242 612 834 422 798 820 
+player 905 draws a 162 from deck 905
+player 905 discards a 933 to deck 906
+player 905 current hand : 114 154 252 446 634 808 195 933 921 240 673 497 121 242 612 834 422 798 820 162 
+player 905 draws a 705 from deck 905
+player 905 discards a 114 to deck 906
+player 905 current hand : 154 252 446 634 808 195 933 921 240 673 497 121 242 612 834 422 798 820 162 705 
+player 905 draws a 852 from deck 905
+player 905 discards a 154 to deck 906
+player 905 current hand : 252 446 634 808 195 933 921 240 673 497 121 242 612 834 422 798 820 162 705 852 
+player 905 draws a 847 from deck 905
+player 905 discards a 252 to deck 906
+player 905 current hand : 446 634 808 195 933 921 240 673 497 121 242 612 834 422 798 820 162 705 852 847 
+player 905 draws a 527 from deck 905
+player 905 discards a 446 to deck 906
+player 905 current hand : 634 808 195 933 921 240 673 497 121 242 612 834 422 798 820 162 705 852 847 527 
+player 905 draws a 514 from deck 905
+player 905 discards a 634 to deck 906
+player 905 current hand : 808 195 933 921 240 673 497 121 242 612 834 422 798 820 162 705 852 847 527 514 
+player 905 draws a 947 from deck 905
+player 905 discards a 808 to deck 906
+player 905 current hand : 195 933 921 240 673 497 121 242 612 834 422 798 820 162 705 852 847 527 514 947 
+player 905 draws a 253 from deck 905
+player 905 discards a 195 to deck 906
+player 905 current hand : 933 921 240 673 497 121 242 612 834 422 798 820 162 705 852 847 527 514 947 253 
+player 905 draws a 320 from deck 905
+player 905 discards a 933 to deck 906
+player 905 current hand : 921 240 673 497 121 242 612 834 422 798 820 162 705 852 847 527 514 947 253 320 
+player 905 draws a 605 from deck 905
+player 905 discards a 921 to deck 906
+player 905 current hand : 240 673 497 121 242 612 834 422 798 820 162 705 852 847 527 514 947 253 320 605 
+player 905 draws a 816 from deck 905
+player 905 discards a 240 to deck 906
+player 905 current hand : 673 497 121 242 612 834 422 798 820 162 705 852 847 527 514 947 253 320 605 816 
+player 905 draws a 274 from deck 905
+player 905 discards a 673 to deck 906
+player 905 current hand : 497 121 242 612 834 422 798 820 162 705 852 847 527 514 947 253 320 605 816 274 
+player 905 draws a 86 from deck 905
+player 905 discards a 497 to deck 906
+player 905 current hand : 121 242 612 834 422 798 820 162 705 852 847 527 514 947 253 320 605 816 274 86 
+player 905 draws a 765 from deck 905
+player 905 discards a 121 to deck 906
+player 905 current hand : 242 612 834 422 798 820 162 705 852 847 527 514 947 253 320 605 816 274 86 765 
+player 905 draws a 159 from deck 905
+player 905 discards a 242 to deck 906
+player 905 current hand : 612 834 422 798 820 162 705 852 847 527 514 947 253 320 605 816 274 86 765 159 
+player 905 draws a 15 from deck 905
+player 905 discards a 612 to deck 906
+player 905 current hand : 834 422 798 820 162 705 852 847 527 514 947 253 320 605 816 274 86 765 159 15 
+player 905 draws a 688 from deck 905
+player 905 discards a 834 to deck 906
+player 905 current hand : 422 798 820 162 705 852 847 527 514 947 253 320 605 816 274 86 765 159 15 688 
+player 905 draws a 920 from deck 905
+player 905 discards a 422 to deck 906
+player 905 current hand : 798 820 162 705 852 847 527 514 947 253 320 605 816 274 86 765 159 15 688 920 
+player 905 draws a 579 from deck 905
+player 905 discards a 798 to deck 906
+player 905 current hand : 820 162 705 852 847 527 514 947 253 320 605 816 274 86 765 159 15 688 920 579 
+player 905 draws a 305 from deck 905
+player 905 discards a 820 to deck 906
+player 905 current hand : 162 705 852 847 527 514 947 253 320 605 816 274 86 765 159 15 688 920 579 305 
+player 905 draws a 411 from deck 905
+player 905 discards a 162 to deck 906
+player 905 current hand : 705 852 847 527 514 947 253 320 605 816 274 86 765 159 15 688 920 579 305 411 
+player 905 draws a 127 from deck 905
+player 905 discards a 705 to deck 906
+player 905 current hand : 852 847 527 514 947 253 320 605 816 274 86 765 159 15 688 920 579 305 411 127 
+player 905 draws a 776 from deck 905
+player 905 discards a 852 to deck 906
+player 905 current hand : 847 527 514 947 253 320 605 816 274 86 765 159 15 688 920 579 305 411 127 776 
+player 905 draws a 899 from deck 905
+player 905 discards a 847 to deck 906
+player 905 current hand : 527 514 947 253 320 605 816 274 86 765 159 15 688 920 579 305 411 127 776 899 
+player 905 draws a 561 from deck 905
+player 905 discards a 527 to deck 906
+player 905 current hand : 514 947 253 320 605 816 274 86 765 159 15 688 920 579 305 411 127 776 899 561 
+player 905 draws a 455 from deck 905
+player 905 discards a 514 to deck 906
+player 905 current hand : 947 253 320 605 816 274 86 765 159 15 688 920 579 305 411 127 776 899 561 455 
+player 905 draws a 834 from deck 905
+player 905 discards a 947 to deck 906
+player 905 current hand : 253 320 605 816 274 86 765 159 15 688 920 579 305 411 127 776 899 561 455 834 
+player 905 draws a 906 from deck 905
+player 905 discards a 253 to deck 906
+player 905 current hand : 320 605 816 274 86 765 159 15 688 920 579 305 411 127 776 899 561 455 834 906 
+player 905 draws a 870 from deck 905
+player 905 discards a 320 to deck 906
+player 905 current hand : 605 816 274 86 765 159 15 688 920 579 305 411 127 776 899 561 455 834 906 870 
+player 905 draws a 176 from deck 905
+player 905 discards a 605 to deck 906
+player 905 current hand : 816 274 86 765 159 15 688 920 579 305 411 127 776 899 561 455 834 906 870 176 
+player 905 draws a 967 from deck 905
+player 905 discards a 816 to deck 906
+player 905 current hand : 274 86 765 159 15 688 920 579 305 411 127 776 899 561 455 834 906 870 176 967 
+player 905 draws a 272 from deck 905
+player 905 discards a 274 to deck 906
+player 905 current hand : 86 765 159 15 688 920 579 305 411 127 776 899 561 455 834 906 870 176 967 272 
+player 905 draws a 737 from deck 905
+player 905 discards a 86 to deck 906
+player 905 current hand : 765 159 15 688 920 579 305 411 127 776 899 561 455 834 906 870 176 967 272 737 
+player 905 draws a 834 from deck 905
+player 905 discards a 765 to deck 906
+player 905 current hand : 159 15 688 920 579 305 411 127 776 899 561 455 834 906 870 176 967 272 737 834 
+player 905 draws a 291 from deck 905
+player 905 discards a 159 to deck 906
+player 905 current hand : 15 688 920 579 305 411 127 776 899 561 455 834 906 870 176 967 272 737 834 291 
+player 905 draws a 900 from deck 905
+player 905 discards a 15 to deck 906
+player 905 current hand : 688 920 579 305 411 127 776 899 561 455 834 906 870 176 967 272 737 834 291 900 
+player 905 draws a 106 from deck 905
+player 905 discards a 688 to deck 906
+player 905 current hand : 920 579 305 411 127 776 899 561 455 834 906 870 176 967 272 737 834 291 900 106 
+player 905 draws a 796 from deck 905
+player 905 discards a 920 to deck 906
+player 905 current hand : 579 305 411 127 776 899 561 455 834 906 870 176 967 272 737 834 291 900 106 796 
+player 905 draws a 612 from deck 905
+player 905 discards a 579 to deck 906
+player 905 current hand : 305 411 127 776 899 561 455 834 906 870 176 967 272 737 834 291 900 106 796 612 
+player 905 draws a 233 from deck 905
+player 905 discards a 305 to deck 906
+player 905 current hand : 411 127 776 899 561 455 834 906 870 176 967 272 737 834 291 900 106 796 612 233 
+player 905 draws a 174 from deck 905
+player 905 discards a 411 to deck 906
+player 905 current hand : 127 776 899 561 455 834 906 870 176 967 272 737 834 291 900 106 796 612 233 174 
+player 905 draws a 544 from deck 905
+player 905 discards a 127 to deck 906
+player 905 current hand : 776 899 561 455 834 906 870 176 967 272 737 834 291 900 106 796 612 233 174 544 
+player 905 draws a 951 from deck 905
+player 905 discards a 776 to deck 906
+player 905 current hand : 899 561 455 834 906 870 176 967 272 737 834 291 900 106 796 612 233 174 544 951 
+player 905 draws a 688 from deck 905
+player 905 discards a 899 to deck 906
+player 905 current hand : 561 455 834 906 870 176 967 272 737 834 291 900 106 796 612 233 174 544 951 688 
+player 905 draws a 285 from deck 905
+player 905 discards a 561 to deck 906
+player 905 current hand : 455 834 906 870 176 967 272 737 834 291 900 106 796 612 233 174 544 951 688 285 
+player 905 draws a 550 from deck 905
+player 905 discards a 455 to deck 906
+player 905 current hand : 834 906 870 176 967 272 737 834 291 900 106 796 612 233 174 544 951 688 285 550 
+player 905 draws a 654 from deck 905
+player 905 discards a 834 to deck 906
+player 905 current hand : 906 870 176 967 272 737 834 291 900 106 796 612 233 174 544 951 688 285 550 654 
+player 905 draws a 423 from deck 905
+player 905 discards a 906 to deck 906
+player 905 current hand : 870 176 967 272 737 834 291 900 106 796 612 233 174 544 951 688 285 550 654 423 
+player 905 draws a 509 from deck 905
+player 905 discards a 870 to deck 906
+player 905 current hand : 176 967 272 737 834 291 900 106 796 612 233 174 544 951 688 285 550 654 423 509 
+player 905 draws a 879 from deck 905
+player 905 discards a 176 to deck 906
+player 905 current hand : 967 272 737 834 291 900 106 796 612 233 174 544 951 688 285 550 654 423 509 879 
+player 905 draws a 365 from deck 905
+player 905 discards a 967 to deck 906
+player 905 current hand : 272 737 834 291 900 106 796 612 233 174 544 951 688 285 550 654 423 509 879 365 
+player 905 draws a 45 from deck 905
+player 905 discards a 272 to deck 906
+player 905 current hand : 737 834 291 900 106 796 612 233 174 544 951 688 285 550 654 423 509 879 365 45 
+player 905 draws a 996 from deck 905
+player 905 discards a 737 to deck 906
+player 905 current hand : 834 291 900 106 796 612 233 174 544 951 688 285 550 654 423 509 879 365 45 996 
+player 905 draws a 24 from deck 905
+player 905 discards a 834 to deck 906
+player 905 current hand : 291 900 106 796 612 233 174 544 951 688 285 550 654 423 509 879 365 45 996 24 
+player 905 draws a 336 from deck 905
+player 905 discards a 291 to deck 906
+player 905 current hand : 900 106 796 612 233 174 544 951 688 285 550 654 423 509 879 365 45 996 24 336 
+player 905 draws a 212 from deck 905
+player 905 discards a 900 to deck 906
+player 905 current hand : 106 796 612 233 174 544 951 688 285 550 654 423 509 879 365 45 996 24 336 212 
+player 905 draws a 717 from deck 905
+player 905 discards a 106 to deck 906
+player 905 current hand : 796 612 233 174 544 951 688 285 550 654 423 509 879 365 45 996 24 336 212 717 
+player 905 draws a 189 from deck 905
+player 905 discards a 796 to deck 906
+player 905 current hand : 612 233 174 544 951 688 285 550 654 423 509 879 365 45 996 24 336 212 717 189 
+player 905 draws a 548 from deck 905
+player 905 discards a 612 to deck 906

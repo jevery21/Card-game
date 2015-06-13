@@ -1,0 +1,313 @@
+player 285 initial hand 939 68 935 746 649 210 768 401 364 39 507 966 283 762 307 47 581 224 453 632 
+player 285 draws a 7 from deck 285
+player 285 discards a 939 to deck 286
+player 285 current hand : 68 935 746 649 210 768 401 364 39 507 966 283 762 307 47 581 224 453 632 7 
+player 285 draws a 343 from deck 285
+player 285 discards a 68 to deck 286
+player 285 current hand : 935 746 649 210 768 401 364 39 507 966 283 762 307 47 581 224 453 632 7 343 
+player 285 draws a 734 from deck 285
+player 285 discards a 935 to deck 286
+player 285 current hand : 746 649 210 768 401 364 39 507 966 283 762 307 47 581 224 453 632 7 343 734 
+player 285 draws a 498 from deck 285
+player 285 discards a 746 to deck 286
+player 285 current hand : 649 210 768 401 364 39 507 966 283 762 307 47 581 224 453 632 7 343 734 498 
+player 285 draws a 328 from deck 285
+player 285 discards a 649 to deck 286
+player 285 current hand : 210 768 401 364 39 507 966 283 762 307 47 581 224 453 632 7 343 734 498 328 
+player 285 draws a 699 from deck 285
+player 285 discards a 210 to deck 286
+player 285 current hand : 768 401 364 39 507 966 283 762 307 47 581 224 453 632 7 343 734 498 328 699 
+player 285 draws a 755 from deck 285
+player 285 discards a 768 to deck 286
+player 285 current hand : 401 364 39 507 966 283 762 307 47 581 224 453 632 7 343 734 498 328 699 755 
+player 285 draws a 841 from deck 285
+player 285 discards a 401 to deck 286
+player 285 current hand : 364 39 507 966 283 762 307 47 581 224 453 632 7 343 734 498 328 699 755 841 
+player 285 draws a 457 from deck 285
+player 285 discards a 364 to deck 286
+player 285 current hand : 39 507 966 283 762 307 47 581 224 453 632 7 343 734 498 328 699 755 841 457 
+player 285 draws a 647 from deck 285
+player 285 discards a 39 to deck 286
+player 285 current hand : 507 966 283 762 307 47 581 224 453 632 7 343 734 498 328 699 755 841 457 647 
+player 285 draws a 260 from deck 285
+player 285 discards a 507 to deck 286
+player 285 current hand : 966 283 762 307 47 581 224 453 632 7 343 734 498 328 699 755 841 457 647 260 
+player 285 draws a 84 from deck 285
+player 285 discards a 966 to deck 286
+player 285 current hand : 283 762 307 47 581 224 453 632 7 343 734 498 328 699 755 841 457 647 260 84 
+player 285 draws a 511 from deck 285
+player 285 discards a 283 to deck 286
+player 285 current hand : 762 307 47 581 224 453 632 7 343 734 498 328 699 755 841 457 647 260 84 511 
+player 285 draws a 478 from deck 285
+player 285 discards a 762 to deck 286
+player 285 current hand : 307 47 581 224 453 632 7 343 734 498 328 699 755 841 457 647 260 84 511 478 
+player 285 draws a 217 from deck 285
+player 285 discards a 307 to deck 286
+player 285 current hand : 47 581 224 453 632 7 343 734 498 328 699 755 841 457 647 260 84 511 478 217 
+player 285 draws a 902 from deck 285
+player 285 discards a 47 to deck 286
+player 285 current hand : 581 224 453 632 7 343 734 498 328 699 755 841 457 647 260 84 511 478 217 902 
+player 285 draws a 341 from deck 285
+player 285 discards a 581 to deck 286
+player 285 current hand : 224 453 632 7 343 734 498 328 699 755 841 457 647 260 84 511 478 217 902 341 
+player 285 draws a 440 from deck 285
+player 285 discards a 224 to deck 286
+player 285 current hand : 453 632 7 343 734 498 328 699 755 841 457 647 260 84 511 478 217 902 341 440 
+player 285 draws a 707 from deck 285
+player 285 discards a 453 to deck 286
+player 285 current hand : 632 7 343 734 498 328 699 755 841 457 647 260 84 511 478 217 902 341 440 707 
+player 285 draws a 582 from deck 285
+player 285 discards a 632 to deck 286
+player 285 current hand : 7 343 734 498 328 699 755 841 457 647 260 84 511 478 217 902 341 440 707 582 
+player 285 draws a 511 from deck 285
+player 285 discards a 7 to deck 286
+player 285 current hand : 343 734 498 328 699 755 841 457 647 260 84 511 478 217 902 341 440 707 582 511 
+player 285 draws a 310 from deck 285
+player 285 discards a 343 to deck 286
+player 285 current hand : 734 498 328 699 755 841 457 647 260 84 511 478 217 902 341 440 707 582 511 310 
+player 285 draws a 182 from deck 285
+player 285 discards a 734 to deck 286
+player 285 current hand : 498 328 699 755 841 457 647 260 84 511 478 217 902 341 440 707 582 511 310 182 
+player 285 draws a 438 from deck 285
+player 285 discards a 498 to deck 286
+player 285 current hand : 328 699 755 841 457 647 260 84 511 478 217 902 341 440 707 582 511 310 182 438 
+player 285 draws a 601 from deck 285
+player 285 discards a 328 to deck 286
+player 285 current hand : 699 755 841 457 647 260 84 511 478 217 902 341 440 707 582 511 310 182 438 601 
+player 285 draws a 33 from deck 285
+player 285 discards a 699 to deck 286
+player 285 current hand : 755 841 457 647 260 84 511 478 217 902 341 440 707 582 511 310 182 438 601 33 
+player 285 draws a 358 from deck 285
+player 285 discards a 755 to deck 286
+player 285 current hand : 841 457 647 260 84 511 478 217 902 341 440 707 582 511 310 182 438 601 33 358 
+player 285 draws a 233 from deck 285
+player 285 discards a 841 to deck 286
+player 285 current hand : 457 647 260 84 511 478 217 902 341 440 707 582 511 310 182 438 601 33 358 233 
+player 285 draws a 991 from deck 285
+player 285 discards a 457 to deck 286
+player 285 current hand : 647 260 84 511 478 217 902 341 440 707 582 511 310 182 438 601 33 358 233 991 
+player 285 draws a 393 from deck 285
+player 285 discards a 647 to deck 286
+player 285 current hand : 260 84 511 478 217 902 341 440 707 582 511 310 182 438 601 33 358 233 991 393 
+player 285 draws a 677 from deck 285
+player 285 discards a 260 to deck 286
+player 285 current hand : 84 511 478 217 902 341 440 707 582 511 310 182 438 601 33 358 233 991 393 677 
+player 285 draws a 537 from deck 285
+player 285 discards a 84 to deck 286
+player 285 current hand : 511 478 217 902 341 440 707 582 511 310 182 438 601 33 358 233 991 393 677 537 
+player 285 draws a 977 from deck 285
+player 285 discards a 511 to deck 286
+player 285 current hand : 478 217 902 341 440 707 582 511 310 182 438 601 33 358 233 991 393 677 537 977 
+player 285 draws a 922 from deck 285
+player 285 discards a 478 to deck 286
+player 285 current hand : 217 902 341 440 707 582 511 310 182 438 601 33 358 233 991 393 677 537 977 922 
+player 285 draws a 866 from deck 285
+player 285 discards a 217 to deck 286
+player 285 current hand : 902 341 440 707 582 511 310 182 438 601 33 358 233 991 393 677 537 977 922 866 
+player 285 draws a 222 from deck 285
+player 285 discards a 902 to deck 286
+player 285 current hand : 341 440 707 582 511 310 182 438 601 33 358 233 991 393 677 537 977 922 866 222 
+player 285 draws a 15 from deck 285
+player 285 discards a 341 to deck 286
+player 285 current hand : 440 707 582 511 310 182 438 601 33 358 233 991 393 677 537 977 922 866 222 15 
+player 285 draws a 491 from deck 285
+player 285 discards a 440 to deck 286
+player 285 current hand : 707 582 511 310 182 438 601 33 358 233 991 393 677 537 977 922 866 222 15 491 
+player 285 draws a 525 from deck 285
+player 285 discards a 707 to deck 286
+player 285 current hand : 582 511 310 182 438 601 33 358 233 991 393 677 537 977 922 866 222 15 491 525 
+player 285 draws a 570 from deck 285
+player 285 discards a 582 to deck 286
+player 285 current hand : 511 310 182 438 601 33 358 233 991 393 677 537 977 922 866 222 15 491 525 570 
+player 285 draws a 943 from deck 285
+player 285 discards a 511 to deck 286
+player 285 current hand : 310 182 438 601 33 358 233 991 393 677 537 977 922 866 222 15 491 525 570 943 
+player 285 draws a 456 from deck 285
+player 285 discards a 310 to deck 286
+player 285 current hand : 182 438 601 33 358 233 991 393 677 537 977 922 866 222 15 491 525 570 943 456 
+player 285 draws a 877 from deck 285
+player 285 discards a 182 to deck 286
+player 285 current hand : 438 601 33 358 233 991 393 677 537 977 922 866 222 15 491 525 570 943 456 877 
+player 285 draws a 753 from deck 285
+player 285 discards a 438 to deck 286
+player 285 current hand : 601 33 358 233 991 393 677 537 977 922 866 222 15 491 525 570 943 456 877 753 
+player 285 draws a 305 from deck 285
+player 285 discards a 601 to deck 286
+player 285 current hand : 33 358 233 991 393 677 537 977 922 866 222 15 491 525 570 943 456 877 753 305 
+player 285 draws a 328 from deck 285
+player 285 discards a 33 to deck 286
+player 285 current hand : 358 233 991 393 677 537 977 922 866 222 15 491 525 570 943 456 877 753 305 328 
+player 285 draws a 417 from deck 285
+player 285 discards a 358 to deck 286
+player 285 current hand : 233 991 393 677 537 977 922 866 222 15 491 525 570 943 456 877 753 305 328 417 
+player 285 draws a 386 from deck 285
+player 285 discards a 233 to deck 286
+player 285 current hand : 991 393 677 537 977 922 866 222 15 491 525 570 943 456 877 753 305 328 417 386 
+player 285 draws a 970 from deck 285
+player 285 discards a 991 to deck 286
+player 285 current hand : 393 677 537 977 922 866 222 15 491 525 570 943 456 877 753 305 328 417 386 970 
+player 285 draws a 608 from deck 285
+player 285 discards a 393 to deck 286
+player 285 current hand : 677 537 977 922 866 222 15 491 525 570 943 456 877 753 305 328 417 386 970 608 
+player 285 draws a 582 from deck 285
+player 285 discards a 677 to deck 286
+player 285 current hand : 537 977 922 866 222 15 491 525 570 943 456 877 753 305 328 417 386 970 608 582 
+player 285 draws a 863 from deck 285
+player 285 discards a 537 to deck 286
+player 285 current hand : 977 922 866 222 15 491 525 570 943 456 877 753 305 328 417 386 970 608 582 863 
+player 285 draws a 425 from deck 285
+player 285 discards a 977 to deck 286
+player 285 current hand : 922 866 222 15 491 525 570 943 456 877 753 305 328 417 386 970 608 582 863 425 
+player 285 draws a 991 from deck 285
+player 285 discards a 922 to deck 286
+player 285 current hand : 866 222 15 491 525 570 943 456 877 753 305 328 417 386 970 608 582 863 425 991 
+player 285 draws a 227 from deck 285
+player 285 discards a 866 to deck 286
+player 285 current hand : 222 15 491 525 570 943 456 877 753 305 328 417 386 970 608 582 863 425 991 227 
+player 285 draws a 564 from deck 285
+player 285 discards a 222 to deck 286
+player 285 current hand : 15 491 525 570 943 456 877 753 305 328 417 386 970 608 582 863 425 991 227 564 
+player 285 draws a 490 from deck 285
+player 285 discards a 15 to deck 286
+player 285 current hand : 491 525 570 943 456 877 753 305 328 417 386 970 608 582 863 425 991 227 564 490 
+player 285 draws a 499 from deck 285
+player 285 discards a 491 to deck 286
+player 285 current hand : 525 570 943 456 877 753 305 328 417 386 970 608 582 863 425 991 227 564 490 499 
+player 285 draws a 224 from deck 285
+player 285 discards a 525 to deck 286
+player 285 current hand : 570 943 456 877 753 305 328 417 386 970 608 582 863 425 991 227 564 490 499 224 
+player 285 draws a 509 from deck 285
+player 285 discards a 570 to deck 286
+player 285 current hand : 943 456 877 753 305 328 417 386 970 608 582 863 425 991 227 564 490 499 224 509 
+player 285 draws a 490 from deck 285
+player 285 discards a 943 to deck 286
+player 285 current hand : 456 877 753 305 328 417 386 970 608 582 863 425 991 227 564 490 499 224 509 490 
+player 285 draws a 707 from deck 285
+player 285 discards a 456 to deck 286
+player 285 current hand : 877 753 305 328 417 386 970 608 582 863 425 991 227 564 490 499 224 509 490 707 
+player 285 draws a 685 from deck 285
+player 285 discards a 877 to deck 286
+player 285 current hand : 753 305 328 417 386 970 608 582 863 425 991 227 564 490 499 224 509 490 707 685 
+player 285 draws a 367 from deck 285
+player 285 discards a 753 to deck 286
+player 285 current hand : 305 328 417 386 970 608 582 863 425 991 227 564 490 499 224 509 490 707 685 367 
+player 285 draws a 649 from deck 285
+player 285 discards a 305 to deck 286
+player 285 current hand : 328 417 386 970 608 582 863 425 991 227 564 490 499 224 509 490 707 685 367 649 
+player 285 draws a 180 from deck 285
+player 285 discards a 328 to deck 286
+player 285 current hand : 417 386 970 608 582 863 425 991 227 564 490 499 224 509 490 707 685 367 649 180 
+player 285 draws a 163 from deck 285
+player 285 discards a 417 to deck 286
+player 285 current hand : 386 970 608 582 863 425 991 227 564 490 499 224 509 490 707 685 367 649 180 163 
+player 285 draws a 389 from deck 285
+player 285 discards a 386 to deck 286
+player 285 current hand : 970 608 582 863 425 991 227 564 490 499 224 509 490 707 685 367 649 180 163 389 
+player 285 draws a 446 from deck 285
+player 285 discards a 970 to deck 286
+player 285 current hand : 608 582 863 425 991 227 564 490 499 224 509 490 707 685 367 649 180 163 389 446 
+player 285 draws a 587 from deck 285
+player 285 discards a 608 to deck 286
+player 285 current hand : 582 863 425 991 227 564 490 499 224 509 490 707 685 367 649 180 163 389 446 587 
+player 285 draws a 571 from deck 285
+player 285 discards a 582 to deck 286
+player 285 current hand : 863 425 991 227 564 490 499 224 509 490 707 685 367 649 180 163 389 446 587 571 
+player 285 draws a 861 from deck 285
+player 285 discards a 863 to deck 286
+player 285 current hand : 425 991 227 564 490 499 224 509 490 707 685 367 649 180 163 389 446 587 571 861 
+player 285 draws a 255 from deck 285
+player 285 discards a 425 to deck 286
+player 285 current hand : 991 227 564 490 499 224 509 490 707 685 367 649 180 163 389 446 587 571 861 255 
+player 285 draws a 847 from deck 285
+player 285 discards a 991 to deck 286
+player 285 current hand : 227 564 490 499 224 509 490 707 685 367 649 180 163 389 446 587 571 861 255 847 
+player 285 draws a 269 from deck 285
+player 285 discards a 227 to deck 286
+player 285 current hand : 564 490 499 224 509 490 707 685 367 649 180 163 389 446 587 571 861 255 847 269 
+player 285 draws a 765 from deck 285
+player 285 discards a 564 to deck 286
+player 285 current hand : 490 499 224 509 490 707 685 367 649 180 163 389 446 587 571 861 255 847 269 765 
+player 285 draws a 72 from deck 285
+player 285 discards a 490 to deck 286
+player 285 current hand : 499 224 509 490 707 685 367 649 180 163 389 446 587 571 861 255 847 269 765 72 
+player 285 draws a 590 from deck 285
+player 285 discards a 499 to deck 286
+player 285 current hand : 224 509 490 707 685 367 649 180 163 389 446 587 571 861 255 847 269 765 72 590 
+player 285 draws a 355 from deck 285
+player 285 discards a 224 to deck 286
+player 285 current hand : 509 490 707 685 367 649 180 163 389 446 587 571 861 255 847 269 765 72 590 355 
+player 285 draws a 189 from deck 285
+player 285 discards a 509 to deck 286
+player 285 current hand : 490 707 685 367 649 180 163 389 446 587 571 861 255 847 269 765 72 590 355 189 
+player 285 draws a 456 from deck 285
+player 285 discards a 490 to deck 286
+player 285 current hand : 707 685 367 649 180 163 389 446 587 571 861 255 847 269 765 72 590 355 189 456 
+player 285 draws a 855 from deck 285
+player 285 discards a 707 to deck 286
+player 285 current hand : 685 367 649 180 163 389 446 587 571 861 255 847 269 765 72 590 355 189 456 855 
+player 285 draws a 695 from deck 285
+player 285 discards a 685 to deck 286
+player 285 current hand : 367 649 180 163 389 446 587 571 861 255 847 269 765 72 590 355 189 456 855 695 
+player 285 draws a 62 from deck 285
+player 285 discards a 367 to deck 286
+player 285 current hand : 649 180 163 389 446 587 571 861 255 847 269 765 72 590 355 189 456 855 695 62 
+player 285 draws a 776 from deck 285
+player 285 discards a 649 to deck 286
+player 285 current hand : 180 163 389 446 587 571 861 255 847 269 765 72 590 355 189 456 855 695 62 776 
+player 285 draws a 220 from deck 285
+player 285 discards a 180 to deck 286
+player 285 current hand : 163 389 446 587 571 861 255 847 269 765 72 590 355 189 456 855 695 62 776 220 
+player 285 draws a 924 from deck 285
+player 285 discards a 163 to deck 286
+player 285 current hand : 389 446 587 571 861 255 847 269 765 72 590 355 189 456 855 695 62 776 220 924 
+player 285 draws a 475 from deck 285
+player 285 discards a 389 to deck 286
+player 285 current hand : 446 587 571 861 255 847 269 765 72 590 355 189 456 855 695 62 776 220 924 475 
+player 285 draws a 702 from deck 285
+player 285 discards a 446 to deck 286
+player 285 current hand : 587 571 861 255 847 269 765 72 590 355 189 456 855 695 62 776 220 924 475 702 
+player 285 draws a 137 from deck 285
+player 285 discards a 587 to deck 286
+player 285 current hand : 571 861 255 847 269 765 72 590 355 189 456 855 695 62 776 220 924 475 702 137 
+player 285 draws a 481 from deck 285
+player 285 discards a 571 to deck 286
+player 285 current hand : 861 255 847 269 765 72 590 355 189 456 855 695 62 776 220 924 475 702 137 481 
+player 285 draws a 835 from deck 285
+player 285 discards a 861 to deck 286
+player 285 current hand : 255 847 269 765 72 590 355 189 456 855 695 62 776 220 924 475 702 137 481 835 
+player 285 draws a 768 from deck 285
+player 285 discards a 255 to deck 286
+player 285 current hand : 847 269 765 72 590 355 189 456 855 695 62 776 220 924 475 702 137 481 835 768 
+player 285 draws a 187 from deck 285
+player 285 discards a 847 to deck 286
+player 285 current hand : 269 765 72 590 355 189 456 855 695 62 776 220 924 475 702 137 481 835 768 187 
+player 285 draws a 828 from deck 285
+player 285 discards a 269 to deck 286
+player 285 current hand : 765 72 590 355 189 456 855 695 62 776 220 924 475 702 137 481 835 768 187 828 
+player 285 draws a 83 from deck 285
+player 285 discards a 765 to deck 286
+player 285 current hand : 72 590 355 189 456 855 695 62 776 220 924 475 702 137 481 835 768 187 828 83 
+player 285 draws a 360 from deck 285
+player 285 discards a 72 to deck 286
+player 285 current hand : 590 355 189 456 855 695 62 776 220 924 475 702 137 481 835 768 187 828 83 360 
+player 285 draws a 849 from deck 285
+player 285 discards a 590 to deck 286
+player 285 current hand : 355 189 456 855 695 62 776 220 924 475 702 137 481 835 768 187 828 83 360 849 
+player 285 draws a 635 from deck 285
+player 285 discards a 355 to deck 286
+player 285 current hand : 189 456 855 695 62 776 220 924 475 702 137 481 835 768 187 828 83 360 849 635 
+player 285 draws a 36 from deck 285
+player 285 discards a 189 to deck 286
+player 285 current hand : 456 855 695 62 776 220 924 475 702 137 481 835 768 187 828 83 360 849 635 36 
+player 285 draws a 862 from deck 285
+player 285 discards a 456 to deck 286
+player 285 current hand : 855 695 62 776 220 924 475 702 137 481 835 768 187 828 83 360 849 635 36 862 
+player 285 draws a 835 from deck 285
+player 285 discards a 855 to deck 286
+player 285 current hand : 695 62 776 220 924 475 702 137 481 835 768 187 828 83 360 849 635 36 862 835 
+player 285 draws a 226 from deck 285
+player 285 discards a 695 to deck 286
+player 285 current hand : 62 776 220 924 475 702 137 481 835 768 187 828 83 360 849 635 36 862 835 226 
+player 285 draws a 691 from deck 285
+player 285 discards a 62 to deck 286
+player 285 current hand : 776 220 924 475 702 137 481 835 768 187 828 83 360 849 635 36 862 835 226 691 

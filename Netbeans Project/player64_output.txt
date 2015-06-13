@@ -1,0 +1,318 @@
+player 64 initial hand 933 317 427 982 730 377 400 183 457 521 341 913 787 265 168 217 591 161 919 712 
+player 64 draws a 196 from deck 64
+player 64 discards a 933 to deck 65
+player 64 current hand : 317 427 982 730 377 400 183 457 521 341 913 787 265 168 217 591 161 919 712 196 
+player 64 draws a 773 from deck 64
+player 64 discards a 317 to deck 65
+player 64 current hand : 427 982 730 377 400 183 457 521 341 913 787 265 168 217 591 161 919 712 196 773 
+player 64 draws a 279 from deck 64
+player 64 discards a 427 to deck 65
+player 64 current hand : 982 730 377 400 183 457 521 341 913 787 265 168 217 591 161 919 712 196 773 279 
+player 64 draws a 449 from deck 64
+player 64 discards a 982 to deck 65
+player 64 current hand : 730 377 400 183 457 521 341 913 787 265 168 217 591 161 919 712 196 773 279 449 
+player 64 draws a 340 from deck 64
+player 64 discards a 730 to deck 65
+player 64 current hand : 377 400 183 457 521 341 913 787 265 168 217 591 161 919 712 196 773 279 449 340 
+player 64 draws a 618 from deck 64
+player 64 discards a 377 to deck 65
+player 64 current hand : 400 183 457 521 341 913 787 265 168 217 591 161 919 712 196 773 279 449 340 618 
+player 64 draws a 37 from deck 64
+player 64 discards a 400 to deck 65
+player 64 current hand : 183 457 521 341 913 787 265 168 217 591 161 919 712 196 773 279 449 340 618 37 
+player 64 draws a 726 from deck 64
+player 64 discards a 183 to deck 65
+player 64 current hand : 457 521 341 913 787 265 168 217 591 161 919 712 196 773 279 449 340 618 37 726 
+player 64 draws a 457 from deck 64
+player 64 discards a 457 to deck 65
+player 64 current hand : 521 341 913 787 265 168 217 591 161 919 712 196 773 279 449 340 618 37 726 457 
+player 64 draws a 800 from deck 64
+player 64 discards a 521 to deck 65
+player 64 current hand : 341 913 787 265 168 217 591 161 919 712 196 773 279 449 340 618 37 726 457 800 
+player 64 draws a 321 from deck 64
+player 64 discards a 341 to deck 65
+player 64 current hand : 913 787 265 168 217 591 161 919 712 196 773 279 449 340 618 37 726 457 800 321 
+player 64 draws a 934 from deck 64
+player 64 discards a 913 to deck 65
+player 64 current hand : 787 265 168 217 591 161 919 712 196 773 279 449 340 618 37 726 457 800 321 934 
+player 64 draws a 451 from deck 64
+player 64 discards a 787 to deck 65
+player 64 current hand : 265 168 217 591 161 919 712 196 773 279 449 340 618 37 726 457 800 321 934 451 
+player 64 draws a 915 from deck 64
+player 64 discards a 265 to deck 65
+player 64 current hand : 168 217 591 161 919 712 196 773 279 449 340 618 37 726 457 800 321 934 451 915 
+player 64 draws a 10 from deck 64
+player 64 discards a 168 to deck 65
+player 64 current hand : 217 591 161 919 712 196 773 279 449 340 618 37 726 457 800 321 934 451 915 10 
+player 64 draws a 157 from deck 64
+player 64 discards a 217 to deck 65
+player 64 current hand : 591 161 919 712 196 773 279 449 340 618 37 726 457 800 321 934 451 915 10 157 
+player 64 draws a 4 from deck 64
+player 64 discards a 591 to deck 65
+player 64 current hand : 161 919 712 196 773 279 449 340 618 37 726 457 800 321 934 451 915 10 157 4 
+player 64 draws a 875 from deck 64
+player 64 discards a 161 to deck 65
+player 64 current hand : 919 712 196 773 279 449 340 618 37 726 457 800 321 934 451 915 10 157 4 875 
+player 64 draws a 608 from deck 64
+player 64 discards a 919 to deck 65
+player 64 current hand : 712 196 773 279 449 340 618 37 726 457 800 321 934 451 915 10 157 4 875 608 
+player 64 draws a 425 from deck 64
+player 64 discards a 712 to deck 65
+player 64 current hand : 196 773 279 449 340 618 37 726 457 800 321 934 451 915 10 157 4 875 608 425 
+player 64 draws a 618 from deck 64
+player 64 discards a 196 to deck 65
+player 64 current hand : 773 279 449 340 618 37 726 457 800 321 934 451 915 10 157 4 875 608 425 618 
+player 64 draws a 415 from deck 64
+player 64 discards a 773 to deck 65
+player 64 current hand : 279 449 340 618 37 726 457 800 321 934 451 915 10 157 4 875 608 425 618 415 
+player 64 draws a 516 from deck 64
+player 64 discards a 279 to deck 65
+player 64 current hand : 449 340 618 37 726 457 800 321 934 451 915 10 157 4 875 608 425 618 415 516 
+player 64 draws a 849 from deck 64
+player 64 discards a 449 to deck 65
+player 64 current hand : 340 618 37 726 457 800 321 934 451 915 10 157 4 875 608 425 618 415 516 849 
+player 64 draws a 10 from deck 64
+player 64 discards a 340 to deck 65
+player 64 current hand : 618 37 726 457 800 321 934 451 915 10 157 4 875 608 425 618 415 516 849 10 
+player 64 draws a 497 from deck 64
+player 64 discards a 618 to deck 65
+player 64 current hand : 37 726 457 800 321 934 451 915 10 157 4 875 608 425 618 415 516 849 10 497 
+player 64 draws a 941 from deck 64
+player 64 discards a 37 to deck 65
+player 64 current hand : 726 457 800 321 934 451 915 10 157 4 875 608 425 618 415 516 849 10 497 941 
+player 64 draws a 499 from deck 64
+player 64 discards a 726 to deck 65
+player 64 current hand : 457 800 321 934 451 915 10 157 4 875 608 425 618 415 516 849 10 497 941 499 
+player 64 draws a 168 from deck 64
+player 64 discards a 457 to deck 65
+player 64 current hand : 800 321 934 451 915 10 157 4 875 608 425 618 415 516 849 10 497 941 499 168 
+player 64 draws a 263 from deck 64
+player 64 discards a 800 to deck 65
+player 64 current hand : 321 934 451 915 10 157 4 875 608 425 618 415 516 849 10 497 941 499 168 263 
+player 64 draws a 973 from deck 64
+player 64 discards a 321 to deck 65
+player 64 current hand : 934 451 915 10 157 4 875 608 425 618 415 516 849 10 497 941 499 168 263 973 
+player 64 draws a 91 from deck 64
+player 64 discards a 934 to deck 65
+player 64 current hand : 451 915 10 157 4 875 608 425 618 415 516 849 10 497 941 499 168 263 973 91 
+player 64 draws a 542 from deck 64
+player 64 discards a 451 to deck 65
+player 64 current hand : 915 10 157 4 875 608 425 618 415 516 849 10 497 941 499 168 263 973 91 542 
+player 64 draws a 28 from deck 64
+player 64 discards a 915 to deck 65
+player 64 current hand : 10 157 4 875 608 425 618 415 516 849 10 497 941 499 168 263 973 91 542 28 
+player 64 draws a 300 from deck 64
+player 64 discards a 10 to deck 65
+player 64 current hand : 157 4 875 608 425 618 415 516 849 10 497 941 499 168 263 973 91 542 28 300 
+player 64 draws a 84 from deck 64
+player 64 discards a 157 to deck 65
+player 64 current hand : 4 875 608 425 618 415 516 849 10 497 941 499 168 263 973 91 542 28 300 84 
+player 64 draws a 993 from deck 64
+player 64 discards a 4 to deck 65
+player 64 current hand : 875 608 425 618 415 516 849 10 497 941 499 168 263 973 91 542 28 300 84 993 
+player 64 draws a 888 from deck 64
+player 64 discards a 875 to deck 65
+player 64 current hand : 608 425 618 415 516 849 10 497 941 499 168 263 973 91 542 28 300 84 993 888 
+player 64 draws a 631 from deck 64
+player 64 discards a 608 to deck 65
+player 64 current hand : 425 618 415 516 849 10 497 941 499 168 263 973 91 542 28 300 84 993 888 631 
+player 64 draws a 28 from deck 64
+player 64 discards a 425 to deck 65
+player 64 current hand : 618 415 516 849 10 497 941 499 168 263 973 91 542 28 300 84 993 888 631 28 
+player 64 draws a 127 from deck 64
+player 64 discards a 618 to deck 65
+player 64 current hand : 415 516 849 10 497 941 499 168 263 973 91 542 28 300 84 993 888 631 28 127 
+player 64 draws a 86 from deck 64
+player 64 discards a 415 to deck 65
+player 64 current hand : 516 849 10 497 941 499 168 263 973 91 542 28 300 84 993 888 631 28 127 86 
+player 64 draws a 402 from deck 64
+player 64 discards a 516 to deck 65
+player 64 current hand : 849 10 497 941 499 168 263 973 91 542 28 300 84 993 888 631 28 127 86 402 
+player 64 draws a 696 from deck 64
+player 64 discards a 849 to deck 65
+player 64 current hand : 10 497 941 499 168 263 973 91 542 28 300 84 993 888 631 28 127 86 402 696 
+player 64 draws a 817 from deck 64
+player 64 discards a 10 to deck 65
+player 64 current hand : 497 941 499 168 263 973 91 542 28 300 84 993 888 631 28 127 86 402 696 817 
+player 64 draws a 391 from deck 64
+player 64 discards a 497 to deck 65
+player 64 current hand : 941 499 168 263 973 91 542 28 300 84 993 888 631 28 127 86 402 696 817 391 
+player 64 draws a 691 from deck 64
+player 64 discards a 941 to deck 65
+player 64 current hand : 499 168 263 973 91 542 28 300 84 993 888 631 28 127 86 402 696 817 391 691 
+player 64 draws a 383 from deck 64
+player 64 discards a 499 to deck 65
+player 64 current hand : 168 263 973 91 542 28 300 84 993 888 631 28 127 86 402 696 817 391 691 383 
+player 64 draws a 691 from deck 64
+player 64 discards a 168 to deck 65
+player 64 current hand : 263 973 91 542 28 300 84 993 888 631 28 127 86 402 696 817 391 691 383 691 
+player 64 draws a 200 from deck 64
+player 64 discards a 263 to deck 65
+player 64 current hand : 973 91 542 28 300 84 993 888 631 28 127 86 402 696 817 391 691 383 691 200 
+player 64 draws a 602 from deck 64
+player 64 discards a 973 to deck 65
+player 64 current hand : 91 542 28 300 84 993 888 631 28 127 86 402 696 817 391 691 383 691 200 602 
+player 64 draws a 237 from deck 64
+player 64 discards a 91 to deck 65
+player 64 current hand : 542 28 300 84 993 888 631 28 127 86 402 696 817 391 691 383 691 200 602 237 
+player 64 draws a 443 from deck 64
+player 64 discards a 542 to deck 65
+player 64 current hand : 28 300 84 993 888 631 28 127 86 402 696 817 391 691 383 691 200 602 237 443 
+player 64 draws a 20 from deck 64
+player 64 discards a 28 to deck 65
+player 64 current hand : 300 84 993 888 631 28 127 86 402 696 817 391 691 383 691 200 602 237 443 20 
+player 64 draws a 925 from deck 64
+player 64 discards a 300 to deck 65
+player 64 current hand : 84 993 888 631 28 127 86 402 696 817 391 691 383 691 200 602 237 443 20 925 
+player 64 draws a 350 from deck 64
+player 64 discards a 84 to deck 65
+player 64 current hand : 993 888 631 28 127 86 402 696 817 391 691 383 691 200 602 237 443 20 925 350 
+player 64 draws a 460 from deck 64
+player 64 discards a 993 to deck 65
+player 64 current hand : 888 631 28 127 86 402 696 817 391 691 383 691 200 602 237 443 20 925 350 460 
+player 64 draws a 180 from deck 64
+player 64 discards a 888 to deck 65
+player 64 current hand : 631 28 127 86 402 696 817 391 691 383 691 200 602 237 443 20 925 350 460 180 
+player 64 draws a 835 from deck 64
+player 64 discards a 631 to deck 65
+player 64 current hand : 28 127 86 402 696 817 391 691 383 691 200 602 237 443 20 925 350 460 180 835 
+player 64 draws a 16 from deck 64
+player 64 discards a 28 to deck 65
+player 64 current hand : 127 86 402 696 817 391 691 383 691 200 602 237 443 20 925 350 460 180 835 16 
+player 64 draws a 610 from deck 64
+player 64 discards a 127 to deck 65
+player 64 current hand : 86 402 696 817 391 691 383 691 200 602 237 443 20 925 350 460 180 835 16 610 
+player 64 draws a 969 from deck 64
+player 64 discards a 86 to deck 65
+player 64 current hand : 402 696 817 391 691 383 691 200 602 237 443 20 925 350 460 180 835 16 610 969 
+player 64 draws a 620 from deck 64
+player 64 discards a 402 to deck 65
+player 64 current hand : 696 817 391 691 383 691 200 602 237 443 20 925 350 460 180 835 16 610 969 620 
+player 64 draws a 658 from deck 64
+player 64 discards a 696 to deck 65
+player 64 current hand : 817 391 691 383 691 200 602 237 443 20 925 350 460 180 835 16 610 969 620 658 
+player 64 draws a 824 from deck 64
+player 64 discards a 817 to deck 65
+player 64 current hand : 391 691 383 691 200 602 237 443 20 925 350 460 180 835 16 610 969 620 658 824 
+player 64 draws a 609 from deck 64
+player 64 discards a 391 to deck 65
+player 64 current hand : 691 383 691 200 602 237 443 20 925 350 460 180 835 16 610 969 620 658 824 609 
+player 64 draws a 758 from deck 64
+player 64 discards a 691 to deck 65
+player 64 current hand : 383 691 200 602 237 443 20 925 350 460 180 835 16 610 969 620 658 824 609 758 
+player 64 draws a 559 from deck 64
+player 64 discards a 383 to deck 65
+player 64 current hand : 691 200 602 237 443 20 925 350 460 180 835 16 610 969 620 658 824 609 758 559 
+player 64 draws a 351 from deck 64
+player 64 discards a 691 to deck 65
+player 64 current hand : 200 602 237 443 20 925 350 460 180 835 16 610 969 620 658 824 609 758 559 351 
+player 64 draws a 537 from deck 64
+player 64 discards a 200 to deck 65
+player 64 current hand : 602 237 443 20 925 350 460 180 835 16 610 969 620 658 824 609 758 559 351 537 
+player 64 draws a 680 from deck 64
+player 64 discards a 602 to deck 65
+player 64 current hand : 237 443 20 925 350 460 180 835 16 610 969 620 658 824 609 758 559 351 537 680 
+player 64 draws a 692 from deck 64
+player 64 discards a 237 to deck 65
+player 64 current hand : 443 20 925 350 460 180 835 16 610 969 620 658 824 609 758 559 351 537 680 692 
+player 64 draws a 901 from deck 64
+player 64 discards a 443 to deck 65
+player 64 current hand : 20 925 350 460 180 835 16 610 969 620 658 824 609 758 559 351 537 680 692 901 
+player 64 draws a 897 from deck 64
+player 64 discards a 20 to deck 65
+player 64 current hand : 925 350 460 180 835 16 610 969 620 658 824 609 758 559 351 537 680 692 901 897 
+player 64 draws a 489 from deck 64
+player 64 discards a 925 to deck 65
+player 64 current hand : 350 460 180 835 16 610 969 620 658 824 609 758 559 351 537 680 692 901 897 489 
+player 64 draws a 279 from deck 64
+player 64 discards a 350 to deck 65
+player 64 current hand : 460 180 835 16 610 969 620 658 824 609 758 559 351 537 680 692 901 897 489 279 
+player 64 draws a 453 from deck 64
+player 64 discards a 460 to deck 65
+player 64 current hand : 180 835 16 610 969 620 658 824 609 758 559 351 537 680 692 901 897 489 279 453 
+player 64 draws a 384 from deck 64
+player 64 discards a 180 to deck 65
+player 64 current hand : 835 16 610 969 620 658 824 609 758 559 351 537 680 692 901 897 489 279 453 384 
+player 64 draws a 583 from deck 64
+player 64 discards a 835 to deck 65
+player 64 current hand : 16 610 969 620 658 824 609 758 559 351 537 680 692 901 897 489 279 453 384 583 
+player 64 draws a 643 from deck 64
+player 64 discards a 16 to deck 65
+player 64 current hand : 610 969 620 658 824 609 758 559 351 537 680 692 901 897 489 279 453 384 583 643 
+player 64 draws a 499 from deck 64
+player 64 discards a 610 to deck 65
+player 64 current hand : 969 620 658 824 609 758 559 351 537 680 692 901 897 489 279 453 384 583 643 499 
+player 64 draws a 16 from deck 64
+player 64 discards a 969 to deck 65
+player 64 current hand : 620 658 824 609 758 559 351 537 680 692 901 897 489 279 453 384 583 643 499 16 
+player 64 draws a 478 from deck 64
+player 64 discards a 620 to deck 65
+player 64 current hand : 658 824 609 758 559 351 537 680 692 901 897 489 279 453 384 583 643 499 16 478 
+player 64 draws a 795 from deck 64
+player 64 discards a 658 to deck 65
+player 64 current hand : 824 609 758 559 351 537 680 692 901 897 489 279 453 384 583 643 499 16 478 795 
+player 64 draws a 599 from deck 64
+player 64 discards a 824 to deck 65
+player 64 current hand : 609 758 559 351 537 680 692 901 897 489 279 453 384 583 643 499 16 478 795 599 
+player 64 draws a 643 from deck 64
+player 64 discards a 609 to deck 65
+player 64 current hand : 758 559 351 537 680 692 901 897 489 279 453 384 583 643 499 16 478 795 599 643 
+player 64 draws a 684 from deck 64
+player 64 discards a 758 to deck 65
+player 64 current hand : 559 351 537 680 692 901 897 489 279 453 384 583 643 499 16 478 795 599 643 684 
+player 64 draws a 671 from deck 64
+player 64 discards a 559 to deck 65
+player 64 current hand : 351 537 680 692 901 897 489 279 453 384 583 643 499 16 478 795 599 643 684 671 
+player 64 draws a 54 from deck 64
+player 64 discards a 351 to deck 65
+player 64 current hand : 537 680 692 901 897 489 279 453 384 583 643 499 16 478 795 599 643 684 671 54 
+player 64 draws a 618 from deck 64
+player 64 discards a 537 to deck 65
+player 64 current hand : 680 692 901 897 489 279 453 384 583 643 499 16 478 795 599 643 684 671 54 618 
+player 64 draws a 124 from deck 64
+player 64 discards a 680 to deck 65
+player 64 current hand : 692 901 897 489 279 453 384 583 643 499 16 478 795 599 643 684 671 54 618 124 
+player 64 draws a 180 from deck 64
+player 64 discards a 692 to deck 65
+player 64 current hand : 901 897 489 279 453 384 583 643 499 16 478 795 599 643 684 671 54 618 124 180 
+player 64 draws a 269 from deck 64
+player 64 discards a 901 to deck 65
+player 64 current hand : 897 489 279 453 384 583 643 499 16 478 795 599 643 684 671 54 618 124 180 269 
+player 64 draws a 518 from deck 64
+player 64 discards a 897 to deck 65
+player 64 current hand : 489 279 453 384 583 643 499 16 478 795 599 643 684 671 54 618 124 180 269 518 
+player 64 draws a 872 from deck 64
+player 64 discards a 489 to deck 65
+player 64 current hand : 279 453 384 583 643 499 16 478 795 599 643 684 671 54 618 124 180 269 518 872 
+player 64 draws a 476 from deck 64
+player 64 discards a 279 to deck 65
+player 64 current hand : 453 384 583 643 499 16 478 795 599 643 684 671 54 618 124 180 269 518 872 476 
+player 64 draws a 52 from deck 64
+player 64 discards a 453 to deck 65
+player 64 current hand : 384 583 643 499 16 478 795 599 643 684 671 54 618 124 180 269 518 872 476 52 
+player 64 draws a 720 from deck 64
+player 64 discards a 384 to deck 65
+player 64 current hand : 583 643 499 16 478 795 599 643 684 671 54 618 124 180 269 518 872 476 52 720 
+player 64 draws a 162 from deck 64
+player 64 discards a 583 to deck 65
+player 64 current hand : 643 499 16 478 795 599 643 684 671 54 618 124 180 269 518 872 476 52 720 162 
+player 64 draws a 854 from deck 64
+player 64 discards a 643 to deck 65
+player 64 current hand : 499 16 478 795 599 643 684 671 54 618 124 180 269 518 872 476 52 720 162 854 
+player 64 draws a 407 from deck 64
+player 64 discards a 499 to deck 65
+player 64 current hand : 16 478 795 599 643 684 671 54 618 124 180 269 518 872 476 52 720 162 854 407 
+player 64 draws a 817 from deck 64
+player 64 discards a 16 to deck 65
+player 64 current hand : 478 795 599 643 684 671 54 618 124 180 269 518 872 476 52 720 162 854 407 817 
+player 64 draws a 618 from deck 64
+player 64 discards a 478 to deck 65
+player 64 current hand : 795 599 643 684 671 54 618 124 180 269 518 872 476 52 720 162 854 407 817 618 
+player 64 draws a 913 from deck 64
+player 64 discards a 795 to deck 65
+player 64 current hand : 599 643 684 671 54 618 124 180 269 518 872 476 52 720 162 854 407 817 618 913 
+player 64 draws a 594 from deck 64
+player 64 discards a 599 to deck 65
+player 64 current hand : 643 684 671 54 618 124 180 269 518 872 476 52 720 162 854 407 817 618 913 594 
+player 64 draws a 10 from deck 64
+player 64 discards a 643 to deck 65

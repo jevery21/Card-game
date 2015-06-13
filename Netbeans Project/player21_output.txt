@@ -1,0 +1,304 @@
+player 21 initial hand 856 457 464 793 897 185 970 853 457 612 672 395 336 574 410 25 535 399 635 300 
+player 21 draws a 267 from deck 21
+player 21 discards a 856 to deck 22
+player 21 current hand : 457 464 793 897 185 970 853 457 612 672 395 336 574 410 25 535 399 635 300 267 
+player 21 draws a 871 from deck 21
+player 21 discards a 457 to deck 22
+player 21 current hand : 464 793 897 185 970 853 457 612 672 395 336 574 410 25 535 399 635 300 267 871 
+player 21 draws a 131 from deck 21
+player 21 discards a 464 to deck 22
+player 21 current hand : 793 897 185 970 853 457 612 672 395 336 574 410 25 535 399 635 300 267 871 131 
+player 21 draws a 699 from deck 21
+player 21 discards a 793 to deck 22
+player 21 current hand : 897 185 970 853 457 612 672 395 336 574 410 25 535 399 635 300 267 871 131 699 
+player 21 draws a 599 from deck 21
+player 21 discards a 897 to deck 22
+player 21 current hand : 185 970 853 457 612 672 395 336 574 410 25 535 399 635 300 267 871 131 699 599 
+player 21 draws a 498 from deck 21
+player 21 discards a 185 to deck 22
+player 21 current hand : 970 853 457 612 672 395 336 574 410 25 535 399 635 300 267 871 131 699 599 498 
+player 21 draws a 442 from deck 21
+player 21 discards a 970 to deck 22
+player 21 current hand : 853 457 612 672 395 336 574 410 25 535 399 635 300 267 871 131 699 599 498 442 
+player 21 draws a 893 from deck 21
+player 21 discards a 853 to deck 22
+player 21 current hand : 457 612 672 395 336 574 410 25 535 399 635 300 267 871 131 699 599 498 442 893 
+player 21 draws a 498 from deck 21
+player 21 discards a 457 to deck 22
+player 21 current hand : 612 672 395 336 574 410 25 535 399 635 300 267 871 131 699 599 498 442 893 498 
+player 21 draws a 699 from deck 21
+player 21 discards a 612 to deck 22
+player 21 current hand : 672 395 336 574 410 25 535 399 635 300 267 871 131 699 599 498 442 893 498 699 
+player 21 draws a 319 from deck 21
+player 21 discards a 672 to deck 22
+player 21 current hand : 395 336 574 410 25 535 399 635 300 267 871 131 699 599 498 442 893 498 699 319 
+player 21 draws a 39 from deck 21
+player 21 discards a 395 to deck 22
+player 21 current hand : 336 574 410 25 535 399 635 300 267 871 131 699 599 498 442 893 498 699 319 39 
+player 21 draws a 993 from deck 21
+player 21 discards a 336 to deck 22
+player 21 current hand : 574 410 25 535 399 635 300 267 871 131 699 599 498 442 893 498 699 319 39 993 
+player 21 draws a 737 from deck 21
+player 21 discards a 574 to deck 22
+player 21 current hand : 410 25 535 399 635 300 267 871 131 699 599 498 442 893 498 699 319 39 993 737 
+player 21 draws a 24 from deck 21
+player 21 discards a 410 to deck 22
+player 21 current hand : 25 535 399 635 300 267 871 131 699 599 498 442 893 498 699 319 39 993 737 24 
+player 21 draws a 267 from deck 21
+player 21 discards a 25 to deck 22
+player 21 current hand : 535 399 635 300 267 871 131 699 599 498 442 893 498 699 319 39 993 737 24 267 
+player 21 draws a 73 from deck 21
+player 21 discards a 535 to deck 22
+player 21 current hand : 399 635 300 267 871 131 699 599 498 442 893 498 699 319 39 993 737 24 267 73 
+player 21 draws a 97 from deck 21
+player 21 discards a 399 to deck 22
+player 21 current hand : 635 300 267 871 131 699 599 498 442 893 498 699 319 39 993 737 24 267 73 97 
+player 21 draws a 417 from deck 21
+player 21 discards a 635 to deck 22
+player 21 current hand : 300 267 871 131 699 599 498 442 893 498 699 319 39 993 737 24 267 73 97 417 
+player 21 draws a 130 from deck 21
+player 21 discards a 300 to deck 22
+player 21 current hand : 267 871 131 699 599 498 442 893 498 699 319 39 993 737 24 267 73 97 417 130 
+player 21 draws a 328 from deck 21
+player 21 discards a 267 to deck 22
+player 21 current hand : 871 131 699 599 498 442 893 498 699 319 39 993 737 24 267 73 97 417 130 328 
+player 21 draws a 52 from deck 21
+player 21 discards a 871 to deck 22
+player 21 current hand : 131 699 599 498 442 893 498 699 319 39 993 737 24 267 73 97 417 130 328 52 
+player 21 draws a 732 from deck 21
+player 21 discards a 131 to deck 22
+player 21 current hand : 699 599 498 442 893 498 699 319 39 993 737 24 267 73 97 417 130 328 52 732 
+player 21 draws a 326 from deck 21
+player 21 discards a 699 to deck 22
+player 21 current hand : 599 498 442 893 498 699 319 39 993 737 24 267 73 97 417 130 328 52 732 326 
+player 21 draws a 919 from deck 21
+player 21 discards a 599 to deck 22
+player 21 current hand : 498 442 893 498 699 319 39 993 737 24 267 73 97 417 130 328 52 732 326 919 
+player 21 draws a 182 from deck 21
+player 21 discards a 498 to deck 22
+player 21 current hand : 442 893 498 699 319 39 993 737 24 267 73 97 417 130 328 52 732 326 919 182 
+player 21 draws a 49 from deck 21
+player 21 discards a 442 to deck 22
+player 21 current hand : 893 498 699 319 39 993 737 24 267 73 97 417 130 328 52 732 326 919 182 49 
+player 21 draws a 29 from deck 21
+player 21 discards a 893 to deck 22
+player 21 current hand : 498 699 319 39 993 737 24 267 73 97 417 130 328 52 732 326 919 182 49 29 
+player 21 draws a 666 from deck 21
+player 21 discards a 498 to deck 22
+player 21 current hand : 699 319 39 993 737 24 267 73 97 417 130 328 52 732 326 919 182 49 29 666 
+player 21 draws a 631 from deck 21
+player 21 discards a 699 to deck 22
+player 21 current hand : 319 39 993 737 24 267 73 97 417 130 328 52 732 326 919 182 49 29 666 631 
+player 21 draws a 460 from deck 21
+player 21 discards a 319 to deck 22
+player 21 current hand : 39 993 737 24 267 73 97 417 130 328 52 732 326 919 182 49 29 666 631 460 
+player 21 draws a 900 from deck 21
+player 21 discards a 39 to deck 22
+player 21 current hand : 993 737 24 267 73 97 417 130 328 52 732 326 919 182 49 29 666 631 460 900 
+player 21 draws a 42 from deck 21
+player 21 discards a 993 to deck 22
+player 21 current hand : 737 24 267 73 97 417 130 328 52 732 326 919 182 49 29 666 631 460 900 42 
+player 21 draws a 580 from deck 21
+player 21 discards a 737 to deck 22
+player 21 current hand : 24 267 73 97 417 130 328 52 732 326 919 182 49 29 666 631 460 900 42 580 
+player 21 draws a 994 from deck 21
+player 21 discards a 24 to deck 22
+player 21 current hand : 267 73 97 417 130 328 52 732 326 919 182 49 29 666 631 460 900 42 580 994 
+player 21 draws a 973 from deck 21
+player 21 discards a 267 to deck 22
+player 21 current hand : 73 97 417 130 328 52 732 326 919 182 49 29 666 631 460 900 42 580 994 973 
+player 21 draws a 252 from deck 21
+player 21 discards a 73 to deck 22
+player 21 current hand : 97 417 130 328 52 732 326 919 182 49 29 666 631 460 900 42 580 994 973 252 
+player 21 draws a 686 from deck 21
+player 21 discards a 97 to deck 22
+player 21 current hand : 417 130 328 52 732 326 919 182 49 29 666 631 460 900 42 580 994 973 252 686 
+player 21 draws a 238 from deck 21
+player 21 discards a 417 to deck 22
+player 21 current hand : 130 328 52 732 326 919 182 49 29 666 631 460 900 42 580 994 973 252 686 238 
+player 21 draws a 392 from deck 21
+player 21 discards a 130 to deck 22
+player 21 current hand : 328 52 732 326 919 182 49 29 666 631 460 900 42 580 994 973 252 686 238 392 
+player 21 draws a 175 from deck 21
+player 21 discards a 328 to deck 22
+player 21 current hand : 52 732 326 919 182 49 29 666 631 460 900 42 580 994 973 252 686 238 392 175 
+player 21 draws a 397 from deck 21
+player 21 discards a 52 to deck 22
+player 21 current hand : 732 326 919 182 49 29 666 631 460 900 42 580 994 973 252 686 238 392 175 397 
+player 21 draws a 826 from deck 21
+player 21 discards a 732 to deck 22
+player 21 current hand : 326 919 182 49 29 666 631 460 900 42 580 994 973 252 686 238 392 175 397 826 
+player 21 draws a 500 from deck 21
+player 21 discards a 326 to deck 22
+player 21 current hand : 919 182 49 29 666 631 460 900 42 580 994 973 252 686 238 392 175 397 826 500 
+player 21 draws a 991 from deck 21
+player 21 discards a 919 to deck 22
+player 21 current hand : 182 49 29 666 631 460 900 42 580 994 973 252 686 238 392 175 397 826 500 991 
+player 21 draws a 896 from deck 21
+player 21 discards a 182 to deck 22
+player 21 current hand : 49 29 666 631 460 900 42 580 994 973 252 686 238 392 175 397 826 500 991 896 
+player 21 draws a 481 from deck 21
+player 21 discards a 49 to deck 22
+player 21 current hand : 29 666 631 460 900 42 580 994 973 252 686 238 392 175 397 826 500 991 896 481 
+player 21 draws a 107 from deck 21
+player 21 discards a 29 to deck 22
+player 21 current hand : 666 631 460 900 42 580 994 973 252 686 238 392 175 397 826 500 991 896 481 107 
+player 21 draws a 562 from deck 21
+player 21 discards a 666 to deck 22
+player 21 current hand : 631 460 900 42 580 994 973 252 686 238 392 175 397 826 500 991 896 481 107 562 
+player 21 draws a 943 from deck 21
+player 21 discards a 631 to deck 22
+player 21 current hand : 460 900 42 580 994 973 252 686 238 392 175 397 826 500 991 896 481 107 562 943 
+player 21 draws a 787 from deck 21
+player 21 discards a 460 to deck 22
+player 21 current hand : 900 42 580 994 973 252 686 238 392 175 397 826 500 991 896 481 107 562 943 787 
+player 21 draws a 470 from deck 21
+player 21 discards a 900 to deck 22
+player 21 current hand : 42 580 994 973 252 686 238 392 175 397 826 500 991 896 481 107 562 943 787 470 
+player 21 draws a 636 from deck 21
+player 21 discards a 42 to deck 22
+player 21 current hand : 580 994 973 252 686 238 392 175 397 826 500 991 896 481 107 562 943 787 470 636 
+player 21 draws a 787 from deck 21
+player 21 discards a 580 to deck 22
+player 21 current hand : 994 973 252 686 238 392 175 397 826 500 991 896 481 107 562 943 787 470 636 787 
+player 21 draws a 885 from deck 21
+player 21 discards a 994 to deck 22
+player 21 current hand : 973 252 686 238 392 175 397 826 500 991 896 481 107 562 943 787 470 636 787 885 
+player 21 draws a 99 from deck 21
+player 21 discards a 973 to deck 22
+player 21 current hand : 252 686 238 392 175 397 826 500 991 896 481 107 562 943 787 470 636 787 885 99 
+player 21 draws a 618 from deck 21
+player 21 discards a 252 to deck 22
+player 21 current hand : 686 238 392 175 397 826 500 991 896 481 107 562 943 787 470 636 787 885 99 618 
+player 21 draws a 361 from deck 21
+player 21 discards a 686 to deck 22
+player 21 current hand : 238 392 175 397 826 500 991 896 481 107 562 943 787 470 636 787 885 99 618 361 
+player 21 draws a 176 from deck 21
+player 21 discards a 238 to deck 22
+player 21 current hand : 392 175 397 826 500 991 896 481 107 562 943 787 470 636 787 885 99 618 361 176 
+player 21 draws a 343 from deck 21
+player 21 discards a 392 to deck 22
+player 21 current hand : 175 397 826 500 991 896 481 107 562 943 787 470 636 787 885 99 618 361 176 343 
+player 21 draws a 199 from deck 21
+player 21 discards a 175 to deck 22
+player 21 current hand : 397 826 500 991 896 481 107 562 943 787 470 636 787 885 99 618 361 176 343 199 
+player 21 draws a 168 from deck 21
+player 21 discards a 397 to deck 22
+player 21 current hand : 826 500 991 896 481 107 562 943 787 470 636 787 885 99 618 361 176 343 199 168 
+player 21 draws a 467 from deck 21
+player 21 discards a 826 to deck 22
+player 21 current hand : 500 991 896 481 107 562 943 787 470 636 787 885 99 618 361 176 343 199 168 467 
+player 21 draws a 505 from deck 21
+player 21 discards a 500 to deck 22
+player 21 current hand : 991 896 481 107 562 943 787 470 636 787 885 99 618 361 176 343 199 168 467 505 
+player 21 draws a 186 from deck 21
+player 21 discards a 991 to deck 22
+player 21 current hand : 896 481 107 562 943 787 470 636 787 885 99 618 361 176 343 199 168 467 505 186 
+player 21 draws a 374 from deck 21
+player 21 discards a 896 to deck 22
+player 21 current hand : 481 107 562 943 787 470 636 787 885 99 618 361 176 343 199 168 467 505 186 374 
+player 21 draws a 788 from deck 21
+player 21 discards a 481 to deck 22
+player 21 current hand : 107 562 943 787 470 636 787 885 99 618 361 176 343 199 168 467 505 186 374 788 
+player 21 draws a 279 from deck 21
+player 21 discards a 107 to deck 22
+player 21 current hand : 562 943 787 470 636 787 885 99 618 361 176 343 199 168 467 505 186 374 788 279 
+player 21 draws a 152 from deck 21
+player 21 discards a 562 to deck 22
+player 21 current hand : 943 787 470 636 787 885 99 618 361 176 343 199 168 467 505 186 374 788 279 152 
+player 21 draws a 945 from deck 21
+player 21 discards a 943 to deck 22
+player 21 current hand : 787 470 636 787 885 99 618 361 176 343 199 168 467 505 186 374 788 279 152 945 
+player 21 draws a 296 from deck 21
+player 21 discards a 787 to deck 22
+player 21 current hand : 470 636 787 885 99 618 361 176 343 199 168 467 505 186 374 788 279 152 945 296 
+player 21 draws a 330 from deck 21
+player 21 discards a 470 to deck 22
+player 21 current hand : 636 787 885 99 618 361 176 343 199 168 467 505 186 374 788 279 152 945 296 330 
+player 21 draws a 242 from deck 21
+player 21 discards a 636 to deck 22
+player 21 current hand : 787 885 99 618 361 176 343 199 168 467 505 186 374 788 279 152 945 296 330 242 
+player 21 draws a 210 from deck 21
+player 21 discards a 787 to deck 22
+player 21 current hand : 885 99 618 361 176 343 199 168 467 505 186 374 788 279 152 945 296 330 242 210 
+player 21 draws a 161 from deck 21
+player 21 discards a 885 to deck 22
+player 21 current hand : 99 618 361 176 343 199 168 467 505 186 374 788 279 152 945 296 330 242 210 161 
+player 21 draws a 924 from deck 21
+player 21 discards a 99 to deck 22
+player 21 current hand : 618 361 176 343 199 168 467 505 186 374 788 279 152 945 296 330 242 210 161 924 
+player 21 draws a 776 from deck 21
+player 21 discards a 618 to deck 22
+player 21 current hand : 361 176 343 199 168 467 505 186 374 788 279 152 945 296 330 242 210 161 924 776 
+player 21 draws a 672 from deck 21
+player 21 discards a 361 to deck 22
+player 21 current hand : 176 343 199 168 467 505 186 374 788 279 152 945 296 330 242 210 161 924 776 672 
+player 21 draws a 303 from deck 21
+player 21 discards a 176 to deck 22
+player 21 current hand : 343 199 168 467 505 186 374 788 279 152 945 296 330 242 210 161 924 776 672 303 
+player 21 draws a 763 from deck 21
+player 21 discards a 343 to deck 22
+player 21 current hand : 199 168 467 505 186 374 788 279 152 945 296 330 242 210 161 924 776 672 303 763 
+player 21 draws a 738 from deck 21
+player 21 discards a 199 to deck 22
+player 21 current hand : 168 467 505 186 374 788 279 152 945 296 330 242 210 161 924 776 672 303 763 738 
+player 21 draws a 216 from deck 21
+player 21 discards a 168 to deck 22
+player 21 current hand : 467 505 186 374 788 279 152 945 296 330 242 210 161 924 776 672 303 763 738 216 
+player 21 draws a 581 from deck 21
+player 21 discards a 467 to deck 22
+player 21 current hand : 505 186 374 788 279 152 945 296 330 242 210 161 924 776 672 303 763 738 216 581 
+player 21 draws a 540 from deck 21
+player 21 discards a 505 to deck 22
+player 21 current hand : 186 374 788 279 152 945 296 330 242 210 161 924 776 672 303 763 738 216 581 540 
+player 21 draws a 367 from deck 21
+player 21 discards a 186 to deck 22
+player 21 current hand : 374 788 279 152 945 296 330 242 210 161 924 776 672 303 763 738 216 581 540 367 
+player 21 draws a 666 from deck 21
+player 21 discards a 374 to deck 22
+player 21 current hand : 788 279 152 945 296 330 242 210 161 924 776 672 303 763 738 216 581 540 367 666 
+player 21 draws a 49 from deck 21
+player 21 discards a 788 to deck 22
+player 21 current hand : 279 152 945 296 330 242 210 161 924 776 672 303 763 738 216 581 540 367 666 49 
+player 21 draws a 177 from deck 21
+player 21 discards a 279 to deck 22
+player 21 current hand : 152 945 296 330 242 210 161 924 776 672 303 763 738 216 581 540 367 666 49 177 
+player 21 draws a 791 from deck 21
+player 21 discards a 152 to deck 22
+player 21 current hand : 945 296 330 242 210 161 924 776 672 303 763 738 216 581 540 367 666 49 177 791 
+player 21 draws a 734 from deck 21
+player 21 discards a 945 to deck 22
+player 21 current hand : 296 330 242 210 161 924 776 672 303 763 738 216 581 540 367 666 49 177 791 734 
+player 21 draws a 223 from deck 21
+player 21 discards a 296 to deck 22
+player 21 current hand : 330 242 210 161 924 776 672 303 763 738 216 581 540 367 666 49 177 791 734 223 
+player 21 draws a 145 from deck 21
+player 21 discards a 330 to deck 22
+player 21 current hand : 242 210 161 924 776 672 303 763 738 216 581 540 367 666 49 177 791 734 223 145 
+player 21 draws a 988 from deck 21
+player 21 discards a 242 to deck 22
+player 21 current hand : 210 161 924 776 672 303 763 738 216 581 540 367 666 49 177 791 734 223 145 988 
+player 21 draws a 52 from deck 21
+player 21 discards a 210 to deck 22
+player 21 current hand : 161 924 776 672 303 763 738 216 581 540 367 666 49 177 791 734 223 145 988 52 
+player 21 draws a 589 from deck 21
+player 21 discards a 161 to deck 22
+player 21 current hand : 924 776 672 303 763 738 216 581 540 367 666 49 177 791 734 223 145 988 52 589 
+player 21 draws a 530 from deck 21
+player 21 discards a 924 to deck 22
+player 21 current hand : 776 672 303 763 738 216 581 540 367 666 49 177 791 734 223 145 988 52 589 530 
+player 21 draws a 329 from deck 21
+player 21 discards a 776 to deck 22
+player 21 current hand : 672 303 763 738 216 581 540 367 666 49 177 791 734 223 145 988 52 589 530 329 
+player 21 draws a 138 from deck 21
+player 21 discards a 672 to deck 22
+player 21 current hand : 303 763 738 216 581 540 367 666 49 177 791 734 223 145 988 52 589 530 329 138 
+player 21 draws a 216 from deck 21
+player 21 discards a 303 to deck 22
+player 21 current hand : 763 738 216 581 540 367 666 49 177 791 734 223 145 988 52 589 530 329 138 216 
+player 21 draws a 868 from deck 21
+player 21 discards a 763 to deck 22
+player 21 current hand : 738 216 581 540 367 666 49 177 791 734 223 145 988 52 589 530 329 138 216 868 
+player 21 draws a 696 from deck 21
+player 21 discards a 738 to deck 22
+player 21 current hand : 216 581 540 367 666 49 177 791 734 223 145 988 52 589 530 329 138 216 868 696 

@@ -1,0 +1,326 @@
+player 528 initial hand 364 309 991 467 946 1000 355 886 734 717 214 999 667 868 880 865 546 855 875 744 
+player 528 draws a 529 from deck 528
+player 528 discards a 364 to deck 529
+player 528 current hand : 309 991 467 946 1000 355 886 734 717 214 999 667 868 880 865 546 855 875 744 529 
+player 528 draws a 726 from deck 528
+player 528 discards a 309 to deck 529
+player 528 current hand : 991 467 946 1000 355 886 734 717 214 999 667 868 880 865 546 855 875 744 529 726 
+player 528 draws a 83 from deck 528
+player 528 discards a 991 to deck 529
+player 528 current hand : 467 946 1000 355 886 734 717 214 999 667 868 880 865 546 855 875 744 529 726 83 
+player 528 draws a 387 from deck 528
+player 528 discards a 467 to deck 529
+player 528 current hand : 946 1000 355 886 734 717 214 999 667 868 880 865 546 855 875 744 529 726 83 387 
+player 528 draws a 908 from deck 528
+player 528 discards a 946 to deck 529
+player 528 current hand : 1000 355 886 734 717 214 999 667 868 880 865 546 855 875 744 529 726 83 387 908 
+player 528 draws a 923 from deck 528
+player 528 discards a 1000 to deck 529
+player 528 current hand : 355 886 734 717 214 999 667 868 880 865 546 855 875 744 529 726 83 387 908 923 
+player 528 draws a 453 from deck 528
+player 528 discards a 355 to deck 529
+player 528 current hand : 886 734 717 214 999 667 868 880 865 546 855 875 744 529 726 83 387 908 923 453 
+player 528 draws a 768 from deck 528
+player 528 discards a 886 to deck 529
+player 528 current hand : 734 717 214 999 667 868 880 865 546 855 875 744 529 726 83 387 908 923 453 768 
+player 528 draws a 644 from deck 528
+player 528 discards a 734 to deck 529
+player 528 current hand : 717 214 999 667 868 880 865 546 855 875 744 529 726 83 387 908 923 453 768 644 
+player 528 draws a 317 from deck 528
+player 528 discards a 717 to deck 529
+player 528 current hand : 214 999 667 868 880 865 546 855 875 744 529 726 83 387 908 923 453 768 644 317 
+player 528 draws a 799 from deck 528
+player 528 discards a 214 to deck 529
+player 528 current hand : 999 667 868 880 865 546 855 875 744 529 726 83 387 908 923 453 768 644 317 799 
+player 528 draws a 151 from deck 528
+player 528 discards a 999 to deck 529
+player 528 current hand : 667 868 880 865 546 855 875 744 529 726 83 387 908 923 453 768 644 317 799 151 
+player 528 draws a 265 from deck 528
+player 528 discards a 667 to deck 529
+player 528 current hand : 868 880 865 546 855 875 744 529 726 83 387 908 923 453 768 644 317 799 151 265 
+player 528 draws a 744 from deck 528
+player 528 discards a 868 to deck 529
+player 528 current hand : 880 865 546 855 875 744 529 726 83 387 908 923 453 768 644 317 799 151 265 744 
+player 528 draws a 901 from deck 528
+player 528 discards a 880 to deck 529
+player 528 current hand : 865 546 855 875 744 529 726 83 387 908 923 453 768 644 317 799 151 265 744 901 
+player 528 draws a 739 from deck 528
+player 528 discards a 865 to deck 529
+player 528 current hand : 546 855 875 744 529 726 83 387 908 923 453 768 644 317 799 151 265 744 901 739 
+player 528 draws a 96 from deck 528
+player 528 discards a 546 to deck 529
+player 528 current hand : 855 875 744 529 726 83 387 908 923 453 768 644 317 799 151 265 744 901 739 96 
+player 528 draws a 856 from deck 528
+player 528 discards a 855 to deck 529
+player 528 current hand : 875 744 529 726 83 387 908 923 453 768 644 317 799 151 265 744 901 739 96 856 
+player 528 draws a 981 from deck 528
+player 528 discards a 875 to deck 529
+player 528 current hand : 744 529 726 83 387 908 923 453 768 644 317 799 151 265 744 901 739 96 856 981 
+player 528 draws a 507 from deck 528
+player 528 discards a 744 to deck 529
+player 528 current hand : 529 726 83 387 908 923 453 768 644 317 799 151 265 744 901 739 96 856 981 507 
+player 528 draws a 277 from deck 528
+player 528 discards a 529 to deck 529
+player 528 current hand : 726 83 387 908 923 453 768 644 317 799 151 265 744 901 739 96 856 981 507 277 
+player 528 draws a 287 from deck 528
+player 528 discards a 726 to deck 529
+player 528 current hand : 83 387 908 923 453 768 644 317 799 151 265 744 901 739 96 856 981 507 277 287 
+player 528 draws a 138 from deck 528
+player 528 discards a 83 to deck 529
+player 528 current hand : 387 908 923 453 768 644 317 799 151 265 744 901 739 96 856 981 507 277 287 138 
+player 528 draws a 32 from deck 528
+player 528 discards a 387 to deck 529
+player 528 current hand : 908 923 453 768 644 317 799 151 265 744 901 739 96 856 981 507 277 287 138 32 
+player 528 draws a 113 from deck 528
+player 528 discards a 908 to deck 529
+player 528 current hand : 923 453 768 644 317 799 151 265 744 901 739 96 856 981 507 277 287 138 32 113 
+player 528 draws a 988 from deck 528
+player 528 discards a 923 to deck 529
+player 528 current hand : 453 768 644 317 799 151 265 744 901 739 96 856 981 507 277 287 138 32 113 988 
+player 528 draws a 721 from deck 528
+player 528 discards a 453 to deck 529
+player 528 current hand : 768 644 317 799 151 265 744 901 739 96 856 981 507 277 287 138 32 113 988 721 
+player 528 draws a 153 from deck 528
+player 528 discards a 768 to deck 529
+player 528 current hand : 644 317 799 151 265 744 901 739 96 856 981 507 277 287 138 32 113 988 721 153 
+player 528 draws a 509 from deck 528
+player 528 discards a 644 to deck 529
+player 528 current hand : 317 799 151 265 744 901 739 96 856 981 507 277 287 138 32 113 988 721 153 509 
+player 528 draws a 821 from deck 528
+player 528 discards a 317 to deck 529
+player 528 current hand : 799 151 265 744 901 739 96 856 981 507 277 287 138 32 113 988 721 153 509 821 
+player 528 draws a 571 from deck 528
+player 528 discards a 799 to deck 529
+player 528 current hand : 151 265 744 901 739 96 856 981 507 277 287 138 32 113 988 721 153 509 821 571 
+player 528 draws a 636 from deck 528
+player 528 discards a 151 to deck 529
+player 528 current hand : 265 744 901 739 96 856 981 507 277 287 138 32 113 988 721 153 509 821 571 636 
+player 528 draws a 17 from deck 528
+player 528 discards a 265 to deck 529
+player 528 current hand : 744 901 739 96 856 981 507 277 287 138 32 113 988 721 153 509 821 571 636 17 
+player 528 draws a 970 from deck 528
+player 528 discards a 744 to deck 529
+player 528 current hand : 901 739 96 856 981 507 277 287 138 32 113 988 721 153 509 821 571 636 17 970 
+player 528 draws a 515 from deck 528
+player 528 discards a 901 to deck 529
+player 528 current hand : 739 96 856 981 507 277 287 138 32 113 988 721 153 509 821 571 636 17 970 515 
+player 528 draws a 463 from deck 528
+player 528 discards a 739 to deck 529
+player 528 current hand : 96 856 981 507 277 287 138 32 113 988 721 153 509 821 571 636 17 970 515 463 
+player 528 draws a 841 from deck 528
+player 528 discards a 96 to deck 529
+player 528 current hand : 856 981 507 277 287 138 32 113 988 721 153 509 821 571 636 17 970 515 463 841 
+player 528 draws a 769 from deck 528
+player 528 discards a 856 to deck 529
+player 528 current hand : 981 507 277 287 138 32 113 988 721 153 509 821 571 636 17 970 515 463 841 769 
+player 528 draws a 930 from deck 528
+player 528 discards a 981 to deck 529
+player 528 current hand : 507 277 287 138 32 113 988 721 153 509 821 571 636 17 970 515 463 841 769 930 
+player 528 draws a 333 from deck 528
+player 528 discards a 507 to deck 529
+player 528 current hand : 277 287 138 32 113 988 721 153 509 821 571 636 17 970 515 463 841 769 930 333 
+player 528 draws a 184 from deck 528
+player 528 discards a 277 to deck 529
+player 528 current hand : 287 138 32 113 988 721 153 509 821 571 636 17 970 515 463 841 769 930 333 184 
+player 528 draws a 979 from deck 528
+player 528 discards a 287 to deck 529
+player 528 current hand : 138 32 113 988 721 153 509 821 571 636 17 970 515 463 841 769 930 333 184 979 
+player 528 draws a 448 from deck 528
+player 528 discards a 138 to deck 529
+player 528 current hand : 32 113 988 721 153 509 821 571 636 17 970 515 463 841 769 930 333 184 979 448 
+player 528 draws a 865 from deck 528
+player 528 discards a 32 to deck 529
+player 528 current hand : 113 988 721 153 509 821 571 636 17 970 515 463 841 769 930 333 184 979 448 865 
+player 528 draws a 599 from deck 528
+player 528 discards a 113 to deck 529
+player 528 current hand : 988 721 153 509 821 571 636 17 970 515 463 841 769 930 333 184 979 448 865 599 
+player 528 draws a 748 from deck 528
+player 528 discards a 988 to deck 529
+player 528 current hand : 721 153 509 821 571 636 17 970 515 463 841 769 930 333 184 979 448 865 599 748 
+player 528 draws a 603 from deck 528
+player 528 discards a 721 to deck 529
+player 528 current hand : 153 509 821 571 636 17 970 515 463 841 769 930 333 184 979 448 865 599 748 603 
+player 528 draws a 730 from deck 528
+player 528 discards a 153 to deck 529
+player 528 current hand : 509 821 571 636 17 970 515 463 841 769 930 333 184 979 448 865 599 748 603 730 
+player 528 draws a 714 from deck 528
+player 528 discards a 509 to deck 529
+player 528 current hand : 821 571 636 17 970 515 463 841 769 930 333 184 979 448 865 599 748 603 730 714 
+player 528 draws a 633 from deck 528
+player 528 discards a 821 to deck 529
+player 528 current hand : 571 636 17 970 515 463 841 769 930 333 184 979 448 865 599 748 603 730 714 633 
+player 528 draws a 635 from deck 528
+player 528 discards a 571 to deck 529
+player 528 current hand : 636 17 970 515 463 841 769 930 333 184 979 448 865 599 748 603 730 714 633 635 
+player 528 draws a 15 from deck 528
+player 528 discards a 636 to deck 529
+player 528 current hand : 17 970 515 463 841 769 930 333 184 979 448 865 599 748 603 730 714 633 635 15 
+player 528 draws a 691 from deck 528
+player 528 discards a 17 to deck 529
+player 528 current hand : 970 515 463 841 769 930 333 184 979 448 865 599 748 603 730 714 633 635 15 691 
+player 528 draws a 156 from deck 528
+player 528 discards a 970 to deck 529
+player 528 current hand : 515 463 841 769 930 333 184 979 448 865 599 748 603 730 714 633 635 15 691 156 
+player 528 draws a 662 from deck 528
+player 528 discards a 515 to deck 529
+player 528 current hand : 463 841 769 930 333 184 979 448 865 599 748 603 730 714 633 635 15 691 156 662 
+player 528 draws a 411 from deck 528
+player 528 discards a 463 to deck 529
+player 528 current hand : 841 769 930 333 184 979 448 865 599 748 603 730 714 633 635 15 691 156 662 411 
+player 528 draws a 549 from deck 528
+player 528 discards a 841 to deck 529
+player 528 current hand : 769 930 333 184 979 448 865 599 748 603 730 714 633 635 15 691 156 662 411 549 
+player 528 draws a 841 from deck 528
+player 528 discards a 769 to deck 529
+player 528 current hand : 930 333 184 979 448 865 599 748 603 730 714 633 635 15 691 156 662 411 549 841 
+player 528 draws a 77 from deck 528
+player 528 discards a 930 to deck 529
+player 528 current hand : 333 184 979 448 865 599 748 603 730 714 633 635 15 691 156 662 411 549 841 77 
+player 528 draws a 391 from deck 528
+player 528 discards a 333 to deck 529
+player 528 current hand : 184 979 448 865 599 748 603 730 714 633 635 15 691 156 662 411 549 841 77 391 
+player 528 draws a 446 from deck 528
+player 528 discards a 184 to deck 529
+player 528 current hand : 979 448 865 599 748 603 730 714 633 635 15 691 156 662 411 549 841 77 391 446 
+player 528 draws a 867 from deck 528
+player 528 discards a 979 to deck 529
+player 528 current hand : 448 865 599 748 603 730 714 633 635 15 691 156 662 411 549 841 77 391 446 867 
+player 528 draws a 751 from deck 528
+player 528 discards a 448 to deck 529
+player 528 current hand : 865 599 748 603 730 714 633 635 15 691 156 662 411 549 841 77 391 446 867 751 
+player 528 draws a 28 from deck 528
+player 528 discards a 865 to deck 529
+player 528 current hand : 599 748 603 730 714 633 635 15 691 156 662 411 549 841 77 391 446 867 751 28 
+player 528 draws a 516 from deck 528
+player 528 discards a 599 to deck 529
+player 528 current hand : 748 603 730 714 633 635 15 691 156 662 411 549 841 77 391 446 867 751 28 516 
+player 528 draws a 835 from deck 528
+player 528 discards a 748 to deck 529
+player 528 current hand : 603 730 714 633 635 15 691 156 662 411 549 841 77 391 446 867 751 28 516 835 
+player 528 draws a 645 from deck 528
+player 528 discards a 603 to deck 529
+player 528 current hand : 730 714 633 635 15 691 156 662 411 549 841 77 391 446 867 751 28 516 835 645 
+player 528 draws a 754 from deck 528
+player 528 discards a 730 to deck 529
+player 528 current hand : 714 633 635 15 691 156 662 411 549 841 77 391 446 867 751 28 516 835 645 754 
+player 528 draws a 5 from deck 528
+player 528 discards a 714 to deck 529
+player 528 current hand : 633 635 15 691 156 662 411 549 841 77 391 446 867 751 28 516 835 645 754 5 
+player 528 draws a 858 from deck 528
+player 528 discards a 633 to deck 529
+player 528 current hand : 635 15 691 156 662 411 549 841 77 391 446 867 751 28 516 835 645 754 5 858 
+player 528 draws a 711 from deck 528
+player 528 discards a 635 to deck 529
+player 528 current hand : 15 691 156 662 411 549 841 77 391 446 867 751 28 516 835 645 754 5 858 711 
+player 528 draws a 374 from deck 528
+player 528 discards a 15 to deck 529
+player 528 current hand : 691 156 662 411 549 841 77 391 446 867 751 28 516 835 645 754 5 858 711 374 
+player 528 draws a 415 from deck 528
+player 528 discards a 691 to deck 529
+player 528 current hand : 156 662 411 549 841 77 391 446 867 751 28 516 835 645 754 5 858 711 374 415 
+player 528 draws a 443 from deck 528
+player 528 discards a 156 to deck 529
+player 528 current hand : 662 411 549 841 77 391 446 867 751 28 516 835 645 754 5 858 711 374 415 443 
+player 528 draws a 457 from deck 528
+player 528 discards a 662 to deck 529
+player 528 current hand : 411 549 841 77 391 446 867 751 28 516 835 645 754 5 858 711 374 415 443 457 
+player 528 draws a 816 from deck 528
+player 528 discards a 411 to deck 529
+player 528 current hand : 549 841 77 391 446 867 751 28 516 835 645 754 5 858 711 374 415 443 457 816 
+player 528 draws a 794 from deck 528
+player 528 discards a 549 to deck 529
+player 528 current hand : 841 77 391 446 867 751 28 516 835 645 754 5 858 711 374 415 443 457 816 794 
+player 528 draws a 958 from deck 528
+player 528 discards a 841 to deck 529
+player 528 current hand : 77 391 446 867 751 28 516 835 645 754 5 858 711 374 415 443 457 816 794 958 
+player 528 draws a 623 from deck 528
+player 528 discards a 77 to deck 529
+player 528 current hand : 391 446 867 751 28 516 835 645 754 5 858 711 374 415 443 457 816 794 958 623 
+player 528 draws a 647 from deck 528
+player 528 discards a 391 to deck 529
+player 528 current hand : 446 867 751 28 516 835 645 754 5 858 711 374 415 443 457 816 794 958 623 647 
+player 528 draws a 971 from deck 528
+player 528 discards a 446 to deck 529
+player 528 current hand : 867 751 28 516 835 645 754 5 858 711 374 415 443 457 816 794 958 623 647 971 
+player 528 draws a 242 from deck 528
+player 528 discards a 867 to deck 529
+player 528 current hand : 751 28 516 835 645 754 5 858 711 374 415 443 457 816 794 958 623 647 971 242 
+player 528 draws a 179 from deck 528
+player 528 discards a 751 to deck 529
+player 528 current hand : 28 516 835 645 754 5 858 711 374 415 443 457 816 794 958 623 647 971 242 179 
+player 528 draws a 516 from deck 528
+player 528 discards a 28 to deck 529
+player 528 current hand : 516 835 645 754 5 858 711 374 415 443 457 816 794 958 623 647 971 242 179 516 
+player 528 draws a 612 from deck 528
+player 528 discards a 516 to deck 529
+player 528 current hand : 835 645 754 5 858 711 374 415 443 457 816 794 958 623 647 971 242 179 516 612 
+player 528 draws a 669 from deck 528
+player 528 discards a 835 to deck 529
+player 528 current hand : 645 754 5 858 711 374 415 443 457 816 794 958 623 647 971 242 179 516 612 669 
+player 528 draws a 930 from deck 528
+player 528 discards a 645 to deck 529
+player 528 current hand : 754 5 858 711 374 415 443 457 816 794 958 623 647 971 242 179 516 612 669 930 
+player 528 draws a 151 from deck 528
+player 528 discards a 754 to deck 529
+player 528 current hand : 5 858 711 374 415 443 457 816 794 958 623 647 971 242 179 516 612 669 930 151 
+player 528 draws a 515 from deck 528
+player 528 discards a 5 to deck 529
+player 528 current hand : 858 711 374 415 443 457 816 794 958 623 647 971 242 179 516 612 669 930 151 515 
+player 528 draws a 967 from deck 528
+player 528 discards a 858 to deck 529
+player 528 current hand : 711 374 415 443 457 816 794 958 623 647 971 242 179 516 612 669 930 151 515 967 
+player 528 draws a 170 from deck 528
+player 528 discards a 711 to deck 529
+player 528 current hand : 374 415 443 457 816 794 958 623 647 971 242 179 516 612 669 930 151 515 967 170 
+player 528 draws a 825 from deck 528
+player 528 discards a 374 to deck 529
+player 528 current hand : 415 443 457 816 794 958 623 647 971 242 179 516 612 669 930 151 515 967 170 825 
+player 528 draws a 513 from deck 528
+player 528 discards a 415 to deck 529
+player 528 current hand : 443 457 816 794 958 623 647 971 242 179 516 612 669 930 151 515 967 170 825 513 
+player 528 draws a 711 from deck 528
+player 528 discards a 443 to deck 529
+player 528 current hand : 457 816 794 958 623 647 971 242 179 516 612 669 930 151 515 967 170 825 513 711 
+player 528 draws a 457 from deck 528
+player 528 discards a 457 to deck 529
+player 528 current hand : 816 794 958 623 647 971 242 179 516 612 669 930 151 515 967 170 825 513 711 457 
+player 528 draws a 939 from deck 528
+player 528 discards a 816 to deck 529
+player 528 current hand : 794 958 623 647 971 242 179 516 612 669 930 151 515 967 170 825 513 711 457 939 
+player 528 draws a 782 from deck 528
+player 528 discards a 794 to deck 529
+player 528 current hand : 958 623 647 971 242 179 516 612 669 930 151 515 967 170 825 513 711 457 939 782 
+player 528 draws a 720 from deck 528
+player 528 discards a 958 to deck 529
+player 528 current hand : 623 647 971 242 179 516 612 669 930 151 515 967 170 825 513 711 457 939 782 720 
+player 528 draws a 900 from deck 528
+player 528 discards a 623 to deck 529
+player 528 current hand : 647 971 242 179 516 612 669 930 151 515 967 170 825 513 711 457 939 782 720 900 
+player 528 draws a 866 from deck 528
+player 528 discards a 647 to deck 529
+player 528 current hand : 971 242 179 516 612 669 930 151 515 967 170 825 513 711 457 939 782 720 900 866 
+player 528 draws a 68 from deck 528
+player 528 discards a 971 to deck 529
+player 528 current hand : 242 179 516 612 669 930 151 515 967 170 825 513 711 457 939 782 720 900 866 68 
+player 528 draws a 170 from deck 528
+player 528 discards a 242 to deck 529
+player 528 current hand : 179 516 612 669 930 151 515 967 170 825 513 711 457 939 782 720 900 866 68 170 
+player 528 draws a 701 from deck 528
+player 528 discards a 179 to deck 529
+player 528 current hand : 516 612 669 930 151 515 967 170 825 513 711 457 939 782 720 900 866 68 170 701 
+player 528 draws a 188 from deck 528
+player 528 discards a 516 to deck 529
+player 528 current hand : 612 669 930 151 515 967 170 825 513 711 457 939 782 720 900 866 68 170 701 188 
+player 528 draws a 967 from deck 528
+player 528 discards a 612 to deck 529
+player 528 current hand : 669 930 151 515 967 170 825 513 711 457 939 782 720 900 866 68 170 701 188 967 
+player 528 draws a 424 from deck 528
+player 528 discards a 669 to deck 529
+player 528 current hand : 930 151 515 967 170 825 513 711 457 939 782 720 900 866 68 170 701 188 967 424 
+player 528 draws a 161 from deck 528
+player 528 discards a 930 to deck 529
+player 528 current hand : 151 515 967 170 825 513 711 457 939 782 720 900 866 68 170 701 188 967 424 161 
+player 528 draws a 805 from deck 528
+player 528 discards a 151 to deck 529
+player 528 current hand : 515 967 170 825 513 711 457 939 782 720 900 866 68 170 701 188 967 424 161 805 
+player 528 draws a 877 from deck 528

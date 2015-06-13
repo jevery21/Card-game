@@ -1,0 +1,351 @@
+player 781 initial hand 852 189 97 794 668 322 457 949 509 232 255 955 631 920 967 842 18 316 110 81 
+player 781 draws a 458 from deck 781
+player 781 discards a 852 to deck 782
+player 781 current hand : 189 97 794 668 322 457 949 509 232 255 955 631 920 967 842 18 316 110 81 458 
+player 781 draws a 554 from deck 781
+player 781 discards a 189 to deck 782
+player 781 current hand : 97 794 668 322 457 949 509 232 255 955 631 920 967 842 18 316 110 81 458 554 
+player 781 draws a 68 from deck 781
+player 781 discards a 97 to deck 782
+player 781 current hand : 794 668 322 457 949 509 232 255 955 631 920 967 842 18 316 110 81 458 554 68 
+player 781 draws a 696 from deck 781
+player 781 discards a 794 to deck 782
+player 781 current hand : 668 322 457 949 509 232 255 955 631 920 967 842 18 316 110 81 458 554 68 696 
+player 781 draws a 19 from deck 781
+player 781 discards a 668 to deck 782
+player 781 current hand : 322 457 949 509 232 255 955 631 920 967 842 18 316 110 81 458 554 68 696 19 
+player 781 draws a 852 from deck 781
+player 781 discards a 322 to deck 782
+player 781 current hand : 457 949 509 232 255 955 631 920 967 842 18 316 110 81 458 554 68 696 19 852 
+player 781 draws a 737 from deck 781
+player 781 discards a 457 to deck 782
+player 781 current hand : 949 509 232 255 955 631 920 967 842 18 316 110 81 458 554 68 696 19 852 737 
+player 781 draws a 554 from deck 781
+player 781 discards a 949 to deck 782
+player 781 current hand : 509 232 255 955 631 920 967 842 18 316 110 81 458 554 68 696 19 852 737 554 
+player 781 draws a 170 from deck 781
+player 781 discards a 509 to deck 782
+player 781 current hand : 232 255 955 631 920 967 842 18 316 110 81 458 554 68 696 19 852 737 554 170 
+player 781 draws a 972 from deck 781
+player 781 discards a 232 to deck 782
+player 781 current hand : 255 955 631 920 967 842 18 316 110 81 458 554 68 696 19 852 737 554 170 972 
+player 781 draws a 343 from deck 781
+player 781 discards a 255 to deck 782
+player 781 current hand : 955 631 920 967 842 18 316 110 81 458 554 68 696 19 852 737 554 170 972 343 
+player 781 draws a 81 from deck 781
+player 781 discards a 955 to deck 782
+player 781 current hand : 631 920 967 842 18 316 110 81 458 554 68 696 19 852 737 554 170 972 343 81 
+player 781 draws a 127 from deck 781
+player 781 discards a 631 to deck 782
+player 781 current hand : 920 967 842 18 316 110 81 458 554 68 696 19 852 737 554 170 972 343 81 127 
+player 781 draws a 20 from deck 781
+player 781 discards a 920 to deck 782
+player 781 current hand : 967 842 18 316 110 81 458 554 68 696 19 852 737 554 170 972 343 81 127 20 
+player 781 draws a 301 from deck 781
+player 781 discards a 967 to deck 782
+player 781 current hand : 842 18 316 110 81 458 554 68 696 19 852 737 554 170 972 343 81 127 20 301 
+player 781 draws a 742 from deck 781
+player 781 discards a 842 to deck 782
+player 781 current hand : 18 316 110 81 458 554 68 696 19 852 737 554 170 972 343 81 127 20 301 742 
+player 781 draws a 746 from deck 781
+player 781 discards a 18 to deck 782
+player 781 current hand : 316 110 81 458 554 68 696 19 852 737 554 170 972 343 81 127 20 301 742 746 
+player 781 draws a 753 from deck 781
+player 781 discards a 316 to deck 782
+player 781 current hand : 110 81 458 554 68 696 19 852 737 554 170 972 343 81 127 20 301 742 746 753 
+player 781 draws a 339 from deck 781
+player 781 discards a 110 to deck 782
+player 781 current hand : 81 458 554 68 696 19 852 737 554 170 972 343 81 127 20 301 742 746 753 339 
+player 781 draws a 729 from deck 781
+player 781 discards a 81 to deck 782
+player 781 current hand : 458 554 68 696 19 852 737 554 170 972 343 81 127 20 301 742 746 753 339 729 
+player 781 draws a 655 from deck 781
+player 781 discards a 458 to deck 782
+player 781 current hand : 554 68 696 19 852 737 554 170 972 343 81 127 20 301 742 746 753 339 729 655 
+player 781 draws a 478 from deck 781
+player 781 discards a 554 to deck 782
+player 781 current hand : 68 696 19 852 737 554 170 972 343 81 127 20 301 742 746 753 339 729 655 478 
+player 781 draws a 915 from deck 781
+player 781 discards a 68 to deck 782
+player 781 current hand : 696 19 852 737 554 170 972 343 81 127 20 301 742 746 753 339 729 655 478 915 
+player 781 draws a 967 from deck 781
+player 781 discards a 696 to deck 782
+player 781 current hand : 19 852 737 554 170 972 343 81 127 20 301 742 746 753 339 729 655 478 915 967 
+player 781 draws a 18 from deck 781
+player 781 discards a 19 to deck 782
+player 781 current hand : 852 737 554 170 972 343 81 127 20 301 742 746 753 339 729 655 478 915 967 18 
+player 781 draws a 428 from deck 781
+player 781 discards a 852 to deck 782
+player 781 current hand : 737 554 170 972 343 81 127 20 301 742 746 753 339 729 655 478 915 967 18 428 
+player 781 draws a 173 from deck 781
+player 781 discards a 737 to deck 782
+player 781 current hand : 554 170 972 343 81 127 20 301 742 746 753 339 729 655 478 915 967 18 428 173 
+player 781 draws a 581 from deck 781
+player 781 discards a 554 to deck 782
+player 781 current hand : 170 972 343 81 127 20 301 742 746 753 339 729 655 478 915 967 18 428 173 581 
+player 781 draws a 241 from deck 781
+player 781 discards a 170 to deck 782
+player 781 current hand : 972 343 81 127 20 301 742 746 753 339 729 655 478 915 967 18 428 173 581 241 
+player 781 draws a 86 from deck 781
+player 781 discards a 972 to deck 782
+player 781 current hand : 343 81 127 20 301 742 746 753 339 729 655 478 915 967 18 428 173 581 241 86 
+player 781 draws a 91 from deck 781
+player 781 discards a 343 to deck 782
+player 781 current hand : 81 127 20 301 742 746 753 339 729 655 478 915 967 18 428 173 581 241 86 91 
+player 781 draws a 125 from deck 781
+player 781 discards a 81 to deck 782
+player 781 current hand : 127 20 301 742 746 753 339 729 655 478 915 967 18 428 173 581 241 86 91 125 
+player 781 draws a 541 from deck 781
+player 781 discards a 127 to deck 782
+player 781 current hand : 20 301 742 746 753 339 729 655 478 915 967 18 428 173 581 241 86 91 125 541 
+player 781 draws a 841 from deck 781
+player 781 discards a 20 to deck 782
+player 781 current hand : 301 742 746 753 339 729 655 478 915 967 18 428 173 581 241 86 91 125 541 841 
+player 781 draws a 493 from deck 781
+player 781 discards a 301 to deck 782
+player 781 current hand : 742 746 753 339 729 655 478 915 967 18 428 173 581 241 86 91 125 541 841 493 
+player 781 draws a 744 from deck 781
+player 781 discards a 742 to deck 782
+player 781 current hand : 746 753 339 729 655 478 915 967 18 428 173 581 241 86 91 125 541 841 493 744 
+player 781 draws a 415 from deck 781
+player 781 discards a 746 to deck 782
+player 781 current hand : 753 339 729 655 478 915 967 18 428 173 581 241 86 91 125 541 841 493 744 415 
+player 781 draws a 246 from deck 781
+player 781 discards a 753 to deck 782
+player 781 current hand : 339 729 655 478 915 967 18 428 173 581 241 86 91 125 541 841 493 744 415 246 
+player 781 draws a 691 from deck 781
+player 781 discards a 339 to deck 782
+player 781 current hand : 729 655 478 915 967 18 428 173 581 241 86 91 125 541 841 493 744 415 246 691 
+player 781 draws a 834 from deck 781
+player 781 discards a 729 to deck 782
+player 781 current hand : 655 478 915 967 18 428 173 581 241 86 91 125 541 841 493 744 415 246 691 834 
+player 781 draws a 180 from deck 781
+player 781 discards a 655 to deck 782
+player 781 current hand : 478 915 967 18 428 173 581 241 86 91 125 541 841 493 744 415 246 691 834 180 
+player 781 draws a 972 from deck 781
+player 781 discards a 478 to deck 782
+player 781 current hand : 915 967 18 428 173 581 241 86 91 125 541 841 493 744 415 246 691 834 180 972 
+player 781 draws a 262 from deck 781
+player 781 discards a 915 to deck 782
+player 781 current hand : 967 18 428 173 581 241 86 91 125 541 841 493 744 415 246 691 834 180 972 262 
+player 781 draws a 373 from deck 781
+player 781 discards a 967 to deck 782
+player 781 current hand : 18 428 173 581 241 86 91 125 541 841 493 744 415 246 691 834 180 972 262 373 
+player 781 draws a 304 from deck 781
+player 781 discards a 18 to deck 782
+player 781 current hand : 428 173 581 241 86 91 125 541 841 493 744 415 246 691 834 180 972 262 373 304 
+player 781 draws a 863 from deck 781
+player 781 discards a 428 to deck 782
+player 781 current hand : 173 581 241 86 91 125 541 841 493 744 415 246 691 834 180 972 262 373 304 863 
+player 781 draws a 762 from deck 781
+player 781 discards a 173 to deck 782
+player 781 current hand : 581 241 86 91 125 541 841 493 744 415 246 691 834 180 972 262 373 304 863 762 
+player 781 draws a 774 from deck 781
+player 781 discards a 581 to deck 782
+player 781 current hand : 241 86 91 125 541 841 493 744 415 246 691 834 180 972 262 373 304 863 762 774 
+player 781 draws a 989 from deck 781
+player 781 discards a 241 to deck 782
+player 781 current hand : 86 91 125 541 841 493 744 415 246 691 834 180 972 262 373 304 863 762 774 989 
+player 781 draws a 518 from deck 781
+player 781 discards a 86 to deck 782
+player 781 current hand : 91 125 541 841 493 744 415 246 691 834 180 972 262 373 304 863 762 774 989 518 
+player 781 draws a 896 from deck 781
+player 781 discards a 91 to deck 782
+player 781 current hand : 125 541 841 493 744 415 246 691 834 180 972 262 373 304 863 762 774 989 518 896 
+player 781 draws a 608 from deck 781
+player 781 discards a 125 to deck 782
+player 781 current hand : 541 841 493 744 415 246 691 834 180 972 262 373 304 863 762 774 989 518 896 608 
+player 781 draws a 808 from deck 781
+player 781 discards a 541 to deck 782
+player 781 current hand : 841 493 744 415 246 691 834 180 972 262 373 304 863 762 774 989 518 896 608 808 
+player 781 draws a 309 from deck 781
+player 781 discards a 841 to deck 782
+player 781 current hand : 493 744 415 246 691 834 180 972 262 373 304 863 762 774 989 518 896 608 808 309 
+player 781 draws a 608 from deck 781
+player 781 discards a 493 to deck 782
+player 781 current hand : 744 415 246 691 834 180 972 262 373 304 863 762 774 989 518 896 608 808 309 608 
+player 781 draws a 176 from deck 781
+player 781 discards a 744 to deck 782
+player 781 current hand : 415 246 691 834 180 972 262 373 304 863 762 774 989 518 896 608 808 309 608 176 
+player 781 draws a 532 from deck 781
+player 781 discards a 415 to deck 782
+player 781 current hand : 246 691 834 180 972 262 373 304 863 762 774 989 518 896 608 808 309 608 176 532 
+player 781 draws a 595 from deck 781
+player 781 discards a 246 to deck 782
+player 781 current hand : 691 834 180 972 262 373 304 863 762 774 989 518 896 608 808 309 608 176 532 595 
+player 781 draws a 89 from deck 781
+player 781 discards a 691 to deck 782
+player 781 current hand : 834 180 972 262 373 304 863 762 774 989 518 896 608 808 309 608 176 532 595 89 
+player 781 draws a 620 from deck 781
+player 781 discards a 834 to deck 782
+player 781 current hand : 180 972 262 373 304 863 762 774 989 518 896 608 808 309 608 176 532 595 89 620 
+player 781 draws a 473 from deck 781
+player 781 discards a 180 to deck 782
+player 781 current hand : 972 262 373 304 863 762 774 989 518 896 608 808 309 608 176 532 595 89 620 473 
+player 781 draws a 686 from deck 781
+player 781 discards a 972 to deck 782
+player 781 current hand : 262 373 304 863 762 774 989 518 896 608 808 309 608 176 532 595 89 620 473 686 
+player 781 draws a 164 from deck 781
+player 781 discards a 262 to deck 782
+player 781 current hand : 373 304 863 762 774 989 518 896 608 808 309 608 176 532 595 89 620 473 686 164 
+player 781 draws a 103 from deck 781
+player 781 discards a 373 to deck 782
+player 781 current hand : 304 863 762 774 989 518 896 608 808 309 608 176 532 595 89 620 473 686 164 103 
+player 781 draws a 931 from deck 781
+player 781 discards a 304 to deck 782
+player 781 current hand : 863 762 774 989 518 896 608 808 309 608 176 532 595 89 620 473 686 164 103 931 
+player 781 draws a 252 from deck 781
+player 781 discards a 863 to deck 782
+player 781 current hand : 762 774 989 518 896 608 808 309 608 176 532 595 89 620 473 686 164 103 931 252 
+player 781 draws a 970 from deck 781
+player 781 discards a 762 to deck 782
+player 781 current hand : 774 989 518 896 608 808 309 608 176 532 595 89 620 473 686 164 103 931 252 970 
+player 781 draws a 355 from deck 781
+player 781 discards a 774 to deck 782
+player 781 current hand : 989 518 896 608 808 309 608 176 532 595 89 620 473 686 164 103 931 252 970 355 
+player 781 draws a 864 from deck 781
+player 781 discards a 989 to deck 782
+player 781 current hand : 518 896 608 808 309 608 176 532 595 89 620 473 686 164 103 931 252 970 355 864 
+player 781 draws a 248 from deck 781
+player 781 discards a 518 to deck 782
+player 781 current hand : 896 608 808 309 608 176 532 595 89 620 473 686 164 103 931 252 970 355 864 248 
+player 781 draws a 999 from deck 781
+player 781 discards a 896 to deck 782
+player 781 current hand : 608 808 309 608 176 532 595 89 620 473 686 164 103 931 252 970 355 864 248 999 
+player 781 draws a 861 from deck 781
+player 781 discards a 608 to deck 782
+player 781 current hand : 808 309 608 176 532 595 89 620 473 686 164 103 931 252 970 355 864 248 999 861 
+player 781 draws a 500 from deck 781
+player 781 discards a 808 to deck 782
+player 781 current hand : 309 608 176 532 595 89 620 473 686 164 103 931 252 970 355 864 248 999 861 500 
+player 781 draws a 512 from deck 781
+player 781 discards a 309 to deck 782
+player 781 current hand : 608 176 532 595 89 620 473 686 164 103 931 252 970 355 864 248 999 861 500 512 
+player 781 draws a 103 from deck 781
+player 781 discards a 608 to deck 782
+player 781 current hand : 176 532 595 89 620 473 686 164 103 931 252 970 355 864 248 999 861 500 512 103 
+player 781 draws a 601 from deck 781
+player 781 discards a 176 to deck 782
+player 781 current hand : 532 595 89 620 473 686 164 103 931 252 970 355 864 248 999 861 500 512 103 601 
+player 781 draws a 340 from deck 781
+player 781 discards a 532 to deck 782
+player 781 current hand : 595 89 620 473 686 164 103 931 252 970 355 864 248 999 861 500 512 103 601 340 
+player 781 draws a 472 from deck 781
+player 781 discards a 595 to deck 782
+player 781 current hand : 89 620 473 686 164 103 931 252 970 355 864 248 999 861 500 512 103 601 340 472 
+player 781 draws a 681 from deck 781
+player 781 discards a 89 to deck 782
+player 781 current hand : 620 473 686 164 103 931 252 970 355 864 248 999 861 500 512 103 601 340 472 681 
+player 781 draws a 741 from deck 781
+player 781 discards a 620 to deck 782
+player 781 current hand : 473 686 164 103 931 252 970 355 864 248 999 861 500 512 103 601 340 472 681 741 
+player 781 draws a 241 from deck 781
+player 781 discards a 473 to deck 782
+player 781 current hand : 686 164 103 931 252 970 355 864 248 999 861 500 512 103 601 340 472 681 741 241 
+player 781 draws a 778 from deck 781
+player 781 discards a 686 to deck 782
+player 781 current hand : 164 103 931 252 970 355 864 248 999 861 500 512 103 601 340 472 681 741 241 778 
+player 781 draws a 833 from deck 781
+player 781 discards a 164 to deck 782
+player 781 current hand : 103 931 252 970 355 864 248 999 861 500 512 103 601 340 472 681 741 241 778 833 
+player 781 draws a 494 from deck 781
+player 781 discards a 103 to deck 782
+player 781 current hand : 931 252 970 355 864 248 999 861 500 512 103 601 340 472 681 741 241 778 833 494 
+player 781 draws a 510 from deck 781
+player 781 discards a 931 to deck 782
+player 781 current hand : 252 970 355 864 248 999 861 500 512 103 601 340 472 681 741 241 778 833 494 510 
+player 781 draws a 241 from deck 781
+player 781 discards a 252 to deck 782
+player 781 current hand : 970 355 864 248 999 861 500 512 103 601 340 472 681 741 241 778 833 494 510 241 
+player 781 draws a 361 from deck 781
+player 781 discards a 970 to deck 782
+player 781 current hand : 355 864 248 999 861 500 512 103 601 340 472 681 741 241 778 833 494 510 241 361 
+player 781 draws a 33 from deck 781
+player 781 discards a 355 to deck 782
+player 781 current hand : 864 248 999 861 500 512 103 601 340 472 681 741 241 778 833 494 510 241 361 33 
+player 781 draws a 536 from deck 781
+player 781 discards a 864 to deck 782
+player 781 current hand : 248 999 861 500 512 103 601 340 472 681 741 241 778 833 494 510 241 361 33 536 
+player 781 draws a 456 from deck 781
+player 781 discards a 248 to deck 782
+player 781 current hand : 999 861 500 512 103 601 340 472 681 741 241 778 833 494 510 241 361 33 536 456 
+player 781 draws a 805 from deck 781
+player 781 discards a 999 to deck 782
+player 781 current hand : 861 500 512 103 601 340 472 681 741 241 778 833 494 510 241 361 33 536 456 805 
+player 781 draws a 116 from deck 781
+player 781 discards a 861 to deck 782
+player 781 current hand : 500 512 103 601 340 472 681 741 241 778 833 494 510 241 361 33 536 456 805 116 
+player 781 draws a 257 from deck 781
+player 781 discards a 500 to deck 782
+player 781 current hand : 512 103 601 340 472 681 741 241 778 833 494 510 241 361 33 536 456 805 116 257 
+player 781 draws a 399 from deck 781
+player 781 discards a 512 to deck 782
+player 781 current hand : 103 601 340 472 681 741 241 778 833 494 510 241 361 33 536 456 805 116 257 399 
+player 781 draws a 177 from deck 781
+player 781 discards a 103 to deck 782
+player 781 current hand : 601 340 472 681 741 241 778 833 494 510 241 361 33 536 456 805 116 257 399 177 
+player 781 draws a 979 from deck 781
+player 781 discards a 601 to deck 782
+player 781 current hand : 340 472 681 741 241 778 833 494 510 241 361 33 536 456 805 116 257 399 177 979 
+player 781 draws a 773 from deck 781
+player 781 discards a 340 to deck 782
+player 781 current hand : 472 681 741 241 778 833 494 510 241 361 33 536 456 805 116 257 399 177 979 773 
+player 781 draws a 834 from deck 781
+player 781 discards a 472 to deck 782
+player 781 current hand : 681 741 241 778 833 494 510 241 361 33 536 456 805 116 257 399 177 979 773 834 
+player 781 draws a 887 from deck 781
+player 781 discards a 681 to deck 782
+player 781 current hand : 741 241 778 833 494 510 241 361 33 536 456 805 116 257 399 177 979 773 834 887 
+player 781 draws a 966 from deck 781
+player 781 discards a 741 to deck 782
+player 781 current hand : 241 778 833 494 510 241 361 33 536 456 805 116 257 399 177 979 773 834 887 966 
+player 781 draws a 912 from deck 781
+player 781 discards a 241 to deck 782
+player 781 current hand : 778 833 494 510 241 361 33 536 456 805 116 257 399 177 979 773 834 887 966 912 
+player 781 draws a 791 from deck 781
+player 781 discards a 778 to deck 782
+player 781 current hand : 833 494 510 241 361 33 536 456 805 116 257 399 177 979 773 834 887 966 912 791 
+player 781 draws a 913 from deck 781
+player 781 discards a 833 to deck 782
+player 781 current hand : 494 510 241 361 33 536 456 805 116 257 399 177 979 773 834 887 966 912 791 913 
+player 781 draws a 328 from deck 781
+player 781 discards a 494 to deck 782
+player 781 current hand : 510 241 361 33 536 456 805 116 257 399 177 979 773 834 887 966 912 791 913 328 
+player 781 draws a 49 from deck 781
+player 781 discards a 510 to deck 782
+player 781 current hand : 241 361 33 536 456 805 116 257 399 177 979 773 834 887 966 912 791 913 328 49 
+player 781 draws a 758 from deck 781
+player 781 discards a 241 to deck 782
+player 781 current hand : 361 33 536 456 805 116 257 399 177 979 773 834 887 966 912 791 913 328 49 758 
+player 781 draws a 159 from deck 781
+player 781 discards a 361 to deck 782
+player 781 current hand : 33 536 456 805 116 257 399 177 979 773 834 887 966 912 791 913 328 49 758 159 
+player 781 draws a 508 from deck 781
+player 781 discards a 33 to deck 782
+player 781 current hand : 536 456 805 116 257 399 177 979 773 834 887 966 912 791 913 328 49 758 159 508 
+player 781 draws a 666 from deck 781
+player 781 discards a 536 to deck 782
+player 781 current hand : 456 805 116 257 399 177 979 773 834 887 966 912 791 913 328 49 758 159 508 666 
+player 781 draws a 274 from deck 781
+player 781 discards a 456 to deck 782
+player 781 current hand : 805 116 257 399 177 979 773 834 887 966 912 791 913 328 49 758 159 508 666 274 
+player 781 draws a 85 from deck 781
+player 781 discards a 805 to deck 782
+player 781 current hand : 116 257 399 177 979 773 834 887 966 912 791 913 328 49 758 159 508 666 274 85 
+player 781 draws a 546 from deck 781
+player 781 discards a 116 to deck 782
+player 781 current hand : 257 399 177 979 773 834 887 966 912 791 913 328 49 758 159 508 666 274 85 546 
+player 781 draws a 688 from deck 781
+player 781 discards a 257 to deck 782
+player 781 current hand : 399 177 979 773 834 887 966 912 791 913 328 49 758 159 508 666 274 85 546 688 
+player 781 draws a 13 from deck 781
+player 781 discards a 399 to deck 782
+player 781 current hand : 177 979 773 834 887 966 912 791 913 328 49 758 159 508 666 274 85 546 688 13 
+player 781 draws a 817 from deck 781
+player 781 discards a 177 to deck 782
+player 781 current hand : 979 773 834 887 966 912 791 913 328 49 758 159 508 666 274 85 546 688 13 817 
+player 781 draws a 827 from deck 781
+player 781 discards a 979 to deck 782
+player 781 current hand : 773 834 887 966 912 791 913 328 49 758 159 508 666 274 85 546 688 13 817 827 
+player 781 draws a 750 from deck 781
+player 781 discards a 773 to deck 782

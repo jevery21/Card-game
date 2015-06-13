@@ -1,0 +1,300 @@
+player 938 initial hand 400 217 549 285 285 248 532 402 327 612 164 767 502 185 480 391 620 711 862 386 
+player 938 draws a 814 from deck 938
+player 938 discards a 400 to deck 939
+player 938 current hand : 217 549 285 285 248 532 402 327 612 164 767 502 185 480 391 620 711 862 386 814 
+player 938 draws a 885 from deck 938
+player 938 discards a 217 to deck 939
+player 938 current hand : 549 285 285 248 532 402 327 612 164 767 502 185 480 391 620 711 862 386 814 885 
+player 938 draws a 233 from deck 938
+player 938 discards a 549 to deck 939
+player 938 current hand : 285 285 248 532 402 327 612 164 767 502 185 480 391 620 711 862 386 814 885 233 
+player 938 draws a 426 from deck 938
+player 938 discards a 285 to deck 939
+player 938 current hand : 285 248 532 402 327 612 164 767 502 185 480 391 620 711 862 386 814 885 233 426 
+player 938 draws a 766 from deck 938
+player 938 discards a 285 to deck 939
+player 938 current hand : 248 532 402 327 612 164 767 502 185 480 391 620 711 862 386 814 885 233 426 766 
+player 938 draws a 728 from deck 938
+player 938 discards a 248 to deck 939
+player 938 current hand : 532 402 327 612 164 767 502 185 480 391 620 711 862 386 814 885 233 426 766 728 
+player 938 draws a 926 from deck 938
+player 938 discards a 532 to deck 939
+player 938 current hand : 402 327 612 164 767 502 185 480 391 620 711 862 386 814 885 233 426 766 728 926 
+player 938 draws a 822 from deck 938
+player 938 discards a 402 to deck 939
+player 938 current hand : 327 612 164 767 502 185 480 391 620 711 862 386 814 885 233 426 766 728 926 822 
+player 938 draws a 508 from deck 938
+player 938 discards a 327 to deck 939
+player 938 current hand : 612 164 767 502 185 480 391 620 711 862 386 814 885 233 426 766 728 926 822 508 
+player 938 draws a 385 from deck 938
+player 938 discards a 612 to deck 939
+player 938 current hand : 164 767 502 185 480 391 620 711 862 386 814 885 233 426 766 728 926 822 508 385 
+player 938 draws a 217 from deck 938
+player 938 discards a 164 to deck 939
+player 938 current hand : 767 502 185 480 391 620 711 862 386 814 885 233 426 766 728 926 822 508 385 217 
+player 938 draws a 105 from deck 938
+player 938 discards a 767 to deck 939
+player 938 current hand : 502 185 480 391 620 711 862 386 814 885 233 426 766 728 926 822 508 385 217 105 
+player 938 draws a 279 from deck 938
+player 938 discards a 502 to deck 939
+player 938 current hand : 185 480 391 620 711 862 386 814 885 233 426 766 728 926 822 508 385 217 105 279 
+player 938 draws a 750 from deck 938
+player 938 discards a 185 to deck 939
+player 938 current hand : 480 391 620 711 862 386 814 885 233 426 766 728 926 822 508 385 217 105 279 750 
+player 938 draws a 77 from deck 938
+player 938 discards a 480 to deck 939
+player 938 current hand : 391 620 711 862 386 814 885 233 426 766 728 926 822 508 385 217 105 279 750 77 
+player 938 draws a 906 from deck 938
+player 938 discards a 391 to deck 939
+player 938 current hand : 620 711 862 386 814 885 233 426 766 728 926 822 508 385 217 105 279 750 77 906 
+player 938 draws a 294 from deck 938
+player 938 discards a 620 to deck 939
+player 938 current hand : 711 862 386 814 885 233 426 766 728 926 822 508 385 217 105 279 750 77 906 294 
+player 938 draws a 118 from deck 938
+player 938 discards a 711 to deck 939
+player 938 current hand : 862 386 814 885 233 426 766 728 926 822 508 385 217 105 279 750 77 906 294 118 
+player 938 draws a 724 from deck 938
+player 938 discards a 862 to deck 939
+player 938 current hand : 386 814 885 233 426 766 728 926 822 508 385 217 105 279 750 77 906 294 118 724 
+player 938 draws a 351 from deck 938
+player 938 discards a 386 to deck 939
+player 938 current hand : 814 885 233 426 766 728 926 822 508 385 217 105 279 750 77 906 294 118 724 351 
+player 938 draws a 270 from deck 938
+player 938 discards a 814 to deck 939
+player 938 current hand : 885 233 426 766 728 926 822 508 385 217 105 279 750 77 906 294 118 724 351 270 
+player 938 draws a 255 from deck 938
+player 938 discards a 885 to deck 939
+player 938 current hand : 233 426 766 728 926 822 508 385 217 105 279 750 77 906 294 118 724 351 270 255 
+player 938 draws a 115 from deck 938
+player 938 discards a 233 to deck 939
+player 938 current hand : 426 766 728 926 822 508 385 217 105 279 750 77 906 294 118 724 351 270 255 115 
+player 938 draws a 117 from deck 938
+player 938 discards a 426 to deck 939
+player 938 current hand : 766 728 926 822 508 385 217 105 279 750 77 906 294 118 724 351 270 255 115 117 
+player 938 draws a 732 from deck 938
+player 938 discards a 766 to deck 939
+player 938 current hand : 728 926 822 508 385 217 105 279 750 77 906 294 118 724 351 270 255 115 117 732 
+player 938 draws a 537 from deck 938
+player 938 discards a 728 to deck 939
+player 938 current hand : 926 822 508 385 217 105 279 750 77 906 294 118 724 351 270 255 115 117 732 537 
+player 938 draws a 81 from deck 938
+player 938 discards a 926 to deck 939
+player 938 current hand : 822 508 385 217 105 279 750 77 906 294 118 724 351 270 255 115 117 732 537 81 
+player 938 draws a 933 from deck 938
+player 938 discards a 822 to deck 939
+player 938 current hand : 508 385 217 105 279 750 77 906 294 118 724 351 270 255 115 117 732 537 81 933 
+player 938 draws a 233 from deck 938
+player 938 discards a 508 to deck 939
+player 938 current hand : 385 217 105 279 750 77 906 294 118 724 351 270 255 115 117 732 537 81 933 233 
+player 938 draws a 36 from deck 938
+player 938 discards a 385 to deck 939
+player 938 current hand : 217 105 279 750 77 906 294 118 724 351 270 255 115 117 732 537 81 933 233 36 
+player 938 draws a 163 from deck 938
+player 938 discards a 217 to deck 939
+player 938 current hand : 105 279 750 77 906 294 118 724 351 270 255 115 117 732 537 81 933 233 36 163 
+player 938 draws a 555 from deck 938
+player 938 discards a 105 to deck 939
+player 938 current hand : 279 750 77 906 294 118 724 351 270 255 115 117 732 537 81 933 233 36 163 555 
+player 938 draws a 657 from deck 938
+player 938 discards a 279 to deck 939
+player 938 current hand : 750 77 906 294 118 724 351 270 255 115 117 732 537 81 933 233 36 163 555 657 
+player 938 draws a 732 from deck 938
+player 938 discards a 750 to deck 939
+player 938 current hand : 77 906 294 118 724 351 270 255 115 117 732 537 81 933 233 36 163 555 657 732 
+player 938 draws a 971 from deck 938
+player 938 discards a 77 to deck 939
+player 938 current hand : 906 294 118 724 351 270 255 115 117 732 537 81 933 233 36 163 555 657 732 971 
+player 938 draws a 408 from deck 938
+player 938 discards a 906 to deck 939
+player 938 current hand : 294 118 724 351 270 255 115 117 732 537 81 933 233 36 163 555 657 732 971 408 
+player 938 draws a 691 from deck 938
+player 938 discards a 294 to deck 939
+player 938 current hand : 118 724 351 270 255 115 117 732 537 81 933 233 36 163 555 657 732 971 408 691 
+player 938 draws a 826 from deck 938
+player 938 discards a 118 to deck 939
+player 938 current hand : 724 351 270 255 115 117 732 537 81 933 233 36 163 555 657 732 971 408 691 826 
+player 938 draws a 630 from deck 938
+player 938 discards a 724 to deck 939
+player 938 current hand : 351 270 255 115 117 732 537 81 933 233 36 163 555 657 732 971 408 691 826 630 
+player 938 draws a 618 from deck 938
+player 938 discards a 351 to deck 939
+player 938 current hand : 270 255 115 117 732 537 81 933 233 36 163 555 657 732 971 408 691 826 630 618 
+player 938 draws a 954 from deck 938
+player 938 discards a 270 to deck 939
+player 938 current hand : 255 115 117 732 537 81 933 233 36 163 555 657 732 971 408 691 826 630 618 954 
+player 938 draws a 988 from deck 938
+player 938 discards a 255 to deck 939
+player 938 current hand : 115 117 732 537 81 933 233 36 163 555 657 732 971 408 691 826 630 618 954 988 
+player 938 draws a 571 from deck 938
+player 938 discards a 115 to deck 939
+player 938 current hand : 117 732 537 81 933 233 36 163 555 657 732 971 408 691 826 630 618 954 988 571 
+player 938 draws a 179 from deck 938
+player 938 discards a 117 to deck 939
+player 938 current hand : 732 537 81 933 233 36 163 555 657 732 971 408 691 826 630 618 954 988 571 179 
+player 938 draws a 111 from deck 938
+player 938 discards a 732 to deck 939
+player 938 current hand : 537 81 933 233 36 163 555 657 732 971 408 691 826 630 618 954 988 571 179 111 
+player 938 draws a 51 from deck 938
+player 938 discards a 537 to deck 939
+player 938 current hand : 81 933 233 36 163 555 657 732 971 408 691 826 630 618 954 988 571 179 111 51 
+player 938 draws a 118 from deck 938
+player 938 discards a 81 to deck 939
+player 938 current hand : 933 233 36 163 555 657 732 971 408 691 826 630 618 954 988 571 179 111 51 118 
+player 938 draws a 251 from deck 938
+player 938 discards a 933 to deck 939
+player 938 current hand : 233 36 163 555 657 732 971 408 691 826 630 618 954 988 571 179 111 51 118 251 
+player 938 draws a 233 from deck 938
+player 938 discards a 233 to deck 939
+player 938 current hand : 36 163 555 657 732 971 408 691 826 630 618 954 988 571 179 111 51 118 251 233 
+player 938 draws a 351 from deck 938
+player 938 discards a 36 to deck 939
+player 938 current hand : 163 555 657 732 971 408 691 826 630 618 954 988 571 179 111 51 118 251 233 351 
+player 938 draws a 14 from deck 938
+player 938 discards a 163 to deck 939
+player 938 current hand : 555 657 732 971 408 691 826 630 618 954 988 571 179 111 51 118 251 233 351 14 
+player 938 draws a 86 from deck 938
+player 938 discards a 555 to deck 939
+player 938 current hand : 657 732 971 408 691 826 630 618 954 988 571 179 111 51 118 251 233 351 14 86 
+player 938 draws a 751 from deck 938
+player 938 discards a 657 to deck 939
+player 938 current hand : 732 971 408 691 826 630 618 954 988 571 179 111 51 118 251 233 351 14 86 751 
+player 938 draws a 621 from deck 938
+player 938 discards a 732 to deck 939
+player 938 current hand : 971 408 691 826 630 618 954 988 571 179 111 51 118 251 233 351 14 86 751 621 
+player 938 draws a 153 from deck 938
+player 938 discards a 971 to deck 939
+player 938 current hand : 408 691 826 630 618 954 988 571 179 111 51 118 251 233 351 14 86 751 621 153 
+player 938 draws a 9 from deck 938
+player 938 discards a 408 to deck 939
+player 938 current hand : 691 826 630 618 954 988 571 179 111 51 118 251 233 351 14 86 751 621 153 9 
+player 938 draws a 320 from deck 938
+player 938 discards a 691 to deck 939
+player 938 current hand : 826 630 618 954 988 571 179 111 51 118 251 233 351 14 86 751 621 153 9 320 
+player 938 draws a 947 from deck 938
+player 938 discards a 826 to deck 939
+player 938 current hand : 630 618 954 988 571 179 111 51 118 251 233 351 14 86 751 621 153 9 320 947 
+player 938 draws a 83 from deck 938
+player 938 discards a 630 to deck 939
+player 938 current hand : 618 954 988 571 179 111 51 118 251 233 351 14 86 751 621 153 9 320 947 83 
+player 938 draws a 513 from deck 938
+player 938 discards a 618 to deck 939
+player 938 current hand : 954 988 571 179 111 51 118 251 233 351 14 86 751 621 153 9 320 947 83 513 
+player 938 draws a 446 from deck 938
+player 938 discards a 954 to deck 939
+player 938 current hand : 988 571 179 111 51 118 251 233 351 14 86 751 621 153 9 320 947 83 513 446 
+player 938 draws a 598 from deck 938
+player 938 discards a 988 to deck 939
+player 938 current hand : 571 179 111 51 118 251 233 351 14 86 751 621 153 9 320 947 83 513 446 598 
+player 938 draws a 601 from deck 938
+player 938 discards a 571 to deck 939
+player 938 current hand : 179 111 51 118 251 233 351 14 86 751 621 153 9 320 947 83 513 446 598 601 
+player 938 draws a 746 from deck 938
+player 938 discards a 179 to deck 939
+player 938 current hand : 111 51 118 251 233 351 14 86 751 621 153 9 320 947 83 513 446 598 601 746 
+player 938 draws a 721 from deck 938
+player 938 discards a 111 to deck 939
+player 938 current hand : 51 118 251 233 351 14 86 751 621 153 9 320 947 83 513 446 598 601 746 721 
+player 938 draws a 500 from deck 938
+player 938 discards a 51 to deck 939
+player 938 current hand : 118 251 233 351 14 86 751 621 153 9 320 947 83 513 446 598 601 746 721 500 
+player 938 draws a 48 from deck 938
+player 938 discards a 118 to deck 939
+player 938 current hand : 251 233 351 14 86 751 621 153 9 320 947 83 513 446 598 601 746 721 500 48 
+player 938 draws a 45 from deck 938
+player 938 discards a 251 to deck 939
+player 938 current hand : 233 351 14 86 751 621 153 9 320 947 83 513 446 598 601 746 721 500 48 45 
+player 938 draws a 652 from deck 938
+player 938 discards a 233 to deck 939
+player 938 current hand : 351 14 86 751 621 153 9 320 947 83 513 446 598 601 746 721 500 48 45 652 
+player 938 draws a 847 from deck 938
+player 938 discards a 351 to deck 939
+player 938 current hand : 14 86 751 621 153 9 320 947 83 513 446 598 601 746 721 500 48 45 652 847 
+player 938 draws a 618 from deck 938
+player 938 discards a 14 to deck 939
+player 938 current hand : 86 751 621 153 9 320 947 83 513 446 598 601 746 721 500 48 45 652 847 618 
+player 938 draws a 579 from deck 938
+player 938 discards a 86 to deck 939
+player 938 current hand : 751 621 153 9 320 947 83 513 446 598 601 746 721 500 48 45 652 847 618 579 
+player 938 draws a 124 from deck 938
+player 938 discards a 751 to deck 939
+player 938 current hand : 621 153 9 320 947 83 513 446 598 601 746 721 500 48 45 652 847 618 579 124 
+player 938 draws a 51 from deck 938
+player 938 discards a 621 to deck 939
+player 938 current hand : 153 9 320 947 83 513 446 598 601 746 721 500 48 45 652 847 618 579 124 51 
+player 938 draws a 475 from deck 938
+player 938 discards a 153 to deck 939
+player 938 current hand : 9 320 947 83 513 446 598 601 746 721 500 48 45 652 847 618 579 124 51 475 
+player 938 draws a 96 from deck 938
+player 938 discards a 9 to deck 939
+player 938 current hand : 320 947 83 513 446 598 601 746 721 500 48 45 652 847 618 579 124 51 475 96 
+player 938 draws a 927 from deck 938
+player 938 discards a 320 to deck 939
+player 938 current hand : 947 83 513 446 598 601 746 721 500 48 45 652 847 618 579 124 51 475 96 927 
+player 938 draws a 210 from deck 938
+player 938 discards a 947 to deck 939
+player 938 current hand : 83 513 446 598 601 746 721 500 48 45 652 847 618 579 124 51 475 96 927 210 
+player 938 draws a 883 from deck 938
+player 938 discards a 83 to deck 939
+player 938 current hand : 513 446 598 601 746 721 500 48 45 652 847 618 579 124 51 475 96 927 210 883 
+player 938 draws a 272 from deck 938
+player 938 discards a 513 to deck 939
+player 938 current hand : 446 598 601 746 721 500 48 45 652 847 618 579 124 51 475 96 927 210 883 272 
+player 938 draws a 899 from deck 938
+player 938 discards a 446 to deck 939
+player 938 current hand : 598 601 746 721 500 48 45 652 847 618 579 124 51 475 96 927 210 883 272 899 
+player 938 draws a 314 from deck 938
+player 938 discards a 598 to deck 939
+player 938 current hand : 601 746 721 500 48 45 652 847 618 579 124 51 475 96 927 210 883 272 899 314 
+player 938 draws a 595 from deck 938
+player 938 discards a 601 to deck 939
+player 938 current hand : 746 721 500 48 45 652 847 618 579 124 51 475 96 927 210 883 272 899 314 595 
+player 938 draws a 800 from deck 938
+player 938 discards a 746 to deck 939
+player 938 current hand : 721 500 48 45 652 847 618 579 124 51 475 96 927 210 883 272 899 314 595 800 
+player 938 draws a 645 from deck 938
+player 938 discards a 721 to deck 939
+player 938 current hand : 500 48 45 652 847 618 579 124 51 475 96 927 210 883 272 899 314 595 800 645 
+player 938 draws a 644 from deck 938
+player 938 discards a 500 to deck 939
+player 938 current hand : 48 45 652 847 618 579 124 51 475 96 927 210 883 272 899 314 595 800 645 644 
+player 938 draws a 507 from deck 938
+player 938 discards a 48 to deck 939
+player 938 current hand : 45 652 847 618 579 124 51 475 96 927 210 883 272 899 314 595 800 645 644 507 
+player 938 draws a 481 from deck 938
+player 938 discards a 45 to deck 939
+player 938 current hand : 652 847 618 579 124 51 475 96 927 210 883 272 899 314 595 800 645 644 507 481 
+player 938 draws a 455 from deck 938
+player 938 discards a 652 to deck 939
+player 938 current hand : 847 618 579 124 51 475 96 927 210 883 272 899 314 595 800 645 644 507 481 455 
+player 938 draws a 685 from deck 938
+player 938 discards a 847 to deck 939
+player 938 current hand : 618 579 124 51 475 96 927 210 883 272 899 314 595 800 645 644 507 481 455 685 
+player 938 draws a 449 from deck 938
+player 938 discards a 618 to deck 939
+player 938 current hand : 579 124 51 475 96 927 210 883 272 899 314 595 800 645 644 507 481 455 685 449 
+player 938 draws a 979 from deck 938
+player 938 discards a 579 to deck 939
+player 938 current hand : 124 51 475 96 927 210 883 272 899 314 595 800 645 644 507 481 455 685 449 979 
+player 938 draws a 102 from deck 938
+player 938 discards a 124 to deck 939
+player 938 current hand : 51 475 96 927 210 883 272 899 314 595 800 645 644 507 481 455 685 449 979 102 
+player 938 draws a 776 from deck 938
+player 938 discards a 51 to deck 939
+player 938 current hand : 475 96 927 210 883 272 899 314 595 800 645 644 507 481 455 685 449 979 102 776 
+player 938 draws a 54 from deck 938
+player 938 discards a 475 to deck 939
+player 938 current hand : 96 927 210 883 272 899 314 595 800 645 644 507 481 455 685 449 979 102 776 54 
+player 938 draws a 395 from deck 938
+player 938 discards a 96 to deck 939
+player 938 current hand : 927 210 883 272 899 314 595 800 645 644 507 481 455 685 449 979 102 776 54 395 
+player 938 draws a 228 from deck 938
+player 938 discards a 927 to deck 939
+player 938 current hand : 210 883 272 899 314 595 800 645 644 507 481 455 685 449 979 102 776 54 395 228 
+player 938 draws a 161 from deck 938
+player 938 discards a 210 to deck 939
+player 938 current hand : 883 272 899 314 595 800 645 644 507 481 455 685 449 979 102 776 54 395 228 161 
+player 938 draws a 100 from deck 938
+player 938 discards a 883 to deck 939
+player 938 current hand : 272 899 314 595 800 645 644 507 481 455 685 449 979 102 776 54 395 228 161 100 
+player 938 draws a 231 from deck 938
+player 938 discards a 272 to deck 939

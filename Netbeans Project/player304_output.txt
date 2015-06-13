@@ -1,0 +1,325 @@
+player 304 initial hand 440 159 717 529 513 137 939 522 847 851 635 455 6 842 768 350 726 143 572 171 
+player 304 draws a 568 from deck 304
+player 304 discards a 440 to deck 305
+player 304 current hand : 159 717 529 513 137 939 522 847 851 635 455 6 842 768 350 726 143 572 171 568 
+player 304 draws a 902 from deck 304
+player 304 discards a 159 to deck 305
+player 304 current hand : 717 529 513 137 939 522 847 851 635 455 6 842 768 350 726 143 572 171 568 902 
+player 304 draws a 411 from deck 304
+player 304 discards a 717 to deck 305
+player 304 current hand : 529 513 137 939 522 847 851 635 455 6 842 768 350 726 143 572 171 568 902 411 
+player 304 draws a 988 from deck 304
+player 304 discards a 529 to deck 305
+player 304 current hand : 513 137 939 522 847 851 635 455 6 842 768 350 726 143 572 171 568 902 411 988 
+player 304 draws a 163 from deck 304
+player 304 discards a 513 to deck 305
+player 304 current hand : 137 939 522 847 851 635 455 6 842 768 350 726 143 572 171 568 902 411 988 163 
+player 304 draws a 499 from deck 304
+player 304 discards a 137 to deck 305
+player 304 current hand : 939 522 847 851 635 455 6 842 768 350 726 143 572 171 568 902 411 988 163 499 
+player 304 draws a 267 from deck 304
+player 304 discards a 939 to deck 305
+player 304 current hand : 522 847 851 635 455 6 842 768 350 726 143 572 171 568 902 411 988 163 499 267 
+player 304 draws a 991 from deck 304
+player 304 discards a 522 to deck 305
+player 304 current hand : 847 851 635 455 6 842 768 350 726 143 572 171 568 902 411 988 163 499 267 991 
+player 304 draws a 659 from deck 304
+player 304 discards a 847 to deck 305
+player 304 current hand : 851 635 455 6 842 768 350 726 143 572 171 568 902 411 988 163 499 267 991 659 
+player 304 draws a 80 from deck 304
+player 304 discards a 851 to deck 305
+player 304 current hand : 635 455 6 842 768 350 726 143 572 171 568 902 411 988 163 499 267 991 659 80 
+player 304 draws a 180 from deck 304
+player 304 discards a 635 to deck 305
+player 304 current hand : 455 6 842 768 350 726 143 572 171 568 902 411 988 163 499 267 991 659 80 180 
+player 304 draws a 608 from deck 304
+player 304 discards a 455 to deck 305
+player 304 current hand : 6 842 768 350 726 143 572 171 568 902 411 988 163 499 267 991 659 80 180 608 
+player 304 draws a 255 from deck 304
+player 304 discards a 6 to deck 305
+player 304 current hand : 842 768 350 726 143 572 171 568 902 411 988 163 499 267 991 659 80 180 608 255 
+player 304 draws a 44 from deck 304
+player 304 discards a 842 to deck 305
+player 304 current hand : 768 350 726 143 572 171 568 902 411 988 163 499 267 991 659 80 180 608 255 44 
+player 304 draws a 73 from deck 304
+player 304 discards a 768 to deck 305
+player 304 current hand : 350 726 143 572 171 568 902 411 988 163 499 267 991 659 80 180 608 255 44 73 
+player 304 draws a 692 from deck 304
+player 304 discards a 350 to deck 305
+player 304 current hand : 726 143 572 171 568 902 411 988 163 499 267 991 659 80 180 608 255 44 73 692 
+player 304 draws a 415 from deck 304
+player 304 discards a 726 to deck 305
+player 304 current hand : 143 572 171 568 902 411 988 163 499 267 991 659 80 180 608 255 44 73 692 415 
+player 304 draws a 290 from deck 304
+player 304 discards a 143 to deck 305
+player 304 current hand : 572 171 568 902 411 988 163 499 267 991 659 80 180 608 255 44 73 692 415 290 
+player 304 draws a 797 from deck 304
+player 304 discards a 572 to deck 305
+player 304 current hand : 171 568 902 411 988 163 499 267 991 659 80 180 608 255 44 73 692 415 290 797 
+player 304 draws a 55 from deck 304
+player 304 discards a 171 to deck 305
+player 304 current hand : 568 902 411 988 163 499 267 991 659 80 180 608 255 44 73 692 415 290 797 55 
+player 304 draws a 981 from deck 304
+player 304 discards a 568 to deck 305
+player 304 current hand : 902 411 988 163 499 267 991 659 80 180 608 255 44 73 692 415 290 797 55 981 
+player 304 draws a 204 from deck 304
+player 304 discards a 902 to deck 305
+player 304 current hand : 411 988 163 499 267 991 659 80 180 608 255 44 73 692 415 290 797 55 981 204 
+player 304 draws a 319 from deck 304
+player 304 discards a 411 to deck 305
+player 304 current hand : 988 163 499 267 991 659 80 180 608 255 44 73 692 415 290 797 55 981 204 319 
+player 304 draws a 740 from deck 304
+player 304 discards a 988 to deck 305
+player 304 current hand : 163 499 267 991 659 80 180 608 255 44 73 692 415 290 797 55 981 204 319 740 
+player 304 draws a 33 from deck 304
+player 304 discards a 163 to deck 305
+player 304 current hand : 499 267 991 659 80 180 608 255 44 73 692 415 290 797 55 981 204 319 740 33 
+player 304 draws a 483 from deck 304
+player 304 discards a 499 to deck 305
+player 304 current hand : 267 991 659 80 180 608 255 44 73 692 415 290 797 55 981 204 319 740 33 483 
+player 304 draws a 508 from deck 304
+player 304 discards a 267 to deck 305
+player 304 current hand : 991 659 80 180 608 255 44 73 692 415 290 797 55 981 204 319 740 33 483 508 
+player 304 draws a 797 from deck 304
+player 304 discards a 991 to deck 305
+player 304 current hand : 659 80 180 608 255 44 73 692 415 290 797 55 981 204 319 740 33 483 508 797 
+player 304 draws a 340 from deck 304
+player 304 discards a 659 to deck 305
+player 304 current hand : 80 180 608 255 44 73 692 415 290 797 55 981 204 319 740 33 483 508 797 340 
+player 304 draws a 774 from deck 304
+player 304 discards a 80 to deck 305
+player 304 current hand : 180 608 255 44 73 692 415 290 797 55 981 204 319 740 33 483 508 797 340 774 
+player 304 draws a 307 from deck 304
+player 304 discards a 180 to deck 305
+player 304 current hand : 608 255 44 73 692 415 290 797 55 981 204 319 740 33 483 508 797 340 774 307 
+player 304 draws a 899 from deck 304
+player 304 discards a 608 to deck 305
+player 304 current hand : 255 44 73 692 415 290 797 55 981 204 319 740 33 483 508 797 340 774 307 899 
+player 304 draws a 330 from deck 304
+player 304 discards a 255 to deck 305
+player 304 current hand : 44 73 692 415 290 797 55 981 204 319 740 33 483 508 797 340 774 307 899 330 
+player 304 draws a 898 from deck 304
+player 304 discards a 44 to deck 305
+player 304 current hand : 73 692 415 290 797 55 981 204 319 740 33 483 508 797 340 774 307 899 330 898 
+player 304 draws a 796 from deck 304
+player 304 discards a 73 to deck 305
+player 304 current hand : 692 415 290 797 55 981 204 319 740 33 483 508 797 340 774 307 899 330 898 796 
+player 304 draws a 593 from deck 304
+player 304 discards a 692 to deck 305
+player 304 current hand : 415 290 797 55 981 204 319 740 33 483 508 797 340 774 307 899 330 898 796 593 
+player 304 draws a 102 from deck 304
+player 304 discards a 415 to deck 305
+player 304 current hand : 290 797 55 981 204 319 740 33 483 508 797 340 774 307 899 330 898 796 593 102 
+player 304 draws a 14 from deck 304
+player 304 discards a 290 to deck 305
+player 304 current hand : 797 55 981 204 319 740 33 483 508 797 340 774 307 899 330 898 796 593 102 14 
+player 304 draws a 979 from deck 304
+player 304 discards a 797 to deck 305
+player 304 current hand : 55 981 204 319 740 33 483 508 797 340 774 307 899 330 898 796 593 102 14 979 
+player 304 draws a 36 from deck 304
+player 304 discards a 55 to deck 305
+player 304 current hand : 981 204 319 740 33 483 508 797 340 774 307 899 330 898 796 593 102 14 979 36 
+player 304 draws a 474 from deck 304
+player 304 discards a 981 to deck 305
+player 304 current hand : 204 319 740 33 483 508 797 340 774 307 899 330 898 796 593 102 14 979 36 474 
+player 304 draws a 372 from deck 304
+player 304 discards a 204 to deck 305
+player 304 current hand : 319 740 33 483 508 797 340 774 307 899 330 898 796 593 102 14 979 36 474 372 
+player 304 draws a 922 from deck 304
+player 304 discards a 319 to deck 305
+player 304 current hand : 740 33 483 508 797 340 774 307 899 330 898 796 593 102 14 979 36 474 372 922 
+player 304 draws a 153 from deck 304
+player 304 discards a 740 to deck 305
+player 304 current hand : 33 483 508 797 340 774 307 899 330 898 796 593 102 14 979 36 474 372 922 153 
+player 304 draws a 142 from deck 304
+player 304 discards a 33 to deck 305
+player 304 current hand : 483 508 797 340 774 307 899 330 898 796 593 102 14 979 36 474 372 922 153 142 
+player 304 draws a 20 from deck 304
+player 304 discards a 483 to deck 305
+player 304 current hand : 508 797 340 774 307 899 330 898 796 593 102 14 979 36 474 372 922 153 142 20 
+player 304 draws a 779 from deck 304
+player 304 discards a 508 to deck 305
+player 304 current hand : 797 340 774 307 899 330 898 796 593 102 14 979 36 474 372 922 153 142 20 779 
+player 304 draws a 586 from deck 304
+player 304 discards a 797 to deck 305
+player 304 current hand : 340 774 307 899 330 898 796 593 102 14 979 36 474 372 922 153 142 20 779 586 
+player 304 draws a 11 from deck 304
+player 304 discards a 340 to deck 305
+player 304 current hand : 774 307 899 330 898 796 593 102 14 979 36 474 372 922 153 142 20 779 586 11 
+player 304 draws a 647 from deck 304
+player 304 discards a 774 to deck 305
+player 304 current hand : 307 899 330 898 796 593 102 14 979 36 474 372 922 153 142 20 779 586 11 647 
+player 304 draws a 265 from deck 304
+player 304 discards a 307 to deck 305
+player 304 current hand : 899 330 898 796 593 102 14 979 36 474 372 922 153 142 20 779 586 11 647 265 
+player 304 draws a 268 from deck 304
+player 304 discards a 899 to deck 305
+player 304 current hand : 330 898 796 593 102 14 979 36 474 372 922 153 142 20 779 586 11 647 265 268 
+player 304 draws a 805 from deck 304
+player 304 discards a 330 to deck 305
+player 304 current hand : 898 796 593 102 14 979 36 474 372 922 153 142 20 779 586 11 647 265 268 805 
+player 304 draws a 272 from deck 304
+player 304 discards a 898 to deck 305
+player 304 current hand : 796 593 102 14 979 36 474 372 922 153 142 20 779 586 11 647 265 268 805 272 
+player 304 draws a 163 from deck 304
+player 304 discards a 796 to deck 305
+player 304 current hand : 593 102 14 979 36 474 372 922 153 142 20 779 586 11 647 265 268 805 272 163 
+player 304 draws a 393 from deck 304
+player 304 discards a 593 to deck 305
+player 304 current hand : 102 14 979 36 474 372 922 153 142 20 779 586 11 647 265 268 805 272 163 393 
+player 304 draws a 864 from deck 304
+player 304 discards a 102 to deck 305
+player 304 current hand : 14 979 36 474 372 922 153 142 20 779 586 11 647 265 268 805 272 163 393 864 
+player 304 draws a 515 from deck 304
+player 304 discards a 14 to deck 305
+player 304 current hand : 979 36 474 372 922 153 142 20 779 586 11 647 265 268 805 272 163 393 864 515 
+player 304 draws a 13 from deck 304
+player 304 discards a 979 to deck 305
+player 304 current hand : 36 474 372 922 153 142 20 779 586 11 647 265 268 805 272 163 393 864 515 13 
+player 304 draws a 653 from deck 304
+player 304 discards a 36 to deck 305
+player 304 current hand : 474 372 922 153 142 20 779 586 11 647 265 268 805 272 163 393 864 515 13 653 
+player 304 draws a 494 from deck 304
+player 304 discards a 474 to deck 305
+player 304 current hand : 372 922 153 142 20 779 586 11 647 265 268 805 272 163 393 864 515 13 653 494 
+player 304 draws a 983 from deck 304
+player 304 discards a 372 to deck 305
+player 304 current hand : 922 153 142 20 779 586 11 647 265 268 805 272 163 393 864 515 13 653 494 983 
+player 304 draws a 788 from deck 304
+player 304 discards a 922 to deck 305
+player 304 current hand : 153 142 20 779 586 11 647 265 268 805 272 163 393 864 515 13 653 494 983 788 
+player 304 draws a 612 from deck 304
+player 304 discards a 153 to deck 305
+player 304 current hand : 142 20 779 586 11 647 265 268 805 272 163 393 864 515 13 653 494 983 788 612 
+player 304 draws a 5 from deck 304
+player 304 discards a 142 to deck 305
+player 304 current hand : 20 779 586 11 647 265 268 805 272 163 393 864 515 13 653 494 983 788 612 5 
+player 304 draws a 849 from deck 304
+player 304 discards a 20 to deck 305
+player 304 current hand : 779 586 11 647 265 268 805 272 163 393 864 515 13 653 494 983 788 612 5 849 
+player 304 draws a 926 from deck 304
+player 304 discards a 779 to deck 305
+player 304 current hand : 586 11 647 265 268 805 272 163 393 864 515 13 653 494 983 788 612 5 849 926 
+player 304 draws a 753 from deck 304
+player 304 discards a 586 to deck 305
+player 304 current hand : 11 647 265 268 805 272 163 393 864 515 13 653 494 983 788 612 5 849 926 753 
+player 304 draws a 328 from deck 304
+player 304 discards a 11 to deck 305
+player 304 current hand : 647 265 268 805 272 163 393 864 515 13 653 494 983 788 612 5 849 926 753 328 
+player 304 draws a 293 from deck 304
+player 304 discards a 647 to deck 305
+player 304 current hand : 265 268 805 272 163 393 864 515 13 653 494 983 788 612 5 849 926 753 328 293 
+player 304 draws a 483 from deck 304
+player 304 discards a 265 to deck 305
+player 304 current hand : 268 805 272 163 393 864 515 13 653 494 983 788 612 5 849 926 753 328 293 483 
+player 304 draws a 933 from deck 304
+player 304 discards a 268 to deck 305
+player 304 current hand : 805 272 163 393 864 515 13 653 494 983 788 612 5 849 926 753 328 293 483 933 
+player 304 draws a 457 from deck 304
+player 304 discards a 805 to deck 305
+player 304 current hand : 272 163 393 864 515 13 653 494 983 788 612 5 849 926 753 328 293 483 933 457 
+player 304 draws a 57 from deck 304
+player 304 discards a 272 to deck 305
+player 304 current hand : 163 393 864 515 13 653 494 983 788 612 5 849 926 753 328 293 483 933 457 57 
+player 304 draws a 740 from deck 304
+player 304 discards a 163 to deck 305
+player 304 current hand : 393 864 515 13 653 494 983 788 612 5 849 926 753 328 293 483 933 457 57 740 
+player 304 draws a 618 from deck 304
+player 304 discards a 393 to deck 305
+player 304 current hand : 864 515 13 653 494 983 788 612 5 849 926 753 328 293 483 933 457 57 740 618 
+player 304 draws a 101 from deck 304
+player 304 discards a 864 to deck 305
+player 304 current hand : 515 13 653 494 983 788 612 5 849 926 753 328 293 483 933 457 57 740 618 101 
+player 304 draws a 393 from deck 304
+player 304 discards a 515 to deck 305
+player 304 current hand : 13 653 494 983 788 612 5 849 926 753 328 293 483 933 457 57 740 618 101 393 
+player 304 draws a 115 from deck 304
+player 304 discards a 13 to deck 305
+player 304 current hand : 653 494 983 788 612 5 849 926 753 328 293 483 933 457 57 740 618 101 393 115 
+player 304 draws a 586 from deck 304
+player 304 discards a 653 to deck 305
+player 304 current hand : 494 983 788 612 5 849 926 753 328 293 483 933 457 57 740 618 101 393 115 586 
+player 304 draws a 787 from deck 304
+player 304 discards a 494 to deck 305
+player 304 current hand : 983 788 612 5 849 926 753 328 293 483 933 457 57 740 618 101 393 115 586 787 
+player 304 draws a 144 from deck 304
+player 304 discards a 983 to deck 305
+player 304 current hand : 788 612 5 849 926 753 328 293 483 933 457 57 740 618 101 393 115 586 787 144 
+player 304 draws a 100 from deck 304
+player 304 discards a 788 to deck 305
+player 304 current hand : 612 5 849 926 753 328 293 483 933 457 57 740 618 101 393 115 586 787 144 100 
+player 304 draws a 71 from deck 304
+player 304 discards a 612 to deck 305
+player 304 current hand : 5 849 926 753 328 293 483 933 457 57 740 618 101 393 115 586 787 144 100 71 
+player 304 draws a 507 from deck 304
+player 304 discards a 5 to deck 305
+player 304 current hand : 849 926 753 328 293 483 933 457 57 740 618 101 393 115 586 787 144 100 71 507 
+player 304 draws a 676 from deck 304
+player 304 discards a 849 to deck 305
+player 304 current hand : 926 753 328 293 483 933 457 57 740 618 101 393 115 586 787 144 100 71 507 676 
+player 304 draws a 833 from deck 304
+player 304 discards a 926 to deck 305
+player 304 current hand : 753 328 293 483 933 457 57 740 618 101 393 115 586 787 144 100 71 507 676 833 
+player 304 draws a 143 from deck 304
+player 304 discards a 753 to deck 305
+player 304 current hand : 328 293 483 933 457 57 740 618 101 393 115 586 787 144 100 71 507 676 833 143 
+player 304 draws a 899 from deck 304
+player 304 discards a 328 to deck 305
+player 304 current hand : 293 483 933 457 57 740 618 101 393 115 586 787 144 100 71 507 676 833 143 899 
+player 304 draws a 626 from deck 304
+player 304 discards a 293 to deck 305
+player 304 current hand : 483 933 457 57 740 618 101 393 115 586 787 144 100 71 507 676 833 143 899 626 
+player 304 draws a 946 from deck 304
+player 304 discards a 483 to deck 305
+player 304 current hand : 933 457 57 740 618 101 393 115 586 787 144 100 71 507 676 833 143 899 626 946 
+player 304 draws a 447 from deck 304
+player 304 discards a 933 to deck 305
+player 304 current hand : 457 57 740 618 101 393 115 586 787 144 100 71 507 676 833 143 899 626 946 447 
+player 304 draws a 991 from deck 304
+player 304 discards a 457 to deck 305
+player 304 current hand : 57 740 618 101 393 115 586 787 144 100 71 507 676 833 143 899 626 946 447 991 
+player 304 draws a 66 from deck 304
+player 304 discards a 57 to deck 305
+player 304 current hand : 740 618 101 393 115 586 787 144 100 71 507 676 833 143 899 626 946 447 991 66 
+player 304 draws a 605 from deck 304
+player 304 discards a 740 to deck 305
+player 304 current hand : 618 101 393 115 586 787 144 100 71 507 676 833 143 899 626 946 447 991 66 605 
+player 304 draws a 852 from deck 304
+player 304 discards a 618 to deck 305
+player 304 current hand : 101 393 115 586 787 144 100 71 507 676 833 143 899 626 946 447 991 66 605 852 
+player 304 draws a 664 from deck 304
+player 304 discards a 101 to deck 305
+player 304 current hand : 393 115 586 787 144 100 71 507 676 833 143 899 626 946 447 991 66 605 852 664 
+player 304 draws a 229 from deck 304
+player 304 discards a 393 to deck 305
+player 304 current hand : 115 586 787 144 100 71 507 676 833 143 899 626 946 447 991 66 605 852 664 229 
+player 304 draws a 971 from deck 304
+player 304 discards a 115 to deck 305
+player 304 current hand : 586 787 144 100 71 507 676 833 143 899 626 946 447 991 66 605 852 664 229 971 
+player 304 draws a 782 from deck 304
+player 304 discards a 586 to deck 305
+player 304 current hand : 787 144 100 71 507 676 833 143 899 626 946 447 991 66 605 852 664 229 971 782 
+player 304 draws a 164 from deck 304
+player 304 discards a 787 to deck 305
+player 304 current hand : 144 100 71 507 676 833 143 899 626 946 447 991 66 605 852 664 229 971 782 164 
+player 304 draws a 647 from deck 304
+player 304 discards a 144 to deck 305
+player 304 current hand : 100 71 507 676 833 143 899 626 946 447 991 66 605 852 664 229 971 782 164 647 
+player 304 draws a 152 from deck 304
+player 304 discards a 100 to deck 305
+player 304 current hand : 71 507 676 833 143 899 626 946 447 991 66 605 852 664 229 971 782 164 647 152 
+player 304 draws a 499 from deck 304
+player 304 discards a 71 to deck 305
+player 304 current hand : 507 676 833 143 899 626 946 447 991 66 605 852 664 229 971 782 164 647 152 499 
+player 304 draws a 300 from deck 304
+player 304 discards a 507 to deck 305
+player 304 current hand : 676 833 143 899 626 946 447 991 66 605 852 664 229 971 782 164 647 152 499 300 
+player 304 draws a 673 from deck 304
+player 304 discards a 676 to deck 305
+player 304 current hand : 833 143 899 626 946 447 991 66 605 852 664 229 971 782 164 647 152 499 300 673 
+player 304 draws a 405 from deck 304
+player 304 discards a 833 to deck 305
+player 304 current hand : 143 899 626 946 447 991 66 605 852 664 229 971 782 164 647 152 499 300 673 405 
+player 304 draws a 729 from deck 304
+player 304 discards a 143 to deck 305
+player 304 current hand : 899 626 946 447 991 66 605 852 664 229 971 782 164 647 152 499 300 673 405 729 

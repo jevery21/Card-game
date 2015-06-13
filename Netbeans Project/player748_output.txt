@@ -1,0 +1,308 @@
+player 748 initial hand 729 186 93 634 83 824 375 199 954 405 173 31 768 931 239 13 750 481 791 723 
+player 748 draws a 426 from deck 748
+player 748 discards a 729 to deck 749
+player 748 current hand : 186 93 634 83 824 375 199 954 405 173 31 768 931 239 13 750 481 791 723 426 
+player 748 draws a 639 from deck 748
+player 748 discards a 186 to deck 749
+player 748 current hand : 93 634 83 824 375 199 954 405 173 31 768 931 239 13 750 481 791 723 426 639 
+player 748 draws a 152 from deck 748
+player 748 discards a 93 to deck 749
+player 748 current hand : 634 83 824 375 199 954 405 173 31 768 931 239 13 750 481 791 723 426 639 152 
+player 748 draws a 80 from deck 748
+player 748 discards a 634 to deck 749
+player 748 current hand : 83 824 375 199 954 405 173 31 768 931 239 13 750 481 791 723 426 639 152 80 
+player 748 draws a 514 from deck 748
+player 748 discards a 83 to deck 749
+player 748 current hand : 824 375 199 954 405 173 31 768 931 239 13 750 481 791 723 426 639 152 80 514 
+player 748 draws a 104 from deck 748
+player 748 discards a 824 to deck 749
+player 748 current hand : 375 199 954 405 173 31 768 931 239 13 750 481 791 723 426 639 152 80 514 104 
+player 748 draws a 575 from deck 748
+player 748 discards a 375 to deck 749
+player 748 current hand : 199 954 405 173 31 768 931 239 13 750 481 791 723 426 639 152 80 514 104 575 
+player 748 draws a 571 from deck 748
+player 748 discards a 199 to deck 749
+player 748 current hand : 954 405 173 31 768 931 239 13 750 481 791 723 426 639 152 80 514 104 575 571 
+player 748 draws a 810 from deck 748
+player 748 discards a 954 to deck 749
+player 748 current hand : 405 173 31 768 931 239 13 750 481 791 723 426 639 152 80 514 104 575 571 810 
+player 748 draws a 804 from deck 748
+player 748 discards a 405 to deck 749
+player 748 current hand : 173 31 768 931 239 13 750 481 791 723 426 639 152 80 514 104 575 571 810 804 
+player 748 draws a 10 from deck 748
+player 748 discards a 173 to deck 749
+player 748 current hand : 31 768 931 239 13 750 481 791 723 426 639 152 80 514 104 575 571 810 804 10 
+player 748 draws a 9 from deck 748
+player 748 discards a 31 to deck 749
+player 748 current hand : 768 931 239 13 750 481 791 723 426 639 152 80 514 104 575 571 810 804 10 9 
+player 748 draws a 986 from deck 748
+player 748 discards a 768 to deck 749
+player 748 current hand : 931 239 13 750 481 791 723 426 639 152 80 514 104 575 571 810 804 10 9 986 
+player 748 draws a 691 from deck 748
+player 748 discards a 931 to deck 749
+player 748 current hand : 239 13 750 481 791 723 426 639 152 80 514 104 575 571 810 804 10 9 986 691 
+player 748 draws a 919 from deck 748
+player 748 discards a 239 to deck 749
+player 748 current hand : 13 750 481 791 723 426 639 152 80 514 104 575 571 810 804 10 9 986 691 919 
+player 748 draws a 944 from deck 748
+player 748 discards a 13 to deck 749
+player 748 current hand : 750 481 791 723 426 639 152 80 514 104 575 571 810 804 10 9 986 691 919 944 
+player 748 draws a 391 from deck 748
+player 748 discards a 750 to deck 749
+player 748 current hand : 481 791 723 426 639 152 80 514 104 575 571 810 804 10 9 986 691 919 944 391 
+player 748 draws a 466 from deck 748
+player 748 discards a 481 to deck 749
+player 748 current hand : 791 723 426 639 152 80 514 104 575 571 810 804 10 9 986 691 919 944 391 466 
+player 748 draws a 822 from deck 748
+player 748 discards a 791 to deck 749
+player 748 current hand : 723 426 639 152 80 514 104 575 571 810 804 10 9 986 691 919 944 391 466 822 
+player 748 draws a 232 from deck 748
+player 748 discards a 723 to deck 749
+player 748 current hand : 426 639 152 80 514 104 575 571 810 804 10 9 986 691 919 944 391 466 822 232 
+player 748 draws a 943 from deck 748
+player 748 discards a 426 to deck 749
+player 748 current hand : 639 152 80 514 104 575 571 810 804 10 9 986 691 919 944 391 466 822 232 943 
+player 748 draws a 32 from deck 748
+player 748 discards a 639 to deck 749
+player 748 current hand : 152 80 514 104 575 571 810 804 10 9 986 691 919 944 391 466 822 232 943 32 
+player 748 draws a 28 from deck 748
+player 748 discards a 152 to deck 749
+player 748 current hand : 80 514 104 575 571 810 804 10 9 986 691 919 944 391 466 822 232 943 32 28 
+player 748 draws a 659 from deck 748
+player 748 discards a 80 to deck 749
+player 748 current hand : 514 104 575 571 810 804 10 9 986 691 919 944 391 466 822 232 943 32 28 659 
+player 748 draws a 403 from deck 748
+player 748 discards a 514 to deck 749
+player 748 current hand : 104 575 571 810 804 10 9 986 691 919 944 391 466 822 232 943 32 28 659 403 
+player 748 draws a 442 from deck 748
+player 748 discards a 104 to deck 749
+player 748 current hand : 575 571 810 804 10 9 986 691 919 944 391 466 822 232 943 32 28 659 403 442 
+player 748 draws a 29 from deck 748
+player 748 discards a 575 to deck 749
+player 748 current hand : 571 810 804 10 9 986 691 919 944 391 466 822 232 943 32 28 659 403 442 29 
+player 748 draws a 378 from deck 748
+player 748 discards a 571 to deck 749
+player 748 current hand : 810 804 10 9 986 691 919 944 391 466 822 232 943 32 28 659 403 442 29 378 
+player 748 draws a 18 from deck 748
+player 748 discards a 810 to deck 749
+player 748 current hand : 804 10 9 986 691 919 944 391 466 822 232 943 32 28 659 403 442 29 378 18 
+player 748 draws a 257 from deck 748
+player 748 discards a 804 to deck 749
+player 748 current hand : 10 9 986 691 919 944 391 466 822 232 943 32 28 659 403 442 29 378 18 257 
+player 748 draws a 296 from deck 748
+player 748 discards a 10 to deck 749
+player 748 current hand : 9 986 691 919 944 391 466 822 232 943 32 28 659 403 442 29 378 18 257 296 
+player 748 draws a 124 from deck 748
+player 748 discards a 9 to deck 749
+player 748 current hand : 986 691 919 944 391 466 822 232 943 32 28 659 403 442 29 378 18 257 296 124 
+player 748 draws a 47 from deck 748
+player 748 discards a 986 to deck 749
+player 748 current hand : 691 919 944 391 466 822 232 943 32 28 659 403 442 29 378 18 257 296 124 47 
+player 748 draws a 825 from deck 748
+player 748 discards a 691 to deck 749
+player 748 current hand : 919 944 391 466 822 232 943 32 28 659 403 442 29 378 18 257 296 124 47 825 
+player 748 draws a 426 from deck 748
+player 748 discards a 919 to deck 749
+player 748 current hand : 944 391 466 822 232 943 32 28 659 403 442 29 378 18 257 296 124 47 825 426 
+player 748 draws a 999 from deck 748
+player 748 discards a 944 to deck 749
+player 748 current hand : 391 466 822 232 943 32 28 659 403 442 29 378 18 257 296 124 47 825 426 999 
+player 748 draws a 707 from deck 748
+player 748 discards a 391 to deck 749
+player 748 current hand : 466 822 232 943 32 28 659 403 442 29 378 18 257 296 124 47 825 426 999 707 
+player 748 draws a 982 from deck 748
+player 748 discards a 466 to deck 749
+player 748 current hand : 822 232 943 32 28 659 403 442 29 378 18 257 296 124 47 825 426 999 707 982 
+player 748 draws a 582 from deck 748
+player 748 discards a 822 to deck 749
+player 748 current hand : 232 943 32 28 659 403 442 29 378 18 257 296 124 47 825 426 999 707 982 582 
+player 748 draws a 105 from deck 748
+player 748 discards a 232 to deck 749
+player 748 current hand : 943 32 28 659 403 442 29 378 18 257 296 124 47 825 426 999 707 982 582 105 
+player 748 draws a 585 from deck 748
+player 748 discards a 943 to deck 749
+player 748 current hand : 32 28 659 403 442 29 378 18 257 296 124 47 825 426 999 707 982 582 105 585 
+player 748 draws a 300 from deck 748
+player 748 discards a 32 to deck 749
+player 748 current hand : 28 659 403 442 29 378 18 257 296 124 47 825 426 999 707 982 582 105 585 300 
+player 748 draws a 221 from deck 748
+player 748 discards a 28 to deck 749
+player 748 current hand : 659 403 442 29 378 18 257 296 124 47 825 426 999 707 982 582 105 585 300 221 
+player 748 draws a 364 from deck 748
+player 748 discards a 659 to deck 749
+player 748 current hand : 403 442 29 378 18 257 296 124 47 825 426 999 707 982 582 105 585 300 221 364 
+player 748 draws a 946 from deck 748
+player 748 discards a 403 to deck 749
+player 748 current hand : 442 29 378 18 257 296 124 47 825 426 999 707 982 582 105 585 300 221 364 946 
+player 748 draws a 315 from deck 748
+player 748 discards a 442 to deck 749
+player 748 current hand : 29 378 18 257 296 124 47 825 426 999 707 982 582 105 585 300 221 364 946 315 
+player 748 draws a 236 from deck 748
+player 748 discards a 29 to deck 749
+player 748 current hand : 378 18 257 296 124 47 825 426 999 707 982 582 105 585 300 221 364 946 315 236 
+player 748 draws a 73 from deck 748
+player 748 discards a 378 to deck 749
+player 748 current hand : 18 257 296 124 47 825 426 999 707 982 582 105 585 300 221 364 946 315 236 73 
+player 748 draws a 788 from deck 748
+player 748 discards a 18 to deck 749
+player 748 current hand : 257 296 124 47 825 426 999 707 982 582 105 585 300 221 364 946 315 236 73 788 
+player 748 draws a 707 from deck 748
+player 748 discards a 257 to deck 749
+player 748 current hand : 296 124 47 825 426 999 707 982 582 105 585 300 221 364 946 315 236 73 788 707 
+player 748 draws a 788 from deck 748
+player 748 discards a 296 to deck 749
+player 748 current hand : 124 47 825 426 999 707 982 582 105 585 300 221 364 946 315 236 73 788 707 788 
+player 748 draws a 539 from deck 748
+player 748 discards a 124 to deck 749
+player 748 current hand : 47 825 426 999 707 982 582 105 585 300 221 364 946 315 236 73 788 707 788 539 
+player 748 draws a 955 from deck 748
+player 748 discards a 47 to deck 749
+player 748 current hand : 825 426 999 707 982 582 105 585 300 221 364 946 315 236 73 788 707 788 539 955 
+player 748 draws a 956 from deck 748
+player 748 discards a 825 to deck 749
+player 748 current hand : 426 999 707 982 582 105 585 300 221 364 946 315 236 73 788 707 788 539 955 956 
+player 748 draws a 159 from deck 748
+player 748 discards a 426 to deck 749
+player 748 current hand : 999 707 982 582 105 585 300 221 364 946 315 236 73 788 707 788 539 955 956 159 
+player 748 draws a 324 from deck 748
+player 748 discards a 999 to deck 749
+player 748 current hand : 707 982 582 105 585 300 221 364 946 315 236 73 788 707 788 539 955 956 159 324 
+player 748 draws a 158 from deck 748
+player 748 discards a 707 to deck 749
+player 748 current hand : 982 582 105 585 300 221 364 946 315 236 73 788 707 788 539 955 956 159 324 158 
+player 748 draws a 446 from deck 748
+player 748 discards a 982 to deck 749
+player 748 current hand : 582 105 585 300 221 364 946 315 236 73 788 707 788 539 955 956 159 324 158 446 
+player 748 draws a 931 from deck 748
+player 748 discards a 582 to deck 749
+player 748 current hand : 105 585 300 221 364 946 315 236 73 788 707 788 539 955 956 159 324 158 446 931 
+player 748 draws a 818 from deck 748
+player 748 discards a 105 to deck 749
+player 748 current hand : 585 300 221 364 946 315 236 73 788 707 788 539 955 956 159 324 158 446 931 818 
+player 748 draws a 239 from deck 748
+player 748 discards a 585 to deck 749
+player 748 current hand : 300 221 364 946 315 236 73 788 707 788 539 955 956 159 324 158 446 931 818 239 
+player 748 draws a 563 from deck 748
+player 748 discards a 300 to deck 749
+player 748 current hand : 221 364 946 315 236 73 788 707 788 539 955 956 159 324 158 446 931 818 239 563 
+player 748 draws a 29 from deck 748
+player 748 discards a 221 to deck 749
+player 748 current hand : 364 946 315 236 73 788 707 788 539 955 956 159 324 158 446 931 818 239 563 29 
+player 748 draws a 170 from deck 748
+player 748 discards a 364 to deck 749
+player 748 current hand : 946 315 236 73 788 707 788 539 955 956 159 324 158 446 931 818 239 563 29 170 
+player 748 draws a 228 from deck 748
+player 748 discards a 946 to deck 749
+player 748 current hand : 315 236 73 788 707 788 539 955 956 159 324 158 446 931 818 239 563 29 170 228 
+player 748 draws a 200 from deck 748
+player 748 discards a 315 to deck 749
+player 748 current hand : 236 73 788 707 788 539 955 956 159 324 158 446 931 818 239 563 29 170 228 200 
+player 748 draws a 860 from deck 748
+player 748 discards a 236 to deck 749
+player 748 current hand : 73 788 707 788 539 955 956 159 324 158 446 931 818 239 563 29 170 228 200 860 
+player 748 draws a 529 from deck 748
+player 748 discards a 73 to deck 749
+player 748 current hand : 788 707 788 539 955 956 159 324 158 446 931 818 239 563 29 170 228 200 860 529 
+player 748 draws a 808 from deck 748
+player 748 discards a 788 to deck 749
+player 748 current hand : 707 788 539 955 956 159 324 158 446 931 818 239 563 29 170 228 200 860 529 808 
+player 748 draws a 149 from deck 748
+player 748 discards a 707 to deck 749
+player 748 current hand : 788 539 955 956 159 324 158 446 931 818 239 563 29 170 228 200 860 529 808 149 
+player 748 draws a 945 from deck 748
+player 748 discards a 788 to deck 749
+player 748 current hand : 539 955 956 159 324 158 446 931 818 239 563 29 170 228 200 860 529 808 149 945 
+player 748 draws a 206 from deck 748
+player 748 discards a 539 to deck 749
+player 748 current hand : 955 956 159 324 158 446 931 818 239 563 29 170 228 200 860 529 808 149 945 206 
+player 748 draws a 586 from deck 748
+player 748 discards a 955 to deck 749
+player 748 current hand : 956 159 324 158 446 931 818 239 563 29 170 228 200 860 529 808 149 945 206 586 
+player 748 draws a 466 from deck 748
+player 748 discards a 956 to deck 749
+player 748 current hand : 159 324 158 446 931 818 239 563 29 170 228 200 860 529 808 149 945 206 586 466 
+player 748 draws a 159 from deck 748
+player 748 discards a 159 to deck 749
+player 748 current hand : 324 158 446 931 818 239 563 29 170 228 200 860 529 808 149 945 206 586 466 159 
+player 748 draws a 118 from deck 748
+player 748 discards a 324 to deck 749
+player 748 current hand : 158 446 931 818 239 563 29 170 228 200 860 529 808 149 945 206 586 466 159 118 
+player 748 draws a 156 from deck 748
+player 748 discards a 158 to deck 749
+player 748 current hand : 446 931 818 239 563 29 170 228 200 860 529 808 149 945 206 586 466 159 118 156 
+player 748 draws a 588 from deck 748
+player 748 discards a 446 to deck 749
+player 748 current hand : 931 818 239 563 29 170 228 200 860 529 808 149 945 206 586 466 159 118 156 588 
+player 748 draws a 160 from deck 748
+player 748 discards a 931 to deck 749
+player 748 current hand : 818 239 563 29 170 228 200 860 529 808 149 945 206 586 466 159 118 156 588 160 
+player 748 draws a 102 from deck 748
+player 748 discards a 818 to deck 749
+player 748 current hand : 239 563 29 170 228 200 860 529 808 149 945 206 586 466 159 118 156 588 160 102 
+player 748 draws a 774 from deck 748
+player 748 discards a 239 to deck 749
+player 748 current hand : 563 29 170 228 200 860 529 808 149 945 206 586 466 159 118 156 588 160 102 774 
+player 748 draws a 719 from deck 748
+player 748 discards a 563 to deck 749
+player 748 current hand : 29 170 228 200 860 529 808 149 945 206 586 466 159 118 156 588 160 102 774 719 
+player 748 draws a 968 from deck 748
+player 748 discards a 29 to deck 749
+player 748 current hand : 170 228 200 860 529 808 149 945 206 586 466 159 118 156 588 160 102 774 719 968 
+player 748 draws a 117 from deck 748
+player 748 discards a 170 to deck 749
+player 748 current hand : 228 200 860 529 808 149 945 206 586 466 159 118 156 588 160 102 774 719 968 117 
+player 748 draws a 214 from deck 748
+player 748 discards a 228 to deck 749
+player 748 current hand : 200 860 529 808 149 945 206 586 466 159 118 156 588 160 102 774 719 968 117 214 
+player 748 draws a 867 from deck 748
+player 748 discards a 200 to deck 749
+player 748 current hand : 860 529 808 149 945 206 586 466 159 118 156 588 160 102 774 719 968 117 214 867 
+player 748 draws a 901 from deck 748
+player 748 discards a 860 to deck 749
+player 748 current hand : 529 808 149 945 206 586 466 159 118 156 588 160 102 774 719 968 117 214 867 901 
+player 748 draws a 32 from deck 748
+player 748 discards a 529 to deck 749
+player 748 current hand : 808 149 945 206 586 466 159 118 156 588 160 102 774 719 968 117 214 867 901 32 
+player 748 draws a 96 from deck 748
+player 748 discards a 808 to deck 749
+player 748 current hand : 149 945 206 586 466 159 118 156 588 160 102 774 719 968 117 214 867 901 32 96 
+player 748 draws a 794 from deck 748
+player 748 discards a 149 to deck 749
+player 748 current hand : 945 206 586 466 159 118 156 588 160 102 774 719 968 117 214 867 901 32 96 794 
+player 748 draws a 608 from deck 748
+player 748 discards a 945 to deck 749
+player 748 current hand : 206 586 466 159 118 156 588 160 102 774 719 968 117 214 867 901 32 96 794 608 
+player 748 draws a 864 from deck 748
+player 748 discards a 206 to deck 749
+player 748 current hand : 586 466 159 118 156 588 160 102 774 719 968 117 214 867 901 32 96 794 608 864 
+player 748 draws a 699 from deck 748
+player 748 discards a 586 to deck 749
+player 748 current hand : 466 159 118 156 588 160 102 774 719 968 117 214 867 901 32 96 794 608 864 699 
+player 748 draws a 134 from deck 748
+player 748 discards a 466 to deck 749
+player 748 current hand : 159 118 156 588 160 102 774 719 968 117 214 867 901 32 96 794 608 864 699 134 
+player 748 draws a 952 from deck 748
+player 748 discards a 159 to deck 749
+player 748 current hand : 118 156 588 160 102 774 719 968 117 214 867 901 32 96 794 608 864 699 134 952 
+player 748 draws a 97 from deck 748
+player 748 discards a 118 to deck 749
+player 748 current hand : 156 588 160 102 774 719 968 117 214 867 901 32 96 794 608 864 699 134 952 97 
+player 748 draws a 659 from deck 748
+player 748 discards a 156 to deck 749
+player 748 current hand : 588 160 102 774 719 968 117 214 867 901 32 96 794 608 864 699 134 952 97 659 
+player 748 draws a 829 from deck 748
+player 748 discards a 588 to deck 749
+player 748 current hand : 160 102 774 719 968 117 214 867 901 32 96 794 608 864 699 134 952 97 659 829 
+player 748 draws a 641 from deck 748
+player 748 discards a 160 to deck 749
+player 748 current hand : 102 774 719 968 117 214 867 901 32 96 794 608 864 699 134 952 97 659 829 641 
+player 748 draws a 966 from deck 748
+player 748 discards a 102 to deck 749
+player 748 current hand : 774 719 968 117 214 867 901 32 96 794 608 864 699 134 952 97 659 829 641 966 
+player 748 draws a 448 from deck 748
+player 748 discards a 774 to deck 749
+player 748 current hand : 719 968 117 214 867 901 32 96 794 608 864 699 134 952 97 659 829 641 966 448 
+player 748 draws a 688 from deck 748
+player 748 discards a 719 to deck 749
+player 748 current hand : 968 117 214 867 901 32 96 794 608 864 699 134 952 97 659 829 641 966 448 688 
+player 748 draws a 469 from deck 748

@@ -1,0 +1,316 @@
+player 381 initial hand 185 185 685 267 841 107 515 958 549 885 233 549 209 480 684 973 649 867 305 882 
+player 381 draws a 501 from deck 381
+player 381 discards a 185 to deck 382
+player 381 current hand : 185 685 267 841 107 515 958 549 885 233 549 209 480 684 973 649 867 305 882 501 
+player 381 draws a 12 from deck 381
+player 381 discards a 185 to deck 382
+player 381 current hand : 685 267 841 107 515 958 549 885 233 549 209 480 684 973 649 867 305 882 501 12 
+player 381 draws a 164 from deck 381
+player 381 discards a 685 to deck 382
+player 381 current hand : 267 841 107 515 958 549 885 233 549 209 480 684 973 649 867 305 882 501 12 164 
+player 381 draws a 901 from deck 381
+player 381 discards a 267 to deck 382
+player 381 current hand : 841 107 515 958 549 885 233 549 209 480 684 973 649 867 305 882 501 12 164 901 
+player 381 draws a 249 from deck 381
+player 381 discards a 841 to deck 382
+player 381 current hand : 107 515 958 549 885 233 549 209 480 684 973 649 867 305 882 501 12 164 901 249 
+player 381 draws a 525 from deck 381
+player 381 discards a 107 to deck 382
+player 381 current hand : 515 958 549 885 233 549 209 480 684 973 649 867 305 882 501 12 164 901 249 525 
+player 381 draws a 833 from deck 381
+player 381 discards a 515 to deck 382
+player 381 current hand : 958 549 885 233 549 209 480 684 973 649 867 305 882 501 12 164 901 249 525 833 
+player 381 draws a 650 from deck 381
+player 381 discards a 958 to deck 382
+player 381 current hand : 549 885 233 549 209 480 684 973 649 867 305 882 501 12 164 901 249 525 833 650 
+player 381 draws a 403 from deck 381
+player 381 discards a 549 to deck 382
+player 381 current hand : 885 233 549 209 480 684 973 649 867 305 882 501 12 164 901 249 525 833 650 403 
+player 381 draws a 280 from deck 381
+player 381 discards a 885 to deck 382
+player 381 current hand : 233 549 209 480 684 973 649 867 305 882 501 12 164 901 249 525 833 650 403 280 
+player 381 draws a 483 from deck 381
+player 381 discards a 233 to deck 382
+player 381 current hand : 549 209 480 684 973 649 867 305 882 501 12 164 901 249 525 833 650 403 280 483 
+player 381 draws a 691 from deck 381
+player 381 discards a 549 to deck 382
+player 381 current hand : 209 480 684 973 649 867 305 882 501 12 164 901 249 525 833 650 403 280 483 691 
+player 381 draws a 327 from deck 381
+player 381 discards a 209 to deck 382
+player 381 current hand : 480 684 973 649 867 305 882 501 12 164 901 249 525 833 650 403 280 483 691 327 
+player 381 draws a 767 from deck 381
+player 381 discards a 480 to deck 382
+player 381 current hand : 684 973 649 867 305 882 501 12 164 901 249 525 833 650 403 280 483 691 327 767 
+player 381 draws a 74 from deck 381
+player 381 discards a 684 to deck 382
+player 381 current hand : 973 649 867 305 882 501 12 164 901 249 525 833 650 403 280 483 691 327 767 74 
+player 381 draws a 599 from deck 381
+player 381 discards a 973 to deck 382
+player 381 current hand : 649 867 305 882 501 12 164 901 249 525 833 650 403 280 483 691 327 767 74 599 
+player 381 draws a 210 from deck 381
+player 381 discards a 649 to deck 382
+player 381 current hand : 867 305 882 501 12 164 901 249 525 833 650 403 280 483 691 327 767 74 599 210 
+player 381 draws a 639 from deck 381
+player 381 discards a 867 to deck 382
+player 381 current hand : 305 882 501 12 164 901 249 525 833 650 403 280 483 691 327 767 74 599 210 639 
+player 381 draws a 170 from deck 381
+player 381 discards a 305 to deck 382
+player 381 current hand : 882 501 12 164 901 249 525 833 650 403 280 483 691 327 767 74 599 210 639 170 
+player 381 draws a 245 from deck 381
+player 381 discards a 882 to deck 382
+player 381 current hand : 501 12 164 901 249 525 833 650 403 280 483 691 327 767 74 599 210 639 170 245 
+player 381 draws a 369 from deck 381
+player 381 discards a 501 to deck 382
+player 381 current hand : 12 164 901 249 525 833 650 403 280 483 691 327 767 74 599 210 639 170 245 369 
+player 381 draws a 235 from deck 381
+player 381 discards a 12 to deck 382
+player 381 current hand : 164 901 249 525 833 650 403 280 483 691 327 767 74 599 210 639 170 245 369 235 
+player 381 draws a 61 from deck 381
+player 381 discards a 164 to deck 382
+player 381 current hand : 901 249 525 833 650 403 280 483 691 327 767 74 599 210 639 170 245 369 235 61 
+player 381 draws a 707 from deck 381
+player 381 discards a 901 to deck 382
+player 381 current hand : 249 525 833 650 403 280 483 691 327 767 74 599 210 639 170 245 369 235 61 707 
+player 381 draws a 415 from deck 381
+player 381 discards a 249 to deck 382
+player 381 current hand : 525 833 650 403 280 483 691 327 767 74 599 210 639 170 245 369 235 61 707 415 
+player 381 draws a 393 from deck 381
+player 381 discards a 525 to deck 382
+player 381 current hand : 833 650 403 280 483 691 327 767 74 599 210 639 170 245 369 235 61 707 415 393 
+player 381 draws a 585 from deck 381
+player 381 discards a 833 to deck 382
+player 381 current hand : 650 403 280 483 691 327 767 74 599 210 639 170 245 369 235 61 707 415 393 585 
+player 381 draws a 48 from deck 381
+player 381 discards a 650 to deck 382
+player 381 current hand : 403 280 483 691 327 767 74 599 210 639 170 245 369 235 61 707 415 393 585 48 
+player 381 draws a 917 from deck 381
+player 381 discards a 403 to deck 382
+player 381 current hand : 280 483 691 327 767 74 599 210 639 170 245 369 235 61 707 415 393 585 48 917 
+player 381 draws a 691 from deck 381
+player 381 discards a 280 to deck 382
+player 381 current hand : 483 691 327 767 74 599 210 639 170 245 369 235 61 707 415 393 585 48 917 691 
+player 381 draws a 580 from deck 381
+player 381 discards a 483 to deck 382
+player 381 current hand : 691 327 767 74 599 210 639 170 245 369 235 61 707 415 393 585 48 917 691 580 
+player 381 draws a 971 from deck 381
+player 381 discards a 691 to deck 382
+player 381 current hand : 327 767 74 599 210 639 170 245 369 235 61 707 415 393 585 48 917 691 580 971 
+player 381 draws a 865 from deck 381
+player 381 discards a 327 to deck 382
+player 381 current hand : 767 74 599 210 639 170 245 369 235 61 707 415 393 585 48 917 691 580 971 865 
+player 381 draws a 593 from deck 381
+player 381 discards a 767 to deck 382
+player 381 current hand : 74 599 210 639 170 245 369 235 61 707 415 393 585 48 917 691 580 971 865 593 
+player 381 draws a 241 from deck 381
+player 381 discards a 74 to deck 382
+player 381 current hand : 599 210 639 170 245 369 235 61 707 415 393 585 48 917 691 580 971 865 593 241 
+player 381 draws a 314 from deck 381
+player 381 discards a 599 to deck 382
+player 381 current hand : 210 639 170 245 369 235 61 707 415 393 585 48 917 691 580 971 865 593 241 314 
+player 381 draws a 778 from deck 381
+player 381 discards a 210 to deck 382
+player 381 current hand : 639 170 245 369 235 61 707 415 393 585 48 917 691 580 971 865 593 241 314 778 
+player 381 draws a 455 from deck 381
+player 381 discards a 639 to deck 382
+player 381 current hand : 170 245 369 235 61 707 415 393 585 48 917 691 580 971 865 593 241 314 778 455 
+player 381 draws a 860 from deck 381
+player 381 discards a 170 to deck 382
+player 381 current hand : 245 369 235 61 707 415 393 585 48 917 691 580 971 865 593 241 314 778 455 860 
+player 381 draws a 663 from deck 381
+player 381 discards a 245 to deck 382
+player 381 current hand : 369 235 61 707 415 393 585 48 917 691 580 971 865 593 241 314 778 455 860 663 
+player 381 draws a 91 from deck 381
+player 381 discards a 369 to deck 382
+player 381 current hand : 235 61 707 415 393 585 48 917 691 580 971 865 593 241 314 778 455 860 663 91 
+player 381 draws a 582 from deck 381
+player 381 discards a 235 to deck 382
+player 381 current hand : 61 707 415 393 585 48 917 691 580 971 865 593 241 314 778 455 860 663 91 582 
+player 381 draws a 684 from deck 381
+player 381 discards a 61 to deck 382
+player 381 current hand : 707 415 393 585 48 917 691 580 971 865 593 241 314 778 455 860 663 91 582 684 
+player 381 draws a 399 from deck 381
+player 381 discards a 707 to deck 382
+player 381 current hand : 415 393 585 48 917 691 580 971 865 593 241 314 778 455 860 663 91 582 684 399 
+player 381 draws a 243 from deck 381
+player 381 discards a 415 to deck 382
+player 381 current hand : 393 585 48 917 691 580 971 865 593 241 314 778 455 860 663 91 582 684 399 243 
+player 381 draws a 264 from deck 381
+player 381 discards a 393 to deck 382
+player 381 current hand : 585 48 917 691 580 971 865 593 241 314 778 455 860 663 91 582 684 399 243 264 
+player 381 draws a 854 from deck 381
+player 381 discards a 585 to deck 382
+player 381 current hand : 48 917 691 580 971 865 593 241 314 778 455 860 663 91 582 684 399 243 264 854 
+player 381 draws a 386 from deck 381
+player 381 discards a 48 to deck 382
+player 381 current hand : 917 691 580 971 865 593 241 314 778 455 860 663 91 582 684 399 243 264 854 386 
+player 381 draws a 453 from deck 381
+player 381 discards a 917 to deck 382
+player 381 current hand : 691 580 971 865 593 241 314 778 455 860 663 91 582 684 399 243 264 854 386 453 
+player 381 draws a 274 from deck 381
+player 381 discards a 691 to deck 382
+player 381 current hand : 580 971 865 593 241 314 778 455 860 663 91 582 684 399 243 264 854 386 453 274 
+player 381 draws a 406 from deck 381
+player 381 discards a 580 to deck 382
+player 381 current hand : 971 865 593 241 314 778 455 860 663 91 582 684 399 243 264 854 386 453 274 406 
+player 381 draws a 282 from deck 381
+player 381 discards a 971 to deck 382
+player 381 current hand : 865 593 241 314 778 455 860 663 91 582 684 399 243 264 854 386 453 274 406 282 
+player 381 draws a 897 from deck 381
+player 381 discards a 865 to deck 382
+player 381 current hand : 593 241 314 778 455 860 663 91 582 684 399 243 264 854 386 453 274 406 282 897 
+player 381 draws a 593 from deck 381
+player 381 discards a 593 to deck 382
+player 381 current hand : 241 314 778 455 860 663 91 582 684 399 243 264 854 386 453 274 406 282 897 593 
+player 381 draws a 720 from deck 381
+player 381 discards a 241 to deck 382
+player 381 current hand : 314 778 455 860 663 91 582 684 399 243 264 854 386 453 274 406 282 897 593 720 
+player 381 draws a 825 from deck 381
+player 381 discards a 314 to deck 382
+player 381 current hand : 778 455 860 663 91 582 684 399 243 264 854 386 453 274 406 282 897 593 720 825 
+player 381 draws a 507 from deck 381
+player 381 discards a 778 to deck 382
+player 381 current hand : 455 860 663 91 582 684 399 243 264 854 386 453 274 406 282 897 593 720 825 507 
+player 381 draws a 72 from deck 381
+player 381 discards a 455 to deck 382
+player 381 current hand : 860 663 91 582 684 399 243 264 854 386 453 274 406 282 897 593 720 825 507 72 
+player 381 draws a 17 from deck 381
+player 381 discards a 860 to deck 382
+player 381 current hand : 663 91 582 684 399 243 264 854 386 453 274 406 282 897 593 720 825 507 72 17 
+player 381 draws a 692 from deck 381
+player 381 discards a 663 to deck 382
+player 381 current hand : 91 582 684 399 243 264 854 386 453 274 406 282 897 593 720 825 507 72 17 692 
+player 381 draws a 48 from deck 381
+player 381 discards a 91 to deck 382
+player 381 current hand : 582 684 399 243 264 854 386 453 274 406 282 897 593 720 825 507 72 17 692 48 
+player 381 draws a 29 from deck 381
+player 381 discards a 582 to deck 382
+player 381 current hand : 684 399 243 264 854 386 453 274 406 282 897 593 720 825 507 72 17 692 48 29 
+player 381 draws a 431 from deck 381
+player 381 discards a 684 to deck 382
+player 381 current hand : 399 243 264 854 386 453 274 406 282 897 593 720 825 507 72 17 692 48 29 431 
+player 381 draws a 180 from deck 381
+player 381 discards a 399 to deck 382
+player 381 current hand : 243 264 854 386 453 274 406 282 897 593 720 825 507 72 17 692 48 29 431 180 
+player 381 draws a 151 from deck 381
+player 381 discards a 243 to deck 382
+player 381 current hand : 264 854 386 453 274 406 282 897 593 720 825 507 72 17 692 48 29 431 180 151 
+player 381 draws a 326 from deck 381
+player 381 discards a 264 to deck 382
+player 381 current hand : 854 386 453 274 406 282 897 593 720 825 507 72 17 692 48 29 431 180 151 326 
+player 381 draws a 224 from deck 381
+player 381 discards a 854 to deck 382
+player 381 current hand : 386 453 274 406 282 897 593 720 825 507 72 17 692 48 29 431 180 151 326 224 
+player 381 draws a 499 from deck 381
+player 381 discards a 386 to deck 382
+player 381 current hand : 453 274 406 282 897 593 720 825 507 72 17 692 48 29 431 180 151 326 224 499 
+player 381 draws a 119 from deck 381
+player 381 discards a 453 to deck 382
+player 381 current hand : 274 406 282 897 593 720 825 507 72 17 692 48 29 431 180 151 326 224 499 119 
+player 381 draws a 912 from deck 381
+player 381 discards a 274 to deck 382
+player 381 current hand : 406 282 897 593 720 825 507 72 17 692 48 29 431 180 151 326 224 499 119 912 
+player 381 draws a 657 from deck 381
+player 381 discards a 406 to deck 382
+player 381 current hand : 282 897 593 720 825 507 72 17 692 48 29 431 180 151 326 224 499 119 912 657 
+player 381 draws a 906 from deck 381
+player 381 discards a 282 to deck 382
+player 381 current hand : 897 593 720 825 507 72 17 692 48 29 431 180 151 326 224 499 119 912 657 906 
+player 381 draws a 821 from deck 381
+player 381 discards a 897 to deck 382
+player 381 current hand : 593 720 825 507 72 17 692 48 29 431 180 151 326 224 499 119 912 657 906 821 
+player 381 draws a 816 from deck 381
+player 381 discards a 593 to deck 382
+player 381 current hand : 720 825 507 72 17 692 48 29 431 180 151 326 224 499 119 912 657 906 821 816 
+player 381 draws a 829 from deck 381
+player 381 discards a 720 to deck 382
+player 381 current hand : 825 507 72 17 692 48 29 431 180 151 326 224 499 119 912 657 906 821 816 829 
+player 381 draws a 365 from deck 381
+player 381 discards a 825 to deck 382
+player 381 current hand : 507 72 17 692 48 29 431 180 151 326 224 499 119 912 657 906 821 816 829 365 
+player 381 draws a 815 from deck 381
+player 381 discards a 507 to deck 382
+player 381 current hand : 72 17 692 48 29 431 180 151 326 224 499 119 912 657 906 821 816 829 365 815 
+player 381 draws a 6 from deck 381
+player 381 discards a 72 to deck 382
+player 381 current hand : 17 692 48 29 431 180 151 326 224 499 119 912 657 906 821 816 829 365 815 6 
+player 381 draws a 180 from deck 381
+player 381 discards a 17 to deck 382
+player 381 current hand : 692 48 29 431 180 151 326 224 499 119 912 657 906 821 816 829 365 815 6 180 
+player 381 draws a 145 from deck 381
+player 381 discards a 692 to deck 382
+player 381 current hand : 48 29 431 180 151 326 224 499 119 912 657 906 821 816 829 365 815 6 180 145 
+player 381 draws a 415 from deck 381
+player 381 discards a 48 to deck 382
+player 381 current hand : 29 431 180 151 326 224 499 119 912 657 906 821 816 829 365 815 6 180 145 415 
+player 381 draws a 944 from deck 381
+player 381 discards a 29 to deck 382
+player 381 current hand : 431 180 151 326 224 499 119 912 657 906 821 816 829 365 815 6 180 145 415 944 
+player 381 draws a 186 from deck 381
+player 381 discards a 431 to deck 382
+player 381 current hand : 180 151 326 224 499 119 912 657 906 821 816 829 365 815 6 180 145 415 944 186 
+player 381 draws a 855 from deck 381
+player 381 discards a 180 to deck 382
+player 381 current hand : 151 326 224 499 119 912 657 906 821 816 829 365 815 6 180 145 415 944 186 855 
+player 381 draws a 106 from deck 381
+player 381 discards a 151 to deck 382
+player 381 current hand : 326 224 499 119 912 657 906 821 816 829 365 815 6 180 145 415 944 186 855 106 
+player 381 draws a 303 from deck 381
+player 381 discards a 326 to deck 382
+player 381 current hand : 224 499 119 912 657 906 821 816 829 365 815 6 180 145 415 944 186 855 106 303 
+player 381 draws a 840 from deck 381
+player 381 discards a 224 to deck 382
+player 381 current hand : 499 119 912 657 906 821 816 829 365 815 6 180 145 415 944 186 855 106 303 840 
+player 381 draws a 672 from deck 381
+player 381 discards a 499 to deck 382
+player 381 current hand : 119 912 657 906 821 816 829 365 815 6 180 145 415 944 186 855 106 303 840 672 
+player 381 draws a 673 from deck 381
+player 381 discards a 119 to deck 382
+player 381 current hand : 912 657 906 821 816 829 365 815 6 180 145 415 944 186 855 106 303 840 672 673 
+player 381 draws a 867 from deck 381
+player 381 discards a 912 to deck 382
+player 381 current hand : 657 906 821 816 829 365 815 6 180 145 415 944 186 855 106 303 840 672 673 867 
+player 381 draws a 313 from deck 381
+player 381 discards a 657 to deck 382
+player 381 current hand : 906 821 816 829 365 815 6 180 145 415 944 186 855 106 303 840 672 673 867 313 
+player 381 draws a 328 from deck 381
+player 381 discards a 906 to deck 382
+player 381 current hand : 821 816 829 365 815 6 180 145 415 944 186 855 106 303 840 672 673 867 313 328 
+player 381 draws a 841 from deck 381
+player 381 discards a 821 to deck 382
+player 381 current hand : 816 829 365 815 6 180 145 415 944 186 855 106 303 840 672 673 867 313 328 841 
+player 381 draws a 262 from deck 381
+player 381 discards a 816 to deck 382
+player 381 current hand : 829 365 815 6 180 145 415 944 186 855 106 303 840 672 673 867 313 328 841 262 
+player 381 draws a 111 from deck 381
+player 381 discards a 829 to deck 382
+player 381 current hand : 365 815 6 180 145 415 944 186 855 106 303 840 672 673 867 313 328 841 262 111 
+player 381 draws a 618 from deck 381
+player 381 discards a 365 to deck 382
+player 381 current hand : 815 6 180 145 415 944 186 855 106 303 840 672 673 867 313 328 841 262 111 618 
+player 381 draws a 74 from deck 381
+player 381 discards a 815 to deck 382
+player 381 current hand : 6 180 145 415 944 186 855 106 303 840 672 673 867 313 328 841 262 111 618 74 
+player 381 draws a 824 from deck 381
+player 381 discards a 6 to deck 382
+player 381 current hand : 180 145 415 944 186 855 106 303 840 672 673 867 313 328 841 262 111 618 74 824 
+player 381 draws a 753 from deck 381
+player 381 discards a 180 to deck 382
+player 381 current hand : 145 415 944 186 855 106 303 840 672 673 867 313 328 841 262 111 618 74 824 753 
+player 381 draws a 401 from deck 381
+player 381 discards a 145 to deck 382
+player 381 current hand : 415 944 186 855 106 303 840 672 673 867 313 328 841 262 111 618 74 824 753 401 
+player 381 draws a 829 from deck 381
+player 381 discards a 415 to deck 382
+player 381 current hand : 944 186 855 106 303 840 672 673 867 313 328 841 262 111 618 74 824 753 401 829 
+player 381 draws a 170 from deck 381
+player 381 discards a 944 to deck 382
+player 381 current hand : 186 855 106 303 840 672 673 867 313 328 841 262 111 618 74 824 753 401 829 170 
+player 381 draws a 886 from deck 381
+player 381 discards a 186 to deck 382
+player 381 current hand : 855 106 303 840 672 673 867 313 328 841 262 111 618 74 824 753 401 829 170 886 
+player 381 draws a 534 from deck 381
+player 381 discards a 855 to deck 382
+player 381 current hand : 106 303 840 672 673 867 313 328 841 262 111 618 74 824 753 401 829 170 886 534 
+player 381 draws a 449 from deck 381
+player 381 discards a 106 to deck 382
+player 381 current hand : 303 840 672 673 867 313 328 841 262 111 618 74 824 753 401 829 170 886 534 449 

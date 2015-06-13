@@ -1,0 +1,336 @@
+player 646 initial hand 110 581 546 762 641 555 516 464 862 768 86 600 224 768 252 871 815 769 286 36 
+player 646 draws a 248 from deck 646
+player 646 discards a 110 to deck 647
+player 646 current hand : 581 546 762 641 555 516 464 862 768 86 600 224 768 252 871 815 769 286 36 248 
+player 646 draws a 965 from deck 646
+player 646 discards a 581 to deck 647
+player 646 current hand : 546 762 641 555 516 464 862 768 86 600 224 768 252 871 815 769 286 36 248 965 
+player 646 draws a 901 from deck 646
+player 646 discards a 546 to deck 647
+player 646 current hand : 762 641 555 516 464 862 768 86 600 224 768 252 871 815 769 286 36 248 965 901 
+player 646 draws a 592 from deck 646
+player 646 discards a 762 to deck 647
+player 646 current hand : 641 555 516 464 862 768 86 600 224 768 252 871 815 769 286 36 248 965 901 592 
+player 646 draws a 908 from deck 646
+player 646 discards a 641 to deck 647
+player 646 current hand : 555 516 464 862 768 86 600 224 768 252 871 815 769 286 36 248 965 901 592 908 
+player 646 draws a 257 from deck 646
+player 646 discards a 555 to deck 647
+player 646 current hand : 516 464 862 768 86 600 224 768 252 871 815 769 286 36 248 965 901 592 908 257 
+player 646 draws a 351 from deck 646
+player 646 discards a 516 to deck 647
+player 646 current hand : 464 862 768 86 600 224 768 252 871 815 769 286 36 248 965 901 592 908 257 351 
+player 646 draws a 470 from deck 646
+player 646 discards a 464 to deck 647
+player 646 current hand : 862 768 86 600 224 768 252 871 815 769 286 36 248 965 901 592 908 257 351 470 
+player 646 draws a 98 from deck 646
+player 646 discards a 862 to deck 647
+player 646 current hand : 768 86 600 224 768 252 871 815 769 286 36 248 965 901 592 908 257 351 470 98 
+player 646 draws a 631 from deck 646
+player 646 discards a 768 to deck 647
+player 646 current hand : 86 600 224 768 252 871 815 769 286 36 248 965 901 592 908 257 351 470 98 631 
+player 646 draws a 4 from deck 646
+player 646 discards a 86 to deck 647
+player 646 current hand : 600 224 768 252 871 815 769 286 36 248 965 901 592 908 257 351 470 98 631 4 
+player 646 draws a 350 from deck 646
+player 646 discards a 600 to deck 647
+player 646 current hand : 224 768 252 871 815 769 286 36 248 965 901 592 908 257 351 470 98 631 4 350 
+player 646 draws a 795 from deck 646
+player 646 discards a 224 to deck 647
+player 646 current hand : 768 252 871 815 769 286 36 248 965 901 592 908 257 351 470 98 631 4 350 795 
+player 646 draws a 677 from deck 646
+player 646 discards a 768 to deck 647
+player 646 current hand : 252 871 815 769 286 36 248 965 901 592 908 257 351 470 98 631 4 350 795 677 
+player 646 draws a 951 from deck 646
+player 646 discards a 252 to deck 647
+player 646 current hand : 871 815 769 286 36 248 965 901 592 908 257 351 470 98 631 4 350 795 677 951 
+player 646 draws a 143 from deck 646
+player 646 discards a 871 to deck 647
+player 646 current hand : 815 769 286 36 248 965 901 592 908 257 351 470 98 631 4 350 795 677 951 143 
+player 646 draws a 456 from deck 646
+player 646 discards a 815 to deck 647
+player 646 current hand : 769 286 36 248 965 901 592 908 257 351 470 98 631 4 350 795 677 951 143 456 
+player 646 draws a 686 from deck 646
+player 646 discards a 769 to deck 647
+player 646 current hand : 286 36 248 965 901 592 908 257 351 470 98 631 4 350 795 677 951 143 456 686 
+player 646 draws a 267 from deck 646
+player 646 discards a 286 to deck 647
+player 646 current hand : 36 248 965 901 592 908 257 351 470 98 631 4 350 795 677 951 143 456 686 267 
+player 646 draws a 425 from deck 646
+player 646 discards a 36 to deck 647
+player 646 current hand : 248 965 901 592 908 257 351 470 98 631 4 350 795 677 951 143 456 686 267 425 
+player 646 draws a 310 from deck 646
+player 646 discards a 248 to deck 647
+player 646 current hand : 965 901 592 908 257 351 470 98 631 4 350 795 677 951 143 456 686 267 425 310 
+player 646 draws a 219 from deck 646
+player 646 discards a 965 to deck 647
+player 646 current hand : 901 592 908 257 351 470 98 631 4 350 795 677 951 143 456 686 267 425 310 219 
+player 646 draws a 187 from deck 646
+player 646 discards a 901 to deck 647
+player 646 current hand : 592 908 257 351 470 98 631 4 350 795 677 951 143 456 686 267 425 310 219 187 
+player 646 draws a 541 from deck 646
+player 646 discards a 592 to deck 647
+player 646 current hand : 908 257 351 470 98 631 4 350 795 677 951 143 456 686 267 425 310 219 187 541 
+player 646 draws a 124 from deck 646
+player 646 discards a 908 to deck 647
+player 646 current hand : 257 351 470 98 631 4 350 795 677 951 143 456 686 267 425 310 219 187 541 124 
+player 646 draws a 24 from deck 646
+player 646 discards a 257 to deck 647
+player 646 current hand : 351 470 98 631 4 350 795 677 951 143 456 686 267 425 310 219 187 541 124 24 
+player 646 draws a 263 from deck 646
+player 646 discards a 351 to deck 647
+player 646 current hand : 470 98 631 4 350 795 677 951 143 456 686 267 425 310 219 187 541 124 24 263 
+player 646 draws a 863 from deck 646
+player 646 discards a 470 to deck 647
+player 646 current hand : 98 631 4 350 795 677 951 143 456 686 267 425 310 219 187 541 124 24 263 863 
+player 646 draws a 684 from deck 646
+player 646 discards a 98 to deck 647
+player 646 current hand : 631 4 350 795 677 951 143 456 686 267 425 310 219 187 541 124 24 263 863 684 
+player 646 draws a 539 from deck 646
+player 646 discards a 631 to deck 647
+player 646 current hand : 4 350 795 677 951 143 456 686 267 425 310 219 187 541 124 24 263 863 684 539 
+player 646 draws a 835 from deck 646
+player 646 discards a 4 to deck 647
+player 646 current hand : 350 795 677 951 143 456 686 267 425 310 219 187 541 124 24 263 863 684 539 835 
+player 646 draws a 537 from deck 646
+player 646 discards a 350 to deck 647
+player 646 current hand : 795 677 951 143 456 686 267 425 310 219 187 541 124 24 263 863 684 539 835 537 
+player 646 draws a 650 from deck 646
+player 646 discards a 795 to deck 647
+player 646 current hand : 677 951 143 456 686 267 425 310 219 187 541 124 24 263 863 684 539 835 537 650 
+player 646 draws a 818 from deck 646
+player 646 discards a 677 to deck 647
+player 646 current hand : 951 143 456 686 267 425 310 219 187 541 124 24 263 863 684 539 835 537 650 818 
+player 646 draws a 33 from deck 646
+player 646 discards a 951 to deck 647
+player 646 current hand : 143 456 686 267 425 310 219 187 541 124 24 263 863 684 539 835 537 650 818 33 
+player 646 draws a 114 from deck 646
+player 646 discards a 143 to deck 647
+player 646 current hand : 456 686 267 425 310 219 187 541 124 24 263 863 684 539 835 537 650 818 33 114 
+player 646 draws a 117 from deck 646
+player 646 discards a 456 to deck 647
+player 646 current hand : 686 267 425 310 219 187 541 124 24 263 863 684 539 835 537 650 818 33 114 117 
+player 646 draws a 673 from deck 646
+player 646 discards a 686 to deck 647
+player 646 current hand : 267 425 310 219 187 541 124 24 263 863 684 539 835 537 650 818 33 114 117 673 
+player 646 draws a 515 from deck 646
+player 646 discards a 267 to deck 647
+player 646 current hand : 425 310 219 187 541 124 24 263 863 684 539 835 537 650 818 33 114 117 673 515 
+player 646 draws a 886 from deck 646
+player 646 discards a 425 to deck 647
+player 646 current hand : 310 219 187 541 124 24 263 863 684 539 835 537 650 818 33 114 117 673 515 886 
+player 646 draws a 852 from deck 646
+player 646 discards a 310 to deck 647
+player 646 current hand : 219 187 541 124 24 263 863 684 539 835 537 650 818 33 114 117 673 515 886 852 
+player 646 draws a 117 from deck 646
+player 646 discards a 219 to deck 647
+player 646 current hand : 187 541 124 24 263 863 684 539 835 537 650 818 33 114 117 673 515 886 852 117 
+player 646 draws a 127 from deck 646
+player 646 discards a 187 to deck 647
+player 646 current hand : 541 124 24 263 863 684 539 835 537 650 818 33 114 117 673 515 886 852 117 127 
+player 646 draws a 933 from deck 646
+player 646 discards a 541 to deck 647
+player 646 current hand : 124 24 263 863 684 539 835 537 650 818 33 114 117 673 515 886 852 117 127 933 
+player 646 draws a 559 from deck 646
+player 646 discards a 124 to deck 647
+player 646 current hand : 24 263 863 684 539 835 537 650 818 33 114 117 673 515 886 852 117 127 933 559 
+player 646 draws a 653 from deck 646
+player 646 discards a 24 to deck 647
+player 646 current hand : 263 863 684 539 835 537 650 818 33 114 117 673 515 886 852 117 127 933 559 653 
+player 646 draws a 340 from deck 646
+player 646 discards a 263 to deck 647
+player 646 current hand : 863 684 539 835 537 650 818 33 114 117 673 515 886 852 117 127 933 559 653 340 
+player 646 draws a 856 from deck 646
+player 646 discards a 863 to deck 647
+player 646 current hand : 684 539 835 537 650 818 33 114 117 673 515 886 852 117 127 933 559 653 340 856 
+player 646 draws a 901 from deck 646
+player 646 discards a 684 to deck 647
+player 646 current hand : 539 835 537 650 818 33 114 117 673 515 886 852 117 127 933 559 653 340 856 901 
+player 646 draws a 905 from deck 646
+player 646 discards a 539 to deck 647
+player 646 current hand : 835 537 650 818 33 114 117 673 515 886 852 117 127 933 559 653 340 856 901 905 
+player 646 draws a 118 from deck 646
+player 646 discards a 835 to deck 647
+player 646 current hand : 537 650 818 33 114 117 673 515 886 852 117 127 933 559 653 340 856 901 905 118 
+player 646 draws a 817 from deck 646
+player 646 discards a 537 to deck 647
+player 646 current hand : 650 818 33 114 117 673 515 886 852 117 127 933 559 653 340 856 901 905 118 817 
+player 646 draws a 901 from deck 646
+player 646 discards a 650 to deck 647
+player 646 current hand : 818 33 114 117 673 515 886 852 117 127 933 559 653 340 856 901 905 118 817 901 
+player 646 draws a 758 from deck 646
+player 646 discards a 818 to deck 647
+player 646 current hand : 33 114 117 673 515 886 852 117 127 933 559 653 340 856 901 905 118 817 901 758 
+player 646 draws a 692 from deck 646
+player 646 discards a 33 to deck 647
+player 646 current hand : 114 117 673 515 886 852 117 127 933 559 653 340 856 901 905 118 817 901 758 692 
+player 646 draws a 773 from deck 646
+player 646 discards a 114 to deck 647
+player 646 current hand : 117 673 515 886 852 117 127 933 559 653 340 856 901 905 118 817 901 758 692 773 
+player 646 draws a 176 from deck 646
+player 646 discards a 117 to deck 647
+player 646 current hand : 673 515 886 852 117 127 933 559 653 340 856 901 905 118 817 901 758 692 773 176 
+player 646 draws a 682 from deck 646
+player 646 discards a 673 to deck 647
+player 646 current hand : 515 886 852 117 127 933 559 653 340 856 901 905 118 817 901 758 692 773 176 682 
+player 646 draws a 149 from deck 646
+player 646 discards a 515 to deck 647
+player 646 current hand : 886 852 117 127 933 559 653 340 856 901 905 118 817 901 758 692 773 176 682 149 
+player 646 draws a 924 from deck 646
+player 646 discards a 886 to deck 647
+player 646 current hand : 852 117 127 933 559 653 340 856 901 905 118 817 901 758 692 773 176 682 149 924 
+player 646 draws a 182 from deck 646
+player 646 discards a 852 to deck 647
+player 646 current hand : 117 127 933 559 653 340 856 901 905 118 817 901 758 692 773 176 682 149 924 182 
+player 646 draws a 498 from deck 646
+player 646 discards a 117 to deck 647
+player 646 current hand : 127 933 559 653 340 856 901 905 118 817 901 758 692 773 176 682 149 924 182 498 
+player 646 draws a 290 from deck 646
+player 646 discards a 127 to deck 647
+player 646 current hand : 933 559 653 340 856 901 905 118 817 901 758 692 773 176 682 149 924 182 498 290 
+player 646 draws a 749 from deck 646
+player 646 discards a 933 to deck 647
+player 646 current hand : 559 653 340 856 901 905 118 817 901 758 692 773 176 682 149 924 182 498 290 749 
+player 646 draws a 314 from deck 646
+player 646 discards a 559 to deck 647
+player 646 current hand : 653 340 856 901 905 118 817 901 758 692 773 176 682 149 924 182 498 290 749 314 
+player 646 draws a 721 from deck 646
+player 646 discards a 653 to deck 647
+player 646 current hand : 340 856 901 905 118 817 901 758 692 773 176 682 149 924 182 498 290 749 314 721 
+player 646 draws a 550 from deck 646
+player 646 discards a 340 to deck 647
+player 646 current hand : 856 901 905 118 817 901 758 692 773 176 682 149 924 182 498 290 749 314 721 550 
+player 646 draws a 474 from deck 646
+player 646 discards a 856 to deck 647
+player 646 current hand : 901 905 118 817 901 758 692 773 176 682 149 924 182 498 290 749 314 721 550 474 
+player 646 draws a 557 from deck 646
+player 646 discards a 901 to deck 647
+player 646 current hand : 905 118 817 901 758 692 773 176 682 149 924 182 498 290 749 314 721 550 474 557 
+player 646 draws a 1000 from deck 646
+player 646 discards a 905 to deck 647
+player 646 current hand : 118 817 901 758 692 773 176 682 149 924 182 498 290 749 314 721 550 474 557 1000 
+player 646 draws a 577 from deck 646
+player 646 discards a 118 to deck 647
+player 646 current hand : 817 901 758 692 773 176 682 149 924 182 498 290 749 314 721 550 474 557 1000 577 
+player 646 draws a 168 from deck 646
+player 646 discards a 817 to deck 647
+player 646 current hand : 901 758 692 773 176 682 149 924 182 498 290 749 314 721 550 474 557 1000 577 168 
+player 646 draws a 821 from deck 646
+player 646 discards a 901 to deck 647
+player 646 current hand : 758 692 773 176 682 149 924 182 498 290 749 314 721 550 474 557 1000 577 168 821 
+player 646 draws a 5 from deck 646
+player 646 discards a 758 to deck 647
+player 646 current hand : 692 773 176 682 149 924 182 498 290 749 314 721 550 474 557 1000 577 168 821 5 
+player 646 draws a 1 from deck 646
+player 646 discards a 692 to deck 647
+player 646 current hand : 773 176 682 149 924 182 498 290 749 314 721 550 474 557 1000 577 168 821 5 1 
+player 646 draws a 871 from deck 646
+player 646 discards a 773 to deck 647
+player 646 current hand : 176 682 149 924 182 498 290 749 314 721 550 474 557 1000 577 168 821 5 1 871 
+player 646 draws a 674 from deck 646
+player 646 discards a 176 to deck 647
+player 646 current hand : 682 149 924 182 498 290 749 314 721 550 474 557 1000 577 168 821 5 1 871 674 
+player 646 draws a 898 from deck 646
+player 646 discards a 682 to deck 647
+player 646 current hand : 149 924 182 498 290 749 314 721 550 474 557 1000 577 168 821 5 1 871 674 898 
+player 646 draws a 60 from deck 646
+player 646 discards a 149 to deck 647
+player 646 current hand : 924 182 498 290 749 314 721 550 474 557 1000 577 168 821 5 1 871 674 898 60 
+player 646 draws a 341 from deck 646
+player 646 discards a 924 to deck 647
+player 646 current hand : 182 498 290 749 314 721 550 474 557 1000 577 168 821 5 1 871 674 898 60 341 
+player 646 draws a 25 from deck 646
+player 646 discards a 182 to deck 647
+player 646 current hand : 498 290 749 314 721 550 474 557 1000 577 168 821 5 1 871 674 898 60 341 25 
+player 646 draws a 28 from deck 646
+player 646 discards a 498 to deck 647
+player 646 current hand : 290 749 314 721 550 474 557 1000 577 168 821 5 1 871 674 898 60 341 25 28 
+player 646 draws a 97 from deck 646
+player 646 discards a 290 to deck 647
+player 646 current hand : 749 314 721 550 474 557 1000 577 168 821 5 1 871 674 898 60 341 25 28 97 
+player 646 draws a 879 from deck 646
+player 646 discards a 749 to deck 647
+player 646 current hand : 314 721 550 474 557 1000 577 168 821 5 1 871 674 898 60 341 25 28 97 879 
+player 646 draws a 436 from deck 646
+player 646 discards a 314 to deck 647
+player 646 current hand : 721 550 474 557 1000 577 168 821 5 1 871 674 898 60 341 25 28 97 879 436 
+player 646 draws a 922 from deck 646
+player 646 discards a 721 to deck 647
+player 646 current hand : 550 474 557 1000 577 168 821 5 1 871 674 898 60 341 25 28 97 879 436 922 
+player 646 draws a 202 from deck 646
+player 646 discards a 550 to deck 647
+player 646 current hand : 474 557 1000 577 168 821 5 1 871 674 898 60 341 25 28 97 879 436 922 202 
+player 646 draws a 540 from deck 646
+player 646 discards a 474 to deck 647
+player 646 current hand : 557 1000 577 168 821 5 1 871 674 898 60 341 25 28 97 879 436 922 202 540 
+player 646 draws a 209 from deck 646
+player 646 discards a 557 to deck 647
+player 646 current hand : 1000 577 168 821 5 1 871 674 898 60 341 25 28 97 879 436 922 202 540 209 
+player 646 draws a 870 from deck 646
+player 646 discards a 1000 to deck 647
+player 646 current hand : 577 168 821 5 1 871 674 898 60 341 25 28 97 879 436 922 202 540 209 870 
+player 646 draws a 234 from deck 646
+player 646 discards a 577 to deck 647
+player 646 current hand : 168 821 5 1 871 674 898 60 341 25 28 97 879 436 922 202 540 209 870 234 
+player 646 draws a 634 from deck 646
+player 646 discards a 168 to deck 647
+player 646 current hand : 821 5 1 871 674 898 60 341 25 28 97 879 436 922 202 540 209 870 234 634 
+player 646 draws a 951 from deck 646
+player 646 discards a 821 to deck 647
+player 646 current hand : 5 1 871 674 898 60 341 25 28 97 879 436 922 202 540 209 870 234 634 951 
+player 646 draws a 982 from deck 646
+player 646 discards a 5 to deck 647
+player 646 current hand : 1 871 674 898 60 341 25 28 97 879 436 922 202 540 209 870 234 634 951 982 
+player 646 draws a 280 from deck 646
+player 646 discards a 1 to deck 647
+player 646 current hand : 871 674 898 60 341 25 28 97 879 436 922 202 540 209 870 234 634 951 982 280 
+player 646 draws a 343 from deck 646
+player 646 discards a 871 to deck 647
+player 646 current hand : 674 898 60 341 25 28 97 879 436 922 202 540 209 870 234 634 951 982 280 343 
+player 646 draws a 83 from deck 646
+player 646 discards a 674 to deck 647
+player 646 current hand : 898 60 341 25 28 97 879 436 922 202 540 209 870 234 634 951 982 280 343 83 
+player 646 draws a 1000 from deck 646
+player 646 discards a 898 to deck 647
+player 646 current hand : 60 341 25 28 97 879 436 922 202 540 209 870 234 634 951 982 280 343 83 1000 
+player 646 draws a 282 from deck 646
+player 646 discards a 60 to deck 647
+player 646 current hand : 341 25 28 97 879 436 922 202 540 209 870 234 634 951 982 280 343 83 1000 282 
+player 646 draws a 791 from deck 646
+player 646 discards a 341 to deck 647
+player 646 current hand : 25 28 97 879 436 922 202 540 209 870 234 634 951 982 280 343 83 1000 282 791 
+player 646 draws a 37 from deck 646
+player 646 discards a 25 to deck 647
+player 646 current hand : 28 97 879 436 922 202 540 209 870 234 634 951 982 280 343 83 1000 282 791 37 
+player 646 draws a 527 from deck 646
+player 646 discards a 28 to deck 647
+player 646 current hand : 97 879 436 922 202 540 209 870 234 634 951 982 280 343 83 1000 282 791 37 527 
+player 646 draws a 686 from deck 646
+player 646 discards a 97 to deck 647
+player 646 current hand : 879 436 922 202 540 209 870 234 634 951 982 280 343 83 1000 282 791 37 527 686 
+player 646 draws a 434 from deck 646
+player 646 discards a 879 to deck 647
+player 646 current hand : 436 922 202 540 209 870 234 634 951 982 280 343 83 1000 282 791 37 527 686 434 
+player 646 draws a 441 from deck 646
+player 646 discards a 436 to deck 647
+player 646 current hand : 922 202 540 209 870 234 634 951 982 280 343 83 1000 282 791 37 527 686 434 441 
+player 646 draws a 710 from deck 646
+player 646 discards a 922 to deck 647
+player 646 current hand : 202 540 209 870 234 634 951 982 280 343 83 1000 282 791 37 527 686 434 441 710 
+player 646 draws a 901 from deck 646
+player 646 discards a 202 to deck 647
+player 646 current hand : 540 209 870 234 634 951 982 280 343 83 1000 282 791 37 527 686 434 441 710 901 
+player 646 draws a 51 from deck 646
+player 646 discards a 540 to deck 647
+player 646 current hand : 209 870 234 634 951 982 280 343 83 1000 282 791 37 527 686 434 441 710 901 51 
+player 646 draws a 343 from deck 646
+player 646 discards a 209 to deck 647
+player 646 current hand : 870 234 634 951 982 280 343 83 1000 282 791 37 527 686 434 441 710 901 51 343 
+player 646 draws a 810 from deck 646
+player 646 discards a 870 to deck 647
+player 646 current hand : 234 634 951 982 280 343 83 1000 282 791 37 527 686 434 441 710 901 51 343 810 
+player 646 draws a 470 from deck 646
+player 646 discards a 234 to deck 647
+player 646 current hand : 634 951 982 280 343 83 1000 282 791 37 527 686 434 441 710 901 51 343 810 470 
+player 646 draws a 101 from deck 646
+player 646 discards a 634 to deck 647

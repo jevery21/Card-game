@@ -1,0 +1,307 @@
+player 552 initial hand 276 120 510 544 647 469 527 98 219 612 930 212 810 899 716 839 415 196 565 72 
+player 552 draws a 224 from deck 552
+player 552 discards a 276 to deck 553
+player 552 current hand : 120 510 544 647 469 527 98 219 612 930 212 810 899 716 839 415 196 565 72 224 
+player 552 draws a 501 from deck 552
+player 552 discards a 120 to deck 553
+player 552 current hand : 510 544 647 469 527 98 219 612 930 212 810 899 716 839 415 196 565 72 224 501 
+player 552 draws a 992 from deck 552
+player 552 discards a 510 to deck 553
+player 552 current hand : 544 647 469 527 98 219 612 930 212 810 899 716 839 415 196 565 72 224 501 992 
+player 552 draws a 38 from deck 552
+player 552 discards a 544 to deck 553
+player 552 current hand : 647 469 527 98 219 612 930 212 810 899 716 839 415 196 565 72 224 501 992 38 
+player 552 draws a 180 from deck 552
+player 552 discards a 647 to deck 553
+player 552 current hand : 469 527 98 219 612 930 212 810 899 716 839 415 196 565 72 224 501 992 38 180 
+player 552 draws a 511 from deck 552
+player 552 discards a 469 to deck 553
+player 552 current hand : 527 98 219 612 930 212 810 899 716 839 415 196 565 72 224 501 992 38 180 511 
+player 552 draws a 708 from deck 552
+player 552 discards a 527 to deck 553
+player 552 current hand : 98 219 612 930 212 810 899 716 839 415 196 565 72 224 501 992 38 180 511 708 
+player 552 draws a 776 from deck 552
+player 552 discards a 98 to deck 553
+player 552 current hand : 219 612 930 212 810 899 716 839 415 196 565 72 224 501 992 38 180 511 708 776 
+player 552 draws a 542 from deck 552
+player 552 discards a 219 to deck 553
+player 552 current hand : 612 930 212 810 899 716 839 415 196 565 72 224 501 992 38 180 511 708 776 542 
+player 552 draws a 93 from deck 552
+player 552 discards a 612 to deck 553
+player 552 current hand : 930 212 810 899 716 839 415 196 565 72 224 501 992 38 180 511 708 776 542 93 
+player 552 draws a 455 from deck 552
+player 552 discards a 930 to deck 553
+player 552 current hand : 212 810 899 716 839 415 196 565 72 224 501 992 38 180 511 708 776 542 93 455 
+player 552 draws a 709 from deck 552
+player 552 discards a 212 to deck 553
+player 552 current hand : 810 899 716 839 415 196 565 72 224 501 992 38 180 511 708 776 542 93 455 709 
+player 552 draws a 862 from deck 552
+player 552 discards a 810 to deck 553
+player 552 current hand : 899 716 839 415 196 565 72 224 501 992 38 180 511 708 776 542 93 455 709 862 
+player 552 draws a 522 from deck 552
+player 552 discards a 899 to deck 553
+player 552 current hand : 716 839 415 196 565 72 224 501 992 38 180 511 708 776 542 93 455 709 862 522 
+player 552 draws a 753 from deck 552
+player 552 discards a 716 to deck 553
+player 552 current hand : 839 415 196 565 72 224 501 992 38 180 511 708 776 542 93 455 709 862 522 753 
+player 552 draws a 860 from deck 552
+player 552 discards a 839 to deck 553
+player 552 current hand : 415 196 565 72 224 501 992 38 180 511 708 776 542 93 455 709 862 522 753 860 
+player 552 draws a 620 from deck 552
+player 552 discards a 415 to deck 553
+player 552 current hand : 196 565 72 224 501 992 38 180 511 708 776 542 93 455 709 862 522 753 860 620 
+player 552 draws a 224 from deck 552
+player 552 discards a 196 to deck 553
+player 552 current hand : 565 72 224 501 992 38 180 511 708 776 542 93 455 709 862 522 753 860 620 224 
+player 552 draws a 920 from deck 552
+player 552 discards a 565 to deck 553
+player 552 current hand : 72 224 501 992 38 180 511 708 776 542 93 455 709 862 522 753 860 620 224 920 
+player 552 draws a 991 from deck 552
+player 552 discards a 72 to deck 553
+player 552 current hand : 224 501 992 38 180 511 708 776 542 93 455 709 862 522 753 860 620 224 920 991 
+player 552 draws a 27 from deck 552
+player 552 discards a 224 to deck 553
+player 552 current hand : 501 992 38 180 511 708 776 542 93 455 709 862 522 753 860 620 224 920 991 27 
+player 552 draws a 285 from deck 552
+player 552 discards a 501 to deck 553
+player 552 current hand : 992 38 180 511 708 776 542 93 455 709 862 522 753 860 620 224 920 991 27 285 
+player 552 draws a 182 from deck 552
+player 552 discards a 992 to deck 553
+player 552 current hand : 38 180 511 708 776 542 93 455 709 862 522 753 860 620 224 920 991 27 285 182 
+player 552 draws a 290 from deck 552
+player 552 discards a 38 to deck 553
+player 552 current hand : 180 511 708 776 542 93 455 709 862 522 753 860 620 224 920 991 27 285 182 290 
+player 552 draws a 7 from deck 552
+player 552 discards a 180 to deck 553
+player 552 current hand : 511 708 776 542 93 455 709 862 522 753 860 620 224 920 991 27 285 182 290 7 
+player 552 draws a 724 from deck 552
+player 552 discards a 511 to deck 553
+player 552 current hand : 708 776 542 93 455 709 862 522 753 860 620 224 920 991 27 285 182 290 7 724 
+player 552 draws a 100 from deck 552
+player 552 discards a 708 to deck 553
+player 552 current hand : 776 542 93 455 709 862 522 753 860 620 224 920 991 27 285 182 290 7 724 100 
+player 552 draws a 549 from deck 552
+player 552 discards a 776 to deck 553
+player 552 current hand : 542 93 455 709 862 522 753 860 620 224 920 991 27 285 182 290 7 724 100 549 
+player 552 draws a 581 from deck 552
+player 552 discards a 542 to deck 553
+player 552 current hand : 93 455 709 862 522 753 860 620 224 920 991 27 285 182 290 7 724 100 549 581 
+player 552 draws a 282 from deck 552
+player 552 discards a 93 to deck 553
+player 552 current hand : 455 709 862 522 753 860 620 224 920 991 27 285 182 290 7 724 100 549 581 282 
+player 552 draws a 60 from deck 552
+player 552 discards a 455 to deck 553
+player 552 current hand : 709 862 522 753 860 620 224 920 991 27 285 182 290 7 724 100 549 581 282 60 
+player 552 draws a 924 from deck 552
+player 552 discards a 709 to deck 553
+player 552 current hand : 862 522 753 860 620 224 920 991 27 285 182 290 7 724 100 549 581 282 60 924 
+player 552 draws a 490 from deck 552
+player 552 discards a 862 to deck 553
+player 552 current hand : 522 753 860 620 224 920 991 27 285 182 290 7 724 100 549 581 282 60 924 490 
+player 552 draws a 924 from deck 552
+player 552 discards a 522 to deck 553
+player 552 current hand : 753 860 620 224 920 991 27 285 182 290 7 724 100 549 581 282 60 924 490 924 
+player 552 draws a 879 from deck 552
+player 552 discards a 753 to deck 553
+player 552 current hand : 860 620 224 920 991 27 285 182 290 7 724 100 549 581 282 60 924 490 924 879 
+player 552 draws a 255 from deck 552
+player 552 discards a 860 to deck 553
+player 552 current hand : 620 224 920 991 27 285 182 290 7 724 100 549 581 282 60 924 490 924 879 255 
+player 552 draws a 178 from deck 552
+player 552 discards a 620 to deck 553
+player 552 current hand : 224 920 991 27 285 182 290 7 724 100 549 581 282 60 924 490 924 879 255 178 
+player 552 draws a 228 from deck 552
+player 552 discards a 224 to deck 553
+player 552 current hand : 920 991 27 285 182 290 7 724 100 549 581 282 60 924 490 924 879 255 178 228 
+player 552 draws a 713 from deck 552
+player 552 discards a 920 to deck 553
+player 552 current hand : 991 27 285 182 290 7 724 100 549 581 282 60 924 490 924 879 255 178 228 713 
+player 552 draws a 177 from deck 552
+player 552 discards a 991 to deck 553
+player 552 current hand : 27 285 182 290 7 724 100 549 581 282 60 924 490 924 879 255 178 228 713 177 
+player 552 draws a 614 from deck 552
+player 552 discards a 27 to deck 553
+player 552 current hand : 285 182 290 7 724 100 549 581 282 60 924 490 924 879 255 178 228 713 177 614 
+player 552 draws a 634 from deck 552
+player 552 discards a 285 to deck 553
+player 552 current hand : 182 290 7 724 100 549 581 282 60 924 490 924 879 255 178 228 713 177 614 634 
+player 552 draws a 120 from deck 552
+player 552 discards a 182 to deck 553
+player 552 current hand : 290 7 724 100 549 581 282 60 924 490 924 879 255 178 228 713 177 614 634 120 
+player 552 draws a 293 from deck 552
+player 552 discards a 290 to deck 553
+player 552 current hand : 7 724 100 549 581 282 60 924 490 924 879 255 178 228 713 177 614 634 120 293 
+player 552 draws a 776 from deck 552
+player 552 discards a 7 to deck 553
+player 552 current hand : 724 100 549 581 282 60 924 490 924 879 255 178 228 713 177 614 634 120 293 776 
+player 552 draws a 420 from deck 552
+player 552 discards a 724 to deck 553
+player 552 current hand : 100 549 581 282 60 924 490 924 879 255 178 228 713 177 614 634 120 293 776 420 
+player 552 draws a 452 from deck 552
+player 552 discards a 100 to deck 553
+player 552 current hand : 549 581 282 60 924 490 924 879 255 178 228 713 177 614 634 120 293 776 420 452 
+player 552 draws a 856 from deck 552
+player 552 discards a 549 to deck 553
+player 552 current hand : 581 282 60 924 490 924 879 255 178 228 713 177 614 634 120 293 776 420 452 856 
+player 552 draws a 960 from deck 552
+player 552 discards a 581 to deck 553
+player 552 current hand : 282 60 924 490 924 879 255 178 228 713 177 614 634 120 293 776 420 452 856 960 
+player 552 draws a 111 from deck 552
+player 552 discards a 282 to deck 553
+player 552 current hand : 60 924 490 924 879 255 178 228 713 177 614 634 120 293 776 420 452 856 960 111 
+player 552 draws a 507 from deck 552
+player 552 discards a 60 to deck 553
+player 552 current hand : 924 490 924 879 255 178 228 713 177 614 634 120 293 776 420 452 856 960 111 507 
+player 552 draws a 757 from deck 552
+player 552 discards a 924 to deck 553
+player 552 current hand : 490 924 879 255 178 228 713 177 614 634 120 293 776 420 452 856 960 111 507 757 
+player 552 draws a 717 from deck 552
+player 552 discards a 490 to deck 553
+player 552 current hand : 924 879 255 178 228 713 177 614 634 120 293 776 420 452 856 960 111 507 757 717 
+player 552 draws a 592 from deck 552
+player 552 discards a 924 to deck 553
+player 552 current hand : 879 255 178 228 713 177 614 634 120 293 776 420 452 856 960 111 507 757 717 592 
+player 552 draws a 605 from deck 552
+player 552 discards a 879 to deck 553
+player 552 current hand : 255 178 228 713 177 614 634 120 293 776 420 452 856 960 111 507 757 717 592 605 
+player 552 draws a 605 from deck 552
+player 552 discards a 255 to deck 553
+player 552 current hand : 178 228 713 177 614 634 120 293 776 420 452 856 960 111 507 757 717 592 605 605 
+player 552 draws a 377 from deck 552
+player 552 discards a 178 to deck 553
+player 552 current hand : 228 713 177 614 634 120 293 776 420 452 856 960 111 507 757 717 592 605 605 377 
+player 552 draws a 411 from deck 552
+player 552 discards a 228 to deck 553
+player 552 current hand : 713 177 614 634 120 293 776 420 452 856 960 111 507 757 717 592 605 605 377 411 
+player 552 draws a 473 from deck 552
+player 552 discards a 713 to deck 553
+player 552 current hand : 177 614 634 120 293 776 420 452 856 960 111 507 757 717 592 605 605 377 411 473 
+player 552 draws a 237 from deck 552
+player 552 discards a 177 to deck 553
+player 552 current hand : 614 634 120 293 776 420 452 856 960 111 507 757 717 592 605 605 377 411 473 237 
+player 552 draws a 787 from deck 552
+player 552 discards a 614 to deck 553
+player 552 current hand : 634 120 293 776 420 452 856 960 111 507 757 717 592 605 605 377 411 473 237 787 
+player 552 draws a 142 from deck 552
+player 552 discards a 634 to deck 553
+player 552 current hand : 120 293 776 420 452 856 960 111 507 757 717 592 605 605 377 411 473 237 787 142 
+player 552 draws a 350 from deck 552
+player 552 discards a 120 to deck 553
+player 552 current hand : 293 776 420 452 856 960 111 507 757 717 592 605 605 377 411 473 237 787 142 350 
+player 552 draws a 455 from deck 552
+player 552 discards a 293 to deck 553
+player 552 current hand : 776 420 452 856 960 111 507 757 717 592 605 605 377 411 473 237 787 142 350 455 
+player 552 draws a 518 from deck 552
+player 552 discards a 776 to deck 553
+player 552 current hand : 420 452 856 960 111 507 757 717 592 605 605 377 411 473 237 787 142 350 455 518 
+player 552 draws a 158 from deck 552
+player 552 discards a 420 to deck 553
+player 552 current hand : 452 856 960 111 507 757 717 592 605 605 377 411 473 237 787 142 350 455 518 158 
+player 552 draws a 585 from deck 552
+player 552 discards a 452 to deck 553
+player 552 current hand : 856 960 111 507 757 717 592 605 605 377 411 473 237 787 142 350 455 518 158 585 
+player 552 draws a 643 from deck 552
+player 552 discards a 856 to deck 553
+player 552 current hand : 960 111 507 757 717 592 605 605 377 411 473 237 787 142 350 455 518 158 585 643 
+player 552 draws a 728 from deck 552
+player 552 discards a 960 to deck 553
+player 552 current hand : 111 507 757 717 592 605 605 377 411 473 237 787 142 350 455 518 158 585 643 728 
+player 552 draws a 994 from deck 552
+player 552 discards a 111 to deck 553
+player 552 current hand : 507 757 717 592 605 605 377 411 473 237 787 142 350 455 518 158 585 643 728 994 
+player 552 draws a 581 from deck 552
+player 552 discards a 507 to deck 553
+player 552 current hand : 757 717 592 605 605 377 411 473 237 787 142 350 455 518 158 585 643 728 994 581 
+player 552 draws a 686 from deck 552
+player 552 discards a 757 to deck 553
+player 552 current hand : 717 592 605 605 377 411 473 237 787 142 350 455 518 158 585 643 728 994 581 686 
+player 552 draws a 283 from deck 552
+player 552 discards a 717 to deck 553
+player 552 current hand : 592 605 605 377 411 473 237 787 142 350 455 518 158 585 643 728 994 581 686 283 
+player 552 draws a 499 from deck 552
+player 552 discards a 592 to deck 553
+player 552 current hand : 605 605 377 411 473 237 787 142 350 455 518 158 585 643 728 994 581 686 283 499 
+player 552 draws a 458 from deck 552
+player 552 discards a 605 to deck 553
+player 552 current hand : 605 377 411 473 237 787 142 350 455 518 158 585 643 728 994 581 686 283 499 458 
+player 552 draws a 320 from deck 552
+player 552 discards a 605 to deck 553
+player 552 current hand : 377 411 473 237 787 142 350 455 518 158 585 643 728 994 581 686 283 499 458 320 
+player 552 draws a 530 from deck 552
+player 552 discards a 377 to deck 553
+player 552 current hand : 411 473 237 787 142 350 455 518 158 585 643 728 994 581 686 283 499 458 320 530 
+player 552 draws a 670 from deck 552
+player 552 discards a 411 to deck 553
+player 552 current hand : 473 237 787 142 350 455 518 158 585 643 728 994 581 686 283 499 458 320 530 670 
+player 552 draws a 373 from deck 552
+player 552 discards a 473 to deck 553
+player 552 current hand : 237 787 142 350 455 518 158 585 643 728 994 581 686 283 499 458 320 530 670 373 
+player 552 draws a 245 from deck 552
+player 552 discards a 237 to deck 553
+player 552 current hand : 787 142 350 455 518 158 585 643 728 994 581 686 283 499 458 320 530 670 373 245 
+player 552 draws a 726 from deck 552
+player 552 discards a 787 to deck 553
+player 552 current hand : 142 350 455 518 158 585 643 728 994 581 686 283 499 458 320 530 670 373 245 726 
+player 552 draws a 413 from deck 552
+player 552 discards a 142 to deck 553
+player 552 current hand : 350 455 518 158 585 643 728 994 581 686 283 499 458 320 530 670 373 245 726 413 
+player 552 draws a 696 from deck 552
+player 552 discards a 350 to deck 553
+player 552 current hand : 455 518 158 585 643 728 994 581 686 283 499 458 320 530 670 373 245 726 413 696 
+player 552 draws a 664 from deck 552
+player 552 discards a 455 to deck 553
+player 552 current hand : 518 158 585 643 728 994 581 686 283 499 458 320 530 670 373 245 726 413 696 664 
+player 552 draws a 871 from deck 552
+player 552 discards a 518 to deck 553
+player 552 current hand : 158 585 643 728 994 581 686 283 499 458 320 530 670 373 245 726 413 696 664 871 
+player 552 draws a 691 from deck 552
+player 552 discards a 158 to deck 553
+player 552 current hand : 585 643 728 994 581 686 283 499 458 320 530 670 373 245 726 413 696 664 871 691 
+player 552 draws a 407 from deck 552
+player 552 discards a 585 to deck 553
+player 552 current hand : 643 728 994 581 686 283 499 458 320 530 670 373 245 726 413 696 664 871 691 407 
+player 552 draws a 329 from deck 552
+player 552 discards a 643 to deck 553
+player 552 current hand : 728 994 581 686 283 499 458 320 530 670 373 245 726 413 696 664 871 691 407 329 
+player 552 draws a 968 from deck 552
+player 552 discards a 728 to deck 553
+player 552 current hand : 994 581 686 283 499 458 320 530 670 373 245 726 413 696 664 871 691 407 329 968 
+player 552 draws a 808 from deck 552
+player 552 discards a 994 to deck 553
+player 552 current hand : 581 686 283 499 458 320 530 670 373 245 726 413 696 664 871 691 407 329 968 808 
+player 552 draws a 957 from deck 552
+player 552 discards a 581 to deck 553
+player 552 current hand : 686 283 499 458 320 530 670 373 245 726 413 696 664 871 691 407 329 968 808 957 
+player 552 draws a 969 from deck 552
+player 552 discards a 686 to deck 553
+player 552 current hand : 283 499 458 320 530 670 373 245 726 413 696 664 871 691 407 329 968 808 957 969 
+player 552 draws a 539 from deck 552
+player 552 discards a 283 to deck 553
+player 552 current hand : 499 458 320 530 670 373 245 726 413 696 664 871 691 407 329 968 808 957 969 539 
+player 552 draws a 303 from deck 552
+player 552 discards a 499 to deck 553
+player 552 current hand : 458 320 530 670 373 245 726 413 696 664 871 691 407 329 968 808 957 969 539 303 
+player 552 draws a 933 from deck 552
+player 552 discards a 458 to deck 553
+player 552 current hand : 320 530 670 373 245 726 413 696 664 871 691 407 329 968 808 957 969 539 303 933 
+player 552 draws a 702 from deck 552
+player 552 discards a 320 to deck 553
+player 552 current hand : 530 670 373 245 726 413 696 664 871 691 407 329 968 808 957 969 539 303 933 702 
+player 552 draws a 481 from deck 552
+player 552 discards a 530 to deck 553
+player 552 current hand : 670 373 245 726 413 696 664 871 691 407 329 968 808 957 969 539 303 933 702 481 
+player 552 draws a 854 from deck 552
+player 552 discards a 670 to deck 553
+player 552 current hand : 373 245 726 413 696 664 871 691 407 329 968 808 957 969 539 303 933 702 481 854 
+player 552 draws a 61 from deck 552
+player 552 discards a 373 to deck 553
+player 552 current hand : 245 726 413 696 664 871 691 407 329 968 808 957 969 539 303 933 702 481 854 61 
+player 552 draws a 531 from deck 552
+player 552 discards a 245 to deck 553
+player 552 current hand : 726 413 696 664 871 691 407 329 968 808 957 969 539 303 933 702 481 854 61 531 
+player 552 draws a 993 from deck 552
+player 552 discards a 726 to deck 553
+player 552 current hand : 413 696 664 871 691 407 329 968 808 957 969 539 303 933 702 481 854 61 531 993 
+player 552 draws a 401 from deck 552
+player 552 discards a 413 to deck 553
+player 552 current hand : 696 664 871 691 407 329 968 808 957 969 539 303 933 702 481 854 61 531 993 401 

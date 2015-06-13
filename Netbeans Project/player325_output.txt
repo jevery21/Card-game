@@ -1,0 +1,332 @@
+player 325 initial hand 757 921 535 960 1000 458 319 29 906 4 598 792 577 728 796 834 865 471 292 570 
+player 325 draws a 17 from deck 325
+player 325 discards a 757 to deck 326
+player 325 current hand : 921 535 960 1000 458 319 29 906 4 598 792 577 728 796 834 865 471 292 570 17 
+player 325 draws a 363 from deck 325
+player 325 discards a 921 to deck 326
+player 325 current hand : 535 960 1000 458 319 29 906 4 598 792 577 728 796 834 865 471 292 570 17 363 
+player 325 draws a 28 from deck 325
+player 325 discards a 535 to deck 326
+player 325 current hand : 960 1000 458 319 29 906 4 598 792 577 728 796 834 865 471 292 570 17 363 28 
+player 325 draws a 52 from deck 325
+player 325 discards a 960 to deck 326
+player 325 current hand : 1000 458 319 29 906 4 598 792 577 728 796 834 865 471 292 570 17 363 28 52 
+player 325 draws a 533 from deck 325
+player 325 discards a 1000 to deck 326
+player 325 current hand : 458 319 29 906 4 598 792 577 728 796 834 865 471 292 570 17 363 28 52 533 
+player 325 draws a 879 from deck 325
+player 325 discards a 458 to deck 326
+player 325 current hand : 319 29 906 4 598 792 577 728 796 834 865 471 292 570 17 363 28 52 533 879 
+player 325 draws a 636 from deck 325
+player 325 discards a 319 to deck 326
+player 325 current hand : 29 906 4 598 792 577 728 796 834 865 471 292 570 17 363 28 52 533 879 636 
+player 325 draws a 427 from deck 325
+player 325 discards a 29 to deck 326
+player 325 current hand : 906 4 598 792 577 728 796 834 865 471 292 570 17 363 28 52 533 879 636 427 
+player 325 draws a 442 from deck 325
+player 325 discards a 906 to deck 326
+player 325 current hand : 4 598 792 577 728 796 834 865 471 292 570 17 363 28 52 533 879 636 427 442 
+player 325 draws a 252 from deck 325
+player 325 discards a 4 to deck 326
+player 325 current hand : 598 792 577 728 796 834 865 471 292 570 17 363 28 52 533 879 636 427 442 252 
+player 325 draws a 800 from deck 325
+player 325 discards a 598 to deck 326
+player 325 current hand : 792 577 728 796 834 865 471 292 570 17 363 28 52 533 879 636 427 442 252 800 
+player 325 draws a 922 from deck 325
+player 325 discards a 792 to deck 326
+player 325 current hand : 577 728 796 834 865 471 292 570 17 363 28 52 533 879 636 427 442 252 800 922 
+player 325 draws a 18 from deck 325
+player 325 discards a 577 to deck 326
+player 325 current hand : 728 796 834 865 471 292 570 17 363 28 52 533 879 636 427 442 252 800 922 18 
+player 325 draws a 611 from deck 325
+player 325 discards a 728 to deck 326
+player 325 current hand : 796 834 865 471 292 570 17 363 28 52 533 879 636 427 442 252 800 922 18 611 
+player 325 draws a 956 from deck 325
+player 325 discards a 796 to deck 326
+player 325 current hand : 834 865 471 292 570 17 363 28 52 533 879 636 427 442 252 800 922 18 611 956 
+player 325 draws a 707 from deck 325
+player 325 discards a 834 to deck 326
+player 325 current hand : 865 471 292 570 17 363 28 52 533 879 636 427 442 252 800 922 18 611 956 707 
+player 325 draws a 33 from deck 325
+player 325 discards a 865 to deck 326
+player 325 current hand : 471 292 570 17 363 28 52 533 879 636 427 442 252 800 922 18 611 956 707 33 
+player 325 draws a 438 from deck 325
+player 325 discards a 471 to deck 326
+player 325 current hand : 292 570 17 363 28 52 533 879 636 427 442 252 800 922 18 611 956 707 33 438 
+player 325 draws a 24 from deck 325
+player 325 discards a 292 to deck 326
+player 325 current hand : 570 17 363 28 52 533 879 636 427 442 252 800 922 18 611 956 707 33 438 24 
+player 325 draws a 217 from deck 325
+player 325 discards a 570 to deck 326
+player 325 current hand : 17 363 28 52 533 879 636 427 442 252 800 922 18 611 956 707 33 438 24 217 
+player 325 draws a 495 from deck 325
+player 325 discards a 17 to deck 326
+player 325 current hand : 363 28 52 533 879 636 427 442 252 800 922 18 611 956 707 33 438 24 217 495 
+player 325 draws a 106 from deck 325
+player 325 discards a 363 to deck 326
+player 325 current hand : 28 52 533 879 636 427 442 252 800 922 18 611 956 707 33 438 24 217 495 106 
+player 325 draws a 669 from deck 325
+player 325 discards a 28 to deck 326
+player 325 current hand : 52 533 879 636 427 442 252 800 922 18 611 956 707 33 438 24 217 495 106 669 
+player 325 draws a 19 from deck 325
+player 325 discards a 52 to deck 326
+player 325 current hand : 533 879 636 427 442 252 800 922 18 611 956 707 33 438 24 217 495 106 669 19 
+player 325 draws a 20 from deck 325
+player 325 discards a 533 to deck 326
+player 325 current hand : 879 636 427 442 252 800 922 18 611 956 707 33 438 24 217 495 106 669 19 20 
+player 325 draws a 65 from deck 325
+player 325 discards a 879 to deck 326
+player 325 current hand : 636 427 442 252 800 922 18 611 956 707 33 438 24 217 495 106 669 19 20 65 
+player 325 draws a 163 from deck 325
+player 325 discards a 636 to deck 326
+player 325 current hand : 427 442 252 800 922 18 611 956 707 33 438 24 217 495 106 669 19 20 65 163 
+player 325 draws a 40 from deck 325
+player 325 discards a 427 to deck 326
+player 325 current hand : 442 252 800 922 18 611 956 707 33 438 24 217 495 106 669 19 20 65 163 40 
+player 325 draws a 773 from deck 325
+player 325 discards a 442 to deck 326
+player 325 current hand : 252 800 922 18 611 956 707 33 438 24 217 495 106 669 19 20 65 163 40 773 
+player 325 draws a 136 from deck 325
+player 325 discards a 252 to deck 326
+player 325 current hand : 800 922 18 611 956 707 33 438 24 217 495 106 669 19 20 65 163 40 773 136 
+player 325 draws a 845 from deck 325
+player 325 discards a 800 to deck 326
+player 325 current hand : 922 18 611 956 707 33 438 24 217 495 106 669 19 20 65 163 40 773 136 845 
+player 325 draws a 740 from deck 325
+player 325 discards a 922 to deck 326
+player 325 current hand : 18 611 956 707 33 438 24 217 495 106 669 19 20 65 163 40 773 136 845 740 
+player 325 draws a 196 from deck 325
+player 325 discards a 18 to deck 326
+player 325 current hand : 611 956 707 33 438 24 217 495 106 669 19 20 65 163 40 773 136 845 740 196 
+player 325 draws a 346 from deck 325
+player 325 discards a 611 to deck 326
+player 325 current hand : 956 707 33 438 24 217 495 106 669 19 20 65 163 40 773 136 845 740 196 346 
+player 325 draws a 975 from deck 325
+player 325 discards a 956 to deck 326
+player 325 current hand : 707 33 438 24 217 495 106 669 19 20 65 163 40 773 136 845 740 196 346 975 
+player 325 draws a 515 from deck 325
+player 325 discards a 707 to deck 326
+player 325 current hand : 33 438 24 217 495 106 669 19 20 65 163 40 773 136 845 740 196 346 975 515 
+player 325 draws a 578 from deck 325
+player 325 discards a 33 to deck 326
+player 325 current hand : 438 24 217 495 106 669 19 20 65 163 40 773 136 845 740 196 346 975 515 578 
+player 325 draws a 821 from deck 325
+player 325 discards a 438 to deck 326
+player 325 current hand : 24 217 495 106 669 19 20 65 163 40 773 136 845 740 196 346 975 515 578 821 
+player 325 draws a 784 from deck 325
+player 325 discards a 24 to deck 326
+player 325 current hand : 217 495 106 669 19 20 65 163 40 773 136 845 740 196 346 975 515 578 821 784 
+player 325 draws a 523 from deck 325
+player 325 discards a 217 to deck 326
+player 325 current hand : 495 106 669 19 20 65 163 40 773 136 845 740 196 346 975 515 578 821 784 523 
+player 325 draws a 927 from deck 325
+player 325 discards a 495 to deck 326
+player 325 current hand : 106 669 19 20 65 163 40 773 136 845 740 196 346 975 515 578 821 784 523 927 
+player 325 draws a 344 from deck 325
+player 325 discards a 106 to deck 326
+player 325 current hand : 669 19 20 65 163 40 773 136 845 740 196 346 975 515 578 821 784 523 927 344 
+player 325 draws a 133 from deck 325
+player 325 discards a 669 to deck 326
+player 325 current hand : 19 20 65 163 40 773 136 845 740 196 346 975 515 578 821 784 523 927 344 133 
+player 325 draws a 915 from deck 325
+player 325 discards a 19 to deck 326
+player 325 current hand : 20 65 163 40 773 136 845 740 196 346 975 515 578 821 784 523 927 344 133 915 
+player 325 draws a 899 from deck 325
+player 325 discards a 20 to deck 326
+player 325 current hand : 65 163 40 773 136 845 740 196 346 975 515 578 821 784 523 927 344 133 915 899 
+player 325 draws a 189 from deck 325
+player 325 discards a 65 to deck 326
+player 325 current hand : 163 40 773 136 845 740 196 346 975 515 578 821 784 523 927 344 133 915 899 189 
+player 325 draws a 521 from deck 325
+player 325 discards a 163 to deck 326
+player 325 current hand : 40 773 136 845 740 196 346 975 515 578 821 784 523 927 344 133 915 899 189 521 
+player 325 draws a 655 from deck 325
+player 325 discards a 40 to deck 326
+player 325 current hand : 773 136 845 740 196 346 975 515 578 821 784 523 927 344 133 915 899 189 521 655 
+player 325 draws a 100 from deck 325
+player 325 discards a 773 to deck 326
+player 325 current hand : 136 845 740 196 346 975 515 578 821 784 523 927 344 133 915 899 189 521 655 100 
+player 325 draws a 492 from deck 325
+player 325 discards a 136 to deck 326
+player 325 current hand : 845 740 196 346 975 515 578 821 784 523 927 344 133 915 899 189 521 655 100 492 
+player 325 draws a 384 from deck 325
+player 325 discards a 845 to deck 326
+player 325 current hand : 740 196 346 975 515 578 821 784 523 927 344 133 915 899 189 521 655 100 492 384 
+player 325 draws a 612 from deck 325
+player 325 discards a 740 to deck 326
+player 325 current hand : 196 346 975 515 578 821 784 523 927 344 133 915 899 189 521 655 100 492 384 612 
+player 325 draws a 452 from deck 325
+player 325 discards a 196 to deck 326
+player 325 current hand : 346 975 515 578 821 784 523 927 344 133 915 899 189 521 655 100 492 384 612 452 
+player 325 draws a 237 from deck 325
+player 325 discards a 346 to deck 326
+player 325 current hand : 975 515 578 821 784 523 927 344 133 915 899 189 521 655 100 492 384 612 452 237 
+player 325 draws a 239 from deck 325
+player 325 discards a 975 to deck 326
+player 325 current hand : 515 578 821 784 523 927 344 133 915 899 189 521 655 100 492 384 612 452 237 239 
+player 325 draws a 455 from deck 325
+player 325 discards a 515 to deck 326
+player 325 current hand : 578 821 784 523 927 344 133 915 899 189 521 655 100 492 384 612 452 237 239 455 
+player 325 draws a 239 from deck 325
+player 325 discards a 578 to deck 326
+player 325 current hand : 821 784 523 927 344 133 915 899 189 521 655 100 492 384 612 452 237 239 455 239 
+player 325 draws a 81 from deck 325
+player 325 discards a 821 to deck 326
+player 325 current hand : 784 523 927 344 133 915 899 189 521 655 100 492 384 612 452 237 239 455 239 81 
+player 325 draws a 729 from deck 325
+player 325 discards a 784 to deck 326
+player 325 current hand : 523 927 344 133 915 899 189 521 655 100 492 384 612 452 237 239 455 239 81 729 
+player 325 draws a 457 from deck 325
+player 325 discards a 523 to deck 326
+player 325 current hand : 927 344 133 915 899 189 521 655 100 492 384 612 452 237 239 455 239 81 729 457 
+player 325 draws a 860 from deck 325
+player 325 discards a 927 to deck 326
+player 325 current hand : 344 133 915 899 189 521 655 100 492 384 612 452 237 239 455 239 81 729 457 860 
+player 325 draws a 339 from deck 325
+player 325 discards a 344 to deck 326
+player 325 current hand : 133 915 899 189 521 655 100 492 384 612 452 237 239 455 239 81 729 457 860 339 
+player 325 draws a 478 from deck 325
+player 325 discards a 133 to deck 326
+player 325 current hand : 915 899 189 521 655 100 492 384 612 452 237 239 455 239 81 729 457 860 339 478 
+player 325 draws a 787 from deck 325
+player 325 discards a 915 to deck 326
+player 325 current hand : 899 189 521 655 100 492 384 612 452 237 239 455 239 81 729 457 860 339 478 787 
+player 325 draws a 386 from deck 325
+player 325 discards a 899 to deck 326
+player 325 current hand : 189 521 655 100 492 384 612 452 237 239 455 239 81 729 457 860 339 478 787 386 
+player 325 draws a 890 from deck 325
+player 325 discards a 189 to deck 326
+player 325 current hand : 521 655 100 492 384 612 452 237 239 455 239 81 729 457 860 339 478 787 386 890 
+player 325 draws a 778 from deck 325
+player 325 discards a 521 to deck 326
+player 325 current hand : 655 100 492 384 612 452 237 239 455 239 81 729 457 860 339 478 787 386 890 778 
+player 325 draws a 298 from deck 325
+player 325 discards a 655 to deck 326
+player 325 current hand : 100 492 384 612 452 237 239 455 239 81 729 457 860 339 478 787 386 890 778 298 
+player 325 draws a 685 from deck 325
+player 325 discards a 100 to deck 326
+player 325 current hand : 492 384 612 452 237 239 455 239 81 729 457 860 339 478 787 386 890 778 298 685 
+player 325 draws a 941 from deck 325
+player 325 discards a 492 to deck 326
+player 325 current hand : 384 612 452 237 239 455 239 81 729 457 860 339 478 787 386 890 778 298 685 941 
+player 325 draws a 973 from deck 325
+player 325 discards a 384 to deck 326
+player 325 current hand : 612 452 237 239 455 239 81 729 457 860 339 478 787 386 890 778 298 685 941 973 
+player 325 draws a 723 from deck 325
+player 325 discards a 612 to deck 326
+player 325 current hand : 452 237 239 455 239 81 729 457 860 339 478 787 386 890 778 298 685 941 973 723 
+player 325 draws a 171 from deck 325
+player 325 discards a 452 to deck 326
+player 325 current hand : 237 239 455 239 81 729 457 860 339 478 787 386 890 778 298 685 941 973 723 171 
+player 325 draws a 951 from deck 325
+player 325 discards a 237 to deck 326
+player 325 current hand : 239 455 239 81 729 457 860 339 478 787 386 890 778 298 685 941 973 723 171 951 
+player 325 draws a 765 from deck 325
+player 325 discards a 239 to deck 326
+player 325 current hand : 455 239 81 729 457 860 339 478 787 386 890 778 298 685 941 973 723 171 951 765 
+player 325 draws a 631 from deck 325
+player 325 discards a 455 to deck 326
+player 325 current hand : 239 81 729 457 860 339 478 787 386 890 778 298 685 941 973 723 171 951 765 631 
+player 325 draws a 939 from deck 325
+player 325 discards a 239 to deck 326
+player 325 current hand : 81 729 457 860 339 478 787 386 890 778 298 685 941 973 723 171 951 765 631 939 
+player 325 draws a 991 from deck 325
+player 325 discards a 81 to deck 326
+player 325 current hand : 729 457 860 339 478 787 386 890 778 298 685 941 973 723 171 951 765 631 939 991 
+player 325 draws a 1000 from deck 325
+player 325 discards a 729 to deck 326
+player 325 current hand : 457 860 339 478 787 386 890 778 298 685 941 973 723 171 951 765 631 939 991 1000 
+player 325 draws a 186 from deck 325
+player 325 discards a 457 to deck 326
+player 325 current hand : 860 339 478 787 386 890 778 298 685 941 973 723 171 951 765 631 939 991 1000 186 
+player 325 draws a 631 from deck 325
+player 325 discards a 860 to deck 326
+player 325 current hand : 339 478 787 386 890 778 298 685 941 973 723 171 951 765 631 939 991 1000 186 631 
+player 325 draws a 640 from deck 325
+player 325 discards a 339 to deck 326
+player 325 current hand : 478 787 386 890 778 298 685 941 973 723 171 951 765 631 939 991 1000 186 631 640 
+player 325 draws a 393 from deck 325
+player 325 discards a 478 to deck 326
+player 325 current hand : 787 386 890 778 298 685 941 973 723 171 951 765 631 939 991 1000 186 631 640 393 
+player 325 draws a 460 from deck 325
+player 325 discards a 787 to deck 326
+player 325 current hand : 386 890 778 298 685 941 973 723 171 951 765 631 939 991 1000 186 631 640 393 460 
+player 325 draws a 189 from deck 325
+player 325 discards a 386 to deck 326
+player 325 current hand : 890 778 298 685 941 973 723 171 951 765 631 939 991 1000 186 631 640 393 460 189 
+player 325 draws a 430 from deck 325
+player 325 discards a 890 to deck 326
+player 325 current hand : 778 298 685 941 973 723 171 951 765 631 939 991 1000 186 631 640 393 460 189 430 
+player 325 draws a 926 from deck 325
+player 325 discards a 778 to deck 326
+player 325 current hand : 298 685 941 973 723 171 951 765 631 939 991 1000 186 631 640 393 460 189 430 926 
+player 325 draws a 499 from deck 325
+player 325 discards a 298 to deck 326
+player 325 current hand : 685 941 973 723 171 951 765 631 939 991 1000 186 631 640 393 460 189 430 926 499 
+player 325 draws a 754 from deck 325
+player 325 discards a 685 to deck 326
+player 325 current hand : 941 973 723 171 951 765 631 939 991 1000 186 631 640 393 460 189 430 926 499 754 
+player 325 draws a 321 from deck 325
+player 325 discards a 941 to deck 326
+player 325 current hand : 973 723 171 951 765 631 939 991 1000 186 631 640 393 460 189 430 926 499 754 321 
+player 325 draws a 587 from deck 325
+player 325 discards a 973 to deck 326
+player 325 current hand : 723 171 951 765 631 939 991 1000 186 631 640 393 460 189 430 926 499 754 321 587 
+player 325 draws a 423 from deck 325
+player 325 discards a 723 to deck 326
+player 325 current hand : 171 951 765 631 939 991 1000 186 631 640 393 460 189 430 926 499 754 321 587 423 
+player 325 draws a 3 from deck 325
+player 325 discards a 171 to deck 326
+player 325 current hand : 951 765 631 939 991 1000 186 631 640 393 460 189 430 926 499 754 321 587 423 3 
+player 325 draws a 120 from deck 325
+player 325 discards a 951 to deck 326
+player 325 current hand : 765 631 939 991 1000 186 631 640 393 460 189 430 926 499 754 321 587 423 3 120 
+player 325 draws a 603 from deck 325
+player 325 discards a 765 to deck 326
+player 325 current hand : 631 939 991 1000 186 631 640 393 460 189 430 926 499 754 321 587 423 3 120 603 
+player 325 draws a 533 from deck 325
+player 325 discards a 631 to deck 326
+player 325 current hand : 939 991 1000 186 631 640 393 460 189 430 926 499 754 321 587 423 3 120 603 533 
+player 325 draws a 917 from deck 325
+player 325 discards a 939 to deck 326
+player 325 current hand : 991 1000 186 631 640 393 460 189 430 926 499 754 321 587 423 3 120 603 533 917 
+player 325 draws a 138 from deck 325
+player 325 discards a 991 to deck 326
+player 325 current hand : 1000 186 631 640 393 460 189 430 926 499 754 321 587 423 3 120 603 533 917 138 
+player 325 draws a 556 from deck 325
+player 325 discards a 1000 to deck 326
+player 325 current hand : 186 631 640 393 460 189 430 926 499 754 321 587 423 3 120 603 533 917 138 556 
+player 325 draws a 613 from deck 325
+player 325 discards a 186 to deck 326
+player 325 current hand : 631 640 393 460 189 430 926 499 754 321 587 423 3 120 603 533 917 138 556 613 
+player 325 draws a 933 from deck 325
+player 325 discards a 631 to deck 326
+player 325 current hand : 640 393 460 189 430 926 499 754 321 587 423 3 120 603 533 917 138 556 613 933 
+player 325 draws a 527 from deck 325
+player 325 discards a 640 to deck 326
+player 325 current hand : 393 460 189 430 926 499 754 321 587 423 3 120 603 533 917 138 556 613 933 527 
+player 325 draws a 359 from deck 325
+player 325 discards a 393 to deck 326
+player 325 current hand : 460 189 430 926 499 754 321 587 423 3 120 603 533 917 138 556 613 933 527 359 
+player 325 draws a 783 from deck 325
+player 325 discards a 460 to deck 326
+player 325 current hand : 189 430 926 499 754 321 587 423 3 120 603 533 917 138 556 613 933 527 359 783 
+player 325 draws a 111 from deck 325
+player 325 discards a 189 to deck 326
+player 325 current hand : 430 926 499 754 321 587 423 3 120 603 533 917 138 556 613 933 527 359 783 111 
+player 325 draws a 586 from deck 325
+player 325 discards a 430 to deck 326
+player 325 current hand : 926 499 754 321 587 423 3 120 603 533 917 138 556 613 933 527 359 783 111 586 
+player 325 draws a 314 from deck 325
+player 325 discards a 926 to deck 326
+player 325 current hand : 499 754 321 587 423 3 120 603 533 917 138 556 613 933 527 359 783 111 586 314 
+player 325 draws a 778 from deck 325
+player 325 discards a 499 to deck 326
+player 325 current hand : 754 321 587 423 3 120 603 533 917 138 556 613 933 527 359 783 111 586 314 778 
+player 325 draws a 835 from deck 325
+player 325 discards a 754 to deck 326
+player 325 current hand : 321 587 423 3 120 603 533 917 138 556 613 933 527 359 783 111 586 314 778 835 
+player 325 draws a 354 from deck 325
+player 325 discards a 321 to deck 326
+player 325 current hand : 587 423 3 120 603 533 917 138 556 613 933 527 359 783 111 586 314 778 835 354 
+player 325 draws a 54 from deck 325

@@ -1,0 +1,307 @@
+player 136 initial hand 220 177 642 18 434 835 258 622 897 233 105 890 927 199 10 475 322 258 320 840 
+player 136 draws a 777 from deck 136
+player 136 discards a 220 to deck 137
+player 136 current hand : 177 642 18 434 835 258 622 897 233 105 890 927 199 10 475 322 258 320 840 777 
+player 136 draws a 926 from deck 136
+player 136 discards a 177 to deck 137
+player 136 current hand : 642 18 434 835 258 622 897 233 105 890 927 199 10 475 322 258 320 840 777 926 
+player 136 draws a 86 from deck 136
+player 136 discards a 642 to deck 137
+player 136 current hand : 18 434 835 258 622 897 233 105 890 927 199 10 475 322 258 320 840 777 926 86 
+player 136 draws a 303 from deck 136
+player 136 discards a 18 to deck 137
+player 136 current hand : 434 835 258 622 897 233 105 890 927 199 10 475 322 258 320 840 777 926 86 303 
+player 136 draws a 60 from deck 136
+player 136 discards a 434 to deck 137
+player 136 current hand : 835 258 622 897 233 105 890 927 199 10 475 322 258 320 840 777 926 86 303 60 
+player 136 draws a 525 from deck 136
+player 136 discards a 835 to deck 137
+player 136 current hand : 258 622 897 233 105 890 927 199 10 475 322 258 320 840 777 926 86 303 60 525 
+player 136 draws a 233 from deck 136
+player 136 discards a 258 to deck 137
+player 136 current hand : 622 897 233 105 890 927 199 10 475 322 258 320 840 777 926 86 303 60 525 233 
+player 136 draws a 293 from deck 136
+player 136 discards a 622 to deck 137
+player 136 current hand : 897 233 105 890 927 199 10 475 322 258 320 840 777 926 86 303 60 525 233 293 
+player 136 draws a 999 from deck 136
+player 136 discards a 897 to deck 137
+player 136 current hand : 233 105 890 927 199 10 475 322 258 320 840 777 926 86 303 60 525 233 293 999 
+player 136 draws a 946 from deck 136
+player 136 discards a 233 to deck 137
+player 136 current hand : 105 890 927 199 10 475 322 258 320 840 777 926 86 303 60 525 233 293 999 946 
+player 136 draws a 838 from deck 136
+player 136 discards a 105 to deck 137
+player 136 current hand : 890 927 199 10 475 322 258 320 840 777 926 86 303 60 525 233 293 999 946 838 
+player 136 draws a 156 from deck 136
+player 136 discards a 890 to deck 137
+player 136 current hand : 927 199 10 475 322 258 320 840 777 926 86 303 60 525 233 293 999 946 838 156 
+player 136 draws a 649 from deck 136
+player 136 discards a 927 to deck 137
+player 136 current hand : 199 10 475 322 258 320 840 777 926 86 303 60 525 233 293 999 946 838 156 649 
+player 136 draws a 98 from deck 136
+player 136 discards a 199 to deck 137
+player 136 current hand : 10 475 322 258 320 840 777 926 86 303 60 525 233 293 999 946 838 156 649 98 
+player 136 draws a 596 from deck 136
+player 136 discards a 10 to deck 137
+player 136 current hand : 475 322 258 320 840 777 926 86 303 60 525 233 293 999 946 838 156 649 98 596 
+player 136 draws a 45 from deck 136
+player 136 discards a 475 to deck 137
+player 136 current hand : 322 258 320 840 777 926 86 303 60 525 233 293 999 946 838 156 649 98 596 45 
+player 136 draws a 922 from deck 136
+player 136 discards a 322 to deck 137
+player 136 current hand : 258 320 840 777 926 86 303 60 525 233 293 999 946 838 156 649 98 596 45 922 
+player 136 draws a 29 from deck 136
+player 136 discards a 258 to deck 137
+player 136 current hand : 320 840 777 926 86 303 60 525 233 293 999 946 838 156 649 98 596 45 922 29 
+player 136 draws a 564 from deck 136
+player 136 discards a 320 to deck 137
+player 136 current hand : 840 777 926 86 303 60 525 233 293 999 946 838 156 649 98 596 45 922 29 564 
+player 136 draws a 754 from deck 136
+player 136 discards a 840 to deck 137
+player 136 current hand : 777 926 86 303 60 525 233 293 999 946 838 156 649 98 596 45 922 29 564 754 
+player 136 draws a 549 from deck 136
+player 136 discards a 777 to deck 137
+player 136 current hand : 926 86 303 60 525 233 293 999 946 838 156 649 98 596 45 922 29 564 754 549 
+player 136 draws a 531 from deck 136
+player 136 discards a 926 to deck 137
+player 136 current hand : 86 303 60 525 233 293 999 946 838 156 649 98 596 45 922 29 564 754 549 531 
+player 136 draws a 457 from deck 136
+player 136 discards a 86 to deck 137
+player 136 current hand : 303 60 525 233 293 999 946 838 156 649 98 596 45 922 29 564 754 549 531 457 
+player 136 draws a 39 from deck 136
+player 136 discards a 303 to deck 137
+player 136 current hand : 60 525 233 293 999 946 838 156 649 98 596 45 922 29 564 754 549 531 457 39 
+player 136 draws a 248 from deck 136
+player 136 discards a 60 to deck 137
+player 136 current hand : 525 233 293 999 946 838 156 649 98 596 45 922 29 564 754 549 531 457 39 248 
+player 136 draws a 316 from deck 136
+player 136 discards a 525 to deck 137
+player 136 current hand : 233 293 999 946 838 156 649 98 596 45 922 29 564 754 549 531 457 39 248 316 
+player 136 draws a 152 from deck 136
+player 136 discards a 233 to deck 137
+player 136 current hand : 293 999 946 838 156 649 98 596 45 922 29 564 754 549 531 457 39 248 316 152 
+player 136 draws a 699 from deck 136
+player 136 discards a 293 to deck 137
+player 136 current hand : 999 946 838 156 649 98 596 45 922 29 564 754 549 531 457 39 248 316 152 699 
+player 136 draws a 159 from deck 136
+player 136 discards a 999 to deck 137
+player 136 current hand : 946 838 156 649 98 596 45 922 29 564 754 549 531 457 39 248 316 152 699 159 
+player 136 draws a 860 from deck 136
+player 136 discards a 946 to deck 137
+player 136 current hand : 838 156 649 98 596 45 922 29 564 754 549 531 457 39 248 316 152 699 159 860 
+player 136 draws a 532 from deck 136
+player 136 discards a 838 to deck 137
+player 136 current hand : 156 649 98 596 45 922 29 564 754 549 531 457 39 248 316 152 699 159 860 532 
+player 136 draws a 17 from deck 136
+player 136 discards a 156 to deck 137
+player 136 current hand : 649 98 596 45 922 29 564 754 549 531 457 39 248 316 152 699 159 860 532 17 
+player 136 draws a 907 from deck 136
+player 136 discards a 649 to deck 137
+player 136 current hand : 98 596 45 922 29 564 754 549 531 457 39 248 316 152 699 159 860 532 17 907 
+player 136 draws a 847 from deck 136
+player 136 discards a 98 to deck 137
+player 136 current hand : 596 45 922 29 564 754 549 531 457 39 248 316 152 699 159 860 532 17 907 847 
+player 136 draws a 906 from deck 136
+player 136 discards a 596 to deck 137
+player 136 current hand : 45 922 29 564 754 549 531 457 39 248 316 152 699 159 860 532 17 907 847 906 
+player 136 draws a 788 from deck 136
+player 136 discards a 45 to deck 137
+player 136 current hand : 922 29 564 754 549 531 457 39 248 316 152 699 159 860 532 17 907 847 906 788 
+player 136 draws a 786 from deck 136
+player 136 discards a 922 to deck 137
+player 136 current hand : 29 564 754 549 531 457 39 248 316 152 699 159 860 532 17 907 847 906 788 786 
+player 136 draws a 599 from deck 136
+player 136 discards a 29 to deck 137
+player 136 current hand : 564 754 549 531 457 39 248 316 152 699 159 860 532 17 907 847 906 788 786 599 
+player 136 draws a 954 from deck 136
+player 136 discards a 564 to deck 137
+player 136 current hand : 754 549 531 457 39 248 316 152 699 159 860 532 17 907 847 906 788 786 599 954 
+player 136 draws a 535 from deck 136
+player 136 discards a 754 to deck 137
+player 136 current hand : 549 531 457 39 248 316 152 699 159 860 532 17 907 847 906 788 786 599 954 535 
+player 136 draws a 513 from deck 136
+player 136 discards a 549 to deck 137
+player 136 current hand : 531 457 39 248 316 152 699 159 860 532 17 907 847 906 788 786 599 954 535 513 
+player 136 draws a 591 from deck 136
+player 136 discards a 531 to deck 137
+player 136 current hand : 457 39 248 316 152 699 159 860 532 17 907 847 906 788 786 599 954 535 513 591 
+player 136 draws a 917 from deck 136
+player 136 discards a 457 to deck 137
+player 136 current hand : 39 248 316 152 699 159 860 532 17 907 847 906 788 786 599 954 535 513 591 917 
+player 136 draws a 11 from deck 136
+player 136 discards a 39 to deck 137
+player 136 current hand : 248 316 152 699 159 860 532 17 907 847 906 788 786 599 954 535 513 591 917 11 
+player 136 draws a 527 from deck 136
+player 136 discards a 248 to deck 137
+player 136 current hand : 316 152 699 159 860 532 17 907 847 906 788 786 599 954 535 513 591 917 11 527 
+player 136 draws a 452 from deck 136
+player 136 discards a 316 to deck 137
+player 136 current hand : 152 699 159 860 532 17 907 847 906 788 786 599 954 535 513 591 917 11 527 452 
+player 136 draws a 189 from deck 136
+player 136 discards a 152 to deck 137
+player 136 current hand : 699 159 860 532 17 907 847 906 788 786 599 954 535 513 591 917 11 527 452 189 
+player 136 draws a 745 from deck 136
+player 136 discards a 699 to deck 137
+player 136 current hand : 159 860 532 17 907 847 906 788 786 599 954 535 513 591 917 11 527 452 189 745 
+player 136 draws a 736 from deck 136
+player 136 discards a 159 to deck 137
+player 136 current hand : 860 532 17 907 847 906 788 786 599 954 535 513 591 917 11 527 452 189 745 736 
+player 136 draws a 498 from deck 136
+player 136 discards a 860 to deck 137
+player 136 current hand : 532 17 907 847 906 788 786 599 954 535 513 591 917 11 527 452 189 745 736 498 
+player 136 draws a 4 from deck 136
+player 136 discards a 532 to deck 137
+player 136 current hand : 17 907 847 906 788 786 599 954 535 513 591 917 11 527 452 189 745 736 498 4 
+player 136 draws a 950 from deck 136
+player 136 discards a 17 to deck 137
+player 136 current hand : 907 847 906 788 786 599 954 535 513 591 917 11 527 452 189 745 736 498 4 950 
+player 136 draws a 43 from deck 136
+player 136 discards a 907 to deck 137
+player 136 current hand : 847 906 788 786 599 954 535 513 591 917 11 527 452 189 745 736 498 4 950 43 
+player 136 draws a 475 from deck 136
+player 136 discards a 847 to deck 137
+player 136 current hand : 906 788 786 599 954 535 513 591 917 11 527 452 189 745 736 498 4 950 43 475 
+player 136 draws a 399 from deck 136
+player 136 discards a 906 to deck 137
+player 136 current hand : 788 786 599 954 535 513 591 917 11 527 452 189 745 736 498 4 950 43 475 399 
+player 136 draws a 305 from deck 136
+player 136 discards a 788 to deck 137
+player 136 current hand : 786 599 954 535 513 591 917 11 527 452 189 745 736 498 4 950 43 475 399 305 
+player 136 draws a 9 from deck 136
+player 136 discards a 786 to deck 137
+player 136 current hand : 599 954 535 513 591 917 11 527 452 189 745 736 498 4 950 43 475 399 305 9 
+player 136 draws a 993 from deck 136
+player 136 discards a 599 to deck 137
+player 136 current hand : 954 535 513 591 917 11 527 452 189 745 736 498 4 950 43 475 399 305 9 993 
+player 136 draws a 415 from deck 136
+player 136 discards a 954 to deck 137
+player 136 current hand : 535 513 591 917 11 527 452 189 745 736 498 4 950 43 475 399 305 9 993 415 
+player 136 draws a 633 from deck 136
+player 136 discards a 535 to deck 137
+player 136 current hand : 513 591 917 11 527 452 189 745 736 498 4 950 43 475 399 305 9 993 415 633 
+player 136 draws a 637 from deck 136
+player 136 discards a 513 to deck 137
+player 136 current hand : 591 917 11 527 452 189 745 736 498 4 950 43 475 399 305 9 993 415 633 637 
+player 136 draws a 904 from deck 136
+player 136 discards a 591 to deck 137
+player 136 current hand : 917 11 527 452 189 745 736 498 4 950 43 475 399 305 9 993 415 633 637 904 
+player 136 draws a 374 from deck 136
+player 136 discards a 917 to deck 137
+player 136 current hand : 11 527 452 189 745 736 498 4 950 43 475 399 305 9 993 415 633 637 904 374 
+player 136 draws a 38 from deck 136
+player 136 discards a 11 to deck 137
+player 136 current hand : 527 452 189 745 736 498 4 950 43 475 399 305 9 993 415 633 637 904 374 38 
+player 136 draws a 317 from deck 136
+player 136 discards a 527 to deck 137
+player 136 current hand : 452 189 745 736 498 4 950 43 475 399 305 9 993 415 633 637 904 374 38 317 
+player 136 draws a 402 from deck 136
+player 136 discards a 452 to deck 137
+player 136 current hand : 189 745 736 498 4 950 43 475 399 305 9 993 415 633 637 904 374 38 317 402 
+player 136 draws a 671 from deck 136
+player 136 discards a 189 to deck 137
+player 136 current hand : 745 736 498 4 950 43 475 399 305 9 993 415 633 637 904 374 38 317 402 671 
+player 136 draws a 98 from deck 136
+player 136 discards a 745 to deck 137
+player 136 current hand : 736 498 4 950 43 475 399 305 9 993 415 633 637 904 374 38 317 402 671 98 
+player 136 draws a 601 from deck 136
+player 136 discards a 736 to deck 137
+player 136 current hand : 498 4 950 43 475 399 305 9 993 415 633 637 904 374 38 317 402 671 98 601 
+player 136 draws a 948 from deck 136
+player 136 discards a 498 to deck 137
+player 136 current hand : 4 950 43 475 399 305 9 993 415 633 637 904 374 38 317 402 671 98 601 948 
+player 136 draws a 175 from deck 136
+player 136 discards a 4 to deck 137
+player 136 current hand : 950 43 475 399 305 9 993 415 633 637 904 374 38 317 402 671 98 601 948 175 
+player 136 draws a 209 from deck 136
+player 136 discards a 950 to deck 137
+player 136 current hand : 43 475 399 305 9 993 415 633 637 904 374 38 317 402 671 98 601 948 175 209 
+player 136 draws a 732 from deck 136
+player 136 discards a 43 to deck 137
+player 136 current hand : 475 399 305 9 993 415 633 637 904 374 38 317 402 671 98 601 948 175 209 732 
+player 136 draws a 612 from deck 136
+player 136 discards a 475 to deck 137
+player 136 current hand : 399 305 9 993 415 633 637 904 374 38 317 402 671 98 601 948 175 209 732 612 
+player 136 draws a 729 from deck 136
+player 136 discards a 399 to deck 137
+player 136 current hand : 305 9 993 415 633 637 904 374 38 317 402 671 98 601 948 175 209 732 612 729 
+player 136 draws a 658 from deck 136
+player 136 discards a 305 to deck 137
+player 136 current hand : 9 993 415 633 637 904 374 38 317 402 671 98 601 948 175 209 732 612 729 658 
+player 136 draws a 150 from deck 136
+player 136 discards a 9 to deck 137
+player 136 current hand : 993 415 633 637 904 374 38 317 402 671 98 601 948 175 209 732 612 729 658 150 
+player 136 draws a 841 from deck 136
+player 136 discards a 993 to deck 137
+player 136 current hand : 415 633 637 904 374 38 317 402 671 98 601 948 175 209 732 612 729 658 150 841 
+player 136 draws a 644 from deck 136
+player 136 discards a 415 to deck 137
+player 136 current hand : 633 637 904 374 38 317 402 671 98 601 948 175 209 732 612 729 658 150 841 644 
+player 136 draws a 5 from deck 136
+player 136 discards a 633 to deck 137
+player 136 current hand : 637 904 374 38 317 402 671 98 601 948 175 209 732 612 729 658 150 841 644 5 
+player 136 draws a 584 from deck 136
+player 136 discards a 637 to deck 137
+player 136 current hand : 904 374 38 317 402 671 98 601 948 175 209 732 612 729 658 150 841 644 5 584 
+player 136 draws a 47 from deck 136
+player 136 discards a 904 to deck 137
+player 136 current hand : 374 38 317 402 671 98 601 948 175 209 732 612 729 658 150 841 644 5 584 47 
+player 136 draws a 324 from deck 136
+player 136 discards a 374 to deck 137
+player 136 current hand : 38 317 402 671 98 601 948 175 209 732 612 729 658 150 841 644 5 584 47 324 
+player 136 draws a 7 from deck 136
+player 136 discards a 38 to deck 137
+player 136 current hand : 317 402 671 98 601 948 175 209 732 612 729 658 150 841 644 5 584 47 324 7 
+player 136 draws a 774 from deck 136
+player 136 discards a 317 to deck 137
+player 136 current hand : 402 671 98 601 948 175 209 732 612 729 658 150 841 644 5 584 47 324 7 774 
+player 136 draws a 776 from deck 136
+player 136 discards a 402 to deck 137
+player 136 current hand : 671 98 601 948 175 209 732 612 729 658 150 841 644 5 584 47 324 7 774 776 
+player 136 draws a 329 from deck 136
+player 136 discards a 671 to deck 137
+player 136 current hand : 98 601 948 175 209 732 612 729 658 150 841 644 5 584 47 324 7 774 776 329 
+player 136 draws a 910 from deck 136
+player 136 discards a 98 to deck 137
+player 136 current hand : 601 948 175 209 732 612 729 658 150 841 644 5 584 47 324 7 774 776 329 910 
+player 136 draws a 960 from deck 136
+player 136 discards a 601 to deck 137
+player 136 current hand : 948 175 209 732 612 729 658 150 841 644 5 584 47 324 7 774 776 329 910 960 
+player 136 draws a 627 from deck 136
+player 136 discards a 948 to deck 137
+player 136 current hand : 175 209 732 612 729 658 150 841 644 5 584 47 324 7 774 776 329 910 960 627 
+player 136 draws a 112 from deck 136
+player 136 discards a 175 to deck 137
+player 136 current hand : 209 732 612 729 658 150 841 644 5 584 47 324 7 774 776 329 910 960 627 112 
+player 136 draws a 966 from deck 136
+player 136 discards a 209 to deck 137
+player 136 current hand : 732 612 729 658 150 841 644 5 584 47 324 7 774 776 329 910 960 627 112 966 
+player 136 draws a 728 from deck 136
+player 136 discards a 732 to deck 137
+player 136 current hand : 612 729 658 150 841 644 5 584 47 324 7 774 776 329 910 960 627 112 966 728 
+player 136 draws a 578 from deck 136
+player 136 discards a 612 to deck 137
+player 136 current hand : 729 658 150 841 644 5 584 47 324 7 774 776 329 910 960 627 112 966 728 578 
+player 136 draws a 105 from deck 136
+player 136 discards a 729 to deck 137
+player 136 current hand : 658 150 841 644 5 584 47 324 7 774 776 329 910 960 627 112 966 728 578 105 
+player 136 draws a 189 from deck 136
+player 136 discards a 658 to deck 137
+player 136 current hand : 150 841 644 5 584 47 324 7 774 776 329 910 960 627 112 966 728 578 105 189 
+player 136 draws a 422 from deck 136
+player 136 discards a 150 to deck 137
+player 136 current hand : 841 644 5 584 47 324 7 774 776 329 910 960 627 112 966 728 578 105 189 422 
+player 136 draws a 901 from deck 136
+player 136 discards a 841 to deck 137
+player 136 current hand : 644 5 584 47 324 7 774 776 329 910 960 627 112 966 728 578 105 189 422 901 
+player 136 draws a 468 from deck 136
+player 136 discards a 644 to deck 137
+player 136 current hand : 5 584 47 324 7 774 776 329 910 960 627 112 966 728 578 105 189 422 901 468 
+player 136 draws a 994 from deck 136
+player 136 discards a 5 to deck 137
+player 136 current hand : 584 47 324 7 774 776 329 910 960 627 112 966 728 578 105 189 422 901 468 994 
+player 136 draws a 127 from deck 136
+player 136 discards a 584 to deck 137
+player 136 current hand : 47 324 7 774 776 329 910 960 627 112 966 728 578 105 189 422 901 468 994 127 
+player 136 draws a 149 from deck 136
+player 136 discards a 47 to deck 137
+player 136 current hand : 324 7 774 776 329 910 960 627 112 966 728 578 105 189 422 901 468 994 127 149 

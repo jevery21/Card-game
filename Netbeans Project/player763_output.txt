@@ -1,0 +1,319 @@
+player 763 initial hand 546 712 970 537 685 618 637 499 333 160 416 319 468 516 440 425 932 692 561 420 
+player 763 draws a 122 from deck 763
+player 763 discards a 546 to deck 764
+player 763 current hand : 712 970 537 685 618 637 499 333 160 416 319 468 516 440 425 932 692 561 420 122 
+player 763 draws a 717 from deck 763
+player 763 discards a 712 to deck 764
+player 763 current hand : 970 537 685 618 637 499 333 160 416 319 468 516 440 425 932 692 561 420 122 717 
+player 763 draws a 290 from deck 763
+player 763 discards a 970 to deck 764
+player 763 current hand : 537 685 618 637 499 333 160 416 319 468 516 440 425 932 692 561 420 122 717 290 
+player 763 draws a 793 from deck 763
+player 763 discards a 537 to deck 764
+player 763 current hand : 685 618 637 499 333 160 416 319 468 516 440 425 932 692 561 420 122 717 290 793 
+player 763 draws a 595 from deck 763
+player 763 discards a 685 to deck 764
+player 763 current hand : 618 637 499 333 160 416 319 468 516 440 425 932 692 561 420 122 717 290 793 595 
+player 763 draws a 571 from deck 763
+player 763 discards a 618 to deck 764
+player 763 current hand : 637 499 333 160 416 319 468 516 440 425 932 692 561 420 122 717 290 793 595 571 
+player 763 draws a 209 from deck 763
+player 763 discards a 637 to deck 764
+player 763 current hand : 499 333 160 416 319 468 516 440 425 932 692 561 420 122 717 290 793 595 571 209 
+player 763 draws a 786 from deck 763
+player 763 discards a 499 to deck 764
+player 763 current hand : 333 160 416 319 468 516 440 425 932 692 561 420 122 717 290 793 595 571 209 786 
+player 763 draws a 55 from deck 763
+player 763 discards a 333 to deck 764
+player 763 current hand : 160 416 319 468 516 440 425 932 692 561 420 122 717 290 793 595 571 209 786 55 
+player 763 draws a 47 from deck 763
+player 763 discards a 160 to deck 764
+player 763 current hand : 416 319 468 516 440 425 932 692 561 420 122 717 290 793 595 571 209 786 55 47 
+player 763 draws a 49 from deck 763
+player 763 discards a 416 to deck 764
+player 763 current hand : 319 468 516 440 425 932 692 561 420 122 717 290 793 595 571 209 786 55 47 49 
+player 763 draws a 673 from deck 763
+player 763 discards a 319 to deck 764
+player 763 current hand : 468 516 440 425 932 692 561 420 122 717 290 793 595 571 209 786 55 47 49 673 
+player 763 draws a 719 from deck 763
+player 763 discards a 468 to deck 764
+player 763 current hand : 516 440 425 932 692 561 420 122 717 290 793 595 571 209 786 55 47 49 673 719 
+player 763 draws a 554 from deck 763
+player 763 discards a 516 to deck 764
+player 763 current hand : 440 425 932 692 561 420 122 717 290 793 595 571 209 786 55 47 49 673 719 554 
+player 763 draws a 499 from deck 763
+player 763 discards a 440 to deck 764
+player 763 current hand : 425 932 692 561 420 122 717 290 793 595 571 209 786 55 47 49 673 719 554 499 
+player 763 draws a 201 from deck 763
+player 763 discards a 425 to deck 764
+player 763 current hand : 932 692 561 420 122 717 290 793 595 571 209 786 55 47 49 673 719 554 499 201 
+player 763 draws a 729 from deck 763
+player 763 discards a 932 to deck 764
+player 763 current hand : 692 561 420 122 717 290 793 595 571 209 786 55 47 49 673 719 554 499 201 729 
+player 763 draws a 681 from deck 763
+player 763 discards a 692 to deck 764
+player 763 current hand : 561 420 122 717 290 793 595 571 209 786 55 47 49 673 719 554 499 201 729 681 
+player 763 draws a 584 from deck 763
+player 763 discards a 561 to deck 764
+player 763 current hand : 420 122 717 290 793 595 571 209 786 55 47 49 673 719 554 499 201 729 681 584 
+player 763 draws a 501 from deck 763
+player 763 discards a 420 to deck 764
+player 763 current hand : 122 717 290 793 595 571 209 786 55 47 49 673 719 554 499 201 729 681 584 501 
+player 763 draws a 229 from deck 763
+player 763 discards a 122 to deck 764
+player 763 current hand : 717 290 793 595 571 209 786 55 47 49 673 719 554 499 201 729 681 584 501 229 
+player 763 draws a 555 from deck 763
+player 763 discards a 717 to deck 764
+player 763 current hand : 290 793 595 571 209 786 55 47 49 673 719 554 499 201 729 681 584 501 229 555 
+player 763 draws a 879 from deck 763
+player 763 discards a 290 to deck 764
+player 763 current hand : 793 595 571 209 786 55 47 49 673 719 554 499 201 729 681 584 501 229 555 879 
+player 763 draws a 255 from deck 763
+player 763 discards a 793 to deck 764
+player 763 current hand : 595 571 209 786 55 47 49 673 719 554 499 201 729 681 584 501 229 555 879 255 
+player 763 draws a 415 from deck 763
+player 763 discards a 595 to deck 764
+player 763 current hand : 571 209 786 55 47 49 673 719 554 499 201 729 681 584 501 229 555 879 255 415 
+player 763 draws a 71 from deck 763
+player 763 discards a 571 to deck 764
+player 763 current hand : 209 786 55 47 49 673 719 554 499 201 729 681 584 501 229 555 879 255 415 71 
+player 763 draws a 237 from deck 763
+player 763 discards a 209 to deck 764
+player 763 current hand : 786 55 47 49 673 719 554 499 201 729 681 584 501 229 555 879 255 415 71 237 
+player 763 draws a 693 from deck 763
+player 763 discards a 786 to deck 764
+player 763 current hand : 55 47 49 673 719 554 499 201 729 681 584 501 229 555 879 255 415 71 237 693 
+player 763 draws a 797 from deck 763
+player 763 discards a 55 to deck 764
+player 763 current hand : 47 49 673 719 554 499 201 729 681 584 501 229 555 879 255 415 71 237 693 797 
+player 763 draws a 631 from deck 763
+player 763 discards a 47 to deck 764
+player 763 current hand : 49 673 719 554 499 201 729 681 584 501 229 555 879 255 415 71 237 693 797 631 
+player 763 draws a 746 from deck 763
+player 763 discards a 49 to deck 764
+player 763 current hand : 673 719 554 499 201 729 681 584 501 229 555 879 255 415 71 237 693 797 631 746 
+player 763 draws a 712 from deck 763
+player 763 discards a 673 to deck 764
+player 763 current hand : 719 554 499 201 729 681 584 501 229 555 879 255 415 71 237 693 797 631 746 712 
+player 763 draws a 374 from deck 763
+player 763 discards a 719 to deck 764
+player 763 current hand : 554 499 201 729 681 584 501 229 555 879 255 415 71 237 693 797 631 746 712 374 
+player 763 draws a 922 from deck 763
+player 763 discards a 554 to deck 764
+player 763 current hand : 499 201 729 681 584 501 229 555 879 255 415 71 237 693 797 631 746 712 374 922 
+player 763 draws a 971 from deck 763
+player 763 discards a 499 to deck 764
+player 763 current hand : 201 729 681 584 501 229 555 879 255 415 71 237 693 797 631 746 712 374 922 971 
+player 763 draws a 616 from deck 763
+player 763 discards a 201 to deck 764
+player 763 current hand : 729 681 584 501 229 555 879 255 415 71 237 693 797 631 746 712 374 922 971 616 
+player 763 draws a 600 from deck 763
+player 763 discards a 729 to deck 764
+player 763 current hand : 681 584 501 229 555 879 255 415 71 237 693 797 631 746 712 374 922 971 616 600 
+player 763 draws a 525 from deck 763
+player 763 discards a 681 to deck 764
+player 763 current hand : 584 501 229 555 879 255 415 71 237 693 797 631 746 712 374 922 971 616 600 525 
+player 763 draws a 571 from deck 763
+player 763 discards a 584 to deck 764
+player 763 current hand : 501 229 555 879 255 415 71 237 693 797 631 746 712 374 922 971 616 600 525 571 
+player 763 draws a 853 from deck 763
+player 763 discards a 501 to deck 764
+player 763 current hand : 229 555 879 255 415 71 237 693 797 631 746 712 374 922 971 616 600 525 571 853 
+player 763 draws a 9 from deck 763
+player 763 discards a 229 to deck 764
+player 763 current hand : 555 879 255 415 71 237 693 797 631 746 712 374 922 971 616 600 525 571 853 9 
+player 763 draws a 705 from deck 763
+player 763 discards a 555 to deck 764
+player 763 current hand : 879 255 415 71 237 693 797 631 746 712 374 922 971 616 600 525 571 853 9 705 
+player 763 draws a 12 from deck 763
+player 763 discards a 879 to deck 764
+player 763 current hand : 255 415 71 237 693 797 631 746 712 374 922 971 616 600 525 571 853 9 705 12 
+player 763 draws a 882 from deck 763
+player 763 discards a 255 to deck 764
+player 763 current hand : 415 71 237 693 797 631 746 712 374 922 971 616 600 525 571 853 9 705 12 882 
+player 763 draws a 871 from deck 763
+player 763 discards a 415 to deck 764
+player 763 current hand : 71 237 693 797 631 746 712 374 922 971 616 600 525 571 853 9 705 12 882 871 
+player 763 draws a 511 from deck 763
+player 763 discards a 71 to deck 764
+player 763 current hand : 237 693 797 631 746 712 374 922 971 616 600 525 571 853 9 705 12 882 871 511 
+player 763 draws a 363 from deck 763
+player 763 discards a 237 to deck 764
+player 763 current hand : 693 797 631 746 712 374 922 971 616 600 525 571 853 9 705 12 882 871 511 363 
+player 763 draws a 860 from deck 763
+player 763 discards a 693 to deck 764
+player 763 current hand : 797 631 746 712 374 922 971 616 600 525 571 853 9 705 12 882 871 511 363 860 
+player 763 draws a 899 from deck 763
+player 763 discards a 797 to deck 764
+player 763 current hand : 631 746 712 374 922 971 616 600 525 571 853 9 705 12 882 871 511 363 860 899 
+player 763 draws a 685 from deck 763
+player 763 discards a 631 to deck 764
+player 763 current hand : 746 712 374 922 971 616 600 525 571 853 9 705 12 882 871 511 363 860 899 685 
+player 763 draws a 815 from deck 763
+player 763 discards a 746 to deck 764
+player 763 current hand : 712 374 922 971 616 600 525 571 853 9 705 12 882 871 511 363 860 899 685 815 
+player 763 draws a 303 from deck 763
+player 763 discards a 712 to deck 764
+player 763 current hand : 374 922 971 616 600 525 571 853 9 705 12 882 871 511 363 860 899 685 815 303 
+player 763 draws a 660 from deck 763
+player 763 discards a 374 to deck 764
+player 763 current hand : 922 971 616 600 525 571 853 9 705 12 882 871 511 363 860 899 685 815 303 660 
+player 763 draws a 863 from deck 763
+player 763 discards a 922 to deck 764
+player 763 current hand : 971 616 600 525 571 853 9 705 12 882 871 511 363 860 899 685 815 303 660 863 
+player 763 draws a 151 from deck 763
+player 763 discards a 971 to deck 764
+player 763 current hand : 616 600 525 571 853 9 705 12 882 871 511 363 860 899 685 815 303 660 863 151 
+player 763 draws a 555 from deck 763
+player 763 discards a 616 to deck 764
+player 763 current hand : 600 525 571 853 9 705 12 882 871 511 363 860 899 685 815 303 660 863 151 555 
+player 763 draws a 239 from deck 763
+player 763 discards a 600 to deck 764
+player 763 current hand : 525 571 853 9 705 12 882 871 511 363 860 899 685 815 303 660 863 151 555 239 
+player 763 draws a 972 from deck 763
+player 763 discards a 525 to deck 764
+player 763 current hand : 571 853 9 705 12 882 871 511 363 860 899 685 815 303 660 863 151 555 239 972 
+player 763 draws a 291 from deck 763
+player 763 discards a 571 to deck 764
+player 763 current hand : 853 9 705 12 882 871 511 363 860 899 685 815 303 660 863 151 555 239 972 291 
+player 763 draws a 295 from deck 763
+player 763 discards a 853 to deck 764
+player 763 current hand : 9 705 12 882 871 511 363 860 899 685 815 303 660 863 151 555 239 972 291 295 
+player 763 draws a 170 from deck 763
+player 763 discards a 9 to deck 764
+player 763 current hand : 705 12 882 871 511 363 860 899 685 815 303 660 863 151 555 239 972 291 295 170 
+player 763 draws a 973 from deck 763
+player 763 discards a 705 to deck 764
+player 763 current hand : 12 882 871 511 363 860 899 685 815 303 660 863 151 555 239 972 291 295 170 973 
+player 763 draws a 508 from deck 763
+player 763 discards a 12 to deck 764
+player 763 current hand : 882 871 511 363 860 899 685 815 303 660 863 151 555 239 972 291 295 170 973 508 
+player 763 draws a 879 from deck 763
+player 763 discards a 882 to deck 764
+player 763 current hand : 871 511 363 860 899 685 815 303 660 863 151 555 239 972 291 295 170 973 508 879 
+player 763 draws a 634 from deck 763
+player 763 discards a 871 to deck 764
+player 763 current hand : 511 363 860 899 685 815 303 660 863 151 555 239 972 291 295 170 973 508 879 634 
+player 763 draws a 386 from deck 763
+player 763 discards a 511 to deck 764
+player 763 current hand : 363 860 899 685 815 303 660 863 151 555 239 972 291 295 170 973 508 879 634 386 
+player 763 draws a 36 from deck 763
+player 763 discards a 363 to deck 764
+player 763 current hand : 860 899 685 815 303 660 863 151 555 239 972 291 295 170 973 508 879 634 386 36 
+player 763 draws a 822 from deck 763
+player 763 discards a 860 to deck 764
+player 763 current hand : 899 685 815 303 660 863 151 555 239 972 291 295 170 973 508 879 634 386 36 822 
+player 763 draws a 263 from deck 763
+player 763 discards a 899 to deck 764
+player 763 current hand : 685 815 303 660 863 151 555 239 972 291 295 170 973 508 879 634 386 36 822 263 
+player 763 draws a 970 from deck 763
+player 763 discards a 685 to deck 764
+player 763 current hand : 815 303 660 863 151 555 239 972 291 295 170 973 508 879 634 386 36 822 263 970 
+player 763 draws a 838 from deck 763
+player 763 discards a 815 to deck 764
+player 763 current hand : 303 660 863 151 555 239 972 291 295 170 973 508 879 634 386 36 822 263 970 838 
+player 763 draws a 186 from deck 763
+player 763 discards a 303 to deck 764
+player 763 current hand : 660 863 151 555 239 972 291 295 170 973 508 879 634 386 36 822 263 970 838 186 
+player 763 draws a 595 from deck 763
+player 763 discards a 660 to deck 764
+player 763 current hand : 863 151 555 239 972 291 295 170 973 508 879 634 386 36 822 263 970 838 186 595 
+player 763 draws a 249 from deck 763
+player 763 discards a 863 to deck 764
+player 763 current hand : 151 555 239 972 291 295 170 973 508 879 634 386 36 822 263 970 838 186 595 249 
+player 763 draws a 350 from deck 763
+player 763 discards a 151 to deck 764
+player 763 current hand : 555 239 972 291 295 170 973 508 879 634 386 36 822 263 970 838 186 595 249 350 
+player 763 draws a 429 from deck 763
+player 763 discards a 555 to deck 764
+player 763 current hand : 239 972 291 295 170 973 508 879 634 386 36 822 263 970 838 186 595 249 350 429 
+player 763 draws a 86 from deck 763
+player 763 discards a 239 to deck 764
+player 763 current hand : 972 291 295 170 973 508 879 634 386 36 822 263 970 838 186 595 249 350 429 86 
+player 763 draws a 150 from deck 763
+player 763 discards a 972 to deck 764
+player 763 current hand : 291 295 170 973 508 879 634 386 36 822 263 970 838 186 595 249 350 429 86 150 
+player 763 draws a 512 from deck 763
+player 763 discards a 291 to deck 764
+player 763 current hand : 295 170 973 508 879 634 386 36 822 263 970 838 186 595 249 350 429 86 150 512 
+player 763 draws a 740 from deck 763
+player 763 discards a 295 to deck 764
+player 763 current hand : 170 973 508 879 634 386 36 822 263 970 838 186 595 249 350 429 86 150 512 740 
+player 763 draws a 115 from deck 763
+player 763 discards a 170 to deck 764
+player 763 current hand : 973 508 879 634 386 36 822 263 970 838 186 595 249 350 429 86 150 512 740 115 
+player 763 draws a 285 from deck 763
+player 763 discards a 973 to deck 764
+player 763 current hand : 508 879 634 386 36 822 263 970 838 186 595 249 350 429 86 150 512 740 115 285 
+player 763 draws a 305 from deck 763
+player 763 discards a 508 to deck 764
+player 763 current hand : 879 634 386 36 822 263 970 838 186 595 249 350 429 86 150 512 740 115 285 305 
+player 763 draws a 519 from deck 763
+player 763 discards a 879 to deck 764
+player 763 current hand : 634 386 36 822 263 970 838 186 595 249 350 429 86 150 512 740 115 285 305 519 
+player 763 draws a 610 from deck 763
+player 763 discards a 634 to deck 764
+player 763 current hand : 386 36 822 263 970 838 186 595 249 350 429 86 150 512 740 115 285 305 519 610 
+player 763 draws a 388 from deck 763
+player 763 discards a 386 to deck 764
+player 763 current hand : 36 822 263 970 838 186 595 249 350 429 86 150 512 740 115 285 305 519 610 388 
+player 763 draws a 950 from deck 763
+player 763 discards a 36 to deck 764
+player 763 current hand : 822 263 970 838 186 595 249 350 429 86 150 512 740 115 285 305 519 610 388 950 
+player 763 draws a 595 from deck 763
+player 763 discards a 822 to deck 764
+player 763 current hand : 263 970 838 186 595 249 350 429 86 150 512 740 115 285 305 519 610 388 950 595 
+player 763 draws a 31 from deck 763
+player 763 discards a 263 to deck 764
+player 763 current hand : 970 838 186 595 249 350 429 86 150 512 740 115 285 305 519 610 388 950 595 31 
+player 763 draws a 654 from deck 763
+player 763 discards a 970 to deck 764
+player 763 current hand : 838 186 595 249 350 429 86 150 512 740 115 285 305 519 610 388 950 595 31 654 
+player 763 draws a 975 from deck 763
+player 763 discards a 838 to deck 764
+player 763 current hand : 186 595 249 350 429 86 150 512 740 115 285 305 519 610 388 950 595 31 654 975 
+player 763 draws a 644 from deck 763
+player 763 discards a 186 to deck 764
+player 763 current hand : 595 249 350 429 86 150 512 740 115 285 305 519 610 388 950 595 31 654 975 644 
+player 763 draws a 841 from deck 763
+player 763 discards a 595 to deck 764
+player 763 current hand : 249 350 429 86 150 512 740 115 285 305 519 610 388 950 595 31 654 975 644 841 
+player 763 draws a 977 from deck 763
+player 763 discards a 249 to deck 764
+player 763 current hand : 350 429 86 150 512 740 115 285 305 519 610 388 950 595 31 654 975 644 841 977 
+player 763 draws a 548 from deck 763
+player 763 discards a 350 to deck 764
+player 763 current hand : 429 86 150 512 740 115 285 305 519 610 388 950 595 31 654 975 644 841 977 548 
+player 763 draws a 603 from deck 763
+player 763 discards a 429 to deck 764
+player 763 current hand : 86 150 512 740 115 285 305 519 610 388 950 595 31 654 975 644 841 977 548 603 
+player 763 draws a 128 from deck 763
+player 763 discards a 86 to deck 764
+player 763 current hand : 150 512 740 115 285 305 519 610 388 950 595 31 654 975 644 841 977 548 603 128 
+player 763 draws a 711 from deck 763
+player 763 discards a 150 to deck 764
+player 763 current hand : 512 740 115 285 305 519 610 388 950 595 31 654 975 644 841 977 548 603 128 711 
+player 763 draws a 685 from deck 763
+player 763 discards a 512 to deck 764
+player 763 current hand : 740 115 285 305 519 610 388 950 595 31 654 975 644 841 977 548 603 128 711 685 
+player 763 draws a 277 from deck 763
+player 763 discards a 740 to deck 764
+player 763 current hand : 115 285 305 519 610 388 950 595 31 654 975 644 841 977 548 603 128 711 685 277 
+player 763 draws a 839 from deck 763
+player 763 discards a 115 to deck 764
+player 763 current hand : 285 305 519 610 388 950 595 31 654 975 644 841 977 548 603 128 711 685 277 839 
+player 763 draws a 558 from deck 763
+player 763 discards a 285 to deck 764
+player 763 current hand : 305 519 610 388 950 595 31 654 975 644 841 977 548 603 128 711 685 277 839 558 
+player 763 draws a 198 from deck 763
+player 763 discards a 305 to deck 764
+player 763 current hand : 519 610 388 950 595 31 654 975 644 841 977 548 603 128 711 685 277 839 558 198 
+player 763 draws a 115 from deck 763
+player 763 discards a 519 to deck 764
+player 763 current hand : 610 388 950 595 31 654 975 644 841 977 548 603 128 711 685 277 839 558 198 115 
+player 763 draws a 180 from deck 763
+player 763 discards a 610 to deck 764
+player 763 current hand : 388 950 595 31 654 975 644 841 977 548 603 128 711 685 277 839 558 198 115 180 
+player 763 draws a 51 from deck 763
+player 763 discards a 388 to deck 764
+player 763 current hand : 950 595 31 654 975 644 841 977 548 603 128 711 685 277 839 558 198 115 180 51 

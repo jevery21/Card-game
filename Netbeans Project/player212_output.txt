@@ -1,0 +1,329 @@
+player 212 initial hand 913 913 422 242 609 713 390 111 728 899 913 24 514 163 389 888 707 636 417 328 
+player 212 draws a 25 from deck 212
+player 212 discards a 913 to deck 213
+player 212 current hand : 913 422 242 609 713 390 111 728 899 913 24 514 163 389 888 707 636 417 328 25 
+player 212 draws a 580 from deck 212
+player 212 discards a 913 to deck 213
+player 212 current hand : 422 242 609 713 390 111 728 899 913 24 514 163 389 888 707 636 417 328 25 580 
+player 212 draws a 966 from deck 212
+player 212 discards a 422 to deck 213
+player 212 current hand : 242 609 713 390 111 728 899 913 24 514 163 389 888 707 636 417 328 25 580 966 
+player 212 draws a 469 from deck 212
+player 212 discards a 242 to deck 213
+player 212 current hand : 609 713 390 111 728 899 913 24 514 163 389 888 707 636 417 328 25 580 966 469 
+player 212 draws a 975 from deck 212
+player 212 discards a 609 to deck 213
+player 212 current hand : 713 390 111 728 899 913 24 514 163 389 888 707 636 417 328 25 580 966 469 975 
+player 212 draws a 756 from deck 212
+player 212 discards a 713 to deck 213
+player 212 current hand : 390 111 728 899 913 24 514 163 389 888 707 636 417 328 25 580 966 469 975 756 
+player 212 draws a 442 from deck 212
+player 212 discards a 390 to deck 213
+player 212 current hand : 111 728 899 913 24 514 163 389 888 707 636 417 328 25 580 966 469 975 756 442 
+player 212 draws a 554 from deck 212
+player 212 discards a 111 to deck 213
+player 212 current hand : 728 899 913 24 514 163 389 888 707 636 417 328 25 580 966 469 975 756 442 554 
+player 212 draws a 242 from deck 212
+player 212 discards a 728 to deck 213
+player 212 current hand : 899 913 24 514 163 389 888 707 636 417 328 25 580 966 469 975 756 442 554 242 
+player 212 draws a 7 from deck 212
+player 212 discards a 899 to deck 213
+player 212 current hand : 913 24 514 163 389 888 707 636 417 328 25 580 966 469 975 756 442 554 242 7 
+player 212 draws a 217 from deck 212
+player 212 discards a 913 to deck 213
+player 212 current hand : 24 514 163 389 888 707 636 417 328 25 580 966 469 975 756 442 554 242 7 217 
+player 212 draws a 732 from deck 212
+player 212 discards a 24 to deck 213
+player 212 current hand : 514 163 389 888 707 636 417 328 25 580 966 469 975 756 442 554 242 7 217 732 
+player 212 draws a 600 from deck 212
+player 212 discards a 514 to deck 213
+player 212 current hand : 163 389 888 707 636 417 328 25 580 966 469 975 756 442 554 242 7 217 732 600 
+player 212 draws a 164 from deck 212
+player 212 discards a 163 to deck 213
+player 212 current hand : 389 888 707 636 417 328 25 580 966 469 975 756 442 554 242 7 217 732 600 164 
+player 212 draws a 120 from deck 212
+player 212 discards a 389 to deck 213
+player 212 current hand : 888 707 636 417 328 25 580 966 469 975 756 442 554 242 7 217 732 600 164 120 
+player 212 draws a 744 from deck 212
+player 212 discards a 888 to deck 213
+player 212 current hand : 707 636 417 328 25 580 966 469 975 756 442 554 242 7 217 732 600 164 120 744 
+player 212 draws a 879 from deck 212
+player 212 discards a 707 to deck 213
+player 212 current hand : 636 417 328 25 580 966 469 975 756 442 554 242 7 217 732 600 164 120 744 879 
+player 212 draws a 54 from deck 212
+player 212 discards a 636 to deck 213
+player 212 current hand : 417 328 25 580 966 469 975 756 442 554 242 7 217 732 600 164 120 744 879 54 
+player 212 draws a 37 from deck 212
+player 212 discards a 417 to deck 213
+player 212 current hand : 328 25 580 966 469 975 756 442 554 242 7 217 732 600 164 120 744 879 54 37 
+player 212 draws a 979 from deck 212
+player 212 discards a 328 to deck 213
+player 212 current hand : 25 580 966 469 975 756 442 554 242 7 217 732 600 164 120 744 879 54 37 979 
+player 212 draws a 408 from deck 212
+player 212 discards a 25 to deck 213
+player 212 current hand : 580 966 469 975 756 442 554 242 7 217 732 600 164 120 744 879 54 37 979 408 
+player 212 draws a 782 from deck 212
+player 212 discards a 580 to deck 213
+player 212 current hand : 966 469 975 756 442 554 242 7 217 732 600 164 120 744 879 54 37 979 408 782 
+player 212 draws a 775 from deck 212
+player 212 discards a 966 to deck 213
+player 212 current hand : 469 975 756 442 554 242 7 217 732 600 164 120 744 879 54 37 979 408 782 775 
+player 212 draws a 214 from deck 212
+player 212 discards a 469 to deck 213
+player 212 current hand : 975 756 442 554 242 7 217 732 600 164 120 744 879 54 37 979 408 782 775 214 
+player 212 draws a 816 from deck 212
+player 212 discards a 975 to deck 213
+player 212 current hand : 756 442 554 242 7 217 732 600 164 120 744 879 54 37 979 408 782 775 214 816 
+player 212 draws a 720 from deck 212
+player 212 discards a 756 to deck 213
+player 212 current hand : 442 554 242 7 217 732 600 164 120 744 879 54 37 979 408 782 775 214 816 720 
+player 212 draws a 402 from deck 212
+player 212 discards a 442 to deck 213
+player 212 current hand : 554 242 7 217 732 600 164 120 744 879 54 37 979 408 782 775 214 816 720 402 
+player 212 draws a 77 from deck 212
+player 212 discards a 554 to deck 213
+player 212 current hand : 242 7 217 732 600 164 120 744 879 54 37 979 408 782 775 214 816 720 402 77 
+player 212 draws a 272 from deck 212
+player 212 discards a 242 to deck 213
+player 212 current hand : 7 217 732 600 164 120 744 879 54 37 979 408 782 775 214 816 720 402 77 272 
+player 212 draws a 920 from deck 212
+player 212 discards a 7 to deck 213
+player 212 current hand : 217 732 600 164 120 744 879 54 37 979 408 782 775 214 816 720 402 77 272 920 
+player 212 draws a 499 from deck 212
+player 212 discards a 217 to deck 213
+player 212 current hand : 732 600 164 120 744 879 54 37 979 408 782 775 214 816 720 402 77 272 920 499 
+player 212 draws a 18 from deck 212
+player 212 discards a 732 to deck 213
+player 212 current hand : 600 164 120 744 879 54 37 979 408 782 775 214 816 720 402 77 272 920 499 18 
+player 212 draws a 791 from deck 212
+player 212 discards a 600 to deck 213
+player 212 current hand : 164 120 744 879 54 37 979 408 782 775 214 816 720 402 77 272 920 499 18 791 
+player 212 draws a 258 from deck 212
+player 212 discards a 164 to deck 213
+player 212 current hand : 120 744 879 54 37 979 408 782 775 214 816 720 402 77 272 920 499 18 791 258 
+player 212 draws a 548 from deck 212
+player 212 discards a 120 to deck 213
+player 212 current hand : 744 879 54 37 979 408 782 775 214 816 720 402 77 272 920 499 18 791 258 548 
+player 212 draws a 882 from deck 212
+player 212 discards a 744 to deck 213
+player 212 current hand : 879 54 37 979 408 782 775 214 816 720 402 77 272 920 499 18 791 258 548 882 
+player 212 draws a 150 from deck 212
+player 212 discards a 879 to deck 213
+player 212 current hand : 54 37 979 408 782 775 214 816 720 402 77 272 920 499 18 791 258 548 882 150 
+player 212 draws a 303 from deck 212
+player 212 discards a 54 to deck 213
+player 212 current hand : 37 979 408 782 775 214 816 720 402 77 272 920 499 18 791 258 548 882 150 303 
+player 212 draws a 128 from deck 212
+player 212 discards a 37 to deck 213
+player 212 current hand : 979 408 782 775 214 816 720 402 77 272 920 499 18 791 258 548 882 150 303 128 
+player 212 draws a 839 from deck 212
+player 212 discards a 979 to deck 213
+player 212 current hand : 408 782 775 214 816 720 402 77 272 920 499 18 791 258 548 882 150 303 128 839 
+player 212 draws a 455 from deck 212
+player 212 discards a 408 to deck 213
+player 212 current hand : 782 775 214 816 720 402 77 272 920 499 18 791 258 548 882 150 303 128 839 455 
+player 212 draws a 168 from deck 212
+player 212 discards a 782 to deck 213
+player 212 current hand : 775 214 816 720 402 77 272 920 499 18 791 258 548 882 150 303 128 839 455 168 
+player 212 draws a 618 from deck 212
+player 212 discards a 775 to deck 213
+player 212 current hand : 214 816 720 402 77 272 920 499 18 791 258 548 882 150 303 128 839 455 168 618 
+player 212 draws a 933 from deck 212
+player 212 discards a 214 to deck 213
+player 212 current hand : 816 720 402 77 272 920 499 18 791 258 548 882 150 303 128 839 455 168 618 933 
+player 212 draws a 930 from deck 212
+player 212 discards a 816 to deck 213
+player 212 current hand : 720 402 77 272 920 499 18 791 258 548 882 150 303 128 839 455 168 618 933 930 
+player 212 draws a 875 from deck 212
+player 212 discards a 720 to deck 213
+player 212 current hand : 402 77 272 920 499 18 791 258 548 882 150 303 128 839 455 168 618 933 930 875 
+player 212 draws a 242 from deck 212
+player 212 discards a 402 to deck 213
+player 212 current hand : 77 272 920 499 18 791 258 548 882 150 303 128 839 455 168 618 933 930 875 242 
+player 212 draws a 350 from deck 212
+player 212 discards a 77 to deck 213
+player 212 current hand : 272 920 499 18 791 258 548 882 150 303 128 839 455 168 618 933 930 875 242 350 
+player 212 draws a 766 from deck 212
+player 212 discards a 272 to deck 213
+player 212 current hand : 920 499 18 791 258 548 882 150 303 128 839 455 168 618 933 930 875 242 350 766 
+player 212 draws a 612 from deck 212
+player 212 discards a 920 to deck 213
+player 212 current hand : 499 18 791 258 548 882 150 303 128 839 455 168 618 933 930 875 242 350 766 612 
+player 212 draws a 42 from deck 212
+player 212 discards a 499 to deck 213
+player 212 current hand : 18 791 258 548 882 150 303 128 839 455 168 618 933 930 875 242 350 766 612 42 
+player 212 draws a 315 from deck 212
+player 212 discards a 18 to deck 213
+player 212 current hand : 791 258 548 882 150 303 128 839 455 168 618 933 930 875 242 350 766 612 42 315 
+player 212 draws a 771 from deck 212
+player 212 discards a 791 to deck 213
+player 212 current hand : 258 548 882 150 303 128 839 455 168 618 933 930 875 242 350 766 612 42 315 771 
+player 212 draws a 360 from deck 212
+player 212 discards a 258 to deck 213
+player 212 current hand : 548 882 150 303 128 839 455 168 618 933 930 875 242 350 766 612 42 315 771 360 
+player 212 draws a 794 from deck 212
+player 212 discards a 548 to deck 213
+player 212 current hand : 882 150 303 128 839 455 168 618 933 930 875 242 350 766 612 42 315 771 360 794 
+player 212 draws a 14 from deck 212
+player 212 discards a 882 to deck 213
+player 212 current hand : 150 303 128 839 455 168 618 933 930 875 242 350 766 612 42 315 771 360 794 14 
+player 212 draws a 317 from deck 212
+player 212 discards a 150 to deck 213
+player 212 current hand : 303 128 839 455 168 618 933 930 875 242 350 766 612 42 315 771 360 794 14 317 
+player 212 draws a 917 from deck 212
+player 212 discards a 303 to deck 213
+player 212 current hand : 128 839 455 168 618 933 930 875 242 350 766 612 42 315 771 360 794 14 317 917 
+player 212 draws a 125 from deck 212
+player 212 discards a 128 to deck 213
+player 212 current hand : 839 455 168 618 933 930 875 242 350 766 612 42 315 771 360 794 14 317 917 125 
+player 212 draws a 490 from deck 212
+player 212 discards a 839 to deck 213
+player 212 current hand : 455 168 618 933 930 875 242 350 766 612 42 315 771 360 794 14 317 917 125 490 
+player 212 draws a 20 from deck 212
+player 212 discards a 455 to deck 213
+player 212 current hand : 168 618 933 930 875 242 350 766 612 42 315 771 360 794 14 317 917 125 490 20 
+player 212 draws a 29 from deck 212
+player 212 discards a 168 to deck 213
+player 212 current hand : 618 933 930 875 242 350 766 612 42 315 771 360 794 14 317 917 125 490 20 29 
+player 212 draws a 735 from deck 212
+player 212 discards a 618 to deck 213
+player 212 current hand : 933 930 875 242 350 766 612 42 315 771 360 794 14 317 917 125 490 20 29 735 
+player 212 draws a 490 from deck 212
+player 212 discards a 933 to deck 213
+player 212 current hand : 930 875 242 350 766 612 42 315 771 360 794 14 317 917 125 490 20 29 735 490 
+player 212 draws a 721 from deck 212
+player 212 discards a 930 to deck 213
+player 212 current hand : 875 242 350 766 612 42 315 771 360 794 14 317 917 125 490 20 29 735 490 721 
+player 212 draws a 604 from deck 212
+player 212 discards a 875 to deck 213
+player 212 current hand : 242 350 766 612 42 315 771 360 794 14 317 917 125 490 20 29 735 490 721 604 
+player 212 draws a 765 from deck 212
+player 212 discards a 242 to deck 213
+player 212 current hand : 350 766 612 42 315 771 360 794 14 317 917 125 490 20 29 735 490 721 604 765 
+player 212 draws a 249 from deck 212
+player 212 discards a 350 to deck 213
+player 212 current hand : 766 612 42 315 771 360 794 14 317 917 125 490 20 29 735 490 721 604 765 249 
+player 212 draws a 788 from deck 212
+player 212 discards a 766 to deck 213
+player 212 current hand : 612 42 315 771 360 794 14 317 917 125 490 20 29 735 490 721 604 765 249 788 
+player 212 draws a 715 from deck 212
+player 212 discards a 612 to deck 213
+player 212 current hand : 42 315 771 360 794 14 317 917 125 490 20 29 735 490 721 604 765 249 788 715 
+player 212 draws a 684 from deck 212
+player 212 discards a 42 to deck 213
+player 212 current hand : 315 771 360 794 14 317 917 125 490 20 29 735 490 721 604 765 249 788 715 684 
+player 212 draws a 415 from deck 212
+player 212 discards a 315 to deck 213
+player 212 current hand : 771 360 794 14 317 917 125 490 20 29 735 490 721 604 765 249 788 715 684 415 
+player 212 draws a 796 from deck 212
+player 212 discards a 771 to deck 213
+player 212 current hand : 360 794 14 317 917 125 490 20 29 735 490 721 604 765 249 788 715 684 415 796 
+player 212 draws a 12 from deck 212
+player 212 discards a 360 to deck 213
+player 212 current hand : 794 14 317 917 125 490 20 29 735 490 721 604 765 249 788 715 684 415 796 12 
+player 212 draws a 170 from deck 212
+player 212 discards a 794 to deck 213
+player 212 current hand : 14 317 917 125 490 20 29 735 490 721 604 765 249 788 715 684 415 796 12 170 
+player 212 draws a 901 from deck 212
+player 212 discards a 14 to deck 213
+player 212 current hand : 317 917 125 490 20 29 735 490 721 604 765 249 788 715 684 415 796 12 170 901 
+player 212 draws a 558 from deck 212
+player 212 discards a 317 to deck 213
+player 212 current hand : 917 125 490 20 29 735 490 721 604 765 249 788 715 684 415 796 12 170 901 558 
+player 212 draws a 319 from deck 212
+player 212 discards a 917 to deck 213
+player 212 current hand : 125 490 20 29 735 490 721 604 765 249 788 715 684 415 796 12 170 901 558 319 
+player 212 draws a 617 from deck 212
+player 212 discards a 125 to deck 213
+player 212 current hand : 490 20 29 735 490 721 604 765 249 788 715 684 415 796 12 170 901 558 319 617 
+player 212 draws a 301 from deck 212
+player 212 discards a 490 to deck 213
+player 212 current hand : 20 29 735 490 721 604 765 249 788 715 684 415 796 12 170 901 558 319 617 301 
+player 212 draws a 808 from deck 212
+player 212 discards a 20 to deck 213
+player 212 current hand : 29 735 490 721 604 765 249 788 715 684 415 796 12 170 901 558 319 617 301 808 
+player 212 draws a 180 from deck 212
+player 212 discards a 29 to deck 213
+player 212 current hand : 735 490 721 604 765 249 788 715 684 415 796 12 170 901 558 319 617 301 808 180 
+player 212 draws a 892 from deck 212
+player 212 discards a 735 to deck 213
+player 212 current hand : 490 721 604 765 249 788 715 684 415 796 12 170 901 558 319 617 301 808 180 892 
+player 212 draws a 42 from deck 212
+player 212 discards a 490 to deck 213
+player 212 current hand : 721 604 765 249 788 715 684 415 796 12 170 901 558 319 617 301 808 180 892 42 
+player 212 draws a 216 from deck 212
+player 212 discards a 721 to deck 213
+player 212 current hand : 604 765 249 788 715 684 415 796 12 170 901 558 319 617 301 808 180 892 42 216 
+player 212 draws a 739 from deck 212
+player 212 discards a 604 to deck 213
+player 212 current hand : 765 249 788 715 684 415 796 12 170 901 558 319 617 301 808 180 892 42 216 739 
+player 212 draws a 854 from deck 212
+player 212 discards a 765 to deck 213
+player 212 current hand : 249 788 715 684 415 796 12 170 901 558 319 617 301 808 180 892 42 216 739 854 
+player 212 draws a 601 from deck 212
+player 212 discards a 249 to deck 213
+player 212 current hand : 788 715 684 415 796 12 170 901 558 319 617 301 808 180 892 42 216 739 854 601 
+player 212 draws a 530 from deck 212
+player 212 discards a 788 to deck 213
+player 212 current hand : 715 684 415 796 12 170 901 558 319 617 301 808 180 892 42 216 739 854 601 530 
+player 212 draws a 343 from deck 212
+player 212 discards a 715 to deck 213
+player 212 current hand : 684 415 796 12 170 901 558 319 617 301 808 180 892 42 216 739 854 601 530 343 
+player 212 draws a 683 from deck 212
+player 212 discards a 684 to deck 213
+player 212 current hand : 415 796 12 170 901 558 319 617 301 808 180 892 42 216 739 854 601 530 343 683 
+player 212 draws a 750 from deck 212
+player 212 discards a 415 to deck 213
+player 212 current hand : 796 12 170 901 558 319 617 301 808 180 892 42 216 739 854 601 530 343 683 750 
+player 212 draws a 705 from deck 212
+player 212 discards a 796 to deck 213
+player 212 current hand : 12 170 901 558 319 617 301 808 180 892 42 216 739 854 601 530 343 683 750 705 
+player 212 draws a 97 from deck 212
+player 212 discards a 12 to deck 213
+player 212 current hand : 170 901 558 319 617 301 808 180 892 42 216 739 854 601 530 343 683 750 705 97 
+player 212 draws a 428 from deck 212
+player 212 discards a 170 to deck 213
+player 212 current hand : 901 558 319 617 301 808 180 892 42 216 739 854 601 530 343 683 750 705 97 428 
+player 212 draws a 575 from deck 212
+player 212 discards a 901 to deck 213
+player 212 current hand : 558 319 617 301 808 180 892 42 216 739 854 601 530 343 683 750 705 97 428 575 
+player 212 draws a 197 from deck 212
+player 212 discards a 558 to deck 213
+player 212 current hand : 319 617 301 808 180 892 42 216 739 854 601 530 343 683 750 705 97 428 575 197 
+player 212 draws a 504 from deck 212
+player 212 discards a 319 to deck 213
+player 212 current hand : 617 301 808 180 892 42 216 739 854 601 530 343 683 750 705 97 428 575 197 504 
+player 212 draws a 852 from deck 212
+player 212 discards a 617 to deck 213
+player 212 current hand : 301 808 180 892 42 216 739 854 601 530 343 683 750 705 97 428 575 197 504 852 
+player 212 draws a 228 from deck 212
+player 212 discards a 301 to deck 213
+player 212 current hand : 808 180 892 42 216 739 854 601 530 343 683 750 705 97 428 575 197 504 852 228 
+player 212 draws a 24 from deck 212
+player 212 discards a 808 to deck 213
+player 212 current hand : 180 892 42 216 739 854 601 530 343 683 750 705 97 428 575 197 504 852 228 24 
+player 212 draws a 900 from deck 212
+player 212 discards a 180 to deck 213
+player 212 current hand : 892 42 216 739 854 601 530 343 683 750 705 97 428 575 197 504 852 228 24 900 
+player 212 draws a 70 from deck 212
+player 212 discards a 892 to deck 213
+player 212 current hand : 42 216 739 854 601 530 343 683 750 705 97 428 575 197 504 852 228 24 900 70 
+player 212 draws a 917 from deck 212
+player 212 discards a 42 to deck 213
+player 212 current hand : 216 739 854 601 530 343 683 750 705 97 428 575 197 504 852 228 24 900 70 917 
+player 212 draws a 11 from deck 212
+player 212 discards a 216 to deck 213
+player 212 current hand : 739 854 601 530 343 683 750 705 97 428 575 197 504 852 228 24 900 70 917 11 
+player 212 draws a 350 from deck 212
+player 212 discards a 739 to deck 213
+player 212 current hand : 854 601 530 343 683 750 705 97 428 575 197 504 852 228 24 900 70 917 11 350 
+player 212 draws a 483 from deck 212
+player 212 discards a 854 to deck 213
+player 212 current hand : 601 530 343 683 750 705 97 428 575 197 504 852 228 24 900 70 917 11 350 483 
+player 212 draws a 497 from deck 212
+player 212 discards a 601 to deck 213
+player 212 current hand : 530 343 683 750 705 97 428 575 197 504 852 228 24 900 70 917 11 350 483 497 
+player 212 draws a 867 from deck 212
+player 212 discards a 530 to deck 213
+player 212 current hand : 343 683 750 705 97 428 575 197 504 852 228 24 900 70 917 11 350 483 497 867 
+player 212 draws a 691 from deck 212

@@ -1,0 +1,314 @@
+player 929 initial hand 1000 991 365 922 695 841 294 879 905 512 73 285 514 994 661 613 780 478 944 29 
+player 929 draws a 110 from deck 929
+player 929 discards a 1000 to deck 930
+player 929 current hand : 991 365 922 695 841 294 879 905 512 73 285 514 994 661 613 780 478 944 29 110 
+player 929 draws a 308 from deck 929
+player 929 discards a 991 to deck 930
+player 929 current hand : 365 922 695 841 294 879 905 512 73 285 514 994 661 613 780 478 944 29 110 308 
+player 929 draws a 760 from deck 929
+player 929 discards a 365 to deck 930
+player 929 current hand : 922 695 841 294 879 905 512 73 285 514 994 661 613 780 478 944 29 110 308 760 
+player 929 draws a 787 from deck 929
+player 929 discards a 922 to deck 930
+player 929 current hand : 695 841 294 879 905 512 73 285 514 994 661 613 780 478 944 29 110 308 760 787 
+player 929 draws a 149 from deck 929
+player 929 discards a 695 to deck 930
+player 929 current hand : 841 294 879 905 512 73 285 514 994 661 613 780 478 944 29 110 308 760 787 149 
+player 929 draws a 893 from deck 929
+player 929 discards a 841 to deck 930
+player 929 current hand : 294 879 905 512 73 285 514 994 661 613 780 478 944 29 110 308 760 787 149 893 
+player 929 draws a 606 from deck 929
+player 929 discards a 294 to deck 930
+player 929 current hand : 879 905 512 73 285 514 994 661 613 780 478 944 29 110 308 760 787 149 893 606 
+player 929 draws a 248 from deck 929
+player 929 discards a 879 to deck 930
+player 929 current hand : 905 512 73 285 514 994 661 613 780 478 944 29 110 308 760 787 149 893 606 248 
+player 929 draws a 532 from deck 929
+player 929 discards a 905 to deck 930
+player 929 current hand : 512 73 285 514 994 661 613 780 478 944 29 110 308 760 787 149 893 606 248 532 
+player 929 draws a 218 from deck 929
+player 929 discards a 512 to deck 930
+player 929 current hand : 73 285 514 994 661 613 780 478 944 29 110 308 760 787 149 893 606 248 532 218 
+player 929 draws a 708 from deck 929
+player 929 discards a 73 to deck 930
+player 929 current hand : 285 514 994 661 613 780 478 944 29 110 308 760 787 149 893 606 248 532 218 708 
+player 929 draws a 18 from deck 929
+player 929 discards a 285 to deck 930
+player 929 current hand : 514 994 661 613 780 478 944 29 110 308 760 787 149 893 606 248 532 218 708 18 
+player 929 draws a 151 from deck 929
+player 929 discards a 514 to deck 930
+player 929 current hand : 994 661 613 780 478 944 29 110 308 760 787 149 893 606 248 532 218 708 18 151 
+player 929 draws a 146 from deck 929
+player 929 discards a 994 to deck 930
+player 929 current hand : 661 613 780 478 944 29 110 308 760 787 149 893 606 248 532 218 708 18 151 146 
+player 929 draws a 612 from deck 929
+player 929 discards a 661 to deck 930
+player 929 current hand : 613 780 478 944 29 110 308 760 787 149 893 606 248 532 218 708 18 151 146 612 
+player 929 draws a 497 from deck 929
+player 929 discards a 613 to deck 930
+player 929 current hand : 780 478 944 29 110 308 760 787 149 893 606 248 532 218 708 18 151 146 612 497 
+player 929 draws a 290 from deck 929
+player 929 discards a 780 to deck 930
+player 929 current hand : 478 944 29 110 308 760 787 149 893 606 248 532 218 708 18 151 146 612 497 290 
+player 929 draws a 245 from deck 929
+player 929 discards a 478 to deck 930
+player 929 current hand : 944 29 110 308 760 787 149 893 606 248 532 218 708 18 151 146 612 497 290 245 
+player 929 draws a 970 from deck 929
+player 929 discards a 944 to deck 930
+player 929 current hand : 29 110 308 760 787 149 893 606 248 532 218 708 18 151 146 612 497 290 245 970 
+player 929 draws a 744 from deck 929
+player 929 discards a 29 to deck 930
+player 929 current hand : 110 308 760 787 149 893 606 248 532 218 708 18 151 146 612 497 290 245 970 744 
+player 929 draws a 24 from deck 929
+player 929 discards a 110 to deck 930
+player 929 current hand : 308 760 787 149 893 606 248 532 218 708 18 151 146 612 497 290 245 970 744 24 
+player 929 draws a 866 from deck 929
+player 929 discards a 308 to deck 930
+player 929 current hand : 760 787 149 893 606 248 532 218 708 18 151 146 612 497 290 245 970 744 24 866 
+player 929 draws a 372 from deck 929
+player 929 discards a 760 to deck 930
+player 929 current hand : 787 149 893 606 248 532 218 708 18 151 146 612 497 290 245 970 744 24 866 372 
+player 929 draws a 794 from deck 929
+player 929 discards a 787 to deck 930
+player 929 current hand : 149 893 606 248 532 218 708 18 151 146 612 497 290 245 970 744 24 866 372 794 
+player 929 draws a 879 from deck 929
+player 929 discards a 149 to deck 930
+player 929 current hand : 893 606 248 532 218 708 18 151 146 612 497 290 245 970 744 24 866 372 794 879 
+player 929 draws a 157 from deck 929
+player 929 discards a 893 to deck 930
+player 929 current hand : 606 248 532 218 708 18 151 146 612 497 290 245 970 744 24 866 372 794 879 157 
+player 929 draws a 363 from deck 929
+player 929 discards a 606 to deck 930
+player 929 current hand : 248 532 218 708 18 151 146 612 497 290 245 970 744 24 866 372 794 879 157 363 
+player 929 draws a 623 from deck 929
+player 929 discards a 248 to deck 930
+player 929 current hand : 532 218 708 18 151 146 612 497 290 245 970 744 24 866 372 794 879 157 363 623 
+player 929 draws a 608 from deck 929
+player 929 discards a 532 to deck 930
+player 929 current hand : 218 708 18 151 146 612 497 290 245 970 744 24 866 372 794 879 157 363 623 608 
+player 929 draws a 83 from deck 929
+player 929 discards a 218 to deck 930
+player 929 current hand : 708 18 151 146 612 497 290 245 970 744 24 866 372 794 879 157 363 623 608 83 
+player 929 draws a 970 from deck 929
+player 929 discards a 708 to deck 930
+player 929 current hand : 18 151 146 612 497 290 245 970 744 24 866 372 794 879 157 363 623 608 83 970 
+player 929 draws a 220 from deck 929
+player 929 discards a 18 to deck 930
+player 929 current hand : 151 146 612 497 290 245 970 744 24 866 372 794 879 157 363 623 608 83 970 220 
+player 929 draws a 866 from deck 929
+player 929 discards a 151 to deck 930
+player 929 current hand : 146 612 497 290 245 970 744 24 866 372 794 879 157 363 623 608 83 970 220 866 
+player 929 draws a 933 from deck 929
+player 929 discards a 146 to deck 930
+player 929 current hand : 612 497 290 245 970 744 24 866 372 794 879 157 363 623 608 83 970 220 866 933 
+player 929 draws a 50 from deck 929
+player 929 discards a 612 to deck 930
+player 929 current hand : 497 290 245 970 744 24 866 372 794 879 157 363 623 608 83 970 220 866 933 50 
+player 929 draws a 616 from deck 929
+player 929 discards a 497 to deck 930
+player 929 current hand : 290 245 970 744 24 866 372 794 879 157 363 623 608 83 970 220 866 933 50 616 
+player 929 draws a 632 from deck 929
+player 929 discards a 290 to deck 930
+player 929 current hand : 245 970 744 24 866 372 794 879 157 363 623 608 83 970 220 866 933 50 616 632 
+player 929 draws a 705 from deck 929
+player 929 discards a 245 to deck 930
+player 929 current hand : 970 744 24 866 372 794 879 157 363 623 608 83 970 220 866 933 50 616 632 705 
+player 929 draws a 490 from deck 929
+player 929 discards a 970 to deck 930
+player 929 current hand : 744 24 866 372 794 879 157 363 623 608 83 970 220 866 933 50 616 632 705 490 
+player 929 draws a 189 from deck 929
+player 929 discards a 744 to deck 930
+player 929 current hand : 24 866 372 794 879 157 363 623 608 83 970 220 866 933 50 616 632 705 490 189 
+player 929 draws a 655 from deck 929
+player 929 discards a 24 to deck 930
+player 929 current hand : 866 372 794 879 157 363 623 608 83 970 220 866 933 50 616 632 705 490 189 655 
+player 929 draws a 915 from deck 929
+player 929 discards a 866 to deck 930
+player 929 current hand : 372 794 879 157 363 623 608 83 970 220 866 933 50 616 632 705 490 189 655 915 
+player 929 draws a 764 from deck 929
+player 929 discards a 372 to deck 930
+player 929 current hand : 794 879 157 363 623 608 83 970 220 866 933 50 616 632 705 490 189 655 915 764 
+player 929 draws a 180 from deck 929
+player 929 discards a 794 to deck 930
+player 929 current hand : 879 157 363 623 608 83 970 220 866 933 50 616 632 705 490 189 655 915 764 180 
+player 929 draws a 36 from deck 929
+player 929 discards a 879 to deck 930
+player 929 current hand : 157 363 623 608 83 970 220 866 933 50 616 632 705 490 189 655 915 764 180 36 
+player 929 draws a 83 from deck 929
+player 929 discards a 157 to deck 930
+player 929 current hand : 363 623 608 83 970 220 866 933 50 616 632 705 490 189 655 915 764 180 36 83 
+player 929 draws a 826 from deck 929
+player 929 discards a 363 to deck 930
+player 929 current hand : 623 608 83 970 220 866 933 50 616 632 705 490 189 655 915 764 180 36 83 826 
+player 929 draws a 29 from deck 929
+player 929 discards a 623 to deck 930
+player 929 current hand : 608 83 970 220 866 933 50 616 632 705 490 189 655 915 764 180 36 83 826 29 
+player 929 draws a 460 from deck 929
+player 929 discards a 608 to deck 930
+player 929 current hand : 83 970 220 866 933 50 616 632 705 490 189 655 915 764 180 36 83 826 29 460 
+player 929 draws a 376 from deck 929
+player 929 discards a 83 to deck 930
+player 929 current hand : 970 220 866 933 50 616 632 705 490 189 655 915 764 180 36 83 826 29 460 376 
+player 929 draws a 636 from deck 929
+player 929 discards a 970 to deck 930
+player 929 current hand : 220 866 933 50 616 632 705 490 189 655 915 764 180 36 83 826 29 460 376 636 
+player 929 draws a 888 from deck 929
+player 929 discards a 220 to deck 930
+player 929 current hand : 866 933 50 616 632 705 490 189 655 915 764 180 36 83 826 29 460 376 636 888 
+player 929 draws a 966 from deck 929
+player 929 discards a 866 to deck 930
+player 929 current hand : 933 50 616 632 705 490 189 655 915 764 180 36 83 826 29 460 376 636 888 966 
+player 929 draws a 75 from deck 929
+player 929 discards a 933 to deck 930
+player 929 current hand : 50 616 632 705 490 189 655 915 764 180 36 83 826 29 460 376 636 888 966 75 
+player 929 draws a 20 from deck 929
+player 929 discards a 50 to deck 930
+player 929 current hand : 616 632 705 490 189 655 915 764 180 36 83 826 29 460 376 636 888 966 75 20 
+player 929 draws a 93 from deck 929
+player 929 discards a 616 to deck 930
+player 929 current hand : 632 705 490 189 655 915 764 180 36 83 826 29 460 376 636 888 966 75 20 93 
+player 929 draws a 783 from deck 929
+player 929 discards a 632 to deck 930
+player 929 current hand : 705 490 189 655 915 764 180 36 83 826 29 460 376 636 888 966 75 20 93 783 
+player 929 draws a 111 from deck 929
+player 929 discards a 705 to deck 930
+player 929 current hand : 490 189 655 915 764 180 36 83 826 29 460 376 636 888 966 75 20 93 783 111 
+player 929 draws a 613 from deck 929
+player 929 discards a 490 to deck 930
+player 929 current hand : 189 655 915 764 180 36 83 826 29 460 376 636 888 966 75 20 93 783 111 613 
+player 929 draws a 74 from deck 929
+player 929 discards a 189 to deck 930
+player 929 current hand : 655 915 764 180 36 83 826 29 460 376 636 888 966 75 20 93 783 111 613 74 
+player 929 draws a 71 from deck 929
+player 929 discards a 655 to deck 930
+player 929 current hand : 915 764 180 36 83 826 29 460 376 636 888 966 75 20 93 783 111 613 74 71 
+player 929 draws a 415 from deck 929
+player 929 discards a 915 to deck 930
+player 929 current hand : 764 180 36 83 826 29 460 376 636 888 966 75 20 93 783 111 613 74 71 415 
+player 929 draws a 572 from deck 929
+player 929 discards a 764 to deck 930
+player 929 current hand : 180 36 83 826 29 460 376 636 888 966 75 20 93 783 111 613 74 71 415 572 
+player 929 draws a 485 from deck 929
+player 929 discards a 180 to deck 930
+player 929 current hand : 36 83 826 29 460 376 636 888 966 75 20 93 783 111 613 74 71 415 572 485 
+player 929 draws a 919 from deck 929
+player 929 discards a 36 to deck 930
+player 929 current hand : 83 826 29 460 376 636 888 966 75 20 93 783 111 613 74 71 415 572 485 919 
+player 929 draws a 146 from deck 929
+player 929 discards a 83 to deck 930
+player 929 current hand : 826 29 460 376 636 888 966 75 20 93 783 111 613 74 71 415 572 485 919 146 
+player 929 draws a 521 from deck 929
+player 929 discards a 826 to deck 930
+player 929 current hand : 29 460 376 636 888 966 75 20 93 783 111 613 74 71 415 572 485 919 146 521 
+player 929 draws a 662 from deck 929
+player 929 discards a 29 to deck 930
+player 929 current hand : 460 376 636 888 966 75 20 93 783 111 613 74 71 415 572 485 919 146 521 662 
+player 929 draws a 955 from deck 929
+player 929 discards a 460 to deck 930
+player 929 current hand : 376 636 888 966 75 20 93 783 111 613 74 71 415 572 485 919 146 521 662 955 
+player 929 draws a 71 from deck 929
+player 929 discards a 376 to deck 930
+player 929 current hand : 636 888 966 75 20 93 783 111 613 74 71 415 572 485 919 146 521 662 955 71 
+player 929 draws a 267 from deck 929
+player 929 discards a 636 to deck 930
+player 929 current hand : 888 966 75 20 93 783 111 613 74 71 415 572 485 919 146 521 662 955 71 267 
+player 929 draws a 527 from deck 929
+player 929 discards a 888 to deck 930
+player 929 current hand : 966 75 20 93 783 111 613 74 71 415 572 485 919 146 521 662 955 71 267 527 
+player 929 draws a 363 from deck 929
+player 929 discards a 966 to deck 930
+player 929 current hand : 75 20 93 783 111 613 74 71 415 572 485 919 146 521 662 955 71 267 527 363 
+player 929 draws a 954 from deck 929
+player 929 discards a 75 to deck 930
+player 929 current hand : 20 93 783 111 613 74 71 415 572 485 919 146 521 662 955 71 267 527 363 954 
+player 929 draws a 106 from deck 929
+player 929 discards a 20 to deck 930
+player 929 current hand : 93 783 111 613 74 71 415 572 485 919 146 521 662 955 71 267 527 363 954 106 
+player 929 draws a 647 from deck 929
+player 929 discards a 93 to deck 930
+player 929 current hand : 783 111 613 74 71 415 572 485 919 146 521 662 955 71 267 527 363 954 106 647 
+player 929 draws a 828 from deck 929
+player 929 discards a 783 to deck 930
+player 929 current hand : 111 613 74 71 415 572 485 919 146 521 662 955 71 267 527 363 954 106 647 828 
+player 929 draws a 453 from deck 929
+player 929 discards a 111 to deck 930
+player 929 current hand : 613 74 71 415 572 485 919 146 521 662 955 71 267 527 363 954 106 647 828 453 
+player 929 draws a 239 from deck 929
+player 929 discards a 613 to deck 930
+player 929 current hand : 74 71 415 572 485 919 146 521 662 955 71 267 527 363 954 106 647 828 453 239 
+player 929 draws a 464 from deck 929
+player 929 discards a 74 to deck 930
+player 929 current hand : 71 415 572 485 919 146 521 662 955 71 267 527 363 954 106 647 828 453 239 464 
+player 929 draws a 943 from deck 929
+player 929 discards a 71 to deck 930
+player 929 current hand : 415 572 485 919 146 521 662 955 71 267 527 363 954 106 647 828 453 239 464 943 
+player 929 draws a 619 from deck 929
+player 929 discards a 415 to deck 930
+player 929 current hand : 572 485 919 146 521 662 955 71 267 527 363 954 106 647 828 453 239 464 943 619 
+player 929 draws a 693 from deck 929
+player 929 discards a 572 to deck 930
+player 929 current hand : 485 919 146 521 662 955 71 267 527 363 954 106 647 828 453 239 464 943 619 693 
+player 929 draws a 949 from deck 929
+player 929 discards a 485 to deck 930
+player 929 current hand : 919 146 521 662 955 71 267 527 363 954 106 647 828 453 239 464 943 619 693 949 
+player 929 draws a 202 from deck 929
+player 929 discards a 919 to deck 930
+player 929 current hand : 146 521 662 955 71 267 527 363 954 106 647 828 453 239 464 943 619 693 949 202 
+player 929 draws a 581 from deck 929
+player 929 discards a 146 to deck 930
+player 929 current hand : 521 662 955 71 267 527 363 954 106 647 828 453 239 464 943 619 693 949 202 581 
+player 929 draws a 63 from deck 929
+player 929 discards a 521 to deck 930
+player 929 current hand : 662 955 71 267 527 363 954 106 647 828 453 239 464 943 619 693 949 202 581 63 
+player 929 draws a 542 from deck 929
+player 929 discards a 662 to deck 930
+player 929 current hand : 955 71 267 527 363 954 106 647 828 453 239 464 943 619 693 949 202 581 63 542 
+player 929 draws a 653 from deck 929
+player 929 discards a 955 to deck 930
+player 929 current hand : 71 267 527 363 954 106 647 828 453 239 464 943 619 693 949 202 581 63 542 653 
+player 929 draws a 459 from deck 929
+player 929 discards a 71 to deck 930
+player 929 current hand : 267 527 363 954 106 647 828 453 239 464 943 619 693 949 202 581 63 542 653 459 
+player 929 draws a 492 from deck 929
+player 929 discards a 267 to deck 930
+player 929 current hand : 527 363 954 106 647 828 453 239 464 943 619 693 949 202 581 63 542 653 459 492 
+player 929 draws a 776 from deck 929
+player 929 discards a 527 to deck 930
+player 929 current hand : 363 954 106 647 828 453 239 464 943 619 693 949 202 581 63 542 653 459 492 776 
+player 929 draws a 164 from deck 929
+player 929 discards a 363 to deck 930
+player 929 current hand : 954 106 647 828 453 239 464 943 619 693 949 202 581 63 542 653 459 492 776 164 
+player 929 draws a 649 from deck 929
+player 929 discards a 954 to deck 930
+player 929 current hand : 106 647 828 453 239 464 943 619 693 949 202 581 63 542 653 459 492 776 164 649 
+player 929 draws a 246 from deck 929
+player 929 discards a 106 to deck 930
+player 929 current hand : 647 828 453 239 464 943 619 693 949 202 581 63 542 653 459 492 776 164 649 246 
+player 929 draws a 475 from deck 929
+player 929 discards a 647 to deck 930
+player 929 current hand : 828 453 239 464 943 619 693 949 202 581 63 542 653 459 492 776 164 649 246 475 
+player 929 draws a 736 from deck 929
+player 929 discards a 828 to deck 930
+player 929 current hand : 453 239 464 943 619 693 949 202 581 63 542 653 459 492 776 164 649 246 475 736 
+player 929 draws a 127 from deck 929
+player 929 discards a 453 to deck 930
+player 929 current hand : 239 464 943 619 693 949 202 581 63 542 653 459 492 776 164 649 246 475 736 127 
+player 929 draws a 694 from deck 929
+player 929 discards a 239 to deck 930
+player 929 current hand : 464 943 619 693 949 202 581 63 542 653 459 492 776 164 649 246 475 736 127 694 
+player 929 draws a 672 from deck 929
+player 929 discards a 464 to deck 930
+player 929 current hand : 943 619 693 949 202 581 63 542 653 459 492 776 164 649 246 475 736 127 694 672 
+player 929 draws a 412 from deck 929
+player 929 discards a 943 to deck 930
+player 929 current hand : 619 693 949 202 581 63 542 653 459 492 776 164 649 246 475 736 127 694 672 412 
+player 929 draws a 791 from deck 929
+player 929 discards a 619 to deck 930
+player 929 current hand : 693 949 202 581 63 542 653 459 492 776 164 649 246 475 736 127 694 672 412 791 
+player 929 draws a 842 from deck 929
+player 929 discards a 693 to deck 930
+player 929 current hand : 949 202 581 63 542 653 459 492 776 164 649 246 475 736 127 694 672 412 791 842 
+player 929 draws a 495 from deck 929
+player 929 discards a 949 to deck 930
+player 929 current hand : 202 581 63 542 653 459 492 776 164 649 246 475 736 127 694 672 412 791 842 495 
+player 929 draws a 602 from deck 929

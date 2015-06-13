@@ -1,0 +1,296 @@
+player 502 initial hand 972 776 442 4 156 666 400 645 931 757 938 808 538 650 706 887 407 896 65 480 
+player 502 draws a 507 from deck 502
+player 502 discards a 972 to deck 503
+player 502 current hand : 776 442 4 156 666 400 645 931 757 938 808 538 650 706 887 407 896 65 480 507 
+player 502 draws a 456 from deck 502
+player 502 discards a 776 to deck 503
+player 502 current hand : 442 4 156 666 400 645 931 757 938 808 538 650 706 887 407 896 65 480 507 456 
+player 502 draws a 501 from deck 502
+player 502 discards a 442 to deck 503
+player 502 current hand : 4 156 666 400 645 931 757 938 808 538 650 706 887 407 896 65 480 507 456 501 
+player 502 draws a 4 from deck 502
+player 502 discards a 4 to deck 503
+player 502 current hand : 156 666 400 645 931 757 938 808 538 650 706 887 407 896 65 480 507 456 501 4 
+player 502 draws a 689 from deck 502
+player 502 discards a 156 to deck 503
+player 502 current hand : 666 400 645 931 757 938 808 538 650 706 887 407 896 65 480 507 456 501 4 689 
+player 502 draws a 718 from deck 502
+player 502 discards a 666 to deck 503
+player 502 current hand : 400 645 931 757 938 808 538 650 706 887 407 896 65 480 507 456 501 4 689 718 
+player 502 draws a 849 from deck 502
+player 502 discards a 400 to deck 503
+player 502 current hand : 645 931 757 938 808 538 650 706 887 407 896 65 480 507 456 501 4 689 718 849 
+player 502 draws a 262 from deck 502
+player 502 discards a 645 to deck 503
+player 502 current hand : 931 757 938 808 538 650 706 887 407 896 65 480 507 456 501 4 689 718 849 262 
+player 502 draws a 957 from deck 502
+player 502 discards a 931 to deck 503
+player 502 current hand : 757 938 808 538 650 706 887 407 896 65 480 507 456 501 4 689 718 849 262 957 
+player 502 draws a 81 from deck 502
+player 502 discards a 757 to deck 503
+player 502 current hand : 938 808 538 650 706 887 407 896 65 480 507 456 501 4 689 718 849 262 957 81 
+player 502 draws a 594 from deck 502
+player 502 discards a 938 to deck 503
+player 502 current hand : 808 538 650 706 887 407 896 65 480 507 456 501 4 689 718 849 262 957 81 594 
+player 502 draws a 893 from deck 502
+player 502 discards a 808 to deck 503
+player 502 current hand : 538 650 706 887 407 896 65 480 507 456 501 4 689 718 849 262 957 81 594 893 
+player 502 draws a 45 from deck 502
+player 502 discards a 538 to deck 503
+player 502 current hand : 650 706 887 407 896 65 480 507 456 501 4 689 718 849 262 957 81 594 893 45 
+player 502 draws a 239 from deck 502
+player 502 discards a 650 to deck 503
+player 502 current hand : 706 887 407 896 65 480 507 456 501 4 689 718 849 262 957 81 594 893 45 239 
+player 502 draws a 719 from deck 502
+player 502 discards a 706 to deck 503
+player 502 current hand : 887 407 896 65 480 507 456 501 4 689 718 849 262 957 81 594 893 45 239 719 
+player 502 draws a 364 from deck 502
+player 502 discards a 887 to deck 503
+player 502 current hand : 407 896 65 480 507 456 501 4 689 718 849 262 957 81 594 893 45 239 719 364 
+player 502 draws a 106 from deck 502
+player 502 discards a 407 to deck 503
+player 502 current hand : 896 65 480 507 456 501 4 689 718 849 262 957 81 594 893 45 239 719 364 106 
+player 502 draws a 954 from deck 502
+player 502 discards a 896 to deck 503
+player 502 current hand : 65 480 507 456 501 4 689 718 849 262 957 81 594 893 45 239 719 364 106 954 
+player 502 draws a 289 from deck 502
+player 502 discards a 65 to deck 503
+player 502 current hand : 480 507 456 501 4 689 718 849 262 957 81 594 893 45 239 719 364 106 954 289 
+player 502 draws a 392 from deck 502
+player 502 discards a 480 to deck 503
+player 502 current hand : 507 456 501 4 689 718 849 262 957 81 594 893 45 239 719 364 106 954 289 392 
+player 502 draws a 127 from deck 502
+player 502 discards a 507 to deck 503
+player 502 current hand : 456 501 4 689 718 849 262 957 81 594 893 45 239 719 364 106 954 289 392 127 
+player 502 draws a 735 from deck 502
+player 502 discards a 456 to deck 503
+player 502 current hand : 501 4 689 718 849 262 957 81 594 893 45 239 719 364 106 954 289 392 127 735 
+player 502 draws a 930 from deck 502
+player 502 discards a 501 to deck 503
+player 502 current hand : 4 689 718 849 262 957 81 594 893 45 239 719 364 106 954 289 392 127 735 930 
+player 502 draws a 275 from deck 502
+player 502 discards a 4 to deck 503
+player 502 current hand : 689 718 849 262 957 81 594 893 45 239 719 364 106 954 289 392 127 735 930 275 
+player 502 draws a 37 from deck 502
+player 502 discards a 689 to deck 503
+player 502 current hand : 718 849 262 957 81 594 893 45 239 719 364 106 954 289 392 127 735 930 275 37 
+player 502 draws a 826 from deck 502
+player 502 discards a 718 to deck 503
+player 502 current hand : 849 262 957 81 594 893 45 239 719 364 106 954 289 392 127 735 930 275 37 826 
+player 502 draws a 128 from deck 502
+player 502 discards a 849 to deck 503
+player 502 current hand : 262 957 81 594 893 45 239 719 364 106 954 289 392 127 735 930 275 37 826 128 
+player 502 draws a 320 from deck 502
+player 502 discards a 262 to deck 503
+player 502 current hand : 957 81 594 893 45 239 719 364 106 954 289 392 127 735 930 275 37 826 128 320 
+player 502 draws a 314 from deck 502
+player 502 discards a 957 to deck 503
+player 502 current hand : 81 594 893 45 239 719 364 106 954 289 392 127 735 930 275 37 826 128 320 314 
+player 502 draws a 127 from deck 502
+player 502 discards a 81 to deck 503
+player 502 current hand : 594 893 45 239 719 364 106 954 289 392 127 735 930 275 37 826 128 320 314 127 
+player 502 draws a 12 from deck 502
+player 502 discards a 594 to deck 503
+player 502 current hand : 893 45 239 719 364 106 954 289 392 127 735 930 275 37 826 128 320 314 127 12 
+player 502 draws a 74 from deck 502
+player 502 discards a 893 to deck 503
+player 502 current hand : 45 239 719 364 106 954 289 392 127 735 930 275 37 826 128 320 314 127 12 74 
+player 502 draws a 571 from deck 502
+player 502 discards a 45 to deck 503
+player 502 current hand : 239 719 364 106 954 289 392 127 735 930 275 37 826 128 320 314 127 12 74 571 
+player 502 draws a 744 from deck 502
+player 502 discards a 239 to deck 503
+player 502 current hand : 719 364 106 954 289 392 127 735 930 275 37 826 128 320 314 127 12 74 571 744 
+player 502 draws a 599 from deck 502
+player 502 discards a 719 to deck 503
+player 502 current hand : 364 106 954 289 392 127 735 930 275 37 826 128 320 314 127 12 74 571 744 599 
+player 502 draws a 868 from deck 502
+player 502 discards a 364 to deck 503
+player 502 current hand : 106 954 289 392 127 735 930 275 37 826 128 320 314 127 12 74 571 744 599 868 
+player 502 draws a 979 from deck 502
+player 502 discards a 106 to deck 503
+player 502 current hand : 954 289 392 127 735 930 275 37 826 128 320 314 127 12 74 571 744 599 868 979 
+player 502 draws a 252 from deck 502
+player 502 discards a 954 to deck 503
+player 502 current hand : 289 392 127 735 930 275 37 826 128 320 314 127 12 74 571 744 599 868 979 252 
+player 502 draws a 531 from deck 502
+player 502 discards a 289 to deck 503
+player 502 current hand : 392 127 735 930 275 37 826 128 320 314 127 12 74 571 744 599 868 979 252 531 
+player 502 draws a 305 from deck 502
+player 502 discards a 392 to deck 503
+player 502 current hand : 127 735 930 275 37 826 128 320 314 127 12 74 571 744 599 868 979 252 531 305 
+player 502 draws a 463 from deck 502
+player 502 discards a 127 to deck 503
+player 502 current hand : 735 930 275 37 826 128 320 314 127 12 74 571 744 599 868 979 252 531 305 463 
+player 502 draws a 177 from deck 502
+player 502 discards a 735 to deck 503
+player 502 current hand : 930 275 37 826 128 320 314 127 12 74 571 744 599 868 979 252 531 305 463 177 
+player 502 draws a 985 from deck 502
+player 502 discards a 930 to deck 503
+player 502 current hand : 275 37 826 128 320 314 127 12 74 571 744 599 868 979 252 531 305 463 177 985 
+player 502 draws a 923 from deck 502
+player 502 discards a 275 to deck 503
+player 502 current hand : 37 826 128 320 314 127 12 74 571 744 599 868 979 252 531 305 463 177 985 923 
+player 502 draws a 994 from deck 502
+player 502 discards a 37 to deck 503
+player 502 current hand : 826 128 320 314 127 12 74 571 744 599 868 979 252 531 305 463 177 985 923 994 
+player 502 draws a 152 from deck 502
+player 502 discards a 826 to deck 503
+player 502 current hand : 128 320 314 127 12 74 571 744 599 868 979 252 531 305 463 177 985 923 994 152 
+player 502 draws a 604 from deck 502
+player 502 discards a 128 to deck 503
+player 502 current hand : 320 314 127 12 74 571 744 599 868 979 252 531 305 463 177 985 923 994 152 604 
+player 502 draws a 168 from deck 502
+player 502 discards a 320 to deck 503
+player 502 current hand : 314 127 12 74 571 744 599 868 979 252 531 305 463 177 985 923 994 152 604 168 
+player 502 draws a 427 from deck 502
+player 502 discards a 314 to deck 503
+player 502 current hand : 127 12 74 571 744 599 868 979 252 531 305 463 177 985 923 994 152 604 168 427 
+player 502 draws a 44 from deck 502
+player 502 discards a 127 to deck 503
+player 502 current hand : 12 74 571 744 599 868 979 252 531 305 463 177 985 923 994 152 604 168 427 44 
+player 502 draws a 417 from deck 502
+player 502 discards a 12 to deck 503
+player 502 current hand : 74 571 744 599 868 979 252 531 305 463 177 985 923 994 152 604 168 427 44 417 
+player 502 draws a 234 from deck 502
+player 502 discards a 74 to deck 503
+player 502 current hand : 571 744 599 868 979 252 531 305 463 177 985 923 994 152 604 168 427 44 417 234 
+player 502 draws a 400 from deck 502
+player 502 discards a 571 to deck 503
+player 502 current hand : 744 599 868 979 252 531 305 463 177 985 923 994 152 604 168 427 44 417 234 400 
+player 502 draws a 186 from deck 502
+player 502 discards a 744 to deck 503
+player 502 current hand : 599 868 979 252 531 305 463 177 985 923 994 152 604 168 427 44 417 234 400 186 
+player 502 draws a 27 from deck 502
+player 502 discards a 599 to deck 503
+player 502 current hand : 868 979 252 531 305 463 177 985 923 994 152 604 168 427 44 417 234 400 186 27 
+player 502 draws a 977 from deck 502
+player 502 discards a 868 to deck 503
+player 502 current hand : 979 252 531 305 463 177 985 923 994 152 604 168 427 44 417 234 400 186 27 977 
+player 502 draws a 931 from deck 502
+player 502 discards a 979 to deck 503
+player 502 current hand : 252 531 305 463 177 985 923 994 152 604 168 427 44 417 234 400 186 27 977 931 
+player 502 draws a 4 from deck 502
+player 502 discards a 252 to deck 503
+player 502 current hand : 531 305 463 177 985 923 994 152 604 168 427 44 417 234 400 186 27 977 931 4 
+player 502 draws a 966 from deck 502
+player 502 discards a 531 to deck 503
+player 502 current hand : 305 463 177 985 923 994 152 604 168 427 44 417 234 400 186 27 977 931 4 966 
+player 502 draws a 370 from deck 502
+player 502 discards a 305 to deck 503
+player 502 current hand : 463 177 985 923 994 152 604 168 427 44 417 234 400 186 27 977 931 4 966 370 
+player 502 draws a 495 from deck 502
+player 502 discards a 463 to deck 503
+player 502 current hand : 177 985 923 994 152 604 168 427 44 417 234 400 186 27 977 931 4 966 370 495 
+player 502 draws a 240 from deck 502
+player 502 discards a 177 to deck 503
+player 502 current hand : 985 923 994 152 604 168 427 44 417 234 400 186 27 977 931 4 966 370 495 240 
+player 502 draws a 925 from deck 502
+player 502 discards a 985 to deck 503
+player 502 current hand : 923 994 152 604 168 427 44 417 234 400 186 27 977 931 4 966 370 495 240 925 
+player 502 draws a 844 from deck 502
+player 502 discards a 923 to deck 503
+player 502 current hand : 994 152 604 168 427 44 417 234 400 186 27 977 931 4 966 370 495 240 925 844 
+player 502 draws a 282 from deck 502
+player 502 discards a 994 to deck 503
+player 502 current hand : 152 604 168 427 44 417 234 400 186 27 977 931 4 966 370 495 240 925 844 282 
+player 502 draws a 240 from deck 502
+player 502 discards a 152 to deck 503
+player 502 current hand : 604 168 427 44 417 234 400 186 27 977 931 4 966 370 495 240 925 844 282 240 
+player 502 draws a 491 from deck 502
+player 502 discards a 604 to deck 503
+player 502 current hand : 168 427 44 417 234 400 186 27 977 931 4 966 370 495 240 925 844 282 240 491 
+player 502 draws a 178 from deck 502
+player 502 discards a 168 to deck 503
+player 502 current hand : 427 44 417 234 400 186 27 977 931 4 966 370 495 240 925 844 282 240 491 178 
+player 502 draws a 48 from deck 502
+player 502 discards a 427 to deck 503
+player 502 current hand : 44 417 234 400 186 27 977 931 4 966 370 495 240 925 844 282 240 491 178 48 
+player 502 draws a 370 from deck 502
+player 502 discards a 44 to deck 503
+player 502 current hand : 417 234 400 186 27 977 931 4 966 370 495 240 925 844 282 240 491 178 48 370 
+player 502 draws a 793 from deck 502
+player 502 discards a 417 to deck 503
+player 502 current hand : 234 400 186 27 977 931 4 966 370 495 240 925 844 282 240 491 178 48 370 793 
+player 502 draws a 786 from deck 502
+player 502 discards a 234 to deck 503
+player 502 current hand : 400 186 27 977 931 4 966 370 495 240 925 844 282 240 491 178 48 370 793 786 
+player 502 draws a 965 from deck 502
+player 502 discards a 400 to deck 503
+player 502 current hand : 186 27 977 931 4 966 370 495 240 925 844 282 240 491 178 48 370 793 786 965 
+player 502 draws a 566 from deck 502
+player 502 discards a 186 to deck 503
+player 502 current hand : 27 977 931 4 966 370 495 240 925 844 282 240 491 178 48 370 793 786 965 566 
+player 502 draws a 37 from deck 502
+player 502 discards a 27 to deck 503
+player 502 current hand : 977 931 4 966 370 495 240 925 844 282 240 491 178 48 370 793 786 965 566 37 
+player 502 draws a 399 from deck 502
+player 502 discards a 977 to deck 503
+player 502 current hand : 931 4 966 370 495 240 925 844 282 240 491 178 48 370 793 786 965 566 37 399 
+player 502 draws a 720 from deck 502
+player 502 discards a 931 to deck 503
+player 502 current hand : 4 966 370 495 240 925 844 282 240 491 178 48 370 793 786 965 566 37 399 720 
+player 502 draws a 849 from deck 502
+player 502 discards a 4 to deck 503
+player 502 current hand : 966 370 495 240 925 844 282 240 491 178 48 370 793 786 965 566 37 399 720 849 
+player 502 draws a 574 from deck 502
+player 502 discards a 966 to deck 503
+player 502 current hand : 370 495 240 925 844 282 240 491 178 48 370 793 786 965 566 37 399 720 849 574 
+player 502 draws a 367 from deck 502
+player 502 discards a 370 to deck 503
+player 502 current hand : 495 240 925 844 282 240 491 178 48 370 793 786 965 566 37 399 720 849 574 367 
+player 502 draws a 415 from deck 502
+player 502 discards a 495 to deck 503
+player 502 current hand : 240 925 844 282 240 491 178 48 370 793 786 965 566 37 399 720 849 574 367 415 
+player 502 draws a 685 from deck 502
+player 502 discards a 240 to deck 503
+player 502 current hand : 925 844 282 240 491 178 48 370 793 786 965 566 37 399 720 849 574 367 415 685 
+player 502 draws a 707 from deck 502
+player 502 discards a 925 to deck 503
+player 502 current hand : 844 282 240 491 178 48 370 793 786 965 566 37 399 720 849 574 367 415 685 707 
+player 502 draws a 297 from deck 502
+player 502 discards a 844 to deck 503
+player 502 current hand : 282 240 491 178 48 370 793 786 965 566 37 399 720 849 574 367 415 685 707 297 
+player 502 draws a 1 from deck 502
+player 502 discards a 282 to deck 503
+player 502 current hand : 240 491 178 48 370 793 786 965 566 37 399 720 849 574 367 415 685 707 297 1 
+player 502 draws a 100 from deck 502
+player 502 discards a 240 to deck 503
+player 502 current hand : 491 178 48 370 793 786 965 566 37 399 720 849 574 367 415 685 707 297 1 100 
+player 502 draws a 389 from deck 502
+player 502 discards a 491 to deck 503
+player 502 current hand : 178 48 370 793 786 965 566 37 399 720 849 574 367 415 685 707 297 1 100 389 
+player 502 draws a 303 from deck 502
+player 502 discards a 178 to deck 503
+player 502 current hand : 48 370 793 786 965 566 37 399 720 849 574 367 415 685 707 297 1 100 389 303 
+player 502 draws a 480 from deck 502
+player 502 discards a 48 to deck 503
+player 502 current hand : 370 793 786 965 566 37 399 720 849 574 367 415 685 707 297 1 100 389 303 480 
+player 502 draws a 590 from deck 502
+player 502 discards a 370 to deck 503
+player 502 current hand : 793 786 965 566 37 399 720 849 574 367 415 685 707 297 1 100 389 303 480 590 
+player 502 draws a 788 from deck 502
+player 502 discards a 793 to deck 503
+player 502 current hand : 786 965 566 37 399 720 849 574 367 415 685 707 297 1 100 389 303 480 590 788 
+player 502 draws a 175 from deck 502
+player 502 discards a 786 to deck 503
+player 502 current hand : 965 566 37 399 720 849 574 367 415 685 707 297 1 100 389 303 480 590 788 175 
+player 502 draws a 393 from deck 502
+player 502 discards a 965 to deck 503
+player 502 current hand : 566 37 399 720 849 574 367 415 685 707 297 1 100 389 303 480 590 788 175 393 
+player 502 draws a 508 from deck 502
+player 502 discards a 566 to deck 503
+player 502 current hand : 37 399 720 849 574 367 415 685 707 297 1 100 389 303 480 590 788 175 393 508 
+player 502 draws a 174 from deck 502
+player 502 discards a 37 to deck 503
+player 502 current hand : 399 720 849 574 367 415 685 707 297 1 100 389 303 480 590 788 175 393 508 174 
+player 502 draws a 730 from deck 502
+player 502 discards a 399 to deck 503
+player 502 current hand : 720 849 574 367 415 685 707 297 1 100 389 303 480 590 788 175 393 508 174 730 
+player 502 draws a 795 from deck 502
+player 502 discards a 720 to deck 503
+player 502 current hand : 849 574 367 415 685 707 297 1 100 389 303 480 590 788 175 393 508 174 730 795 
+player 502 draws a 392 from deck 502
+player 502 discards a 849 to deck 503
+player 502 current hand : 574 367 415 685 707 297 1 100 389 303 480 590 788 175 393 508 174 730 795 392 
+player 502 draws a 327 from deck 502

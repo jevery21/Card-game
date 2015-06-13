@@ -1,0 +1,295 @@
+player 40 initial hand 636 234 72 646 944 879 138 466 633 631 690 951 52 241 715 743 696 666 509 194 
+player 40 draws a 355 from deck 40
+player 40 discards a 636 to deck 41
+player 40 current hand : 234 72 646 944 879 138 466 633 631 690 951 52 241 715 743 696 666 509 194 355 
+player 40 draws a 599 from deck 40
+player 40 discards a 234 to deck 41
+player 40 current hand : 72 646 944 879 138 466 633 631 690 951 52 241 715 743 696 666 509 194 355 599 
+player 40 draws a 452 from deck 40
+player 40 discards a 72 to deck 41
+player 40 current hand : 646 944 879 138 466 633 631 690 951 52 241 715 743 696 666 509 194 355 599 452 
+player 40 draws a 449 from deck 40
+player 40 discards a 646 to deck 41
+player 40 current hand : 944 879 138 466 633 631 690 951 52 241 715 743 696 666 509 194 355 599 452 449 
+player 40 draws a 242 from deck 40
+player 40 discards a 944 to deck 41
+player 40 current hand : 879 138 466 633 631 690 951 52 241 715 743 696 666 509 194 355 599 452 449 242 
+player 40 draws a 291 from deck 40
+player 40 discards a 879 to deck 41
+player 40 current hand : 138 466 633 631 690 951 52 241 715 743 696 666 509 194 355 599 452 449 242 291 
+player 40 draws a 657 from deck 40
+player 40 discards a 138 to deck 41
+player 40 current hand : 466 633 631 690 951 52 241 715 743 696 666 509 194 355 599 452 449 242 291 657 
+player 40 draws a 947 from deck 40
+player 40 discards a 466 to deck 41
+player 40 current hand : 633 631 690 951 52 241 715 743 696 666 509 194 355 599 452 449 242 291 657 947 
+player 40 draws a 901 from deck 40
+player 40 discards a 633 to deck 41
+player 40 current hand : 631 690 951 52 241 715 743 696 666 509 194 355 599 452 449 242 291 657 947 901 
+player 40 draws a 462 from deck 40
+player 40 discards a 631 to deck 41
+player 40 current hand : 690 951 52 241 715 743 696 666 509 194 355 599 452 449 242 291 657 947 901 462 
+player 40 draws a 571 from deck 40
+player 40 discards a 690 to deck 41
+player 40 current hand : 951 52 241 715 743 696 666 509 194 355 599 452 449 242 291 657 947 901 462 571 
+player 40 draws a 764 from deck 40
+player 40 discards a 951 to deck 41
+player 40 current hand : 52 241 715 743 696 666 509 194 355 599 452 449 242 291 657 947 901 462 571 764 
+player 40 draws a 856 from deck 40
+player 40 discards a 52 to deck 41
+player 40 current hand : 241 715 743 696 666 509 194 355 599 452 449 242 291 657 947 901 462 571 764 856 
+player 40 draws a 125 from deck 40
+player 40 discards a 241 to deck 41
+player 40 current hand : 715 743 696 666 509 194 355 599 452 449 242 291 657 947 901 462 571 764 856 125 
+player 40 draws a 835 from deck 40
+player 40 discards a 715 to deck 41
+player 40 current hand : 743 696 666 509 194 355 599 452 449 242 291 657 947 901 462 571 764 856 125 835 
+player 40 draws a 321 from deck 40
+player 40 discards a 743 to deck 41
+player 40 current hand : 696 666 509 194 355 599 452 449 242 291 657 947 901 462 571 764 856 125 835 321 
+player 40 draws a 360 from deck 40
+player 40 discards a 696 to deck 41
+player 40 current hand : 666 509 194 355 599 452 449 242 291 657 947 901 462 571 764 856 125 835 321 360 
+player 40 draws a 476 from deck 40
+player 40 discards a 666 to deck 41
+player 40 current hand : 509 194 355 599 452 449 242 291 657 947 901 462 571 764 856 125 835 321 360 476 
+player 40 draws a 712 from deck 40
+player 40 discards a 509 to deck 41
+player 40 current hand : 194 355 599 452 449 242 291 657 947 901 462 571 764 856 125 835 321 360 476 712 
+player 40 draws a 867 from deck 40
+player 40 discards a 194 to deck 41
+player 40 current hand : 355 599 452 449 242 291 657 947 901 462 571 764 856 125 835 321 360 476 712 867 
+player 40 draws a 666 from deck 40
+player 40 discards a 355 to deck 41
+player 40 current hand : 599 452 449 242 291 657 947 901 462 571 764 856 125 835 321 360 476 712 867 666 
+player 40 draws a 377 from deck 40
+player 40 discards a 599 to deck 41
+player 40 current hand : 452 449 242 291 657 947 901 462 571 764 856 125 835 321 360 476 712 867 666 377 
+player 40 draws a 44 from deck 40
+player 40 discards a 452 to deck 41
+player 40 current hand : 449 242 291 657 947 901 462 571 764 856 125 835 321 360 476 712 867 666 377 44 
+player 40 draws a 655 from deck 40
+player 40 discards a 449 to deck 41
+player 40 current hand : 242 291 657 947 901 462 571 764 856 125 835 321 360 476 712 867 666 377 44 655 
+player 40 draws a 455 from deck 40
+player 40 discards a 242 to deck 41
+player 40 current hand : 291 657 947 901 462 571 764 856 125 835 321 360 476 712 867 666 377 44 655 455 
+player 40 draws a 319 from deck 40
+player 40 discards a 291 to deck 41
+player 40 current hand : 657 947 901 462 571 764 856 125 835 321 360 476 712 867 666 377 44 655 455 319 
+player 40 draws a 152 from deck 40
+player 40 discards a 657 to deck 41
+player 40 current hand : 947 901 462 571 764 856 125 835 321 360 476 712 867 666 377 44 655 455 319 152 
+player 40 draws a 616 from deck 40
+player 40 discards a 947 to deck 41
+player 40 current hand : 901 462 571 764 856 125 835 321 360 476 712 867 666 377 44 655 455 319 152 616 
+player 40 draws a 332 from deck 40
+player 40 discards a 901 to deck 41
+player 40 current hand : 462 571 764 856 125 835 321 360 476 712 867 666 377 44 655 455 319 152 616 332 
+player 40 draws a 516 from deck 40
+player 40 discards a 462 to deck 41
+player 40 current hand : 571 764 856 125 835 321 360 476 712 867 666 377 44 655 455 319 152 616 332 516 
+player 40 draws a 493 from deck 40
+player 40 discards a 571 to deck 41
+player 40 current hand : 764 856 125 835 321 360 476 712 867 666 377 44 655 455 319 152 616 332 516 493 
+player 40 draws a 841 from deck 40
+player 40 discards a 764 to deck 41
+player 40 current hand : 856 125 835 321 360 476 712 867 666 377 44 655 455 319 152 616 332 516 493 841 
+player 40 draws a 852 from deck 40
+player 40 discards a 856 to deck 41
+player 40 current hand : 125 835 321 360 476 712 867 666 377 44 655 455 319 152 616 332 516 493 841 852 
+player 40 draws a 328 from deck 40
+player 40 discards a 125 to deck 41
+player 40 current hand : 835 321 360 476 712 867 666 377 44 655 455 319 152 616 332 516 493 841 852 328 
+player 40 draws a 252 from deck 40
+player 40 discards a 835 to deck 41
+player 40 current hand : 321 360 476 712 867 666 377 44 655 455 319 152 616 332 516 493 841 852 328 252 
+player 40 draws a 44 from deck 40
+player 40 discards a 321 to deck 41
+player 40 current hand : 360 476 712 867 666 377 44 655 455 319 152 616 332 516 493 841 852 328 252 44 
+player 40 draws a 165 from deck 40
+player 40 discards a 360 to deck 41
+player 40 current hand : 476 712 867 666 377 44 655 455 319 152 616 332 516 493 841 852 328 252 44 165 
+player 40 draws a 92 from deck 40
+player 40 discards a 476 to deck 41
+player 40 current hand : 712 867 666 377 44 655 455 319 152 616 332 516 493 841 852 328 252 44 165 92 
+player 40 draws a 122 from deck 40
+player 40 discards a 712 to deck 41
+player 40 current hand : 867 666 377 44 655 455 319 152 616 332 516 493 841 852 328 252 44 165 92 122 
+player 40 draws a 242 from deck 40
+player 40 discards a 867 to deck 41
+player 40 current hand : 666 377 44 655 455 319 152 616 332 516 493 841 852 328 252 44 165 92 122 242 
+player 40 draws a 209 from deck 40
+player 40 discards a 666 to deck 41
+player 40 current hand : 377 44 655 455 319 152 616 332 516 493 841 852 328 252 44 165 92 122 242 209 
+player 40 draws a 434 from deck 40
+player 40 discards a 377 to deck 41
+player 40 current hand : 44 655 455 319 152 616 332 516 493 841 852 328 252 44 165 92 122 242 209 434 
+player 40 draws a 109 from deck 40
+player 40 discards a 44 to deck 41
+player 40 current hand : 655 455 319 152 616 332 516 493 841 852 328 252 44 165 92 122 242 209 434 109 
+player 40 draws a 724 from deck 40
+player 40 discards a 655 to deck 41
+player 40 current hand : 455 319 152 616 332 516 493 841 852 328 252 44 165 92 122 242 209 434 109 724 
+player 40 draws a 745 from deck 40
+player 40 discards a 455 to deck 41
+player 40 current hand : 319 152 616 332 516 493 841 852 328 252 44 165 92 122 242 209 434 109 724 745 
+player 40 draws a 577 from deck 40
+player 40 discards a 319 to deck 41
+player 40 current hand : 152 616 332 516 493 841 852 328 252 44 165 92 122 242 209 434 109 724 745 577 
+player 40 draws a 986 from deck 40
+player 40 discards a 152 to deck 41
+player 40 current hand : 616 332 516 493 841 852 328 252 44 165 92 122 242 209 434 109 724 745 577 986 
+player 40 draws a 137 from deck 40
+player 40 discards a 616 to deck 41
+player 40 current hand : 332 516 493 841 852 328 252 44 165 92 122 242 209 434 109 724 745 577 986 137 
+player 40 draws a 758 from deck 40
+player 40 discards a 332 to deck 41
+player 40 current hand : 516 493 841 852 328 252 44 165 92 122 242 209 434 109 724 745 577 986 137 758 
+player 40 draws a 91 from deck 40
+player 40 discards a 516 to deck 41
+player 40 current hand : 493 841 852 328 252 44 165 92 122 242 209 434 109 724 745 577 986 137 758 91 
+player 40 draws a 224 from deck 40
+player 40 discards a 493 to deck 41
+player 40 current hand : 841 852 328 252 44 165 92 122 242 209 434 109 724 745 577 986 137 758 91 224 
+player 40 draws a 316 from deck 40
+player 40 discards a 841 to deck 41
+player 40 current hand : 852 328 252 44 165 92 122 242 209 434 109 724 745 577 986 137 758 91 224 316 
+player 40 draws a 189 from deck 40
+player 40 discards a 852 to deck 41
+player 40 current hand : 328 252 44 165 92 122 242 209 434 109 724 745 577 986 137 758 91 224 316 189 
+player 40 draws a 320 from deck 40
+player 40 discards a 328 to deck 41
+player 40 current hand : 252 44 165 92 122 242 209 434 109 724 745 577 986 137 758 91 224 316 189 320 
+player 40 draws a 146 from deck 40
+player 40 discards a 252 to deck 41
+player 40 current hand : 44 165 92 122 242 209 434 109 724 745 577 986 137 758 91 224 316 189 320 146 
+player 40 draws a 115 from deck 40
+player 40 discards a 44 to deck 41
+player 40 current hand : 165 92 122 242 209 434 109 724 745 577 986 137 758 91 224 316 189 320 146 115 
+player 40 draws a 540 from deck 40
+player 40 discards a 165 to deck 41
+player 40 current hand : 92 122 242 209 434 109 724 745 577 986 137 758 91 224 316 189 320 146 115 540 
+player 40 draws a 290 from deck 40
+player 40 discards a 92 to deck 41
+player 40 current hand : 122 242 209 434 109 724 745 577 986 137 758 91 224 316 189 320 146 115 540 290 
+player 40 draws a 480 from deck 40
+player 40 discards a 122 to deck 41
+player 40 current hand : 242 209 434 109 724 745 577 986 137 758 91 224 316 189 320 146 115 540 290 480 
+player 40 draws a 612 from deck 40
+player 40 discards a 242 to deck 41
+player 40 current hand : 209 434 109 724 745 577 986 137 758 91 224 316 189 320 146 115 540 290 480 612 
+player 40 draws a 518 from deck 40
+player 40 discards a 209 to deck 41
+player 40 current hand : 434 109 724 745 577 986 137 758 91 224 316 189 320 146 115 540 290 480 612 518 
+player 40 draws a 417 from deck 40
+player 40 discards a 434 to deck 41
+player 40 current hand : 109 724 745 577 986 137 758 91 224 316 189 320 146 115 540 290 480 612 518 417 
+player 40 draws a 736 from deck 40
+player 40 discards a 109 to deck 41
+player 40 current hand : 724 745 577 986 137 758 91 224 316 189 320 146 115 540 290 480 612 518 417 736 
+player 40 draws a 298 from deck 40
+player 40 discards a 724 to deck 41
+player 40 current hand : 745 577 986 137 758 91 224 316 189 320 146 115 540 290 480 612 518 417 736 298 
+player 40 draws a 233 from deck 40
+player 40 discards a 745 to deck 41
+player 40 current hand : 577 986 137 758 91 224 316 189 320 146 115 540 290 480 612 518 417 736 298 233 
+player 40 draws a 613 from deck 40
+player 40 discards a 577 to deck 41
+player 40 current hand : 986 137 758 91 224 316 189 320 146 115 540 290 480 612 518 417 736 298 233 613 
+player 40 draws a 886 from deck 40
+player 40 discards a 986 to deck 41
+player 40 current hand : 137 758 91 224 316 189 320 146 115 540 290 480 612 518 417 736 298 233 613 886 
+player 40 draws a 103 from deck 40
+player 40 discards a 137 to deck 41
+player 40 current hand : 758 91 224 316 189 320 146 115 540 290 480 612 518 417 736 298 233 613 886 103 
+player 40 draws a 81 from deck 40
+player 40 discards a 758 to deck 41
+player 40 current hand : 91 224 316 189 320 146 115 540 290 480 612 518 417 736 298 233 613 886 103 81 
+player 40 draws a 103 from deck 40
+player 40 discards a 91 to deck 41
+player 40 current hand : 224 316 189 320 146 115 540 290 480 612 518 417 736 298 233 613 886 103 81 103 
+player 40 draws a 464 from deck 40
+player 40 discards a 224 to deck 41
+player 40 current hand : 316 189 320 146 115 540 290 480 612 518 417 736 298 233 613 886 103 81 103 464 
+player 40 draws a 591 from deck 40
+player 40 discards a 316 to deck 41
+player 40 current hand : 189 320 146 115 540 290 480 612 518 417 736 298 233 613 886 103 81 103 464 591 
+player 40 draws a 788 from deck 40
+player 40 discards a 189 to deck 41
+player 40 current hand : 320 146 115 540 290 480 612 518 417 736 298 233 613 886 103 81 103 464 591 788 
+player 40 draws a 16 from deck 40
+player 40 discards a 320 to deck 41
+player 40 current hand : 146 115 540 290 480 612 518 417 736 298 233 613 886 103 81 103 464 591 788 16 
+player 40 draws a 870 from deck 40
+player 40 discards a 146 to deck 41
+player 40 current hand : 115 540 290 480 612 518 417 736 298 233 613 886 103 81 103 464 591 788 16 870 
+player 40 draws a 386 from deck 40
+player 40 discards a 115 to deck 41
+player 40 current hand : 540 290 480 612 518 417 736 298 233 613 886 103 81 103 464 591 788 16 870 386 
+player 40 draws a 839 from deck 40
+player 40 discards a 540 to deck 41
+player 40 current hand : 290 480 612 518 417 736 298 233 613 886 103 81 103 464 591 788 16 870 386 839 
+player 40 draws a 681 from deck 40
+player 40 discards a 290 to deck 41
+player 40 current hand : 480 612 518 417 736 298 233 613 886 103 81 103 464 591 788 16 870 386 839 681 
+player 40 draws a 255 from deck 40
+player 40 discards a 480 to deck 41
+player 40 current hand : 612 518 417 736 298 233 613 886 103 81 103 464 591 788 16 870 386 839 681 255 
+player 40 draws a 765 from deck 40
+player 40 discards a 612 to deck 41
+player 40 current hand : 518 417 736 298 233 613 886 103 81 103 464 591 788 16 870 386 839 681 255 765 
+player 40 draws a 632 from deck 40
+player 40 discards a 518 to deck 41
+player 40 current hand : 417 736 298 233 613 886 103 81 103 464 591 788 16 870 386 839 681 255 765 632 
+player 40 draws a 255 from deck 40
+player 40 discards a 417 to deck 41
+player 40 current hand : 736 298 233 613 886 103 81 103 464 591 788 16 870 386 839 681 255 765 632 255 
+player 40 draws a 797 from deck 40
+player 40 discards a 736 to deck 41
+player 40 current hand : 298 233 613 886 103 81 103 464 591 788 16 870 386 839 681 255 765 632 255 797 
+player 40 draws a 36 from deck 40
+player 40 discards a 298 to deck 41
+player 40 current hand : 233 613 886 103 81 103 464 591 788 16 870 386 839 681 255 765 632 255 797 36 
+player 40 draws a 238 from deck 40
+player 40 discards a 233 to deck 41
+player 40 current hand : 613 886 103 81 103 464 591 788 16 870 386 839 681 255 765 632 255 797 36 238 
+player 40 draws a 714 from deck 40
+player 40 discards a 613 to deck 41
+player 40 current hand : 886 103 81 103 464 591 788 16 870 386 839 681 255 765 632 255 797 36 238 714 
+player 40 draws a 497 from deck 40
+player 40 discards a 886 to deck 41
+player 40 current hand : 103 81 103 464 591 788 16 870 386 839 681 255 765 632 255 797 36 238 714 497 
+player 40 draws a 645 from deck 40
+player 40 discards a 103 to deck 41
+player 40 current hand : 81 103 464 591 788 16 870 386 839 681 255 765 632 255 797 36 238 714 497 645 
+player 40 draws a 745 from deck 40
+player 40 discards a 81 to deck 41
+player 40 current hand : 103 464 591 788 16 870 386 839 681 255 765 632 255 797 36 238 714 497 645 745 
+player 40 draws a 28 from deck 40
+player 40 discards a 103 to deck 41
+player 40 current hand : 464 591 788 16 870 386 839 681 255 765 632 255 797 36 238 714 497 645 745 28 
+player 40 draws a 679 from deck 40
+player 40 discards a 464 to deck 41
+player 40 current hand : 591 788 16 870 386 839 681 255 765 632 255 797 36 238 714 497 645 745 28 679 
+player 40 draws a 920 from deck 40
+player 40 discards a 591 to deck 41
+player 40 current hand : 788 16 870 386 839 681 255 765 632 255 797 36 238 714 497 645 745 28 679 920 
+player 40 draws a 871 from deck 40
+player 40 discards a 788 to deck 41
+player 40 current hand : 16 870 386 839 681 255 765 632 255 797 36 238 714 497 645 745 28 679 920 871 
+player 40 draws a 133 from deck 40
+player 40 discards a 16 to deck 41
+player 40 current hand : 870 386 839 681 255 765 632 255 797 36 238 714 497 645 745 28 679 920 871 133 
+player 40 draws a 654 from deck 40
+player 40 discards a 870 to deck 41
+player 40 current hand : 386 839 681 255 765 632 255 797 36 238 714 497 645 745 28 679 920 871 133 654 
+player 40 draws a 562 from deck 40
+player 40 discards a 386 to deck 41
+player 40 current hand : 839 681 255 765 632 255 797 36 238 714 497 645 745 28 679 920 871 133 654 562 
+player 40 draws a 917 from deck 40
+player 40 discards a 839 to deck 41
+player 40 current hand : 681 255 765 632 255 797 36 238 714 497 645 745 28 679 920 871 133 654 562 917 
+player 40 draws a 562 from deck 40
+player 40 discards a 681 to deck 41
+player 40 current hand : 255 765 632 255 797 36 238 714 497 645 745 28 679 920 871 133 654 562 917 562 

@@ -1,0 +1,324 @@
+player 354 initial hand 241 6 91 417 776 409 162 256 670 121 681 582 769 226 957 316 7 209 941 384 
+player 354 draws a 249 from deck 354
+player 354 discards a 241 to deck 355
+player 354 current hand : 6 91 417 776 409 162 256 670 121 681 582 769 226 957 316 7 209 941 384 249 
+player 354 draws a 173 from deck 354
+player 354 discards a 6 to deck 355
+player 354 current hand : 91 417 776 409 162 256 670 121 681 582 769 226 957 316 7 209 941 384 249 173 
+player 354 draws a 800 from deck 354
+player 354 discards a 91 to deck 355
+player 354 current hand : 417 776 409 162 256 670 121 681 582 769 226 957 316 7 209 941 384 249 173 800 
+player 354 draws a 14 from deck 354
+player 354 discards a 417 to deck 355
+player 354 current hand : 776 409 162 256 670 121 681 582 769 226 957 316 7 209 941 384 249 173 800 14 
+player 354 draws a 248 from deck 354
+player 354 discards a 776 to deck 355
+player 354 current hand : 409 162 256 670 121 681 582 769 226 957 316 7 209 941 384 249 173 800 14 248 
+player 354 draws a 289 from deck 354
+player 354 discards a 409 to deck 355
+player 354 current hand : 162 256 670 121 681 582 769 226 957 316 7 209 941 384 249 173 800 14 248 289 
+player 354 draws a 584 from deck 354
+player 354 discards a 162 to deck 355
+player 354 current hand : 256 670 121 681 582 769 226 957 316 7 209 941 384 249 173 800 14 248 289 584 
+player 354 draws a 844 from deck 354
+player 354 discards a 256 to deck 355
+player 354 current hand : 670 121 681 582 769 226 957 316 7 209 941 384 249 173 800 14 248 289 584 844 
+player 354 draws a 600 from deck 354
+player 354 discards a 670 to deck 355
+player 354 current hand : 121 681 582 769 226 957 316 7 209 941 384 249 173 800 14 248 289 584 844 600 
+player 354 draws a 41 from deck 354
+player 354 discards a 121 to deck 355
+player 354 current hand : 681 582 769 226 957 316 7 209 941 384 249 173 800 14 248 289 584 844 600 41 
+player 354 draws a 695 from deck 354
+player 354 discards a 681 to deck 355
+player 354 current hand : 582 769 226 957 316 7 209 941 384 249 173 800 14 248 289 584 844 600 41 695 
+player 354 draws a 31 from deck 354
+player 354 discards a 582 to deck 355
+player 354 current hand : 769 226 957 316 7 209 941 384 249 173 800 14 248 289 584 844 600 41 695 31 
+player 354 draws a 739 from deck 354
+player 354 discards a 769 to deck 355
+player 354 current hand : 226 957 316 7 209 941 384 249 173 800 14 248 289 584 844 600 41 695 31 739 
+player 354 draws a 707 from deck 354
+player 354 discards a 226 to deck 355
+player 354 current hand : 957 316 7 209 941 384 249 173 800 14 248 289 584 844 600 41 695 31 739 707 
+player 354 draws a 939 from deck 354
+player 354 discards a 957 to deck 355
+player 354 current hand : 316 7 209 941 384 249 173 800 14 248 289 584 844 600 41 695 31 739 707 939 
+player 354 draws a 896 from deck 354
+player 354 discards a 316 to deck 355
+player 354 current hand : 7 209 941 384 249 173 800 14 248 289 584 844 600 41 695 31 739 707 939 896 
+player 354 draws a 699 from deck 354
+player 354 discards a 7 to deck 355
+player 354 current hand : 209 941 384 249 173 800 14 248 289 584 844 600 41 695 31 739 707 939 896 699 
+player 354 draws a 770 from deck 354
+player 354 discards a 209 to deck 355
+player 354 current hand : 941 384 249 173 800 14 248 289 584 844 600 41 695 31 739 707 939 896 699 770 
+player 354 draws a 636 from deck 354
+player 354 discards a 941 to deck 355
+player 354 current hand : 384 249 173 800 14 248 289 584 844 600 41 695 31 739 707 939 896 699 770 636 
+player 354 draws a 870 from deck 354
+player 354 discards a 384 to deck 355
+player 354 current hand : 249 173 800 14 248 289 584 844 600 41 695 31 739 707 939 896 699 770 636 870 
+player 354 draws a 36 from deck 354
+player 354 discards a 249 to deck 355
+player 354 current hand : 173 800 14 248 289 584 844 600 41 695 31 739 707 939 896 699 770 636 870 36 
+player 354 draws a 702 from deck 354
+player 354 discards a 173 to deck 355
+player 354 current hand : 800 14 248 289 584 844 600 41 695 31 739 707 939 896 699 770 636 870 36 702 
+player 354 draws a 44 from deck 354
+player 354 discards a 800 to deck 355
+player 354 current hand : 14 248 289 584 844 600 41 695 31 739 707 939 896 699 770 636 870 36 702 44 
+player 354 draws a 510 from deck 354
+player 354 discards a 14 to deck 355
+player 354 current hand : 248 289 584 844 600 41 695 31 739 707 939 896 699 770 636 870 36 702 44 510 
+player 354 draws a 12 from deck 354
+player 354 discards a 248 to deck 355
+player 354 current hand : 289 584 844 600 41 695 31 739 707 939 896 699 770 636 870 36 702 44 510 12 
+player 354 draws a 491 from deck 354
+player 354 discards a 289 to deck 355
+player 354 current hand : 584 844 600 41 695 31 739 707 939 896 699 770 636 870 36 702 44 510 12 491 
+player 354 draws a 84 from deck 354
+player 354 discards a 584 to deck 355
+player 354 current hand : 844 600 41 695 31 739 707 939 896 699 770 636 870 36 702 44 510 12 491 84 
+player 354 draws a 248 from deck 354
+player 354 discards a 844 to deck 355
+player 354 current hand : 600 41 695 31 739 707 939 896 699 770 636 870 36 702 44 510 12 491 84 248 
+player 354 draws a 7 from deck 354
+player 354 discards a 600 to deck 355
+player 354 current hand : 41 695 31 739 707 939 896 699 770 636 870 36 702 44 510 12 491 84 248 7 
+player 354 draws a 548 from deck 354
+player 354 discards a 41 to deck 355
+player 354 current hand : 695 31 739 707 939 896 699 770 636 870 36 702 44 510 12 491 84 248 7 548 
+player 354 draws a 999 from deck 354
+player 354 discards a 695 to deck 355
+player 354 current hand : 31 739 707 939 896 699 770 636 870 36 702 44 510 12 491 84 248 7 548 999 
+player 354 draws a 856 from deck 354
+player 354 discards a 31 to deck 355
+player 354 current hand : 739 707 939 896 699 770 636 870 36 702 44 510 12 491 84 248 7 548 999 856 
+player 354 draws a 138 from deck 354
+player 354 discards a 739 to deck 355
+player 354 current hand : 707 939 896 699 770 636 870 36 702 44 510 12 491 84 248 7 548 999 856 138 
+player 354 draws a 235 from deck 354
+player 354 discards a 707 to deck 355
+player 354 current hand : 939 896 699 770 636 870 36 702 44 510 12 491 84 248 7 548 999 856 138 235 
+player 354 draws a 972 from deck 354
+player 354 discards a 939 to deck 355
+player 354 current hand : 896 699 770 636 870 36 702 44 510 12 491 84 248 7 548 999 856 138 235 972 
+player 354 draws a 74 from deck 354
+player 354 discards a 896 to deck 355
+player 354 current hand : 699 770 636 870 36 702 44 510 12 491 84 248 7 548 999 856 138 235 972 74 
+player 354 draws a 888 from deck 354
+player 354 discards a 699 to deck 355
+player 354 current hand : 770 636 870 36 702 44 510 12 491 84 248 7 548 999 856 138 235 972 74 888 
+player 354 draws a 455 from deck 354
+player 354 discards a 770 to deck 355
+player 354 current hand : 636 870 36 702 44 510 12 491 84 248 7 548 999 856 138 235 972 74 888 455 
+player 354 draws a 271 from deck 354
+player 354 discards a 636 to deck 355
+player 354 current hand : 870 36 702 44 510 12 491 84 248 7 548 999 856 138 235 972 74 888 455 271 
+player 354 draws a 646 from deck 354
+player 354 discards a 870 to deck 355
+player 354 current hand : 36 702 44 510 12 491 84 248 7 548 999 856 138 235 972 74 888 455 271 646 
+player 354 draws a 31 from deck 354
+player 354 discards a 36 to deck 355
+player 354 current hand : 702 44 510 12 491 84 248 7 548 999 856 138 235 972 74 888 455 271 646 31 
+player 354 draws a 452 from deck 354
+player 354 discards a 702 to deck 355
+player 354 current hand : 44 510 12 491 84 248 7 548 999 856 138 235 972 74 888 455 271 646 31 452 
+player 354 draws a 114 from deck 354
+player 354 discards a 44 to deck 355
+player 354 current hand : 510 12 491 84 248 7 548 999 856 138 235 972 74 888 455 271 646 31 452 114 
+player 354 draws a 976 from deck 354
+player 354 discards a 510 to deck 355
+player 354 current hand : 12 491 84 248 7 548 999 856 138 235 972 74 888 455 271 646 31 452 114 976 
+player 354 draws a 784 from deck 354
+player 354 discards a 12 to deck 355
+player 354 current hand : 491 84 248 7 548 999 856 138 235 972 74 888 455 271 646 31 452 114 976 784 
+player 354 draws a 631 from deck 354
+player 354 discards a 491 to deck 355
+player 354 current hand : 84 248 7 548 999 856 138 235 972 74 888 455 271 646 31 452 114 976 784 631 
+player 354 draws a 967 from deck 354
+player 354 discards a 84 to deck 355
+player 354 current hand : 248 7 548 999 856 138 235 972 74 888 455 271 646 31 452 114 976 784 631 967 
+player 354 draws a 247 from deck 354
+player 354 discards a 248 to deck 355
+player 354 current hand : 7 548 999 856 138 235 972 74 888 455 271 646 31 452 114 976 784 631 967 247 
+player 354 draws a 350 from deck 354
+player 354 discards a 7 to deck 355
+player 354 current hand : 548 999 856 138 235 972 74 888 455 271 646 31 452 114 976 784 631 967 247 350 
+player 354 draws a 397 from deck 354
+player 354 discards a 548 to deck 355
+player 354 current hand : 999 856 138 235 972 74 888 455 271 646 31 452 114 976 784 631 967 247 350 397 
+player 354 draws a 149 from deck 354
+player 354 discards a 999 to deck 355
+player 354 current hand : 856 138 235 972 74 888 455 271 646 31 452 114 976 784 631 967 247 350 397 149 
+player 354 draws a 723 from deck 354
+player 354 discards a 856 to deck 355
+player 354 current hand : 138 235 972 74 888 455 271 646 31 452 114 976 784 631 967 247 350 397 149 723 
+player 354 draws a 157 from deck 354
+player 354 discards a 138 to deck 355
+player 354 current hand : 235 972 74 888 455 271 646 31 452 114 976 784 631 967 247 350 397 149 723 157 
+player 354 draws a 489 from deck 354
+player 354 discards a 235 to deck 355
+player 354 current hand : 972 74 888 455 271 646 31 452 114 976 784 631 967 247 350 397 149 723 157 489 
+player 354 draws a 501 from deck 354
+player 354 discards a 972 to deck 355
+player 354 current hand : 74 888 455 271 646 31 452 114 976 784 631 967 247 350 397 149 723 157 489 501 
+player 354 draws a 125 from deck 354
+player 354 discards a 74 to deck 355
+player 354 current hand : 888 455 271 646 31 452 114 976 784 631 967 247 350 397 149 723 157 489 501 125 
+player 354 draws a 28 from deck 354
+player 354 discards a 888 to deck 355
+player 354 current hand : 455 271 646 31 452 114 976 784 631 967 247 350 397 149 723 157 489 501 125 28 
+player 354 draws a 51 from deck 354
+player 354 discards a 455 to deck 355
+player 354 current hand : 271 646 31 452 114 976 784 631 967 247 350 397 149 723 157 489 501 125 28 51 
+player 354 draws a 16 from deck 354
+player 354 discards a 271 to deck 355
+player 354 current hand : 646 31 452 114 976 784 631 967 247 350 397 149 723 157 489 501 125 28 51 16 
+player 354 draws a 822 from deck 354
+player 354 discards a 646 to deck 355
+player 354 current hand : 31 452 114 976 784 631 967 247 350 397 149 723 157 489 501 125 28 51 16 822 
+player 354 draws a 198 from deck 354
+player 354 discards a 31 to deck 355
+player 354 current hand : 452 114 976 784 631 967 247 350 397 149 723 157 489 501 125 28 51 16 822 198 
+player 354 draws a 451 from deck 354
+player 354 discards a 452 to deck 355
+player 354 current hand : 114 976 784 631 967 247 350 397 149 723 157 489 501 125 28 51 16 822 198 451 
+player 354 draws a 841 from deck 354
+player 354 discards a 114 to deck 355
+player 354 current hand : 976 784 631 967 247 350 397 149 723 157 489 501 125 28 51 16 822 198 451 841 
+player 354 draws a 392 from deck 354
+player 354 discards a 976 to deck 355
+player 354 current hand : 784 631 967 247 350 397 149 723 157 489 501 125 28 51 16 822 198 451 841 392 
+player 354 draws a 922 from deck 354
+player 354 discards a 784 to deck 355
+player 354 current hand : 631 967 247 350 397 149 723 157 489 501 125 28 51 16 822 198 451 841 392 922 
+player 354 draws a 562 from deck 354
+player 354 discards a 631 to deck 355
+player 354 current hand : 967 247 350 397 149 723 157 489 501 125 28 51 16 822 198 451 841 392 922 562 
+player 354 draws a 864 from deck 354
+player 354 discards a 967 to deck 355
+player 354 current hand : 247 350 397 149 723 157 489 501 125 28 51 16 822 198 451 841 392 922 562 864 
+player 354 draws a 582 from deck 354
+player 354 discards a 247 to deck 355
+player 354 current hand : 350 397 149 723 157 489 501 125 28 51 16 822 198 451 841 392 922 562 864 582 
+player 354 draws a 402 from deck 354
+player 354 discards a 350 to deck 355
+player 354 current hand : 397 149 723 157 489 501 125 28 51 16 822 198 451 841 392 922 562 864 582 402 
+player 354 draws a 169 from deck 354
+player 354 discards a 397 to deck 355
+player 354 current hand : 149 723 157 489 501 125 28 51 16 822 198 451 841 392 922 562 864 582 402 169 
+player 354 draws a 60 from deck 354
+player 354 discards a 149 to deck 355
+player 354 current hand : 723 157 489 501 125 28 51 16 822 198 451 841 392 922 562 864 582 402 169 60 
+player 354 draws a 476 from deck 354
+player 354 discards a 723 to deck 355
+player 354 current hand : 157 489 501 125 28 51 16 822 198 451 841 392 922 562 864 582 402 169 60 476 
+player 354 draws a 106 from deck 354
+player 354 discards a 157 to deck 355
+player 354 current hand : 489 501 125 28 51 16 822 198 451 841 392 922 562 864 582 402 169 60 476 106 
+player 354 draws a 463 from deck 354
+player 354 discards a 489 to deck 355
+player 354 current hand : 501 125 28 51 16 822 198 451 841 392 922 562 864 582 402 169 60 476 106 463 
+player 354 draws a 1 from deck 354
+player 354 discards a 501 to deck 355
+player 354 current hand : 125 28 51 16 822 198 451 841 392 922 562 864 582 402 169 60 476 106 463 1 
+player 354 draws a 388 from deck 354
+player 354 discards a 125 to deck 355
+player 354 current hand : 28 51 16 822 198 451 841 392 922 562 864 582 402 169 60 476 106 463 1 388 
+player 354 draws a 751 from deck 354
+player 354 discards a 28 to deck 355
+player 354 current hand : 51 16 822 198 451 841 392 922 562 864 582 402 169 60 476 106 463 1 388 751 
+player 354 draws a 784 from deck 354
+player 354 discards a 51 to deck 355
+player 354 current hand : 16 822 198 451 841 392 922 562 864 582 402 169 60 476 106 463 1 388 751 784 
+player 354 draws a 438 from deck 354
+player 354 discards a 16 to deck 355
+player 354 current hand : 822 198 451 841 392 922 562 864 582 402 169 60 476 106 463 1 388 751 784 438 
+player 354 draws a 61 from deck 354
+player 354 discards a 822 to deck 355
+player 354 current hand : 198 451 841 392 922 562 864 582 402 169 60 476 106 463 1 388 751 784 438 61 
+player 354 draws a 455 from deck 354
+player 354 discards a 198 to deck 355
+player 354 current hand : 451 841 392 922 562 864 582 402 169 60 476 106 463 1 388 751 784 438 61 455 
+player 354 draws a 157 from deck 354
+player 354 discards a 451 to deck 355
+player 354 current hand : 841 392 922 562 864 582 402 169 60 476 106 463 1 388 751 784 438 61 455 157 
+player 354 draws a 983 from deck 354
+player 354 discards a 841 to deck 355
+player 354 current hand : 392 922 562 864 582 402 169 60 476 106 463 1 388 751 784 438 61 455 157 983 
+player 354 draws a 220 from deck 354
+player 354 discards a 392 to deck 355
+player 354 current hand : 922 562 864 582 402 169 60 476 106 463 1 388 751 784 438 61 455 157 983 220 
+player 354 draws a 205 from deck 354
+player 354 discards a 922 to deck 355
+player 354 current hand : 562 864 582 402 169 60 476 106 463 1 388 751 784 438 61 455 157 983 220 205 
+player 354 draws a 310 from deck 354
+player 354 discards a 562 to deck 355
+player 354 current hand : 864 582 402 169 60 476 106 463 1 388 751 784 438 61 455 157 983 220 205 310 
+player 354 draws a 48 from deck 354
+player 354 discards a 864 to deck 355
+player 354 current hand : 582 402 169 60 476 106 463 1 388 751 784 438 61 455 157 983 220 205 310 48 
+player 354 draws a 622 from deck 354
+player 354 discards a 582 to deck 355
+player 354 current hand : 402 169 60 476 106 463 1 388 751 784 438 61 455 157 983 220 205 310 48 622 
+player 354 draws a 515 from deck 354
+player 354 discards a 402 to deck 355
+player 354 current hand : 169 60 476 106 463 1 388 751 784 438 61 455 157 983 220 205 310 48 622 515 
+player 354 draws a 608 from deck 354
+player 354 discards a 169 to deck 355
+player 354 current hand : 60 476 106 463 1 388 751 784 438 61 455 157 983 220 205 310 48 622 515 608 
+player 354 draws a 173 from deck 354
+player 354 discards a 60 to deck 355
+player 354 current hand : 476 106 463 1 388 751 784 438 61 455 157 983 220 205 310 48 622 515 608 173 
+player 354 draws a 841 from deck 354
+player 354 discards a 476 to deck 355
+player 354 current hand : 106 463 1 388 751 784 438 61 455 157 983 220 205 310 48 622 515 608 173 841 
+player 354 draws a 966 from deck 354
+player 354 discards a 106 to deck 355
+player 354 current hand : 463 1 388 751 784 438 61 455 157 983 220 205 310 48 622 515 608 173 841 966 
+player 354 draws a 521 from deck 354
+player 354 discards a 463 to deck 355
+player 354 current hand : 1 388 751 784 438 61 455 157 983 220 205 310 48 622 515 608 173 841 966 521 
+player 354 draws a 351 from deck 354
+player 354 discards a 1 to deck 355
+player 354 current hand : 388 751 784 438 61 455 157 983 220 205 310 48 622 515 608 173 841 966 521 351 
+player 354 draws a 598 from deck 354
+player 354 discards a 388 to deck 355
+player 354 current hand : 751 784 438 61 455 157 983 220 205 310 48 622 515 608 173 841 966 521 351 598 
+player 354 draws a 42 from deck 354
+player 354 discards a 751 to deck 355
+player 354 current hand : 784 438 61 455 157 983 220 205 310 48 622 515 608 173 841 966 521 351 598 42 
+player 354 draws a 977 from deck 354
+player 354 discards a 784 to deck 355
+player 354 current hand : 438 61 455 157 983 220 205 310 48 622 515 608 173 841 966 521 351 598 42 977 
+player 354 draws a 548 from deck 354
+player 354 discards a 438 to deck 355
+player 354 current hand : 61 455 157 983 220 205 310 48 622 515 608 173 841 966 521 351 598 42 977 548 
+player 354 draws a 527 from deck 354
+player 354 discards a 61 to deck 355
+player 354 current hand : 455 157 983 220 205 310 48 622 515 608 173 841 966 521 351 598 42 977 548 527 
+player 354 draws a 36 from deck 354
+player 354 discards a 455 to deck 355
+player 354 current hand : 157 983 220 205 310 48 622 515 608 173 841 966 521 351 598 42 977 548 527 36 
+player 354 draws a 968 from deck 354
+player 354 discards a 157 to deck 355
+player 354 current hand : 983 220 205 310 48 622 515 608 173 841 966 521 351 598 42 977 548 527 36 968 
+player 354 draws a 478 from deck 354
+player 354 discards a 983 to deck 355
+player 354 current hand : 220 205 310 48 622 515 608 173 841 966 521 351 598 42 977 548 527 36 968 478 
+player 354 draws a 623 from deck 354
+player 354 discards a 220 to deck 355
+player 354 current hand : 205 310 48 622 515 608 173 841 966 521 351 598 42 977 548 527 36 968 478 623 
+player 354 draws a 606 from deck 354
+player 354 discards a 205 to deck 355
+player 354 current hand : 310 48 622 515 608 173 841 966 521 351 598 42 977 548 527 36 968 478 623 606 
+player 354 draws a 941 from deck 354
+player 354 discards a 310 to deck 355
+player 354 current hand : 48 622 515 608 173 841 966 521 351 598 42 977 548 527 36 968 478 623 606 941 
+player 354 draws a 452 from deck 354
+player 354 discards a 48 to deck 355
+player 354 current hand : 622 515 608 173 841 966 521 351 598 42 977 548 527 36 968 478 623 606 941 452 
+player 354 draws a 255 from deck 354
+player 354 discards a 622 to deck 355

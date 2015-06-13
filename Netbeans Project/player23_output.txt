@@ -1,0 +1,323 @@
+player 23 initial hand 205 152 934 256 674 480 129 596 516 951 68 580 899 221 542 540 794 249 816 464 
+player 23 draws a 616 from deck 23
+player 23 discards a 205 to deck 24
+player 23 current hand : 152 934 256 674 480 129 596 516 951 68 580 899 221 542 540 794 249 816 464 616 
+player 23 draws a 473 from deck 23
+player 23 discards a 152 to deck 24
+player 23 current hand : 934 256 674 480 129 596 516 951 68 580 899 221 542 540 794 249 816 464 616 473 
+player 23 draws a 242 from deck 23
+player 23 discards a 934 to deck 24
+player 23 current hand : 256 674 480 129 596 516 951 68 580 899 221 542 540 794 249 816 464 616 473 242 
+player 23 draws a 680 from deck 23
+player 23 discards a 256 to deck 24
+player 23 current hand : 674 480 129 596 516 951 68 580 899 221 542 540 794 249 816 464 616 473 242 680 
+player 23 draws a 537 from deck 23
+player 23 discards a 674 to deck 24
+player 23 current hand : 480 129 596 516 951 68 580 899 221 542 540 794 249 816 464 616 473 242 680 537 
+player 23 draws a 72 from deck 23
+player 23 discards a 480 to deck 24
+player 23 current hand : 129 596 516 951 68 580 899 221 542 540 794 249 816 464 616 473 242 680 537 72 
+player 23 draws a 245 from deck 23
+player 23 discards a 129 to deck 24
+player 23 current hand : 596 516 951 68 580 899 221 542 540 794 249 816 464 616 473 242 680 537 72 245 
+player 23 draws a 917 from deck 23
+player 23 discards a 596 to deck 24
+player 23 current hand : 516 951 68 580 899 221 542 540 794 249 816 464 616 473 242 680 537 72 245 917 
+player 23 draws a 691 from deck 23
+player 23 discards a 516 to deck 24
+player 23 current hand : 951 68 580 899 221 542 540 794 249 816 464 616 473 242 680 537 72 245 917 691 
+player 23 draws a 226 from deck 23
+player 23 discards a 951 to deck 24
+player 23 current hand : 68 580 899 221 542 540 794 249 816 464 616 473 242 680 537 72 245 917 691 226 
+player 23 draws a 943 from deck 23
+player 23 discards a 68 to deck 24
+player 23 current hand : 580 899 221 542 540 794 249 816 464 616 473 242 680 537 72 245 917 691 226 943 
+player 23 draws a 316 from deck 23
+player 23 discards a 580 to deck 24
+player 23 current hand : 899 221 542 540 794 249 816 464 616 473 242 680 537 72 245 917 691 226 943 316 
+player 23 draws a 866 from deck 23
+player 23 discards a 899 to deck 24
+player 23 current hand : 221 542 540 794 249 816 464 616 473 242 680 537 72 245 917 691 226 943 316 866 
+player 23 draws a 575 from deck 23
+player 23 discards a 221 to deck 24
+player 23 current hand : 542 540 794 249 816 464 616 473 242 680 537 72 245 917 691 226 943 316 866 575 
+player 23 draws a 409 from deck 23
+player 23 discards a 542 to deck 24
+player 23 current hand : 540 794 249 816 464 616 473 242 680 537 72 245 917 691 226 943 316 866 575 409 
+player 23 draws a 103 from deck 23
+player 23 discards a 540 to deck 24
+player 23 current hand : 794 249 816 464 616 473 242 680 537 72 245 917 691 226 943 316 866 575 409 103 
+player 23 draws a 875 from deck 23
+player 23 discards a 794 to deck 24
+player 23 current hand : 249 816 464 616 473 242 680 537 72 245 917 691 226 943 316 866 575 409 103 875 
+player 23 draws a 696 from deck 23
+player 23 discards a 249 to deck 24
+player 23 current hand : 816 464 616 473 242 680 537 72 245 917 691 226 943 316 866 575 409 103 875 696 
+player 23 draws a 633 from deck 23
+player 23 discards a 816 to deck 24
+player 23 current hand : 464 616 473 242 680 537 72 245 917 691 226 943 316 866 575 409 103 875 696 633 
+player 23 draws a 723 from deck 23
+player 23 discards a 464 to deck 24
+player 23 current hand : 616 473 242 680 537 72 245 917 691 226 943 316 866 575 409 103 875 696 633 723 
+player 23 draws a 556 from deck 23
+player 23 discards a 616 to deck 24
+player 23 current hand : 473 242 680 537 72 245 917 691 226 943 316 866 575 409 103 875 696 633 723 556 
+player 23 draws a 581 from deck 23
+player 23 discards a 473 to deck 24
+player 23 current hand : 242 680 537 72 245 917 691 226 943 316 866 575 409 103 875 696 633 723 556 581 
+player 23 draws a 258 from deck 23
+player 23 discards a 242 to deck 24
+player 23 current hand : 680 537 72 245 917 691 226 943 316 866 575 409 103 875 696 633 723 556 581 258 
+player 23 draws a 300 from deck 23
+player 23 discards a 680 to deck 24
+player 23 current hand : 537 72 245 917 691 226 943 316 866 575 409 103 875 696 633 723 556 581 258 300 
+player 23 draws a 415 from deck 23
+player 23 discards a 537 to deck 24
+player 23 current hand : 72 245 917 691 226 943 316 866 575 409 103 875 696 633 723 556 581 258 300 415 
+player 23 draws a 815 from deck 23
+player 23 discards a 72 to deck 24
+player 23 current hand : 245 917 691 226 943 316 866 575 409 103 875 696 633 723 556 581 258 300 415 815 
+player 23 draws a 252 from deck 23
+player 23 discards a 245 to deck 24
+player 23 current hand : 917 691 226 943 316 866 575 409 103 875 696 633 723 556 581 258 300 415 815 252 
+player 23 draws a 12 from deck 23
+player 23 discards a 917 to deck 24
+player 23 current hand : 691 226 943 316 866 575 409 103 875 696 633 723 556 581 258 300 415 815 252 12 
+player 23 draws a 769 from deck 23
+player 23 discards a 691 to deck 24
+player 23 current hand : 226 943 316 866 575 409 103 875 696 633 723 556 581 258 300 415 815 252 12 769 
+player 23 draws a 620 from deck 23
+player 23 discards a 226 to deck 24
+player 23 current hand : 943 316 866 575 409 103 875 696 633 723 556 581 258 300 415 815 252 12 769 620 
+player 23 draws a 527 from deck 23
+player 23 discards a 943 to deck 24
+player 23 current hand : 316 866 575 409 103 875 696 633 723 556 581 258 300 415 815 252 12 769 620 527 
+player 23 draws a 168 from deck 23
+player 23 discards a 316 to deck 24
+player 23 current hand : 866 575 409 103 875 696 633 723 556 581 258 300 415 815 252 12 769 620 527 168 
+player 23 draws a 493 from deck 23
+player 23 discards a 866 to deck 24
+player 23 current hand : 575 409 103 875 696 633 723 556 581 258 300 415 815 252 12 769 620 527 168 493 
+player 23 draws a 239 from deck 23
+player 23 discards a 575 to deck 24
+player 23 current hand : 409 103 875 696 633 723 556 581 258 300 415 815 252 12 769 620 527 168 493 239 
+player 23 draws a 286 from deck 23
+player 23 discards a 409 to deck 24
+player 23 current hand : 103 875 696 633 723 556 581 258 300 415 815 252 12 769 620 527 168 493 239 286 
+player 23 draws a 699 from deck 23
+player 23 discards a 103 to deck 24
+player 23 current hand : 875 696 633 723 556 581 258 300 415 815 252 12 769 620 527 168 493 239 286 699 
+player 23 draws a 776 from deck 23
+player 23 discards a 875 to deck 24
+player 23 current hand : 696 633 723 556 581 258 300 415 815 252 12 769 620 527 168 493 239 286 699 776 
+player 23 draws a 33 from deck 23
+player 23 discards a 696 to deck 24
+player 23 current hand : 633 723 556 581 258 300 415 815 252 12 769 620 527 168 493 239 286 699 776 33 
+player 23 draws a 712 from deck 23
+player 23 discards a 633 to deck 24
+player 23 current hand : 723 556 581 258 300 415 815 252 12 769 620 527 168 493 239 286 699 776 33 712 
+player 23 draws a 965 from deck 23
+player 23 discards a 723 to deck 24
+player 23 current hand : 556 581 258 300 415 815 252 12 769 620 527 168 493 239 286 699 776 33 712 965 
+player 23 draws a 400 from deck 23
+player 23 discards a 556 to deck 24
+player 23 current hand : 581 258 300 415 815 252 12 769 620 527 168 493 239 286 699 776 33 712 965 400 
+player 23 draws a 650 from deck 23
+player 23 discards a 581 to deck 24
+player 23 current hand : 258 300 415 815 252 12 769 620 527 168 493 239 286 699 776 33 712 965 400 650 
+player 23 draws a 662 from deck 23
+player 23 discards a 258 to deck 24
+player 23 current hand : 300 415 815 252 12 769 620 527 168 493 239 286 699 776 33 712 965 400 650 662 
+player 23 draws a 515 from deck 23
+player 23 discards a 300 to deck 24
+player 23 current hand : 415 815 252 12 769 620 527 168 493 239 286 699 776 33 712 965 400 650 662 515 
+player 23 draws a 863 from deck 23
+player 23 discards a 415 to deck 24
+player 23 current hand : 815 252 12 769 620 527 168 493 239 286 699 776 33 712 965 400 650 662 515 863 
+player 23 draws a 714 from deck 23
+player 23 discards a 815 to deck 24
+player 23 current hand : 252 12 769 620 527 168 493 239 286 699 776 33 712 965 400 650 662 515 863 714 
+player 23 draws a 671 from deck 23
+player 23 discards a 252 to deck 24
+player 23 current hand : 12 769 620 527 168 493 239 286 699 776 33 712 965 400 650 662 515 863 714 671 
+player 23 draws a 252 from deck 23
+player 23 discards a 12 to deck 24
+player 23 current hand : 769 620 527 168 493 239 286 699 776 33 712 965 400 650 662 515 863 714 671 252 
+player 23 draws a 732 from deck 23
+player 23 discards a 769 to deck 24
+player 23 current hand : 620 527 168 493 239 286 699 776 33 712 965 400 650 662 515 863 714 671 252 732 
+player 23 draws a 988 from deck 23
+player 23 discards a 620 to deck 24
+player 23 current hand : 527 168 493 239 286 699 776 33 712 965 400 650 662 515 863 714 671 252 732 988 
+player 23 draws a 988 from deck 23
+player 23 discards a 527 to deck 24
+player 23 current hand : 168 493 239 286 699 776 33 712 965 400 650 662 515 863 714 671 252 732 988 988 
+player 23 draws a 476 from deck 23
+player 23 discards a 168 to deck 24
+player 23 current hand : 493 239 286 699 776 33 712 965 400 650 662 515 863 714 671 252 732 988 988 476 
+player 23 draws a 529 from deck 23
+player 23 discards a 493 to deck 24
+player 23 current hand : 239 286 699 776 33 712 965 400 650 662 515 863 714 671 252 732 988 988 476 529 
+player 23 draws a 829 from deck 23
+player 23 discards a 239 to deck 24
+player 23 current hand : 286 699 776 33 712 965 400 650 662 515 863 714 671 252 732 988 988 476 529 829 
+player 23 draws a 117 from deck 23
+player 23 discards a 286 to deck 24
+player 23 current hand : 699 776 33 712 965 400 650 662 515 863 714 671 252 732 988 988 476 529 829 117 
+player 23 draws a 14 from deck 23
+player 23 discards a 699 to deck 24
+player 23 current hand : 776 33 712 965 400 650 662 515 863 714 671 252 732 988 988 476 529 829 117 14 
+player 23 draws a 187 from deck 23
+player 23 discards a 776 to deck 24
+player 23 current hand : 33 712 965 400 650 662 515 863 714 671 252 732 988 988 476 529 829 117 14 187 
+player 23 draws a 142 from deck 23
+player 23 discards a 33 to deck 24
+player 23 current hand : 712 965 400 650 662 515 863 714 671 252 732 988 988 476 529 829 117 14 187 142 
+player 23 draws a 84 from deck 23
+player 23 discards a 712 to deck 24
+player 23 current hand : 965 400 650 662 515 863 714 671 252 732 988 988 476 529 829 117 14 187 142 84 
+player 23 draws a 655 from deck 23
+player 23 discards a 965 to deck 24
+player 23 current hand : 400 650 662 515 863 714 671 252 732 988 988 476 529 829 117 14 187 142 84 655 
+player 23 draws a 856 from deck 23
+player 23 discards a 400 to deck 24
+player 23 current hand : 650 662 515 863 714 671 252 732 988 988 476 529 829 117 14 187 142 84 655 856 
+player 23 draws a 457 from deck 23
+player 23 discards a 650 to deck 24
+player 23 current hand : 662 515 863 714 671 252 732 988 988 476 529 829 117 14 187 142 84 655 856 457 
+player 23 draws a 464 from deck 23
+player 23 discards a 662 to deck 24
+player 23 current hand : 515 863 714 671 252 732 988 988 476 529 829 117 14 187 142 84 655 856 457 464 
+player 23 draws a 793 from deck 23
+player 23 discards a 515 to deck 24
+player 23 current hand : 863 714 671 252 732 988 988 476 529 829 117 14 187 142 84 655 856 457 464 793 
+player 23 draws a 897 from deck 23
+player 23 discards a 863 to deck 24
+player 23 current hand : 714 671 252 732 988 988 476 529 829 117 14 187 142 84 655 856 457 464 793 897 
+player 23 draws a 185 from deck 23
+player 23 discards a 714 to deck 24
+player 23 current hand : 671 252 732 988 988 476 529 829 117 14 187 142 84 655 856 457 464 793 897 185 
+player 23 draws a 970 from deck 23
+player 23 discards a 671 to deck 24
+player 23 current hand : 252 732 988 988 476 529 829 117 14 187 142 84 655 856 457 464 793 897 185 970 
+player 23 draws a 853 from deck 23
+player 23 discards a 252 to deck 24
+player 23 current hand : 732 988 988 476 529 829 117 14 187 142 84 655 856 457 464 793 897 185 970 853 
+player 23 draws a 457 from deck 23
+player 23 discards a 732 to deck 24
+player 23 current hand : 988 988 476 529 829 117 14 187 142 84 655 856 457 464 793 897 185 970 853 457 
+player 23 draws a 612 from deck 23
+player 23 discards a 988 to deck 24
+player 23 current hand : 988 476 529 829 117 14 187 142 84 655 856 457 464 793 897 185 970 853 457 612 
+player 23 draws a 672 from deck 23
+player 23 discards a 988 to deck 24
+player 23 current hand : 476 529 829 117 14 187 142 84 655 856 457 464 793 897 185 970 853 457 612 672 
+player 23 draws a 395 from deck 23
+player 23 discards a 476 to deck 24
+player 23 current hand : 529 829 117 14 187 142 84 655 856 457 464 793 897 185 970 853 457 612 672 395 
+player 23 draws a 336 from deck 23
+player 23 discards a 529 to deck 24
+player 23 current hand : 829 117 14 187 142 84 655 856 457 464 793 897 185 970 853 457 612 672 395 336 
+player 23 draws a 574 from deck 23
+player 23 discards a 829 to deck 24
+player 23 current hand : 117 14 187 142 84 655 856 457 464 793 897 185 970 853 457 612 672 395 336 574 
+player 23 draws a 410 from deck 23
+player 23 discards a 117 to deck 24
+player 23 current hand : 14 187 142 84 655 856 457 464 793 897 185 970 853 457 612 672 395 336 574 410 
+player 23 draws a 25 from deck 23
+player 23 discards a 14 to deck 24
+player 23 current hand : 187 142 84 655 856 457 464 793 897 185 970 853 457 612 672 395 336 574 410 25 
+player 23 draws a 535 from deck 23
+player 23 discards a 187 to deck 24
+player 23 current hand : 142 84 655 856 457 464 793 897 185 970 853 457 612 672 395 336 574 410 25 535 
+player 23 draws a 399 from deck 23
+player 23 discards a 142 to deck 24
+player 23 current hand : 84 655 856 457 464 793 897 185 970 853 457 612 672 395 336 574 410 25 535 399 
+player 23 draws a 635 from deck 23
+player 23 discards a 84 to deck 24
+player 23 current hand : 655 856 457 464 793 897 185 970 853 457 612 672 395 336 574 410 25 535 399 635 
+player 23 draws a 300 from deck 23
+player 23 discards a 655 to deck 24
+player 23 current hand : 856 457 464 793 897 185 970 853 457 612 672 395 336 574 410 25 535 399 635 300 
+player 23 draws a 267 from deck 23
+player 23 discards a 856 to deck 24
+player 23 current hand : 457 464 793 897 185 970 853 457 612 672 395 336 574 410 25 535 399 635 300 267 
+player 23 draws a 871 from deck 23
+player 23 discards a 457 to deck 24
+player 23 current hand : 464 793 897 185 970 853 457 612 672 395 336 574 410 25 535 399 635 300 267 871 
+player 23 draws a 131 from deck 23
+player 23 discards a 464 to deck 24
+player 23 current hand : 793 897 185 970 853 457 612 672 395 336 574 410 25 535 399 635 300 267 871 131 
+player 23 draws a 699 from deck 23
+player 23 discards a 793 to deck 24
+player 23 current hand : 897 185 970 853 457 612 672 395 336 574 410 25 535 399 635 300 267 871 131 699 
+player 23 draws a 599 from deck 23
+player 23 discards a 897 to deck 24
+player 23 current hand : 185 970 853 457 612 672 395 336 574 410 25 535 399 635 300 267 871 131 699 599 
+player 23 draws a 498 from deck 23
+player 23 discards a 185 to deck 24
+player 23 current hand : 970 853 457 612 672 395 336 574 410 25 535 399 635 300 267 871 131 699 599 498 
+player 23 draws a 442 from deck 23
+player 23 discards a 970 to deck 24
+player 23 current hand : 853 457 612 672 395 336 574 410 25 535 399 635 300 267 871 131 699 599 498 442 
+player 23 draws a 893 from deck 23
+player 23 discards a 853 to deck 24
+player 23 current hand : 457 612 672 395 336 574 410 25 535 399 635 300 267 871 131 699 599 498 442 893 
+player 23 draws a 498 from deck 23
+player 23 discards a 457 to deck 24
+player 23 current hand : 612 672 395 336 574 410 25 535 399 635 300 267 871 131 699 599 498 442 893 498 
+player 23 draws a 699 from deck 23
+player 23 discards a 612 to deck 24
+player 23 current hand : 672 395 336 574 410 25 535 399 635 300 267 871 131 699 599 498 442 893 498 699 
+player 23 draws a 319 from deck 23
+player 23 discards a 672 to deck 24
+player 23 current hand : 395 336 574 410 25 535 399 635 300 267 871 131 699 599 498 442 893 498 699 319 
+player 23 draws a 39 from deck 23
+player 23 discards a 395 to deck 24
+player 23 current hand : 336 574 410 25 535 399 635 300 267 871 131 699 599 498 442 893 498 699 319 39 
+player 23 draws a 993 from deck 23
+player 23 discards a 336 to deck 24
+player 23 current hand : 574 410 25 535 399 635 300 267 871 131 699 599 498 442 893 498 699 319 39 993 
+player 23 draws a 737 from deck 23
+player 23 discards a 574 to deck 24
+player 23 current hand : 410 25 535 399 635 300 267 871 131 699 599 498 442 893 498 699 319 39 993 737 
+player 23 draws a 24 from deck 23
+player 23 discards a 410 to deck 24
+player 23 current hand : 25 535 399 635 300 267 871 131 699 599 498 442 893 498 699 319 39 993 737 24 
+player 23 draws a 267 from deck 23
+player 23 discards a 25 to deck 24
+player 23 current hand : 535 399 635 300 267 871 131 699 599 498 442 893 498 699 319 39 993 737 24 267 
+player 23 draws a 73 from deck 23
+player 23 discards a 535 to deck 24
+player 23 current hand : 399 635 300 267 871 131 699 599 498 442 893 498 699 319 39 993 737 24 267 73 
+player 23 draws a 97 from deck 23
+player 23 discards a 399 to deck 24
+player 23 current hand : 635 300 267 871 131 699 599 498 442 893 498 699 319 39 993 737 24 267 73 97 
+player 23 draws a 417 from deck 23
+player 23 discards a 635 to deck 24
+player 23 current hand : 300 267 871 131 699 599 498 442 893 498 699 319 39 993 737 24 267 73 97 417 
+player 23 draws a 130 from deck 23
+player 23 discards a 300 to deck 24
+player 23 current hand : 267 871 131 699 599 498 442 893 498 699 319 39 993 737 24 267 73 97 417 130 
+player 23 draws a 328 from deck 23
+player 23 discards a 267 to deck 24
+player 23 current hand : 871 131 699 599 498 442 893 498 699 319 39 993 737 24 267 73 97 417 130 328 
+player 23 draws a 52 from deck 23
+player 23 discards a 871 to deck 24
+player 23 current hand : 131 699 599 498 442 893 498 699 319 39 993 737 24 267 73 97 417 130 328 52 
+player 23 draws a 732 from deck 23
+player 23 discards a 131 to deck 24
+player 23 current hand : 699 599 498 442 893 498 699 319 39 993 737 24 267 73 97 417 130 328 52 732 
+player 23 draws a 326 from deck 23
+player 23 discards a 699 to deck 24
+player 23 current hand : 599 498 442 893 498 699 319 39 993 737 24 267 73 97 417 130 328 52 732 326 
+player 23 draws a 919 from deck 23
+player 23 discards a 599 to deck 24
+player 23 current hand : 498 442 893 498 699 319 39 993 737 24 267 73 97 417 130 328 52 732 326 919 
+player 23 draws a 182 from deck 23
+player 23 discards a 498 to deck 24
+player 23 current hand : 442 893 498 699 319 39 993 737 24 267 73 97 417 130 328 52 732 326 919 182 
+player 23 draws a 49 from deck 23
+player 23 discards a 442 to deck 24
+player 23 current hand : 893 498 699 319 39 993 737 24 267 73 97 417 130 328 52 732 326 919 182 49 
+player 23 draws a 29 from deck 23

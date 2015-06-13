@@ -1,0 +1,311 @@
+player 490 initial hand 390 623 40 163 497 113 375 608 897 696 42 31 417 754 870 933 228 219 829 276 
+player 490 draws a 309 from deck 490
+player 490 discards a 390 to deck 491
+player 490 current hand : 623 40 163 497 113 375 608 897 696 42 31 417 754 870 933 228 219 829 276 309 
+player 490 draws a 981 from deck 490
+player 490 discards a 623 to deck 491
+player 490 current hand : 40 163 497 113 375 608 897 696 42 31 417 754 870 933 228 219 829 276 309 981 
+player 490 draws a 490 from deck 490
+player 490 discards a 40 to deck 491
+player 490 current hand : 163 497 113 375 608 897 696 42 31 417 754 870 933 228 219 829 276 309 981 490 
+player 490 draws a 705 from deck 490
+player 490 discards a 163 to deck 491
+player 490 current hand : 497 113 375 608 897 696 42 31 417 754 870 933 228 219 829 276 309 981 490 705 
+player 490 draws a 875 from deck 490
+player 490 discards a 497 to deck 491
+player 490 current hand : 113 375 608 897 696 42 31 417 754 870 933 228 219 829 276 309 981 490 705 875 
+player 490 draws a 135 from deck 490
+player 490 discards a 113 to deck 491
+player 490 current hand : 375 608 897 696 42 31 417 754 870 933 228 219 829 276 309 981 490 705 875 135 
+player 490 draws a 460 from deck 490
+player 490 discards a 375 to deck 491
+player 490 current hand : 608 897 696 42 31 417 754 870 933 228 219 829 276 309 981 490 705 875 135 460 
+player 490 draws a 723 from deck 490
+player 490 discards a 608 to deck 491
+player 490 current hand : 897 696 42 31 417 754 870 933 228 219 829 276 309 981 490 705 875 135 460 723 
+player 490 draws a 384 from deck 490
+player 490 discards a 897 to deck 491
+player 490 current hand : 696 42 31 417 754 870 933 228 219 829 276 309 981 490 705 875 135 460 723 384 
+player 490 draws a 80 from deck 490
+player 490 discards a 696 to deck 491
+player 490 current hand : 42 31 417 754 870 933 228 219 829 276 309 981 490 705 875 135 460 723 384 80 
+player 490 draws a 933 from deck 490
+player 490 discards a 42 to deck 491
+player 490 current hand : 31 417 754 870 933 228 219 829 276 309 981 490 705 875 135 460 723 384 80 933 
+player 490 draws a 60 from deck 490
+player 490 discards a 31 to deck 491
+player 490 current hand : 417 754 870 933 228 219 829 276 309 981 490 705 875 135 460 723 384 80 933 60 
+player 490 draws a 879 from deck 490
+player 490 discards a 417 to deck 491
+player 490 current hand : 754 870 933 228 219 829 276 309 981 490 705 875 135 460 723 384 80 933 60 879 
+player 490 draws a 610 from deck 490
+player 490 discards a 754 to deck 491
+player 490 current hand : 870 933 228 219 829 276 309 981 490 705 875 135 460 723 384 80 933 60 879 610 
+player 490 draws a 581 from deck 490
+player 490 discards a 870 to deck 491
+player 490 current hand : 933 228 219 829 276 309 981 490 705 875 135 460 723 384 80 933 60 879 610 581 
+player 490 draws a 69 from deck 490
+player 490 discards a 933 to deck 491
+player 490 current hand : 228 219 829 276 309 981 490 705 875 135 460 723 384 80 933 60 879 610 581 69 
+player 490 draws a 449 from deck 490
+player 490 discards a 228 to deck 491
+player 490 current hand : 219 829 276 309 981 490 705 875 135 460 723 384 80 933 60 879 610 581 69 449 
+player 490 draws a 835 from deck 490
+player 490 discards a 219 to deck 491
+player 490 current hand : 829 276 309 981 490 705 875 135 460 723 384 80 933 60 879 610 581 69 449 835 
+player 490 draws a 693 from deck 490
+player 490 discards a 829 to deck 491
+player 490 current hand : 276 309 981 490 705 875 135 460 723 384 80 933 60 879 610 581 69 449 835 693 
+player 490 draws a 124 from deck 490
+player 490 discards a 276 to deck 491
+player 490 current hand : 309 981 490 705 875 135 460 723 384 80 933 60 879 610 581 69 449 835 693 124 
+player 490 draws a 915 from deck 490
+player 490 discards a 309 to deck 491
+player 490 current hand : 981 490 705 875 135 460 723 384 80 933 60 879 610 581 69 449 835 693 124 915 
+player 490 draws a 502 from deck 490
+player 490 discards a 981 to deck 491
+player 490 current hand : 490 705 875 135 460 723 384 80 933 60 879 610 581 69 449 835 693 124 915 502 
+player 490 draws a 135 from deck 490
+player 490 discards a 705 to deck 491
+player 490 current hand : 490 875 135 460 723 384 80 933 60 879 610 581 69 449 835 693 124 915 502 135 
+player 490 draws a 237 from deck 490
+player 490 discards a 875 to deck 491
+player 490 current hand : 490 135 460 723 384 80 933 60 879 610 581 69 449 835 693 124 915 502 135 237 
+player 490 draws a 856 from deck 490
+player 490 discards a 135 to deck 491
+player 490 current hand : 490 460 723 384 80 933 60 879 610 581 69 449 835 693 124 915 502 135 237 856 
+player 490 draws a 493 from deck 490
+player 490 discards a 460 to deck 491
+player 490 current hand : 490 723 384 80 933 60 879 610 581 69 449 835 693 124 915 502 135 237 856 493 
+player 490 draws a 401 from deck 490
+player 490 discards a 723 to deck 491
+player 490 current hand : 490 384 80 933 60 879 610 581 69 449 835 693 124 915 502 135 237 856 493 401 
+player 490 draws a 957 from deck 490
+player 490 discards a 384 to deck 491
+player 490 current hand : 490 80 933 60 879 610 581 69 449 835 693 124 915 502 135 237 856 493 401 957 
+player 490 draws a 182 from deck 490
+player 490 discards a 80 to deck 491
+player 490 current hand : 490 933 60 879 610 581 69 449 835 693 124 915 502 135 237 856 493 401 957 182 
+player 490 draws a 105 from deck 490
+player 490 discards a 933 to deck 491
+player 490 current hand : 490 60 879 610 581 69 449 835 693 124 915 502 135 237 856 493 401 957 182 105 
+player 490 draws a 255 from deck 490
+player 490 discards a 60 to deck 491
+player 490 current hand : 490 879 610 581 69 449 835 693 124 915 502 135 237 856 493 401 957 182 105 255 
+player 490 draws a 941 from deck 490
+player 490 discards a 879 to deck 491
+player 490 current hand : 490 610 581 69 449 835 693 124 915 502 135 237 856 493 401 957 182 105 255 941 
+player 490 draws a 182 from deck 490
+player 490 discards a 610 to deck 491
+player 490 current hand : 490 581 69 449 835 693 124 915 502 135 237 856 493 401 957 182 105 255 941 182 
+player 490 draws a 977 from deck 490
+player 490 discards a 581 to deck 491
+player 490 current hand : 490 69 449 835 693 124 915 502 135 237 856 493 401 957 182 105 255 941 182 977 
+player 490 draws a 316 from deck 490
+player 490 discards a 69 to deck 491
+player 490 current hand : 490 449 835 693 124 915 502 135 237 856 493 401 957 182 105 255 941 182 977 316 
+player 490 draws a 554 from deck 490
+player 490 discards a 449 to deck 491
+player 490 current hand : 490 835 693 124 915 502 135 237 856 493 401 957 182 105 255 941 182 977 316 554 
+player 490 draws a 173 from deck 490
+player 490 discards a 835 to deck 491
+player 490 current hand : 490 693 124 915 502 135 237 856 493 401 957 182 105 255 941 182 977 316 554 173 
+player 490 draws a 443 from deck 490
+player 490 discards a 693 to deck 491
+player 490 current hand : 490 124 915 502 135 237 856 493 401 957 182 105 255 941 182 977 316 554 173 443 
+player 490 draws a 774 from deck 490
+player 490 discards a 124 to deck 491
+player 490 current hand : 490 915 502 135 237 856 493 401 957 182 105 255 941 182 977 316 554 173 443 774 
+player 490 draws a 634 from deck 490
+player 490 discards a 915 to deck 491
+player 490 current hand : 490 502 135 237 856 493 401 957 182 105 255 941 182 977 316 554 173 443 774 634 
+player 490 draws a 422 from deck 490
+player 490 discards a 502 to deck 491
+player 490 current hand : 490 135 237 856 493 401 957 182 105 255 941 182 977 316 554 173 443 774 634 422 
+player 490 draws a 608 from deck 490
+player 490 discards a 135 to deck 491
+player 490 current hand : 490 237 856 493 401 957 182 105 255 941 182 977 316 554 173 443 774 634 422 608 
+player 490 draws a 25 from deck 490
+player 490 discards a 237 to deck 491
+player 490 current hand : 490 856 493 401 957 182 105 255 941 182 977 316 554 173 443 774 634 422 608 25 
+player 490 draws a 393 from deck 490
+player 490 discards a 856 to deck 491
+player 490 current hand : 490 493 401 957 182 105 255 941 182 977 316 554 173 443 774 634 422 608 25 393 
+player 490 draws a 825 from deck 490
+player 490 discards a 493 to deck 491
+player 490 current hand : 490 401 957 182 105 255 941 182 977 316 554 173 443 774 634 422 608 25 393 825 
+player 490 draws a 511 from deck 490
+player 490 discards a 401 to deck 491
+player 490 current hand : 490 957 182 105 255 941 182 977 316 554 173 443 774 634 422 608 25 393 825 511 
+player 490 draws a 177 from deck 490
+player 490 discards a 957 to deck 491
+player 490 current hand : 490 182 105 255 941 182 977 316 554 173 443 774 634 422 608 25 393 825 511 177 
+player 490 draws a 146 from deck 490
+player 490 discards a 182 to deck 491
+player 490 current hand : 490 105 255 941 182 977 316 554 173 443 774 634 422 608 25 393 825 511 177 146 
+player 490 draws a 898 from deck 490
+player 490 discards a 105 to deck 491
+player 490 current hand : 490 255 941 182 977 316 554 173 443 774 634 422 608 25 393 825 511 177 146 898 
+player 490 draws a 577 from deck 490
+player 490 discards a 255 to deck 491
+player 490 current hand : 490 941 182 977 316 554 173 443 774 634 422 608 25 393 825 511 177 146 898 577 
+player 490 draws a 241 from deck 490
+player 490 discards a 941 to deck 491
+player 490 current hand : 490 182 977 316 554 173 443 774 634 422 608 25 393 825 511 177 146 898 577 241 
+player 490 draws a 420 from deck 490
+player 490 discards a 182 to deck 491
+player 490 current hand : 490 977 316 554 173 443 774 634 422 608 25 393 825 511 177 146 898 577 241 420 
+player 490 draws a 611 from deck 490
+player 490 discards a 977 to deck 491
+player 490 current hand : 490 316 554 173 443 774 634 422 608 25 393 825 511 177 146 898 577 241 420 611 
+player 490 draws a 138 from deck 490
+player 490 discards a 316 to deck 491
+player 490 current hand : 490 554 173 443 774 634 422 608 25 393 825 511 177 146 898 577 241 420 611 138 
+player 490 draws a 636 from deck 490
+player 490 discards a 554 to deck 491
+player 490 current hand : 490 173 443 774 634 422 608 25 393 825 511 177 146 898 577 241 420 611 138 636 
+player 490 draws a 98 from deck 490
+player 490 discards a 173 to deck 491
+player 490 current hand : 490 443 774 634 422 608 25 393 825 511 177 146 898 577 241 420 611 138 636 98 
+player 490 draws a 330 from deck 490
+player 490 discards a 443 to deck 491
+player 490 current hand : 490 774 634 422 608 25 393 825 511 177 146 898 577 241 420 611 138 636 98 330 
+player 490 draws a 927 from deck 490
+player 490 discards a 774 to deck 491
+player 490 current hand : 490 634 422 608 25 393 825 511 177 146 898 577 241 420 611 138 636 98 330 927 
+player 490 draws a 23 from deck 490
+player 490 discards a 634 to deck 491
+player 490 current hand : 490 422 608 25 393 825 511 177 146 898 577 241 420 611 138 636 98 330 927 23 
+player 490 draws a 720 from deck 490
+player 490 discards a 422 to deck 491
+player 490 current hand : 490 608 25 393 825 511 177 146 898 577 241 420 611 138 636 98 330 927 23 720 
+player 490 draws a 758 from deck 490
+player 490 discards a 608 to deck 491
+player 490 current hand : 490 25 393 825 511 177 146 898 577 241 420 611 138 636 98 330 927 23 720 758 
+player 490 draws a 882 from deck 490
+player 490 discards a 25 to deck 491
+player 490 current hand : 490 393 825 511 177 146 898 577 241 420 611 138 636 98 330 927 23 720 758 882 
+player 490 draws a 645 from deck 490
+player 490 discards a 393 to deck 491
+player 490 current hand : 490 825 511 177 146 898 577 241 420 611 138 636 98 330 927 23 720 758 882 645 
+player 490 draws a 579 from deck 490
+player 490 discards a 825 to deck 491
+player 490 current hand : 490 511 177 146 898 577 241 420 611 138 636 98 330 927 23 720 758 882 645 579 
+player 490 draws a 36 from deck 490
+player 490 discards a 511 to deck 491
+player 490 current hand : 490 177 146 898 577 241 420 611 138 636 98 330 927 23 720 758 882 645 579 36 
+player 490 draws a 146 from deck 490
+player 490 discards a 177 to deck 491
+player 490 current hand : 490 146 898 577 241 420 611 138 636 98 330 927 23 720 758 882 645 579 36 146 
+player 490 draws a 913 from deck 490
+player 490 discards a 146 to deck 491
+player 490 current hand : 490 898 577 241 420 611 138 636 98 330 927 23 720 758 882 645 579 36 146 913 
+player 490 draws a 297 from deck 490
+player 490 discards a 898 to deck 491
+player 490 current hand : 490 577 241 420 611 138 636 98 330 927 23 720 758 882 645 579 36 146 913 297 
+player 490 draws a 575 from deck 490
+player 490 discards a 577 to deck 491
+player 490 current hand : 490 241 420 611 138 636 98 330 927 23 720 758 882 645 579 36 146 913 297 575 
+player 490 draws a 608 from deck 490
+player 490 discards a 241 to deck 491
+player 490 current hand : 490 420 611 138 636 98 330 927 23 720 758 882 645 579 36 146 913 297 575 608 
+player 490 draws a 917 from deck 490
+player 490 discards a 420 to deck 491
+player 490 current hand : 490 611 138 636 98 330 927 23 720 758 882 645 579 36 146 913 297 575 608 917 
+player 490 draws a 285 from deck 490
+player 490 discards a 611 to deck 491
+player 490 current hand : 490 138 636 98 330 927 23 720 758 882 645 579 36 146 913 297 575 608 917 285 
+player 490 draws a 93 from deck 490
+player 490 discards a 138 to deck 491
+player 490 current hand : 490 636 98 330 927 23 720 758 882 645 579 36 146 913 297 575 608 917 285 93 
+player 490 draws a 173 from deck 490
+player 490 discards a 636 to deck 491
+player 490 current hand : 490 98 330 927 23 720 758 882 645 579 36 146 913 297 575 608 917 285 93 173 
+player 490 draws a 570 from deck 490
+player 490 discards a 98 to deck 491
+player 490 current hand : 490 330 927 23 720 758 882 645 579 36 146 913 297 575 608 917 285 93 173 570 
+player 490 draws a 518 from deck 490
+player 490 discards a 330 to deck 491
+player 490 current hand : 490 927 23 720 758 882 645 579 36 146 913 297 575 608 917 285 93 173 570 518 
+player 490 draws a 764 from deck 490
+player 490 discards a 927 to deck 491
+player 490 current hand : 490 23 720 758 882 645 579 36 146 913 297 575 608 917 285 93 173 570 518 764 
+player 490 draws a 749 from deck 490
+player 490 discards a 23 to deck 491
+player 490 current hand : 490 720 758 882 645 579 36 146 913 297 575 608 917 285 93 173 570 518 764 749 
+player 490 draws a 918 from deck 490
+player 490 discards a 720 to deck 491
+player 490 current hand : 490 758 882 645 579 36 146 913 297 575 608 917 285 93 173 570 518 764 749 918 
+player 490 draws a 515 from deck 490
+player 490 discards a 758 to deck 491
+player 490 current hand : 490 882 645 579 36 146 913 297 575 608 917 285 93 173 570 518 764 749 918 515 
+player 490 draws a 175 from deck 490
+player 490 discards a 882 to deck 491
+player 490 current hand : 490 645 579 36 146 913 297 575 608 917 285 93 173 570 518 764 749 918 515 175 
+player 490 draws a 233 from deck 490
+player 490 discards a 645 to deck 491
+player 490 current hand : 490 579 36 146 913 297 575 608 917 285 93 173 570 518 764 749 918 515 175 233 
+player 490 draws a 260 from deck 490
+player 490 discards a 579 to deck 491
+player 490 current hand : 490 36 146 913 297 575 608 917 285 93 173 570 518 764 749 918 515 175 233 260 
+player 490 draws a 173 from deck 490
+player 490 discards a 36 to deck 491
+player 490 current hand : 490 146 913 297 575 608 917 285 93 173 570 518 764 749 918 515 175 233 260 173 
+player 490 draws a 680 from deck 490
+player 490 discards a 146 to deck 491
+player 490 current hand : 490 913 297 575 608 917 285 93 173 570 518 764 749 918 515 175 233 260 173 680 
+player 490 draws a 973 from deck 490
+player 490 discards a 913 to deck 491
+player 490 current hand : 490 297 575 608 917 285 93 173 570 518 764 749 918 515 175 233 260 173 680 973 
+player 490 draws a 105 from deck 490
+player 490 discards a 297 to deck 491
+player 490 current hand : 490 575 608 917 285 93 173 570 518 764 749 918 515 175 233 260 173 680 973 105 
+player 490 draws a 424 from deck 490
+player 490 discards a 575 to deck 491
+player 490 current hand : 490 608 917 285 93 173 570 518 764 749 918 515 175 233 260 173 680 973 105 424 
+player 490 draws a 960 from deck 490
+player 490 discards a 608 to deck 491
+player 490 current hand : 490 917 285 93 173 570 518 764 749 918 515 175 233 260 173 680 973 105 424 960 
+player 490 draws a 701 from deck 490
+player 490 discards a 917 to deck 491
+player 490 current hand : 490 285 93 173 570 518 764 749 918 515 175 233 260 173 680 973 105 424 960 701 
+player 490 draws a 653 from deck 490
+player 490 discards a 285 to deck 491
+player 490 current hand : 490 93 173 570 518 764 749 918 515 175 233 260 173 680 973 105 424 960 701 653 
+player 490 draws a 626 from deck 490
+player 490 discards a 93 to deck 491
+player 490 current hand : 490 173 570 518 764 749 918 515 175 233 260 173 680 973 105 424 960 701 653 626 
+player 490 draws a 286 from deck 490
+player 490 discards a 173 to deck 491
+player 490 current hand : 490 570 518 764 749 918 515 175 233 260 173 680 973 105 424 960 701 653 626 286 
+player 490 draws a 888 from deck 490
+player 490 discards a 570 to deck 491
+player 490 current hand : 490 518 764 749 918 515 175 233 260 173 680 973 105 424 960 701 653 626 286 888 
+player 490 draws a 24 from deck 490
+player 490 discards a 518 to deck 491
+player 490 current hand : 490 764 749 918 515 175 233 260 173 680 973 105 424 960 701 653 626 286 888 24 
+player 490 draws a 938 from deck 490
+player 490 discards a 764 to deck 491
+player 490 current hand : 490 749 918 515 175 233 260 173 680 973 105 424 960 701 653 626 286 888 24 938 
+player 490 draws a 93 from deck 490
+player 490 discards a 749 to deck 491
+player 490 current hand : 490 918 515 175 233 260 173 680 973 105 424 960 701 653 626 286 888 24 938 93 
+player 490 draws a 640 from deck 490
+player 490 discards a 918 to deck 491
+player 490 current hand : 490 515 175 233 260 173 680 973 105 424 960 701 653 626 286 888 24 938 93 640 
+player 490 draws a 316 from deck 490
+player 490 discards a 515 to deck 491
+player 490 current hand : 490 175 233 260 173 680 973 105 424 960 701 653 626 286 888 24 938 93 640 316 
+player 490 draws a 54 from deck 490
+player 490 discards a 175 to deck 491
+player 490 current hand : 490 233 260 173 680 973 105 424 960 701 653 626 286 888 24 938 93 640 316 54 
+player 490 draws a 555 from deck 490
+player 490 discards a 233 to deck 491
+player 490 current hand : 490 260 173 680 973 105 424 960 701 653 626 286 888 24 938 93 640 316 54 555 
+player 490 draws a 984 from deck 490
+player 490 discards a 260 to deck 491
+player 490 current hand : 490 173 680 973 105 424 960 701 653 626 286 888 24 938 93 640 316 54 555 984 
+player 490 draws a 791 from deck 490
+player 490 discards a 173 to deck 491
+player 490 current hand : 490 680 973 105 424 960 701 653 626 286 888 24 938 93 640 316 54 555 984 791 
+player 490 draws a 116 from deck 490

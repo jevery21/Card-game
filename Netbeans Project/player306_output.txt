@@ -1,0 +1,342 @@
+player 306 initial hand 436 647 546 218 763 774 141 463 616 791 169 623 1 237 631 393 233 926 639 555 
+player 306 draws a 978 from deck 306
+player 306 discards a 436 to deck 307
+player 306 current hand : 647 546 218 763 774 141 463 616 791 169 623 1 237 631 393 233 926 639 555 978 
+player 306 draws a 340 from deck 306
+player 306 discards a 647 to deck 307
+player 306 current hand : 546 218 763 774 141 463 616 791 169 623 1 237 631 393 233 926 639 555 978 340 
+player 306 draws a 75 from deck 306
+player 306 discards a 546 to deck 307
+player 306 current hand : 218 763 774 141 463 616 791 169 623 1 237 631 393 233 926 639 555 978 340 75 
+player 306 draws a 247 from deck 306
+player 306 discards a 218 to deck 307
+player 306 current hand : 763 774 141 463 616 791 169 623 1 237 631 393 233 926 639 555 978 340 75 247 
+player 306 draws a 529 from deck 306
+player 306 discards a 763 to deck 307
+player 306 current hand : 774 141 463 616 791 169 623 1 237 631 393 233 926 639 555 978 340 75 247 529 
+player 306 draws a 256 from deck 306
+player 306 discards a 774 to deck 307
+player 306 current hand : 141 463 616 791 169 623 1 237 631 393 233 926 639 555 978 340 75 247 529 256 
+player 306 draws a 13 from deck 306
+player 306 discards a 141 to deck 307
+player 306 current hand : 463 616 791 169 623 1 237 631 393 233 926 639 555 978 340 75 247 529 256 13 
+player 306 draws a 279 from deck 306
+player 306 discards a 463 to deck 307
+player 306 current hand : 616 791 169 623 1 237 631 393 233 926 639 555 978 340 75 247 529 256 13 279 
+player 306 draws a 462 from deck 306
+player 306 discards a 616 to deck 307
+player 306 current hand : 791 169 623 1 237 631 393 233 926 639 555 978 340 75 247 529 256 13 279 462 
+player 306 draws a 917 from deck 306
+player 306 discards a 791 to deck 307
+player 306 current hand : 169 623 1 237 631 393 233 926 639 555 978 340 75 247 529 256 13 279 462 917 
+player 306 draws a 73 from deck 306
+player 306 discards a 169 to deck 307
+player 306 current hand : 623 1 237 631 393 233 926 639 555 978 340 75 247 529 256 13 279 462 917 73 
+player 306 draws a 442 from deck 306
+player 306 discards a 623 to deck 307
+player 306 current hand : 1 237 631 393 233 926 639 555 978 340 75 247 529 256 13 279 462 917 73 442 
+player 306 draws a 579 from deck 306
+player 306 discards a 1 to deck 307
+player 306 current hand : 237 631 393 233 926 639 555 978 340 75 247 529 256 13 279 462 917 73 442 579 
+player 306 draws a 870 from deck 306
+player 306 discards a 237 to deck 307
+player 306 current hand : 631 393 233 926 639 555 978 340 75 247 529 256 13 279 462 917 73 442 579 870 
+player 306 draws a 559 from deck 306
+player 306 discards a 631 to deck 307
+player 306 current hand : 393 233 926 639 555 978 340 75 247 529 256 13 279 462 917 73 442 579 870 559 
+player 306 draws a 497 from deck 306
+player 306 discards a 393 to deck 307
+player 306 current hand : 233 926 639 555 978 340 75 247 529 256 13 279 462 917 73 442 579 870 559 497 
+player 306 draws a 241 from deck 306
+player 306 discards a 233 to deck 307
+player 306 current hand : 926 639 555 978 340 75 247 529 256 13 279 462 917 73 442 579 870 559 497 241 
+player 306 draws a 781 from deck 306
+player 306 discards a 926 to deck 307
+player 306 current hand : 639 555 978 340 75 247 529 256 13 279 462 917 73 442 579 870 559 497 241 781 
+player 306 draws a 685 from deck 306
+player 306 discards a 639 to deck 307
+player 306 current hand : 555 978 340 75 247 529 256 13 279 462 917 73 442 579 870 559 497 241 781 685 
+player 306 draws a 813 from deck 306
+player 306 discards a 555 to deck 307
+player 306 current hand : 978 340 75 247 529 256 13 279 462 917 73 442 579 870 559 497 241 781 685 813 
+player 306 draws a 626 from deck 306
+player 306 discards a 978 to deck 307
+player 306 current hand : 340 75 247 529 256 13 279 462 917 73 442 579 870 559 497 241 781 685 813 626 
+player 306 draws a 1000 from deck 306
+player 306 discards a 340 to deck 307
+player 306 current hand : 75 247 529 256 13 279 462 917 73 442 579 870 559 497 241 781 685 813 626 1000 
+player 306 draws a 993 from deck 306
+player 306 discards a 75 to deck 307
+player 306 current hand : 247 529 256 13 279 462 917 73 442 579 870 559 497 241 781 685 813 626 1000 993 
+player 306 draws a 249 from deck 306
+player 306 discards a 247 to deck 307
+player 306 current hand : 529 256 13 279 462 917 73 442 579 870 559 497 241 781 685 813 626 1000 993 249 
+player 306 draws a 527 from deck 306
+player 306 discards a 529 to deck 307
+player 306 current hand : 256 13 279 462 917 73 442 579 870 559 497 241 781 685 813 626 1000 993 249 527 
+player 306 draws a 599 from deck 306
+player 306 discards a 256 to deck 307
+player 306 current hand : 13 279 462 917 73 442 579 870 559 497 241 781 685 813 626 1000 993 249 527 599 
+player 306 draws a 979 from deck 306
+player 306 discards a 13 to deck 307
+player 306 current hand : 279 462 917 73 442 579 870 559 497 241 781 685 813 626 1000 993 249 527 599 979 
+player 306 draws a 158 from deck 306
+player 306 discards a 279 to deck 307
+player 306 current hand : 462 917 73 442 579 870 559 497 241 781 685 813 626 1000 993 249 527 599 979 158 
+player 306 draws a 17 from deck 306
+player 306 discards a 462 to deck 307
+player 306 current hand : 917 73 442 579 870 559 497 241 781 685 813 626 1000 993 249 527 599 979 158 17 
+player 306 draws a 390 from deck 306
+player 306 discards a 917 to deck 307
+player 306 current hand : 73 442 579 870 559 497 241 781 685 813 626 1000 993 249 527 599 979 158 17 390 
+player 306 draws a 879 from deck 306
+player 306 discards a 73 to deck 307
+player 306 current hand : 442 579 870 559 497 241 781 685 813 626 1000 993 249 527 599 979 158 17 390 879 
+player 306 draws a 862 from deck 306
+player 306 discards a 442 to deck 307
+player 306 current hand : 579 870 559 497 241 781 685 813 626 1000 993 249 527 599 979 158 17 390 879 862 
+player 306 draws a 269 from deck 306
+player 306 discards a 579 to deck 307
+player 306 current hand : 870 559 497 241 781 685 813 626 1000 993 249 527 599 979 158 17 390 879 862 269 
+player 306 draws a 330 from deck 306
+player 306 discards a 870 to deck 307
+player 306 current hand : 559 497 241 781 685 813 626 1000 993 249 527 599 979 158 17 390 879 862 269 330 
+player 306 draws a 720 from deck 306
+player 306 discards a 559 to deck 307
+player 306 current hand : 497 241 781 685 813 626 1000 993 249 527 599 979 158 17 390 879 862 269 330 720 
+player 306 draws a 977 from deck 306
+player 306 discards a 497 to deck 307
+player 306 current hand : 241 781 685 813 626 1000 993 249 527 599 979 158 17 390 879 862 269 330 720 977 
+player 306 draws a 500 from deck 306
+player 306 discards a 241 to deck 307
+player 306 current hand : 781 685 813 626 1000 993 249 527 599 979 158 17 390 879 862 269 330 720 977 500 
+player 306 draws a 182 from deck 306
+player 306 discards a 781 to deck 307
+player 306 current hand : 685 813 626 1000 993 249 527 599 979 158 17 390 879 862 269 330 720 977 500 182 
+player 306 draws a 351 from deck 306
+player 306 discards a 685 to deck 307
+player 306 current hand : 813 626 1000 993 249 527 599 979 158 17 390 879 862 269 330 720 977 500 182 351 
+player 306 draws a 91 from deck 306
+player 306 discards a 813 to deck 307
+player 306 current hand : 626 1000 993 249 527 599 979 158 17 390 879 862 269 330 720 977 500 182 351 91 
+player 306 draws a 489 from deck 306
+player 306 discards a 626 to deck 307
+player 306 current hand : 1000 993 249 527 599 979 158 17 390 879 862 269 330 720 977 500 182 351 91 489 
+player 306 draws a 254 from deck 306
+player 306 discards a 1000 to deck 307
+player 306 current hand : 993 249 527 599 979 158 17 390 879 862 269 330 720 977 500 182 351 91 489 254 
+player 306 draws a 542 from deck 306
+player 306 discards a 993 to deck 307
+player 306 current hand : 249 527 599 979 158 17 390 879 862 269 330 720 977 500 182 351 91 489 254 542 
+player 306 draws a 205 from deck 306
+player 306 discards a 249 to deck 307
+player 306 current hand : 527 599 979 158 17 390 879 862 269 330 720 977 500 182 351 91 489 254 542 205 
+player 306 draws a 570 from deck 306
+player 306 discards a 527 to deck 307
+player 306 current hand : 599 979 158 17 390 879 862 269 330 720 977 500 182 351 91 489 254 542 205 570 
+player 306 draws a 604 from deck 306
+player 306 discards a 599 to deck 307
+player 306 current hand : 979 158 17 390 879 862 269 330 720 977 500 182 351 91 489 254 542 205 570 604 
+player 306 draws a 716 from deck 306
+player 306 discards a 979 to deck 307
+player 306 current hand : 158 17 390 879 862 269 330 720 977 500 182 351 91 489 254 542 205 570 604 716 
+player 306 draws a 116 from deck 306
+player 306 discards a 158 to deck 307
+player 306 current hand : 17 390 879 862 269 330 720 977 500 182 351 91 489 254 542 205 570 604 716 116 
+player 306 draws a 714 from deck 306
+player 306 discards a 17 to deck 307
+player 306 current hand : 390 879 862 269 330 720 977 500 182 351 91 489 254 542 205 570 604 716 116 714 
+player 306 draws a 646 from deck 306
+player 306 discards a 390 to deck 307
+player 306 current hand : 879 862 269 330 720 977 500 182 351 91 489 254 542 205 570 604 716 116 714 646 
+player 306 draws a 346 from deck 306
+player 306 discards a 879 to deck 307
+player 306 current hand : 862 269 330 720 977 500 182 351 91 489 254 542 205 570 604 716 116 714 646 346 
+player 306 draws a 407 from deck 306
+player 306 discards a 862 to deck 307
+player 306 current hand : 269 330 720 977 500 182 351 91 489 254 542 205 570 604 716 116 714 646 346 407 
+player 306 draws a 635 from deck 306
+player 306 discards a 269 to deck 307
+player 306 current hand : 330 720 977 500 182 351 91 489 254 542 205 570 604 716 116 714 646 346 407 635 
+player 306 draws a 436 from deck 306
+player 306 discards a 330 to deck 307
+player 306 current hand : 720 977 500 182 351 91 489 254 542 205 570 604 716 116 714 646 346 407 635 436 
+player 306 draws a 828 from deck 306
+player 306 discards a 720 to deck 307
+player 306 current hand : 977 500 182 351 91 489 254 542 205 570 604 716 116 714 646 346 407 635 436 828 
+player 306 draws a 856 from deck 306
+player 306 discards a 977 to deck 307
+player 306 current hand : 500 182 351 91 489 254 542 205 570 604 716 116 714 646 346 407 635 436 828 856 
+player 306 draws a 254 from deck 306
+player 306 discards a 500 to deck 307
+player 306 current hand : 182 351 91 489 254 542 205 570 604 716 116 714 646 346 407 635 436 828 856 254 
+player 306 draws a 286 from deck 306
+player 306 discards a 182 to deck 307
+player 306 current hand : 351 91 489 254 542 205 570 604 716 116 714 646 346 407 635 436 828 856 254 286 
+player 306 draws a 286 from deck 306
+player 306 discards a 351 to deck 307
+player 306 current hand : 91 489 254 542 205 570 604 716 116 714 646 346 407 635 436 828 856 254 286 286 
+player 306 draws a 440 from deck 306
+player 306 discards a 91 to deck 307
+player 306 current hand : 489 254 542 205 570 604 716 116 714 646 346 407 635 436 828 856 254 286 286 440 
+player 306 draws a 159 from deck 306
+player 306 discards a 489 to deck 307
+player 306 current hand : 254 542 205 570 604 716 116 714 646 346 407 635 436 828 856 254 286 286 440 159 
+player 306 draws a 717 from deck 306
+player 306 discards a 254 to deck 307
+player 306 current hand : 542 205 570 604 716 116 714 646 346 407 635 436 828 856 254 286 286 440 159 717 
+player 306 draws a 529 from deck 306
+player 306 discards a 542 to deck 307
+player 306 current hand : 205 570 604 716 116 714 646 346 407 635 436 828 856 254 286 286 440 159 717 529 
+player 306 draws a 513 from deck 306
+player 306 discards a 205 to deck 307
+player 306 current hand : 570 604 716 116 714 646 346 407 635 436 828 856 254 286 286 440 159 717 529 513 
+player 306 draws a 137 from deck 306
+player 306 discards a 570 to deck 307
+player 306 current hand : 604 716 116 714 646 346 407 635 436 828 856 254 286 286 440 159 717 529 513 137 
+player 306 draws a 939 from deck 306
+player 306 discards a 604 to deck 307
+player 306 current hand : 716 116 714 646 346 407 635 436 828 856 254 286 286 440 159 717 529 513 137 939 
+player 306 draws a 522 from deck 306
+player 306 discards a 716 to deck 307
+player 306 current hand : 116 714 646 346 407 635 436 828 856 254 286 286 440 159 717 529 513 137 939 522 
+player 306 draws a 847 from deck 306
+player 306 discards a 116 to deck 307
+player 306 current hand : 714 646 346 407 635 436 828 856 254 286 286 440 159 717 529 513 137 939 522 847 
+player 306 draws a 851 from deck 306
+player 306 discards a 714 to deck 307
+player 306 current hand : 646 346 407 635 436 828 856 254 286 286 440 159 717 529 513 137 939 522 847 851 
+player 306 draws a 635 from deck 306
+player 306 discards a 646 to deck 307
+player 306 current hand : 346 407 635 436 828 856 254 286 286 440 159 717 529 513 137 939 522 847 851 635 
+player 306 draws a 455 from deck 306
+player 306 discards a 346 to deck 307
+player 306 current hand : 407 635 436 828 856 254 286 286 440 159 717 529 513 137 939 522 847 851 635 455 
+player 306 draws a 6 from deck 306
+player 306 discards a 407 to deck 307
+player 306 current hand : 635 436 828 856 254 286 286 440 159 717 529 513 137 939 522 847 851 635 455 6 
+player 306 draws a 842 from deck 306
+player 306 discards a 635 to deck 307
+player 306 current hand : 436 828 856 254 286 286 440 159 717 529 513 137 939 522 847 851 635 455 6 842 
+player 306 draws a 768 from deck 306
+player 306 discards a 436 to deck 307
+player 306 current hand : 828 856 254 286 286 440 159 717 529 513 137 939 522 847 851 635 455 6 842 768 
+player 306 draws a 350 from deck 306
+player 306 discards a 828 to deck 307
+player 306 current hand : 856 254 286 286 440 159 717 529 513 137 939 522 847 851 635 455 6 842 768 350 
+player 306 draws a 726 from deck 306
+player 306 discards a 856 to deck 307
+player 306 current hand : 254 286 286 440 159 717 529 513 137 939 522 847 851 635 455 6 842 768 350 726 
+player 306 draws a 143 from deck 306
+player 306 discards a 254 to deck 307
+player 306 current hand : 286 286 440 159 717 529 513 137 939 522 847 851 635 455 6 842 768 350 726 143 
+player 306 draws a 572 from deck 306
+player 306 discards a 286 to deck 307
+player 306 current hand : 286 440 159 717 529 513 137 939 522 847 851 635 455 6 842 768 350 726 143 572 
+player 306 draws a 171 from deck 306
+player 306 discards a 286 to deck 307
+player 306 current hand : 440 159 717 529 513 137 939 522 847 851 635 455 6 842 768 350 726 143 572 171 
+player 306 draws a 568 from deck 306
+player 306 discards a 440 to deck 307
+player 306 current hand : 159 717 529 513 137 939 522 847 851 635 455 6 842 768 350 726 143 572 171 568 
+player 306 draws a 902 from deck 306
+player 306 discards a 159 to deck 307
+player 306 current hand : 717 529 513 137 939 522 847 851 635 455 6 842 768 350 726 143 572 171 568 902 
+player 306 draws a 411 from deck 306
+player 306 discards a 717 to deck 307
+player 306 current hand : 529 513 137 939 522 847 851 635 455 6 842 768 350 726 143 572 171 568 902 411 
+player 306 draws a 988 from deck 306
+player 306 discards a 529 to deck 307
+player 306 current hand : 513 137 939 522 847 851 635 455 6 842 768 350 726 143 572 171 568 902 411 988 
+player 306 draws a 163 from deck 306
+player 306 discards a 513 to deck 307
+player 306 current hand : 137 939 522 847 851 635 455 6 842 768 350 726 143 572 171 568 902 411 988 163 
+player 306 draws a 499 from deck 306
+player 306 discards a 137 to deck 307
+player 306 current hand : 939 522 847 851 635 455 6 842 768 350 726 143 572 171 568 902 411 988 163 499 
+player 306 draws a 267 from deck 306
+player 306 discards a 939 to deck 307
+player 306 current hand : 522 847 851 635 455 6 842 768 350 726 143 572 171 568 902 411 988 163 499 267 
+player 306 draws a 991 from deck 306
+player 306 discards a 522 to deck 307
+player 306 current hand : 847 851 635 455 6 842 768 350 726 143 572 171 568 902 411 988 163 499 267 991 
+player 306 draws a 659 from deck 306
+player 306 discards a 847 to deck 307
+player 306 current hand : 851 635 455 6 842 768 350 726 143 572 171 568 902 411 988 163 499 267 991 659 
+player 306 draws a 80 from deck 306
+player 306 discards a 851 to deck 307
+player 306 current hand : 635 455 6 842 768 350 726 143 572 171 568 902 411 988 163 499 267 991 659 80 
+player 306 draws a 180 from deck 306
+player 306 discards a 635 to deck 307
+player 306 current hand : 455 6 842 768 350 726 143 572 171 568 902 411 988 163 499 267 991 659 80 180 
+player 306 draws a 608 from deck 306
+player 306 discards a 455 to deck 307
+player 306 current hand : 6 842 768 350 726 143 572 171 568 902 411 988 163 499 267 991 659 80 180 608 
+player 306 draws a 255 from deck 306
+player 306 discards a 6 to deck 307
+player 306 current hand : 842 768 350 726 143 572 171 568 902 411 988 163 499 267 991 659 80 180 608 255 
+player 306 draws a 44 from deck 306
+player 306 discards a 842 to deck 307
+player 306 current hand : 768 350 726 143 572 171 568 902 411 988 163 499 267 991 659 80 180 608 255 44 
+player 306 draws a 73 from deck 306
+player 306 discards a 768 to deck 307
+player 306 current hand : 350 726 143 572 171 568 902 411 988 163 499 267 991 659 80 180 608 255 44 73 
+player 306 draws a 692 from deck 306
+player 306 discards a 350 to deck 307
+player 306 current hand : 726 143 572 171 568 902 411 988 163 499 267 991 659 80 180 608 255 44 73 692 
+player 306 draws a 415 from deck 306
+player 306 discards a 726 to deck 307
+player 306 current hand : 143 572 171 568 902 411 988 163 499 267 991 659 80 180 608 255 44 73 692 415 
+player 306 draws a 290 from deck 306
+player 306 discards a 143 to deck 307
+player 306 current hand : 572 171 568 902 411 988 163 499 267 991 659 80 180 608 255 44 73 692 415 290 
+player 306 draws a 797 from deck 306
+player 306 discards a 572 to deck 307
+player 306 current hand : 171 568 902 411 988 163 499 267 991 659 80 180 608 255 44 73 692 415 290 797 
+player 306 draws a 55 from deck 306
+player 306 discards a 171 to deck 307
+player 306 current hand : 568 902 411 988 163 499 267 991 659 80 180 608 255 44 73 692 415 290 797 55 
+player 306 draws a 981 from deck 306
+player 306 discards a 568 to deck 307
+player 306 current hand : 902 411 988 163 499 267 991 659 80 180 608 255 44 73 692 415 290 797 55 981 
+player 306 draws a 204 from deck 306
+player 306 discards a 902 to deck 307
+player 306 current hand : 411 988 163 499 267 991 659 80 180 608 255 44 73 692 415 290 797 55 981 204 
+player 306 draws a 319 from deck 306
+player 306 discards a 411 to deck 307
+player 306 current hand : 988 163 499 267 991 659 80 180 608 255 44 73 692 415 290 797 55 981 204 319 
+player 306 draws a 740 from deck 306
+player 306 discards a 988 to deck 307
+player 306 current hand : 163 499 267 991 659 80 180 608 255 44 73 692 415 290 797 55 981 204 319 740 
+player 306 draws a 33 from deck 306
+player 306 discards a 163 to deck 307
+player 306 current hand : 499 267 991 659 80 180 608 255 44 73 692 415 290 797 55 981 204 319 740 33 
+player 306 draws a 483 from deck 306
+player 306 discards a 499 to deck 307
+player 306 current hand : 267 991 659 80 180 608 255 44 73 692 415 290 797 55 981 204 319 740 33 483 
+player 306 draws a 508 from deck 306
+player 306 discards a 267 to deck 307
+player 306 current hand : 991 659 80 180 608 255 44 73 692 415 290 797 55 981 204 319 740 33 483 508 
+player 306 draws a 797 from deck 306
+player 306 discards a 991 to deck 307
+player 306 current hand : 659 80 180 608 255 44 73 692 415 290 797 55 981 204 319 740 33 483 508 797 
+player 306 draws a 340 from deck 306
+player 306 discards a 659 to deck 307
+player 306 current hand : 80 180 608 255 44 73 692 415 290 797 55 981 204 319 740 33 483 508 797 340 
+player 306 draws a 774 from deck 306
+player 306 discards a 80 to deck 307
+player 306 current hand : 180 608 255 44 73 692 415 290 797 55 981 204 319 740 33 483 508 797 340 774 
+player 306 draws a 307 from deck 306
+player 306 discards a 180 to deck 307
+player 306 current hand : 608 255 44 73 692 415 290 797 55 981 204 319 740 33 483 508 797 340 774 307 
+player 306 draws a 899 from deck 306
+player 306 discards a 608 to deck 307
+player 306 current hand : 255 44 73 692 415 290 797 55 981 204 319 740 33 483 508 797 340 774 307 899 
+player 306 draws a 330 from deck 306
+player 306 discards a 255 to deck 307
+player 306 current hand : 44 73 692 415 290 797 55 981 204 319 740 33 483 508 797 340 774 307 899 330 
+player 306 draws a 898 from deck 306
+player 306 discards a 44 to deck 307
+player 306 current hand : 73 692 415 290 797 55 981 204 319 740 33 483 508 797 340 774 307 899 330 898 
+player 306 draws a 796 from deck 306
+player 306 discards a 73 to deck 307

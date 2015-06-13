@@ -1,0 +1,301 @@
+player 458 initial hand 23 888 18 252 325 164 72 7 111 375 835 332 589 867 499 180 478 495 252 996 
+player 458 draws a 14 from deck 458
+player 458 discards a 23 to deck 459
+player 458 current hand : 888 18 252 325 164 72 7 111 375 835 332 589 867 499 180 478 495 252 996 14 
+player 458 draws a 633 from deck 458
+player 458 discards a 888 to deck 459
+player 458 current hand : 18 252 325 164 72 7 111 375 835 332 589 867 499 180 478 495 252 996 14 633 
+player 458 draws a 299 from deck 458
+player 458 discards a 18 to deck 459
+player 458 current hand : 252 325 164 72 7 111 375 835 332 589 867 499 180 478 495 252 996 14 633 299 
+player 458 draws a 399 from deck 458
+player 458 discards a 252 to deck 459
+player 458 current hand : 325 164 72 7 111 375 835 332 589 867 499 180 478 495 252 996 14 633 299 399 
+player 458 draws a 746 from deck 458
+player 458 discards a 325 to deck 459
+player 458 current hand : 164 72 7 111 375 835 332 589 867 499 180 478 495 252 996 14 633 299 399 746 
+player 458 draws a 354 from deck 458
+player 458 discards a 164 to deck 459
+player 458 current hand : 72 7 111 375 835 332 589 867 499 180 478 495 252 996 14 633 299 399 746 354 
+player 458 draws a 80 from deck 458
+player 458 discards a 72 to deck 459
+player 458 current hand : 7 111 375 835 332 589 867 499 180 478 495 252 996 14 633 299 399 746 354 80 
+player 458 draws a 620 from deck 458
+player 458 discards a 7 to deck 459
+player 458 current hand : 111 375 835 332 589 867 499 180 478 495 252 996 14 633 299 399 746 354 80 620 
+player 458 draws a 609 from deck 458
+player 458 discards a 111 to deck 459
+player 458 current hand : 375 835 332 589 867 499 180 478 495 252 996 14 633 299 399 746 354 80 620 609 
+player 458 draws a 428 from deck 458
+player 458 discards a 375 to deck 459
+player 458 current hand : 835 332 589 867 499 180 478 495 252 996 14 633 299 399 746 354 80 620 609 428 
+player 458 draws a 285 from deck 458
+player 458 discards a 835 to deck 459
+player 458 current hand : 332 589 867 499 180 478 495 252 996 14 633 299 399 746 354 80 620 609 428 285 
+player 458 draws a 875 from deck 458
+player 458 discards a 332 to deck 459
+player 458 current hand : 589 867 499 180 478 495 252 996 14 633 299 399 746 354 80 620 609 428 285 875 
+player 458 draws a 485 from deck 458
+player 458 discards a 589 to deck 459
+player 458 current hand : 867 499 180 478 495 252 996 14 633 299 399 746 354 80 620 609 428 285 875 485 
+player 458 draws a 564 from deck 458
+player 458 discards a 867 to deck 459
+player 458 current hand : 499 180 478 495 252 996 14 633 299 399 746 354 80 620 609 428 285 875 485 564 
+player 458 draws a 679 from deck 458
+player 458 discards a 499 to deck 459
+player 458 current hand : 180 478 495 252 996 14 633 299 399 746 354 80 620 609 428 285 875 485 564 679 
+player 458 draws a 554 from deck 458
+player 458 discards a 180 to deck 459
+player 458 current hand : 478 495 252 996 14 633 299 399 746 354 80 620 609 428 285 875 485 564 679 554 
+player 458 draws a 101 from deck 458
+player 458 discards a 478 to deck 459
+player 458 current hand : 495 252 996 14 633 299 399 746 354 80 620 609 428 285 875 485 564 679 554 101 
+player 458 draws a 475 from deck 458
+player 458 discards a 495 to deck 459
+player 458 current hand : 252 996 14 633 299 399 746 354 80 620 609 428 285 875 485 564 679 554 101 475 
+player 458 draws a 765 from deck 458
+player 458 discards a 252 to deck 459
+player 458 current hand : 996 14 633 299 399 746 354 80 620 609 428 285 875 485 564 679 554 101 475 765 
+player 458 draws a 28 from deck 458
+player 458 discards a 996 to deck 459
+player 458 current hand : 14 633 299 399 746 354 80 620 609 428 285 875 485 564 679 554 101 475 765 28 
+player 458 draws a 796 from deck 458
+player 458 discards a 14 to deck 459
+player 458 current hand : 633 299 399 746 354 80 620 609 428 285 875 485 564 679 554 101 475 765 28 796 
+player 458 draws a 349 from deck 458
+player 458 discards a 633 to deck 459
+player 458 current hand : 299 399 746 354 80 620 609 428 285 875 485 564 679 554 101 475 765 28 796 349 
+player 458 draws a 509 from deck 458
+player 458 discards a 299 to deck 459
+player 458 current hand : 399 746 354 80 620 609 428 285 875 485 564 679 554 101 475 765 28 796 349 509 
+player 458 draws a 538 from deck 458
+player 458 discards a 399 to deck 459
+player 458 current hand : 746 354 80 620 609 428 285 875 485 564 679 554 101 475 765 28 796 349 509 538 
+player 458 draws a 426 from deck 458
+player 458 discards a 746 to deck 459
+player 458 current hand : 354 80 620 609 428 285 875 485 564 679 554 101 475 765 28 796 349 509 538 426 
+player 458 draws a 642 from deck 458
+player 458 discards a 354 to deck 459
+player 458 current hand : 80 620 609 428 285 875 485 564 679 554 101 475 765 28 796 349 509 538 426 642 
+player 458 draws a 322 from deck 458
+player 458 discards a 80 to deck 459
+player 458 current hand : 620 609 428 285 875 485 564 679 554 101 475 765 28 796 349 509 538 426 642 322 
+player 458 draws a 86 from deck 458
+player 458 discards a 620 to deck 459
+player 458 current hand : 609 428 285 875 485 564 679 554 101 475 765 28 796 349 509 538 426 642 322 86 
+player 458 draws a 291 from deck 458
+player 458 discards a 609 to deck 459
+player 458 current hand : 428 285 875 485 564 679 554 101 475 765 28 796 349 509 538 426 642 322 86 291 
+player 458 draws a 753 from deck 458
+player 458 discards a 428 to deck 459
+player 458 current hand : 285 875 485 564 679 554 101 475 765 28 796 349 509 538 426 642 322 86 291 753 
+player 458 draws a 338 from deck 458
+player 458 discards a 285 to deck 459
+player 458 current hand : 875 485 564 679 554 101 475 765 28 796 349 509 538 426 642 322 86 291 753 338 
+player 458 draws a 721 from deck 458
+player 458 discards a 875 to deck 459
+player 458 current hand : 485 564 679 554 101 475 765 28 796 349 509 538 426 642 322 86 291 753 338 721 
+player 458 draws a 851 from deck 458
+player 458 discards a 485 to deck 459
+player 458 current hand : 564 679 554 101 475 765 28 796 349 509 538 426 642 322 86 291 753 338 721 851 
+player 458 draws a 515 from deck 458
+player 458 discards a 564 to deck 459
+player 458 current hand : 679 554 101 475 765 28 796 349 509 538 426 642 322 86 291 753 338 721 851 515 
+player 458 draws a 595 from deck 458
+player 458 discards a 679 to deck 459
+player 458 current hand : 554 101 475 765 28 796 349 509 538 426 642 322 86 291 753 338 721 851 515 595 
+player 458 draws a 784 from deck 458
+player 458 discards a 554 to deck 459
+player 458 current hand : 101 475 765 28 796 349 509 538 426 642 322 86 291 753 338 721 851 515 595 784 
+player 458 draws a 848 from deck 458
+player 458 discards a 101 to deck 459
+player 458 current hand : 475 765 28 796 349 509 538 426 642 322 86 291 753 338 721 851 515 595 784 848 
+player 458 draws a 22 from deck 458
+player 458 discards a 475 to deck 459
+player 458 current hand : 765 28 796 349 509 538 426 642 322 86 291 753 338 721 851 515 595 784 848 22 
+player 458 draws a 481 from deck 458
+player 458 discards a 765 to deck 459
+player 458 current hand : 28 796 349 509 538 426 642 322 86 291 753 338 721 851 515 595 784 848 22 481 
+player 458 draws a 744 from deck 458
+player 458 discards a 28 to deck 459
+player 458 current hand : 796 349 509 538 426 642 322 86 291 753 338 721 851 515 595 784 848 22 481 744 
+player 458 draws a 334 from deck 458
+player 458 discards a 796 to deck 459
+player 458 current hand : 349 509 538 426 642 322 86 291 753 338 721 851 515 595 784 848 22 481 744 334 
+player 458 draws a 118 from deck 458
+player 458 discards a 349 to deck 459
+player 458 current hand : 509 538 426 642 322 86 291 753 338 721 851 515 595 784 848 22 481 744 334 118 
+player 458 draws a 744 from deck 458
+player 458 discards a 509 to deck 459
+player 458 current hand : 538 426 642 322 86 291 753 338 721 851 515 595 784 848 22 481 744 334 118 744 
+player 458 draws a 173 from deck 458
+player 458 discards a 538 to deck 459
+player 458 current hand : 426 642 322 86 291 753 338 721 851 515 595 784 848 22 481 744 334 118 744 173 
+player 458 draws a 182 from deck 458
+player 458 discards a 426 to deck 459
+player 458 current hand : 642 322 86 291 753 338 721 851 515 595 784 848 22 481 744 334 118 744 173 182 
+player 458 draws a 258 from deck 458
+player 458 discards a 642 to deck 459
+player 458 current hand : 322 86 291 753 338 721 851 515 595 784 848 22 481 744 334 118 744 173 182 258 
+player 458 draws a 742 from deck 458
+player 458 discards a 322 to deck 459
+player 458 current hand : 86 291 753 338 721 851 515 595 784 848 22 481 744 334 118 744 173 182 258 742 
+player 458 draws a 907 from deck 458
+player 458 discards a 86 to deck 459
+player 458 current hand : 291 753 338 721 851 515 595 784 848 22 481 744 334 118 744 173 182 258 742 907 
+player 458 draws a 714 from deck 458
+player 458 discards a 291 to deck 459
+player 458 current hand : 753 338 721 851 515 595 784 848 22 481 744 334 118 744 173 182 258 742 907 714 
+player 458 draws a 603 from deck 458
+player 458 discards a 753 to deck 459
+player 458 current hand : 338 721 851 515 595 784 848 22 481 744 334 118 744 173 182 258 742 907 714 603 
+player 458 draws a 948 from deck 458
+player 458 discards a 338 to deck 459
+player 458 current hand : 721 851 515 595 784 848 22 481 744 334 118 744 173 182 258 742 907 714 603 948 
+player 458 draws a 510 from deck 458
+player 458 discards a 721 to deck 459
+player 458 current hand : 851 515 595 784 848 22 481 744 334 118 744 173 182 258 742 907 714 603 948 510 
+player 458 draws a 877 from deck 458
+player 458 discards a 851 to deck 459
+player 458 current hand : 515 595 784 848 22 481 744 334 118 744 173 182 258 742 907 714 603 948 510 877 
+player 458 draws a 690 from deck 458
+player 458 discards a 515 to deck 459
+player 458 current hand : 595 784 848 22 481 744 334 118 744 173 182 258 742 907 714 603 948 510 877 690 
+player 458 draws a 411 from deck 458
+player 458 discards a 595 to deck 459
+player 458 current hand : 784 848 22 481 744 334 118 744 173 182 258 742 907 714 603 948 510 877 690 411 
+player 458 draws a 505 from deck 458
+player 458 discards a 784 to deck 459
+player 458 current hand : 848 22 481 744 334 118 744 173 182 258 742 907 714 603 948 510 877 690 411 505 
+player 458 draws a 947 from deck 458
+player 458 discards a 848 to deck 459
+player 458 current hand : 22 481 744 334 118 744 173 182 258 742 907 714 603 948 510 877 690 411 505 947 
+player 458 draws a 456 from deck 458
+player 458 discards a 22 to deck 459
+player 458 current hand : 481 744 334 118 744 173 182 258 742 907 714 603 948 510 877 690 411 505 947 456 
+player 458 draws a 170 from deck 458
+player 458 discards a 481 to deck 459
+player 458 current hand : 744 334 118 744 173 182 258 742 907 714 603 948 510 877 690 411 505 947 456 170 
+player 458 draws a 691 from deck 458
+player 458 discards a 744 to deck 459
+player 458 current hand : 334 118 744 173 182 258 742 907 714 603 948 510 877 690 411 505 947 456 170 691 
+player 458 draws a 384 from deck 458
+player 458 discards a 334 to deck 459
+player 458 current hand : 118 744 173 182 258 742 907 714 603 948 510 877 690 411 505 947 456 170 691 384 
+player 458 draws a 269 from deck 458
+player 458 discards a 118 to deck 459
+player 458 current hand : 744 173 182 258 742 907 714 603 948 510 877 690 411 505 947 456 170 691 384 269 
+player 458 draws a 499 from deck 458
+player 458 discards a 744 to deck 459
+player 458 current hand : 173 182 258 742 907 714 603 948 510 877 690 411 505 947 456 170 691 384 269 499 
+player 458 draws a 897 from deck 458
+player 458 discards a 173 to deck 459
+player 458 current hand : 182 258 742 907 714 603 948 510 877 690 411 505 947 456 170 691 384 269 499 897 
+player 458 draws a 826 from deck 458
+player 458 discards a 182 to deck 459
+player 458 current hand : 258 742 907 714 603 948 510 877 690 411 505 947 456 170 691 384 269 499 897 826 
+player 458 draws a 711 from deck 458
+player 458 discards a 258 to deck 459
+player 458 current hand : 742 907 714 603 948 510 877 690 411 505 947 456 170 691 384 269 499 897 826 711 
+player 458 draws a 83 from deck 458
+player 458 discards a 742 to deck 459
+player 458 current hand : 907 714 603 948 510 877 690 411 505 947 456 170 691 384 269 499 897 826 711 83 
+player 458 draws a 702 from deck 458
+player 458 discards a 907 to deck 459
+player 458 current hand : 714 603 948 510 877 690 411 505 947 456 170 691 384 269 499 897 826 711 83 702 
+player 458 draws a 327 from deck 458
+player 458 discards a 714 to deck 459
+player 458 current hand : 603 948 510 877 690 411 505 947 456 170 691 384 269 499 897 826 711 83 702 327 
+player 458 draws a 612 from deck 458
+player 458 discards a 603 to deck 459
+player 458 current hand : 948 510 877 690 411 505 947 456 170 691 384 269 499 897 826 711 83 702 327 612 
+player 458 draws a 804 from deck 458
+player 458 discards a 948 to deck 459
+player 458 current hand : 510 877 690 411 505 947 456 170 691 384 269 499 897 826 711 83 702 327 612 804 
+player 458 draws a 437 from deck 458
+player 458 discards a 510 to deck 459
+player 458 current hand : 877 690 411 505 947 456 170 691 384 269 499 897 826 711 83 702 327 612 804 437 
+player 458 draws a 608 from deck 458
+player 458 discards a 877 to deck 459
+player 458 current hand : 690 411 505 947 456 170 691 384 269 499 897 826 711 83 702 327 612 804 437 608 
+player 458 draws a 720 from deck 458
+player 458 discards a 690 to deck 459
+player 458 current hand : 411 505 947 456 170 691 384 269 499 897 826 711 83 702 327 612 804 437 608 720 
+player 458 draws a 301 from deck 458
+player 458 discards a 411 to deck 459
+player 458 current hand : 505 947 456 170 691 384 269 499 897 826 711 83 702 327 612 804 437 608 720 301 
+player 458 draws a 314 from deck 458
+player 458 discards a 505 to deck 459
+player 458 current hand : 947 456 170 691 384 269 499 897 826 711 83 702 327 612 804 437 608 720 301 314 
+player 458 draws a 485 from deck 458
+player 458 discards a 947 to deck 459
+player 458 current hand : 456 170 691 384 269 499 897 826 711 83 702 327 612 804 437 608 720 301 314 485 
+player 458 draws a 627 from deck 458
+player 458 discards a 456 to deck 459
+player 458 current hand : 170 691 384 269 499 897 826 711 83 702 327 612 804 437 608 720 301 314 485 627 
+player 458 draws a 80 from deck 458
+player 458 discards a 170 to deck 459
+player 458 current hand : 691 384 269 499 897 826 711 83 702 327 612 804 437 608 720 301 314 485 627 80 
+player 458 draws a 686 from deck 458
+player 458 discards a 691 to deck 459
+player 458 current hand : 384 269 499 897 826 711 83 702 327 612 804 437 608 720 301 314 485 627 80 686 
+player 458 draws a 51 from deck 458
+player 458 discards a 384 to deck 459
+player 458 current hand : 269 499 897 826 711 83 702 327 612 804 437 608 720 301 314 485 627 80 686 51 
+player 458 draws a 853 from deck 458
+player 458 discards a 269 to deck 459
+player 458 current hand : 499 897 826 711 83 702 327 612 804 437 608 720 301 314 485 627 80 686 51 853 
+player 458 draws a 422 from deck 458
+player 458 discards a 499 to deck 459
+player 458 current hand : 897 826 711 83 702 327 612 804 437 608 720 301 314 485 627 80 686 51 853 422 
+player 458 draws a 699 from deck 458
+player 458 discards a 897 to deck 459
+player 458 current hand : 826 711 83 702 327 612 804 437 608 720 301 314 485 627 80 686 51 853 422 699 
+player 458 draws a 729 from deck 458
+player 458 discards a 826 to deck 459
+player 458 current hand : 711 83 702 327 612 804 437 608 720 301 314 485 627 80 686 51 853 422 699 729 
+player 458 draws a 378 from deck 458
+player 458 discards a 711 to deck 459
+player 458 current hand : 83 702 327 612 804 437 608 720 301 314 485 627 80 686 51 853 422 699 729 378 
+player 458 draws a 463 from deck 458
+player 458 discards a 83 to deck 459
+player 458 current hand : 702 327 612 804 437 608 720 301 314 485 627 80 686 51 853 422 699 729 378 463 
+player 458 draws a 833 from deck 458
+player 458 discards a 702 to deck 459
+player 458 current hand : 327 612 804 437 608 720 301 314 485 627 80 686 51 853 422 699 729 378 463 833 
+player 458 draws a 532 from deck 458
+player 458 discards a 327 to deck 459
+player 458 current hand : 612 804 437 608 720 301 314 485 627 80 686 51 853 422 699 729 378 463 833 532 
+player 458 draws a 763 from deck 458
+player 458 discards a 612 to deck 459
+player 458 current hand : 804 437 608 720 301 314 485 627 80 686 51 853 422 699 729 378 463 833 532 763 
+player 458 draws a 410 from deck 458
+player 458 discards a 804 to deck 459
+player 458 current hand : 437 608 720 301 314 485 627 80 686 51 853 422 699 729 378 463 833 532 763 410 
+player 458 draws a 633 from deck 458
+player 458 discards a 437 to deck 459
+player 458 current hand : 608 720 301 314 485 627 80 686 51 853 422 699 729 378 463 833 532 763 410 633 
+player 458 draws a 991 from deck 458
+player 458 discards a 608 to deck 459
+player 458 current hand : 720 301 314 485 627 80 686 51 853 422 699 729 378 463 833 532 763 410 633 991 
+player 458 draws a 36 from deck 458
+player 458 discards a 720 to deck 459
+player 458 current hand : 301 314 485 627 80 686 51 853 422 699 729 378 463 833 532 763 410 633 991 36 
+player 458 draws a 913 from deck 458
+player 458 discards a 301 to deck 459
+player 458 current hand : 314 485 627 80 686 51 853 422 699 729 378 463 833 532 763 410 633 991 36 913 
+player 458 draws a 201 from deck 458
+player 458 discards a 314 to deck 459
+player 458 current hand : 485 627 80 686 51 853 422 699 729 378 463 833 532 763 410 633 991 36 913 201 
+player 458 draws a 670 from deck 458
+player 458 discards a 485 to deck 459
+player 458 current hand : 627 80 686 51 853 422 699 729 378 463 833 532 763 410 633 991 36 913 201 670 
+player 458 draws a 376 from deck 458
+player 458 discards a 627 to deck 459
+player 458 current hand : 80 686 51 853 422 699 729 378 463 833 532 763 410 633 991 36 913 201 670 376 
+player 458 draws a 944 from deck 458
+player 458 discards a 80 to deck 459
+player 458 current hand : 686 51 853 422 699 729 378 463 833 532 763 410 633 991 36 913 201 670 376 944 
+player 458 draws a 906 from deck 458
+player 458 discards a 686 to deck 459
+player 458 current hand : 51 853 422 699 729 378 463 833 532 763 410 633 991 36 913 201 670 376 944 906 

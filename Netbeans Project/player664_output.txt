@@ -1,0 +1,336 @@
+player 664 initial hand 546 457 717 333 926 920 170 460 287 146 333 242 919 994 691 315 243 62 639 358 
+player 664 draws a 285 from deck 664
+player 664 discards a 546 to deck 665
+player 664 current hand : 457 717 333 926 920 170 460 287 146 333 242 919 994 691 315 243 62 639 358 285 
+player 664 draws a 342 from deck 664
+player 664 discards a 457 to deck 665
+player 664 current hand : 717 333 926 920 170 460 287 146 333 242 919 994 691 315 243 62 639 358 285 342 
+player 664 draws a 971 from deck 664
+player 664 discards a 717 to deck 665
+player 664 current hand : 333 926 920 170 460 287 146 333 242 919 994 691 315 243 62 639 358 285 342 971 
+player 664 draws a 89 from deck 664
+player 664 discards a 333 to deck 665
+player 664 current hand : 926 920 170 460 287 146 333 242 919 994 691 315 243 62 639 358 285 342 971 89 
+player 664 draws a 111 from deck 664
+player 664 discards a 926 to deck 665
+player 664 current hand : 920 170 460 287 146 333 242 919 994 691 315 243 62 639 358 285 342 971 89 111 
+player 664 draws a 66 from deck 664
+player 664 discards a 920 to deck 665
+player 664 current hand : 170 460 287 146 333 242 919 994 691 315 243 62 639 358 285 342 971 89 111 66 
+player 664 draws a 361 from deck 664
+player 664 discards a 170 to deck 665
+player 664 current hand : 460 287 146 333 242 919 994 691 315 243 62 639 358 285 342 971 89 111 66 361 
+player 664 draws a 466 from deck 664
+player 664 discards a 460 to deck 665
+player 664 current hand : 287 146 333 242 919 994 691 315 243 62 639 358 285 342 971 89 111 66 361 466 
+player 664 draws a 561 from deck 664
+player 664 discards a 287 to deck 665
+player 664 current hand : 146 333 242 919 994 691 315 243 62 639 358 285 342 971 89 111 66 361 466 561 
+player 664 draws a 392 from deck 664
+player 664 discards a 146 to deck 665
+player 664 current hand : 333 242 919 994 691 315 243 62 639 358 285 342 971 89 111 66 361 466 561 392 
+player 664 draws a 589 from deck 664
+player 664 discards a 333 to deck 665
+player 664 current hand : 242 919 994 691 315 243 62 639 358 285 342 971 89 111 66 361 466 561 392 589 
+player 664 draws a 748 from deck 664
+player 664 discards a 242 to deck 665
+player 664 current hand : 919 994 691 315 243 62 639 358 285 342 971 89 111 66 361 466 561 392 589 748 
+player 664 draws a 186 from deck 664
+player 664 discards a 919 to deck 665
+player 664 current hand : 994 691 315 243 62 639 358 285 342 971 89 111 66 361 466 561 392 589 748 186 
+player 664 draws a 204 from deck 664
+player 664 discards a 994 to deck 665
+player 664 current hand : 691 315 243 62 639 358 285 342 971 89 111 66 361 466 561 392 589 748 186 204 
+player 664 draws a 354 from deck 664
+player 664 discards a 691 to deck 665
+player 664 current hand : 315 243 62 639 358 285 342 971 89 111 66 361 466 561 392 589 748 186 204 354 
+player 664 draws a 28 from deck 664
+player 664 discards a 315 to deck 665
+player 664 current hand : 243 62 639 358 285 342 971 89 111 66 361 466 561 392 589 748 186 204 354 28 
+player 664 draws a 596 from deck 664
+player 664 discards a 243 to deck 665
+player 664 current hand : 62 639 358 285 342 971 89 111 66 361 466 561 392 589 748 186 204 354 28 596 
+player 664 draws a 867 from deck 664
+player 664 discards a 62 to deck 665
+player 664 current hand : 639 358 285 342 971 89 111 66 361 466 561 392 589 748 186 204 354 28 596 867 
+player 664 draws a 994 from deck 664
+player 664 discards a 639 to deck 665
+player 664 current hand : 358 285 342 971 89 111 66 361 466 561 392 589 748 186 204 354 28 596 867 994 
+player 664 draws a 683 from deck 664
+player 664 discards a 358 to deck 665
+player 664 current hand : 285 342 971 89 111 66 361 466 561 392 589 748 186 204 354 28 596 867 994 683 
+player 664 draws a 921 from deck 664
+player 664 discards a 285 to deck 665
+player 664 current hand : 342 971 89 111 66 361 466 561 392 589 748 186 204 354 28 596 867 994 683 921 
+player 664 draws a 699 from deck 664
+player 664 discards a 342 to deck 665
+player 664 current hand : 971 89 111 66 361 466 561 392 589 748 186 204 354 28 596 867 994 683 921 699 
+player 664 draws a 964 from deck 664
+player 664 discards a 971 to deck 665
+player 664 current hand : 89 111 66 361 466 561 392 589 748 186 204 354 28 596 867 994 683 921 699 964 
+player 664 draws a 509 from deck 664
+player 664 discards a 89 to deck 665
+player 664 current hand : 111 66 361 466 561 392 589 748 186 204 354 28 596 867 994 683 921 699 964 509 
+player 664 draws a 837 from deck 664
+player 664 discards a 111 to deck 665
+player 664 current hand : 66 361 466 561 392 589 748 186 204 354 28 596 867 994 683 921 699 964 509 837 
+player 664 draws a 81 from deck 664
+player 664 discards a 66 to deck 665
+player 664 current hand : 361 466 561 392 589 748 186 204 354 28 596 867 994 683 921 699 964 509 837 81 
+player 664 draws a 825 from deck 664
+player 664 discards a 361 to deck 665
+player 664 current hand : 466 561 392 589 748 186 204 354 28 596 867 994 683 921 699 964 509 837 81 825 
+player 664 draws a 855 from deck 664
+player 664 discards a 466 to deck 665
+player 664 current hand : 561 392 589 748 186 204 354 28 596 867 994 683 921 699 964 509 837 81 825 855 
+player 664 draws a 635 from deck 664
+player 664 discards a 561 to deck 665
+player 664 current hand : 392 589 748 186 204 354 28 596 867 994 683 921 699 964 509 837 81 825 855 635 
+player 664 draws a 49 from deck 664
+player 664 discards a 392 to deck 665
+player 664 current hand : 589 748 186 204 354 28 596 867 994 683 921 699 964 509 837 81 825 855 635 49 
+player 664 draws a 976 from deck 664
+player 664 discards a 589 to deck 665
+player 664 current hand : 748 186 204 354 28 596 867 994 683 921 699 964 509 837 81 825 855 635 49 976 
+player 664 draws a 926 from deck 664
+player 664 discards a 748 to deck 665
+player 664 current hand : 186 204 354 28 596 867 994 683 921 699 964 509 837 81 825 855 635 49 976 926 
+player 664 draws a 860 from deck 664
+player 664 discards a 186 to deck 665
+player 664 current hand : 204 354 28 596 867 994 683 921 699 964 509 837 81 825 855 635 49 976 926 860 
+player 664 draws a 308 from deck 664
+player 664 discards a 204 to deck 665
+player 664 current hand : 354 28 596 867 994 683 921 699 964 509 837 81 825 855 635 49 976 926 860 308 
+player 664 draws a 293 from deck 664
+player 664 discards a 354 to deck 665
+player 664 current hand : 28 596 867 994 683 921 699 964 509 837 81 825 855 635 49 976 926 860 308 293 
+player 664 draws a 784 from deck 664
+player 664 discards a 28 to deck 665
+player 664 current hand : 596 867 994 683 921 699 964 509 837 81 825 855 635 49 976 926 860 308 293 784 
+player 664 draws a 399 from deck 664
+player 664 discards a 596 to deck 665
+player 664 current hand : 867 994 683 921 699 964 509 837 81 825 855 635 49 976 926 860 308 293 784 399 
+player 664 draws a 714 from deck 664
+player 664 discards a 867 to deck 665
+player 664 current hand : 994 683 921 699 964 509 837 81 825 855 635 49 976 926 860 308 293 784 399 714 
+player 664 draws a 667 from deck 664
+player 664 discards a 994 to deck 665
+player 664 current hand : 683 921 699 964 509 837 81 825 855 635 49 976 926 860 308 293 784 399 714 667 
+player 664 draws a 305 from deck 664
+player 664 discards a 683 to deck 665
+player 664 current hand : 921 699 964 509 837 81 825 855 635 49 976 926 860 308 293 784 399 714 667 305 
+player 664 draws a 709 from deck 664
+player 664 discards a 921 to deck 665
+player 664 current hand : 699 964 509 837 81 825 855 635 49 976 926 860 308 293 784 399 714 667 305 709 
+player 664 draws a 45 from deck 664
+player 664 discards a 699 to deck 665
+player 664 current hand : 964 509 837 81 825 855 635 49 976 926 860 308 293 784 399 714 667 305 709 45 
+player 664 draws a 938 from deck 664
+player 664 discards a 964 to deck 665
+player 664 current hand : 509 837 81 825 855 635 49 976 926 860 308 293 784 399 714 667 305 709 45 938 
+player 664 draws a 966 from deck 664
+player 664 discards a 509 to deck 665
+player 664 current hand : 837 81 825 855 635 49 976 926 860 308 293 784 399 714 667 305 709 45 938 966 
+player 664 draws a 576 from deck 664
+player 664 discards a 837 to deck 665
+player 664 current hand : 81 825 855 635 49 976 926 860 308 293 784 399 714 667 305 709 45 938 966 576 
+player 664 draws a 720 from deck 664
+player 664 discards a 81 to deck 665
+player 664 current hand : 825 855 635 49 976 926 860 308 293 784 399 714 667 305 709 45 938 966 576 720 
+player 664 draws a 820 from deck 664
+player 664 discards a 825 to deck 665
+player 664 current hand : 855 635 49 976 926 860 308 293 784 399 714 667 305 709 45 938 966 576 720 820 
+player 664 draws a 508 from deck 664
+player 664 discards a 855 to deck 665
+player 664 current hand : 635 49 976 926 860 308 293 784 399 714 667 305 709 45 938 966 576 720 820 508 
+player 664 draws a 239 from deck 664
+player 664 discards a 635 to deck 665
+player 664 current hand : 49 976 926 860 308 293 784 399 714 667 305 709 45 938 966 576 720 820 508 239 
+player 664 draws a 105 from deck 664
+player 664 discards a 49 to deck 665
+player 664 current hand : 976 926 860 308 293 784 399 714 667 305 709 45 938 966 576 720 820 508 239 105 
+player 664 draws a 816 from deck 664
+player 664 discards a 976 to deck 665
+player 664 current hand : 926 860 308 293 784 399 714 667 305 709 45 938 966 576 720 820 508 239 105 816 
+player 664 draws a 612 from deck 664
+player 664 discards a 926 to deck 665
+player 664 current hand : 860 308 293 784 399 714 667 305 709 45 938 966 576 720 820 508 239 105 816 612 
+player 664 draws a 631 from deck 664
+player 664 discards a 860 to deck 665
+player 664 current hand : 308 293 784 399 714 667 305 709 45 938 966 576 720 820 508 239 105 816 612 631 
+player 664 draws a 60 from deck 664
+player 664 discards a 308 to deck 665
+player 664 current hand : 293 784 399 714 667 305 709 45 938 966 576 720 820 508 239 105 816 612 631 60 
+player 664 draws a 886 from deck 664
+player 664 discards a 293 to deck 665
+player 664 current hand : 784 399 714 667 305 709 45 938 966 576 720 820 508 239 105 816 612 631 60 886 
+player 664 draws a 886 from deck 664
+player 664 discards a 784 to deck 665
+player 664 current hand : 399 714 667 305 709 45 938 966 576 720 820 508 239 105 816 612 631 60 886 886 
+player 664 draws a 403 from deck 664
+player 664 discards a 399 to deck 665
+player 664 current hand : 714 667 305 709 45 938 966 576 720 820 508 239 105 816 612 631 60 886 886 403 
+player 664 draws a 301 from deck 664
+player 664 discards a 714 to deck 665
+player 664 current hand : 667 305 709 45 938 966 576 720 820 508 239 105 816 612 631 60 886 886 403 301 
+player 664 draws a 802 from deck 664
+player 664 discards a 667 to deck 665
+player 664 current hand : 305 709 45 938 966 576 720 820 508 239 105 816 612 631 60 886 886 403 301 802 
+player 664 draws a 121 from deck 664
+player 664 discards a 305 to deck 665
+player 664 current hand : 709 45 938 966 576 720 820 508 239 105 816 612 631 60 886 886 403 301 802 121 
+player 664 draws a 204 from deck 664
+player 664 discards a 709 to deck 665
+player 664 current hand : 45 938 966 576 720 820 508 239 105 816 612 631 60 886 886 403 301 802 121 204 
+player 664 draws a 384 from deck 664
+player 664 discards a 45 to deck 665
+player 664 current hand : 938 966 576 720 820 508 239 105 816 612 631 60 886 886 403 301 802 121 204 384 
+player 664 draws a 120 from deck 664
+player 664 discards a 938 to deck 665
+player 664 current hand : 966 576 720 820 508 239 105 816 612 631 60 886 886 403 301 802 121 204 384 120 
+player 664 draws a 196 from deck 664
+player 664 discards a 966 to deck 665
+player 664 current hand : 576 720 820 508 239 105 816 612 631 60 886 886 403 301 802 121 204 384 120 196 
+player 664 draws a 861 from deck 664
+player 664 discards a 576 to deck 665
+player 664 current hand : 720 820 508 239 105 816 612 631 60 886 886 403 301 802 121 204 384 120 196 861 
+player 664 draws a 754 from deck 664
+player 664 discards a 720 to deck 665
+player 664 current hand : 820 508 239 105 816 612 631 60 886 886 403 301 802 121 204 384 120 196 861 754 
+player 664 draws a 255 from deck 664
+player 664 discards a 820 to deck 665
+player 664 current hand : 508 239 105 816 612 631 60 886 886 403 301 802 121 204 384 120 196 861 754 255 
+player 664 draws a 112 from deck 664
+player 664 discards a 508 to deck 665
+player 664 current hand : 239 105 816 612 631 60 886 886 403 301 802 121 204 384 120 196 861 754 255 112 
+player 664 draws a 824 from deck 664
+player 664 discards a 239 to deck 665
+player 664 current hand : 105 816 612 631 60 886 886 403 301 802 121 204 384 120 196 861 754 255 112 824 
+player 664 draws a 530 from deck 664
+player 664 discards a 105 to deck 665
+player 664 current hand : 816 612 631 60 886 886 403 301 802 121 204 384 120 196 861 754 255 112 824 530 
+player 664 draws a 456 from deck 664
+player 664 discards a 816 to deck 665
+player 664 current hand : 612 631 60 886 886 403 301 802 121 204 384 120 196 861 754 255 112 824 530 456 
+player 664 draws a 808 from deck 664
+player 664 discards a 612 to deck 665
+player 664 current hand : 631 60 886 886 403 301 802 121 204 384 120 196 861 754 255 112 824 530 456 808 
+player 664 draws a 180 from deck 664
+player 664 discards a 631 to deck 665
+player 664 current hand : 60 886 886 403 301 802 121 204 384 120 196 861 754 255 112 824 530 456 808 180 
+player 664 draws a 343 from deck 664
+player 664 discards a 60 to deck 665
+player 664 current hand : 886 886 403 301 802 121 204 384 120 196 861 754 255 112 824 530 456 808 180 343 
+player 664 draws a 825 from deck 664
+player 664 discards a 886 to deck 665
+player 664 current hand : 886 403 301 802 121 204 384 120 196 861 754 255 112 824 530 456 808 180 343 825 
+player 664 draws a 774 from deck 664
+player 664 discards a 886 to deck 665
+player 664 current hand : 403 301 802 121 204 384 120 196 861 754 255 112 824 530 456 808 180 343 825 774 
+player 664 draws a 74 from deck 664
+player 664 discards a 403 to deck 665
+player 664 current hand : 301 802 121 204 384 120 196 861 754 255 112 824 530 456 808 180 343 825 774 74 
+player 664 draws a 702 from deck 664
+player 664 discards a 301 to deck 665
+player 664 current hand : 802 121 204 384 120 196 861 754 255 112 824 530 456 808 180 343 825 774 74 702 
+player 664 draws a 838 from deck 664
+player 664 discards a 802 to deck 665
+player 664 current hand : 121 204 384 120 196 861 754 255 112 824 530 456 808 180 343 825 774 74 702 838 
+player 664 draws a 577 from deck 664
+player 664 discards a 121 to deck 665
+player 664 current hand : 204 384 120 196 861 754 255 112 824 530 456 808 180 343 825 774 74 702 838 577 
+player 664 draws a 718 from deck 664
+player 664 discards a 204 to deck 665
+player 664 current hand : 384 120 196 861 754 255 112 824 530 456 808 180 343 825 774 74 702 838 577 718 
+player 664 draws a 765 from deck 664
+player 664 discards a 384 to deck 665
+player 664 current hand : 120 196 861 754 255 112 824 530 456 808 180 343 825 774 74 702 838 577 718 765 
+player 664 draws a 43 from deck 664
+player 664 discards a 120 to deck 665
+player 664 current hand : 196 861 754 255 112 824 530 456 808 180 343 825 774 74 702 838 577 718 765 43 
+player 664 draws a 587 from deck 664
+player 664 discards a 196 to deck 665
+player 664 current hand : 861 754 255 112 824 530 456 808 180 343 825 774 74 702 838 577 718 765 43 587 
+player 664 draws a 614 from deck 664
+player 664 discards a 861 to deck 665
+player 664 current hand : 754 255 112 824 530 456 808 180 343 825 774 74 702 838 577 718 765 43 587 614 
+player 664 draws a 297 from deck 664
+player 664 discards a 754 to deck 665
+player 664 current hand : 255 112 824 530 456 808 180 343 825 774 74 702 838 577 718 765 43 587 614 297 
+player 664 draws a 258 from deck 664
+player 664 discards a 255 to deck 665
+player 664 current hand : 112 824 530 456 808 180 343 825 774 74 702 838 577 718 765 43 587 614 297 258 
+player 664 draws a 933 from deck 664
+player 664 discards a 112 to deck 665
+player 664 current hand : 824 530 456 808 180 343 825 774 74 702 838 577 718 765 43 587 614 297 258 933 
+player 664 draws a 522 from deck 664
+player 664 discards a 824 to deck 665
+player 664 current hand : 530 456 808 180 343 825 774 74 702 838 577 718 765 43 587 614 297 258 933 522 
+player 664 draws a 173 from deck 664
+player 664 discards a 530 to deck 665
+player 664 current hand : 456 808 180 343 825 774 74 702 838 577 718 765 43 587 614 297 258 933 522 173 
+player 664 draws a 260 from deck 664
+player 664 discards a 456 to deck 665
+player 664 current hand : 808 180 343 825 774 74 702 838 577 718 765 43 587 614 297 258 933 522 173 260 
+player 664 draws a 835 from deck 664
+player 664 discards a 808 to deck 665
+player 664 current hand : 180 343 825 774 74 702 838 577 718 765 43 587 614 297 258 933 522 173 260 835 
+player 664 draws a 945 from deck 664
+player 664 discards a 180 to deck 665
+player 664 current hand : 343 825 774 74 702 838 577 718 765 43 587 614 297 258 933 522 173 260 835 945 
+player 664 draws a 501 from deck 664
+player 664 discards a 343 to deck 665
+player 664 current hand : 825 774 74 702 838 577 718 765 43 587 614 297 258 933 522 173 260 835 945 501 
+player 664 draws a 612 from deck 664
+player 664 discards a 825 to deck 665
+player 664 current hand : 774 74 702 838 577 718 765 43 587 614 297 258 933 522 173 260 835 945 501 612 
+player 664 draws a 224 from deck 664
+player 664 discards a 774 to deck 665
+player 664 current hand : 74 702 838 577 718 765 43 587 614 297 258 933 522 173 260 835 945 501 612 224 
+player 664 draws a 612 from deck 664
+player 664 discards a 74 to deck 665
+player 664 current hand : 702 838 577 718 765 43 587 614 297 258 933 522 173 260 835 945 501 612 224 612 
+player 664 draws a 432 from deck 664
+player 664 discards a 702 to deck 665
+player 664 current hand : 838 577 718 765 43 587 614 297 258 933 522 173 260 835 945 501 612 224 612 432 
+player 664 draws a 15 from deck 664
+player 664 discards a 838 to deck 665
+player 664 current hand : 577 718 765 43 587 614 297 258 933 522 173 260 835 945 501 612 224 612 432 15 
+player 664 draws a 502 from deck 664
+player 664 discards a 577 to deck 665
+player 664 current hand : 718 765 43 587 614 297 258 933 522 173 260 835 945 501 612 224 612 432 15 502 
+player 664 draws a 168 from deck 664
+player 664 discards a 718 to deck 665
+player 664 current hand : 765 43 587 614 297 258 933 522 173 260 835 945 501 612 224 612 432 15 502 168 
+player 664 draws a 589 from deck 664
+player 664 discards a 765 to deck 665
+player 664 current hand : 43 587 614 297 258 933 522 173 260 835 945 501 612 224 612 432 15 502 168 589 
+player 664 draws a 732 from deck 664
+player 664 discards a 43 to deck 665
+player 664 current hand : 587 614 297 258 933 522 173 260 835 945 501 612 224 612 432 15 502 168 589 732 
+player 664 draws a 153 from deck 664
+player 664 discards a 587 to deck 665
+player 664 current hand : 614 297 258 933 522 173 260 835 945 501 612 224 612 432 15 502 168 589 732 153 
+player 664 draws a 933 from deck 664
+player 664 discards a 614 to deck 665
+player 664 current hand : 297 258 933 522 173 260 835 945 501 612 224 612 432 15 502 168 589 732 153 933 
+player 664 draws a 554 from deck 664
+player 664 discards a 297 to deck 665
+player 664 current hand : 258 933 522 173 260 835 945 501 612 224 612 432 15 502 168 589 732 153 933 554 
+player 664 draws a 121 from deck 664
+player 664 discards a 258 to deck 665
+player 664 current hand : 933 522 173 260 835 945 501 612 224 612 432 15 502 168 589 732 153 933 554 121 
+player 664 draws a 81 from deck 664
+player 664 discards a 933 to deck 665
+player 664 current hand : 522 173 260 835 945 501 612 224 612 432 15 502 168 589 732 153 933 554 121 81 
+player 664 draws a 591 from deck 664
+player 664 discards a 522 to deck 665
+player 664 current hand : 173 260 835 945 501 612 224 612 432 15 502 168 589 732 153 933 554 121 81 591 
+player 664 draws a 901 from deck 664
+player 664 discards a 173 to deck 665
+player 664 current hand : 260 835 945 501 612 224 612 432 15 502 168 589 732 153 933 554 121 81 591 901 
+player 664 draws a 255 from deck 664
+player 664 discards a 260 to deck 665
+player 664 current hand : 835 945 501 612 224 612 432 15 502 168 589 732 153 933 554 121 81 591 901 255 
+player 664 draws a 341 from deck 664
+player 664 discards a 835 to deck 665

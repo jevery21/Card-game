@@ -1,0 +1,298 @@
+player 512 initial hand 798 369 45 229 729 642 109 210 692 287 721 778 406 778 732 189 675 907 537 920 
+player 512 draws a 185 from deck 512
+player 512 discards a 798 to deck 513
+player 512 current hand : 369 45 229 729 642 109 210 692 287 721 778 406 778 732 189 675 907 537 920 185 
+player 512 draws a 839 from deck 512
+player 512 discards a 369 to deck 513
+player 512 current hand : 45 229 729 642 109 210 692 287 721 778 406 778 732 189 675 907 537 920 185 839 
+player 512 draws a 647 from deck 512
+player 512 discards a 45 to deck 513
+player 512 current hand : 229 729 642 109 210 692 287 721 778 406 778 732 189 675 907 537 920 185 839 647 
+player 512 draws a 709 from deck 512
+player 512 discards a 229 to deck 513
+player 512 current hand : 729 642 109 210 692 287 721 778 406 778 732 189 675 907 537 920 185 839 647 709 
+player 512 draws a 654 from deck 512
+player 512 discards a 729 to deck 513
+player 512 current hand : 642 109 210 692 287 721 778 406 778 732 189 675 907 537 920 185 839 647 709 654 
+player 512 draws a 453 from deck 512
+player 512 discards a 642 to deck 513
+player 512 current hand : 109 210 692 287 721 778 406 778 732 189 675 907 537 920 185 839 647 709 654 453 
+player 512 draws a 287 from deck 512
+player 512 discards a 109 to deck 513
+player 512 current hand : 210 692 287 721 778 406 778 732 189 675 907 537 920 185 839 647 709 654 453 287 
+player 512 draws a 426 from deck 512
+player 512 discards a 210 to deck 513
+player 512 current hand : 692 287 721 778 406 778 732 189 675 907 537 920 185 839 647 709 654 453 287 426 
+player 512 draws a 89 from deck 512
+player 512 discards a 692 to deck 513
+player 512 current hand : 287 721 778 406 778 732 189 675 907 537 920 185 839 647 709 654 453 287 426 89 
+player 512 draws a 255 from deck 512
+player 512 discards a 287 to deck 513
+player 512 current hand : 721 778 406 778 732 189 675 907 537 920 185 839 647 709 654 453 287 426 89 255 
+player 512 draws a 717 from deck 512
+player 512 discards a 721 to deck 513
+player 512 current hand : 778 406 778 732 189 675 907 537 920 185 839 647 709 654 453 287 426 89 255 717 
+player 512 draws a 592 from deck 512
+player 512 discards a 778 to deck 513
+player 512 current hand : 406 778 732 189 675 907 537 920 185 839 647 709 654 453 287 426 89 255 717 592 
+player 512 draws a 263 from deck 512
+player 512 discards a 406 to deck 513
+player 512 current hand : 778 732 189 675 907 537 920 185 839 647 709 654 453 287 426 89 255 717 592 263 
+player 512 draws a 423 from deck 512
+player 512 discards a 778 to deck 513
+player 512 current hand : 732 189 675 907 537 920 185 839 647 709 654 453 287 426 89 255 717 592 263 423 
+player 512 draws a 651 from deck 512
+player 512 discards a 732 to deck 513
+player 512 current hand : 189 675 907 537 920 185 839 647 709 654 453 287 426 89 255 717 592 263 423 651 
+player 512 draws a 555 from deck 512
+player 512 discards a 189 to deck 513
+player 512 current hand : 675 907 537 920 185 839 647 709 654 453 287 426 89 255 717 592 263 423 651 555 
+player 512 draws a 159 from deck 512
+player 512 discards a 675 to deck 513
+player 512 current hand : 907 537 920 185 839 647 709 654 453 287 426 89 255 717 592 263 423 651 555 159 
+player 512 draws a 950 from deck 512
+player 512 discards a 907 to deck 513
+player 512 current hand : 537 920 185 839 647 709 654 453 287 426 89 255 717 592 263 423 651 555 159 950 
+player 512 draws a 581 from deck 512
+player 512 discards a 537 to deck 513
+player 512 current hand : 920 185 839 647 709 654 453 287 426 89 255 717 592 263 423 651 555 159 950 581 
+player 512 draws a 593 from deck 512
+player 512 discards a 920 to deck 513
+player 512 current hand : 185 839 647 709 654 453 287 426 89 255 717 592 263 423 651 555 159 950 581 593 
+player 512 draws a 33 from deck 512
+player 512 discards a 185 to deck 513
+player 512 current hand : 839 647 709 654 453 287 426 89 255 717 592 263 423 651 555 159 950 581 593 33 
+player 512 draws a 105 from deck 512
+player 512 discards a 839 to deck 513
+player 512 current hand : 647 709 654 453 287 426 89 255 717 592 263 423 651 555 159 950 581 593 33 105 
+player 512 draws a 676 from deck 512
+player 512 discards a 647 to deck 513
+player 512 current hand : 709 654 453 287 426 89 255 717 592 263 423 651 555 159 950 581 593 33 105 676 
+player 512 draws a 72 from deck 512
+player 512 discards a 709 to deck 513
+player 512 current hand : 654 453 287 426 89 255 717 592 263 423 651 555 159 950 581 593 33 105 676 72 
+player 512 draws a 743 from deck 512
+player 512 discards a 654 to deck 513
+player 512 current hand : 453 287 426 89 255 717 592 263 423 651 555 159 950 581 593 33 105 676 72 743 
+player 512 draws a 391 from deck 512
+player 512 discards a 453 to deck 513
+player 512 current hand : 287 426 89 255 717 592 263 423 651 555 159 950 581 593 33 105 676 72 743 391 
+player 512 draws a 473 from deck 512
+player 512 discards a 287 to deck 513
+player 512 current hand : 426 89 255 717 592 263 423 651 555 159 950 581 593 33 105 676 72 743 391 473 
+player 512 draws a 814 from deck 512
+player 512 discards a 426 to deck 513
+player 512 current hand : 89 255 717 592 263 423 651 555 159 950 581 593 33 105 676 72 743 391 473 814 
+player 512 draws a 951 from deck 512
+player 512 discards a 89 to deck 513
+player 512 current hand : 255 717 592 263 423 651 555 159 950 581 593 33 105 676 72 743 391 473 814 951 
+player 512 draws a 549 from deck 512
+player 512 discards a 255 to deck 513
+player 512 current hand : 717 592 263 423 651 555 159 950 581 593 33 105 676 72 743 391 473 814 951 549 
+player 512 draws a 499 from deck 512
+player 512 discards a 717 to deck 513
+player 512 current hand : 592 263 423 651 555 159 950 581 593 33 105 676 72 743 391 473 814 951 549 499 
+player 512 draws a 285 from deck 512
+player 512 discards a 592 to deck 513
+player 512 current hand : 263 423 651 555 159 950 581 593 33 105 676 72 743 391 473 814 951 549 499 285 
+player 512 draws a 865 from deck 512
+player 512 discards a 263 to deck 513
+player 512 current hand : 423 651 555 159 950 581 593 33 105 676 72 743 391 473 814 951 549 499 285 865 
+player 512 draws a 532 from deck 512
+player 512 discards a 423 to deck 513
+player 512 current hand : 651 555 159 950 581 593 33 105 676 72 743 391 473 814 951 549 499 285 865 532 
+player 512 draws a 944 from deck 512
+player 512 discards a 651 to deck 513
+player 512 current hand : 555 159 950 581 593 33 105 676 72 743 391 473 814 951 549 499 285 865 532 944 
+player 512 draws a 920 from deck 512
+player 512 discards a 555 to deck 513
+player 512 current hand : 159 950 581 593 33 105 676 72 743 391 473 814 951 549 499 285 865 532 944 920 
+player 512 draws a 241 from deck 512
+player 512 discards a 159 to deck 513
+player 512 current hand : 950 581 593 33 105 676 72 743 391 473 814 951 549 499 285 865 532 944 920 241 
+player 512 draws a 269 from deck 512
+player 512 discards a 950 to deck 513
+player 512 current hand : 581 593 33 105 676 72 743 391 473 814 951 549 499 285 865 532 944 920 241 269 
+player 512 draws a 69 from deck 512
+player 512 discards a 581 to deck 513
+player 512 current hand : 593 33 105 676 72 743 391 473 814 951 549 499 285 865 532 944 920 241 269 69 
+player 512 draws a 504 from deck 512
+player 512 discards a 593 to deck 513
+player 512 current hand : 33 105 676 72 743 391 473 814 951 549 499 285 865 532 944 920 241 269 69 504 
+player 512 draws a 864 from deck 512
+player 512 discards a 33 to deck 513
+player 512 current hand : 105 676 72 743 391 473 814 951 549 499 285 865 532 944 920 241 269 69 504 864 
+player 512 draws a 948 from deck 512
+player 512 discards a 105 to deck 513
+player 512 current hand : 676 72 743 391 473 814 951 549 499 285 865 532 944 920 241 269 69 504 864 948 
+player 512 draws a 496 from deck 512
+player 512 discards a 676 to deck 513
+player 512 current hand : 72 743 391 473 814 951 549 499 285 865 532 944 920 241 269 69 504 864 948 496 
+player 512 draws a 841 from deck 512
+player 512 discards a 72 to deck 513
+player 512 current hand : 743 391 473 814 951 549 499 285 865 532 944 920 241 269 69 504 864 948 496 841 
+player 512 draws a 62 from deck 512
+player 512 discards a 743 to deck 513
+player 512 current hand : 391 473 814 951 549 499 285 865 532 944 920 241 269 69 504 864 948 496 841 62 
+player 512 draws a 684 from deck 512
+player 512 discards a 391 to deck 513
+player 512 current hand : 473 814 951 549 499 285 865 532 944 920 241 269 69 504 864 948 496 841 62 684 
+player 512 draws a 319 from deck 512
+player 512 discards a 473 to deck 513
+player 512 current hand : 814 951 549 499 285 865 532 944 920 241 269 69 504 864 948 496 841 62 684 319 
+player 512 draws a 875 from deck 512
+player 512 discards a 814 to deck 513
+player 512 current hand : 951 549 499 285 865 532 944 920 241 269 69 504 864 948 496 841 62 684 319 875 
+player 512 draws a 329 from deck 512
+player 512 discards a 951 to deck 513
+player 512 current hand : 549 499 285 865 532 944 920 241 269 69 504 864 948 496 841 62 684 319 875 329 
+player 512 draws a 777 from deck 512
+player 512 discards a 549 to deck 513
+player 512 current hand : 499 285 865 532 944 920 241 269 69 504 864 948 496 841 62 684 319 875 329 777 
+player 512 draws a 680 from deck 512
+player 512 discards a 499 to deck 513
+player 512 current hand : 285 865 532 944 920 241 269 69 504 864 948 496 841 62 684 319 875 329 777 680 
+player 512 draws a 600 from deck 512
+player 512 discards a 285 to deck 513
+player 512 current hand : 865 532 944 920 241 269 69 504 864 948 496 841 62 684 319 875 329 777 680 600 
+player 512 draws a 682 from deck 512
+player 512 discards a 865 to deck 513
+player 512 current hand : 532 944 920 241 269 69 504 864 948 496 841 62 684 319 875 329 777 680 600 682 
+player 512 draws a 928 from deck 512
+player 512 discards a 532 to deck 513
+player 512 current hand : 944 920 241 269 69 504 864 948 496 841 62 684 319 875 329 777 680 600 682 928 
+player 512 draws a 305 from deck 512
+player 512 discards a 944 to deck 513
+player 512 current hand : 920 241 269 69 504 864 948 496 841 62 684 319 875 329 777 680 600 682 928 305 
+player 512 draws a 973 from deck 512
+player 512 discards a 920 to deck 513
+player 512 current hand : 241 269 69 504 864 948 496 841 62 684 319 875 329 777 680 600 682 928 305 973 
+player 512 draws a 272 from deck 512
+player 512 discards a 241 to deck 513
+player 512 current hand : 269 69 504 864 948 496 841 62 684 319 875 329 777 680 600 682 928 305 973 272 
+player 512 draws a 636 from deck 512
+player 512 discards a 269 to deck 513
+player 512 current hand : 69 504 864 948 496 841 62 684 319 875 329 777 680 600 682 928 305 973 272 636 
+player 512 draws a 5 from deck 512
+player 512 discards a 69 to deck 513
+player 512 current hand : 504 864 948 496 841 62 684 319 875 329 777 680 600 682 928 305 973 272 636 5 
+player 512 draws a 9 from deck 512
+player 512 discards a 504 to deck 513
+player 512 current hand : 864 948 496 841 62 684 319 875 329 777 680 600 682 928 305 973 272 636 5 9 
+player 512 draws a 242 from deck 512
+player 512 discards a 864 to deck 513
+player 512 current hand : 948 496 841 62 684 319 875 329 777 680 600 682 928 305 973 272 636 5 9 242 
+player 512 draws a 753 from deck 512
+player 512 discards a 948 to deck 513
+player 512 current hand : 496 841 62 684 319 875 329 777 680 600 682 928 305 973 272 636 5 9 242 753 
+player 512 draws a 777 from deck 512
+player 512 discards a 496 to deck 513
+player 512 current hand : 841 62 684 319 875 329 777 680 600 682 928 305 973 272 636 5 9 242 753 777 
+player 512 draws a 308 from deck 512
+player 512 discards a 841 to deck 513
+player 512 current hand : 62 684 319 875 329 777 680 600 682 928 305 973 272 636 5 9 242 753 777 308 
+player 512 draws a 915 from deck 512
+player 512 discards a 62 to deck 513
+player 512 current hand : 684 319 875 329 777 680 600 682 928 305 973 272 636 5 9 242 753 777 308 915 
+player 512 draws a 83 from deck 512
+player 512 discards a 684 to deck 513
+player 512 current hand : 319 875 329 777 680 600 682 928 305 973 272 636 5 9 242 753 777 308 915 83 
+player 512 draws a 861 from deck 512
+player 512 discards a 319 to deck 513
+player 512 current hand : 875 329 777 680 600 682 928 305 973 272 636 5 9 242 753 777 308 915 83 861 
+player 512 draws a 751 from deck 512
+player 512 discards a 875 to deck 513
+player 512 current hand : 329 777 680 600 682 928 305 973 272 636 5 9 242 753 777 308 915 83 861 751 
+player 512 draws a 100 from deck 512
+player 512 discards a 329 to deck 513
+player 512 current hand : 777 680 600 682 928 305 973 272 636 5 9 242 753 777 308 915 83 861 751 100 
+player 512 draws a 729 from deck 512
+player 512 discards a 777 to deck 513
+player 512 current hand : 680 600 682 928 305 973 272 636 5 9 242 753 777 308 915 83 861 751 100 729 
+player 512 draws a 187 from deck 512
+player 512 discards a 680 to deck 513
+player 512 current hand : 600 682 928 305 973 272 636 5 9 242 753 777 308 915 83 861 751 100 729 187 
+player 512 draws a 765 from deck 512
+player 512 discards a 600 to deck 513
+player 512 current hand : 682 928 305 973 272 636 5 9 242 753 777 308 915 83 861 751 100 729 187 765 
+player 512 draws a 378 from deck 512
+player 512 discards a 682 to deck 513
+player 512 current hand : 928 305 973 272 636 5 9 242 753 777 308 915 83 861 751 100 729 187 765 378 
+player 512 draws a 320 from deck 512
+player 512 discards a 928 to deck 513
+player 512 current hand : 305 973 272 636 5 9 242 753 777 308 915 83 861 751 100 729 187 765 378 320 
+player 512 draws a 177 from deck 512
+player 512 discards a 305 to deck 513
+player 512 current hand : 973 272 636 5 9 242 753 777 308 915 83 861 751 100 729 187 765 378 320 177 
+player 512 draws a 906 from deck 512
+player 512 discards a 973 to deck 513
+player 512 current hand : 272 636 5 9 242 753 777 308 915 83 861 751 100 729 187 765 378 320 177 906 
+player 512 draws a 336 from deck 512
+player 512 discards a 272 to deck 513
+player 512 current hand : 636 5 9 242 753 777 308 915 83 861 751 100 729 187 765 378 320 177 906 336 
+player 512 draws a 649 from deck 512
+player 512 discards a 636 to deck 513
+player 512 current hand : 5 9 242 753 777 308 915 83 861 751 100 729 187 765 378 320 177 906 336 649 
+player 512 draws a 786 from deck 512
+player 512 discards a 5 to deck 513
+player 512 current hand : 9 242 753 777 308 915 83 861 751 100 729 187 765 378 320 177 906 336 649 786 
+player 512 draws a 949 from deck 512
+player 512 discards a 9 to deck 513
+player 512 current hand : 242 753 777 308 915 83 861 751 100 729 187 765 378 320 177 906 336 649 786 949 
+player 512 draws a 862 from deck 512
+player 512 discards a 242 to deck 513
+player 512 current hand : 753 777 308 915 83 861 751 100 729 187 765 378 320 177 906 336 649 786 949 862 
+player 512 draws a 14 from deck 512
+player 512 discards a 753 to deck 513
+player 512 current hand : 777 308 915 83 861 751 100 729 187 765 378 320 177 906 336 649 786 949 862 14 
+player 512 draws a 417 from deck 512
+player 512 discards a 777 to deck 513
+player 512 current hand : 308 915 83 861 751 100 729 187 765 378 320 177 906 336 649 786 949 862 14 417 
+player 512 draws a 844 from deck 512
+player 512 discards a 308 to deck 513
+player 512 current hand : 915 83 861 751 100 729 187 765 378 320 177 906 336 649 786 949 862 14 417 844 
+player 512 draws a 840 from deck 512
+player 512 discards a 915 to deck 513
+player 512 current hand : 83 861 751 100 729 187 765 378 320 177 906 336 649 786 949 862 14 417 844 840 
+player 512 draws a 745 from deck 512
+player 512 discards a 83 to deck 513
+player 512 current hand : 861 751 100 729 187 765 378 320 177 906 336 649 786 949 862 14 417 844 840 745 
+player 512 draws a 40 from deck 512
+player 512 discards a 861 to deck 513
+player 512 current hand : 751 100 729 187 765 378 320 177 906 336 649 786 949 862 14 417 844 840 745 40 
+player 512 draws a 757 from deck 512
+player 512 discards a 751 to deck 513
+player 512 current hand : 100 729 187 765 378 320 177 906 336 649 786 949 862 14 417 844 840 745 40 757 
+player 512 draws a 525 from deck 512
+player 512 discards a 100 to deck 513
+player 512 current hand : 729 187 765 378 320 177 906 336 649 786 949 862 14 417 844 840 745 40 757 525 
+player 512 draws a 266 from deck 512
+player 512 discards a 729 to deck 513
+player 512 current hand : 187 765 378 320 177 906 336 649 786 949 862 14 417 844 840 745 40 757 525 266 
+player 512 draws a 436 from deck 512
+player 512 discards a 187 to deck 513
+player 512 current hand : 765 378 320 177 906 336 649 786 949 862 14 417 844 840 745 40 757 525 266 436 
+player 512 draws a 657 from deck 512
+player 512 discards a 765 to deck 513
+player 512 current hand : 378 320 177 906 336 649 786 949 862 14 417 844 840 745 40 757 525 266 436 657 
+player 512 draws a 590 from deck 512
+player 512 discards a 378 to deck 513
+player 512 current hand : 320 177 906 336 649 786 949 862 14 417 844 840 745 40 757 525 266 436 657 590 
+player 512 draws a 598 from deck 512
+player 512 discards a 320 to deck 513
+player 512 current hand : 177 906 336 649 786 949 862 14 417 844 840 745 40 757 525 266 436 657 590 598 
+player 512 draws a 781 from deck 512
+player 512 discards a 177 to deck 513
+player 512 current hand : 906 336 649 786 949 862 14 417 844 840 745 40 757 525 266 436 657 590 598 781 
+player 512 draws a 851 from deck 512
+player 512 discards a 906 to deck 513
+player 512 current hand : 336 649 786 949 862 14 417 844 840 745 40 757 525 266 436 657 590 598 781 851 
+player 512 draws a 589 from deck 512
+player 512 discards a 336 to deck 513
+player 512 current hand : 649 786 949 862 14 417 844 840 745 40 757 525 266 436 657 590 598 781 851 589 
+player 512 draws a 815 from deck 512
+player 512 discards a 649 to deck 513
+player 512 current hand : 786 949 862 14 417 844 840 745 40 757 525 266 436 657 590 598 781 851 589 815 
+player 512 draws a 602 from deck 512
+player 512 discards a 786 to deck 513
+player 512 current hand : 949 862 14 417 844 840 745 40 757 525 266 436 657 590 598 781 851 589 815 602 

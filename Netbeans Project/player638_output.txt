@@ -1,0 +1,315 @@
+player 638 initial hand 750 538 618 364 152 655 870 626 831 473 4 746 446 991 792 456 945 840 60 342 
+player 638 draws a 709 from deck 638
+player 638 discards a 750 to deck 639
+player 638 current hand : 538 618 364 152 655 870 626 831 473 4 746 446 991 792 456 945 840 60 342 709 
+player 638 draws a 810 from deck 638
+player 638 discards a 538 to deck 639
+player 638 current hand : 618 364 152 655 870 626 831 473 4 746 446 991 792 456 945 840 60 342 709 810 
+player 638 draws a 164 from deck 638
+player 638 discards a 618 to deck 639
+player 638 current hand : 364 152 655 870 626 831 473 4 746 446 991 792 456 945 840 60 342 709 810 164 
+player 638 draws a 222 from deck 638
+player 638 discards a 364 to deck 639
+player 638 current hand : 152 655 870 626 831 473 4 746 446 991 792 456 945 840 60 342 709 810 164 222 
+player 638 draws a 680 from deck 638
+player 638 discards a 152 to deck 639
+player 638 current hand : 655 870 626 831 473 4 746 446 991 792 456 945 840 60 342 709 810 164 222 680 
+player 638 draws a 844 from deck 638
+player 638 discards a 655 to deck 639
+player 638 current hand : 870 626 831 473 4 746 446 991 792 456 945 840 60 342 709 810 164 222 680 844 
+player 638 draws a 793 from deck 638
+player 638 discards a 870 to deck 639
+player 638 current hand : 626 831 473 4 746 446 991 792 456 945 840 60 342 709 810 164 222 680 844 793 
+player 638 draws a 686 from deck 638
+player 638 discards a 626 to deck 639
+player 638 current hand : 831 473 4 746 446 991 792 456 945 840 60 342 709 810 164 222 680 844 793 686 
+player 638 draws a 44 from deck 638
+player 638 discards a 831 to deck 639
+player 638 current hand : 473 4 746 446 991 792 456 945 840 60 342 709 810 164 222 680 844 793 686 44 
+player 638 draws a 255 from deck 638
+player 638 discards a 473 to deck 639
+player 638 current hand : 4 746 446 991 792 456 945 840 60 342 709 810 164 222 680 844 793 686 44 255 
+player 638 draws a 257 from deck 638
+player 638 discards a 4 to deck 639
+player 638 current hand : 746 446 991 792 456 945 840 60 342 709 810 164 222 680 844 793 686 44 255 257 
+player 638 draws a 338 from deck 638
+player 638 discards a 746 to deck 639
+player 638 current hand : 446 991 792 456 945 840 60 342 709 810 164 222 680 844 793 686 44 255 257 338 
+player 638 draws a 432 from deck 638
+player 638 discards a 446 to deck 639
+player 638 current hand : 991 792 456 945 840 60 342 709 810 164 222 680 844 793 686 44 255 257 338 432 
+player 638 draws a 277 from deck 638
+player 638 discards a 991 to deck 639
+player 638 current hand : 792 456 945 840 60 342 709 810 164 222 680 844 793 686 44 255 257 338 432 277 
+player 638 draws a 254 from deck 638
+player 638 discards a 792 to deck 639
+player 638 current hand : 456 945 840 60 342 709 810 164 222 680 844 793 686 44 255 257 338 432 277 254 
+player 638 draws a 913 from deck 638
+player 638 discards a 456 to deck 639
+player 638 current hand : 945 840 60 342 709 810 164 222 680 844 793 686 44 255 257 338 432 277 254 913 
+player 638 draws a 787 from deck 638
+player 638 discards a 945 to deck 639
+player 638 current hand : 840 60 342 709 810 164 222 680 844 793 686 44 255 257 338 432 277 254 913 787 
+player 638 draws a 901 from deck 638
+player 638 discards a 840 to deck 639
+player 638 current hand : 60 342 709 810 164 222 680 844 793 686 44 255 257 338 432 277 254 913 787 901 
+player 638 draws a 841 from deck 638
+player 638 discards a 60 to deck 639
+player 638 current hand : 342 709 810 164 222 680 844 793 686 44 255 257 338 432 277 254 913 787 901 841 
+player 638 draws a 54 from deck 638
+player 638 discards a 342 to deck 639
+player 638 current hand : 709 810 164 222 680 844 793 686 44 255 257 338 432 277 254 913 787 901 841 54 
+player 638 draws a 24 from deck 638
+player 638 discards a 709 to deck 639
+player 638 current hand : 810 164 222 680 844 793 686 44 255 257 338 432 277 254 913 787 901 841 54 24 
+player 638 draws a 693 from deck 638
+player 638 discards a 810 to deck 639
+player 638 current hand : 164 222 680 844 793 686 44 255 257 338 432 277 254 913 787 901 841 54 24 693 
+player 638 draws a 927 from deck 638
+player 638 discards a 164 to deck 639
+player 638 current hand : 222 680 844 793 686 44 255 257 338 432 277 254 913 787 901 841 54 24 693 927 
+player 638 draws a 410 from deck 638
+player 638 discards a 222 to deck 639
+player 638 current hand : 680 844 793 686 44 255 257 338 432 277 254 913 787 901 841 54 24 693 927 410 
+player 638 draws a 922 from deck 638
+player 638 discards a 680 to deck 639
+player 638 current hand : 844 793 686 44 255 257 338 432 277 254 913 787 901 841 54 24 693 927 410 922 
+player 638 draws a 448 from deck 638
+player 638 discards a 844 to deck 639
+player 638 current hand : 793 686 44 255 257 338 432 277 254 913 787 901 841 54 24 693 927 410 922 448 
+player 638 draws a 168 from deck 638
+player 638 discards a 793 to deck 639
+player 638 current hand : 686 44 255 257 338 432 277 254 913 787 901 841 54 24 693 927 410 922 448 168 
+player 638 draws a 928 from deck 638
+player 638 discards a 686 to deck 639
+player 638 current hand : 44 255 257 338 432 277 254 913 787 901 841 54 24 693 927 410 922 448 168 928 
+player 638 draws a 913 from deck 638
+player 638 discards a 44 to deck 639
+player 638 current hand : 255 257 338 432 277 254 913 787 901 841 54 24 693 927 410 922 448 168 928 913 
+player 638 draws a 112 from deck 638
+player 638 discards a 255 to deck 639
+player 638 current hand : 257 338 432 277 254 913 787 901 841 54 24 693 927 410 922 448 168 928 913 112 
+player 638 draws a 965 from deck 638
+player 638 discards a 257 to deck 639
+player 638 current hand : 338 432 277 254 913 787 901 841 54 24 693 927 410 922 448 168 928 913 112 965 
+player 638 draws a 728 from deck 638
+player 638 discards a 338 to deck 639
+player 638 current hand : 432 277 254 913 787 901 841 54 24 693 927 410 922 448 168 928 913 112 965 728 
+player 638 draws a 729 from deck 638
+player 638 discards a 432 to deck 639
+player 638 current hand : 277 254 913 787 901 841 54 24 693 927 410 922 448 168 928 913 112 965 728 729 
+player 638 draws a 780 from deck 638
+player 638 discards a 277 to deck 639
+player 638 current hand : 254 913 787 901 841 54 24 693 927 410 922 448 168 928 913 112 965 728 729 780 
+player 638 draws a 672 from deck 638
+player 638 discards a 254 to deck 639
+player 638 current hand : 913 787 901 841 54 24 693 927 410 922 448 168 928 913 112 965 728 729 780 672 
+player 638 draws a 321 from deck 638
+player 638 discards a 913 to deck 639
+player 638 current hand : 787 901 841 54 24 693 927 410 922 448 168 928 913 112 965 728 729 780 672 321 
+player 638 draws a 255 from deck 638
+player 638 discards a 787 to deck 639
+player 638 current hand : 901 841 54 24 693 927 410 922 448 168 928 913 112 965 728 729 780 672 321 255 
+player 638 draws a 927 from deck 638
+player 638 discards a 901 to deck 639
+player 638 current hand : 841 54 24 693 927 410 922 448 168 928 913 112 965 728 729 780 672 321 255 927 
+player 638 draws a 60 from deck 638
+player 638 discards a 841 to deck 639
+player 638 current hand : 54 24 693 927 410 922 448 168 928 913 112 965 728 729 780 672 321 255 927 60 
+player 638 draws a 916 from deck 638
+player 638 discards a 54 to deck 639
+player 638 current hand : 24 693 927 410 922 448 168 928 913 112 965 728 729 780 672 321 255 927 60 916 
+player 638 draws a 143 from deck 638
+player 638 discards a 24 to deck 639
+player 638 current hand : 693 927 410 922 448 168 928 913 112 965 728 729 780 672 321 255 927 60 916 143 
+player 638 draws a 189 from deck 638
+player 638 discards a 693 to deck 639
+player 638 current hand : 927 410 922 448 168 928 913 112 965 728 729 780 672 321 255 927 60 916 143 189 
+player 638 draws a 449 from deck 638
+player 638 discards a 927 to deck 639
+player 638 current hand : 410 922 448 168 928 913 112 965 728 729 780 672 321 255 927 60 916 143 189 449 
+player 638 draws a 179 from deck 638
+player 638 discards a 410 to deck 639
+player 638 current hand : 922 448 168 928 913 112 965 728 729 780 672 321 255 927 60 916 143 189 449 179 
+player 638 draws a 828 from deck 638
+player 638 discards a 922 to deck 639
+player 638 current hand : 448 168 928 913 112 965 728 729 780 672 321 255 927 60 916 143 189 449 179 828 
+player 638 draws a 455 from deck 638
+player 638 discards a 448 to deck 639
+player 638 current hand : 168 928 913 112 965 728 729 780 672 321 255 927 60 916 143 189 449 179 828 455 
+player 638 draws a 255 from deck 638
+player 638 discards a 168 to deck 639
+player 638 current hand : 928 913 112 965 728 729 780 672 321 255 927 60 916 143 189 449 179 828 455 255 
+player 638 draws a 535 from deck 638
+player 638 discards a 928 to deck 639
+player 638 current hand : 913 112 965 728 729 780 672 321 255 927 60 916 143 189 449 179 828 455 255 535 
+player 638 draws a 750 from deck 638
+player 638 discards a 913 to deck 639
+player 638 current hand : 112 965 728 729 780 672 321 255 927 60 916 143 189 449 179 828 455 255 535 750 
+player 638 draws a 2 from deck 638
+player 638 discards a 112 to deck 639
+player 638 current hand : 965 728 729 780 672 321 255 927 60 916 143 189 449 179 828 455 255 535 750 2 
+player 638 draws a 125 from deck 638
+player 638 discards a 965 to deck 639
+player 638 current hand : 728 729 780 672 321 255 927 60 916 143 189 449 179 828 455 255 535 750 2 125 
+player 638 draws a 890 from deck 638
+player 638 discards a 728 to deck 639
+player 638 current hand : 729 780 672 321 255 927 60 916 143 189 449 179 828 455 255 535 750 2 125 890 
+player 638 draws a 913 from deck 638
+player 638 discards a 729 to deck 639
+player 638 current hand : 780 672 321 255 927 60 916 143 189 449 179 828 455 255 535 750 2 125 890 913 
+player 638 draws a 434 from deck 638
+player 638 discards a 780 to deck 639
+player 638 current hand : 672 321 255 927 60 916 143 189 449 179 828 455 255 535 750 2 125 890 913 434 
+player 638 draws a 107 from deck 638
+player 638 discards a 672 to deck 639
+player 638 current hand : 321 255 927 60 916 143 189 449 179 828 455 255 535 750 2 125 890 913 434 107 
+player 638 draws a 615 from deck 638
+player 638 discards a 321 to deck 639
+player 638 current hand : 255 927 60 916 143 189 449 179 828 455 255 535 750 2 125 890 913 434 107 615 
+player 638 draws a 153 from deck 638
+player 638 discards a 255 to deck 639
+player 638 current hand : 927 60 916 143 189 449 179 828 455 255 535 750 2 125 890 913 434 107 615 153 
+player 638 draws a 955 from deck 638
+player 638 discards a 927 to deck 639
+player 638 current hand : 60 916 143 189 449 179 828 455 255 535 750 2 125 890 913 434 107 615 153 955 
+player 638 draws a 875 from deck 638
+player 638 discards a 60 to deck 639
+player 638 current hand : 916 143 189 449 179 828 455 255 535 750 2 125 890 913 434 107 615 153 955 875 
+player 638 draws a 868 from deck 638
+player 638 discards a 916 to deck 639
+player 638 current hand : 143 189 449 179 828 455 255 535 750 2 125 890 913 434 107 615 153 955 875 868 
+player 638 draws a 303 from deck 638
+player 638 discards a 143 to deck 639
+player 638 current hand : 189 449 179 828 455 255 535 750 2 125 890 913 434 107 615 153 955 875 868 303 
+player 638 draws a 60 from deck 638
+player 638 discards a 189 to deck 639
+player 638 current hand : 449 179 828 455 255 535 750 2 125 890 913 434 107 615 153 955 875 868 303 60 
+player 638 draws a 537 from deck 638
+player 638 discards a 449 to deck 639
+player 638 current hand : 179 828 455 255 535 750 2 125 890 913 434 107 615 153 955 875 868 303 60 537 
+player 638 draws a 152 from deck 638
+player 638 discards a 179 to deck 639
+player 638 current hand : 828 455 255 535 750 2 125 890 913 434 107 615 153 955 875 868 303 60 537 152 
+player 638 draws a 594 from deck 638
+player 638 discards a 828 to deck 639
+player 638 current hand : 455 255 535 750 2 125 890 913 434 107 615 153 955 875 868 303 60 537 152 594 
+player 638 draws a 98 from deck 638
+player 638 discards a 455 to deck 639
+player 638 current hand : 255 535 750 2 125 890 913 434 107 615 153 955 875 868 303 60 537 152 594 98 
+player 638 draws a 373 from deck 638
+player 638 discards a 255 to deck 639
+player 638 current hand : 535 750 2 125 890 913 434 107 615 153 955 875 868 303 60 537 152 594 98 373 
+player 638 draws a 660 from deck 638
+player 638 discards a 535 to deck 639
+player 638 current hand : 750 2 125 890 913 434 107 615 153 955 875 868 303 60 537 152 594 98 373 660 
+player 638 draws a 267 from deck 638
+player 638 discards a 750 to deck 639
+player 638 current hand : 2 125 890 913 434 107 615 153 955 875 868 303 60 537 152 594 98 373 660 267 
+player 638 draws a 791 from deck 638
+player 638 discards a 2 to deck 639
+player 638 current hand : 125 890 913 434 107 615 153 955 875 868 303 60 537 152 594 98 373 660 267 791 
+player 638 draws a 829 from deck 638
+player 638 discards a 125 to deck 639
+player 638 current hand : 890 913 434 107 615 153 955 875 868 303 60 537 152 594 98 373 660 267 791 829 
+player 638 draws a 571 from deck 638
+player 638 discards a 890 to deck 639
+player 638 current hand : 913 434 107 615 153 955 875 868 303 60 537 152 594 98 373 660 267 791 829 571 
+player 638 draws a 509 from deck 638
+player 638 discards a 913 to deck 639
+player 638 current hand : 434 107 615 153 955 875 868 303 60 537 152 594 98 373 660 267 791 829 571 509 
+player 638 draws a 31 from deck 638
+player 638 discards a 434 to deck 639
+player 638 current hand : 107 615 153 955 875 868 303 60 537 152 594 98 373 660 267 791 829 571 509 31 
+player 638 draws a 233 from deck 638
+player 638 discards a 107 to deck 639
+player 638 current hand : 615 153 955 875 868 303 60 537 152 594 98 373 660 267 791 829 571 509 31 233 
+player 638 draws a 470 from deck 638
+player 638 discards a 615 to deck 639
+player 638 current hand : 153 955 875 868 303 60 537 152 594 98 373 660 267 791 829 571 509 31 233 470 
+player 638 draws a 971 from deck 638
+player 638 discards a 153 to deck 639
+player 638 current hand : 955 875 868 303 60 537 152 594 98 373 660 267 791 829 571 509 31 233 470 971 
+player 638 draws a 527 from deck 638
+player 638 discards a 955 to deck 639
+player 638 current hand : 875 868 303 60 537 152 594 98 373 660 267 791 829 571 509 31 233 470 971 527 
+player 638 draws a 453 from deck 638
+player 638 discards a 875 to deck 639
+player 638 current hand : 868 303 60 537 152 594 98 373 660 267 791 829 571 509 31 233 470 971 527 453 
+player 638 draws a 331 from deck 638
+player 638 discards a 868 to deck 639
+player 638 current hand : 303 60 537 152 594 98 373 660 267 791 829 571 509 31 233 470 971 527 453 331 
+player 638 draws a 304 from deck 638
+player 638 discards a 303 to deck 639
+player 638 current hand : 60 537 152 594 98 373 660 267 791 829 571 509 31 233 470 971 527 453 331 304 
+player 638 draws a 705 from deck 638
+player 638 discards a 60 to deck 639
+player 638 current hand : 537 152 594 98 373 660 267 791 829 571 509 31 233 470 971 527 453 331 304 705 
+player 638 draws a 263 from deck 638
+player 638 discards a 537 to deck 639
+player 638 current hand : 152 594 98 373 660 267 791 829 571 509 31 233 470 971 527 453 331 304 705 263 
+player 638 draws a 167 from deck 638
+player 638 discards a 152 to deck 639
+player 638 current hand : 594 98 373 660 267 791 829 571 509 31 233 470 971 527 453 331 304 705 263 167 
+player 638 draws a 579 from deck 638
+player 638 discards a 594 to deck 639
+player 638 current hand : 98 373 660 267 791 829 571 509 31 233 470 971 527 453 331 304 705 263 167 579 
+player 638 draws a 130 from deck 638
+player 638 discards a 98 to deck 639
+player 638 current hand : 373 660 267 791 829 571 509 31 233 470 971 527 453 331 304 705 263 167 579 130 
+player 638 draws a 507 from deck 638
+player 638 discards a 373 to deck 639
+player 638 current hand : 660 267 791 829 571 509 31 233 470 971 527 453 331 304 705 263 167 579 130 507 
+player 638 draws a 473 from deck 638
+player 638 discards a 660 to deck 639
+player 638 current hand : 267 791 829 571 509 31 233 470 971 527 453 331 304 705 263 167 579 130 507 473 
+player 638 draws a 7 from deck 638
+player 638 discards a 267 to deck 639
+player 638 current hand : 791 829 571 509 31 233 470 971 527 453 331 304 705 263 167 579 130 507 473 7 
+player 638 draws a 815 from deck 638
+player 638 discards a 791 to deck 639
+player 638 current hand : 829 571 509 31 233 470 971 527 453 331 304 705 263 167 579 130 507 473 7 815 
+player 638 draws a 529 from deck 638
+player 638 discards a 829 to deck 639
+player 638 current hand : 571 509 31 233 470 971 527 453 331 304 705 263 167 579 130 507 473 7 815 529 
+player 638 draws a 481 from deck 638
+player 638 discards a 571 to deck 639
+player 638 current hand : 509 31 233 470 971 527 453 331 304 705 263 167 579 130 507 473 7 815 529 481 
+player 638 draws a 740 from deck 638
+player 638 discards a 509 to deck 639
+player 638 current hand : 31 233 470 971 527 453 331 304 705 263 167 579 130 507 473 7 815 529 481 740 
+player 638 draws a 181 from deck 638
+player 638 discards a 31 to deck 639
+player 638 current hand : 233 470 971 527 453 331 304 705 263 167 579 130 507 473 7 815 529 481 740 181 
+player 638 draws a 525 from deck 638
+player 638 discards a 233 to deck 639
+player 638 current hand : 470 971 527 453 331 304 705 263 167 579 130 507 473 7 815 529 481 740 181 525 
+player 638 draws a 135 from deck 638
+player 638 discards a 470 to deck 639
+player 638 current hand : 971 527 453 331 304 705 263 167 579 130 507 473 7 815 529 481 740 181 525 135 
+player 638 draws a 423 from deck 638
+player 638 discards a 971 to deck 639
+player 638 current hand : 527 453 331 304 705 263 167 579 130 507 473 7 815 529 481 740 181 525 135 423 
+player 638 draws a 162 from deck 638
+player 638 discards a 527 to deck 639
+player 638 current hand : 453 331 304 705 263 167 579 130 507 473 7 815 529 481 740 181 525 135 423 162 
+player 638 draws a 315 from deck 638
+player 638 discards a 453 to deck 639
+player 638 current hand : 331 304 705 263 167 579 130 507 473 7 815 529 481 740 181 525 135 423 162 315 
+player 638 draws a 271 from deck 638
+player 638 discards a 331 to deck 639
+player 638 current hand : 304 705 263 167 579 130 507 473 7 815 529 481 740 181 525 135 423 162 315 271 
+player 638 draws a 403 from deck 638
+player 638 discards a 304 to deck 639
+player 638 current hand : 705 263 167 579 130 507 473 7 815 529 481 740 181 525 135 423 162 315 271 403 
+player 638 draws a 29 from deck 638
+player 638 discards a 705 to deck 639
+player 638 current hand : 263 167 579 130 507 473 7 815 529 481 740 181 525 135 423 162 315 271 403 29 
+player 638 draws a 74 from deck 638
+player 638 discards a 263 to deck 639
+player 638 current hand : 167 579 130 507 473 7 815 529 481 740 181 525 135 423 162 315 271 403 29 74 
+player 638 draws a 330 from deck 638
+player 638 discards a 167 to deck 639
+player 638 current hand : 579 130 507 473 7 815 529 481 740 181 525 135 423 162 315 271 403 29 74 330 
+player 638 draws a 852 from deck 638
+player 638 discards a 579 to deck 639

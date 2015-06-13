@@ -1,0 +1,298 @@
+player 650 initial hand 319 143 642 500 879 587 787 25 2 621 47 776 879 872 279 706 917 769 351 840 
+player 650 draws a 196 from deck 650
+player 650 discards a 319 to deck 651
+player 650 current hand : 143 642 500 879 587 787 25 2 621 47 776 879 872 279 706 917 769 351 840 196 
+player 650 draws a 438 from deck 650
+player 650 discards a 143 to deck 651
+player 650 current hand : 642 500 879 587 787 25 2 621 47 776 879 872 279 706 917 769 351 840 196 438 
+player 650 draws a 260 from deck 650
+player 650 discards a 642 to deck 651
+player 650 current hand : 500 879 587 787 25 2 621 47 776 879 872 279 706 917 769 351 840 196 438 260 
+player 650 draws a 705 from deck 650
+player 650 discards a 500 to deck 651
+player 650 current hand : 879 587 787 25 2 621 47 776 879 872 279 706 917 769 351 840 196 438 260 705 
+player 650 draws a 589 from deck 650
+player 650 discards a 879 to deck 651
+player 650 current hand : 587 787 25 2 621 47 776 879 872 279 706 917 769 351 840 196 438 260 705 589 
+player 650 draws a 863 from deck 650
+player 650 discards a 587 to deck 651
+player 650 current hand : 787 25 2 621 47 776 879 872 279 706 917 769 351 840 196 438 260 705 589 863 
+player 650 draws a 631 from deck 650
+player 650 discards a 787 to deck 651
+player 650 current hand : 25 2 621 47 776 879 872 279 706 917 769 351 840 196 438 260 705 589 863 631 
+player 650 draws a 137 from deck 650
+player 650 discards a 25 to deck 651
+player 650 current hand : 2 621 47 776 879 872 279 706 917 769 351 840 196 438 260 705 589 863 631 137 
+player 650 draws a 241 from deck 650
+player 650 discards a 2 to deck 651
+player 650 current hand : 621 47 776 879 872 279 706 917 769 351 840 196 438 260 705 589 863 631 137 241 
+player 650 draws a 301 from deck 650
+player 650 discards a 621 to deck 651
+player 650 current hand : 47 776 879 872 279 706 917 769 351 840 196 438 260 705 589 863 631 137 241 301 
+player 650 draws a 391 from deck 650
+player 650 discards a 47 to deck 651
+player 650 current hand : 776 879 872 279 706 917 769 351 840 196 438 260 705 589 863 631 137 241 301 391 
+player 650 draws a 605 from deck 650
+player 650 discards a 776 to deck 651
+player 650 current hand : 879 872 279 706 917 769 351 840 196 438 260 705 589 863 631 137 241 301 391 605 
+player 650 draws a 598 from deck 650
+player 650 discards a 879 to deck 651
+player 650 current hand : 872 279 706 917 769 351 840 196 438 260 705 589 863 631 137 241 301 391 605 598 
+player 650 draws a 577 from deck 650
+player 650 discards a 872 to deck 651
+player 650 current hand : 279 706 917 769 351 840 196 438 260 705 589 863 631 137 241 301 391 605 598 577 
+player 650 draws a 617 from deck 650
+player 650 discards a 279 to deck 651
+player 650 current hand : 706 917 769 351 840 196 438 260 705 589 863 631 137 241 301 391 605 598 577 617 
+player 650 draws a 189 from deck 650
+player 650 discards a 706 to deck 651
+player 650 current hand : 917 769 351 840 196 438 260 705 589 863 631 137 241 301 391 605 598 577 617 189 
+player 650 draws a 562 from deck 650
+player 650 discards a 917 to deck 651
+player 650 current hand : 769 351 840 196 438 260 705 589 863 631 137 241 301 391 605 598 577 617 189 562 
+player 650 draws a 6 from deck 650
+player 650 discards a 769 to deck 651
+player 650 current hand : 351 840 196 438 260 705 589 863 631 137 241 301 391 605 598 577 617 189 562 6 
+player 650 draws a 945 from deck 650
+player 650 discards a 351 to deck 651
+player 650 current hand : 840 196 438 260 705 589 863 631 137 241 301 391 605 598 577 617 189 562 6 945 
+player 650 draws a 868 from deck 650
+player 650 discards a 840 to deck 651
+player 650 current hand : 196 438 260 705 589 863 631 137 241 301 391 605 598 577 617 189 562 6 945 868 
+player 650 draws a 753 from deck 650
+player 650 discards a 196 to deck 651
+player 650 current hand : 438 260 705 589 863 631 137 241 301 391 605 598 577 617 189 562 6 945 868 753 
+player 650 draws a 799 from deck 650
+player 650 discards a 438 to deck 651
+player 650 current hand : 260 705 589 863 631 137 241 301 391 605 598 577 617 189 562 6 945 868 753 799 
+player 650 draws a 427 from deck 650
+player 650 discards a 260 to deck 651
+player 650 current hand : 705 589 863 631 137 241 301 391 605 598 577 617 189 562 6 945 868 753 799 427 
+player 650 draws a 491 from deck 650
+player 650 discards a 705 to deck 651
+player 650 current hand : 589 863 631 137 241 301 391 605 598 577 617 189 562 6 945 868 753 799 427 491 
+player 650 draws a 897 from deck 650
+player 650 discards a 589 to deck 651
+player 650 current hand : 863 631 137 241 301 391 605 598 577 617 189 562 6 945 868 753 799 427 491 897 
+player 650 draws a 863 from deck 650
+player 650 discards a 863 to deck 651
+player 650 current hand : 631 137 241 301 391 605 598 577 617 189 562 6 945 868 753 799 427 491 897 863 
+player 650 draws a 904 from deck 650
+player 650 discards a 631 to deck 651
+player 650 current hand : 137 241 301 391 605 598 577 617 189 562 6 945 868 753 799 427 491 897 863 904 
+player 650 draws a 175 from deck 650
+player 650 discards a 137 to deck 651
+player 650 current hand : 241 301 391 605 598 577 617 189 562 6 945 868 753 799 427 491 897 863 904 175 
+player 650 draws a 383 from deck 650
+player 650 discards a 241 to deck 651
+player 650 current hand : 301 391 605 598 577 617 189 562 6 945 868 753 799 427 491 897 863 904 175 383 
+player 650 draws a 759 from deck 650
+player 650 discards a 301 to deck 651
+player 650 current hand : 391 605 598 577 617 189 562 6 945 868 753 799 427 491 897 863 904 175 383 759 
+player 650 draws a 47 from deck 650
+player 650 discards a 391 to deck 651
+player 650 current hand : 605 598 577 617 189 562 6 945 868 753 799 427 491 897 863 904 175 383 759 47 
+player 650 draws a 173 from deck 650
+player 650 discards a 605 to deck 651
+player 650 current hand : 598 577 617 189 562 6 945 868 753 799 427 491 897 863 904 175 383 759 47 173 
+player 650 draws a 666 from deck 650
+player 650 discards a 598 to deck 651
+player 650 current hand : 577 617 189 562 6 945 868 753 799 427 491 897 863 904 175 383 759 47 173 666 
+player 650 draws a 910 from deck 650
+player 650 discards a 577 to deck 651
+player 650 current hand : 617 189 562 6 945 868 753 799 427 491 897 863 904 175 383 759 47 173 666 910 
+player 650 draws a 555 from deck 650
+player 650 discards a 617 to deck 651
+player 650 current hand : 189 562 6 945 868 753 799 427 491 897 863 904 175 383 759 47 173 666 910 555 
+player 650 draws a 55 from deck 650
+player 650 discards a 189 to deck 651
+player 650 current hand : 562 6 945 868 753 799 427 491 897 863 904 175 383 759 47 173 666 910 555 55 
+player 650 draws a 221 from deck 650
+player 650 discards a 562 to deck 651
+player 650 current hand : 6 945 868 753 799 427 491 897 863 904 175 383 759 47 173 666 910 555 55 221 
+player 650 draws a 83 from deck 650
+player 650 discards a 6 to deck 651
+player 650 current hand : 945 868 753 799 427 491 897 863 904 175 383 759 47 173 666 910 555 55 221 83 
+player 650 draws a 650 from deck 650
+player 650 discards a 945 to deck 651
+player 650 current hand : 868 753 799 427 491 897 863 904 175 383 759 47 173 666 910 555 55 221 83 650 
+player 650 draws a 17 from deck 650
+player 650 discards a 868 to deck 651
+player 650 current hand : 753 799 427 491 897 863 904 175 383 759 47 173 666 910 555 55 221 83 650 17 
+player 650 draws a 495 from deck 650
+player 650 discards a 753 to deck 651
+player 650 current hand : 799 427 491 897 863 904 175 383 759 47 173 666 910 555 55 221 83 650 17 495 
+player 650 draws a 967 from deck 650
+player 650 discards a 799 to deck 651
+player 650 current hand : 427 491 897 863 904 175 383 759 47 173 666 910 555 55 221 83 650 17 495 967 
+player 650 draws a 537 from deck 650
+player 650 discards a 427 to deck 651
+player 650 current hand : 491 897 863 904 175 383 759 47 173 666 910 555 55 221 83 650 17 495 967 537 
+player 650 draws a 11 from deck 650
+player 650 discards a 491 to deck 651
+player 650 current hand : 897 863 904 175 383 759 47 173 666 910 555 55 221 83 650 17 495 967 537 11 
+player 650 draws a 599 from deck 650
+player 650 discards a 897 to deck 651
+player 650 current hand : 863 904 175 383 759 47 173 666 910 555 55 221 83 650 17 495 967 537 11 599 
+player 650 draws a 661 from deck 650
+player 650 discards a 863 to deck 651
+player 650 current hand : 904 175 383 759 47 173 666 910 555 55 221 83 650 17 495 967 537 11 599 661 
+player 650 draws a 401 from deck 650
+player 650 discards a 904 to deck 651
+player 650 current hand : 175 383 759 47 173 666 910 555 55 221 83 650 17 495 967 537 11 599 661 401 
+player 650 draws a 39 from deck 650
+player 650 discards a 175 to deck 651
+player 650 current hand : 383 759 47 173 666 910 555 55 221 83 650 17 495 967 537 11 599 661 401 39 
+player 650 draws a 115 from deck 650
+player 650 discards a 383 to deck 651
+player 650 current hand : 759 47 173 666 910 555 55 221 83 650 17 495 967 537 11 599 661 401 39 115 
+player 650 draws a 827 from deck 650
+player 650 discards a 759 to deck 651
+player 650 current hand : 47 173 666 910 555 55 221 83 650 17 495 967 537 11 599 661 401 39 115 827 
+player 650 draws a 331 from deck 650
+player 650 discards a 47 to deck 651
+player 650 current hand : 173 666 910 555 55 221 83 650 17 495 967 537 11 599 661 401 39 115 827 331 
+player 650 draws a 158 from deck 650
+player 650 discards a 173 to deck 651
+player 650 current hand : 666 910 555 55 221 83 650 17 495 967 537 11 599 661 401 39 115 827 331 158 
+player 650 draws a 188 from deck 650
+player 650 discards a 666 to deck 651
+player 650 current hand : 910 555 55 221 83 650 17 495 967 537 11 599 661 401 39 115 827 331 158 188 
+player 650 draws a 365 from deck 650
+player 650 discards a 910 to deck 651
+player 650 current hand : 555 55 221 83 650 17 495 967 537 11 599 661 401 39 115 827 331 158 188 365 
+player 650 draws a 290 from deck 650
+player 650 discards a 555 to deck 651
+player 650 current hand : 55 221 83 650 17 495 967 537 11 599 661 401 39 115 827 331 158 188 365 290 
+player 650 draws a 389 from deck 650
+player 650 discards a 55 to deck 651
+player 650 current hand : 221 83 650 17 495 967 537 11 599 661 401 39 115 827 331 158 188 365 290 389 
+player 650 draws a 242 from deck 650
+player 650 discards a 221 to deck 651
+player 650 current hand : 83 650 17 495 967 537 11 599 661 401 39 115 827 331 158 188 365 290 389 242 
+player 650 draws a 310 from deck 650
+player 650 discards a 83 to deck 651
+player 650 current hand : 650 17 495 967 537 11 599 661 401 39 115 827 331 158 188 365 290 389 242 310 
+player 650 draws a 632 from deck 650
+player 650 discards a 17 to deck 651
+player 650 current hand : 650 495 967 537 11 599 661 401 39 115 827 331 158 188 365 290 389 242 310 632 
+player 650 draws a 135 from deck 650
+player 650 discards a 495 to deck 651
+player 650 current hand : 650 967 537 11 599 661 401 39 115 827 331 158 188 365 290 389 242 310 632 135 
+player 650 draws a 877 from deck 650
+player 650 discards a 967 to deck 651
+player 650 current hand : 650 537 11 599 661 401 39 115 827 331 158 188 365 290 389 242 310 632 135 877 
+player 650 draws a 279 from deck 650
+player 650 discards a 537 to deck 651
+player 650 current hand : 650 11 599 661 401 39 115 827 331 158 188 365 290 389 242 310 632 135 877 279 
+player 650 draws a 537 from deck 650
+player 650 discards a 11 to deck 651
+player 650 current hand : 650 599 661 401 39 115 827 331 158 188 365 290 389 242 310 632 135 877 279 537 
+player 650 draws a 261 from deck 650
+player 650 discards a 599 to deck 651
+player 650 current hand : 650 661 401 39 115 827 331 158 188 365 290 389 242 310 632 135 877 279 537 261 
+player 650 draws a 78 from deck 650
+player 650 discards a 661 to deck 651
+player 650 current hand : 650 401 39 115 827 331 158 188 365 290 389 242 310 632 135 877 279 537 261 78 
+player 650 draws a 939 from deck 650
+player 650 discards a 401 to deck 651
+player 650 current hand : 650 39 115 827 331 158 188 365 290 389 242 310 632 135 877 279 537 261 78 939 
+player 650 draws a 507 from deck 650
+player 650 discards a 39 to deck 651
+player 650 current hand : 650 115 827 331 158 188 365 290 389 242 310 632 135 877 279 537 261 78 939 507 
+player 650 draws a 93 from deck 650
+player 650 discards a 115 to deck 651
+player 650 current hand : 650 827 331 158 188 365 290 389 242 310 632 135 877 279 537 261 78 939 507 93 
+player 650 draws a 180 from deck 650
+player 650 discards a 827 to deck 651
+player 650 current hand : 650 331 158 188 365 290 389 242 310 632 135 877 279 537 261 78 939 507 93 180 
+player 650 draws a 295 from deck 650
+player 650 discards a 331 to deck 651
+player 650 current hand : 650 158 188 365 290 389 242 310 632 135 877 279 537 261 78 939 507 93 180 295 
+player 650 draws a 810 from deck 650
+player 650 discards a 158 to deck 651
+player 650 current hand : 650 188 365 290 389 242 310 632 135 877 279 537 261 78 939 507 93 180 295 810 
+player 650 draws a 681 from deck 650
+player 650 discards a 188 to deck 651
+player 650 current hand : 650 365 290 389 242 310 632 135 877 279 537 261 78 939 507 93 180 295 810 681 
+player 650 draws a 72 from deck 650
+player 650 discards a 365 to deck 651
+player 650 current hand : 650 290 389 242 310 632 135 877 279 537 261 78 939 507 93 180 295 810 681 72 
+player 650 draws a 870 from deck 650
+player 650 discards a 290 to deck 651
+player 650 current hand : 650 389 242 310 632 135 877 279 537 261 78 939 507 93 180 295 810 681 72 870 
+player 650 draws a 692 from deck 650
+player 650 discards a 389 to deck 651
+player 650 current hand : 650 242 310 632 135 877 279 537 261 78 939 507 93 180 295 810 681 72 870 692 
+player 650 draws a 866 from deck 650
+player 650 discards a 242 to deck 651
+player 650 current hand : 650 310 632 135 877 279 537 261 78 939 507 93 180 295 810 681 72 870 692 866 
+player 650 draws a 875 from deck 650
+player 650 discards a 310 to deck 651
+player 650 current hand : 650 632 135 877 279 537 261 78 939 507 93 180 295 810 681 72 870 692 866 875 
+player 650 draws a 468 from deck 650
+player 650 discards a 632 to deck 651
+player 650 current hand : 650 135 877 279 537 261 78 939 507 93 180 295 810 681 72 870 692 866 875 468 
+player 650 draws a 301 from deck 650
+player 650 discards a 135 to deck 651
+player 650 current hand : 650 877 279 537 261 78 939 507 93 180 295 810 681 72 870 692 866 875 468 301 
+player 650 draws a 217 from deck 650
+player 650 discards a 877 to deck 651
+player 650 current hand : 650 279 537 261 78 939 507 93 180 295 810 681 72 870 692 866 875 468 301 217 
+player 650 draws a 812 from deck 650
+player 650 discards a 279 to deck 651
+player 650 current hand : 650 537 261 78 939 507 93 180 295 810 681 72 870 692 866 875 468 301 217 812 
+player 650 draws a 523 from deck 650
+player 650 discards a 537 to deck 651
+player 650 current hand : 650 261 78 939 507 93 180 295 810 681 72 870 692 866 875 468 301 217 812 523 
+player 650 draws a 475 from deck 650
+player 650 discards a 261 to deck 651
+player 650 current hand : 650 78 939 507 93 180 295 810 681 72 870 692 866 875 468 301 217 812 523 475 
+player 650 draws a 480 from deck 650
+player 650 discards a 78 to deck 651
+player 650 current hand : 650 939 507 93 180 295 810 681 72 870 692 866 875 468 301 217 812 523 475 480 
+player 650 draws a 879 from deck 650
+player 650 discards a 939 to deck 651
+player 650 current hand : 650 507 93 180 295 810 681 72 870 692 866 875 468 301 217 812 523 475 480 879 
+player 650 draws a 605 from deck 650
+player 650 discards a 507 to deck 651
+player 650 current hand : 650 93 180 295 810 681 72 870 692 866 875 468 301 217 812 523 475 480 879 605 
+player 650 draws a 189 from deck 650
+player 650 discards a 93 to deck 651
+player 650 current hand : 650 180 295 810 681 72 870 692 866 875 468 301 217 812 523 475 480 879 605 189 
+player 650 draws a 601 from deck 650
+player 650 discards a 180 to deck 651
+player 650 current hand : 650 295 810 681 72 870 692 866 875 468 301 217 812 523 475 480 879 605 189 601 
+player 650 draws a 944 from deck 650
+player 650 discards a 295 to deck 651
+player 650 current hand : 650 810 681 72 870 692 866 875 468 301 217 812 523 475 480 879 605 189 601 944 
+player 650 draws a 822 from deck 650
+player 650 discards a 810 to deck 651
+player 650 current hand : 650 681 72 870 692 866 875 468 301 217 812 523 475 480 879 605 189 601 944 822 
+player 650 draws a 437 from deck 650
+player 650 discards a 681 to deck 651
+player 650 current hand : 650 72 870 692 866 875 468 301 217 812 523 475 480 879 605 189 601 944 822 437 
+player 650 draws a 718 from deck 650
+player 650 discards a 72 to deck 651
+player 650 current hand : 650 870 692 866 875 468 301 217 812 523 475 480 879 605 189 601 944 822 437 718 
+player 650 draws a 12 from deck 650
+player 650 discards a 870 to deck 651
+player 650 current hand : 650 692 866 875 468 301 217 812 523 475 480 879 605 189 601 944 822 437 718 12 
+player 650 draws a 527 from deck 650
+player 650 discards a 692 to deck 651
+player 650 current hand : 650 866 875 468 301 217 812 523 475 480 879 605 189 601 944 822 437 718 12 527 
+player 650 draws a 497 from deck 650
+player 650 discards a 866 to deck 651
+player 650 current hand : 650 875 468 301 217 812 523 475 480 879 605 189 601 944 822 437 718 12 527 497 
+player 650 draws a 991 from deck 650
+player 650 discards a 875 to deck 651
+player 650 current hand : 650 468 301 217 812 523 475 480 879 605 189 601 944 822 437 718 12 527 497 991 
+player 650 draws a 187 from deck 650
+player 650 discards a 468 to deck 651
+player 650 current hand : 650 301 217 812 523 475 480 879 605 189 601 944 822 437 718 12 527 497 991 187 
+player 650 draws a 498 from deck 650
+player 650 discards a 301 to deck 651
+player 650 current hand : 650 217 812 523 475 480 879 605 189 601 944 822 437 718 12 527 497 991 187 498 
+player 650 draws a 870 from deck 650
+player 650 discards a 217 to deck 651
+player 650 current hand : 650 812 523 475 480 879 605 189 601 944 822 437 718 12 527 497 991 187 498 870 

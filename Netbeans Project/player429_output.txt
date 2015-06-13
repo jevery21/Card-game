@@ -1,0 +1,316 @@
+player 429 initial hand 229 241 702 325 264 426 489 128 696 163 570 214 955 263 630 66 426 720 879 160 
+player 429 draws a 12 from deck 429
+player 429 discards a 229 to deck 430
+player 429 current hand : 241 702 325 264 426 489 128 696 163 570 214 955 263 630 66 426 720 879 160 12 
+player 429 draws a 825 from deck 429
+player 429 discards a 241 to deck 430
+player 429 current hand : 702 325 264 426 489 128 696 163 570 214 955 263 630 66 426 720 879 160 12 825 
+player 429 draws a 120 from deck 429
+player 429 discards a 702 to deck 430
+player 429 current hand : 325 264 426 489 128 696 163 570 214 955 263 630 66 426 720 879 160 12 825 120 
+player 429 draws a 775 from deck 429
+player 429 discards a 325 to deck 430
+player 429 current hand : 264 426 489 128 696 163 570 214 955 263 630 66 426 720 879 160 12 825 120 775 
+player 429 draws a 177 from deck 429
+player 429 discards a 264 to deck 430
+player 429 current hand : 426 489 128 696 163 570 214 955 263 630 66 426 720 879 160 12 825 120 775 177 
+player 429 draws a 62 from deck 429
+player 429 discards a 426 to deck 430
+player 429 current hand : 489 128 696 163 570 214 955 263 630 66 426 720 879 160 12 825 120 775 177 62 
+player 429 draws a 655 from deck 429
+player 429 discards a 489 to deck 430
+player 429 current hand : 128 696 163 570 214 955 263 630 66 426 720 879 160 12 825 120 775 177 62 655 
+player 429 draws a 563 from deck 429
+player 429 discards a 128 to deck 430
+player 429 current hand : 696 163 570 214 955 263 630 66 426 720 879 160 12 825 120 775 177 62 655 563 
+player 429 draws a 71 from deck 429
+player 429 discards a 696 to deck 430
+player 429 current hand : 163 570 214 955 263 630 66 426 720 879 160 12 825 120 775 177 62 655 563 71 
+player 429 draws a 296 from deck 429
+player 429 discards a 163 to deck 430
+player 429 current hand : 570 214 955 263 630 66 426 720 879 160 12 825 120 775 177 62 655 563 71 296 
+player 429 draws a 351 from deck 429
+player 429 discards a 570 to deck 430
+player 429 current hand : 214 955 263 630 66 426 720 879 160 12 825 120 775 177 62 655 563 71 296 351 
+player 429 draws a 862 from deck 429
+player 429 discards a 214 to deck 430
+player 429 current hand : 955 263 630 66 426 720 879 160 12 825 120 775 177 62 655 563 71 296 351 862 
+player 429 draws a 805 from deck 429
+player 429 discards a 955 to deck 430
+player 429 current hand : 263 630 66 426 720 879 160 12 825 120 775 177 62 655 563 71 296 351 862 805 
+player 429 draws a 760 from deck 429
+player 429 discards a 263 to deck 430
+player 429 current hand : 630 66 426 720 879 160 12 825 120 775 177 62 655 563 71 296 351 862 805 760 
+player 429 draws a 4 from deck 429
+player 429 discards a 630 to deck 430
+player 429 current hand : 66 426 720 879 160 12 825 120 775 177 62 655 563 71 296 351 862 805 760 4 
+player 429 draws a 755 from deck 429
+player 429 discards a 66 to deck 430
+player 429 current hand : 426 720 879 160 12 825 120 775 177 62 655 563 71 296 351 862 805 760 4 755 
+player 429 draws a 661 from deck 429
+player 429 discards a 426 to deck 430
+player 429 current hand : 720 879 160 12 825 120 775 177 62 655 563 71 296 351 862 805 760 4 755 661 
+player 429 draws a 862 from deck 429
+player 429 discards a 720 to deck 430
+player 429 current hand : 879 160 12 825 120 775 177 62 655 563 71 296 351 862 805 760 4 755 661 862 
+player 429 draws a 293 from deck 429
+player 429 discards a 879 to deck 430
+player 429 current hand : 160 12 825 120 775 177 62 655 563 71 296 351 862 805 760 4 755 661 862 293 
+player 429 draws a 970 from deck 429
+player 429 discards a 160 to deck 430
+player 429 current hand : 12 825 120 775 177 62 655 563 71 296 351 862 805 760 4 755 661 862 293 970 
+player 429 draws a 354 from deck 429
+player 429 discards a 12 to deck 430
+player 429 current hand : 825 120 775 177 62 655 563 71 296 351 862 805 760 4 755 661 862 293 970 354 
+player 429 draws a 566 from deck 429
+player 429 discards a 825 to deck 430
+player 429 current hand : 120 775 177 62 655 563 71 296 351 862 805 760 4 755 661 862 293 970 354 566 
+player 429 draws a 255 from deck 429
+player 429 discards a 120 to deck 430
+player 429 current hand : 775 177 62 655 563 71 296 351 862 805 760 4 755 661 862 293 970 354 566 255 
+player 429 draws a 401 from deck 429
+player 429 discards a 775 to deck 430
+player 429 current hand : 177 62 655 563 71 296 351 862 805 760 4 755 661 862 293 970 354 566 255 401 
+player 429 draws a 505 from deck 429
+player 429 discards a 177 to deck 430
+player 429 current hand : 62 655 563 71 296 351 862 805 760 4 755 661 862 293 970 354 566 255 401 505 
+player 429 draws a 564 from deck 429
+player 429 discards a 62 to deck 430
+player 429 current hand : 655 563 71 296 351 862 805 760 4 755 661 862 293 970 354 566 255 401 505 564 
+player 429 draws a 252 from deck 429
+player 429 discards a 655 to deck 430
+player 429 current hand : 563 71 296 351 862 805 760 4 755 661 862 293 970 354 566 255 401 505 564 252 
+player 429 draws a 574 from deck 429
+player 429 discards a 563 to deck 430
+player 429 current hand : 71 296 351 862 805 760 4 755 661 862 293 970 354 566 255 401 505 564 252 574 
+player 429 draws a 578 from deck 429
+player 429 discards a 71 to deck 430
+player 429 current hand : 296 351 862 805 760 4 755 661 862 293 970 354 566 255 401 505 564 252 574 578 
+player 429 draws a 429 from deck 429
+player 429 discards a 296 to deck 430
+player 429 current hand : 351 862 805 760 4 755 661 862 293 970 354 566 255 401 505 564 252 574 578 429 
+player 429 draws a 11 from deck 429
+player 429 discards a 351 to deck 430
+player 429 current hand : 862 805 760 4 755 661 862 293 970 354 566 255 401 505 564 252 574 578 429 11 
+player 429 draws a 670 from deck 429
+player 429 discards a 862 to deck 430
+player 429 current hand : 805 760 4 755 661 862 293 970 354 566 255 401 505 564 252 574 578 429 11 670 
+player 429 draws a 105 from deck 429
+player 429 discards a 805 to deck 430
+player 429 current hand : 760 4 755 661 862 293 970 354 566 255 401 505 564 252 574 578 429 11 670 105 
+player 429 draws a 819 from deck 429
+player 429 discards a 760 to deck 430
+player 429 current hand : 4 755 661 862 293 970 354 566 255 401 505 564 252 574 578 429 11 670 105 819 
+player 429 draws a 708 from deck 429
+player 429 discards a 4 to deck 430
+player 429 current hand : 755 661 862 293 970 354 566 255 401 505 564 252 574 578 429 11 670 105 819 708 
+player 429 draws a 265 from deck 429
+player 429 discards a 755 to deck 430
+player 429 current hand : 661 862 293 970 354 566 255 401 505 564 252 574 578 429 11 670 105 819 708 265 
+player 429 draws a 636 from deck 429
+player 429 discards a 661 to deck 430
+player 429 current hand : 862 293 970 354 566 255 401 505 564 252 574 578 429 11 670 105 819 708 265 636 
+player 429 draws a 305 from deck 429
+player 429 discards a 862 to deck 430
+player 429 current hand : 293 970 354 566 255 401 505 564 252 574 578 429 11 670 105 819 708 265 636 305 
+player 429 draws a 426 from deck 429
+player 429 discards a 293 to deck 430
+player 429 current hand : 970 354 566 255 401 505 564 252 574 578 429 11 670 105 819 708 265 636 305 426 
+player 429 draws a 4 from deck 429
+player 429 discards a 970 to deck 430
+player 429 current hand : 354 566 255 401 505 564 252 574 578 429 11 670 105 819 708 265 636 305 426 4 
+player 429 draws a 643 from deck 429
+player 429 discards a 354 to deck 430
+player 429 current hand : 566 255 401 505 564 252 574 578 429 11 670 105 819 708 265 636 305 426 4 643 
+player 429 draws a 729 from deck 429
+player 429 discards a 566 to deck 430
+player 429 current hand : 255 401 505 564 252 574 578 429 11 670 105 819 708 265 636 305 426 4 643 729 
+player 429 draws a 600 from deck 429
+player 429 discards a 255 to deck 430
+player 429 current hand : 401 505 564 252 574 578 429 11 670 105 819 708 265 636 305 426 4 643 729 600 
+player 429 draws a 971 from deck 429
+player 429 discards a 401 to deck 430
+player 429 current hand : 505 564 252 574 578 429 11 670 105 819 708 265 636 305 426 4 643 729 600 971 
+player 429 draws a 958 from deck 429
+player 429 discards a 505 to deck 430
+player 429 current hand : 564 252 574 578 429 11 670 105 819 708 265 636 305 426 4 643 729 600 971 958 
+player 429 draws a 239 from deck 429
+player 429 discards a 564 to deck 430
+player 429 current hand : 252 574 578 429 11 670 105 819 708 265 636 305 426 4 643 729 600 971 958 239 
+player 429 draws a 814 from deck 429
+player 429 discards a 252 to deck 430
+player 429 current hand : 574 578 429 11 670 105 819 708 265 636 305 426 4 643 729 600 971 958 239 814 
+player 429 draws a 47 from deck 429
+player 429 discards a 574 to deck 430
+player 429 current hand : 578 429 11 670 105 819 708 265 636 305 426 4 643 729 600 971 958 239 814 47 
+player 429 draws a 475 from deck 429
+player 429 discards a 578 to deck 430
+player 429 current hand : 429 11 670 105 819 708 265 636 305 426 4 643 729 600 971 958 239 814 47 475 
+player 429 draws a 429 from deck 429
+player 429 discards a 11 to deck 430
+player 429 current hand : 429 670 105 819 708 265 636 305 426 4 643 729 600 971 958 239 814 47 475 429 
+player 429 draws a 587 from deck 429
+player 429 discards a 670 to deck 430
+player 429 current hand : 429 105 819 708 265 636 305 426 4 643 729 600 971 958 239 814 47 475 429 587 
+player 429 draws a 390 from deck 429
+player 429 discards a 105 to deck 430
+player 429 current hand : 429 819 708 265 636 305 426 4 643 729 600 971 958 239 814 47 475 429 587 390 
+player 429 draws a 410 from deck 429
+player 429 discards a 819 to deck 430
+player 429 current hand : 429 708 265 636 305 426 4 643 729 600 971 958 239 814 47 475 429 587 390 410 
+player 429 draws a 133 from deck 429
+player 429 discards a 708 to deck 430
+player 429 current hand : 429 265 636 305 426 4 643 729 600 971 958 239 814 47 475 429 587 390 410 133 
+player 429 draws a 518 from deck 429
+player 429 discards a 265 to deck 430
+player 429 current hand : 429 636 305 426 4 643 729 600 971 958 239 814 47 475 429 587 390 410 133 518 
+player 429 draws a 593 from deck 429
+player 429 discards a 636 to deck 430
+player 429 current hand : 429 305 426 4 643 729 600 971 958 239 814 47 475 429 587 390 410 133 518 593 
+player 429 draws a 856 from deck 429
+player 429 discards a 305 to deck 430
+player 429 current hand : 429 426 4 643 729 600 971 958 239 814 47 475 429 587 390 410 133 518 593 856 
+player 429 draws a 209 from deck 429
+player 429 discards a 426 to deck 430
+player 429 current hand : 429 4 643 729 600 971 958 239 814 47 475 429 587 390 410 133 518 593 856 209 
+player 429 draws a 824 from deck 429
+player 429 discards a 4 to deck 430
+player 429 current hand : 429 643 729 600 971 958 239 814 47 475 429 587 390 410 133 518 593 856 209 824 
+player 429 draws a 266 from deck 429
+player 429 discards a 643 to deck 430
+player 429 current hand : 429 729 600 971 958 239 814 47 475 429 587 390 410 133 518 593 856 209 824 266 
+player 429 draws a 691 from deck 429
+player 429 discards a 729 to deck 430
+player 429 current hand : 429 600 971 958 239 814 47 475 429 587 390 410 133 518 593 856 209 824 266 691 
+player 429 draws a 970 from deck 429
+player 429 discards a 600 to deck 430
+player 429 current hand : 429 971 958 239 814 47 475 429 587 390 410 133 518 593 856 209 824 266 691 970 
+player 429 draws a 153 from deck 429
+player 429 discards a 971 to deck 430
+player 429 current hand : 429 958 239 814 47 475 429 587 390 410 133 518 593 856 209 824 266 691 970 153 
+player 429 draws a 189 from deck 429
+player 429 discards a 958 to deck 430
+player 429 current hand : 429 239 814 47 475 429 587 390 410 133 518 593 856 209 824 266 691 970 153 189 
+player 429 draws a 830 from deck 429
+player 429 discards a 239 to deck 430
+player 429 current hand : 429 814 47 475 429 587 390 410 133 518 593 856 209 824 266 691 970 153 189 830 
+player 429 draws a 530 from deck 429
+player 429 discards a 814 to deck 430
+player 429 current hand : 429 47 475 429 587 390 410 133 518 593 856 209 824 266 691 970 153 189 830 530 
+player 429 draws a 395 from deck 429
+player 429 discards a 47 to deck 430
+player 429 current hand : 429 475 429 587 390 410 133 518 593 856 209 824 266 691 970 153 189 830 530 395 
+player 429 draws a 346 from deck 429
+player 429 discards a 475 to deck 430
+player 429 current hand : 429 429 587 390 410 133 518 593 856 209 824 266 691 970 153 189 830 530 395 346 
+player 429 draws a 736 from deck 429
+player 429 discards a 587 to deck 430
+player 429 current hand : 429 429 390 410 133 518 593 856 209 824 266 691 970 153 189 830 530 395 346 736 
+player 429 draws a 802 from deck 429
+player 429 discards a 390 to deck 430
+player 429 current hand : 429 429 410 133 518 593 856 209 824 266 691 970 153 189 830 530 395 346 736 802 
+player 429 draws a 978 from deck 429
+player 429 discards a 410 to deck 430
+player 429 current hand : 429 429 133 518 593 856 209 824 266 691 970 153 189 830 530 395 346 736 802 978 
+player 429 draws a 97 from deck 429
+player 429 discards a 133 to deck 430
+player 429 current hand : 429 429 518 593 856 209 824 266 691 970 153 189 830 530 395 346 736 802 978 97 
+player 429 draws a 978 from deck 429
+player 429 discards a 518 to deck 430
+player 429 current hand : 429 429 593 856 209 824 266 691 970 153 189 830 530 395 346 736 802 978 97 978 
+player 429 draws a 54 from deck 429
+player 429 discards a 593 to deck 430
+player 429 current hand : 429 429 856 209 824 266 691 970 153 189 830 530 395 346 736 802 978 97 978 54 
+player 429 draws a 595 from deck 429
+player 429 discards a 856 to deck 430
+player 429 current hand : 429 429 209 824 266 691 970 153 189 830 530 395 346 736 802 978 97 978 54 595 
+player 429 draws a 412 from deck 429
+player 429 discards a 209 to deck 430
+player 429 current hand : 429 429 824 266 691 970 153 189 830 530 395 346 736 802 978 97 978 54 595 412 
+player 429 draws a 375 from deck 429
+player 429 discards a 824 to deck 430
+player 429 current hand : 429 429 266 691 970 153 189 830 530 395 346 736 802 978 97 978 54 595 412 375 
+player 429 draws a 27 from deck 429
+player 429 discards a 266 to deck 430
+player 429 current hand : 429 429 691 970 153 189 830 530 395 346 736 802 978 97 978 54 595 412 375 27 
+player 429 draws a 866 from deck 429
+player 429 discards a 691 to deck 430
+player 429 current hand : 429 429 970 153 189 830 530 395 346 736 802 978 97 978 54 595 412 375 27 866 
+player 429 draws a 177 from deck 429
+player 429 discards a 970 to deck 430
+player 429 current hand : 429 429 153 189 830 530 395 346 736 802 978 97 978 54 595 412 375 27 866 177 
+player 429 draws a 977 from deck 429
+player 429 discards a 153 to deck 430
+player 429 current hand : 429 429 189 830 530 395 346 736 802 978 97 978 54 595 412 375 27 866 177 977 
+player 429 draws a 834 from deck 429
+player 429 discards a 189 to deck 430
+player 429 current hand : 429 429 830 530 395 346 736 802 978 97 978 54 595 412 375 27 866 177 977 834 
+player 429 draws a 221 from deck 429
+player 429 discards a 830 to deck 430
+player 429 current hand : 429 429 530 395 346 736 802 978 97 978 54 595 412 375 27 866 177 977 834 221 
+player 429 draws a 556 from deck 429
+player 429 discards a 530 to deck 430
+player 429 current hand : 429 429 395 346 736 802 978 97 978 54 595 412 375 27 866 177 977 834 221 556 
+player 429 draws a 280 from deck 429
+player 429 discards a 395 to deck 430
+player 429 current hand : 429 429 346 736 802 978 97 978 54 595 412 375 27 866 177 977 834 221 556 280 
+player 429 draws a 478 from deck 429
+player 429 discards a 346 to deck 430
+player 429 current hand : 429 429 736 802 978 97 978 54 595 412 375 27 866 177 977 834 221 556 280 478 
+player 429 draws a 568 from deck 429
+player 429 discards a 736 to deck 430
+player 429 current hand : 429 429 802 978 97 978 54 595 412 375 27 866 177 977 834 221 556 280 478 568 
+player 429 draws a 632 from deck 429
+player 429 discards a 802 to deck 430
+player 429 current hand : 429 429 978 97 978 54 595 412 375 27 866 177 977 834 221 556 280 478 568 632 
+player 429 draws a 112 from deck 429
+player 429 discards a 978 to deck 430
+player 429 current hand : 429 429 97 978 54 595 412 375 27 866 177 977 834 221 556 280 478 568 632 112 
+player 429 draws a 841 from deck 429
+player 429 discards a 97 to deck 430
+player 429 current hand : 429 429 978 54 595 412 375 27 866 177 977 834 221 556 280 478 568 632 112 841 
+player 429 draws a 271 from deck 429
+player 429 discards a 978 to deck 430
+player 429 current hand : 429 429 54 595 412 375 27 866 177 977 834 221 556 280 478 568 632 112 841 271 
+player 429 draws a 280 from deck 429
+player 429 discards a 54 to deck 430
+player 429 current hand : 429 429 595 412 375 27 866 177 977 834 221 556 280 478 568 632 112 841 271 280 
+player 429 draws a 107 from deck 429
+player 429 discards a 595 to deck 430
+player 429 current hand : 429 429 412 375 27 866 177 977 834 221 556 280 478 568 632 112 841 271 280 107 
+player 429 draws a 4 from deck 429
+player 429 discards a 412 to deck 430
+player 429 current hand : 429 429 375 27 866 177 977 834 221 556 280 478 568 632 112 841 271 280 107 4 
+player 429 draws a 113 from deck 429
+player 429 discards a 375 to deck 430
+player 429 current hand : 429 429 27 866 177 977 834 221 556 280 478 568 632 112 841 271 280 107 4 113 
+player 429 draws a 125 from deck 429
+player 429 discards a 27 to deck 430
+player 429 current hand : 429 429 866 177 977 834 221 556 280 478 568 632 112 841 271 280 107 4 113 125 
+player 429 draws a 229 from deck 429
+player 429 discards a 866 to deck 430
+player 429 current hand : 429 429 177 977 834 221 556 280 478 568 632 112 841 271 280 107 4 113 125 229 
+player 429 draws a 453 from deck 429
+player 429 discards a 177 to deck 430
+player 429 current hand : 429 429 977 834 221 556 280 478 568 632 112 841 271 280 107 4 113 125 229 453 
+player 429 draws a 670 from deck 429
+player 429 discards a 977 to deck 430
+player 429 current hand : 429 429 834 221 556 280 478 568 632 112 841 271 280 107 4 113 125 229 453 670 
+player 429 draws a 320 from deck 429
+player 429 discards a 834 to deck 430
+player 429 current hand : 429 429 221 556 280 478 568 632 112 841 271 280 107 4 113 125 229 453 670 320 
+player 429 draws a 417 from deck 429
+player 429 discards a 221 to deck 430
+player 429 current hand : 429 429 556 280 478 568 632 112 841 271 280 107 4 113 125 229 453 670 320 417 
+player 429 draws a 210 from deck 429
+player 429 discards a 556 to deck 430
+player 429 current hand : 429 429 280 478 568 632 112 841 271 280 107 4 113 125 229 453 670 320 417 210 
+player 429 draws a 309 from deck 429
+player 429 discards a 280 to deck 430
+player 429 current hand : 429 429 478 568 632 112 841 271 280 107 4 113 125 229 453 670 320 417 210 309 
+player 429 draws a 565 from deck 429
+player 429 discards a 478 to deck 430
+player 429 current hand : 429 429 568 632 112 841 271 280 107 4 113 125 229 453 670 320 417 210 309 565 
+player 429 draws a 496 from deck 429
+player 429 discards a 568 to deck 430
+player 429 current hand : 429 429 632 112 841 271 280 107 4 113 125 229 453 670 320 417 210 309 565 496 

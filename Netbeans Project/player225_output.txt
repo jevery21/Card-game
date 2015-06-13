@@ -1,0 +1,304 @@
+player 225 initial hand 581 253 589 272 77 856 632 293 33 555 4 707 4 862 78 392 463 179 232 84 
+player 225 draws a 729 from deck 225
+player 225 discards a 581 to deck 226
+player 225 current hand : 253 589 272 77 856 632 293 33 555 4 707 4 862 78 392 463 179 232 84 729 
+player 225 draws a 156 from deck 225
+player 225 discards a 253 to deck 226
+player 225 current hand : 589 272 77 856 632 293 33 555 4 707 4 862 78 392 463 179 232 84 729 156 
+player 225 draws a 578 from deck 225
+player 225 discards a 589 to deck 226
+player 225 current hand : 272 77 856 632 293 33 555 4 707 4 862 78 392 463 179 232 84 729 156 578 
+player 225 draws a 422 from deck 225
+player 225 discards a 272 to deck 226
+player 225 current hand : 77 856 632 293 33 555 4 707 4 862 78 392 463 179 232 84 729 156 578 422 
+player 225 draws a 150 from deck 225
+player 225 discards a 77 to deck 226
+player 225 current hand : 856 632 293 33 555 4 707 4 862 78 392 463 179 232 84 729 156 578 422 150 
+player 225 draws a 979 from deck 225
+player 225 discards a 856 to deck 226
+player 225 current hand : 632 293 33 555 4 707 4 862 78 392 463 179 232 84 729 156 578 422 150 979 
+player 225 draws a 405 from deck 225
+player 225 discards a 632 to deck 226
+player 225 current hand : 293 33 555 4 707 4 862 78 392 463 179 232 84 729 156 578 422 150 979 405 
+player 225 draws a 872 from deck 225
+player 225 discards a 293 to deck 226
+player 225 current hand : 33 555 4 707 4 862 78 392 463 179 232 84 729 156 578 422 150 979 405 872 
+player 225 draws a 180 from deck 225
+player 225 discards a 33 to deck 226
+player 225 current hand : 555 4 707 4 862 78 392 463 179 232 84 729 156 578 422 150 979 405 872 180 
+player 225 draws a 861 from deck 225
+player 225 discards a 555 to deck 226
+player 225 current hand : 4 707 4 862 78 392 463 179 232 84 729 156 578 422 150 979 405 872 180 861 
+player 225 draws a 315 from deck 225
+player 225 discards a 4 to deck 226
+player 225 current hand : 707 4 862 78 392 463 179 232 84 729 156 578 422 150 979 405 872 180 861 315 
+player 225 draws a 351 from deck 225
+player 225 discards a 707 to deck 226
+player 225 current hand : 4 862 78 392 463 179 232 84 729 156 578 422 150 979 405 872 180 861 315 351 
+player 225 draws a 705 from deck 225
+player 225 discards a 4 to deck 226
+player 225 current hand : 862 78 392 463 179 232 84 729 156 578 422 150 979 405 872 180 861 315 351 705 
+player 225 draws a 543 from deck 225
+player 225 discards a 862 to deck 226
+player 225 current hand : 78 392 463 179 232 84 729 156 578 422 150 979 405 872 180 861 315 351 705 543 
+player 225 draws a 346 from deck 225
+player 225 discards a 78 to deck 226
+player 225 current hand : 392 463 179 232 84 729 156 578 422 150 979 405 872 180 861 315 351 705 543 346 
+player 225 draws a 31 from deck 225
+player 225 discards a 392 to deck 226
+player 225 current hand : 463 179 232 84 729 156 578 422 150 979 405 872 180 861 315 351 705 543 346 31 
+player 225 draws a 153 from deck 225
+player 225 discards a 463 to deck 226
+player 225 current hand : 179 232 84 729 156 578 422 150 979 405 872 180 861 315 351 705 543 346 31 153 
+player 225 draws a 507 from deck 225
+player 225 discards a 179 to deck 226
+player 225 current hand : 232 84 729 156 578 422 150 979 405 872 180 861 315 351 705 543 346 31 153 507 
+player 225 draws a 163 from deck 225
+player 225 discards a 232 to deck 226
+player 225 current hand : 84 729 156 578 422 150 979 405 872 180 861 315 351 705 543 346 31 153 507 163 
+player 225 draws a 816 from deck 225
+player 225 discards a 84 to deck 226
+player 225 current hand : 729 156 578 422 150 979 405 872 180 861 315 351 705 543 346 31 153 507 163 816 
+player 225 draws a 550 from deck 225
+player 225 discards a 729 to deck 226
+player 225 current hand : 156 578 422 150 979 405 872 180 861 315 351 705 543 346 31 153 507 163 816 550 
+player 225 draws a 86 from deck 225
+player 225 discards a 156 to deck 226
+player 225 current hand : 578 422 150 979 405 872 180 861 315 351 705 543 346 31 153 507 163 816 550 86 
+player 225 draws a 927 from deck 225
+player 225 discards a 578 to deck 226
+player 225 current hand : 422 150 979 405 872 180 861 315 351 705 543 346 31 153 507 163 816 550 86 927 
+player 225 draws a 375 from deck 225
+player 225 discards a 422 to deck 226
+player 225 current hand : 150 979 405 872 180 861 315 351 705 543 346 31 153 507 163 816 550 86 927 375 
+player 225 draws a 554 from deck 225
+player 225 discards a 150 to deck 226
+player 225 current hand : 979 405 872 180 861 315 351 705 543 346 31 153 507 163 816 550 86 927 375 554 
+player 225 draws a 159 from deck 225
+player 225 discards a 979 to deck 226
+player 225 current hand : 405 872 180 861 315 351 705 543 346 31 153 507 163 816 550 86 927 375 554 159 
+player 225 draws a 833 from deck 225
+player 225 discards a 405 to deck 226
+player 225 current hand : 872 180 861 315 351 705 543 346 31 153 507 163 816 550 86 927 375 554 159 833 
+player 225 draws a 33 from deck 225
+player 225 discards a 872 to deck 226
+player 225 current hand : 180 861 315 351 705 543 346 31 153 507 163 816 550 86 927 375 554 159 833 33 
+player 225 draws a 234 from deck 225
+player 225 discards a 180 to deck 226
+player 225 current hand : 861 315 351 705 543 346 31 153 507 163 816 550 86 927 375 554 159 833 33 234 
+player 225 draws a 898 from deck 225
+player 225 discards a 861 to deck 226
+player 225 current hand : 315 351 705 543 346 31 153 507 163 816 550 86 927 375 554 159 833 33 234 898 
+player 225 draws a 925 from deck 225
+player 225 discards a 315 to deck 226
+player 225 current hand : 351 705 543 346 31 153 507 163 816 550 86 927 375 554 159 833 33 234 898 925 
+player 225 draws a 720 from deck 225
+player 225 discards a 351 to deck 226
+player 225 current hand : 705 543 346 31 153 507 163 816 550 86 927 375 554 159 833 33 234 898 925 720 
+player 225 draws a 603 from deck 225
+player 225 discards a 705 to deck 226
+player 225 current hand : 543 346 31 153 507 163 816 550 86 927 375 554 159 833 33 234 898 925 720 603 
+player 225 draws a 941 from deck 225
+player 225 discards a 543 to deck 226
+player 225 current hand : 346 31 153 507 163 816 550 86 927 375 554 159 833 33 234 898 925 720 603 941 
+player 225 draws a 870 from deck 225
+player 225 discards a 346 to deck 226
+player 225 current hand : 31 153 507 163 816 550 86 927 375 554 159 833 33 234 898 925 720 603 941 870 
+player 225 draws a 457 from deck 225
+player 225 discards a 31 to deck 226
+player 225 current hand : 153 507 163 816 550 86 927 375 554 159 833 33 234 898 925 720 603 941 870 457 
+player 225 draws a 634 from deck 225
+player 225 discards a 153 to deck 226
+player 225 current hand : 507 163 816 550 86 927 375 554 159 833 33 234 898 925 720 603 941 870 457 634 
+player 225 draws a 544 from deck 225
+player 225 discards a 507 to deck 226
+player 225 current hand : 163 816 550 86 927 375 554 159 833 33 234 898 925 720 603 941 870 457 634 544 
+player 225 draws a 483 from deck 225
+player 225 discards a 163 to deck 226
+player 225 current hand : 816 550 86 927 375 554 159 833 33 234 898 925 720 603 941 870 457 634 544 483 
+player 225 draws a 691 from deck 225
+player 225 discards a 816 to deck 226
+player 225 current hand : 550 86 927 375 554 159 833 33 234 898 925 720 603 941 870 457 634 544 483 691 
+player 225 draws a 5 from deck 225
+player 225 discards a 550 to deck 226
+player 225 current hand : 86 927 375 554 159 833 33 234 898 925 720 603 941 870 457 634 544 483 691 5 
+player 225 draws a 141 from deck 225
+player 225 discards a 86 to deck 226
+player 225 current hand : 927 375 554 159 833 33 234 898 925 720 603 941 870 457 634 544 483 691 5 141 
+player 225 draws a 666 from deck 225
+player 225 discards a 927 to deck 226
+player 225 current hand : 375 554 159 833 33 234 898 925 720 603 941 870 457 634 544 483 691 5 141 666 
+player 225 draws a 598 from deck 225
+player 225 discards a 375 to deck 226
+player 225 current hand : 554 159 833 33 234 898 925 720 603 941 870 457 634 544 483 691 5 141 666 598 
+player 225 draws a 834 from deck 225
+player 225 discards a 554 to deck 226
+player 225 current hand : 159 833 33 234 898 925 720 603 941 870 457 634 544 483 691 5 141 666 598 834 
+player 225 draws a 647 from deck 225
+player 225 discards a 159 to deck 226
+player 225 current hand : 833 33 234 898 925 720 603 941 870 457 634 544 483 691 5 141 666 598 834 647 
+player 225 draws a 473 from deck 225
+player 225 discards a 833 to deck 226
+player 225 current hand : 33 234 898 925 720 603 941 870 457 634 544 483 691 5 141 666 598 834 647 473 
+player 225 draws a 657 from deck 225
+player 225 discards a 33 to deck 226
+player 225 current hand : 234 898 925 720 603 941 870 457 634 544 483 691 5 141 666 598 834 647 473 657 
+player 225 draws a 872 from deck 225
+player 225 discards a 234 to deck 226
+player 225 current hand : 898 925 720 603 941 870 457 634 544 483 691 5 141 666 598 834 647 473 657 872 
+player 225 draws a 668 from deck 225
+player 225 discards a 898 to deck 226
+player 225 current hand : 925 720 603 941 870 457 634 544 483 691 5 141 666 598 834 647 473 657 872 668 
+player 225 draws a 832 from deck 225
+player 225 discards a 925 to deck 226
+player 225 current hand : 720 603 941 870 457 634 544 483 691 5 141 666 598 834 647 473 657 872 668 832 
+player 225 draws a 358 from deck 225
+player 225 discards a 720 to deck 226
+player 225 current hand : 603 941 870 457 634 544 483 691 5 141 666 598 834 647 473 657 872 668 832 358 
+player 225 draws a 686 from deck 225
+player 225 discards a 603 to deck 226
+player 225 current hand : 941 870 457 634 544 483 691 5 141 666 598 834 647 473 657 872 668 832 358 686 
+player 225 draws a 332 from deck 225
+player 225 discards a 941 to deck 226
+player 225 current hand : 870 457 634 544 483 691 5 141 666 598 834 647 473 657 872 668 832 358 686 332 
+player 225 draws a 554 from deck 225
+player 225 discards a 870 to deck 226
+player 225 current hand : 457 634 544 483 691 5 141 666 598 834 647 473 657 872 668 832 358 686 332 554 
+player 225 draws a 507 from deck 225
+player 225 discards a 457 to deck 226
+player 225 current hand : 634 544 483 691 5 141 666 598 834 647 473 657 872 668 832 358 686 332 554 507 
+player 225 draws a 554 from deck 225
+player 225 discards a 634 to deck 226
+player 225 current hand : 544 483 691 5 141 666 598 834 647 473 657 872 668 832 358 686 332 554 507 554 
+player 225 draws a 332 from deck 225
+player 225 discards a 544 to deck 226
+player 225 current hand : 483 691 5 141 666 598 834 647 473 657 872 668 832 358 686 332 554 507 554 332 
+player 225 draws a 634 from deck 225
+player 225 discards a 483 to deck 226
+player 225 current hand : 691 5 141 666 598 834 647 473 657 872 668 832 358 686 332 554 507 554 332 634 
+player 225 draws a 188 from deck 225
+player 225 discards a 691 to deck 226
+player 225 current hand : 5 141 666 598 834 647 473 657 872 668 832 358 686 332 554 507 554 332 634 188 
+player 225 draws a 47 from deck 225
+player 225 discards a 5 to deck 226
+player 225 current hand : 141 666 598 834 647 473 657 872 668 832 358 686 332 554 507 554 332 634 188 47 
+player 225 draws a 835 from deck 225
+player 225 discards a 141 to deck 226
+player 225 current hand : 666 598 834 647 473 657 872 668 832 358 686 332 554 507 554 332 634 188 47 835 
+player 225 draws a 351 from deck 225
+player 225 discards a 666 to deck 226
+player 225 current hand : 598 834 647 473 657 872 668 832 358 686 332 554 507 554 332 634 188 47 835 351 
+player 225 draws a 164 from deck 225
+player 225 discards a 598 to deck 226
+player 225 current hand : 834 647 473 657 872 668 832 358 686 332 554 507 554 332 634 188 47 835 351 164 
+player 225 draws a 680 from deck 225
+player 225 discards a 834 to deck 226
+player 225 current hand : 647 473 657 872 668 832 358 686 332 554 507 554 332 634 188 47 835 351 164 680 
+player 225 draws a 247 from deck 225
+player 225 discards a 647 to deck 226
+player 225 current hand : 473 657 872 668 832 358 686 332 554 507 554 332 634 188 47 835 351 164 680 247 
+player 225 draws a 162 from deck 225
+player 225 discards a 473 to deck 226
+player 225 current hand : 657 872 668 832 358 686 332 554 507 554 332 634 188 47 835 351 164 680 247 162 
+player 225 draws a 10 from deck 225
+player 225 discards a 657 to deck 226
+player 225 current hand : 872 668 832 358 686 332 554 507 554 332 634 188 47 835 351 164 680 247 162 10 
+player 225 draws a 321 from deck 225
+player 225 discards a 872 to deck 226
+player 225 current hand : 668 832 358 686 332 554 507 554 332 634 188 47 835 351 164 680 247 162 10 321 
+player 225 draws a 747 from deck 225
+player 225 discards a 668 to deck 226
+player 225 current hand : 832 358 686 332 554 507 554 332 634 188 47 835 351 164 680 247 162 10 321 747 
+player 225 draws a 888 from deck 225
+player 225 discards a 832 to deck 226
+player 225 current hand : 358 686 332 554 507 554 332 634 188 47 835 351 164 680 247 162 10 321 747 888 
+player 225 draws a 44 from deck 225
+player 225 discards a 358 to deck 226
+player 225 current hand : 686 332 554 507 554 332 634 188 47 835 351 164 680 247 162 10 321 747 888 44 
+player 225 draws a 509 from deck 225
+player 225 discards a 686 to deck 226
+player 225 current hand : 332 554 507 554 332 634 188 47 835 351 164 680 247 162 10 321 747 888 44 509 
+player 225 draws a 268 from deck 225
+player 225 discards a 332 to deck 226
+player 225 current hand : 554 507 554 332 634 188 47 835 351 164 680 247 162 10 321 747 888 44 509 268 
+player 225 draws a 237 from deck 225
+player 225 discards a 554 to deck 226
+player 225 current hand : 507 554 332 634 188 47 835 351 164 680 247 162 10 321 747 888 44 509 268 237 
+player 225 draws a 731 from deck 225
+player 225 discards a 507 to deck 226
+player 225 current hand : 554 332 634 188 47 835 351 164 680 247 162 10 321 747 888 44 509 268 237 731 
+player 225 draws a 988 from deck 225
+player 225 discards a 554 to deck 226
+player 225 current hand : 332 634 188 47 835 351 164 680 247 162 10 321 747 888 44 509 268 237 731 988 
+player 225 draws a 906 from deck 225
+player 225 discards a 332 to deck 226
+player 225 current hand : 634 188 47 835 351 164 680 247 162 10 321 747 888 44 509 268 237 731 988 906 
+player 225 draws a 879 from deck 225
+player 225 discards a 634 to deck 226
+player 225 current hand : 188 47 835 351 164 680 247 162 10 321 747 888 44 509 268 237 731 988 906 879 
+player 225 draws a 972 from deck 225
+player 225 discards a 188 to deck 226
+player 225 current hand : 47 835 351 164 680 247 162 10 321 747 888 44 509 268 237 731 988 906 879 972 
+player 225 draws a 175 from deck 225
+player 225 discards a 47 to deck 226
+player 225 current hand : 835 351 164 680 247 162 10 321 747 888 44 509 268 237 731 988 906 879 972 175 
+player 225 draws a 351 from deck 225
+player 225 discards a 835 to deck 226
+player 225 current hand : 351 164 680 247 162 10 321 747 888 44 509 268 237 731 988 906 879 972 175 351 
+player 225 draws a 500 from deck 225
+player 225 discards a 351 to deck 226
+player 225 current hand : 164 680 247 162 10 321 747 888 44 509 268 237 731 988 906 879 972 175 351 500 
+player 225 draws a 927 from deck 225
+player 225 discards a 164 to deck 226
+player 225 current hand : 680 247 162 10 321 747 888 44 509 268 237 731 988 906 879 972 175 351 500 927 
+player 225 draws a 157 from deck 225
+player 225 discards a 680 to deck 226
+player 225 current hand : 247 162 10 321 747 888 44 509 268 237 731 988 906 879 972 175 351 500 927 157 
+player 225 draws a 308 from deck 225
+player 225 discards a 247 to deck 226
+player 225 current hand : 162 10 321 747 888 44 509 268 237 731 988 906 879 972 175 351 500 927 157 308 
+player 225 draws a 386 from deck 225
+player 225 discards a 162 to deck 226
+player 225 current hand : 10 321 747 888 44 509 268 237 731 988 906 879 972 175 351 500 927 157 308 386 
+player 225 draws a 498 from deck 225
+player 225 discards a 10 to deck 226
+player 225 current hand : 321 747 888 44 509 268 237 731 988 906 879 972 175 351 500 927 157 308 386 498 
+player 225 draws a 23 from deck 225
+player 225 discards a 321 to deck 226
+player 225 current hand : 747 888 44 509 268 237 731 988 906 879 972 175 351 500 927 157 308 386 498 23 
+player 225 draws a 86 from deck 225
+player 225 discards a 747 to deck 226
+player 225 current hand : 888 44 509 268 237 731 988 906 879 972 175 351 500 927 157 308 386 498 23 86 
+player 225 draws a 728 from deck 225
+player 225 discards a 888 to deck 226
+player 225 current hand : 44 509 268 237 731 988 906 879 972 175 351 500 927 157 308 386 498 23 86 728 
+player 225 draws a 252 from deck 225
+player 225 discards a 44 to deck 226
+player 225 current hand : 509 268 237 731 988 906 879 972 175 351 500 927 157 308 386 498 23 86 728 252 
+player 225 draws a 967 from deck 225
+player 225 discards a 509 to deck 226
+player 225 current hand : 268 237 731 988 906 879 972 175 351 500 927 157 308 386 498 23 86 728 252 967 
+player 225 draws a 152 from deck 225
+player 225 discards a 268 to deck 226
+player 225 current hand : 237 731 988 906 879 972 175 351 500 927 157 308 386 498 23 86 728 252 967 152 
+player 225 draws a 718 from deck 225
+player 225 discards a 237 to deck 226
+player 225 current hand : 731 988 906 879 972 175 351 500 927 157 308 386 498 23 86 728 252 967 152 718 
+player 225 draws a 227 from deck 225
+player 225 discards a 731 to deck 226
+player 225 current hand : 988 906 879 972 175 351 500 927 157 308 386 498 23 86 728 252 967 152 718 227 
+player 225 draws a 579 from deck 225
+player 225 discards a 988 to deck 226
+player 225 current hand : 906 879 972 175 351 500 927 157 308 386 498 23 86 728 252 967 152 718 227 579 
+player 225 draws a 922 from deck 225
+player 225 discards a 906 to deck 226
+player 225 current hand : 879 972 175 351 500 927 157 308 386 498 23 86 728 252 967 152 718 227 579 922 
+player 225 draws a 363 from deck 225
+player 225 discards a 879 to deck 226
+player 225 current hand : 972 175 351 500 927 157 308 386 498 23 86 728 252 967 152 718 227 579 922 363 
+player 225 draws a 27 from deck 225
+player 225 discards a 972 to deck 226
+player 225 current hand : 175 351 500 927 157 308 386 498 23 86 728 252 967 152 718 227 579 922 363 27 
+player 225 draws a 784 from deck 225
+player 225 discards a 175 to deck 226
+player 225 current hand : 351 500 927 157 308 386 498 23 86 728 252 967 152 718 227 579 922 363 27 784 

@@ -1,0 +1,313 @@
+player 810 initial hand 500 501 176 176 146 417 504 593 351 746 245 977 18 156 447 973 907 675 255 97 
+player 810 draws a 263 from deck 810
+player 810 discards a 500 to deck 811
+player 810 current hand : 501 176 176 146 417 504 593 351 746 245 977 18 156 447 973 907 675 255 97 263 
+player 810 draws a 661 from deck 810
+player 810 discards a 501 to deck 811
+player 810 current hand : 176 176 146 417 504 593 351 746 245 977 18 156 447 973 907 675 255 97 263 661 
+player 810 draws a 107 from deck 810
+player 810 discards a 176 to deck 811
+player 810 current hand : 176 146 417 504 593 351 746 245 977 18 156 447 973 907 675 255 97 263 661 107 
+player 810 draws a 792 from deck 810
+player 810 discards a 176 to deck 811
+player 810 current hand : 146 417 504 593 351 746 245 977 18 156 447 973 907 675 255 97 263 661 107 792 
+player 810 draws a 233 from deck 810
+player 810 discards a 146 to deck 811
+player 810 current hand : 417 504 593 351 746 245 977 18 156 447 973 907 675 255 97 263 661 107 792 233 
+player 810 draws a 423 from deck 810
+player 810 discards a 417 to deck 811
+player 810 current hand : 504 593 351 746 245 977 18 156 447 973 907 675 255 97 263 661 107 792 233 423 
+player 810 draws a 695 from deck 810
+player 810 discards a 504 to deck 811
+player 810 current hand : 593 351 746 245 977 18 156 447 973 907 675 255 97 263 661 107 792 233 423 695 
+player 810 draws a 51 from deck 810
+player 810 discards a 593 to deck 811
+player 810 current hand : 351 746 245 977 18 156 447 973 907 675 255 97 263 661 107 792 233 423 695 51 
+player 810 draws a 516 from deck 810
+player 810 discards a 351 to deck 811
+player 810 current hand : 746 245 977 18 156 447 973 907 675 255 97 263 661 107 792 233 423 695 51 516 
+player 810 draws a 267 from deck 810
+player 810 discards a 746 to deck 811
+player 810 current hand : 245 977 18 156 447 973 907 675 255 97 263 661 107 792 233 423 695 51 516 267 
+player 810 draws a 798 from deck 810
+player 810 discards a 245 to deck 811
+player 810 current hand : 977 18 156 447 973 907 675 255 97 263 661 107 792 233 423 695 51 516 267 798 
+player 810 draws a 805 from deck 810
+player 810 discards a 977 to deck 811
+player 810 current hand : 18 156 447 973 907 675 255 97 263 661 107 792 233 423 695 51 516 267 798 805 
+player 810 draws a 946 from deck 810
+player 810 discards a 18 to deck 811
+player 810 current hand : 156 447 973 907 675 255 97 263 661 107 792 233 423 695 51 516 267 798 805 946 
+player 810 draws a 810 from deck 810
+player 810 discards a 156 to deck 811
+player 810 current hand : 447 973 907 675 255 97 263 661 107 792 233 423 695 51 516 267 798 805 946 810 
+player 810 draws a 367 from deck 810
+player 810 discards a 447 to deck 811
+player 810 current hand : 973 907 675 255 97 263 661 107 792 233 423 695 51 516 267 798 805 946 810 367 
+player 810 draws a 277 from deck 810
+player 810 discards a 973 to deck 811
+player 810 current hand : 907 675 255 97 263 661 107 792 233 423 695 51 516 267 798 805 946 810 367 277 
+player 810 draws a 984 from deck 810
+player 810 discards a 907 to deck 811
+player 810 current hand : 675 255 97 263 661 107 792 233 423 695 51 516 267 798 805 946 810 367 277 984 
+player 810 draws a 572 from deck 810
+player 810 discards a 675 to deck 811
+player 810 current hand : 255 97 263 661 107 792 233 423 695 51 516 267 798 805 946 810 367 277 984 572 
+player 810 draws a 947 from deck 810
+player 810 discards a 255 to deck 811
+player 810 current hand : 97 263 661 107 792 233 423 695 51 516 267 798 805 946 810 367 277 984 572 947 
+player 810 draws a 274 from deck 810
+player 810 discards a 97 to deck 811
+player 810 current hand : 263 661 107 792 233 423 695 51 516 267 798 805 946 810 367 277 984 572 947 274 
+player 810 draws a 923 from deck 810
+player 810 discards a 263 to deck 811
+player 810 current hand : 661 107 792 233 423 695 51 516 267 798 805 946 810 367 277 984 572 947 274 923 
+player 810 draws a 142 from deck 810
+player 810 discards a 661 to deck 811
+player 810 current hand : 107 792 233 423 695 51 516 267 798 805 946 810 367 277 984 572 947 274 923 142 
+player 810 draws a 887 from deck 810
+player 810 discards a 107 to deck 811
+player 810 current hand : 792 233 423 695 51 516 267 798 805 946 810 367 277 984 572 947 274 923 142 887 
+player 810 draws a 267 from deck 810
+player 810 discards a 792 to deck 811
+player 810 current hand : 233 423 695 51 516 267 798 805 946 810 367 277 984 572 947 274 923 142 887 267 
+player 810 draws a 422 from deck 810
+player 810 discards a 233 to deck 811
+player 810 current hand : 423 695 51 516 267 798 805 946 810 367 277 984 572 947 274 923 142 887 267 422 
+player 810 draws a 238 from deck 810
+player 810 discards a 423 to deck 811
+player 810 current hand : 695 51 516 267 798 805 946 810 367 277 984 572 947 274 923 142 887 267 422 238 
+player 810 draws a 152 from deck 810
+player 810 discards a 695 to deck 811
+player 810 current hand : 51 516 267 798 805 946 810 367 277 984 572 947 274 923 142 887 267 422 238 152 
+player 810 draws a 721 from deck 810
+player 810 discards a 51 to deck 811
+player 810 current hand : 516 267 798 805 946 810 367 277 984 572 947 274 923 142 887 267 422 238 152 721 
+player 810 draws a 645 from deck 810
+player 810 discards a 516 to deck 811
+player 810 current hand : 267 798 805 946 810 367 277 984 572 947 274 923 142 887 267 422 238 152 721 645 
+player 810 draws a 852 from deck 810
+player 810 discards a 267 to deck 811
+player 810 current hand : 798 805 946 810 367 277 984 572 947 274 923 142 887 267 422 238 152 721 645 852 
+player 810 draws a 849 from deck 810
+player 810 discards a 798 to deck 811
+player 810 current hand : 805 946 810 367 277 984 572 947 274 923 142 887 267 422 238 152 721 645 852 849 
+player 810 draws a 939 from deck 810
+player 810 discards a 805 to deck 811
+player 810 current hand : 946 810 367 277 984 572 947 274 923 142 887 267 422 238 152 721 645 852 849 939 
+player 810 draws a 632 from deck 810
+player 810 discards a 946 to deck 811
+player 810 current hand : 810 367 277 984 572 947 274 923 142 887 267 422 238 152 721 645 852 849 939 632 
+player 810 draws a 328 from deck 810
+player 810 discards a 367 to deck 811
+player 810 current hand : 810 277 984 572 947 274 923 142 887 267 422 238 152 721 645 852 849 939 632 328 
+player 810 draws a 899 from deck 810
+player 810 discards a 277 to deck 811
+player 810 current hand : 810 984 572 947 274 923 142 887 267 422 238 152 721 645 852 849 939 632 328 899 
+player 810 draws a 200 from deck 810
+player 810 discards a 984 to deck 811
+player 810 current hand : 810 572 947 274 923 142 887 267 422 238 152 721 645 852 849 939 632 328 899 200 
+player 810 draws a 712 from deck 810
+player 810 discards a 572 to deck 811
+player 810 current hand : 810 947 274 923 142 887 267 422 238 152 721 645 852 849 939 632 328 899 200 712 
+player 810 draws a 123 from deck 810
+player 810 discards a 947 to deck 811
+player 810 current hand : 810 274 923 142 887 267 422 238 152 721 645 852 849 939 632 328 899 200 712 123 
+player 810 draws a 425 from deck 810
+player 810 discards a 274 to deck 811
+player 810 current hand : 810 923 142 887 267 422 238 152 721 645 852 849 939 632 328 899 200 712 123 425 
+player 810 draws a 971 from deck 810
+player 810 discards a 923 to deck 811
+player 810 current hand : 810 142 887 267 422 238 152 721 645 852 849 939 632 328 899 200 712 123 425 971 
+player 810 draws a 369 from deck 810
+player 810 discards a 142 to deck 811
+player 810 current hand : 810 887 267 422 238 152 721 645 852 849 939 632 328 899 200 712 123 425 971 369 
+player 810 draws a 899 from deck 810
+player 810 discards a 887 to deck 811
+player 810 current hand : 810 267 422 238 152 721 645 852 849 939 632 328 899 200 712 123 425 971 369 899 
+player 810 draws a 913 from deck 810
+player 810 discards a 267 to deck 811
+player 810 current hand : 810 422 238 152 721 645 852 849 939 632 328 899 200 712 123 425 971 369 899 913 
+player 810 draws a 309 from deck 810
+player 810 discards a 422 to deck 811
+player 810 current hand : 810 238 152 721 645 852 849 939 632 328 899 200 712 123 425 971 369 899 913 309 
+player 810 draws a 360 from deck 810
+player 810 discards a 238 to deck 811
+player 810 current hand : 810 152 721 645 852 849 939 632 328 899 200 712 123 425 971 369 899 913 309 360 
+player 810 draws a 879 from deck 810
+player 810 discards a 152 to deck 811
+player 810 current hand : 810 721 645 852 849 939 632 328 899 200 712 123 425 971 369 899 913 309 360 879 
+player 810 draws a 879 from deck 810
+player 810 discards a 721 to deck 811
+player 810 current hand : 810 645 852 849 939 632 328 899 200 712 123 425 971 369 899 913 309 360 879 879 
+player 810 draws a 537 from deck 810
+player 810 discards a 645 to deck 811
+player 810 current hand : 810 852 849 939 632 328 899 200 712 123 425 971 369 899 913 309 360 879 879 537 
+player 810 draws a 255 from deck 810
+player 810 discards a 852 to deck 811
+player 810 current hand : 810 849 939 632 328 899 200 712 123 425 971 369 899 913 309 360 879 879 537 255 
+player 810 draws a 841 from deck 810
+player 810 discards a 849 to deck 811
+player 810 current hand : 810 939 632 328 899 200 712 123 425 971 369 899 913 309 360 879 879 537 255 841 
+player 810 draws a 177 from deck 810
+player 810 discards a 939 to deck 811
+player 810 current hand : 810 632 328 899 200 712 123 425 971 369 899 913 309 360 879 879 537 255 841 177 
+player 810 draws a 770 from deck 810
+player 810 discards a 632 to deck 811
+player 810 current hand : 810 328 899 200 712 123 425 971 369 899 913 309 360 879 879 537 255 841 177 770 
+player 810 draws a 591 from deck 810
+player 810 discards a 328 to deck 811
+player 810 current hand : 810 899 200 712 123 425 971 369 899 913 309 360 879 879 537 255 841 177 770 591 
+player 810 draws a 24 from deck 810
+player 810 discards a 899 to deck 811
+player 810 current hand : 810 200 712 123 425 971 369 899 913 309 360 879 879 537 255 841 177 770 591 24 
+player 810 draws a 407 from deck 810
+player 810 discards a 200 to deck 811
+player 810 current hand : 810 712 123 425 971 369 899 913 309 360 879 879 537 255 841 177 770 591 24 407 
+player 810 draws a 874 from deck 810
+player 810 discards a 712 to deck 811
+player 810 current hand : 810 123 425 971 369 899 913 309 360 879 879 537 255 841 177 770 591 24 407 874 
+player 810 draws a 580 from deck 810
+player 810 discards a 123 to deck 811
+player 810 current hand : 810 425 971 369 899 913 309 360 879 879 537 255 841 177 770 591 24 407 874 580 
+player 810 draws a 317 from deck 810
+player 810 discards a 425 to deck 811
+player 810 current hand : 810 971 369 899 913 309 360 879 879 537 255 841 177 770 591 24 407 874 580 317 
+player 810 draws a 470 from deck 810
+player 810 discards a 971 to deck 811
+player 810 current hand : 810 369 899 913 309 360 879 879 537 255 841 177 770 591 24 407 874 580 317 470 
+player 810 draws a 482 from deck 810
+player 810 discards a 369 to deck 811
+player 810 current hand : 810 899 913 309 360 879 879 537 255 841 177 770 591 24 407 874 580 317 470 482 
+player 810 draws a 849 from deck 810
+player 810 discards a 899 to deck 811
+player 810 current hand : 810 913 309 360 879 879 537 255 841 177 770 591 24 407 874 580 317 470 482 849 
+player 810 draws a 396 from deck 810
+player 810 discards a 913 to deck 811
+player 810 current hand : 810 309 360 879 879 537 255 841 177 770 591 24 407 874 580 317 470 482 849 396 
+player 810 draws a 249 from deck 810
+player 810 discards a 309 to deck 811
+player 810 current hand : 810 360 879 879 537 255 841 177 770 591 24 407 874 580 317 470 482 849 396 249 
+player 810 draws a 265 from deck 810
+player 810 discards a 360 to deck 811
+player 810 current hand : 810 879 879 537 255 841 177 770 591 24 407 874 580 317 470 482 849 396 249 265 
+player 810 draws a 834 from deck 810
+player 810 discards a 879 to deck 811
+player 810 current hand : 810 879 537 255 841 177 770 591 24 407 874 580 317 470 482 849 396 249 265 834 
+player 810 draws a 947 from deck 810
+player 810 discards a 879 to deck 811
+player 810 current hand : 810 537 255 841 177 770 591 24 407 874 580 317 470 482 849 396 249 265 834 947 
+player 810 draws a 868 from deck 810
+player 810 discards a 537 to deck 811
+player 810 current hand : 810 255 841 177 770 591 24 407 874 580 317 470 482 849 396 249 265 834 947 868 
+player 810 draws a 96 from deck 810
+player 810 discards a 255 to deck 811
+player 810 current hand : 810 841 177 770 591 24 407 874 580 317 470 482 849 396 249 265 834 947 868 96 
+player 810 draws a 287 from deck 810
+player 810 discards a 841 to deck 811
+player 810 current hand : 810 177 770 591 24 407 874 580 317 470 482 849 396 249 265 834 947 868 96 287 
+player 810 draws a 655 from deck 810
+player 810 discards a 177 to deck 811
+player 810 current hand : 810 770 591 24 407 874 580 317 470 482 849 396 249 265 834 947 868 96 287 655 
+player 810 draws a 696 from deck 810
+player 810 discards a 770 to deck 811
+player 810 current hand : 810 591 24 407 874 580 317 470 482 849 396 249 265 834 947 868 96 287 655 696 
+player 810 draws a 22 from deck 810
+player 810 discards a 591 to deck 811
+player 810 current hand : 810 24 407 874 580 317 470 482 849 396 249 265 834 947 868 96 287 655 696 22 
+player 810 draws a 622 from deck 810
+player 810 discards a 24 to deck 811
+player 810 current hand : 810 407 874 580 317 470 482 849 396 249 265 834 947 868 96 287 655 696 22 622 
+player 810 draws a 586 from deck 810
+player 810 discards a 407 to deck 811
+player 810 current hand : 810 874 580 317 470 482 849 396 249 265 834 947 868 96 287 655 696 22 622 586 
+player 810 draws a 114 from deck 810
+player 810 discards a 874 to deck 811
+player 810 current hand : 810 580 317 470 482 849 396 249 265 834 947 868 96 287 655 696 22 622 586 114 
+player 810 draws a 359 from deck 810
+player 810 discards a 580 to deck 811
+player 810 current hand : 810 317 470 482 849 396 249 265 834 947 868 96 287 655 696 22 622 586 114 359 
+player 810 draws a 501 from deck 810
+player 810 discards a 317 to deck 811
+player 810 current hand : 810 470 482 849 396 249 265 834 947 868 96 287 655 696 22 622 586 114 359 501 
+player 810 draws a 879 from deck 810
+player 810 discards a 470 to deck 811
+player 810 current hand : 810 482 849 396 249 265 834 947 868 96 287 655 696 22 622 586 114 359 501 879 
+player 810 draws a 111 from deck 810
+player 810 discards a 482 to deck 811
+player 810 current hand : 810 849 396 249 265 834 947 868 96 287 655 696 22 622 586 114 359 501 879 111 
+player 810 draws a 51 from deck 810
+player 810 discards a 849 to deck 811
+player 810 current hand : 810 396 249 265 834 947 868 96 287 655 696 22 622 586 114 359 501 879 111 51 
+player 810 draws a 939 from deck 810
+player 810 discards a 396 to deck 811
+player 810 current hand : 810 249 265 834 947 868 96 287 655 696 22 622 586 114 359 501 879 111 51 939 
+player 810 draws a 125 from deck 810
+player 810 discards a 249 to deck 811
+player 810 current hand : 810 265 834 947 868 96 287 655 696 22 622 586 114 359 501 879 111 51 939 125 
+player 810 draws a 388 from deck 810
+player 810 discards a 265 to deck 811
+player 810 current hand : 810 834 947 868 96 287 655 696 22 622 586 114 359 501 879 111 51 939 125 388 
+player 810 draws a 558 from deck 810
+player 810 discards a 834 to deck 811
+player 810 current hand : 810 947 868 96 287 655 696 22 622 586 114 359 501 879 111 51 939 125 388 558 
+player 810 draws a 268 from deck 810
+player 810 discards a 947 to deck 811
+player 810 current hand : 810 868 96 287 655 696 22 622 586 114 359 501 879 111 51 939 125 388 558 268 
+player 810 draws a 83 from deck 810
+player 810 discards a 868 to deck 811
+player 810 current hand : 810 96 287 655 696 22 622 586 114 359 501 879 111 51 939 125 388 558 268 83 
+player 810 draws a 177 from deck 810
+player 810 discards a 96 to deck 811
+player 810 current hand : 810 287 655 696 22 622 586 114 359 501 879 111 51 939 125 388 558 268 83 177 
+player 810 draws a 525 from deck 810
+player 810 discards a 287 to deck 811
+player 810 current hand : 810 655 696 22 622 586 114 359 501 879 111 51 939 125 388 558 268 83 177 525 
+player 810 draws a 720 from deck 810
+player 810 discards a 655 to deck 811
+player 810 current hand : 810 696 22 622 586 114 359 501 879 111 51 939 125 388 558 268 83 177 525 720 
+player 810 draws a 485 from deck 810
+player 810 discards a 696 to deck 811
+player 810 current hand : 810 22 622 586 114 359 501 879 111 51 939 125 388 558 268 83 177 525 720 485 
+player 810 draws a 45 from deck 810
+player 810 discards a 22 to deck 811
+player 810 current hand : 810 622 586 114 359 501 879 111 51 939 125 388 558 268 83 177 525 720 485 45 
+player 810 draws a 777 from deck 810
+player 810 discards a 622 to deck 811
+player 810 current hand : 810 586 114 359 501 879 111 51 939 125 388 558 268 83 177 525 720 485 45 777 
+player 810 draws a 586 from deck 810
+player 810 discards a 586 to deck 811
+player 810 current hand : 810 114 359 501 879 111 51 939 125 388 558 268 83 177 525 720 485 45 777 586 
+player 810 draws a 52 from deck 810
+player 810 discards a 114 to deck 811
+player 810 current hand : 810 359 501 879 111 51 939 125 388 558 268 83 177 525 720 485 45 777 586 52 
+player 810 draws a 919 from deck 810
+player 810 discards a 359 to deck 811
+player 810 current hand : 810 501 879 111 51 939 125 388 558 268 83 177 525 720 485 45 777 586 52 919 
+player 810 draws a 835 from deck 810
+player 810 discards a 501 to deck 811
+player 810 current hand : 810 879 111 51 939 125 388 558 268 83 177 525 720 485 45 777 586 52 919 835 
+player 810 draws a 621 from deck 810
+player 810 discards a 879 to deck 811
+player 810 current hand : 810 111 51 939 125 388 558 268 83 177 525 720 485 45 777 586 52 919 835 621 
+player 810 draws a 294 from deck 810
+player 810 discards a 111 to deck 811
+player 810 current hand : 810 51 939 125 388 558 268 83 177 525 720 485 45 777 586 52 919 835 621 294 
+player 810 draws a 651 from deck 810
+player 810 discards a 51 to deck 811
+player 810 current hand : 810 939 125 388 558 268 83 177 525 720 485 45 777 586 52 919 835 621 294 651 
+player 810 draws a 731 from deck 810
+player 810 discards a 939 to deck 811
+player 810 current hand : 810 125 388 558 268 83 177 525 720 485 45 777 586 52 919 835 621 294 651 731 
+player 810 draws a 685 from deck 810
+player 810 discards a 125 to deck 811
+player 810 current hand : 810 388 558 268 83 177 525 720 485 45 777 586 52 919 835 621 294 651 731 685 
+player 810 draws a 797 from deck 810
+player 810 discards a 388 to deck 811
+player 810 current hand : 810 558 268 83 177 525 720 485 45 777 586 52 919 835 621 294 651 731 685 797 
+player 810 draws a 321 from deck 810
+player 810 discards a 558 to deck 811
+player 810 current hand : 810 268 83 177 525 720 485 45 777 586 52 919 835 621 294 651 731 685 797 321 
+player 810 draws a 767 from deck 810
+player 810 discards a 268 to deck 811
+player 810 current hand : 810 83 177 525 720 485 45 777 586 52 919 835 621 294 651 731 685 797 321 767 

@@ -1,0 +1,292 @@
+player 331 initial hand 642 946 33 410 365 662 74 791 152 947 145 579 403 942 426 994 124 294 983 798 
+player 331 draws a 449 from deck 331
+player 331 discards a 642 to deck 332
+player 331 current hand : 946 33 410 365 662 74 791 152 947 145 579 403 942 426 994 124 294 983 798 449 
+player 331 draws a 809 from deck 331
+player 331 discards a 946 to deck 332
+player 331 current hand : 33 410 365 662 74 791 152 947 145 579 403 942 426 994 124 294 983 798 449 809 
+player 331 draws a 1000 from deck 331
+player 331 discards a 33 to deck 332
+player 331 current hand : 410 365 662 74 791 152 947 145 579 403 942 426 994 124 294 983 798 449 809 1000 
+player 331 draws a 351 from deck 331
+player 331 discards a 410 to deck 332
+player 331 current hand : 365 662 74 791 152 947 145 579 403 942 426 994 124 294 983 798 449 809 1000 351 
+player 331 draws a 591 from deck 331
+player 331 discards a 365 to deck 332
+player 331 current hand : 662 74 791 152 947 145 579 403 942 426 994 124 294 983 798 449 809 1000 351 591 
+player 331 draws a 105 from deck 331
+player 331 discards a 662 to deck 332
+player 331 current hand : 74 791 152 947 145 579 403 942 426 994 124 294 983 798 449 809 1000 351 591 105 
+player 331 draws a 206 from deck 331
+player 331 discards a 74 to deck 332
+player 331 current hand : 791 152 947 145 579 403 942 426 994 124 294 983 798 449 809 1000 351 591 105 206 
+player 331 draws a 206 from deck 331
+player 331 discards a 791 to deck 332
+player 331 current hand : 152 947 145 579 403 942 426 994 124 294 983 798 449 809 1000 351 591 105 206 206 
+player 331 draws a 464 from deck 331
+player 331 discards a 152 to deck 332
+player 331 current hand : 947 145 579 403 942 426 994 124 294 983 798 449 809 1000 351 591 105 206 206 464 
+player 331 draws a 583 from deck 331
+player 331 discards a 947 to deck 332
+player 331 current hand : 145 579 403 942 426 994 124 294 983 798 449 809 1000 351 591 105 206 206 464 583 
+player 331 draws a 12 from deck 331
+player 331 discards a 145 to deck 332
+player 331 current hand : 579 403 942 426 994 124 294 983 798 449 809 1000 351 591 105 206 206 464 583 12 
+player 331 draws a 875 from deck 331
+player 331 discards a 579 to deck 332
+player 331 current hand : 403 942 426 994 124 294 983 798 449 809 1000 351 591 105 206 206 464 583 12 875 
+player 331 draws a 400 from deck 331
+player 331 discards a 403 to deck 332
+player 331 current hand : 942 426 994 124 294 983 798 449 809 1000 351 591 105 206 206 464 583 12 875 400 
+player 331 draws a 78 from deck 331
+player 331 discards a 942 to deck 332
+player 331 current hand : 426 994 124 294 983 798 449 809 1000 351 591 105 206 206 464 583 12 875 400 78 
+player 331 draws a 11 from deck 331
+player 331 discards a 426 to deck 332
+player 331 current hand : 994 124 294 983 798 449 809 1000 351 591 105 206 206 464 583 12 875 400 78 11 
+player 331 draws a 92 from deck 331
+player 331 discards a 994 to deck 332
+player 331 current hand : 124 294 983 798 449 809 1000 351 591 105 206 206 464 583 12 875 400 78 11 92 
+player 331 draws a 52 from deck 331
+player 331 discards a 124 to deck 332
+player 331 current hand : 294 983 798 449 809 1000 351 591 105 206 206 464 583 12 875 400 78 11 92 52 
+player 331 draws a 55 from deck 331
+player 331 discards a 294 to deck 332
+player 331 current hand : 983 798 449 809 1000 351 591 105 206 206 464 583 12 875 400 78 11 92 52 55 
+player 331 draws a 915 from deck 331
+player 331 discards a 983 to deck 332
+player 331 current hand : 798 449 809 1000 351 591 105 206 206 464 583 12 875 400 78 11 92 52 55 915 
+player 331 draws a 793 from deck 331
+player 331 discards a 798 to deck 332
+player 331 current hand : 449 809 1000 351 591 105 206 206 464 583 12 875 400 78 11 92 52 55 915 793 
+player 331 draws a 449 from deck 331
+player 331 discards a 449 to deck 332
+player 331 current hand : 809 1000 351 591 105 206 206 464 583 12 875 400 78 11 92 52 55 915 793 449 
+player 331 draws a 453 from deck 331
+player 331 discards a 809 to deck 332
+player 331 current hand : 1000 351 591 105 206 206 464 583 12 875 400 78 11 92 52 55 915 793 449 453 
+player 331 draws a 289 from deck 331
+player 331 discards a 1000 to deck 332
+player 331 current hand : 351 591 105 206 206 464 583 12 875 400 78 11 92 52 55 915 793 449 453 289 
+player 331 draws a 834 from deck 331
+player 331 discards a 351 to deck 332
+player 331 current hand : 591 105 206 206 464 583 12 875 400 78 11 92 52 55 915 793 449 453 289 834 
+player 331 draws a 514 from deck 331
+player 331 discards a 591 to deck 332
+player 331 current hand : 105 206 206 464 583 12 875 400 78 11 92 52 55 915 793 449 453 289 834 514 
+player 331 draws a 149 from deck 331
+player 331 discards a 105 to deck 332
+player 331 current hand : 206 206 464 583 12 875 400 78 11 92 52 55 915 793 449 453 289 834 514 149 
+player 331 draws a 920 from deck 331
+player 331 discards a 206 to deck 332
+player 331 current hand : 206 464 583 12 875 400 78 11 92 52 55 915 793 449 453 289 834 514 149 920 
+player 331 draws a 945 from deck 331
+player 331 discards a 206 to deck 332
+player 331 current hand : 464 583 12 875 400 78 11 92 52 55 915 793 449 453 289 834 514 149 920 945 
+player 331 draws a 27 from deck 331
+player 331 discards a 464 to deck 332
+player 331 current hand : 583 12 875 400 78 11 92 52 55 915 793 449 453 289 834 514 149 920 945 27 
+player 331 draws a 729 from deck 331
+player 331 discards a 583 to deck 332
+player 331 current hand : 12 875 400 78 11 92 52 55 915 793 449 453 289 834 514 149 920 945 27 729 
+player 331 draws a 358 from deck 331
+player 331 discards a 12 to deck 332
+player 331 current hand : 875 400 78 11 92 52 55 915 793 449 453 289 834 514 149 920 945 27 729 358 
+player 331 draws a 635 from deck 331
+player 331 discards a 875 to deck 332
+player 331 current hand : 400 78 11 92 52 55 915 793 449 453 289 834 514 149 920 945 27 729 358 635 
+player 331 draws a 280 from deck 331
+player 331 discards a 400 to deck 332
+player 331 current hand : 78 11 92 52 55 915 793 449 453 289 834 514 149 920 945 27 729 358 635 280 
+player 331 draws a 201 from deck 331
+player 331 discards a 78 to deck 332
+player 331 current hand : 11 92 52 55 915 793 449 453 289 834 514 149 920 945 27 729 358 635 280 201 
+player 331 draws a 786 from deck 331
+player 331 discards a 11 to deck 332
+player 331 current hand : 92 52 55 915 793 449 453 289 834 514 149 920 945 27 729 358 635 280 201 786 
+player 331 draws a 999 from deck 331
+player 331 discards a 92 to deck 332
+player 331 current hand : 52 55 915 793 449 453 289 834 514 149 920 945 27 729 358 635 280 201 786 999 
+player 331 draws a 100 from deck 331
+player 331 discards a 52 to deck 332
+player 331 current hand : 55 915 793 449 453 289 834 514 149 920 945 27 729 358 635 280 201 786 999 100 
+player 331 draws a 775 from deck 331
+player 331 discards a 55 to deck 332
+player 331 current hand : 915 793 449 453 289 834 514 149 920 945 27 729 358 635 280 201 786 999 100 775 
+player 331 draws a 676 from deck 331
+player 331 discards a 915 to deck 332
+player 331 current hand : 793 449 453 289 834 514 149 920 945 27 729 358 635 280 201 786 999 100 775 676 
+player 331 draws a 751 from deck 331
+player 331 discards a 793 to deck 332
+player 331 current hand : 449 453 289 834 514 149 920 945 27 729 358 635 280 201 786 999 100 775 676 751 
+player 331 draws a 234 from deck 331
+player 331 discards a 449 to deck 332
+player 331 current hand : 453 289 834 514 149 920 945 27 729 358 635 280 201 786 999 100 775 676 751 234 
+player 331 draws a 861 from deck 331
+player 331 discards a 453 to deck 332
+player 331 current hand : 289 834 514 149 920 945 27 729 358 635 280 201 786 999 100 775 676 751 234 861 
+player 331 draws a 794 from deck 331
+player 331 discards a 289 to deck 332
+player 331 current hand : 834 514 149 920 945 27 729 358 635 280 201 786 999 100 775 676 751 234 861 794 
+player 331 draws a 795 from deck 331
+player 331 discards a 834 to deck 332
+player 331 current hand : 514 149 920 945 27 729 358 635 280 201 786 999 100 775 676 751 234 861 794 795 
+player 331 draws a 746 from deck 331
+player 331 discards a 514 to deck 332
+player 331 current hand : 149 920 945 27 729 358 635 280 201 786 999 100 775 676 751 234 861 794 795 746 
+player 331 draws a 113 from deck 331
+player 331 discards a 149 to deck 332
+player 331 current hand : 920 945 27 729 358 635 280 201 786 999 100 775 676 751 234 861 794 795 746 113 
+player 331 draws a 455 from deck 331
+player 331 discards a 920 to deck 332
+player 331 current hand : 945 27 729 358 635 280 201 786 999 100 775 676 751 234 861 794 795 746 113 455 
+player 331 draws a 156 from deck 331
+player 331 discards a 945 to deck 332
+player 331 current hand : 27 729 358 635 280 201 786 999 100 775 676 751 234 861 794 795 746 113 455 156 
+player 331 draws a 935 from deck 331
+player 331 discards a 27 to deck 332
+player 331 current hand : 729 358 635 280 201 786 999 100 775 676 751 234 861 794 795 746 113 455 156 935 
+player 331 draws a 487 from deck 331
+player 331 discards a 729 to deck 332
+player 331 current hand : 358 635 280 201 786 999 100 775 676 751 234 861 794 795 746 113 455 156 935 487 
+player 331 draws a 951 from deck 331
+player 331 discards a 358 to deck 332
+player 331 current hand : 635 280 201 786 999 100 775 676 751 234 861 794 795 746 113 455 156 935 487 951 
+player 331 draws a 619 from deck 331
+player 331 discards a 635 to deck 332
+player 331 current hand : 280 201 786 999 100 775 676 751 234 861 794 795 746 113 455 156 935 487 951 619 
+player 331 draws a 840 from deck 331
+player 331 discards a 280 to deck 332
+player 331 current hand : 201 786 999 100 775 676 751 234 861 794 795 746 113 455 156 935 487 951 619 840 
+player 331 draws a 595 from deck 331
+player 331 discards a 201 to deck 332
+player 331 current hand : 786 999 100 775 676 751 234 861 794 795 746 113 455 156 935 487 951 619 840 595 
+player 331 draws a 819 from deck 331
+player 331 discards a 786 to deck 332
+player 331 current hand : 999 100 775 676 751 234 861 794 795 746 113 455 156 935 487 951 619 840 595 819 
+player 331 draws a 393 from deck 331
+player 331 discards a 999 to deck 332
+player 331 current hand : 100 775 676 751 234 861 794 795 746 113 455 156 935 487 951 619 840 595 819 393 
+player 331 draws a 778 from deck 331
+player 331 discards a 100 to deck 332
+player 331 current hand : 775 676 751 234 861 794 795 746 113 455 156 935 487 951 619 840 595 819 393 778 
+player 331 draws a 508 from deck 331
+player 331 discards a 775 to deck 332
+player 331 current hand : 676 751 234 861 794 795 746 113 455 156 935 487 951 619 840 595 819 393 778 508 
+player 331 draws a 13 from deck 331
+player 331 discards a 676 to deck 332
+player 331 current hand : 751 234 861 794 795 746 113 455 156 935 487 951 619 840 595 819 393 778 508 13 
+player 331 draws a 224 from deck 331
+player 331 discards a 751 to deck 332
+player 331 current hand : 234 861 794 795 746 113 455 156 935 487 951 619 840 595 819 393 778 508 13 224 
+player 331 draws a 177 from deck 331
+player 331 discards a 234 to deck 332
+player 331 current hand : 861 794 795 746 113 455 156 935 487 951 619 840 595 819 393 778 508 13 224 177 
+player 331 draws a 331 from deck 331
+player 331 discards a 861 to deck 332
+player 331 current hand : 794 795 746 113 455 156 935 487 951 619 840 595 819 393 778 508 13 224 177 331 
+player 331 draws a 844 from deck 331
+player 331 discards a 794 to deck 332
+player 331 current hand : 795 746 113 455 156 935 487 951 619 840 595 819 393 778 508 13 224 177 331 844 
+player 331 draws a 495 from deck 331
+player 331 discards a 795 to deck 332
+player 331 current hand : 746 113 455 156 935 487 951 619 840 595 819 393 778 508 13 224 177 331 844 495 
+player 331 draws a 879 from deck 331
+player 331 discards a 746 to deck 332
+player 331 current hand : 113 455 156 935 487 951 619 840 595 819 393 778 508 13 224 177 331 844 495 879 
+player 331 draws a 396 from deck 331
+player 331 discards a 113 to deck 332
+player 331 current hand : 455 156 935 487 951 619 840 595 819 393 778 508 13 224 177 331 844 495 879 396 
+player 331 draws a 255 from deck 331
+player 331 discards a 455 to deck 332
+player 331 current hand : 156 935 487 951 619 840 595 819 393 778 508 13 224 177 331 844 495 879 396 255 
+player 331 draws a 776 from deck 331
+player 331 discards a 156 to deck 332
+player 331 current hand : 935 487 951 619 840 595 819 393 778 508 13 224 177 331 844 495 879 396 255 776 
+player 331 draws a 321 from deck 331
+player 331 discards a 935 to deck 332
+player 331 current hand : 487 951 619 840 595 819 393 778 508 13 224 177 331 844 495 879 396 255 776 321 
+player 331 draws a 14 from deck 331
+player 331 discards a 487 to deck 332
+player 331 current hand : 951 619 840 595 819 393 778 508 13 224 177 331 844 495 879 396 255 776 321 14 
+player 331 draws a 301 from deck 331
+player 331 discards a 951 to deck 332
+player 331 current hand : 619 840 595 819 393 778 508 13 224 177 331 844 495 879 396 255 776 321 14 301 
+player 331 draws a 515 from deck 331
+player 331 discards a 619 to deck 332
+player 331 current hand : 840 595 819 393 778 508 13 224 177 331 844 495 879 396 255 776 321 14 301 515 
+player 331 draws a 744 from deck 331
+player 331 discards a 840 to deck 332
+player 331 current hand : 595 819 393 778 508 13 224 177 331 844 495 879 396 255 776 321 14 301 515 744 
+player 331 draws a 630 from deck 331
+player 331 discards a 595 to deck 332
+player 331 current hand : 819 393 778 508 13 224 177 331 844 495 879 396 255 776 321 14 301 515 744 630 
+player 331 draws a 667 from deck 331
+player 331 discards a 819 to deck 332
+player 331 current hand : 393 778 508 13 224 177 331 844 495 879 396 255 776 321 14 301 515 744 630 667 
+player 331 draws a 104 from deck 331
+player 331 discards a 393 to deck 332
+player 331 current hand : 778 508 13 224 177 331 844 495 879 396 255 776 321 14 301 515 744 630 667 104 
+player 331 draws a 734 from deck 331
+player 331 discards a 778 to deck 332
+player 331 current hand : 508 13 224 177 331 844 495 879 396 255 776 321 14 301 515 744 630 667 104 734 
+player 331 draws a 210 from deck 331
+player 331 discards a 508 to deck 332
+player 331 current hand : 13 224 177 331 844 495 879 396 255 776 321 14 301 515 744 630 667 104 734 210 
+player 331 draws a 489 from deck 331
+player 331 discards a 13 to deck 332
+player 331 current hand : 224 177 331 844 495 879 396 255 776 321 14 301 515 744 630 667 104 734 210 489 
+player 331 draws a 745 from deck 331
+player 331 discards a 224 to deck 332
+player 331 current hand : 177 331 844 495 879 396 255 776 321 14 301 515 744 630 667 104 734 210 489 745 
+player 331 draws a 813 from deck 331
+player 331 discards a 177 to deck 332
+player 331 current hand : 331 844 495 879 396 255 776 321 14 301 515 744 630 667 104 734 210 489 745 813 
+player 331 draws a 728 from deck 331
+player 331 discards a 844 to deck 332
+player 331 current hand : 331 495 879 396 255 776 321 14 301 515 744 630 667 104 734 210 489 745 813 728 
+player 331 draws a 413 from deck 331
+player 331 discards a 495 to deck 332
+player 331 current hand : 331 879 396 255 776 321 14 301 515 744 630 667 104 734 210 489 745 813 728 413 
+player 331 draws a 927 from deck 331
+player 331 discards a 879 to deck 332
+player 331 current hand : 331 396 255 776 321 14 301 515 744 630 667 104 734 210 489 745 813 728 413 927 
+player 331 draws a 202 from deck 331
+player 331 discards a 396 to deck 332
+player 331 current hand : 331 255 776 321 14 301 515 744 630 667 104 734 210 489 745 813 728 413 927 202 
+player 331 draws a 57 from deck 331
+player 331 discards a 255 to deck 332
+player 331 current hand : 331 776 321 14 301 515 744 630 667 104 734 210 489 745 813 728 413 927 202 57 
+player 331 draws a 705 from deck 331
+player 331 discards a 776 to deck 332
+player 331 current hand : 331 321 14 301 515 744 630 667 104 734 210 489 745 813 728 413 927 202 57 705 
+player 331 draws a 212 from deck 331
+player 331 discards a 321 to deck 332
+player 331 current hand : 331 14 301 515 744 630 667 104 734 210 489 745 813 728 413 927 202 57 705 212 
+player 331 draws a 435 from deck 331
+player 331 discards a 14 to deck 332
+player 331 current hand : 331 301 515 744 630 667 104 734 210 489 745 813 728 413 927 202 57 705 212 435 
+player 331 draws a 240 from deck 331
+player 331 discards a 301 to deck 332
+player 331 current hand : 331 515 744 630 667 104 734 210 489 745 813 728 413 927 202 57 705 212 435 240 
+player 331 draws a 578 from deck 331
+player 331 discards a 515 to deck 332
+player 331 current hand : 331 744 630 667 104 734 210 489 745 813 728 413 927 202 57 705 212 435 240 578 
+player 331 draws a 608 from deck 331
+player 331 discards a 744 to deck 332
+player 331 current hand : 331 630 667 104 734 210 489 745 813 728 413 927 202 57 705 212 435 240 578 608 
+player 331 draws a 199 from deck 331
+player 331 discards a 630 to deck 332
+player 331 current hand : 331 667 104 734 210 489 745 813 728 413 927 202 57 705 212 435 240 578 608 199 
+player 331 draws a 580 from deck 331
+player 331 discards a 667 to deck 332
+player 331 current hand : 331 104 734 210 489 745 813 728 413 927 202 57 705 212 435 240 578 608 199 580 
+player 331 draws a 422 from deck 331
+player 331 discards a 104 to deck 332
+player 331 current hand : 331 734 210 489 745 813 728 413 927 202 57 705 212 435 240 578 608 199 580 422 
+player 331 draws a 717 from deck 331
+player 331 discards a 734 to deck 332
+player 331 current hand : 331 210 489 745 813 728 413 927 202 57 705 212 435 240 578 608 199 580 422 717 
+player 331 draws a 158 from deck 331
+player 331 discards a 210 to deck 332
+player 331 current hand : 331 489 745 813 728 413 927 202 57 705 212 435 240 578 608 199 580 422 717 158 

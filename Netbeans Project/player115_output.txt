@@ -1,0 +1,345 @@
+player 115 initial hand 836 993 143 202 377 641 171 673 702 429 469 734 788 751 436 143 732 956 938 24 
+player 115 draws a 784 from deck 115
+player 115 discards a 836 to deck 116
+player 115 current hand : 993 143 202 377 641 171 673 702 429 469 734 788 751 436 143 732 956 938 24 784 
+player 115 draws a 52 from deck 115
+player 115 discards a 993 to deck 116
+player 115 current hand : 143 202 377 641 171 673 702 429 469 734 788 751 436 143 732 956 938 24 784 52 
+player 115 draws a 163 from deck 115
+player 115 discards a 143 to deck 116
+player 115 current hand : 202 377 641 171 673 702 429 469 734 788 751 436 143 732 956 938 24 784 52 163 
+player 115 draws a 710 from deck 115
+player 115 discards a 202 to deck 116
+player 115 current hand : 377 641 171 673 702 429 469 734 788 751 436 143 732 956 938 24 784 52 163 710 
+player 115 draws a 17 from deck 115
+player 115 discards a 377 to deck 116
+player 115 current hand : 641 171 673 702 429 469 734 788 751 436 143 732 956 938 24 784 52 163 710 17 
+player 115 draws a 514 from deck 115
+player 115 discards a 641 to deck 116
+player 115 current hand : 171 673 702 429 469 734 788 751 436 143 732 956 938 24 784 52 163 710 17 514 
+player 115 draws a 317 from deck 115
+player 115 discards a 171 to deck 116
+player 115 current hand : 673 702 429 469 734 788 751 436 143 732 956 938 24 784 52 163 710 17 514 317 
+player 115 draws a 24 from deck 115
+player 115 discards a 673 to deck 116
+player 115 current hand : 702 429 469 734 788 751 436 143 732 956 938 24 784 52 163 710 17 514 317 24 
+player 115 draws a 391 from deck 115
+player 115 discards a 702 to deck 116
+player 115 current hand : 429 469 734 788 751 436 143 732 956 938 24 784 52 163 710 17 514 317 24 391 
+player 115 draws a 744 from deck 115
+player 115 discards a 429 to deck 116
+player 115 current hand : 469 734 788 751 436 143 732 956 938 24 784 52 163 710 17 514 317 24 391 744 
+player 115 draws a 719 from deck 115
+player 115 discards a 469 to deck 116
+player 115 current hand : 734 788 751 436 143 732 956 938 24 784 52 163 710 17 514 317 24 391 744 719 
+player 115 draws a 745 from deck 115
+player 115 discards a 734 to deck 116
+player 115 current hand : 788 751 436 143 732 956 938 24 784 52 163 710 17 514 317 24 391 744 719 745 
+player 115 draws a 580 from deck 115
+player 115 discards a 788 to deck 116
+player 115 current hand : 751 436 143 732 956 938 24 784 52 163 710 17 514 317 24 391 744 719 745 580 
+player 115 draws a 418 from deck 115
+player 115 discards a 751 to deck 116
+player 115 current hand : 436 143 732 956 938 24 784 52 163 710 17 514 317 24 391 744 719 745 580 418 
+player 115 draws a 736 from deck 115
+player 115 discards a 436 to deck 116
+player 115 current hand : 143 732 956 938 24 784 52 163 710 17 514 317 24 391 744 719 745 580 418 736 
+player 115 draws a 380 from deck 115
+player 115 discards a 143 to deck 116
+player 115 current hand : 732 956 938 24 784 52 163 710 17 514 317 24 391 744 719 745 580 418 736 380 
+player 115 draws a 410 from deck 115
+player 115 discards a 732 to deck 116
+player 115 current hand : 956 938 24 784 52 163 710 17 514 317 24 391 744 719 745 580 418 736 380 410 
+player 115 draws a 868 from deck 115
+player 115 discards a 956 to deck 116
+player 115 current hand : 938 24 784 52 163 710 17 514 317 24 391 744 719 745 580 418 736 380 410 868 
+player 115 draws a 254 from deck 115
+player 115 discards a 938 to deck 116
+player 115 current hand : 24 784 52 163 710 17 514 317 24 391 744 719 745 580 418 736 380 410 868 254 
+player 115 draws a 627 from deck 115
+player 115 discards a 24 to deck 116
+player 115 current hand : 784 52 163 710 17 514 317 24 391 744 719 745 580 418 736 380 410 868 254 627 
+player 115 draws a 870 from deck 115
+player 115 discards a 784 to deck 116
+player 115 current hand : 52 163 710 17 514 317 24 391 744 719 745 580 418 736 380 410 868 254 627 870 
+player 115 draws a 957 from deck 115
+player 115 discards a 52 to deck 116
+player 115 current hand : 163 710 17 514 317 24 391 744 719 745 580 418 736 380 410 868 254 627 870 957 
+player 115 draws a 287 from deck 115
+player 115 discards a 163 to deck 116
+player 115 current hand : 710 17 514 317 24 391 744 719 745 580 418 736 380 410 868 254 627 870 957 287 
+player 115 draws a 653 from deck 115
+player 115 discards a 710 to deck 116
+player 115 current hand : 17 514 317 24 391 744 719 745 580 418 736 380 410 868 254 627 870 957 287 653 
+player 115 draws a 260 from deck 115
+player 115 discards a 17 to deck 116
+player 115 current hand : 514 317 24 391 744 719 745 580 418 736 380 410 868 254 627 870 957 287 653 260 
+player 115 draws a 991 from deck 115
+player 115 discards a 514 to deck 116
+player 115 current hand : 317 24 391 744 719 745 580 418 736 380 410 868 254 627 870 957 287 653 260 991 
+player 115 draws a 303 from deck 115
+player 115 discards a 317 to deck 116
+player 115 current hand : 24 391 744 719 745 580 418 736 380 410 868 254 627 870 957 287 653 260 991 303 
+player 115 draws a 913 from deck 115
+player 115 discards a 24 to deck 116
+player 115 current hand : 391 744 719 745 580 418 736 380 410 868 254 627 870 957 287 653 260 991 303 913 
+player 115 draws a 852 from deck 115
+player 115 discards a 391 to deck 116
+player 115 current hand : 744 719 745 580 418 736 380 410 868 254 627 870 957 287 653 260 991 303 913 852 
+player 115 draws a 739 from deck 115
+player 115 discards a 744 to deck 116
+player 115 current hand : 719 745 580 418 736 380 410 868 254 627 870 957 287 653 260 991 303 913 852 739 
+player 115 draws a 103 from deck 115
+player 115 discards a 719 to deck 116
+player 115 current hand : 745 580 418 736 380 410 868 254 627 870 957 287 653 260 991 303 913 852 739 103 
+player 115 draws a 787 from deck 115
+player 115 discards a 745 to deck 116
+player 115 current hand : 580 418 736 380 410 868 254 627 870 957 287 653 260 991 303 913 852 739 103 787 
+player 115 draws a 188 from deck 115
+player 115 discards a 580 to deck 116
+player 115 current hand : 418 736 380 410 868 254 627 870 957 287 653 260 991 303 913 852 739 103 787 188 
+player 115 draws a 525 from deck 115
+player 115 discards a 418 to deck 116
+player 115 current hand : 736 380 410 868 254 627 870 957 287 653 260 991 303 913 852 739 103 787 188 525 
+player 115 draws a 544 from deck 115
+player 115 discards a 736 to deck 116
+player 115 current hand : 380 410 868 254 627 870 957 287 653 260 991 303 913 852 739 103 787 188 525 544 
+player 115 draws a 674 from deck 115
+player 115 discards a 380 to deck 116
+player 115 current hand : 410 868 254 627 870 957 287 653 260 991 303 913 852 739 103 787 188 525 544 674 
+player 115 draws a 745 from deck 115
+player 115 discards a 410 to deck 116
+player 115 current hand : 868 254 627 870 957 287 653 260 991 303 913 852 739 103 787 188 525 544 674 745 
+player 115 draws a 247 from deck 115
+player 115 discards a 868 to deck 116
+player 115 current hand : 254 627 870 957 287 653 260 991 303 913 852 739 103 787 188 525 544 674 745 247 
+player 115 draws a 758 from deck 115
+player 115 discards a 254 to deck 116
+player 115 current hand : 627 870 957 287 653 260 991 303 913 852 739 103 787 188 525 544 674 745 247 758 
+player 115 draws a 9 from deck 115
+player 115 discards a 627 to deck 116
+player 115 current hand : 870 957 287 653 260 991 303 913 852 739 103 787 188 525 544 674 745 247 758 9 
+player 115 draws a 616 from deck 115
+player 115 discards a 870 to deck 116
+player 115 current hand : 957 287 653 260 991 303 913 852 739 103 787 188 525 544 674 745 247 758 9 616 
+player 115 draws a 239 from deck 115
+player 115 discards a 957 to deck 116
+player 115 current hand : 287 653 260 991 303 913 852 739 103 787 188 525 544 674 745 247 758 9 616 239 
+player 115 draws a 462 from deck 115
+player 115 discards a 287 to deck 116
+player 115 current hand : 653 260 991 303 913 852 739 103 787 188 525 544 674 745 247 758 9 616 239 462 
+player 115 draws a 187 from deck 115
+player 115 discards a 653 to deck 116
+player 115 current hand : 260 991 303 913 852 739 103 787 188 525 544 674 745 247 758 9 616 239 462 187 
+player 115 draws a 177 from deck 115
+player 115 discards a 260 to deck 116
+player 115 current hand : 991 303 913 852 739 103 787 188 525 544 674 745 247 758 9 616 239 462 187 177 
+player 115 draws a 498 from deck 115
+player 115 discards a 991 to deck 116
+player 115 current hand : 303 913 852 739 103 787 188 525 544 674 745 247 758 9 616 239 462 187 177 498 
+player 115 draws a 18 from deck 115
+player 115 discards a 303 to deck 116
+player 115 current hand : 913 852 739 103 787 188 525 544 674 745 247 758 9 616 239 462 187 177 498 18 
+player 115 draws a 635 from deck 115
+player 115 discards a 913 to deck 116
+player 115 current hand : 852 739 103 787 188 525 544 674 745 247 758 9 616 239 462 187 177 498 18 635 
+player 115 draws a 300 from deck 115
+player 115 discards a 852 to deck 116
+player 115 current hand : 739 103 787 188 525 544 674 745 247 758 9 616 239 462 187 177 498 18 635 300 
+player 115 draws a 161 from deck 115
+player 115 discards a 739 to deck 116
+player 115 current hand : 103 787 188 525 544 674 745 247 758 9 616 239 462 187 177 498 18 635 300 161 
+player 115 draws a 162 from deck 115
+player 115 discards a 103 to deck 116
+player 115 current hand : 787 188 525 544 674 745 247 758 9 616 239 462 187 177 498 18 635 300 161 162 
+player 115 draws a 442 from deck 115
+player 115 discards a 787 to deck 116
+player 115 current hand : 188 525 544 674 745 247 758 9 616 239 462 187 177 498 18 635 300 161 162 442 
+player 115 draws a 18 from deck 115
+player 115 discards a 188 to deck 116
+player 115 current hand : 525 544 674 745 247 758 9 616 239 462 187 177 498 18 635 300 161 162 442 18 
+player 115 draws a 319 from deck 115
+player 115 discards a 525 to deck 116
+player 115 current hand : 544 674 745 247 758 9 616 239 462 187 177 498 18 635 300 161 162 442 18 319 
+player 115 draws a 110 from deck 115
+player 115 discards a 544 to deck 116
+player 115 current hand : 674 745 247 758 9 616 239 462 187 177 498 18 635 300 161 162 442 18 319 110 
+player 115 draws a 654 from deck 115
+player 115 discards a 674 to deck 116
+player 115 current hand : 745 247 758 9 616 239 462 187 177 498 18 635 300 161 162 442 18 319 110 654 
+player 115 draws a 269 from deck 115
+player 115 discards a 745 to deck 116
+player 115 current hand : 247 758 9 616 239 462 187 177 498 18 635 300 161 162 442 18 319 110 654 269 
+player 115 draws a 647 from deck 115
+player 115 discards a 247 to deck 116
+player 115 current hand : 758 9 616 239 462 187 177 498 18 635 300 161 162 442 18 319 110 654 269 647 
+player 115 draws a 555 from deck 115
+player 115 discards a 758 to deck 116
+player 115 current hand : 9 616 239 462 187 177 498 18 635 300 161 162 442 18 319 110 654 269 647 555 
+player 115 draws a 783 from deck 115
+player 115 discards a 9 to deck 116
+player 115 current hand : 616 239 462 187 177 498 18 635 300 161 162 442 18 319 110 654 269 647 555 783 
+player 115 draws a 970 from deck 115
+player 115 discards a 616 to deck 116
+player 115 current hand : 239 462 187 177 498 18 635 300 161 162 442 18 319 110 654 269 647 555 783 970 
+player 115 draws a 150 from deck 115
+player 115 discards a 239 to deck 116
+player 115 current hand : 462 187 177 498 18 635 300 161 162 442 18 319 110 654 269 647 555 783 970 150 
+player 115 draws a 993 from deck 115
+player 115 discards a 462 to deck 116
+player 115 current hand : 187 177 498 18 635 300 161 162 442 18 319 110 654 269 647 555 783 970 150 993 
+player 115 draws a 266 from deck 115
+player 115 discards a 187 to deck 116
+player 115 current hand : 177 498 18 635 300 161 162 442 18 319 110 654 269 647 555 783 970 150 993 266 
+player 115 draws a 737 from deck 115
+player 115 discards a 177 to deck 116
+player 115 current hand : 498 18 635 300 161 162 442 18 319 110 654 269 647 555 783 970 150 993 266 737 
+player 115 draws a 586 from deck 115
+player 115 discards a 498 to deck 116
+player 115 current hand : 18 635 300 161 162 442 18 319 110 654 269 647 555 783 970 150 993 266 737 586 
+player 115 draws a 267 from deck 115
+player 115 discards a 18 to deck 116
+player 115 current hand : 635 300 161 162 442 18 319 110 654 269 647 555 783 970 150 993 266 737 586 267 
+player 115 draws a 255 from deck 115
+player 115 discards a 635 to deck 116
+player 115 current hand : 300 161 162 442 18 319 110 654 269 647 555 783 970 150 993 266 737 586 267 255 
+player 115 draws a 787 from deck 115
+player 115 discards a 300 to deck 116
+player 115 current hand : 161 162 442 18 319 110 654 269 647 555 783 970 150 993 266 737 586 267 255 787 
+player 115 draws a 47 from deck 115
+player 115 discards a 161 to deck 116
+player 115 current hand : 162 442 18 319 110 654 269 647 555 783 970 150 993 266 737 586 267 255 787 47 
+player 115 draws a 177 from deck 115
+player 115 discards a 162 to deck 116
+player 115 current hand : 442 18 319 110 654 269 647 555 783 970 150 993 266 737 586 267 255 787 47 177 
+player 115 draws a 970 from deck 115
+player 115 discards a 442 to deck 116
+player 115 current hand : 18 319 110 654 269 647 555 783 970 150 993 266 737 586 267 255 787 47 177 970 
+player 115 draws a 921 from deck 115
+player 115 discards a 18 to deck 116
+player 115 current hand : 319 110 654 269 647 555 783 970 150 993 266 737 586 267 255 787 47 177 970 921 
+player 115 draws a 435 from deck 115
+player 115 discards a 319 to deck 116
+player 115 current hand : 110 654 269 647 555 783 970 150 993 266 737 586 267 255 787 47 177 970 921 435 
+player 115 draws a 596 from deck 115
+player 115 discards a 110 to deck 116
+player 115 current hand : 654 269 647 555 783 970 150 993 266 737 586 267 255 787 47 177 970 921 435 596 
+player 115 draws a 822 from deck 115
+player 115 discards a 654 to deck 116
+player 115 current hand : 269 647 555 783 970 150 993 266 737 586 267 255 787 47 177 970 921 435 596 822 
+player 115 draws a 267 from deck 115
+player 115 discards a 269 to deck 116
+player 115 current hand : 647 555 783 970 150 993 266 737 586 267 255 787 47 177 970 921 435 596 822 267 
+player 115 draws a 975 from deck 115
+player 115 discards a 647 to deck 116
+player 115 current hand : 555 783 970 150 993 266 737 586 267 255 787 47 177 970 921 435 596 822 267 975 
+player 115 draws a 31 from deck 115
+player 115 discards a 555 to deck 116
+player 115 current hand : 783 970 150 993 266 737 586 267 255 787 47 177 970 921 435 596 822 267 975 31 
+player 115 draws a 817 from deck 115
+player 115 discards a 783 to deck 116
+player 115 current hand : 970 150 993 266 737 586 267 255 787 47 177 970 921 435 596 822 267 975 31 817 
+player 115 draws a 514 from deck 115
+player 115 discards a 970 to deck 116
+player 115 current hand : 150 993 266 737 586 267 255 787 47 177 970 921 435 596 822 267 975 31 817 514 
+player 115 draws a 729 from deck 115
+player 115 discards a 150 to deck 116
+player 115 current hand : 993 266 737 586 267 255 787 47 177 970 921 435 596 822 267 975 31 817 514 729 
+player 115 draws a 548 from deck 115
+player 115 discards a 993 to deck 116
+player 115 current hand : 266 737 586 267 255 787 47 177 970 921 435 596 822 267 975 31 817 514 729 548 
+player 115 draws a 101 from deck 115
+player 115 discards a 266 to deck 116
+player 115 current hand : 737 586 267 255 787 47 177 970 921 435 596 822 267 975 31 817 514 729 548 101 
+player 115 draws a 105 from deck 115
+player 115 discards a 737 to deck 116
+player 115 current hand : 586 267 255 787 47 177 970 921 435 596 822 267 975 31 817 514 729 548 101 105 
+player 115 draws a 741 from deck 115
+player 115 discards a 586 to deck 116
+player 115 current hand : 267 255 787 47 177 970 921 435 596 822 267 975 31 817 514 729 548 101 105 741 
+player 115 draws a 134 from deck 115
+player 115 discards a 267 to deck 116
+player 115 current hand : 255 787 47 177 970 921 435 596 822 267 975 31 817 514 729 548 101 105 741 134 
+player 115 draws a 40 from deck 115
+player 115 discards a 255 to deck 116
+player 115 current hand : 787 47 177 970 921 435 596 822 267 975 31 817 514 729 548 101 105 741 134 40 
+player 115 draws a 768 from deck 115
+player 115 discards a 787 to deck 116
+player 115 current hand : 47 177 970 921 435 596 822 267 975 31 817 514 729 548 101 105 741 134 40 768 
+player 115 draws a 483 from deck 115
+player 115 discards a 47 to deck 116
+player 115 current hand : 177 970 921 435 596 822 267 975 31 817 514 729 548 101 105 741 134 40 768 483 
+player 115 draws a 83 from deck 115
+player 115 discards a 177 to deck 116
+player 115 current hand : 970 921 435 596 822 267 975 31 817 514 729 548 101 105 741 134 40 768 483 83 
+player 115 draws a 7 from deck 115
+player 115 discards a 970 to deck 116
+player 115 current hand : 921 435 596 822 267 975 31 817 514 729 548 101 105 741 134 40 768 483 83 7 
+player 115 draws a 670 from deck 115
+player 115 discards a 921 to deck 116
+player 115 current hand : 435 596 822 267 975 31 817 514 729 548 101 105 741 134 40 768 483 83 7 670 
+player 115 draws a 595 from deck 115
+player 115 discards a 435 to deck 116
+player 115 current hand : 596 822 267 975 31 817 514 729 548 101 105 741 134 40 768 483 83 7 670 595 
+player 115 draws a 879 from deck 115
+player 115 discards a 596 to deck 116
+player 115 current hand : 822 267 975 31 817 514 729 548 101 105 741 134 40 768 483 83 7 670 595 879 
+player 115 draws a 212 from deck 115
+player 115 discards a 822 to deck 116
+player 115 current hand : 267 975 31 817 514 729 548 101 105 741 134 40 768 483 83 7 670 595 879 212 
+player 115 draws a 858 from deck 115
+player 115 discards a 267 to deck 116
+player 115 current hand : 975 31 817 514 729 548 101 105 741 134 40 768 483 83 7 670 595 879 212 858 
+player 115 draws a 947 from deck 115
+player 115 discards a 975 to deck 116
+player 115 current hand : 31 817 514 729 548 101 105 741 134 40 768 483 83 7 670 595 879 212 858 947 
+player 115 draws a 146 from deck 115
+player 115 discards a 31 to deck 116
+player 115 current hand : 817 514 729 548 101 105 741 134 40 768 483 83 7 670 595 879 212 858 947 146 
+player 115 draws a 478 from deck 115
+player 115 discards a 817 to deck 116
+player 115 current hand : 514 729 548 101 105 741 134 40 768 483 83 7 670 595 879 212 858 947 146 478 
+player 115 draws a 507 from deck 115
+player 115 discards a 514 to deck 116
+player 115 current hand : 729 548 101 105 741 134 40 768 483 83 7 670 595 879 212 858 947 146 478 507 
+player 115 draws a 780 from deck 115
+player 115 discards a 729 to deck 116
+player 115 current hand : 548 101 105 741 134 40 768 483 83 7 670 595 879 212 858 947 146 478 507 780 
+player 115 draws a 879 from deck 115
+player 115 discards a 548 to deck 116
+player 115 current hand : 101 105 741 134 40 768 483 83 7 670 595 879 212 858 947 146 478 507 780 879 
+player 115 draws a 135 from deck 115
+player 115 discards a 101 to deck 116
+player 115 current hand : 105 741 134 40 768 483 83 7 670 595 879 212 858 947 146 478 507 780 879 135 
+player 115 draws a 885 from deck 115
+player 115 discards a 105 to deck 116
+player 115 current hand : 741 134 40 768 483 83 7 670 595 879 212 858 947 146 478 507 780 879 135 885 
+player 115 draws a 685 from deck 115
+player 115 discards a 741 to deck 116
+player 115 current hand : 134 40 768 483 83 7 670 595 879 212 858 947 146 478 507 780 879 135 885 685 
+player 115 draws a 776 from deck 115
+player 115 discards a 134 to deck 116
+player 115 current hand : 40 768 483 83 7 670 595 879 212 858 947 146 478 507 780 879 135 885 685 776 
+player 115 draws a 329 from deck 115
+player 115 discards a 40 to deck 116
+player 115 current hand : 768 483 83 7 670 595 879 212 858 947 146 478 507 780 879 135 885 685 776 329 
+player 115 draws a 702 from deck 115
+player 115 discards a 768 to deck 116
+player 115 current hand : 483 83 7 670 595 879 212 858 947 146 478 507 780 879 135 885 685 776 329 702 
+player 115 draws a 738 from deck 115
+player 115 discards a 483 to deck 116
+player 115 current hand : 83 7 670 595 879 212 858 947 146 478 507 780 879 135 885 685 776 329 702 738 
+player 115 draws a 612 from deck 115
+player 115 discards a 83 to deck 116
+player 115 current hand : 7 670 595 879 212 858 947 146 478 507 780 879 135 885 685 776 329 702 738 612 
+player 115 draws a 202 from deck 115
+player 115 discards a 7 to deck 116
+player 115 current hand : 670 595 879 212 858 947 146 478 507 780 879 135 885 685 776 329 702 738 612 202 
+player 115 draws a 764 from deck 115
+player 115 discards a 670 to deck 116
+player 115 current hand : 595 879 212 858 947 146 478 507 780 879 135 885 685 776 329 702 738 612 202 764 
+player 115 draws a 286 from deck 115
+player 115 discards a 595 to deck 116
+player 115 current hand : 879 212 858 947 146 478 507 780 879 135 885 685 776 329 702 738 612 202 764 286 
+player 115 draws a 636 from deck 115
+player 115 discards a 879 to deck 116

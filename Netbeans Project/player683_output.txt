@@ -1,0 +1,303 @@
+player 683 initial hand 893 475 571 867 927 434 52 189 283 138 497 325 106 949 289 214 912 137 428 120 
+player 683 draws a 1 from deck 683
+player 683 discards a 893 to deck 684
+player 683 current hand : 475 571 867 927 434 52 189 283 138 497 325 106 949 289 214 912 137 428 120 1 
+player 683 draws a 43 from deck 683
+player 683 discards a 475 to deck 684
+player 683 current hand : 571 867 927 434 52 189 283 138 497 325 106 949 289 214 912 137 428 120 1 43 
+player 683 draws a 86 from deck 683
+player 683 discards a 571 to deck 684
+player 683 current hand : 867 927 434 52 189 283 138 497 325 106 949 289 214 912 137 428 120 1 43 86 
+player 683 draws a 670 from deck 683
+player 683 discards a 867 to deck 684
+player 683 current hand : 927 434 52 189 283 138 497 325 106 949 289 214 912 137 428 120 1 43 86 670 
+player 683 draws a 757 from deck 683
+player 683 discards a 927 to deck 684
+player 683 current hand : 434 52 189 283 138 497 325 106 949 289 214 912 137 428 120 1 43 86 670 757 
+player 683 draws a 645 from deck 683
+player 683 discards a 434 to deck 684
+player 683 current hand : 52 189 283 138 497 325 106 949 289 214 912 137 428 120 1 43 86 670 757 645 
+player 683 draws a 162 from deck 683
+player 683 discards a 52 to deck 684
+player 683 current hand : 189 283 138 497 325 106 949 289 214 912 137 428 120 1 43 86 670 757 645 162 
+player 683 draws a 861 from deck 683
+player 683 discards a 189 to deck 684
+player 683 current hand : 283 138 497 325 106 949 289 214 912 137 428 120 1 43 86 670 757 645 162 861 
+player 683 draws a 482 from deck 683
+player 683 discards a 283 to deck 684
+player 683 current hand : 138 497 325 106 949 289 214 912 137 428 120 1 43 86 670 757 645 162 861 482 
+player 683 draws a 956 from deck 683
+player 683 discards a 138 to deck 684
+player 683 current hand : 497 325 106 949 289 214 912 137 428 120 1 43 86 670 757 645 162 861 482 956 
+player 683 draws a 702 from deck 683
+player 683 discards a 497 to deck 684
+player 683 current hand : 325 106 949 289 214 912 137 428 120 1 43 86 670 757 645 162 861 482 956 702 
+player 683 draws a 865 from deck 683
+player 683 discards a 325 to deck 684
+player 683 current hand : 106 949 289 214 912 137 428 120 1 43 86 670 757 645 162 861 482 956 702 865 
+player 683 draws a 321 from deck 683
+player 683 discards a 106 to deck 684
+player 683 current hand : 949 289 214 912 137 428 120 1 43 86 670 757 645 162 861 482 956 702 865 321 
+player 683 draws a 452 from deck 683
+player 683 discards a 949 to deck 684
+player 683 current hand : 289 214 912 137 428 120 1 43 86 670 757 645 162 861 482 956 702 865 321 452 
+player 683 draws a 642 from deck 683
+player 683 discards a 289 to deck 684
+player 683 current hand : 214 912 137 428 120 1 43 86 670 757 645 162 861 482 956 702 865 321 452 642 
+player 683 draws a 314 from deck 683
+player 683 discards a 214 to deck 684
+player 683 current hand : 912 137 428 120 1 43 86 670 757 645 162 861 482 956 702 865 321 452 642 314 
+player 683 draws a 920 from deck 683
+player 683 discards a 912 to deck 684
+player 683 current hand : 137 428 120 1 43 86 670 757 645 162 861 482 956 702 865 321 452 642 314 920 
+player 683 draws a 429 from deck 683
+player 683 discards a 137 to deck 684
+player 683 current hand : 428 120 1 43 86 670 757 645 162 861 482 956 702 865 321 452 642 314 920 429 
+player 683 draws a 707 from deck 683
+player 683 discards a 428 to deck 684
+player 683 current hand : 120 1 43 86 670 757 645 162 861 482 956 702 865 321 452 642 314 920 429 707 
+player 683 draws a 901 from deck 683
+player 683 discards a 120 to deck 684
+player 683 current hand : 1 43 86 670 757 645 162 861 482 956 702 865 321 452 642 314 920 429 707 901 
+player 683 draws a 928 from deck 683
+player 683 discards a 1 to deck 684
+player 683 current hand : 43 86 670 757 645 162 861 482 956 702 865 321 452 642 314 920 429 707 901 928 
+player 683 draws a 872 from deck 683
+player 683 discards a 43 to deck 684
+player 683 current hand : 86 670 757 645 162 861 482 956 702 865 321 452 642 314 920 429 707 901 928 872 
+player 683 draws a 71 from deck 683
+player 683 discards a 86 to deck 684
+player 683 current hand : 670 757 645 162 861 482 956 702 865 321 452 642 314 920 429 707 901 928 872 71 
+player 683 draws a 711 from deck 683
+player 683 discards a 670 to deck 684
+player 683 current hand : 757 645 162 861 482 956 702 865 321 452 642 314 920 429 707 901 928 872 71 711 
+player 683 draws a 481 from deck 683
+player 683 discards a 757 to deck 684
+player 683 current hand : 645 162 861 482 956 702 865 321 452 642 314 920 429 707 901 928 872 71 711 481 
+player 683 draws a 643 from deck 683
+player 683 discards a 645 to deck 684
+player 683 current hand : 162 861 482 956 702 865 321 452 642 314 920 429 707 901 928 872 71 711 481 643 
+player 683 draws a 764 from deck 683
+player 683 discards a 162 to deck 684
+player 683 current hand : 861 482 956 702 865 321 452 642 314 920 429 707 901 928 872 71 711 481 643 764 
+player 683 draws a 247 from deck 683
+player 683 discards a 861 to deck 684
+player 683 current hand : 482 956 702 865 321 452 642 314 920 429 707 901 928 872 71 711 481 643 764 247 
+player 683 draws a 146 from deck 683
+player 683 discards a 482 to deck 684
+player 683 current hand : 956 702 865 321 452 642 314 920 429 707 901 928 872 71 711 481 643 764 247 146 
+player 683 draws a 736 from deck 683
+player 683 discards a 956 to deck 684
+player 683 current hand : 702 865 321 452 642 314 920 429 707 901 928 872 71 711 481 643 764 247 146 736 
+player 683 draws a 86 from deck 683
+player 683 discards a 702 to deck 684
+player 683 current hand : 865 321 452 642 314 920 429 707 901 928 872 71 711 481 643 764 247 146 736 86 
+player 683 draws a 380 from deck 683
+player 683 discards a 865 to deck 684
+player 683 current hand : 321 452 642 314 920 429 707 901 928 872 71 711 481 643 764 247 146 736 86 380 
+player 683 draws a 500 from deck 683
+player 683 discards a 321 to deck 684
+player 683 current hand : 452 642 314 920 429 707 901 928 872 71 711 481 643 764 247 146 736 86 380 500 
+player 683 draws a 805 from deck 683
+player 683 discards a 452 to deck 684
+player 683 current hand : 642 314 920 429 707 901 928 872 71 711 481 643 764 247 146 736 86 380 500 805 
+player 683 draws a 85 from deck 683
+player 683 discards a 642 to deck 684
+player 683 current hand : 314 920 429 707 901 928 872 71 711 481 643 764 247 146 736 86 380 500 805 85 
+player 683 draws a 577 from deck 683
+player 683 discards a 314 to deck 684
+player 683 current hand : 920 429 707 901 928 872 71 711 481 643 764 247 146 736 86 380 500 805 85 577 
+player 683 draws a 243 from deck 683
+player 683 discards a 920 to deck 684
+player 683 current hand : 429 707 901 928 872 71 711 481 643 764 247 146 736 86 380 500 805 85 577 243 
+player 683 draws a 350 from deck 683
+player 683 discards a 429 to deck 684
+player 683 current hand : 707 901 928 872 71 711 481 643 764 247 146 736 86 380 500 805 85 577 243 350 
+player 683 draws a 401 from deck 683
+player 683 discards a 707 to deck 684
+player 683 current hand : 901 928 872 71 711 481 643 764 247 146 736 86 380 500 805 85 577 243 350 401 
+player 683 draws a 8 from deck 683
+player 683 discards a 901 to deck 684
+player 683 current hand : 928 872 71 711 481 643 764 247 146 736 86 380 500 805 85 577 243 350 401 8 
+player 683 draws a 844 from deck 683
+player 683 discards a 928 to deck 684
+player 683 current hand : 872 71 711 481 643 764 247 146 736 86 380 500 805 85 577 243 350 401 8 844 
+player 683 draws a 1 from deck 683
+player 683 discards a 872 to deck 684
+player 683 current hand : 71 711 481 643 764 247 146 736 86 380 500 805 85 577 243 350 401 8 844 1 
+player 683 draws a 1 from deck 683
+player 683 discards a 71 to deck 684
+player 683 current hand : 711 481 643 764 247 146 736 86 380 500 805 85 577 243 350 401 8 844 1 1 
+player 683 draws a 868 from deck 683
+player 683 discards a 711 to deck 684
+player 683 current hand : 481 643 764 247 146 736 86 380 500 805 85 577 243 350 401 8 844 1 1 868 
+player 683 draws a 582 from deck 683
+player 683 discards a 481 to deck 684
+player 683 current hand : 643 764 247 146 736 86 380 500 805 85 577 243 350 401 8 844 1 1 868 582 
+player 683 draws a 932 from deck 683
+player 683 discards a 643 to deck 684
+player 683 current hand : 764 247 146 736 86 380 500 805 85 577 243 350 401 8 844 1 1 868 582 932 
+player 683 draws a 62 from deck 683
+player 683 discards a 764 to deck 684
+player 683 current hand : 247 146 736 86 380 500 805 85 577 243 350 401 8 844 1 1 868 582 932 62 
+player 683 draws a 175 from deck 683
+player 683 discards a 247 to deck 684
+player 683 current hand : 146 736 86 380 500 805 85 577 243 350 401 8 844 1 1 868 582 932 62 175 
+player 683 draws a 252 from deck 683
+player 683 discards a 146 to deck 684
+player 683 current hand : 736 86 380 500 805 85 577 243 350 401 8 844 1 1 868 582 932 62 175 252 
+player 683 draws a 33 from deck 683
+player 683 discards a 736 to deck 684
+player 683 current hand : 86 380 500 805 85 577 243 350 401 8 844 1 1 868 582 932 62 175 252 33 
+player 683 draws a 305 from deck 683
+player 683 discards a 86 to deck 684
+player 683 current hand : 380 500 805 85 577 243 350 401 8 844 1 1 868 582 932 62 175 252 33 305 
+player 683 draws a 627 from deck 683
+player 683 discards a 380 to deck 684
+player 683 current hand : 500 805 85 577 243 350 401 8 844 1 1 868 582 932 62 175 252 33 305 627 
+player 683 draws a 955 from deck 683
+player 683 discards a 500 to deck 684
+player 683 current hand : 805 85 577 243 350 401 8 844 1 1 868 582 932 62 175 252 33 305 627 955 
+player 683 draws a 919 from deck 683
+player 683 discards a 805 to deck 684
+player 683 current hand : 85 577 243 350 401 8 844 1 1 868 582 932 62 175 252 33 305 627 955 919 
+player 683 draws a 791 from deck 683
+player 683 discards a 85 to deck 684
+player 683 current hand : 577 243 350 401 8 844 1 1 868 582 932 62 175 252 33 305 627 955 919 791 
+player 683 draws a 369 from deck 683
+player 683 discards a 577 to deck 684
+player 683 current hand : 243 350 401 8 844 1 1 868 582 932 62 175 252 33 305 627 955 919 791 369 
+player 683 draws a 742 from deck 683
+player 683 discards a 243 to deck 684
+player 683 current hand : 350 401 8 844 1 1 868 582 932 62 175 252 33 305 627 955 919 791 369 742 
+player 683 draws a 535 from deck 683
+player 683 discards a 350 to deck 684
+player 683 current hand : 401 8 844 1 1 868 582 932 62 175 252 33 305 627 955 919 791 369 742 535 
+player 683 draws a 771 from deck 683
+player 683 discards a 401 to deck 684
+player 683 current hand : 8 844 1 1 868 582 932 62 175 252 33 305 627 955 919 791 369 742 535 771 
+player 683 draws a 403 from deck 683
+player 683 discards a 8 to deck 684
+player 683 current hand : 844 1 1 868 582 932 62 175 252 33 305 627 955 919 791 369 742 535 771 403 
+player 683 draws a 578 from deck 683
+player 683 discards a 844 to deck 684
+player 683 current hand : 1 1 868 582 932 62 175 252 33 305 627 955 919 791 369 742 535 771 403 578 
+player 683 draws a 485 from deck 683
+player 683 discards a 1 to deck 684
+player 683 current hand : 1 868 582 932 62 175 252 33 305 627 955 919 791 369 742 535 771 403 578 485 
+player 683 draws a 452 from deck 683
+player 683 discards a 1 to deck 684
+player 683 current hand : 868 582 932 62 175 252 33 305 627 955 919 791 369 742 535 771 403 578 485 452 
+player 683 draws a 537 from deck 683
+player 683 discards a 868 to deck 684
+player 683 current hand : 582 932 62 175 252 33 305 627 955 919 791 369 742 535 771 403 578 485 452 537 
+player 683 draws a 170 from deck 683
+player 683 discards a 582 to deck 684
+player 683 current hand : 932 62 175 252 33 305 627 955 919 791 369 742 535 771 403 578 485 452 537 170 
+player 683 draws a 310 from deck 683
+player 683 discards a 932 to deck 684
+player 683 current hand : 62 175 252 33 305 627 955 919 791 369 742 535 771 403 578 485 452 537 170 310 
+player 683 draws a 180 from deck 683
+player 683 discards a 62 to deck 684
+player 683 current hand : 175 252 33 305 627 955 919 791 369 742 535 771 403 578 485 452 537 170 310 180 
+player 683 draws a 393 from deck 683
+player 683 discards a 175 to deck 684
+player 683 current hand : 252 33 305 627 955 919 791 369 742 535 771 403 578 485 452 537 170 310 180 393 
+player 683 draws a 451 from deck 683
+player 683 discards a 252 to deck 684
+player 683 current hand : 33 305 627 955 919 791 369 742 535 771 403 578 485 452 537 170 310 180 393 451 
+player 683 draws a 91 from deck 683
+player 683 discards a 33 to deck 684
+player 683 current hand : 305 627 955 919 791 369 742 535 771 403 578 485 452 537 170 310 180 393 451 91 
+player 683 draws a 901 from deck 683
+player 683 discards a 305 to deck 684
+player 683 current hand : 627 955 919 791 369 742 535 771 403 578 485 452 537 170 310 180 393 451 91 901 
+player 683 draws a 612 from deck 683
+player 683 discards a 627 to deck 684
+player 683 current hand : 955 919 791 369 742 535 771 403 578 485 452 537 170 310 180 393 451 91 901 612 
+player 683 draws a 233 from deck 683
+player 683 discards a 955 to deck 684
+player 683 current hand : 919 791 369 742 535 771 403 578 485 452 537 170 310 180 393 451 91 901 612 233 
+player 683 draws a 542 from deck 683
+player 683 discards a 919 to deck 684
+player 683 current hand : 791 369 742 535 771 403 578 485 452 537 170 310 180 393 451 91 901 612 233 542 
+player 683 draws a 115 from deck 683
+player 683 discards a 791 to deck 684
+player 683 current hand : 369 742 535 771 403 578 485 452 537 170 310 180 393 451 91 901 612 233 542 115 
+player 683 draws a 582 from deck 683
+player 683 discards a 369 to deck 684
+player 683 current hand : 742 535 771 403 578 485 452 537 170 310 180 393 451 91 901 612 233 542 115 582 
+player 683 draws a 769 from deck 683
+player 683 discards a 742 to deck 684
+player 683 current hand : 535 771 403 578 485 452 537 170 310 180 393 451 91 901 612 233 542 115 582 769 
+player 683 draws a 946 from deck 683
+player 683 discards a 535 to deck 684
+player 683 current hand : 771 403 578 485 452 537 170 310 180 393 451 91 901 612 233 542 115 582 769 946 
+player 683 draws a 554 from deck 683
+player 683 discards a 771 to deck 684
+player 683 current hand : 403 578 485 452 537 170 310 180 393 451 91 901 612 233 542 115 582 769 946 554 
+player 683 draws a 75 from deck 683
+player 683 discards a 403 to deck 684
+player 683 current hand : 578 485 452 537 170 310 180 393 451 91 901 612 233 542 115 582 769 946 554 75 
+player 683 draws a 254 from deck 683
+player 683 discards a 578 to deck 684
+player 683 current hand : 485 452 537 170 310 180 393 451 91 901 612 233 542 115 582 769 946 554 75 254 
+player 683 draws a 868 from deck 683
+player 683 discards a 485 to deck 684
+player 683 current hand : 452 537 170 310 180 393 451 91 901 612 233 542 115 582 769 946 554 75 254 868 
+player 683 draws a 862 from deck 683
+player 683 discards a 452 to deck 684
+player 683 current hand : 537 170 310 180 393 451 91 901 612 233 542 115 582 769 946 554 75 254 868 862 
+player 683 draws a 305 from deck 683
+player 683 discards a 537 to deck 684
+player 683 current hand : 170 310 180 393 451 91 901 612 233 542 115 582 769 946 554 75 254 868 862 305 
+player 683 draws a 844 from deck 683
+player 683 discards a 170 to deck 684
+player 683 current hand : 310 180 393 451 91 901 612 233 542 115 582 769 946 554 75 254 868 862 305 844 
+player 683 draws a 7 from deck 683
+player 683 discards a 310 to deck 684
+player 683 current hand : 180 393 451 91 901 612 233 542 115 582 769 946 554 75 254 868 862 305 844 7 
+player 683 draws a 590 from deck 683
+player 683 discards a 180 to deck 684
+player 683 current hand : 393 451 91 901 612 233 542 115 582 769 946 554 75 254 868 862 305 844 7 590 
+player 683 draws a 471 from deck 683
+player 683 discards a 393 to deck 684
+player 683 current hand : 451 91 901 612 233 542 115 582 769 946 554 75 254 868 862 305 844 7 590 471 
+player 683 draws a 558 from deck 683
+player 683 discards a 451 to deck 684
+player 683 current hand : 91 901 612 233 542 115 582 769 946 554 75 254 868 862 305 844 7 590 471 558 
+player 683 draws a 463 from deck 683
+player 683 discards a 91 to deck 684
+player 683 current hand : 901 612 233 542 115 582 769 946 554 75 254 868 862 305 844 7 590 471 558 463 
+player 683 draws a 45 from deck 683
+player 683 discards a 901 to deck 684
+player 683 current hand : 612 233 542 115 582 769 946 554 75 254 868 862 305 844 7 590 471 558 463 45 
+player 683 draws a 571 from deck 683
+player 683 discards a 612 to deck 684
+player 683 current hand : 233 542 115 582 769 946 554 75 254 868 862 305 844 7 590 471 558 463 45 571 
+player 683 draws a 856 from deck 683
+player 683 discards a 233 to deck 684
+player 683 current hand : 542 115 582 769 946 554 75 254 868 862 305 844 7 590 471 558 463 45 571 856 
+player 683 draws a 202 from deck 683
+player 683 discards a 542 to deck 684
+player 683 current hand : 115 582 769 946 554 75 254 868 862 305 844 7 590 471 558 463 45 571 856 202 
+player 683 draws a 782 from deck 683
+player 683 discards a 115 to deck 684
+player 683 current hand : 582 769 946 554 75 254 868 862 305 844 7 590 471 558 463 45 571 856 202 782 
+player 683 draws a 989 from deck 683
+player 683 discards a 582 to deck 684
+player 683 current hand : 769 946 554 75 254 868 862 305 844 7 590 471 558 463 45 571 856 202 782 989 
+player 683 draws a 655 from deck 683
+player 683 discards a 769 to deck 684
+player 683 current hand : 946 554 75 254 868 862 305 844 7 590 471 558 463 45 571 856 202 782 989 655 
+player 683 draws a 75 from deck 683
+player 683 discards a 946 to deck 684
+player 683 current hand : 554 75 254 868 862 305 844 7 590 471 558 463 45 571 856 202 782 989 655 75 
+player 683 draws a 374 from deck 683
+player 683 discards a 554 to deck 684
+player 683 current hand : 75 254 868 862 305 844 7 590 471 558 463 45 571 856 202 782 989 655 75 374 
+player 683 draws a 455 from deck 683
+player 683 discards a 75 to deck 684
+player 683 current hand : 254 868 862 305 844 7 590 471 558 463 45 571 856 202 782 989 655 75 374 455 
+player 683 draws a 350 from deck 683
+player 683 discards a 254 to deck 684

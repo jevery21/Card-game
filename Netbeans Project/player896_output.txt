@@ -1,0 +1,302 @@
+player 896 initial hand 674 326 915 149 645 523 691 370 537 52 164 365 424 577 267 539 270 455 893 872 
+player 896 draws a 47 from deck 896
+player 896 discards a 674 to deck 897
+player 896 current hand : 326 915 149 645 523 691 370 537 52 164 365 424 577 267 539 270 455 893 872 47 
+player 896 draws a 757 from deck 896
+player 896 discards a 326 to deck 897
+player 896 current hand : 915 149 645 523 691 370 537 52 164 365 424 577 267 539 270 455 893 872 47 757 
+player 896 draws a 805 from deck 896
+player 896 discards a 915 to deck 897
+player 896 current hand : 149 645 523 691 370 537 52 164 365 424 577 267 539 270 455 893 872 47 757 805 
+player 896 draws a 290 from deck 896
+player 896 discards a 149 to deck 897
+player 896 current hand : 645 523 691 370 537 52 164 365 424 577 267 539 270 455 893 872 47 757 805 290 
+player 896 draws a 248 from deck 896
+player 896 discards a 645 to deck 897
+player 896 current hand : 523 691 370 537 52 164 365 424 577 267 539 270 455 893 872 47 757 805 290 248 
+player 896 draws a 431 from deck 896
+player 896 discards a 523 to deck 897
+player 896 current hand : 691 370 537 52 164 365 424 577 267 539 270 455 893 872 47 757 805 290 248 431 
+player 896 draws a 557 from deck 896
+player 896 discards a 691 to deck 897
+player 896 current hand : 370 537 52 164 365 424 577 267 539 270 455 893 872 47 757 805 290 248 431 557 
+player 896 draws a 27 from deck 896
+player 896 discards a 370 to deck 897
+player 896 current hand : 537 52 164 365 424 577 267 539 270 455 893 872 47 757 805 290 248 431 557 27 
+player 896 draws a 233 from deck 896
+player 896 discards a 537 to deck 897
+player 896 current hand : 52 164 365 424 577 267 539 270 455 893 872 47 757 805 290 248 431 557 27 233 
+player 896 draws a 29 from deck 896
+player 896 discards a 52 to deck 897
+player 896 current hand : 164 365 424 577 267 539 270 455 893 872 47 757 805 290 248 431 557 27 233 29 
+player 896 draws a 501 from deck 896
+player 896 discards a 164 to deck 897
+player 896 current hand : 365 424 577 267 539 270 455 893 872 47 757 805 290 248 431 557 27 233 29 501 
+player 896 draws a 20 from deck 896
+player 896 discards a 365 to deck 897
+player 896 current hand : 424 577 267 539 270 455 893 872 47 757 805 290 248 431 557 27 233 29 501 20 
+player 896 draws a 728 from deck 896
+player 896 discards a 424 to deck 897
+player 896 current hand : 577 267 539 270 455 893 872 47 757 805 290 248 431 557 27 233 29 501 20 728 
+player 896 draws a 618 from deck 896
+player 896 discards a 577 to deck 897
+player 896 current hand : 267 539 270 455 893 872 47 757 805 290 248 431 557 27 233 29 501 20 728 618 
+player 896 draws a 81 from deck 896
+player 896 discards a 267 to deck 897
+player 896 current hand : 539 270 455 893 872 47 757 805 290 248 431 557 27 233 29 501 20 728 618 81 
+player 896 draws a 649 from deck 896
+player 896 discards a 539 to deck 897
+player 896 current hand : 270 455 893 872 47 757 805 290 248 431 557 27 233 29 501 20 728 618 81 649 
+player 896 draws a 272 from deck 896
+player 896 discards a 270 to deck 897
+player 896 current hand : 455 893 872 47 757 805 290 248 431 557 27 233 29 501 20 728 618 81 649 272 
+player 896 draws a 324 from deck 896
+player 896 discards a 455 to deck 897
+player 896 current hand : 893 872 47 757 805 290 248 431 557 27 233 29 501 20 728 618 81 649 272 324 
+player 896 draws a 247 from deck 896
+player 896 discards a 893 to deck 897
+player 896 current hand : 872 47 757 805 290 248 431 557 27 233 29 501 20 728 618 81 649 272 324 247 
+player 896 draws a 524 from deck 896
+player 896 discards a 872 to deck 897
+player 896 current hand : 47 757 805 290 248 431 557 27 233 29 501 20 728 618 81 649 272 324 247 524 
+player 896 draws a 138 from deck 896
+player 896 discards a 47 to deck 897
+player 896 current hand : 757 805 290 248 431 557 27 233 29 501 20 728 618 81 649 272 324 247 524 138 
+player 896 draws a 160 from deck 896
+player 896 discards a 757 to deck 897
+player 896 current hand : 805 290 248 431 557 27 233 29 501 20 728 618 81 649 272 324 247 524 138 160 
+player 896 draws a 7 from deck 896
+player 896 discards a 805 to deck 897
+player 896 current hand : 290 248 431 557 27 233 29 501 20 728 618 81 649 272 324 247 524 138 160 7 
+player 896 draws a 460 from deck 896
+player 896 discards a 290 to deck 897
+player 896 current hand : 248 431 557 27 233 29 501 20 728 618 81 649 272 324 247 524 138 160 7 460 
+player 896 draws a 804 from deck 896
+player 896 discards a 248 to deck 897
+player 896 current hand : 431 557 27 233 29 501 20 728 618 81 649 272 324 247 524 138 160 7 460 804 
+player 896 draws a 473 from deck 896
+player 896 discards a 431 to deck 897
+player 896 current hand : 557 27 233 29 501 20 728 618 81 649 272 324 247 524 138 160 7 460 804 473 
+player 896 draws a 816 from deck 896
+player 896 discards a 557 to deck 897
+player 896 current hand : 27 233 29 501 20 728 618 81 649 272 324 247 524 138 160 7 460 804 473 816 
+player 896 draws a 931 from deck 896
+player 896 discards a 27 to deck 897
+player 896 current hand : 233 29 501 20 728 618 81 649 272 324 247 524 138 160 7 460 804 473 816 931 
+player 896 draws a 538 from deck 896
+player 896 discards a 233 to deck 897
+player 896 current hand : 29 501 20 728 618 81 649 272 324 247 524 138 160 7 460 804 473 816 931 538 
+player 896 draws a 942 from deck 896
+player 896 discards a 29 to deck 897
+player 896 current hand : 501 20 728 618 81 649 272 324 247 524 138 160 7 460 804 473 816 931 538 942 
+player 896 draws a 430 from deck 896
+player 896 discards a 501 to deck 897
+player 896 current hand : 20 728 618 81 649 272 324 247 524 138 160 7 460 804 473 816 931 538 942 430 
+player 896 draws a 612 from deck 896
+player 896 discards a 20 to deck 897
+player 896 current hand : 728 618 81 649 272 324 247 524 138 160 7 460 804 473 816 931 538 942 430 612 
+player 896 draws a 70 from deck 896
+player 896 discards a 728 to deck 897
+player 896 current hand : 618 81 649 272 324 247 524 138 160 7 460 804 473 816 931 538 942 430 612 70 
+player 896 draws a 910 from deck 896
+player 896 discards a 618 to deck 897
+player 896 current hand : 81 649 272 324 247 524 138 160 7 460 804 473 816 931 538 942 430 612 70 910 
+player 896 draws a 930 from deck 896
+player 896 discards a 81 to deck 897
+player 896 current hand : 649 272 324 247 524 138 160 7 460 804 473 816 931 538 942 430 612 70 910 930 
+player 896 draws a 759 from deck 896
+player 896 discards a 649 to deck 897
+player 896 current hand : 272 324 247 524 138 160 7 460 804 473 816 931 538 942 430 612 70 910 930 759 
+player 896 draws a 243 from deck 896
+player 896 discards a 272 to deck 897
+player 896 current hand : 324 247 524 138 160 7 460 804 473 816 931 538 942 430 612 70 910 930 759 243 
+player 896 draws a 81 from deck 896
+player 896 discards a 324 to deck 897
+player 896 current hand : 247 524 138 160 7 460 804 473 816 931 538 942 430 612 70 910 930 759 243 81 
+player 896 draws a 50 from deck 896
+player 896 discards a 247 to deck 897
+player 896 current hand : 524 138 160 7 460 804 473 816 931 538 942 430 612 70 910 930 759 243 81 50 
+player 896 draws a 145 from deck 896
+player 896 discards a 524 to deck 897
+player 896 current hand : 138 160 7 460 804 473 816 931 538 942 430 612 70 910 930 759 243 81 50 145 
+player 896 draws a 453 from deck 896
+player 896 discards a 138 to deck 897
+player 896 current hand : 160 7 460 804 473 816 931 538 942 430 612 70 910 930 759 243 81 50 145 453 
+player 896 draws a 287 from deck 896
+player 896 discards a 160 to deck 897
+player 896 current hand : 7 460 804 473 816 931 538 942 430 612 70 910 930 759 243 81 50 145 453 287 
+player 896 draws a 896 from deck 896
+player 896 discards a 7 to deck 897
+player 896 current hand : 460 804 473 816 931 538 942 430 612 70 910 930 759 243 81 50 145 453 287 896 
+player 896 draws a 24 from deck 896
+player 896 discards a 460 to deck 897
+player 896 current hand : 804 473 816 931 538 942 430 612 70 910 930 759 243 81 50 145 453 287 896 24 
+player 896 draws a 351 from deck 896
+player 896 discards a 804 to deck 897
+player 896 current hand : 473 816 931 538 942 430 612 70 910 930 759 243 81 50 145 453 287 896 24 351 
+player 896 draws a 409 from deck 896
+player 896 discards a 473 to deck 897
+player 896 current hand : 816 931 538 942 430 612 70 910 930 759 243 81 50 145 453 287 896 24 351 409 
+player 896 draws a 852 from deck 896
+player 896 discards a 816 to deck 897
+player 896 current hand : 931 538 942 430 612 70 910 930 759 243 81 50 145 453 287 896 24 351 409 852 
+player 896 draws a 38 from deck 896
+player 896 discards a 931 to deck 897
+player 896 current hand : 538 942 430 612 70 910 930 759 243 81 50 145 453 287 896 24 351 409 852 38 
+player 896 draws a 370 from deck 896
+player 896 discards a 538 to deck 897
+player 896 current hand : 942 430 612 70 910 930 759 243 81 50 145 453 287 896 24 351 409 852 38 370 
+player 896 draws a 426 from deck 896
+player 896 discards a 942 to deck 897
+player 896 current hand : 430 612 70 910 930 759 243 81 50 145 453 287 896 24 351 409 852 38 370 426 
+player 896 draws a 305 from deck 896
+player 896 discards a 430 to deck 897
+player 896 current hand : 612 70 910 930 759 243 81 50 145 453 287 896 24 351 409 852 38 370 426 305 
+player 896 draws a 458 from deck 896
+player 896 discards a 612 to deck 897
+player 896 current hand : 70 910 930 759 243 81 50 145 453 287 896 24 351 409 852 38 370 426 305 458 
+player 896 draws a 960 from deck 896
+player 896 discards a 70 to deck 897
+player 896 current hand : 910 930 759 243 81 50 145 453 287 896 24 351 409 852 38 370 426 305 458 960 
+player 896 draws a 444 from deck 896
+player 896 discards a 910 to deck 897
+player 896 current hand : 930 759 243 81 50 145 453 287 896 24 351 409 852 38 370 426 305 458 960 444 
+player 896 draws a 237 from deck 896
+player 896 discards a 930 to deck 897
+player 896 current hand : 759 243 81 50 145 453 287 896 24 351 409 852 38 370 426 305 458 960 444 237 
+player 896 draws a 495 from deck 896
+player 896 discards a 759 to deck 897
+player 896 current hand : 243 81 50 145 453 287 896 24 351 409 852 38 370 426 305 458 960 444 237 495 
+player 896 draws a 450 from deck 896
+player 896 discards a 243 to deck 897
+player 896 current hand : 81 50 145 453 287 896 24 351 409 852 38 370 426 305 458 960 444 237 495 450 
+player 896 draws a 308 from deck 896
+player 896 discards a 81 to deck 897
+player 896 current hand : 50 145 453 287 896 24 351 409 852 38 370 426 305 458 960 444 237 495 450 308 
+player 896 draws a 746 from deck 896
+player 896 discards a 50 to deck 897
+player 896 current hand : 145 453 287 896 24 351 409 852 38 370 426 305 458 960 444 237 495 450 308 746 
+player 896 draws a 841 from deck 896
+player 896 discards a 145 to deck 897
+player 896 current hand : 453 287 896 24 351 409 852 38 370 426 305 458 960 444 237 495 450 308 746 841 
+player 896 draws a 781 from deck 896
+player 896 discards a 453 to deck 897
+player 896 current hand : 287 896 24 351 409 852 38 370 426 305 458 960 444 237 495 450 308 746 841 781 
+player 896 draws a 374 from deck 896
+player 896 discards a 287 to deck 897
+player 896 current hand : 896 24 351 409 852 38 370 426 305 458 960 444 237 495 450 308 746 841 781 374 
+player 896 draws a 763 from deck 896
+player 896 discards a 24 to deck 897
+player 896 current hand : 896 351 409 852 38 370 426 305 458 960 444 237 495 450 308 746 841 781 374 763 
+player 896 draws a 219 from deck 896
+player 896 discards a 351 to deck 897
+player 896 current hand : 896 409 852 38 370 426 305 458 960 444 237 495 450 308 746 841 781 374 763 219 
+player 896 draws a 975 from deck 896
+player 896 discards a 409 to deck 897
+player 896 current hand : 896 852 38 370 426 305 458 960 444 237 495 450 308 746 841 781 374 763 219 975 
+player 896 draws a 557 from deck 896
+player 896 discards a 852 to deck 897
+player 896 current hand : 896 38 370 426 305 458 960 444 237 495 450 308 746 841 781 374 763 219 975 557 
+player 896 draws a 864 from deck 896
+player 896 discards a 38 to deck 897
+player 896 current hand : 896 370 426 305 458 960 444 237 495 450 308 746 841 781 374 763 219 975 557 864 
+player 896 draws a 431 from deck 896
+player 896 discards a 370 to deck 897
+player 896 current hand : 896 426 305 458 960 444 237 495 450 308 746 841 781 374 763 219 975 557 864 431 
+player 896 draws a 427 from deck 896
+player 896 discards a 426 to deck 897
+player 896 current hand : 896 305 458 960 444 237 495 450 308 746 841 781 374 763 219 975 557 864 431 427 
+player 896 draws a 933 from deck 896
+player 896 discards a 305 to deck 897
+player 896 current hand : 896 458 960 444 237 495 450 308 746 841 781 374 763 219 975 557 864 431 427 933 
+player 896 draws a 980 from deck 896
+player 896 discards a 458 to deck 897
+player 896 current hand : 896 960 444 237 495 450 308 746 841 781 374 763 219 975 557 864 431 427 933 980 
+player 896 draws a 977 from deck 896
+player 896 discards a 960 to deck 897
+player 896 current hand : 896 444 237 495 450 308 746 841 781 374 763 219 975 557 864 431 427 933 980 977 
+player 896 draws a 730 from deck 896
+player 896 discards a 444 to deck 897
+player 896 current hand : 896 237 495 450 308 746 841 781 374 763 219 975 557 864 431 427 933 980 977 730 
+player 896 draws a 122 from deck 896
+player 896 discards a 237 to deck 897
+player 896 current hand : 896 495 450 308 746 841 781 374 763 219 975 557 864 431 427 933 980 977 730 122 
+player 896 draws a 98 from deck 896
+player 896 discards a 495 to deck 897
+player 896 current hand : 896 450 308 746 841 781 374 763 219 975 557 864 431 427 933 980 977 730 122 98 
+player 896 draws a 308 from deck 896
+player 896 discards a 450 to deck 897
+player 896 current hand : 896 308 746 841 781 374 763 219 975 557 864 431 427 933 980 977 730 122 98 308 
+player 896 draws a 827 from deck 896
+player 896 discards a 308 to deck 897
+player 896 current hand : 896 746 841 781 374 763 219 975 557 864 431 427 933 980 977 730 122 98 308 827 
+player 896 draws a 403 from deck 896
+player 896 discards a 746 to deck 897
+player 896 current hand : 896 841 781 374 763 219 975 557 864 431 427 933 980 977 730 122 98 308 827 403 
+player 896 draws a 951 from deck 896
+player 896 discards a 841 to deck 897
+player 896 current hand : 896 781 374 763 219 975 557 864 431 427 933 980 977 730 122 98 308 827 403 951 
+player 896 draws a 319 from deck 896
+player 896 discards a 781 to deck 897
+player 896 current hand : 896 374 763 219 975 557 864 431 427 933 980 977 730 122 98 308 827 403 951 319 
+player 896 draws a 865 from deck 896
+player 896 discards a 374 to deck 897
+player 896 current hand : 896 763 219 975 557 864 431 427 933 980 977 730 122 98 308 827 403 951 319 865 
+player 896 draws a 272 from deck 896
+player 896 discards a 763 to deck 897
+player 896 current hand : 896 219 975 557 864 431 427 933 980 977 730 122 98 308 827 403 951 319 865 272 
+player 896 draws a 829 from deck 896
+player 896 discards a 219 to deck 897
+player 896 current hand : 896 975 557 864 431 427 933 980 977 730 122 98 308 827 403 951 319 865 272 829 
+player 896 draws a 841 from deck 896
+player 896 discards a 975 to deck 897
+player 896 current hand : 896 557 864 431 427 933 980 977 730 122 98 308 827 403 951 319 865 272 829 841 
+player 896 draws a 98 from deck 896
+player 896 discards a 557 to deck 897
+player 896 current hand : 896 864 431 427 933 980 977 730 122 98 308 827 403 951 319 865 272 829 841 98 
+player 896 draws a 773 from deck 896
+player 896 discards a 864 to deck 897
+player 896 current hand : 896 431 427 933 980 977 730 122 98 308 827 403 951 319 865 272 829 841 98 773 
+player 896 draws a 646 from deck 896
+player 896 discards a 431 to deck 897
+player 896 current hand : 896 427 933 980 977 730 122 98 308 827 403 951 319 865 272 829 841 98 773 646 
+player 896 draws a 796 from deck 896
+player 896 discards a 427 to deck 897
+player 896 current hand : 896 933 980 977 730 122 98 308 827 403 951 319 865 272 829 841 98 773 646 796 
+player 896 draws a 816 from deck 896
+player 896 discards a 933 to deck 897
+player 896 current hand : 896 980 977 730 122 98 308 827 403 951 319 865 272 829 841 98 773 646 796 816 
+player 896 draws a 686 from deck 896
+player 896 discards a 980 to deck 897
+player 896 current hand : 896 977 730 122 98 308 827 403 951 319 865 272 829 841 98 773 646 796 816 686 
+player 896 draws a 399 from deck 896
+player 896 discards a 977 to deck 897
+player 896 current hand : 896 730 122 98 308 827 403 951 319 865 272 829 841 98 773 646 796 816 686 399 
+player 896 draws a 669 from deck 896
+player 896 discards a 730 to deck 897
+player 896 current hand : 896 122 98 308 827 403 951 319 865 272 829 841 98 773 646 796 816 686 399 669 
+player 896 draws a 699 from deck 896
+player 896 discards a 122 to deck 897
+player 896 current hand : 896 98 308 827 403 951 319 865 272 829 841 98 773 646 796 816 686 399 669 699 
+player 896 draws a 248 from deck 896
+player 896 discards a 98 to deck 897
+player 896 current hand : 896 308 827 403 951 319 865 272 829 841 98 773 646 796 816 686 399 669 699 248 
+player 896 draws a 707 from deck 896
+player 896 discards a 308 to deck 897
+player 896 current hand : 896 827 403 951 319 865 272 829 841 98 773 646 796 816 686 399 669 699 248 707 
+player 896 draws a 417 from deck 896
+player 896 discards a 827 to deck 897
+player 896 current hand : 896 403 951 319 865 272 829 841 98 773 646 796 816 686 399 669 699 248 707 417 
+player 896 draws a 84 from deck 896
+player 896 discards a 403 to deck 897
+player 896 current hand : 896 951 319 865 272 829 841 98 773 646 796 816 686 399 669 699 248 707 417 84 
+player 896 draws a 888 from deck 896
+player 896 discards a 951 to deck 897
+player 896 current hand : 896 319 865 272 829 841 98 773 646 796 816 686 399 669 699 248 707 417 84 888 
+player 896 draws a 463 from deck 896
+player 896 discards a 319 to deck 897
+player 896 current hand : 896 865 272 829 841 98 773 646 796 816 686 399 669 699 248 707 417 84 888 463 
+player 896 draws a 670 from deck 896
+player 896 discards a 865 to deck 897
+player 896 current hand : 896 272 829 841 98 773 646 796 816 686 399 669 699 248 707 417 84 888 463 670 
+player 896 draws a 141 from deck 896

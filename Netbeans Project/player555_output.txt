@@ -1,0 +1,315 @@
+player 555 initial hand 138 378 570 391 364 130 728 130 681 978 791 498 412 446 559 100 992 853 41 757 
+player 555 draws a 947 from deck 555
+player 555 discards a 138 to deck 556
+player 555 current hand : 378 570 391 364 130 728 130 681 978 791 498 412 446 559 100 992 853 41 757 947 
+player 555 draws a 548 from deck 555
+player 555 discards a 378 to deck 556
+player 555 current hand : 570 391 364 130 728 130 681 978 791 498 412 446 559 100 992 853 41 757 947 548 
+player 555 draws a 384 from deck 555
+player 555 discards a 570 to deck 556
+player 555 current hand : 391 364 130 728 130 681 978 791 498 412 446 559 100 992 853 41 757 947 548 384 
+player 555 draws a 774 from deck 555
+player 555 discards a 391 to deck 556
+player 555 current hand : 364 130 728 130 681 978 791 498 412 446 559 100 992 853 41 757 947 548 384 774 
+player 555 draws a 297 from deck 555
+player 555 discards a 364 to deck 556
+player 555 current hand : 130 728 130 681 978 791 498 412 446 559 100 992 853 41 757 947 548 384 774 297 
+player 555 draws a 529 from deck 555
+player 555 discards a 130 to deck 556
+player 555 current hand : 728 130 681 978 791 498 412 446 559 100 992 853 41 757 947 548 384 774 297 529 
+player 555 draws a 664 from deck 555
+player 555 discards a 728 to deck 556
+player 555 current hand : 130 681 978 791 498 412 446 559 100 992 853 41 757 947 548 384 774 297 529 664 
+player 555 draws a 765 from deck 555
+player 555 discards a 130 to deck 556
+player 555 current hand : 681 978 791 498 412 446 559 100 992 853 41 757 947 548 384 774 297 529 664 765 
+player 555 draws a 105 from deck 555
+player 555 discards a 681 to deck 556
+player 555 current hand : 978 791 498 412 446 559 100 992 853 41 757 947 548 384 774 297 529 664 765 105 
+player 555 draws a 933 from deck 555
+player 555 discards a 978 to deck 556
+player 555 current hand : 791 498 412 446 559 100 992 853 41 757 947 548 384 774 297 529 664 765 105 933 
+player 555 draws a 175 from deck 555
+player 555 discards a 791 to deck 556
+player 555 current hand : 498 412 446 559 100 992 853 41 757 947 548 384 774 297 529 664 765 105 933 175 
+player 555 draws a 498 from deck 555
+player 555 discards a 498 to deck 556
+player 555 current hand : 412 446 559 100 992 853 41 757 947 548 384 774 297 529 664 765 105 933 175 498 
+player 555 draws a 841 from deck 555
+player 555 discards a 412 to deck 556
+player 555 current hand : 446 559 100 992 853 41 757 947 548 384 774 297 529 664 765 105 933 175 498 841 
+player 555 draws a 736 from deck 555
+player 555 discards a 446 to deck 556
+player 555 current hand : 559 100 992 853 41 757 947 548 384 774 297 529 664 765 105 933 175 498 841 736 
+player 555 draws a 975 from deck 555
+player 555 discards a 559 to deck 556
+player 555 current hand : 100 992 853 41 757 947 548 384 774 297 529 664 765 105 933 175 498 841 736 975 
+player 555 draws a 255 from deck 555
+player 555 discards a 100 to deck 556
+player 555 current hand : 992 853 41 757 947 548 384 774 297 529 664 765 105 933 175 498 841 736 975 255 
+player 555 draws a 493 from deck 555
+player 555 discards a 992 to deck 556
+player 555 current hand : 853 41 757 947 548 384 774 297 529 664 765 105 933 175 498 841 736 975 255 493 
+player 555 draws a 530 from deck 555
+player 555 discards a 853 to deck 556
+player 555 current hand : 41 757 947 548 384 774 297 529 664 765 105 933 175 498 841 736 975 255 493 530 
+player 555 draws a 588 from deck 555
+player 555 discards a 41 to deck 556
+player 555 current hand : 757 947 548 384 774 297 529 664 765 105 933 175 498 841 736 975 255 493 530 588 
+player 555 draws a 70 from deck 555
+player 555 discards a 757 to deck 556
+player 555 current hand : 947 548 384 774 297 529 664 765 105 933 175 498 841 736 975 255 493 530 588 70 
+player 555 draws a 924 from deck 555
+player 555 discards a 947 to deck 556
+player 555 current hand : 548 384 774 297 529 664 765 105 933 175 498 841 736 975 255 493 530 588 70 924 
+player 555 draws a 542 from deck 555
+player 555 discards a 548 to deck 556
+player 555 current hand : 384 774 297 529 664 765 105 933 175 498 841 736 975 255 493 530 588 70 924 542 
+player 555 draws a 798 from deck 555
+player 555 discards a 384 to deck 556
+player 555 current hand : 774 297 529 664 765 105 933 175 498 841 736 975 255 493 530 588 70 924 542 798 
+player 555 draws a 652 from deck 555
+player 555 discards a 774 to deck 556
+player 555 current hand : 297 529 664 765 105 933 175 498 841 736 975 255 493 530 588 70 924 542 798 652 
+player 555 draws a 514 from deck 555
+player 555 discards a 297 to deck 556
+player 555 current hand : 529 664 765 105 933 175 498 841 736 975 255 493 530 588 70 924 542 798 652 514 
+player 555 draws a 523 from deck 555
+player 555 discards a 529 to deck 556
+player 555 current hand : 664 765 105 933 175 498 841 736 975 255 493 530 588 70 924 542 798 652 514 523 
+player 555 draws a 254 from deck 555
+player 555 discards a 664 to deck 556
+player 555 current hand : 765 105 933 175 498 841 736 975 255 493 530 588 70 924 542 798 652 514 523 254 
+player 555 draws a 571 from deck 555
+player 555 discards a 765 to deck 556
+player 555 current hand : 105 933 175 498 841 736 975 255 493 530 588 70 924 542 798 652 514 523 254 571 
+player 555 draws a 267 from deck 555
+player 555 discards a 105 to deck 556
+player 555 current hand : 933 175 498 841 736 975 255 493 530 588 70 924 542 798 652 514 523 254 571 267 
+player 555 draws a 7 from deck 555
+player 555 discards a 933 to deck 556
+player 555 current hand : 175 498 841 736 975 255 493 530 588 70 924 542 798 652 514 523 254 571 267 7 
+player 555 draws a 128 from deck 555
+player 555 discards a 175 to deck 556
+player 555 current hand : 498 841 736 975 255 493 530 588 70 924 542 798 652 514 523 254 571 267 7 128 
+player 555 draws a 633 from deck 555
+player 555 discards a 498 to deck 556
+player 555 current hand : 841 736 975 255 493 530 588 70 924 542 798 652 514 523 254 571 267 7 128 633 
+player 555 draws a 98 from deck 555
+player 555 discards a 841 to deck 556
+player 555 current hand : 736 975 255 493 530 588 70 924 542 798 652 514 523 254 571 267 7 128 633 98 
+player 555 draws a 509 from deck 555
+player 555 discards a 736 to deck 556
+player 555 current hand : 975 255 493 530 588 70 924 542 798 652 514 523 254 571 267 7 128 633 98 509 
+player 555 draws a 745 from deck 555
+player 555 discards a 975 to deck 556
+player 555 current hand : 255 493 530 588 70 924 542 798 652 514 523 254 571 267 7 128 633 98 509 745 
+player 555 draws a 815 from deck 555
+player 555 discards a 255 to deck 556
+player 555 current hand : 493 530 588 70 924 542 798 652 514 523 254 571 267 7 128 633 98 509 745 815 
+player 555 draws a 453 from deck 555
+player 555 discards a 493 to deck 556
+player 555 current hand : 530 588 70 924 542 798 652 514 523 254 571 267 7 128 633 98 509 745 815 453 
+player 555 draws a 947 from deck 555
+player 555 discards a 530 to deck 556
+player 555 current hand : 588 70 924 542 798 652 514 523 254 571 267 7 128 633 98 509 745 815 453 947 
+player 555 draws a 826 from deck 555
+player 555 discards a 588 to deck 556
+player 555 current hand : 70 924 542 798 652 514 523 254 571 267 7 128 633 98 509 745 815 453 947 826 
+player 555 draws a 979 from deck 555
+player 555 discards a 70 to deck 556
+player 555 current hand : 924 542 798 652 514 523 254 571 267 7 128 633 98 509 745 815 453 947 826 979 
+player 555 draws a 86 from deck 555
+player 555 discards a 924 to deck 556
+player 555 current hand : 542 798 652 514 523 254 571 267 7 128 633 98 509 745 815 453 947 826 979 86 
+player 555 draws a 157 from deck 555
+player 555 discards a 542 to deck 556
+player 555 current hand : 798 652 514 523 254 571 267 7 128 633 98 509 745 815 453 947 826 979 86 157 
+player 555 draws a 239 from deck 555
+player 555 discards a 798 to deck 556
+player 555 current hand : 652 514 523 254 571 267 7 128 633 98 509 745 815 453 947 826 979 86 157 239 
+player 555 draws a 817 from deck 555
+player 555 discards a 652 to deck 556
+player 555 current hand : 514 523 254 571 267 7 128 633 98 509 745 815 453 947 826 979 86 157 239 817 
+player 555 draws a 515 from deck 555
+player 555 discards a 514 to deck 556
+player 555 current hand : 523 254 571 267 7 128 633 98 509 745 815 453 947 826 979 86 157 239 817 515 
+player 555 draws a 537 from deck 555
+player 555 discards a 523 to deck 556
+player 555 current hand : 254 571 267 7 128 633 98 509 745 815 453 947 826 979 86 157 239 817 515 537 
+player 555 draws a 589 from deck 555
+player 555 discards a 254 to deck 556
+player 555 current hand : 571 267 7 128 633 98 509 745 815 453 947 826 979 86 157 239 817 515 537 589 
+player 555 draws a 321 from deck 555
+player 555 discards a 571 to deck 556
+player 555 current hand : 267 7 128 633 98 509 745 815 453 947 826 979 86 157 239 817 515 537 589 321 
+player 555 draws a 705 from deck 555
+player 555 discards a 267 to deck 556
+player 555 current hand : 7 128 633 98 509 745 815 453 947 826 979 86 157 239 817 515 537 589 321 705 
+player 555 draws a 159 from deck 555
+player 555 discards a 7 to deck 556
+player 555 current hand : 128 633 98 509 745 815 453 947 826 979 86 157 239 817 515 537 589 321 705 159 
+player 555 draws a 768 from deck 555
+player 555 discards a 128 to deck 556
+player 555 current hand : 633 98 509 745 815 453 947 826 979 86 157 239 817 515 537 589 321 705 159 768 
+player 555 draws a 800 from deck 555
+player 555 discards a 633 to deck 556
+player 555 current hand : 98 509 745 815 453 947 826 979 86 157 239 817 515 537 589 321 705 159 768 800 
+player 555 draws a 242 from deck 555
+player 555 discards a 98 to deck 556
+player 555 current hand : 509 745 815 453 947 826 979 86 157 239 817 515 537 589 321 705 159 768 800 242 
+player 555 draws a 816 from deck 555
+player 555 discards a 509 to deck 556
+player 555 current hand : 745 815 453 947 826 979 86 157 239 817 515 537 589 321 705 159 768 800 242 816 
+player 555 draws a 913 from deck 555
+player 555 discards a 745 to deck 556
+player 555 current hand : 815 453 947 826 979 86 157 239 817 515 537 589 321 705 159 768 800 242 816 913 
+player 555 draws a 413 from deck 555
+player 555 discards a 815 to deck 556
+player 555 current hand : 453 947 826 979 86 157 239 817 515 537 589 321 705 159 768 800 242 816 913 413 
+player 555 draws a 169 from deck 555
+player 555 discards a 453 to deck 556
+player 555 current hand : 947 826 979 86 157 239 817 515 537 589 321 705 159 768 800 242 816 913 413 169 
+player 555 draws a 560 from deck 555
+player 555 discards a 947 to deck 556
+player 555 current hand : 826 979 86 157 239 817 515 537 589 321 705 159 768 800 242 816 913 413 169 560 
+player 555 draws a 863 from deck 555
+player 555 discards a 826 to deck 556
+player 555 current hand : 979 86 157 239 817 515 537 589 321 705 159 768 800 242 816 913 413 169 560 863 
+player 555 draws a 600 from deck 555
+player 555 discards a 979 to deck 556
+player 555 current hand : 86 157 239 817 515 537 589 321 705 159 768 800 242 816 913 413 169 560 863 600 
+player 555 draws a 618 from deck 555
+player 555 discards a 86 to deck 556
+player 555 current hand : 157 239 817 515 537 589 321 705 159 768 800 242 816 913 413 169 560 863 600 618 
+player 555 draws a 320 from deck 555
+player 555 discards a 157 to deck 556
+player 555 current hand : 239 817 515 537 589 321 705 159 768 800 242 816 913 413 169 560 863 600 618 320 
+player 555 draws a 902 from deck 555
+player 555 discards a 239 to deck 556
+player 555 current hand : 817 515 537 589 321 705 159 768 800 242 816 913 413 169 560 863 600 618 320 902 
+player 555 draws a 924 from deck 555
+player 555 discards a 817 to deck 556
+player 555 current hand : 515 537 589 321 705 159 768 800 242 816 913 413 169 560 863 600 618 320 902 924 
+player 555 draws a 170 from deck 555
+player 555 discards a 515 to deck 556
+player 555 current hand : 537 589 321 705 159 768 800 242 816 913 413 169 560 863 600 618 320 902 924 170 
+player 555 draws a 740 from deck 555
+player 555 discards a 537 to deck 556
+player 555 current hand : 589 321 705 159 768 800 242 816 913 413 169 560 863 600 618 320 902 924 170 740 
+player 555 draws a 868 from deck 555
+player 555 discards a 589 to deck 556
+player 555 current hand : 321 705 159 768 800 242 816 913 413 169 560 863 600 618 320 902 924 170 740 868 
+player 555 draws a 968 from deck 555
+player 555 discards a 321 to deck 556
+player 555 current hand : 705 159 768 800 242 816 913 413 169 560 863 600 618 320 902 924 170 740 868 968 
+player 555 draws a 348 from deck 555
+player 555 discards a 705 to deck 556
+player 555 current hand : 159 768 800 242 816 913 413 169 560 863 600 618 320 902 924 170 740 868 968 348 
+player 555 draws a 729 from deck 555
+player 555 discards a 159 to deck 556
+player 555 current hand : 768 800 242 816 913 413 169 560 863 600 618 320 902 924 170 740 868 968 348 729 
+player 555 draws a 791 from deck 555
+player 555 discards a 768 to deck 556
+player 555 current hand : 800 242 816 913 413 169 560 863 600 618 320 902 924 170 740 868 968 348 729 791 
+player 555 draws a 186 from deck 555
+player 555 discards a 800 to deck 556
+player 555 current hand : 242 816 913 413 169 560 863 600 618 320 902 924 170 740 868 968 348 729 791 186 
+player 555 draws a 135 from deck 555
+player 555 discards a 242 to deck 556
+player 555 current hand : 816 913 413 169 560 863 600 618 320 902 924 170 740 868 968 348 729 791 186 135 
+player 555 draws a 409 from deck 555
+player 555 discards a 816 to deck 556
+player 555 current hand : 913 413 169 560 863 600 618 320 902 924 170 740 868 968 348 729 791 186 135 409 
+player 555 draws a 730 from deck 555
+player 555 discards a 913 to deck 556
+player 555 current hand : 413 169 560 863 600 618 320 902 924 170 740 868 968 348 729 791 186 135 409 730 
+player 555 draws a 254 from deck 555
+player 555 discards a 413 to deck 556
+player 555 current hand : 169 560 863 600 618 320 902 924 170 740 868 968 348 729 791 186 135 409 730 254 
+player 555 draws a 670 from deck 555
+player 555 discards a 169 to deck 556
+player 555 current hand : 560 863 600 618 320 902 924 170 740 868 968 348 729 791 186 135 409 730 254 670 
+player 555 draws a 833 from deck 555
+player 555 discards a 560 to deck 556
+player 555 current hand : 863 600 618 320 902 924 170 740 868 968 348 729 791 186 135 409 730 254 670 833 
+player 555 draws a 187 from deck 555
+player 555 discards a 863 to deck 556
+player 555 current hand : 600 618 320 902 924 170 740 868 968 348 729 791 186 135 409 730 254 670 833 187 
+player 555 draws a 852 from deck 555
+player 555 discards a 600 to deck 556
+player 555 current hand : 618 320 902 924 170 740 868 968 348 729 791 186 135 409 730 254 670 833 187 852 
+player 555 draws a 774 from deck 555
+player 555 discards a 618 to deck 556
+player 555 current hand : 320 902 924 170 740 868 968 348 729 791 186 135 409 730 254 670 833 187 852 774 
+player 555 draws a 878 from deck 555
+player 555 discards a 320 to deck 556
+player 555 current hand : 902 924 170 740 868 968 348 729 791 186 135 409 730 254 670 833 187 852 774 878 
+player 555 draws a 452 from deck 555
+player 555 discards a 902 to deck 556
+player 555 current hand : 924 170 740 868 968 348 729 791 186 135 409 730 254 670 833 187 852 774 878 452 
+player 555 draws a 229 from deck 555
+player 555 discards a 924 to deck 556
+player 555 current hand : 170 740 868 968 348 729 791 186 135 409 730 254 670 833 187 852 774 878 452 229 
+player 555 draws a 176 from deck 555
+player 555 discards a 170 to deck 556
+player 555 current hand : 740 868 968 348 729 791 186 135 409 730 254 670 833 187 852 774 878 452 229 176 
+player 555 draws a 446 from deck 555
+player 555 discards a 740 to deck 556
+player 555 current hand : 868 968 348 729 791 186 135 409 730 254 670 833 187 852 774 878 452 229 176 446 
+player 555 draws a 943 from deck 555
+player 555 discards a 868 to deck 556
+player 555 current hand : 968 348 729 791 186 135 409 730 254 670 833 187 852 774 878 452 229 176 446 943 
+player 555 draws a 456 from deck 555
+player 555 discards a 968 to deck 556
+player 555 current hand : 348 729 791 186 135 409 730 254 670 833 187 852 774 878 452 229 176 446 943 456 
+player 555 draws a 817 from deck 555
+player 555 discards a 348 to deck 556
+player 555 current hand : 729 791 186 135 409 730 254 670 833 187 852 774 878 452 229 176 446 943 456 817 
+player 555 draws a 924 from deck 555
+player 555 discards a 729 to deck 556
+player 555 current hand : 791 186 135 409 730 254 670 833 187 852 774 878 452 229 176 446 943 456 817 924 
+player 555 draws a 109 from deck 555
+player 555 discards a 791 to deck 556
+player 555 current hand : 186 135 409 730 254 670 833 187 852 774 878 452 229 176 446 943 456 817 924 109 
+player 555 draws a 681 from deck 555
+player 555 discards a 186 to deck 556
+player 555 current hand : 135 409 730 254 670 833 187 852 774 878 452 229 176 446 943 456 817 924 109 681 
+player 555 draws a 572 from deck 555
+player 555 discards a 135 to deck 556
+player 555 current hand : 409 730 254 670 833 187 852 774 878 452 229 176 446 943 456 817 924 109 681 572 
+player 555 draws a 295 from deck 555
+player 555 discards a 409 to deck 556
+player 555 current hand : 730 254 670 833 187 852 774 878 452 229 176 446 943 456 817 924 109 681 572 295 
+player 555 draws a 820 from deck 555
+player 555 discards a 730 to deck 556
+player 555 current hand : 254 670 833 187 852 774 878 452 229 176 446 943 456 817 924 109 681 572 295 820 
+player 555 draws a 633 from deck 555
+player 555 discards a 254 to deck 556
+player 555 current hand : 670 833 187 852 774 878 452 229 176 446 943 456 817 924 109 681 572 295 820 633 
+player 555 draws a 271 from deck 555
+player 555 discards a 670 to deck 556
+player 555 current hand : 833 187 852 774 878 452 229 176 446 943 456 817 924 109 681 572 295 820 633 271 
+player 555 draws a 45 from deck 555
+player 555 discards a 833 to deck 556
+player 555 current hand : 187 852 774 878 452 229 176 446 943 456 817 924 109 681 572 295 820 633 271 45 
+player 555 draws a 357 from deck 555
+player 555 discards a 187 to deck 556
+player 555 current hand : 852 774 878 452 229 176 446 943 456 817 924 109 681 572 295 820 633 271 45 357 
+player 555 draws a 593 from deck 555
+player 555 discards a 852 to deck 556
+player 555 current hand : 774 878 452 229 176 446 943 456 817 924 109 681 572 295 820 633 271 45 357 593 
+player 555 draws a 276 from deck 555
+player 555 discards a 774 to deck 556
+player 555 current hand : 878 452 229 176 446 943 456 817 924 109 681 572 295 820 633 271 45 357 593 276 
+player 555 draws a 120 from deck 555
+player 555 discards a 878 to deck 556
+player 555 current hand : 452 229 176 446 943 456 817 924 109 681 572 295 820 633 271 45 357 593 276 120 
+player 555 draws a 510 from deck 555
+player 555 discards a 452 to deck 556
+player 555 current hand : 229 176 446 943 456 817 924 109 681 572 295 820 633 271 45 357 593 276 120 510 
+player 555 draws a 544 from deck 555
+player 555 discards a 229 to deck 556
+player 555 current hand : 176 446 943 456 817 924 109 681 572 295 820 633 271 45 357 593 276 120 510 544 
+player 555 draws a 647 from deck 555
+player 555 discards a 176 to deck 556

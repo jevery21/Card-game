@@ -1,0 +1,313 @@
+player 219 initial hand 999 823 729 384 537 737 43 897 867 219 626 410 661 946 98 577 232 117 346 950 
+player 219 draws a 544 from deck 219
+player 219 discards a 999 to deck 220
+player 219 current hand : 823 729 384 537 737 43 897 867 219 626 410 661 946 98 577 232 117 346 950 544 
+player 219 draws a 862 from deck 219
+player 219 discards a 823 to deck 220
+player 219 current hand : 729 384 537 737 43 897 867 219 626 410 661 946 98 577 232 117 346 950 544 862 
+player 219 draws a 24 from deck 219
+player 219 discards a 729 to deck 220
+player 219 current hand : 384 537 737 43 897 867 219 626 410 661 946 98 577 232 117 346 950 544 862 24 
+player 219 draws a 482 from deck 219
+player 219 discards a 384 to deck 220
+player 219 current hand : 537 737 43 897 867 219 626 410 661 946 98 577 232 117 346 950 544 862 24 482 
+player 219 draws a 451 from deck 219
+player 219 discards a 537 to deck 220
+player 219 current hand : 737 43 897 867 219 626 410 661 946 98 577 232 117 346 950 544 862 24 482 451 
+player 219 draws a 800 from deck 219
+player 219 discards a 737 to deck 220
+player 219 current hand : 43 897 867 219 626 410 661 946 98 577 232 117 346 950 544 862 24 482 451 800 
+player 219 draws a 521 from deck 219
+player 219 discards a 43 to deck 220
+player 219 current hand : 897 867 219 626 410 661 946 98 577 232 117 346 950 544 862 24 482 451 800 521 
+player 219 draws a 9 from deck 219
+player 219 discards a 897 to deck 220
+player 219 current hand : 867 219 626 410 661 946 98 577 232 117 346 950 544 862 24 482 451 800 521 9 
+player 219 draws a 854 from deck 219
+player 219 discards a 867 to deck 220
+player 219 current hand : 219 626 410 661 946 98 577 232 117 346 950 544 862 24 482 451 800 521 9 854 
+player 219 draws a 102 from deck 219
+player 219 discards a 626 to deck 220
+player 219 current hand : 219 410 661 946 98 577 232 117 346 950 544 862 24 482 451 800 521 9 854 102 
+player 219 draws a 601 from deck 219
+player 219 discards a 410 to deck 220
+player 219 current hand : 219 661 946 98 577 232 117 346 950 544 862 24 482 451 800 521 9 854 102 601 
+player 219 draws a 939 from deck 219
+player 219 discards a 661 to deck 220
+player 219 current hand : 219 946 98 577 232 117 346 950 544 862 24 482 451 800 521 9 854 102 601 939 
+player 219 draws a 759 from deck 219
+player 219 discards a 946 to deck 220
+player 219 current hand : 219 98 577 232 117 346 950 544 862 24 482 451 800 521 9 854 102 601 939 759 
+player 219 draws a 699 from deck 219
+player 219 discards a 98 to deck 220
+player 219 current hand : 219 577 232 117 346 950 544 862 24 482 451 800 521 9 854 102 601 939 759 699 
+player 219 draws a 933 from deck 219
+player 219 discards a 577 to deck 220
+player 219 current hand : 219 232 117 346 950 544 862 24 482 451 800 521 9 854 102 601 939 759 699 933 
+player 219 draws a 43 from deck 219
+player 219 discards a 232 to deck 220
+player 219 current hand : 219 117 346 950 544 862 24 482 451 800 521 9 854 102 601 939 759 699 933 43 
+player 219 draws a 241 from deck 219
+player 219 discards a 117 to deck 220
+player 219 current hand : 219 346 950 544 862 24 482 451 800 521 9 854 102 601 939 759 699 933 43 241 
+player 219 draws a 683 from deck 219
+player 219 discards a 346 to deck 220
+player 219 current hand : 219 950 544 862 24 482 451 800 521 9 854 102 601 939 759 699 933 43 241 683 
+player 219 draws a 504 from deck 219
+player 219 discards a 950 to deck 220
+player 219 current hand : 219 544 862 24 482 451 800 521 9 854 102 601 939 759 699 933 43 241 683 504 
+player 219 draws a 438 from deck 219
+player 219 discards a 544 to deck 220
+player 219 current hand : 219 862 24 482 451 800 521 9 854 102 601 939 759 699 933 43 241 683 504 438 
+player 219 draws a 153 from deck 219
+player 219 discards a 862 to deck 220
+player 219 current hand : 219 24 482 451 800 521 9 854 102 601 939 759 699 933 43 241 683 504 438 153 
+player 219 draws a 423 from deck 219
+player 219 discards a 24 to deck 220
+player 219 current hand : 219 482 451 800 521 9 854 102 601 939 759 699 933 43 241 683 504 438 153 423 
+player 219 draws a 521 from deck 219
+player 219 discards a 482 to deck 220
+player 219 current hand : 219 451 800 521 9 854 102 601 939 759 699 933 43 241 683 504 438 153 423 521 
+player 219 draws a 734 from deck 219
+player 219 discards a 451 to deck 220
+player 219 current hand : 219 800 521 9 854 102 601 939 759 699 933 43 241 683 504 438 153 423 521 734 
+player 219 draws a 883 from deck 219
+player 219 discards a 800 to deck 220
+player 219 current hand : 219 521 9 854 102 601 939 759 699 933 43 241 683 504 438 153 423 521 734 883 
+player 219 draws a 797 from deck 219
+player 219 discards a 521 to deck 220
+player 219 current hand : 219 9 854 102 601 939 759 699 933 43 241 683 504 438 153 423 521 734 883 797 
+player 219 draws a 633 from deck 219
+player 219 discards a 9 to deck 220
+player 219 current hand : 219 854 102 601 939 759 699 933 43 241 683 504 438 153 423 521 734 883 797 633 
+player 219 draws a 331 from deck 219
+player 219 discards a 854 to deck 220
+player 219 current hand : 219 102 601 939 759 699 933 43 241 683 504 438 153 423 521 734 883 797 633 331 
+player 219 draws a 612 from deck 219
+player 219 discards a 102 to deck 220
+player 219 current hand : 219 601 939 759 699 933 43 241 683 504 438 153 423 521 734 883 797 633 331 612 
+player 219 draws a 661 from deck 219
+player 219 discards a 601 to deck 220
+player 219 current hand : 219 939 759 699 933 43 241 683 504 438 153 423 521 734 883 797 633 331 612 661 
+player 219 draws a 305 from deck 219
+player 219 discards a 939 to deck 220
+player 219 current hand : 219 759 699 933 43 241 683 504 438 153 423 521 734 883 797 633 331 612 661 305 
+player 219 draws a 818 from deck 219
+player 219 discards a 759 to deck 220
+player 219 current hand : 219 699 933 43 241 683 504 438 153 423 521 734 883 797 633 331 612 661 305 818 
+player 219 draws a 546 from deck 219
+player 219 discards a 699 to deck 220
+player 219 current hand : 219 933 43 241 683 504 438 153 423 521 734 883 797 633 331 612 661 305 818 546 
+player 219 draws a 72 from deck 219
+player 219 discards a 933 to deck 220
+player 219 current hand : 219 43 241 683 504 438 153 423 521 734 883 797 633 331 612 661 305 818 546 72 
+player 219 draws a 888 from deck 219
+player 219 discards a 43 to deck 220
+player 219 current hand : 219 241 683 504 438 153 423 521 734 883 797 633 331 612 661 305 818 546 72 888 
+player 219 draws a 860 from deck 219
+player 219 discards a 241 to deck 220
+player 219 current hand : 219 683 504 438 153 423 521 734 883 797 633 331 612 661 305 818 546 72 888 860 
+player 219 draws a 819 from deck 219
+player 219 discards a 683 to deck 220
+player 219 current hand : 219 504 438 153 423 521 734 883 797 633 331 612 661 305 818 546 72 888 860 819 
+player 219 draws a 726 from deck 219
+player 219 discards a 504 to deck 220
+player 219 current hand : 219 438 153 423 521 734 883 797 633 331 612 661 305 818 546 72 888 860 819 726 
+player 219 draws a 384 from deck 219
+player 219 discards a 438 to deck 220
+player 219 current hand : 219 153 423 521 734 883 797 633 331 612 661 305 818 546 72 888 860 819 726 384 
+player 219 draws a 927 from deck 219
+player 219 discards a 153 to deck 220
+player 219 current hand : 219 423 521 734 883 797 633 331 612 661 305 818 546 72 888 860 819 726 384 927 
+player 219 draws a 138 from deck 219
+player 219 discards a 423 to deck 220
+player 219 current hand : 219 521 734 883 797 633 331 612 661 305 818 546 72 888 860 819 726 384 927 138 
+player 219 draws a 512 from deck 219
+player 219 discards a 521 to deck 220
+player 219 current hand : 219 734 883 797 633 331 612 661 305 818 546 72 888 860 819 726 384 927 138 512 
+player 219 draws a 919 from deck 219
+player 219 discards a 734 to deck 220
+player 219 current hand : 219 883 797 633 331 612 661 305 818 546 72 888 860 819 726 384 927 138 512 919 
+player 219 draws a 396 from deck 219
+player 219 discards a 883 to deck 220
+player 219 current hand : 219 797 633 331 612 661 305 818 546 72 888 860 819 726 384 927 138 512 919 396 
+player 219 draws a 403 from deck 219
+player 219 discards a 797 to deck 220
+player 219 current hand : 219 633 331 612 661 305 818 546 72 888 860 819 726 384 927 138 512 919 396 403 
+player 219 draws a 341 from deck 219
+player 219 discards a 633 to deck 220
+player 219 current hand : 219 331 612 661 305 818 546 72 888 860 819 726 384 927 138 512 919 396 403 341 
+player 219 draws a 797 from deck 219
+player 219 discards a 331 to deck 220
+player 219 current hand : 219 612 661 305 818 546 72 888 860 819 726 384 927 138 512 919 396 403 341 797 
+player 219 draws a 515 from deck 219
+player 219 discards a 612 to deck 220
+player 219 current hand : 219 661 305 818 546 72 888 860 819 726 384 927 138 512 919 396 403 341 797 515 
+player 219 draws a 973 from deck 219
+player 219 discards a 661 to deck 220
+player 219 current hand : 219 305 818 546 72 888 860 819 726 384 927 138 512 919 396 403 341 797 515 973 
+player 219 draws a 922 from deck 219
+player 219 discards a 305 to deck 220
+player 219 current hand : 219 818 546 72 888 860 819 726 384 927 138 512 919 396 403 341 797 515 973 922 
+player 219 draws a 186 from deck 219
+player 219 discards a 818 to deck 220
+player 219 current hand : 219 546 72 888 860 819 726 384 927 138 512 919 396 403 341 797 515 973 922 186 
+player 219 draws a 926 from deck 219
+player 219 discards a 546 to deck 220
+player 219 current hand : 219 72 888 860 819 726 384 927 138 512 919 396 403 341 797 515 973 922 186 926 
+player 219 draws a 846 from deck 219
+player 219 discards a 72 to deck 220
+player 219 current hand : 219 888 860 819 726 384 927 138 512 919 396 403 341 797 515 973 922 186 926 846 
+player 219 draws a 478 from deck 219
+player 219 discards a 888 to deck 220
+player 219 current hand : 219 860 819 726 384 927 138 512 919 396 403 341 797 515 973 922 186 926 846 478 
+player 219 draws a 879 from deck 219
+player 219 discards a 860 to deck 220
+player 219 current hand : 219 819 726 384 927 138 512 919 396 403 341 797 515 973 922 186 926 846 478 879 
+player 219 draws a 340 from deck 219
+player 219 discards a 819 to deck 220
+player 219 current hand : 219 726 384 927 138 512 919 396 403 341 797 515 973 922 186 926 846 478 879 340 
+player 219 draws a 535 from deck 219
+player 219 discards a 726 to deck 220
+player 219 current hand : 219 384 927 138 512 919 396 403 341 797 515 973 922 186 926 846 478 879 340 535 
+player 219 draws a 679 from deck 219
+player 219 discards a 384 to deck 220
+player 219 current hand : 219 927 138 512 919 396 403 341 797 515 973 922 186 926 846 478 879 340 535 679 
+player 219 draws a 78 from deck 219
+player 219 discards a 927 to deck 220
+player 219 current hand : 219 138 512 919 396 403 341 797 515 973 922 186 926 846 478 879 340 535 679 78 
+player 219 draws a 755 from deck 219
+player 219 discards a 138 to deck 220
+player 219 current hand : 219 512 919 396 403 341 797 515 973 922 186 926 846 478 879 340 535 679 78 755 
+player 219 draws a 921 from deck 219
+player 219 discards a 512 to deck 220
+player 219 current hand : 219 919 396 403 341 797 515 973 922 186 926 846 478 879 340 535 679 78 755 921 
+player 219 draws a 982 from deck 219
+player 219 discards a 919 to deck 220
+player 219 current hand : 219 396 403 341 797 515 973 922 186 926 846 478 879 340 535 679 78 755 921 982 
+player 219 draws a 523 from deck 219
+player 219 discards a 396 to deck 220
+player 219 current hand : 219 403 341 797 515 973 922 186 926 846 478 879 340 535 679 78 755 921 982 523 
+player 219 draws a 252 from deck 219
+player 219 discards a 403 to deck 220
+player 219 current hand : 219 341 797 515 973 922 186 926 846 478 879 340 535 679 78 755 921 982 523 252 
+player 219 draws a 712 from deck 219
+player 219 discards a 341 to deck 220
+player 219 current hand : 219 797 515 973 922 186 926 846 478 879 340 535 679 78 755 921 982 523 252 712 
+player 219 draws a 171 from deck 219
+player 219 discards a 797 to deck 220
+player 219 current hand : 219 515 973 922 186 926 846 478 879 340 535 679 78 755 921 982 523 252 712 171 
+player 219 draws a 31 from deck 219
+player 219 discards a 515 to deck 220
+player 219 current hand : 219 973 922 186 926 846 478 879 340 535 679 78 755 921 982 523 252 712 171 31 
+player 219 draws a 589 from deck 219
+player 219 discards a 973 to deck 220
+player 219 current hand : 219 922 186 926 846 478 879 340 535 679 78 755 921 982 523 252 712 171 31 589 
+player 219 draws a 473 from deck 219
+player 219 discards a 922 to deck 220
+player 219 current hand : 219 186 926 846 478 879 340 535 679 78 755 921 982 523 252 712 171 31 589 473 
+player 219 draws a 399 from deck 219
+player 219 discards a 186 to deck 220
+player 219 current hand : 219 926 846 478 879 340 535 679 78 755 921 982 523 252 712 171 31 589 473 399 
+player 219 draws a 199 from deck 219
+player 219 discards a 926 to deck 220
+player 219 current hand : 219 846 478 879 340 535 679 78 755 921 982 523 252 712 171 31 589 473 399 199 
+player 219 draws a 426 from deck 219
+player 219 discards a 846 to deck 220
+player 219 current hand : 219 478 879 340 535 679 78 755 921 982 523 252 712 171 31 589 473 399 199 426 
+player 219 draws a 13 from deck 219
+player 219 discards a 478 to deck 220
+player 219 current hand : 219 879 340 535 679 78 755 921 982 523 252 712 171 31 589 473 399 199 426 13 
+player 219 draws a 403 from deck 219
+player 219 discards a 879 to deck 220
+player 219 current hand : 219 340 535 679 78 755 921 982 523 252 712 171 31 589 473 399 199 426 13 403 
+player 219 draws a 787 from deck 219
+player 219 discards a 340 to deck 220
+player 219 current hand : 219 535 679 78 755 921 982 523 252 712 171 31 589 473 399 199 426 13 403 787 
+player 219 draws a 941 from deck 219
+player 219 discards a 535 to deck 220
+player 219 current hand : 219 679 78 755 921 982 523 252 712 171 31 589 473 399 199 426 13 403 787 941 
+player 219 draws a 107 from deck 219
+player 219 discards a 679 to deck 220
+player 219 current hand : 219 78 755 921 982 523 252 712 171 31 589 473 399 199 426 13 403 787 941 107 
+player 219 draws a 632 from deck 219
+player 219 discards a 78 to deck 220
+player 219 current hand : 219 755 921 982 523 252 712 171 31 589 473 399 199 426 13 403 787 941 107 632 
+player 219 draws a 411 from deck 219
+player 219 discards a 755 to deck 220
+player 219 current hand : 219 921 982 523 252 712 171 31 589 473 399 199 426 13 403 787 941 107 632 411 
+player 219 draws a 991 from deck 219
+player 219 discards a 921 to deck 220
+player 219 current hand : 219 982 523 252 712 171 31 589 473 399 199 426 13 403 787 941 107 632 411 991 
+player 219 draws a 837 from deck 219
+player 219 discards a 982 to deck 220
+player 219 current hand : 219 523 252 712 171 31 589 473 399 199 426 13 403 787 941 107 632 411 991 837 
+player 219 draws a 15 from deck 219
+player 219 discards a 523 to deck 220
+player 219 current hand : 219 252 712 171 31 589 473 399 199 426 13 403 787 941 107 632 411 991 837 15 
+player 219 draws a 647 from deck 219
+player 219 discards a 252 to deck 220
+player 219 current hand : 219 712 171 31 589 473 399 199 426 13 403 787 941 107 632 411 991 837 15 647 
+player 219 draws a 966 from deck 219
+player 219 discards a 712 to deck 220
+player 219 current hand : 219 171 31 589 473 399 199 426 13 403 787 941 107 632 411 991 837 15 647 966 
+player 219 draws a 552 from deck 219
+player 219 discards a 171 to deck 220
+player 219 current hand : 219 31 589 473 399 199 426 13 403 787 941 107 632 411 991 837 15 647 966 552 
+player 219 draws a 920 from deck 219
+player 219 discards a 31 to deck 220
+player 219 current hand : 219 589 473 399 199 426 13 403 787 941 107 632 411 991 837 15 647 966 552 920 
+player 219 draws a 635 from deck 219
+player 219 discards a 589 to deck 220
+player 219 current hand : 219 473 399 199 426 13 403 787 941 107 632 411 991 837 15 647 966 552 920 635 
+player 219 draws a 587 from deck 219
+player 219 discards a 473 to deck 220
+player 219 current hand : 219 399 199 426 13 403 787 941 107 632 411 991 837 15 647 966 552 920 635 587 
+player 219 draws a 284 from deck 219
+player 219 discards a 399 to deck 220
+player 219 current hand : 219 199 426 13 403 787 941 107 632 411 991 837 15 647 966 552 920 635 587 284 
+player 219 draws a 870 from deck 219
+player 219 discards a 199 to deck 220
+player 219 current hand : 219 426 13 403 787 941 107 632 411 991 837 15 647 966 552 920 635 587 284 870 
+player 219 draws a 784 from deck 219
+player 219 discards a 426 to deck 220
+player 219 current hand : 219 13 403 787 941 107 632 411 991 837 15 647 966 552 920 635 587 284 870 784 
+player 219 draws a 922 from deck 219
+player 219 discards a 13 to deck 220
+player 219 current hand : 219 403 787 941 107 632 411 991 837 15 647 966 552 920 635 587 284 870 784 922 
+player 219 draws a 741 from deck 219
+player 219 discards a 403 to deck 220
+player 219 current hand : 219 787 941 107 632 411 991 837 15 647 966 552 920 635 587 284 870 784 922 741 
+player 219 draws a 145 from deck 219
+player 219 discards a 787 to deck 220
+player 219 current hand : 219 941 107 632 411 991 837 15 647 966 552 920 635 587 284 870 784 922 741 145 
+player 219 draws a 514 from deck 219
+player 219 discards a 941 to deck 220
+player 219 current hand : 219 107 632 411 991 837 15 647 966 552 920 635 587 284 870 784 922 741 145 514 
+player 219 draws a 464 from deck 219
+player 219 discards a 107 to deck 220
+player 219 current hand : 219 632 411 991 837 15 647 966 552 920 635 587 284 870 784 922 741 145 514 464 
+player 219 draws a 875 from deck 219
+player 219 discards a 632 to deck 220
+player 219 current hand : 219 411 991 837 15 647 966 552 920 635 587 284 870 784 922 741 145 514 464 875 
+player 219 draws a 800 from deck 219
+player 219 discards a 411 to deck 220
+player 219 current hand : 219 991 837 15 647 966 552 920 635 587 284 870 784 922 741 145 514 464 875 800 
+player 219 draws a 815 from deck 219
+player 219 discards a 991 to deck 220
+player 219 current hand : 219 837 15 647 966 552 920 635 587 284 870 784 922 741 145 514 464 875 800 815 
+player 219 draws a 875 from deck 219
+player 219 discards a 837 to deck 220
+player 219 current hand : 219 15 647 966 552 920 635 587 284 870 784 922 741 145 514 464 875 800 815 875 
+player 219 draws a 750 from deck 219
+player 219 discards a 15 to deck 220
+player 219 current hand : 219 647 966 552 920 635 587 284 870 784 922 741 145 514 464 875 800 815 875 750 
+player 219 draws a 901 from deck 219
+player 219 discards a 647 to deck 220
+player 219 current hand : 219 966 552 920 635 587 284 870 784 922 741 145 514 464 875 800 815 875 750 901 
+player 219 draws a 815 from deck 219
+player 219 discards a 966 to deck 220
+player 219 current hand : 219 552 920 635 587 284 870 784 922 741 145 514 464 875 800 815 875 750 901 815 
+player 219 draws a 595 from deck 219
+player 219 discards a 552 to deck 220
+player 219 current hand : 219 920 635 587 284 870 784 922 741 145 514 464 875 800 815 875 750 901 815 595 

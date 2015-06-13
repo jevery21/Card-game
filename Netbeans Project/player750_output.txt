@@ -1,0 +1,308 @@
+player 750 initial hand 716 816 827 337 196 862 228 294 350 351 321 115 336 309 985 972 642 657 582 321 
+player 750 draws a 481 from deck 750
+player 750 discards a 716 to deck 751
+player 750 current hand : 816 827 337 196 862 228 294 350 351 321 115 336 309 985 972 642 657 582 321 481 
+player 750 draws a 313 from deck 750
+player 750 discards a 816 to deck 751
+player 750 current hand : 827 337 196 862 228 294 350 351 321 115 336 309 985 972 642 657 582 321 481 313 
+player 750 draws a 241 from deck 750
+player 750 discards a 827 to deck 751
+player 750 current hand : 337 196 862 228 294 350 351 321 115 336 309 985 972 642 657 582 321 481 313 241 
+player 750 draws a 960 from deck 750
+player 750 discards a 337 to deck 751
+player 750 current hand : 196 862 228 294 350 351 321 115 336 309 985 972 642 657 582 321 481 313 241 960 
+player 750 draws a 348 from deck 750
+player 750 discards a 196 to deck 751
+player 750 current hand : 862 228 294 350 351 321 115 336 309 985 972 642 657 582 321 481 313 241 960 348 
+player 750 draws a 746 from deck 750
+player 750 discards a 862 to deck 751
+player 750 current hand : 228 294 350 351 321 115 336 309 985 972 642 657 582 321 481 313 241 960 348 746 
+player 750 draws a 742 from deck 750
+player 750 discards a 228 to deck 751
+player 750 current hand : 294 350 351 321 115 336 309 985 972 642 657 582 321 481 313 241 960 348 746 742 
+player 750 draws a 965 from deck 750
+player 750 discards a 294 to deck 751
+player 750 current hand : 350 351 321 115 336 309 985 972 642 657 582 321 481 313 241 960 348 746 742 965 
+player 750 draws a 799 from deck 750
+player 750 discards a 350 to deck 751
+player 750 current hand : 351 321 115 336 309 985 972 642 657 582 321 481 313 241 960 348 746 742 965 799 
+player 750 draws a 860 from deck 750
+player 750 discards a 351 to deck 751
+player 750 current hand : 321 115 336 309 985 972 642 657 582 321 481 313 241 960 348 746 742 965 799 860 
+player 750 draws a 17 from deck 750
+player 750 discards a 321 to deck 751
+player 750 current hand : 115 336 309 985 972 642 657 582 321 481 313 241 960 348 746 742 965 799 860 17 
+player 750 draws a 365 from deck 750
+player 750 discards a 115 to deck 751
+player 750 current hand : 336 309 985 972 642 657 582 321 481 313 241 960 348 746 742 965 799 860 17 365 
+player 750 draws a 980 from deck 750
+player 750 discards a 336 to deck 751
+player 750 current hand : 309 985 972 642 657 582 321 481 313 241 960 348 746 742 965 799 860 17 365 980 
+player 750 draws a 923 from deck 750
+player 750 discards a 309 to deck 751
+player 750 current hand : 985 972 642 657 582 321 481 313 241 960 348 746 742 965 799 860 17 365 980 923 
+player 750 draws a 816 from deck 750
+player 750 discards a 985 to deck 751
+player 750 current hand : 972 642 657 582 321 481 313 241 960 348 746 742 965 799 860 17 365 980 923 816 
+player 750 draws a 933 from deck 750
+player 750 discards a 972 to deck 751
+player 750 current hand : 642 657 582 321 481 313 241 960 348 746 742 965 799 860 17 365 980 923 816 933 
+player 750 draws a 1000 from deck 750
+player 750 discards a 642 to deck 751
+player 750 current hand : 657 582 321 481 313 241 960 348 746 742 965 799 860 17 365 980 923 816 933 1000 
+player 750 draws a 415 from deck 750
+player 750 discards a 657 to deck 751
+player 750 current hand : 582 321 481 313 241 960 348 746 742 965 799 860 17 365 980 923 816 933 1000 415 
+player 750 draws a 31 from deck 750
+player 750 discards a 582 to deck 751
+player 750 current hand : 321 481 313 241 960 348 746 742 965 799 860 17 365 980 923 816 933 1000 415 31 
+player 750 draws a 351 from deck 750
+player 750 discards a 321 to deck 751
+player 750 current hand : 481 313 241 960 348 746 742 965 799 860 17 365 980 923 816 933 1000 415 31 351 
+player 750 draws a 481 from deck 750
+player 750 discards a 481 to deck 751
+player 750 current hand : 313 241 960 348 746 742 965 799 860 17 365 980 923 816 933 1000 415 31 351 481 
+player 750 draws a 417 from deck 750
+player 750 discards a 313 to deck 751
+player 750 current hand : 241 960 348 746 742 965 799 860 17 365 980 923 816 933 1000 415 31 351 481 417 
+player 750 draws a 753 from deck 750
+player 750 discards a 241 to deck 751
+player 750 current hand : 960 348 746 742 965 799 860 17 365 980 923 816 933 1000 415 31 351 481 417 753 
+player 750 draws a 44 from deck 750
+player 750 discards a 960 to deck 751
+player 750 current hand : 348 746 742 965 799 860 17 365 980 923 816 933 1000 415 31 351 481 417 753 44 
+player 750 draws a 103 from deck 750
+player 750 discards a 348 to deck 751
+player 750 current hand : 746 742 965 799 860 17 365 980 923 816 933 1000 415 31 351 481 417 753 44 103 
+player 750 draws a 979 from deck 750
+player 750 discards a 746 to deck 751
+player 750 current hand : 742 965 799 860 17 365 980 923 816 933 1000 415 31 351 481 417 753 44 103 979 
+player 750 draws a 995 from deck 750
+player 750 discards a 742 to deck 751
+player 750 current hand : 965 799 860 17 365 980 923 816 933 1000 415 31 351 481 417 753 44 103 979 995 
+player 750 draws a 732 from deck 750
+player 750 discards a 965 to deck 751
+player 750 current hand : 799 860 17 365 980 923 816 933 1000 415 31 351 481 417 753 44 103 979 995 732 
+player 750 draws a 643 from deck 750
+player 750 discards a 799 to deck 751
+player 750 current hand : 860 17 365 980 923 816 933 1000 415 31 351 481 417 753 44 103 979 995 732 643 
+player 750 draws a 482 from deck 750
+player 750 discards a 860 to deck 751
+player 750 current hand : 17 365 980 923 816 933 1000 415 31 351 481 417 753 44 103 979 995 732 643 482 
+player 750 draws a 184 from deck 750
+player 750 discards a 17 to deck 751
+player 750 current hand : 365 980 923 816 933 1000 415 31 351 481 417 753 44 103 979 995 732 643 482 184 
+player 750 draws a 303 from deck 750
+player 750 discards a 365 to deck 751
+player 750 current hand : 980 923 816 933 1000 415 31 351 481 417 753 44 103 979 995 732 643 482 184 303 
+player 750 draws a 164 from deck 750
+player 750 discards a 980 to deck 751
+player 750 current hand : 923 816 933 1000 415 31 351 481 417 753 44 103 979 995 732 643 482 184 303 164 
+player 750 draws a 438 from deck 750
+player 750 discards a 923 to deck 751
+player 750 current hand : 816 933 1000 415 31 351 481 417 753 44 103 979 995 732 643 482 184 303 164 438 
+player 750 draws a 103 from deck 750
+player 750 discards a 816 to deck 751
+player 750 current hand : 933 1000 415 31 351 481 417 753 44 103 979 995 732 643 482 184 303 164 438 103 
+player 750 draws a 826 from deck 750
+player 750 discards a 933 to deck 751
+player 750 current hand : 1000 415 31 351 481 417 753 44 103 979 995 732 643 482 184 303 164 438 103 826 
+player 750 draws a 119 from deck 750
+player 750 discards a 1000 to deck 751
+player 750 current hand : 415 31 351 481 417 753 44 103 979 995 732 643 482 184 303 164 438 103 826 119 
+player 750 draws a 960 from deck 750
+player 750 discards a 415 to deck 751
+player 750 current hand : 31 351 481 417 753 44 103 979 995 732 643 482 184 303 164 438 103 826 119 960 
+player 750 draws a 296 from deck 750
+player 750 discards a 31 to deck 751
+player 750 current hand : 351 481 417 753 44 103 979 995 732 643 482 184 303 164 438 103 826 119 960 296 
+player 750 draws a 457 from deck 750
+player 750 discards a 351 to deck 751
+player 750 current hand : 481 417 753 44 103 979 995 732 643 482 184 303 164 438 103 826 119 960 296 457 
+player 750 draws a 781 from deck 750
+player 750 discards a 481 to deck 751
+player 750 current hand : 417 753 44 103 979 995 732 643 482 184 303 164 438 103 826 119 960 296 457 781 
+player 750 draws a 340 from deck 750
+player 750 discards a 417 to deck 751
+player 750 current hand : 753 44 103 979 995 732 643 482 184 303 164 438 103 826 119 960 296 457 781 340 
+player 750 draws a 65 from deck 750
+player 750 discards a 753 to deck 751
+player 750 current hand : 44 103 979 995 732 643 482 184 303 164 438 103 826 119 960 296 457 781 340 65 
+player 750 draws a 209 from deck 750
+player 750 discards a 44 to deck 751
+player 750 current hand : 103 979 995 732 643 482 184 303 164 438 103 826 119 960 296 457 781 340 65 209 
+player 750 draws a 7 from deck 750
+player 750 discards a 103 to deck 751
+player 750 current hand : 979 995 732 643 482 184 303 164 438 103 826 119 960 296 457 781 340 65 209 7 
+player 750 draws a 888 from deck 750
+player 750 discards a 979 to deck 751
+player 750 current hand : 995 732 643 482 184 303 164 438 103 826 119 960 296 457 781 340 65 209 7 888 
+player 750 draws a 314 from deck 750
+player 750 discards a 995 to deck 751
+player 750 current hand : 732 643 482 184 303 164 438 103 826 119 960 296 457 781 340 65 209 7 888 314 
+player 750 draws a 535 from deck 750
+player 750 discards a 732 to deck 751
+player 750 current hand : 643 482 184 303 164 438 103 826 119 960 296 457 781 340 65 209 7 888 314 535 
+player 750 draws a 939 from deck 750
+player 750 discards a 643 to deck 751
+player 750 current hand : 482 184 303 164 438 103 826 119 960 296 457 781 340 65 209 7 888 314 535 939 
+player 750 draws a 814 from deck 750
+player 750 discards a 482 to deck 751
+player 750 current hand : 184 303 164 438 103 826 119 960 296 457 781 340 65 209 7 888 314 535 939 814 
+player 750 draws a 673 from deck 750
+player 750 discards a 184 to deck 751
+player 750 current hand : 303 164 438 103 826 119 960 296 457 781 340 65 209 7 888 314 535 939 814 673 
+player 750 draws a 198 from deck 750
+player 750 discards a 303 to deck 751
+player 750 current hand : 164 438 103 826 119 960 296 457 781 340 65 209 7 888 314 535 939 814 673 198 
+player 750 draws a 175 from deck 750
+player 750 discards a 164 to deck 751
+player 750 current hand : 438 103 826 119 960 296 457 781 340 65 209 7 888 314 535 939 814 673 198 175 
+player 750 draws a 18 from deck 750
+player 750 discards a 438 to deck 751
+player 750 current hand : 103 826 119 960 296 457 781 340 65 209 7 888 314 535 939 814 673 198 175 18 
+player 750 draws a 45 from deck 750
+player 750 discards a 103 to deck 751
+player 750 current hand : 826 119 960 296 457 781 340 65 209 7 888 314 535 939 814 673 198 175 18 45 
+player 750 draws a 57 from deck 750
+player 750 discards a 826 to deck 751
+player 750 current hand : 119 960 296 457 781 340 65 209 7 888 314 535 939 814 673 198 175 18 45 57 
+player 750 draws a 386 from deck 750
+player 750 discards a 119 to deck 751
+player 750 current hand : 960 296 457 781 340 65 209 7 888 314 535 939 814 673 198 175 18 45 57 386 
+player 750 draws a 975 from deck 750
+player 750 discards a 960 to deck 751
+player 750 current hand : 296 457 781 340 65 209 7 888 314 535 939 814 673 198 175 18 45 57 386 975 
+player 750 draws a 133 from deck 750
+player 750 discards a 296 to deck 751
+player 750 current hand : 457 781 340 65 209 7 888 314 535 939 814 673 198 175 18 45 57 386 975 133 
+player 750 draws a 120 from deck 750
+player 750 discards a 457 to deck 751
+player 750 current hand : 781 340 65 209 7 888 314 535 939 814 673 198 175 18 45 57 386 975 133 120 
+player 750 draws a 729 from deck 750
+player 750 discards a 781 to deck 751
+player 750 current hand : 340 65 209 7 888 314 535 939 814 673 198 175 18 45 57 386 975 133 120 729 
+player 750 draws a 186 from deck 750
+player 750 discards a 340 to deck 751
+player 750 current hand : 65 209 7 888 314 535 939 814 673 198 175 18 45 57 386 975 133 120 729 186 
+player 750 draws a 93 from deck 750
+player 750 discards a 65 to deck 751
+player 750 current hand : 209 7 888 314 535 939 814 673 198 175 18 45 57 386 975 133 120 729 186 93 
+player 750 draws a 634 from deck 750
+player 750 discards a 209 to deck 751
+player 750 current hand : 7 888 314 535 939 814 673 198 175 18 45 57 386 975 133 120 729 186 93 634 
+player 750 draws a 83 from deck 750
+player 750 discards a 7 to deck 751
+player 750 current hand : 888 314 535 939 814 673 198 175 18 45 57 386 975 133 120 729 186 93 634 83 
+player 750 draws a 824 from deck 750
+player 750 discards a 888 to deck 751
+player 750 current hand : 314 535 939 814 673 198 175 18 45 57 386 975 133 120 729 186 93 634 83 824 
+player 750 draws a 375 from deck 750
+player 750 discards a 314 to deck 751
+player 750 current hand : 535 939 814 673 198 175 18 45 57 386 975 133 120 729 186 93 634 83 824 375 
+player 750 draws a 199 from deck 750
+player 750 discards a 535 to deck 751
+player 750 current hand : 939 814 673 198 175 18 45 57 386 975 133 120 729 186 93 634 83 824 375 199 
+player 750 draws a 954 from deck 750
+player 750 discards a 939 to deck 751
+player 750 current hand : 814 673 198 175 18 45 57 386 975 133 120 729 186 93 634 83 824 375 199 954 
+player 750 draws a 405 from deck 750
+player 750 discards a 814 to deck 751
+player 750 current hand : 673 198 175 18 45 57 386 975 133 120 729 186 93 634 83 824 375 199 954 405 
+player 750 draws a 173 from deck 750
+player 750 discards a 673 to deck 751
+player 750 current hand : 198 175 18 45 57 386 975 133 120 729 186 93 634 83 824 375 199 954 405 173 
+player 750 draws a 31 from deck 750
+player 750 discards a 198 to deck 751
+player 750 current hand : 175 18 45 57 386 975 133 120 729 186 93 634 83 824 375 199 954 405 173 31 
+player 750 draws a 768 from deck 750
+player 750 discards a 175 to deck 751
+player 750 current hand : 18 45 57 386 975 133 120 729 186 93 634 83 824 375 199 954 405 173 31 768 
+player 750 draws a 931 from deck 750
+player 750 discards a 18 to deck 751
+player 750 current hand : 45 57 386 975 133 120 729 186 93 634 83 824 375 199 954 405 173 31 768 931 
+player 750 draws a 239 from deck 750
+player 750 discards a 45 to deck 751
+player 750 current hand : 57 386 975 133 120 729 186 93 634 83 824 375 199 954 405 173 31 768 931 239 
+player 750 draws a 13 from deck 750
+player 750 discards a 57 to deck 751
+player 750 current hand : 386 975 133 120 729 186 93 634 83 824 375 199 954 405 173 31 768 931 239 13 
+player 750 draws a 750 from deck 750
+player 750 discards a 386 to deck 751
+player 750 current hand : 975 133 120 729 186 93 634 83 824 375 199 954 405 173 31 768 931 239 13 750 
+player 750 draws a 481 from deck 750
+player 750 discards a 975 to deck 751
+player 750 current hand : 133 120 729 186 93 634 83 824 375 199 954 405 173 31 768 931 239 13 750 481 
+player 750 draws a 791 from deck 750
+player 750 discards a 133 to deck 751
+player 750 current hand : 120 729 186 93 634 83 824 375 199 954 405 173 31 768 931 239 13 750 481 791 
+player 750 draws a 723 from deck 750
+player 750 discards a 120 to deck 751
+player 750 current hand : 729 186 93 634 83 824 375 199 954 405 173 31 768 931 239 13 750 481 791 723 
+player 750 draws a 426 from deck 750
+player 750 discards a 729 to deck 751
+player 750 current hand : 186 93 634 83 824 375 199 954 405 173 31 768 931 239 13 750 481 791 723 426 
+player 750 draws a 639 from deck 750
+player 750 discards a 186 to deck 751
+player 750 current hand : 93 634 83 824 375 199 954 405 173 31 768 931 239 13 750 481 791 723 426 639 
+player 750 draws a 152 from deck 750
+player 750 discards a 93 to deck 751
+player 750 current hand : 634 83 824 375 199 954 405 173 31 768 931 239 13 750 481 791 723 426 639 152 
+player 750 draws a 80 from deck 750
+player 750 discards a 634 to deck 751
+player 750 current hand : 83 824 375 199 954 405 173 31 768 931 239 13 750 481 791 723 426 639 152 80 
+player 750 draws a 514 from deck 750
+player 750 discards a 83 to deck 751
+player 750 current hand : 824 375 199 954 405 173 31 768 931 239 13 750 481 791 723 426 639 152 80 514 
+player 750 draws a 104 from deck 750
+player 750 discards a 824 to deck 751
+player 750 current hand : 375 199 954 405 173 31 768 931 239 13 750 481 791 723 426 639 152 80 514 104 
+player 750 draws a 575 from deck 750
+player 750 discards a 375 to deck 751
+player 750 current hand : 199 954 405 173 31 768 931 239 13 750 481 791 723 426 639 152 80 514 104 575 
+player 750 draws a 571 from deck 750
+player 750 discards a 199 to deck 751
+player 750 current hand : 954 405 173 31 768 931 239 13 750 481 791 723 426 639 152 80 514 104 575 571 
+player 750 draws a 810 from deck 750
+player 750 discards a 954 to deck 751
+player 750 current hand : 405 173 31 768 931 239 13 750 481 791 723 426 639 152 80 514 104 575 571 810 
+player 750 draws a 804 from deck 750
+player 750 discards a 405 to deck 751
+player 750 current hand : 173 31 768 931 239 13 750 481 791 723 426 639 152 80 514 104 575 571 810 804 
+player 750 draws a 10 from deck 750
+player 750 discards a 173 to deck 751
+player 750 current hand : 31 768 931 239 13 750 481 791 723 426 639 152 80 514 104 575 571 810 804 10 
+player 750 draws a 9 from deck 750
+player 750 discards a 31 to deck 751
+player 750 current hand : 768 931 239 13 750 481 791 723 426 639 152 80 514 104 575 571 810 804 10 9 
+player 750 draws a 986 from deck 750
+player 750 discards a 768 to deck 751
+player 750 current hand : 931 239 13 750 481 791 723 426 639 152 80 514 104 575 571 810 804 10 9 986 
+player 750 draws a 691 from deck 750
+player 750 discards a 931 to deck 751
+player 750 current hand : 239 13 750 481 791 723 426 639 152 80 514 104 575 571 810 804 10 9 986 691 
+player 750 draws a 919 from deck 750
+player 750 discards a 239 to deck 751
+player 750 current hand : 13 750 481 791 723 426 639 152 80 514 104 575 571 810 804 10 9 986 691 919 
+player 750 draws a 944 from deck 750
+player 750 discards a 13 to deck 751
+player 750 current hand : 750 481 791 723 426 639 152 80 514 104 575 571 810 804 10 9 986 691 919 944 
+player 750 draws a 391 from deck 750
+player 750 discards a 481 to deck 751
+player 750 current hand : 750 791 723 426 639 152 80 514 104 575 571 810 804 10 9 986 691 919 944 391 
+player 750 draws a 466 from deck 750
+player 750 discards a 791 to deck 751
+player 750 current hand : 750 723 426 639 152 80 514 104 575 571 810 804 10 9 986 691 919 944 391 466 
+player 750 draws a 822 from deck 750
+player 750 discards a 723 to deck 751
+player 750 current hand : 750 426 639 152 80 514 104 575 571 810 804 10 9 986 691 919 944 391 466 822 
+player 750 draws a 232 from deck 750
+player 750 discards a 426 to deck 751
+player 750 current hand : 750 639 152 80 514 104 575 571 810 804 10 9 986 691 919 944 391 466 822 232 
+player 750 draws a 943 from deck 750
+player 750 discards a 639 to deck 751
+player 750 current hand : 750 152 80 514 104 575 571 810 804 10 9 986 691 919 944 391 466 822 232 943 
+player 750 draws a 32 from deck 750
+player 750 discards a 152 to deck 751
+player 750 current hand : 750 80 514 104 575 571 810 804 10 9 986 691 919 944 391 466 822 232 943 32 
+player 750 draws a 28 from deck 750

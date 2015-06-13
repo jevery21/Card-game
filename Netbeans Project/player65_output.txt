@@ -1,0 +1,307 @@
+player 65 initial hand 200 782 498 967 298 320 707 527 136 513 662 498 28 796 617 844 270 906 984 65 
+player 65 draws a 296 from deck 65
+player 65 discards a 200 to deck 66
+player 65 current hand : 782 498 967 298 320 707 527 136 513 662 498 28 796 617 844 270 906 984 65 296 
+player 65 draws a 24 from deck 65
+player 65 discards a 782 to deck 66
+player 65 current hand : 498 967 298 320 707 527 136 513 662 498 28 796 617 844 270 906 984 65 296 24 
+player 65 draws a 495 from deck 65
+player 65 discards a 498 to deck 66
+player 65 current hand : 967 298 320 707 527 136 513 662 498 28 796 617 844 270 906 984 65 296 24 495 
+player 65 draws a 110 from deck 65
+player 65 discards a 967 to deck 66
+player 65 current hand : 298 320 707 527 136 513 662 498 28 796 617 844 270 906 984 65 296 24 495 110 
+player 65 draws a 1 from deck 65
+player 65 discards a 298 to deck 66
+player 65 current hand : 320 707 527 136 513 662 498 28 796 617 844 270 906 984 65 296 24 495 110 1 
+player 65 draws a 297 from deck 65
+player 65 discards a 320 to deck 66
+player 65 current hand : 707 527 136 513 662 498 28 796 617 844 270 906 984 65 296 24 495 110 1 297 
+player 65 draws a 13 from deck 65
+player 65 discards a 707 to deck 66
+player 65 current hand : 527 136 513 662 498 28 796 617 844 270 906 984 65 296 24 495 110 1 297 13 
+player 65 draws a 413 from deck 65
+player 65 discards a 527 to deck 66
+player 65 current hand : 136 513 662 498 28 796 617 844 270 906 984 65 296 24 495 110 1 297 13 413 
+player 65 draws a 627 from deck 65
+player 65 discards a 136 to deck 66
+player 65 current hand : 513 662 498 28 796 617 844 270 906 984 65 296 24 495 110 1 297 13 413 627 
+player 65 draws a 179 from deck 65
+player 65 discards a 513 to deck 66
+player 65 current hand : 662 498 28 796 617 844 270 906 984 65 296 24 495 110 1 297 13 413 627 179 
+player 65 draws a 659 from deck 65
+player 65 discards a 662 to deck 66
+player 65 current hand : 498 28 796 617 844 270 906 984 65 296 24 495 110 1 297 13 413 627 179 659 
+player 65 draws a 400 from deck 65
+player 65 discards a 498 to deck 66
+player 65 current hand : 28 796 617 844 270 906 984 65 296 24 495 110 1 297 13 413 627 179 659 400 
+player 65 draws a 797 from deck 65
+player 65 discards a 28 to deck 66
+player 65 current hand : 796 617 844 270 906 984 65 296 24 495 110 1 297 13 413 627 179 659 400 797 
+player 65 draws a 902 from deck 65
+player 65 discards a 796 to deck 66
+player 65 current hand : 617 844 270 906 984 65 296 24 495 110 1 297 13 413 627 179 659 400 797 902 
+player 65 draws a 852 from deck 65
+player 65 discards a 617 to deck 66
+player 65 current hand : 844 270 906 984 65 296 24 495 110 1 297 13 413 627 179 659 400 797 902 852 
+player 65 draws a 527 from deck 65
+player 65 discards a 844 to deck 66
+player 65 current hand : 270 906 984 65 296 24 495 110 1 297 13 413 627 179 659 400 797 902 852 527 
+player 65 draws a 544 from deck 65
+player 65 discards a 270 to deck 66
+player 65 current hand : 906 984 65 296 24 495 110 1 297 13 413 627 179 659 400 797 902 852 527 544 
+player 65 draws a 484 from deck 65
+player 65 discards a 906 to deck 66
+player 65 current hand : 984 65 296 24 495 110 1 297 13 413 627 179 659 400 797 902 852 527 544 484 
+player 65 draws a 499 from deck 65
+player 65 discards a 984 to deck 66
+player 65 current hand : 65 296 24 495 110 1 297 13 413 627 179 659 400 797 902 852 527 544 484 499 
+player 65 draws a 93 from deck 65
+player 65 discards a 296 to deck 66
+player 65 current hand : 65 24 495 110 1 297 13 413 627 179 659 400 797 902 852 527 544 484 499 93 
+player 65 draws a 933 from deck 65
+player 65 discards a 24 to deck 66
+player 65 current hand : 65 495 110 1 297 13 413 627 179 659 400 797 902 852 527 544 484 499 93 933 
+player 65 draws a 317 from deck 65
+player 65 discards a 495 to deck 66
+player 65 current hand : 65 110 1 297 13 413 627 179 659 400 797 902 852 527 544 484 499 93 933 317 
+player 65 draws a 427 from deck 65
+player 65 discards a 110 to deck 66
+player 65 current hand : 65 1 297 13 413 627 179 659 400 797 902 852 527 544 484 499 93 933 317 427 
+player 65 draws a 982 from deck 65
+player 65 discards a 1 to deck 66
+player 65 current hand : 65 297 13 413 627 179 659 400 797 902 852 527 544 484 499 93 933 317 427 982 
+player 65 draws a 730 from deck 65
+player 65 discards a 297 to deck 66
+player 65 current hand : 65 13 413 627 179 659 400 797 902 852 527 544 484 499 93 933 317 427 982 730 
+player 65 draws a 377 from deck 65
+player 65 discards a 13 to deck 66
+player 65 current hand : 65 413 627 179 659 400 797 902 852 527 544 484 499 93 933 317 427 982 730 377 
+player 65 draws a 400 from deck 65
+player 65 discards a 413 to deck 66
+player 65 current hand : 65 627 179 659 400 797 902 852 527 544 484 499 93 933 317 427 982 730 377 400 
+player 65 draws a 183 from deck 65
+player 65 discards a 627 to deck 66
+player 65 current hand : 65 179 659 400 797 902 852 527 544 484 499 93 933 317 427 982 730 377 400 183 
+player 65 draws a 457 from deck 65
+player 65 discards a 179 to deck 66
+player 65 current hand : 65 659 400 797 902 852 527 544 484 499 93 933 317 427 982 730 377 400 183 457 
+player 65 draws a 521 from deck 65
+player 65 discards a 659 to deck 66
+player 65 current hand : 65 400 797 902 852 527 544 484 499 93 933 317 427 982 730 377 400 183 457 521 
+player 65 draws a 341 from deck 65
+player 65 discards a 400 to deck 66
+player 65 current hand : 65 797 902 852 527 544 484 499 93 933 317 427 982 730 377 400 183 457 521 341 
+player 65 draws a 913 from deck 65
+player 65 discards a 797 to deck 66
+player 65 current hand : 65 902 852 527 544 484 499 93 933 317 427 982 730 377 400 183 457 521 341 913 
+player 65 draws a 787 from deck 65
+player 65 discards a 902 to deck 66
+player 65 current hand : 65 852 527 544 484 499 93 933 317 427 982 730 377 400 183 457 521 341 913 787 
+player 65 draws a 265 from deck 65
+player 65 discards a 852 to deck 66
+player 65 current hand : 65 527 544 484 499 93 933 317 427 982 730 377 400 183 457 521 341 913 787 265 
+player 65 draws a 168 from deck 65
+player 65 discards a 527 to deck 66
+player 65 current hand : 65 544 484 499 93 933 317 427 982 730 377 400 183 457 521 341 913 787 265 168 
+player 65 draws a 217 from deck 65
+player 65 discards a 544 to deck 66
+player 65 current hand : 65 484 499 93 933 317 427 982 730 377 400 183 457 521 341 913 787 265 168 217 
+player 65 draws a 591 from deck 65
+player 65 discards a 484 to deck 66
+player 65 current hand : 65 499 93 933 317 427 982 730 377 400 183 457 521 341 913 787 265 168 217 591 
+player 65 draws a 161 from deck 65
+player 65 discards a 499 to deck 66
+player 65 current hand : 65 93 933 317 427 982 730 377 400 183 457 521 341 913 787 265 168 217 591 161 
+player 65 draws a 919 from deck 65
+player 65 discards a 93 to deck 66
+player 65 current hand : 65 933 317 427 982 730 377 400 183 457 521 341 913 787 265 168 217 591 161 919 
+player 65 draws a 712 from deck 65
+player 65 discards a 933 to deck 66
+player 65 current hand : 65 317 427 982 730 377 400 183 457 521 341 913 787 265 168 217 591 161 919 712 
+player 65 draws a 196 from deck 65
+player 65 discards a 317 to deck 66
+player 65 current hand : 65 427 982 730 377 400 183 457 521 341 913 787 265 168 217 591 161 919 712 196 
+player 65 draws a 773 from deck 65
+player 65 discards a 427 to deck 66
+player 65 current hand : 65 982 730 377 400 183 457 521 341 913 787 265 168 217 591 161 919 712 196 773 
+player 65 draws a 279 from deck 65
+player 65 discards a 982 to deck 66
+player 65 current hand : 65 730 377 400 183 457 521 341 913 787 265 168 217 591 161 919 712 196 773 279 
+player 65 draws a 449 from deck 65
+player 65 discards a 730 to deck 66
+player 65 current hand : 65 377 400 183 457 521 341 913 787 265 168 217 591 161 919 712 196 773 279 449 
+player 65 draws a 340 from deck 65
+player 65 discards a 377 to deck 66
+player 65 current hand : 65 400 183 457 521 341 913 787 265 168 217 591 161 919 712 196 773 279 449 340 
+player 65 draws a 618 from deck 65
+player 65 discards a 400 to deck 66
+player 65 current hand : 65 183 457 521 341 913 787 265 168 217 591 161 919 712 196 773 279 449 340 618 
+player 65 draws a 37 from deck 65
+player 65 discards a 183 to deck 66
+player 65 current hand : 65 457 521 341 913 787 265 168 217 591 161 919 712 196 773 279 449 340 618 37 
+player 65 draws a 726 from deck 65
+player 65 discards a 457 to deck 66
+player 65 current hand : 65 521 341 913 787 265 168 217 591 161 919 712 196 773 279 449 340 618 37 726 
+player 65 draws a 457 from deck 65
+player 65 discards a 521 to deck 66
+player 65 current hand : 65 341 913 787 265 168 217 591 161 919 712 196 773 279 449 340 618 37 726 457 
+player 65 draws a 800 from deck 65
+player 65 discards a 341 to deck 66
+player 65 current hand : 65 913 787 265 168 217 591 161 919 712 196 773 279 449 340 618 37 726 457 800 
+player 65 draws a 321 from deck 65
+player 65 discards a 913 to deck 66
+player 65 current hand : 65 787 265 168 217 591 161 919 712 196 773 279 449 340 618 37 726 457 800 321 
+player 65 draws a 934 from deck 65
+player 65 discards a 787 to deck 66
+player 65 current hand : 65 265 168 217 591 161 919 712 196 773 279 449 340 618 37 726 457 800 321 934 
+player 65 draws a 451 from deck 65
+player 65 discards a 265 to deck 66
+player 65 current hand : 65 168 217 591 161 919 712 196 773 279 449 340 618 37 726 457 800 321 934 451 
+player 65 draws a 915 from deck 65
+player 65 discards a 168 to deck 66
+player 65 current hand : 65 217 591 161 919 712 196 773 279 449 340 618 37 726 457 800 321 934 451 915 
+player 65 draws a 10 from deck 65
+player 65 discards a 217 to deck 66
+player 65 current hand : 65 591 161 919 712 196 773 279 449 340 618 37 726 457 800 321 934 451 915 10 
+player 65 draws a 157 from deck 65
+player 65 discards a 591 to deck 66
+player 65 current hand : 65 161 919 712 196 773 279 449 340 618 37 726 457 800 321 934 451 915 10 157 
+player 65 draws a 4 from deck 65
+player 65 discards a 161 to deck 66
+player 65 current hand : 65 919 712 196 773 279 449 340 618 37 726 457 800 321 934 451 915 10 157 4 
+player 65 draws a 875 from deck 65
+player 65 discards a 919 to deck 66
+player 65 current hand : 65 712 196 773 279 449 340 618 37 726 457 800 321 934 451 915 10 157 4 875 
+player 65 draws a 608 from deck 65
+player 65 discards a 712 to deck 66
+player 65 current hand : 65 196 773 279 449 340 618 37 726 457 800 321 934 451 915 10 157 4 875 608 
+player 65 draws a 425 from deck 65
+player 65 discards a 196 to deck 66
+player 65 current hand : 65 773 279 449 340 618 37 726 457 800 321 934 451 915 10 157 4 875 608 425 
+player 65 draws a 618 from deck 65
+player 65 discards a 773 to deck 66
+player 65 current hand : 65 279 449 340 618 37 726 457 800 321 934 451 915 10 157 4 875 608 425 618 
+player 65 draws a 415 from deck 65
+player 65 discards a 279 to deck 66
+player 65 current hand : 65 449 340 618 37 726 457 800 321 934 451 915 10 157 4 875 608 425 618 415 
+player 65 draws a 516 from deck 65
+player 65 discards a 449 to deck 66
+player 65 current hand : 65 340 618 37 726 457 800 321 934 451 915 10 157 4 875 608 425 618 415 516 
+player 65 draws a 849 from deck 65
+player 65 discards a 340 to deck 66
+player 65 current hand : 65 618 37 726 457 800 321 934 451 915 10 157 4 875 608 425 618 415 516 849 
+player 65 draws a 10 from deck 65
+player 65 discards a 618 to deck 66
+player 65 current hand : 65 37 726 457 800 321 934 451 915 10 157 4 875 608 425 618 415 516 849 10 
+player 65 draws a 497 from deck 65
+player 65 discards a 37 to deck 66
+player 65 current hand : 65 726 457 800 321 934 451 915 10 157 4 875 608 425 618 415 516 849 10 497 
+player 65 draws a 941 from deck 65
+player 65 discards a 726 to deck 66
+player 65 current hand : 65 457 800 321 934 451 915 10 157 4 875 608 425 618 415 516 849 10 497 941 
+player 65 draws a 499 from deck 65
+player 65 discards a 457 to deck 66
+player 65 current hand : 65 800 321 934 451 915 10 157 4 875 608 425 618 415 516 849 10 497 941 499 
+player 65 draws a 168 from deck 65
+player 65 discards a 800 to deck 66
+player 65 current hand : 65 321 934 451 915 10 157 4 875 608 425 618 415 516 849 10 497 941 499 168 
+player 65 draws a 263 from deck 65
+player 65 discards a 321 to deck 66
+player 65 current hand : 65 934 451 915 10 157 4 875 608 425 618 415 516 849 10 497 941 499 168 263 
+player 65 draws a 973 from deck 65
+player 65 discards a 934 to deck 66
+player 65 current hand : 65 451 915 10 157 4 875 608 425 618 415 516 849 10 497 941 499 168 263 973 
+player 65 draws a 91 from deck 65
+player 65 discards a 451 to deck 66
+player 65 current hand : 65 915 10 157 4 875 608 425 618 415 516 849 10 497 941 499 168 263 973 91 
+player 65 draws a 542 from deck 65
+player 65 discards a 915 to deck 66
+player 65 current hand : 65 10 157 4 875 608 425 618 415 516 849 10 497 941 499 168 263 973 91 542 
+player 65 draws a 28 from deck 65
+player 65 discards a 10 to deck 66
+player 65 current hand : 65 157 4 875 608 425 618 415 516 849 10 497 941 499 168 263 973 91 542 28 
+player 65 draws a 300 from deck 65
+player 65 discards a 157 to deck 66
+player 65 current hand : 65 4 875 608 425 618 415 516 849 10 497 941 499 168 263 973 91 542 28 300 
+player 65 draws a 84 from deck 65
+player 65 discards a 4 to deck 66
+player 65 current hand : 65 875 608 425 618 415 516 849 10 497 941 499 168 263 973 91 542 28 300 84 
+player 65 draws a 993 from deck 65
+player 65 discards a 875 to deck 66
+player 65 current hand : 65 608 425 618 415 516 849 10 497 941 499 168 263 973 91 542 28 300 84 993 
+player 65 draws a 888 from deck 65
+player 65 discards a 608 to deck 66
+player 65 current hand : 65 425 618 415 516 849 10 497 941 499 168 263 973 91 542 28 300 84 993 888 
+player 65 draws a 631 from deck 65
+player 65 discards a 425 to deck 66
+player 65 current hand : 65 618 415 516 849 10 497 941 499 168 263 973 91 542 28 300 84 993 888 631 
+player 65 draws a 28 from deck 65
+player 65 discards a 618 to deck 66
+player 65 current hand : 65 415 516 849 10 497 941 499 168 263 973 91 542 28 300 84 993 888 631 28 
+player 65 draws a 127 from deck 65
+player 65 discards a 415 to deck 66
+player 65 current hand : 65 516 849 10 497 941 499 168 263 973 91 542 28 300 84 993 888 631 28 127 
+player 65 draws a 86 from deck 65
+player 65 discards a 516 to deck 66
+player 65 current hand : 65 849 10 497 941 499 168 263 973 91 542 28 300 84 993 888 631 28 127 86 
+player 65 draws a 402 from deck 65
+player 65 discards a 849 to deck 66
+player 65 current hand : 65 10 497 941 499 168 263 973 91 542 28 300 84 993 888 631 28 127 86 402 
+player 65 draws a 696 from deck 65
+player 65 discards a 10 to deck 66
+player 65 current hand : 65 497 941 499 168 263 973 91 542 28 300 84 993 888 631 28 127 86 402 696 
+player 65 draws a 817 from deck 65
+player 65 discards a 497 to deck 66
+player 65 current hand : 65 941 499 168 263 973 91 542 28 300 84 993 888 631 28 127 86 402 696 817 
+player 65 draws a 391 from deck 65
+player 65 discards a 941 to deck 66
+player 65 current hand : 65 499 168 263 973 91 542 28 300 84 993 888 631 28 127 86 402 696 817 391 
+player 65 draws a 691 from deck 65
+player 65 discards a 499 to deck 66
+player 65 current hand : 65 168 263 973 91 542 28 300 84 993 888 631 28 127 86 402 696 817 391 691 
+player 65 draws a 383 from deck 65
+player 65 discards a 168 to deck 66
+player 65 current hand : 65 263 973 91 542 28 300 84 993 888 631 28 127 86 402 696 817 391 691 383 
+player 65 draws a 691 from deck 65
+player 65 discards a 263 to deck 66
+player 65 current hand : 65 973 91 542 28 300 84 993 888 631 28 127 86 402 696 817 391 691 383 691 
+player 65 draws a 200 from deck 65
+player 65 discards a 973 to deck 66
+player 65 current hand : 65 91 542 28 300 84 993 888 631 28 127 86 402 696 817 391 691 383 691 200 
+player 65 draws a 602 from deck 65
+player 65 discards a 91 to deck 66
+player 65 current hand : 65 542 28 300 84 993 888 631 28 127 86 402 696 817 391 691 383 691 200 602 
+player 65 draws a 237 from deck 65
+player 65 discards a 542 to deck 66
+player 65 current hand : 65 28 300 84 993 888 631 28 127 86 402 696 817 391 691 383 691 200 602 237 
+player 65 draws a 443 from deck 65
+player 65 discards a 28 to deck 66
+player 65 current hand : 65 300 84 993 888 631 28 127 86 402 696 817 391 691 383 691 200 602 237 443 
+player 65 draws a 20 from deck 65
+player 65 discards a 300 to deck 66
+player 65 current hand : 65 84 993 888 631 28 127 86 402 696 817 391 691 383 691 200 602 237 443 20 
+player 65 draws a 925 from deck 65
+player 65 discards a 84 to deck 66
+player 65 current hand : 65 993 888 631 28 127 86 402 696 817 391 691 383 691 200 602 237 443 20 925 
+player 65 draws a 350 from deck 65
+player 65 discards a 993 to deck 66
+player 65 current hand : 65 888 631 28 127 86 402 696 817 391 691 383 691 200 602 237 443 20 925 350 
+player 65 draws a 460 from deck 65
+player 65 discards a 888 to deck 66
+player 65 current hand : 65 631 28 127 86 402 696 817 391 691 383 691 200 602 237 443 20 925 350 460 
+player 65 draws a 180 from deck 65
+player 65 discards a 631 to deck 66
+player 65 current hand : 65 28 127 86 402 696 817 391 691 383 691 200 602 237 443 20 925 350 460 180 
+player 65 draws a 835 from deck 65
+player 65 discards a 28 to deck 66
+player 65 current hand : 65 127 86 402 696 817 391 691 383 691 200 602 237 443 20 925 350 460 180 835 
+player 65 draws a 16 from deck 65
+player 65 discards a 127 to deck 66
+player 65 current hand : 65 86 402 696 817 391 691 383 691 200 602 237 443 20 925 350 460 180 835 16 
+player 65 draws a 610 from deck 65
+player 65 discards a 86 to deck 66
+player 65 current hand : 65 402 696 817 391 691 383 691 200 602 237 443 20 925 350 460 180 835 16 610 
+player 65 draws a 969 from deck 65
+player 65 discards a 402 to deck 66
+player 65 current hand : 65 696 817 391 691 383 691 200 602 237 443 20 925 350 460 180 835 16 610 969 

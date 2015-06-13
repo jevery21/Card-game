@@ -1,0 +1,317 @@
+player 341 initial hand 815 499 446 92 233 245 351 291 977 523 677 751 504 419 710 346 812 527 867 808 
+player 341 draws a 930 from deck 341
+player 341 discards a 815 to deck 342
+player 341 current hand : 499 446 92 233 245 351 291 977 523 677 751 504 419 710 346 812 527 867 808 930 
+player 341 draws a 150 from deck 341
+player 341 discards a 499 to deck 342
+player 341 current hand : 446 92 233 245 351 291 977 523 677 751 504 419 710 346 812 527 867 808 930 150 
+player 341 draws a 550 from deck 341
+player 341 discards a 446 to deck 342
+player 341 current hand : 92 233 245 351 291 977 523 677 751 504 419 710 346 812 527 867 808 930 150 550 
+player 341 draws a 485 from deck 341
+player 341 discards a 92 to deck 342
+player 341 current hand : 233 245 351 291 977 523 677 751 504 419 710 346 812 527 867 808 930 150 550 485 
+player 341 draws a 346 from deck 341
+player 341 discards a 233 to deck 342
+player 341 current hand : 245 351 291 977 523 677 751 504 419 710 346 812 527 867 808 930 150 550 485 346 
+player 341 draws a 815 from deck 341
+player 341 discards a 245 to deck 342
+player 341 current hand : 351 291 977 523 677 751 504 419 710 346 812 527 867 808 930 150 550 485 346 815 
+player 341 draws a 466 from deck 341
+player 341 discards a 351 to deck 342
+player 341 current hand : 291 977 523 677 751 504 419 710 346 812 527 867 808 930 150 550 485 346 815 466 
+player 341 draws a 631 from deck 341
+player 341 discards a 291 to deck 342
+player 341 current hand : 977 523 677 751 504 419 710 346 812 527 867 808 930 150 550 485 346 815 466 631 
+player 341 draws a 63 from deck 341
+player 341 discards a 977 to deck 342
+player 341 current hand : 523 677 751 504 419 710 346 812 527 867 808 930 150 550 485 346 815 466 631 63 
+player 341 draws a 791 from deck 341
+player 341 discards a 523 to deck 342
+player 341 current hand : 677 751 504 419 710 346 812 527 867 808 930 150 550 485 346 815 466 631 63 791 
+player 341 draws a 163 from deck 341
+player 341 discards a 677 to deck 342
+player 341 current hand : 751 504 419 710 346 812 527 867 808 930 150 550 485 346 815 466 631 63 791 163 
+player 341 draws a 77 from deck 341
+player 341 discards a 751 to deck 342
+player 341 current hand : 504 419 710 346 812 527 867 808 930 150 550 485 346 815 466 631 63 791 163 77 
+player 341 draws a 24 from deck 341
+player 341 discards a 504 to deck 342
+player 341 current hand : 419 710 346 812 527 867 808 930 150 550 485 346 815 466 631 63 791 163 77 24 
+player 341 draws a 482 from deck 341
+player 341 discards a 419 to deck 342
+player 341 current hand : 710 346 812 527 867 808 930 150 550 485 346 815 466 631 63 791 163 77 24 482 
+player 341 draws a 374 from deck 341
+player 341 discards a 710 to deck 342
+player 341 current hand : 346 812 527 867 808 930 150 550 485 346 815 466 631 63 791 163 77 24 482 374 
+player 341 draws a 248 from deck 341
+player 341 discards a 346 to deck 342
+player 341 current hand : 812 527 867 808 930 150 550 485 346 815 466 631 63 791 163 77 24 482 374 248 
+player 341 draws a 450 from deck 341
+player 341 discards a 812 to deck 342
+player 341 current hand : 527 867 808 930 150 550 485 346 815 466 631 63 791 163 77 24 482 374 248 450 
+player 341 draws a 995 from deck 341
+player 341 discards a 527 to deck 342
+player 341 current hand : 867 808 930 150 550 485 346 815 466 631 63 791 163 77 24 482 374 248 450 995 
+player 341 draws a 797 from deck 341
+player 341 discards a 867 to deck 342
+player 341 current hand : 808 930 150 550 485 346 815 466 631 63 791 163 77 24 482 374 248 450 995 797 
+player 341 draws a 446 from deck 341
+player 341 discards a 808 to deck 342
+player 341 current hand : 930 150 550 485 346 815 466 631 63 791 163 77 24 482 374 248 450 995 797 446 
+player 341 draws a 79 from deck 341
+player 341 discards a 930 to deck 342
+player 341 current hand : 150 550 485 346 815 466 631 63 791 163 77 24 482 374 248 450 995 797 446 79 
+player 341 draws a 217 from deck 341
+player 341 discards a 150 to deck 342
+player 341 current hand : 550 485 346 815 466 631 63 791 163 77 24 482 374 248 450 995 797 446 79 217 
+player 341 draws a 390 from deck 341
+player 341 discards a 550 to deck 342
+player 341 current hand : 485 346 815 466 631 63 791 163 77 24 482 374 248 450 995 797 446 79 217 390 
+player 341 draws a 359 from deck 341
+player 341 discards a 485 to deck 342
+player 341 current hand : 346 815 466 631 63 791 163 77 24 482 374 248 450 995 797 446 79 217 390 359 
+player 341 draws a 616 from deck 341
+player 341 discards a 346 to deck 342
+player 341 current hand : 815 466 631 63 791 163 77 24 482 374 248 450 995 797 446 79 217 390 359 616 
+player 341 draws a 252 from deck 341
+player 341 discards a 815 to deck 342
+player 341 current hand : 466 631 63 791 163 77 24 482 374 248 450 995 797 446 79 217 390 359 616 252 
+player 341 draws a 991 from deck 341
+player 341 discards a 466 to deck 342
+player 341 current hand : 631 63 791 163 77 24 482 374 248 450 995 797 446 79 217 390 359 616 252 991 
+player 341 draws a 864 from deck 341
+player 341 discards a 631 to deck 342
+player 341 current hand : 63 791 163 77 24 482 374 248 450 995 797 446 79 217 390 359 616 252 991 864 
+player 341 draws a 634 from deck 341
+player 341 discards a 63 to deck 342
+player 341 current hand : 791 163 77 24 482 374 248 450 995 797 446 79 217 390 359 616 252 991 864 634 
+player 341 draws a 303 from deck 341
+player 341 discards a 791 to deck 342
+player 341 current hand : 163 77 24 482 374 248 450 995 797 446 79 217 390 359 616 252 991 864 634 303 
+player 341 draws a 694 from deck 341
+player 341 discards a 163 to deck 342
+player 341 current hand : 77 24 482 374 248 450 995 797 446 79 217 390 359 616 252 991 864 634 303 694 
+player 341 draws a 319 from deck 341
+player 341 discards a 77 to deck 342
+player 341 current hand : 24 482 374 248 450 995 797 446 79 217 390 359 616 252 991 864 634 303 694 319 
+player 341 draws a 110 from deck 341
+player 341 discards a 24 to deck 342
+player 341 current hand : 482 374 248 450 995 797 446 79 217 390 359 616 252 991 864 634 303 694 319 110 
+player 341 draws a 515 from deck 341
+player 341 discards a 482 to deck 342
+player 341 current hand : 374 248 450 995 797 446 79 217 390 359 616 252 991 864 634 303 694 319 110 515 
+player 341 draws a 595 from deck 341
+player 341 discards a 374 to deck 342
+player 341 current hand : 248 450 995 797 446 79 217 390 359 616 252 991 864 634 303 694 319 110 515 595 
+player 341 draws a 657 from deck 341
+player 341 discards a 248 to deck 342
+player 341 current hand : 450 995 797 446 79 217 390 359 616 252 991 864 634 303 694 319 110 515 595 657 
+player 341 draws a 702 from deck 341
+player 341 discards a 450 to deck 342
+player 341 current hand : 995 797 446 79 217 390 359 616 252 991 864 634 303 694 319 110 515 595 657 702 
+player 341 draws a 523 from deck 341
+player 341 discards a 995 to deck 342
+player 341 current hand : 797 446 79 217 390 359 616 252 991 864 634 303 694 319 110 515 595 657 702 523 
+player 341 draws a 743 from deck 341
+player 341 discards a 797 to deck 342
+player 341 current hand : 446 79 217 390 359 616 252 991 864 634 303 694 319 110 515 595 657 702 523 743 
+player 341 draws a 683 from deck 341
+player 341 discards a 446 to deck 342
+player 341 current hand : 79 217 390 359 616 252 991 864 634 303 694 319 110 515 595 657 702 523 743 683 
+player 341 draws a 606 from deck 341
+player 341 discards a 79 to deck 342
+player 341 current hand : 217 390 359 616 252 991 864 634 303 694 319 110 515 595 657 702 523 743 683 606 
+player 341 draws a 206 from deck 341
+player 341 discards a 217 to deck 342
+player 341 current hand : 390 359 616 252 991 864 634 303 694 319 110 515 595 657 702 523 743 683 606 206 
+player 341 draws a 72 from deck 341
+player 341 discards a 390 to deck 342
+player 341 current hand : 359 616 252 991 864 634 303 694 319 110 515 595 657 702 523 743 683 606 206 72 
+player 341 draws a 422 from deck 341
+player 341 discards a 359 to deck 342
+player 341 current hand : 616 252 991 864 634 303 694 319 110 515 595 657 702 523 743 683 606 206 72 422 
+player 341 draws a 52 from deck 341
+player 341 discards a 616 to deck 342
+player 341 current hand : 252 991 864 634 303 694 319 110 515 595 657 702 523 743 683 606 206 72 422 52 
+player 341 draws a 672 from deck 341
+player 341 discards a 252 to deck 342
+player 341 current hand : 991 864 634 303 694 319 110 515 595 657 702 523 743 683 606 206 72 422 52 672 
+player 341 draws a 91 from deck 341
+player 341 discards a 991 to deck 342
+player 341 current hand : 864 634 303 694 319 110 515 595 657 702 523 743 683 606 206 72 422 52 672 91 
+player 341 draws a 713 from deck 341
+player 341 discards a 864 to deck 342
+player 341 current hand : 634 303 694 319 110 515 595 657 702 523 743 683 606 206 72 422 52 672 91 713 
+player 341 draws a 501 from deck 341
+player 341 discards a 634 to deck 342
+player 341 current hand : 303 694 319 110 515 595 657 702 523 743 683 606 206 72 422 52 672 91 713 501 
+player 341 draws a 420 from deck 341
+player 341 discards a 303 to deck 342
+player 341 current hand : 694 319 110 515 595 657 702 523 743 683 606 206 72 422 52 672 91 713 501 420 
+player 341 draws a 292 from deck 341
+player 341 discards a 694 to deck 342
+player 341 current hand : 319 110 515 595 657 702 523 743 683 606 206 72 422 52 672 91 713 501 420 292 
+player 341 draws a 621 from deck 341
+player 341 discards a 319 to deck 342
+player 341 current hand : 110 515 595 657 702 523 743 683 606 206 72 422 52 672 91 713 501 420 292 621 
+player 341 draws a 106 from deck 341
+player 341 discards a 110 to deck 342
+player 341 current hand : 515 595 657 702 523 743 683 606 206 72 422 52 672 91 713 501 420 292 621 106 
+player 341 draws a 810 from deck 341
+player 341 discards a 515 to deck 342
+player 341 current hand : 595 657 702 523 743 683 606 206 72 422 52 672 91 713 501 420 292 621 106 810 
+player 341 draws a 681 from deck 341
+player 341 discards a 595 to deck 342
+player 341 current hand : 657 702 523 743 683 606 206 72 422 52 672 91 713 501 420 292 621 106 810 681 
+player 341 draws a 4 from deck 341
+player 341 discards a 657 to deck 342
+player 341 current hand : 702 523 743 683 606 206 72 422 52 672 91 713 501 420 292 621 106 810 681 4 
+player 341 draws a 144 from deck 341
+player 341 discards a 702 to deck 342
+player 341 current hand : 523 743 683 606 206 72 422 52 672 91 713 501 420 292 621 106 810 681 4 144 
+player 341 draws a 846 from deck 341
+player 341 discards a 523 to deck 342
+player 341 current hand : 743 683 606 206 72 422 52 672 91 713 501 420 292 621 106 810 681 4 144 846 
+player 341 draws a 432 from deck 341
+player 341 discards a 743 to deck 342
+player 341 current hand : 683 606 206 72 422 52 672 91 713 501 420 292 621 106 810 681 4 144 846 432 
+player 341 draws a 499 from deck 341
+player 341 discards a 683 to deck 342
+player 341 current hand : 606 206 72 422 52 672 91 713 501 420 292 621 106 810 681 4 144 846 432 499 
+player 341 draws a 518 from deck 341
+player 341 discards a 606 to deck 342
+player 341 current hand : 206 72 422 52 672 91 713 501 420 292 621 106 810 681 4 144 846 432 499 518 
+player 341 draws a 214 from deck 341
+player 341 discards a 206 to deck 342
+player 341 current hand : 72 422 52 672 91 713 501 420 292 621 106 810 681 4 144 846 432 499 518 214 
+player 341 draws a 536 from deck 341
+player 341 discards a 72 to deck 342
+player 341 current hand : 422 52 672 91 713 501 420 292 621 106 810 681 4 144 846 432 499 518 214 536 
+player 341 draws a 341 from deck 341
+player 341 discards a 422 to deck 342
+player 341 current hand : 52 672 91 713 501 420 292 621 106 810 681 4 144 846 432 499 518 214 536 341 
+player 341 draws a 45 from deck 341
+player 341 discards a 52 to deck 342
+player 341 current hand : 672 91 713 501 420 292 621 106 810 681 4 144 846 432 499 518 214 536 341 45 
+player 341 draws a 627 from deck 341
+player 341 discards a 672 to deck 342
+player 341 current hand : 91 713 501 420 292 621 106 810 681 4 144 846 432 499 518 214 536 341 45 627 
+player 341 draws a 753 from deck 341
+player 341 discards a 91 to deck 342
+player 341 current hand : 713 501 420 292 621 106 810 681 4 144 846 432 499 518 214 536 341 45 627 753 
+player 341 draws a 712 from deck 341
+player 341 discards a 713 to deck 342
+player 341 current hand : 501 420 292 621 106 810 681 4 144 846 432 499 518 214 536 341 45 627 753 712 
+player 341 draws a 242 from deck 341
+player 341 discards a 501 to deck 342
+player 341 current hand : 420 292 621 106 810 681 4 144 846 432 499 518 214 536 341 45 627 753 712 242 
+player 341 draws a 491 from deck 341
+player 341 discards a 420 to deck 342
+player 341 current hand : 292 621 106 810 681 4 144 846 432 499 518 214 536 341 45 627 753 712 242 491 
+player 341 draws a 798 from deck 341
+player 341 discards a 292 to deck 342
+player 341 current hand : 621 106 810 681 4 144 846 432 499 518 214 536 341 45 627 753 712 242 491 798 
+player 341 draws a 71 from deck 341
+player 341 discards a 621 to deck 342
+player 341 current hand : 106 810 681 4 144 846 432 499 518 214 536 341 45 627 753 712 242 491 798 71 
+player 341 draws a 641 from deck 341
+player 341 discards a 106 to deck 342
+player 341 current hand : 810 681 4 144 846 432 499 518 214 536 341 45 627 753 712 242 491 798 71 641 
+player 341 draws a 561 from deck 341
+player 341 discards a 810 to deck 342
+player 341 current hand : 681 4 144 846 432 499 518 214 536 341 45 627 753 712 242 491 798 71 641 561 
+player 341 draws a 499 from deck 341
+player 341 discards a 681 to deck 342
+player 341 current hand : 4 144 846 432 499 518 214 536 341 45 627 753 712 242 491 798 71 641 561 499 
+player 341 draws a 303 from deck 341
+player 341 discards a 4 to deck 342
+player 341 current hand : 144 846 432 499 518 214 536 341 45 627 753 712 242 491 798 71 641 561 499 303 
+player 341 draws a 827 from deck 341
+player 341 discards a 144 to deck 342
+player 341 current hand : 846 432 499 518 214 536 341 45 627 753 712 242 491 798 71 641 561 499 303 827 
+player 341 draws a 667 from deck 341
+player 341 discards a 846 to deck 342
+player 341 current hand : 432 499 518 214 536 341 45 627 753 712 242 491 798 71 641 561 499 303 827 667 
+player 341 draws a 369 from deck 341
+player 341 discards a 432 to deck 342
+player 341 current hand : 499 518 214 536 341 45 627 753 712 242 491 798 71 641 561 499 303 827 667 369 
+player 341 draws a 355 from deck 341
+player 341 discards a 499 to deck 342
+player 341 current hand : 518 214 536 341 45 627 753 712 242 491 798 71 641 561 499 303 827 667 369 355 
+player 341 draws a 745 from deck 341
+player 341 discards a 518 to deck 342
+player 341 current hand : 214 536 341 45 627 753 712 242 491 798 71 641 561 499 303 827 667 369 355 745 
+player 341 draws a 14 from deck 341
+player 341 discards a 214 to deck 342
+player 341 current hand : 536 341 45 627 753 712 242 491 798 71 641 561 499 303 827 667 369 355 745 14 
+player 341 draws a 183 from deck 341
+player 341 discards a 536 to deck 342
+player 341 current hand : 341 45 627 753 712 242 491 798 71 641 561 499 303 827 667 369 355 745 14 183 
+player 341 draws a 283 from deck 341
+player 341 discards a 45 to deck 342
+player 341 current hand : 341 627 753 712 242 491 798 71 641 561 499 303 827 667 369 355 745 14 183 283 
+player 341 draws a 425 from deck 341
+player 341 discards a 627 to deck 342
+player 341 current hand : 341 753 712 242 491 798 71 641 561 499 303 827 667 369 355 745 14 183 283 425 
+player 341 draws a 319 from deck 341
+player 341 discards a 753 to deck 342
+player 341 current hand : 341 712 242 491 798 71 641 561 499 303 827 667 369 355 745 14 183 283 425 319 
+player 341 draws a 28 from deck 341
+player 341 discards a 712 to deck 342
+player 341 current hand : 341 242 491 798 71 641 561 499 303 827 667 369 355 745 14 183 283 425 319 28 
+player 341 draws a 554 from deck 341
+player 341 discards a 242 to deck 342
+player 341 current hand : 341 491 798 71 641 561 499 303 827 667 369 355 745 14 183 283 425 319 28 554 
+player 341 draws a 775 from deck 341
+player 341 discards a 491 to deck 342
+player 341 current hand : 341 798 71 641 561 499 303 827 667 369 355 745 14 183 283 425 319 28 554 775 
+player 341 draws a 653 from deck 341
+player 341 discards a 798 to deck 342
+player 341 current hand : 341 71 641 561 499 303 827 667 369 355 745 14 183 283 425 319 28 554 775 653 
+player 341 draws a 412 from deck 341
+player 341 discards a 71 to deck 342
+player 341 current hand : 341 641 561 499 303 827 667 369 355 745 14 183 283 425 319 28 554 775 653 412 
+player 341 draws a 529 from deck 341
+player 341 discards a 641 to deck 342
+player 341 current hand : 341 561 499 303 827 667 369 355 745 14 183 283 425 319 28 554 775 653 412 529 
+player 341 draws a 438 from deck 341
+player 341 discards a 561 to deck 342
+player 341 current hand : 341 499 303 827 667 369 355 745 14 183 283 425 319 28 554 775 653 412 529 438 
+player 341 draws a 691 from deck 341
+player 341 discards a 499 to deck 342
+player 341 current hand : 341 303 827 667 369 355 745 14 183 283 425 319 28 554 775 653 412 529 438 691 
+player 341 draws a 609 from deck 341
+player 341 discards a 303 to deck 342
+player 341 current hand : 341 827 667 369 355 745 14 183 283 425 319 28 554 775 653 412 529 438 691 609 
+player 341 draws a 518 from deck 341
+player 341 discards a 827 to deck 342
+player 341 current hand : 341 667 369 355 745 14 183 283 425 319 28 554 775 653 412 529 438 691 609 518 
+player 341 draws a 181 from deck 341
+player 341 discards a 667 to deck 342
+player 341 current hand : 341 369 355 745 14 183 283 425 319 28 554 775 653 412 529 438 691 609 518 181 
+player 341 draws a 868 from deck 341
+player 341 discards a 369 to deck 342
+player 341 current hand : 341 355 745 14 183 283 425 319 28 554 775 653 412 529 438 691 609 518 181 868 
+player 341 draws a 475 from deck 341
+player 341 discards a 355 to deck 342
+player 341 current hand : 341 745 14 183 283 425 319 28 554 775 653 412 529 438 691 609 518 181 868 475 
+player 341 draws a 875 from deck 341
+player 341 discards a 745 to deck 342
+player 341 current hand : 341 14 183 283 425 319 28 554 775 653 412 529 438 691 609 518 181 868 475 875 
+player 341 draws a 939 from deck 341
+player 341 discards a 14 to deck 342
+player 341 current hand : 341 183 283 425 319 28 554 775 653 412 529 438 691 609 518 181 868 475 875 939 
+player 341 draws a 839 from deck 341
+player 341 discards a 183 to deck 342
+player 341 current hand : 341 283 425 319 28 554 775 653 412 529 438 691 609 518 181 868 475 875 939 839 
+player 341 draws a 578 from deck 341
+player 341 discards a 283 to deck 342
+player 341 current hand : 341 425 319 28 554 775 653 412 529 438 691 609 518 181 868 475 875 939 839 578 
+player 341 draws a 117 from deck 341
+player 341 discards a 425 to deck 342
+player 341 current hand : 341 319 28 554 775 653 412 529 438 691 609 518 181 868 475 875 939 839 578 117 
+player 341 draws a 130 from deck 341
+player 341 discards a 319 to deck 342
+player 341 current hand : 341 28 554 775 653 412 529 438 691 609 518 181 868 475 875 939 839 578 117 130 
+player 341 draws a 201 from deck 341

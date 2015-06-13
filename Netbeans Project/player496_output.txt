@@ -1,0 +1,324 @@
+player 496 initial hand 995 470 220 301 17 475 826 816 829 509 870 258 255 231 845 853 317 631 52 305 
+player 496 draws a 124 from deck 496
+player 496 discards a 995 to deck 497
+player 496 current hand : 470 220 301 17 475 826 816 829 509 870 258 255 231 845 853 317 631 52 305 124 
+player 496 draws a 136 from deck 496
+player 496 discards a 470 to deck 497
+player 496 current hand : 220 301 17 475 826 816 829 509 870 258 255 231 845 853 317 631 52 305 124 136 
+player 496 draws a 845 from deck 496
+player 496 discards a 220 to deck 497
+player 496 current hand : 301 17 475 826 816 829 509 870 258 255 231 845 853 317 631 52 305 124 136 845 
+player 496 draws a 666 from deck 496
+player 496 discards a 301 to deck 497
+player 496 current hand : 17 475 826 816 829 509 870 258 255 231 845 853 317 631 52 305 124 136 845 666 
+player 496 draws a 618 from deck 496
+player 496 discards a 17 to deck 497
+player 496 current hand : 475 826 816 829 509 870 258 255 231 845 853 317 631 52 305 124 136 845 666 618 
+player 496 draws a 592 from deck 496
+player 496 discards a 475 to deck 497
+player 496 current hand : 826 816 829 509 870 258 255 231 845 853 317 631 52 305 124 136 845 666 618 592 
+player 496 draws a 449 from deck 496
+player 496 discards a 826 to deck 497
+player 496 current hand : 816 829 509 870 258 255 231 845 853 317 631 52 305 124 136 845 666 618 592 449 
+player 496 draws a 939 from deck 496
+player 496 discards a 816 to deck 497
+player 496 current hand : 829 509 870 258 255 231 845 853 317 631 52 305 124 136 845 666 618 592 449 939 
+player 496 draws a 720 from deck 496
+player 496 discards a 829 to deck 497
+player 496 current hand : 509 870 258 255 231 845 853 317 631 52 305 124 136 845 666 618 592 449 939 720 
+player 496 draws a 101 from deck 496
+player 496 discards a 509 to deck 497
+player 496 current hand : 870 258 255 231 845 853 317 631 52 305 124 136 845 666 618 592 449 939 720 101 
+player 496 draws a 181 from deck 496
+player 496 discards a 870 to deck 497
+player 496 current hand : 258 255 231 845 853 317 631 52 305 124 136 845 666 618 592 449 939 720 101 181 
+player 496 draws a 319 from deck 496
+player 496 discards a 258 to deck 497
+player 496 current hand : 255 231 845 853 317 631 52 305 124 136 845 666 618 592 449 939 720 101 181 319 
+player 496 draws a 13 from deck 496
+player 496 discards a 255 to deck 497
+player 496 current hand : 231 845 853 317 631 52 305 124 136 845 666 618 592 449 939 720 101 181 319 13 
+player 496 draws a 285 from deck 496
+player 496 discards a 231 to deck 497
+player 496 current hand : 845 853 317 631 52 305 124 136 845 666 618 592 449 939 720 101 181 319 13 285 
+player 496 draws a 69 from deck 496
+player 496 discards a 845 to deck 497
+player 496 current hand : 853 317 631 52 305 124 136 845 666 618 592 449 939 720 101 181 319 13 285 69 
+player 496 draws a 652 from deck 496
+player 496 discards a 853 to deck 497
+player 496 current hand : 317 631 52 305 124 136 845 666 618 592 449 939 720 101 181 319 13 285 69 652 
+player 496 draws a 509 from deck 496
+player 496 discards a 317 to deck 497
+player 496 current hand : 631 52 305 124 136 845 666 618 592 449 939 720 101 181 319 13 285 69 652 509 
+player 496 draws a 412 from deck 496
+player 496 discards a 631 to deck 497
+player 496 current hand : 52 305 124 136 845 666 618 592 449 939 720 101 181 319 13 285 69 652 509 412 
+player 496 draws a 235 from deck 496
+player 496 discards a 52 to deck 497
+player 496 current hand : 305 124 136 845 666 618 592 449 939 720 101 181 319 13 285 69 652 509 412 235 
+player 496 draws a 750 from deck 496
+player 496 discards a 305 to deck 497
+player 496 current hand : 124 136 845 666 618 592 449 939 720 101 181 319 13 285 69 652 509 412 235 750 
+player 496 draws a 841 from deck 496
+player 496 discards a 124 to deck 497
+player 496 current hand : 136 845 666 618 592 449 939 720 101 181 319 13 285 69 652 509 412 235 750 841 
+player 496 draws a 552 from deck 496
+player 496 discards a 136 to deck 497
+player 496 current hand : 845 666 618 592 449 939 720 101 181 319 13 285 69 652 509 412 235 750 841 552 
+player 496 draws a 636 from deck 496
+player 496 discards a 845 to deck 497
+player 496 current hand : 666 618 592 449 939 720 101 181 319 13 285 69 652 509 412 235 750 841 552 636 
+player 496 draws a 870 from deck 496
+player 496 discards a 666 to deck 497
+player 496 current hand : 618 592 449 939 720 101 181 319 13 285 69 652 509 412 235 750 841 552 636 870 
+player 496 draws a 612 from deck 496
+player 496 discards a 618 to deck 497
+player 496 current hand : 592 449 939 720 101 181 319 13 285 69 652 509 412 235 750 841 552 636 870 612 
+player 496 draws a 878 from deck 496
+player 496 discards a 592 to deck 497
+player 496 current hand : 449 939 720 101 181 319 13 285 69 652 509 412 235 750 841 552 636 870 612 878 
+player 496 draws a 328 from deck 496
+player 496 discards a 449 to deck 497
+player 496 current hand : 939 720 101 181 319 13 285 69 652 509 412 235 750 841 552 636 870 612 878 328 
+player 496 draws a 941 from deck 496
+player 496 discards a 939 to deck 497
+player 496 current hand : 720 101 181 319 13 285 69 652 509 412 235 750 841 552 636 870 612 878 328 941 
+player 496 draws a 973 from deck 496
+player 496 discards a 720 to deck 497
+player 496 current hand : 101 181 319 13 285 69 652 509 412 235 750 841 552 636 870 612 878 328 941 973 
+player 496 draws a 253 from deck 496
+player 496 discards a 101 to deck 497
+player 496 current hand : 181 319 13 285 69 652 509 412 235 750 841 552 636 870 612 878 328 941 973 253 
+player 496 draws a 945 from deck 496
+player 496 discards a 181 to deck 497
+player 496 current hand : 319 13 285 69 652 509 412 235 750 841 552 636 870 612 878 328 941 973 253 945 
+player 496 draws a 448 from deck 496
+player 496 discards a 319 to deck 497
+player 496 current hand : 13 285 69 652 509 412 235 750 841 552 636 870 612 878 328 941 973 253 945 448 
+player 496 draws a 944 from deck 496
+player 496 discards a 13 to deck 497
+player 496 current hand : 285 69 652 509 412 235 750 841 552 636 870 612 878 328 941 973 253 945 448 944 
+player 496 draws a 432 from deck 496
+player 496 discards a 285 to deck 497
+player 496 current hand : 69 652 509 412 235 750 841 552 636 870 612 878 328 941 973 253 945 448 944 432 
+player 496 draws a 927 from deck 496
+player 496 discards a 69 to deck 497
+player 496 current hand : 652 509 412 235 750 841 552 636 870 612 878 328 941 973 253 945 448 944 432 927 
+player 496 draws a 814 from deck 496
+player 496 discards a 652 to deck 497
+player 496 current hand : 509 412 235 750 841 552 636 870 612 878 328 941 973 253 945 448 944 432 927 814 
+player 496 draws a 760 from deck 496
+player 496 discards a 509 to deck 497
+player 496 current hand : 412 235 750 841 552 636 870 612 878 328 941 973 253 945 448 944 432 927 814 760 
+player 496 draws a 187 from deck 496
+player 496 discards a 412 to deck 497
+player 496 current hand : 235 750 841 552 636 870 612 878 328 941 973 253 945 448 944 432 927 814 760 187 
+player 496 draws a 527 from deck 496
+player 496 discards a 235 to deck 497
+player 496 current hand : 750 841 552 636 870 612 878 328 941 973 253 945 448 944 432 927 814 760 187 527 
+player 496 draws a 253 from deck 496
+player 496 discards a 750 to deck 497
+player 496 current hand : 841 552 636 870 612 878 328 941 973 253 945 448 944 432 927 814 760 187 527 253 
+player 496 draws a 356 from deck 496
+player 496 discards a 841 to deck 497
+player 496 current hand : 552 636 870 612 878 328 941 973 253 945 448 944 432 927 814 760 187 527 253 356 
+player 496 draws a 768 from deck 496
+player 496 discards a 552 to deck 497
+player 496 current hand : 636 870 612 878 328 941 973 253 945 448 944 432 927 814 760 187 527 253 356 768 
+player 496 draws a 510 from deck 496
+player 496 discards a 636 to deck 497
+player 496 current hand : 870 612 878 328 941 973 253 945 448 944 432 927 814 760 187 527 253 356 768 510 
+player 496 draws a 204 from deck 496
+player 496 discards a 870 to deck 497
+player 496 current hand : 612 878 328 941 973 253 945 448 944 432 927 814 760 187 527 253 356 768 510 204 
+player 496 draws a 401 from deck 496
+player 496 discards a 612 to deck 497
+player 496 current hand : 878 328 941 973 253 945 448 944 432 927 814 760 187 527 253 356 768 510 204 401 
+player 496 draws a 470 from deck 496
+player 496 discards a 878 to deck 497
+player 496 current hand : 328 941 973 253 945 448 944 432 927 814 760 187 527 253 356 768 510 204 401 470 
+player 496 draws a 887 from deck 496
+player 496 discards a 328 to deck 497
+player 496 current hand : 941 973 253 945 448 944 432 927 814 760 187 527 253 356 768 510 204 401 470 887 
+player 496 draws a 414 from deck 496
+player 496 discards a 941 to deck 497
+player 496 current hand : 973 253 945 448 944 432 927 814 760 187 527 253 356 768 510 204 401 470 887 414 
+player 496 draws a 205 from deck 496
+player 496 discards a 973 to deck 497
+player 496 current hand : 253 945 448 944 432 927 814 760 187 527 253 356 768 510 204 401 470 887 414 205 
+player 496 draws a 513 from deck 496
+player 496 discards a 253 to deck 497
+player 496 current hand : 945 448 944 432 927 814 760 187 527 253 356 768 510 204 401 470 887 414 205 513 
+player 496 draws a 84 from deck 496
+player 496 discards a 945 to deck 497
+player 496 current hand : 448 944 432 927 814 760 187 527 253 356 768 510 204 401 470 887 414 205 513 84 
+player 496 draws a 29 from deck 496
+player 496 discards a 448 to deck 497
+player 496 current hand : 944 432 927 814 760 187 527 253 356 768 510 204 401 470 887 414 205 513 84 29 
+player 496 draws a 599 from deck 496
+player 496 discards a 944 to deck 497
+player 496 current hand : 432 927 814 760 187 527 253 356 768 510 204 401 470 887 414 205 513 84 29 599 
+player 496 draws a 448 from deck 496
+player 496 discards a 432 to deck 497
+player 496 current hand : 927 814 760 187 527 253 356 768 510 204 401 470 887 414 205 513 84 29 599 448 
+player 496 draws a 1000 from deck 496
+player 496 discards a 927 to deck 497
+player 496 current hand : 814 760 187 527 253 356 768 510 204 401 470 887 414 205 513 84 29 599 448 1000 
+player 496 draws a 210 from deck 496
+player 496 discards a 814 to deck 497
+player 496 current hand : 760 187 527 253 356 768 510 204 401 470 887 414 205 513 84 29 599 448 1000 210 
+player 496 draws a 189 from deck 496
+player 496 discards a 760 to deck 497
+player 496 current hand : 187 527 253 356 768 510 204 401 470 887 414 205 513 84 29 599 448 1000 210 189 
+player 496 draws a 258 from deck 496
+player 496 discards a 187 to deck 497
+player 496 current hand : 527 253 356 768 510 204 401 470 887 414 205 513 84 29 599 448 1000 210 189 258 
+player 496 draws a 704 from deck 496
+player 496 discards a 527 to deck 497
+player 496 current hand : 253 356 768 510 204 401 470 887 414 205 513 84 29 599 448 1000 210 189 258 704 
+player 496 draws a 585 from deck 496
+player 496 discards a 253 to deck 497
+player 496 current hand : 356 768 510 204 401 470 887 414 205 513 84 29 599 448 1000 210 189 258 704 585 
+player 496 draws a 157 from deck 496
+player 496 discards a 356 to deck 497
+player 496 current hand : 768 510 204 401 470 887 414 205 513 84 29 599 448 1000 210 189 258 704 585 157 
+player 496 draws a 102 from deck 496
+player 496 discards a 768 to deck 497
+player 496 current hand : 510 204 401 470 887 414 205 513 84 29 599 448 1000 210 189 258 704 585 157 102 
+player 496 draws a 613 from deck 496
+player 496 discards a 510 to deck 497
+player 496 current hand : 204 401 470 887 414 205 513 84 29 599 448 1000 210 189 258 704 585 157 102 613 
+player 496 draws a 160 from deck 496
+player 496 discards a 204 to deck 497
+player 496 current hand : 401 470 887 414 205 513 84 29 599 448 1000 210 189 258 704 585 157 102 613 160 
+player 496 draws a 43 from deck 496
+player 496 discards a 401 to deck 497
+player 496 current hand : 470 887 414 205 513 84 29 599 448 1000 210 189 258 704 585 157 102 613 160 43 
+player 496 draws a 415 from deck 496
+player 496 discards a 470 to deck 497
+player 496 current hand : 887 414 205 513 84 29 599 448 1000 210 189 258 704 585 157 102 613 160 43 415 
+player 496 draws a 513 from deck 496
+player 496 discards a 887 to deck 497
+player 496 current hand : 414 205 513 84 29 599 448 1000 210 189 258 704 585 157 102 613 160 43 415 513 
+player 496 draws a 364 from deck 496
+player 496 discards a 414 to deck 497
+player 496 current hand : 205 513 84 29 599 448 1000 210 189 258 704 585 157 102 613 160 43 415 513 364 
+player 496 draws a 669 from deck 496
+player 496 discards a 205 to deck 497
+player 496 current hand : 513 84 29 599 448 1000 210 189 258 704 585 157 102 613 160 43 415 513 364 669 
+player 496 draws a 735 from deck 496
+player 496 discards a 513 to deck 497
+player 496 current hand : 84 29 599 448 1000 210 189 258 704 585 157 102 613 160 43 415 513 364 669 735 
+player 496 draws a 971 from deck 496
+player 496 discards a 84 to deck 497
+player 496 current hand : 29 599 448 1000 210 189 258 704 585 157 102 613 160 43 415 513 364 669 735 971 
+player 496 draws a 640 from deck 496
+player 496 discards a 29 to deck 497
+player 496 current hand : 599 448 1000 210 189 258 704 585 157 102 613 160 43 415 513 364 669 735 971 640 
+player 496 draws a 647 from deck 496
+player 496 discards a 599 to deck 497
+player 496 current hand : 448 1000 210 189 258 704 585 157 102 613 160 43 415 513 364 669 735 971 640 647 
+player 496 draws a 57 from deck 496
+player 496 discards a 448 to deck 497
+player 496 current hand : 1000 210 189 258 704 585 157 102 613 160 43 415 513 364 669 735 971 640 647 57 
+player 496 draws a 926 from deck 496
+player 496 discards a 1000 to deck 497
+player 496 current hand : 210 189 258 704 585 157 102 613 160 43 415 513 364 669 735 971 640 647 57 926 
+player 496 draws a 20 from deck 496
+player 496 discards a 210 to deck 497
+player 496 current hand : 189 258 704 585 157 102 613 160 43 415 513 364 669 735 971 640 647 57 926 20 
+player 496 draws a 156 from deck 496
+player 496 discards a 189 to deck 497
+player 496 current hand : 258 704 585 157 102 613 160 43 415 513 364 669 735 971 640 647 57 926 20 156 
+player 496 draws a 55 from deck 496
+player 496 discards a 258 to deck 497
+player 496 current hand : 704 585 157 102 613 160 43 415 513 364 669 735 971 640 647 57 926 20 156 55 
+player 496 draws a 986 from deck 496
+player 496 discards a 704 to deck 497
+player 496 current hand : 585 157 102 613 160 43 415 513 364 669 735 971 640 647 57 926 20 156 55 986 
+player 496 draws a 863 from deck 496
+player 496 discards a 585 to deck 497
+player 496 current hand : 157 102 613 160 43 415 513 364 669 735 971 640 647 57 926 20 156 55 986 863 
+player 496 draws a 284 from deck 496
+player 496 discards a 157 to deck 497
+player 496 current hand : 102 613 160 43 415 513 364 669 735 971 640 647 57 926 20 156 55 986 863 284 
+player 496 draws a 508 from deck 496
+player 496 discards a 102 to deck 497
+player 496 current hand : 613 160 43 415 513 364 669 735 971 640 647 57 926 20 156 55 986 863 284 508 
+player 496 draws a 422 from deck 496
+player 496 discards a 613 to deck 497
+player 496 current hand : 160 43 415 513 364 669 735 971 640 647 57 926 20 156 55 986 863 284 508 422 
+player 496 draws a 338 from deck 496
+player 496 discards a 160 to deck 497
+player 496 current hand : 43 415 513 364 669 735 971 640 647 57 926 20 156 55 986 863 284 508 422 338 
+player 496 draws a 201 from deck 496
+player 496 discards a 43 to deck 497
+player 496 current hand : 415 513 364 669 735 971 640 647 57 926 20 156 55 986 863 284 508 422 338 201 
+player 496 draws a 14 from deck 496
+player 496 discards a 415 to deck 497
+player 496 current hand : 513 364 669 735 971 640 647 57 926 20 156 55 986 863 284 508 422 338 201 14 
+player 496 draws a 241 from deck 496
+player 496 discards a 513 to deck 497
+player 496 current hand : 364 669 735 971 640 647 57 926 20 156 55 986 863 284 508 422 338 201 14 241 
+player 496 draws a 255 from deck 496
+player 496 discards a 364 to deck 497
+player 496 current hand : 669 735 971 640 647 57 926 20 156 55 986 863 284 508 422 338 201 14 241 255 
+player 496 draws a 453 from deck 496
+player 496 discards a 669 to deck 497
+player 496 current hand : 735 971 640 647 57 926 20 156 55 986 863 284 508 422 338 201 14 241 255 453 
+player 496 draws a 943 from deck 496
+player 496 discards a 735 to deck 497
+player 496 current hand : 971 640 647 57 926 20 156 55 986 863 284 508 422 338 201 14 241 255 453 943 
+player 496 draws a 748 from deck 496
+player 496 discards a 971 to deck 497
+player 496 current hand : 640 647 57 926 20 156 55 986 863 284 508 422 338 201 14 241 255 453 943 748 
+player 496 draws a 856 from deck 496
+player 496 discards a 640 to deck 497
+player 496 current hand : 647 57 926 20 156 55 986 863 284 508 422 338 201 14 241 255 453 943 748 856 
+player 496 draws a 377 from deck 496
+player 496 discards a 647 to deck 497
+player 496 current hand : 57 926 20 156 55 986 863 284 508 422 338 201 14 241 255 453 943 748 856 377 
+player 496 draws a 423 from deck 496
+player 496 discards a 57 to deck 497
+player 496 current hand : 926 20 156 55 986 863 284 508 422 338 201 14 241 255 453 943 748 856 377 423 
+player 496 draws a 804 from deck 496
+player 496 discards a 926 to deck 497
+player 496 current hand : 20 156 55 986 863 284 508 422 338 201 14 241 255 453 943 748 856 377 423 804 
+player 496 draws a 374 from deck 496
+player 496 discards a 20 to deck 497
+player 496 current hand : 156 55 986 863 284 508 422 338 201 14 241 255 453 943 748 856 377 423 804 374 
+player 496 draws a 930 from deck 496
+player 496 discards a 156 to deck 497
+player 496 current hand : 55 986 863 284 508 422 338 201 14 241 255 453 943 748 856 377 423 804 374 930 
+player 496 draws a 105 from deck 496
+player 496 discards a 55 to deck 497
+player 496 current hand : 986 863 284 508 422 338 201 14 241 255 453 943 748 856 377 423 804 374 930 105 
+player 496 draws a 224 from deck 496
+player 496 discards a 986 to deck 497
+player 496 current hand : 863 284 508 422 338 201 14 241 255 453 943 748 856 377 423 804 374 930 105 224 
+player 496 draws a 49 from deck 496
+player 496 discards a 863 to deck 497
+player 496 current hand : 284 508 422 338 201 14 241 255 453 943 748 856 377 423 804 374 930 105 224 49 
+player 496 draws a 546 from deck 496
+player 496 discards a 284 to deck 497
+player 496 current hand : 508 422 338 201 14 241 255 453 943 748 856 377 423 804 374 930 105 224 49 546 
+player 496 draws a 918 from deck 496
+player 496 discards a 508 to deck 497
+player 496 current hand : 422 338 201 14 241 255 453 943 748 856 377 423 804 374 930 105 224 49 546 918 
+player 496 draws a 106 from deck 496
+player 496 discards a 422 to deck 497
+player 496 current hand : 338 201 14 241 255 453 943 748 856 377 423 804 374 930 105 224 49 546 918 106 
+player 496 draws a 338 from deck 496
+player 496 discards a 338 to deck 497
+player 496 current hand : 201 14 241 255 453 943 748 856 377 423 804 374 930 105 224 49 546 918 106 338 
+player 496 draws a 452 from deck 496
+player 496 discards a 201 to deck 497
+player 496 current hand : 14 241 255 453 943 748 856 377 423 804 374 930 105 224 49 546 918 106 338 452 
+player 496 draws a 322 from deck 496
+player 496 discards a 14 to deck 497
+player 496 current hand : 241 255 453 943 748 856 377 423 804 374 930 105 224 49 546 918 106 338 452 322 
+player 496 draws a 598 from deck 496
+player 496 discards a 241 to deck 497
+player 496 current hand : 255 453 943 748 856 377 423 804 374 930 105 224 49 546 918 106 338 452 322 598 
+player 496 draws a 251 from deck 496
+player 496 discards a 255 to deck 497

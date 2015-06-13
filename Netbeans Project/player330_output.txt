@@ -1,0 +1,326 @@
+player 330 initial hand 449 453 289 834 514 149 920 945 27 729 358 635 280 201 786 999 100 775 676 751 
+player 330 draws a 234 from deck 330
+player 330 discards a 449 to deck 331
+player 330 current hand : 453 289 834 514 149 920 945 27 729 358 635 280 201 786 999 100 775 676 751 234 
+player 330 draws a 861 from deck 330
+player 330 discards a 453 to deck 331
+player 330 current hand : 289 834 514 149 920 945 27 729 358 635 280 201 786 999 100 775 676 751 234 861 
+player 330 draws a 794 from deck 330
+player 330 discards a 289 to deck 331
+player 330 current hand : 834 514 149 920 945 27 729 358 635 280 201 786 999 100 775 676 751 234 861 794 
+player 330 draws a 795 from deck 330
+player 330 discards a 834 to deck 331
+player 330 current hand : 514 149 920 945 27 729 358 635 280 201 786 999 100 775 676 751 234 861 794 795 
+player 330 draws a 746 from deck 330
+player 330 discards a 514 to deck 331
+player 330 current hand : 149 920 945 27 729 358 635 280 201 786 999 100 775 676 751 234 861 794 795 746 
+player 330 draws a 113 from deck 330
+player 330 discards a 149 to deck 331
+player 330 current hand : 920 945 27 729 358 635 280 201 786 999 100 775 676 751 234 861 794 795 746 113 
+player 330 draws a 455 from deck 330
+player 330 discards a 920 to deck 331
+player 330 current hand : 945 27 729 358 635 280 201 786 999 100 775 676 751 234 861 794 795 746 113 455 
+player 330 draws a 156 from deck 330
+player 330 discards a 945 to deck 331
+player 330 current hand : 27 729 358 635 280 201 786 999 100 775 676 751 234 861 794 795 746 113 455 156 
+player 330 draws a 935 from deck 330
+player 330 discards a 27 to deck 331
+player 330 current hand : 729 358 635 280 201 786 999 100 775 676 751 234 861 794 795 746 113 455 156 935 
+player 330 draws a 487 from deck 330
+player 330 discards a 729 to deck 331
+player 330 current hand : 358 635 280 201 786 999 100 775 676 751 234 861 794 795 746 113 455 156 935 487 
+player 330 draws a 951 from deck 330
+player 330 discards a 358 to deck 331
+player 330 current hand : 635 280 201 786 999 100 775 676 751 234 861 794 795 746 113 455 156 935 487 951 
+player 330 draws a 619 from deck 330
+player 330 discards a 635 to deck 331
+player 330 current hand : 280 201 786 999 100 775 676 751 234 861 794 795 746 113 455 156 935 487 951 619 
+player 330 draws a 840 from deck 330
+player 330 discards a 280 to deck 331
+player 330 current hand : 201 786 999 100 775 676 751 234 861 794 795 746 113 455 156 935 487 951 619 840 
+player 330 draws a 595 from deck 330
+player 330 discards a 201 to deck 331
+player 330 current hand : 786 999 100 775 676 751 234 861 794 795 746 113 455 156 935 487 951 619 840 595 
+player 330 draws a 819 from deck 330
+player 330 discards a 786 to deck 331
+player 330 current hand : 999 100 775 676 751 234 861 794 795 746 113 455 156 935 487 951 619 840 595 819 
+player 330 draws a 393 from deck 330
+player 330 discards a 999 to deck 331
+player 330 current hand : 100 775 676 751 234 861 794 795 746 113 455 156 935 487 951 619 840 595 819 393 
+player 330 draws a 778 from deck 330
+player 330 discards a 100 to deck 331
+player 330 current hand : 775 676 751 234 861 794 795 746 113 455 156 935 487 951 619 840 595 819 393 778 
+player 330 draws a 508 from deck 330
+player 330 discards a 775 to deck 331
+player 330 current hand : 676 751 234 861 794 795 746 113 455 156 935 487 951 619 840 595 819 393 778 508 
+player 330 draws a 13 from deck 330
+player 330 discards a 676 to deck 331
+player 330 current hand : 751 234 861 794 795 746 113 455 156 935 487 951 619 840 595 819 393 778 508 13 
+player 330 draws a 224 from deck 330
+player 330 discards a 751 to deck 331
+player 330 current hand : 234 861 794 795 746 113 455 156 935 487 951 619 840 595 819 393 778 508 13 224 
+player 330 draws a 177 from deck 330
+player 330 discards a 234 to deck 331
+player 330 current hand : 861 794 795 746 113 455 156 935 487 951 619 840 595 819 393 778 508 13 224 177 
+player 330 draws a 331 from deck 330
+player 330 discards a 861 to deck 331
+player 330 current hand : 794 795 746 113 455 156 935 487 951 619 840 595 819 393 778 508 13 224 177 331 
+player 330 draws a 844 from deck 330
+player 330 discards a 794 to deck 331
+player 330 current hand : 795 746 113 455 156 935 487 951 619 840 595 819 393 778 508 13 224 177 331 844 
+player 330 draws a 495 from deck 330
+player 330 discards a 795 to deck 331
+player 330 current hand : 746 113 455 156 935 487 951 619 840 595 819 393 778 508 13 224 177 331 844 495 
+player 330 draws a 879 from deck 330
+player 330 discards a 746 to deck 331
+player 330 current hand : 113 455 156 935 487 951 619 840 595 819 393 778 508 13 224 177 331 844 495 879 
+player 330 draws a 396 from deck 330
+player 330 discards a 113 to deck 331
+player 330 current hand : 455 156 935 487 951 619 840 595 819 393 778 508 13 224 177 331 844 495 879 396 
+player 330 draws a 255 from deck 330
+player 330 discards a 455 to deck 331
+player 330 current hand : 156 935 487 951 619 840 595 819 393 778 508 13 224 177 331 844 495 879 396 255 
+player 330 draws a 776 from deck 330
+player 330 discards a 156 to deck 331
+player 330 current hand : 935 487 951 619 840 595 819 393 778 508 13 224 177 331 844 495 879 396 255 776 
+player 330 draws a 321 from deck 330
+player 330 discards a 935 to deck 331
+player 330 current hand : 487 951 619 840 595 819 393 778 508 13 224 177 331 844 495 879 396 255 776 321 
+player 330 draws a 14 from deck 330
+player 330 discards a 487 to deck 331
+player 330 current hand : 951 619 840 595 819 393 778 508 13 224 177 331 844 495 879 396 255 776 321 14 
+player 330 draws a 301 from deck 330
+player 330 discards a 951 to deck 331
+player 330 current hand : 619 840 595 819 393 778 508 13 224 177 331 844 495 879 396 255 776 321 14 301 
+player 330 draws a 515 from deck 330
+player 330 discards a 619 to deck 331
+player 330 current hand : 840 595 819 393 778 508 13 224 177 331 844 495 879 396 255 776 321 14 301 515 
+player 330 draws a 744 from deck 330
+player 330 discards a 840 to deck 331
+player 330 current hand : 595 819 393 778 508 13 224 177 331 844 495 879 396 255 776 321 14 301 515 744 
+player 330 draws a 630 from deck 330
+player 330 discards a 595 to deck 331
+player 330 current hand : 819 393 778 508 13 224 177 331 844 495 879 396 255 776 321 14 301 515 744 630 
+player 330 draws a 667 from deck 330
+player 330 discards a 819 to deck 331
+player 330 current hand : 393 778 508 13 224 177 331 844 495 879 396 255 776 321 14 301 515 744 630 667 
+player 330 draws a 104 from deck 330
+player 330 discards a 393 to deck 331
+player 330 current hand : 778 508 13 224 177 331 844 495 879 396 255 776 321 14 301 515 744 630 667 104 
+player 330 draws a 734 from deck 330
+player 330 discards a 778 to deck 331
+player 330 current hand : 508 13 224 177 331 844 495 879 396 255 776 321 14 301 515 744 630 667 104 734 
+player 330 draws a 210 from deck 330
+player 330 discards a 508 to deck 331
+player 330 current hand : 13 224 177 331 844 495 879 396 255 776 321 14 301 515 744 630 667 104 734 210 
+player 330 draws a 489 from deck 330
+player 330 discards a 13 to deck 331
+player 330 current hand : 224 177 331 844 495 879 396 255 776 321 14 301 515 744 630 667 104 734 210 489 
+player 330 draws a 745 from deck 330
+player 330 discards a 224 to deck 331
+player 330 current hand : 177 331 844 495 879 396 255 776 321 14 301 515 744 630 667 104 734 210 489 745 
+player 330 draws a 813 from deck 330
+player 330 discards a 177 to deck 331
+player 330 current hand : 331 844 495 879 396 255 776 321 14 301 515 744 630 667 104 734 210 489 745 813 
+player 330 draws a 728 from deck 330
+player 330 discards a 331 to deck 331
+player 330 current hand : 844 495 879 396 255 776 321 14 301 515 744 630 667 104 734 210 489 745 813 728 
+player 330 draws a 413 from deck 330
+player 330 discards a 844 to deck 331
+player 330 current hand : 495 879 396 255 776 321 14 301 515 744 630 667 104 734 210 489 745 813 728 413 
+player 330 draws a 927 from deck 330
+player 330 discards a 495 to deck 331
+player 330 current hand : 879 396 255 776 321 14 301 515 744 630 667 104 734 210 489 745 813 728 413 927 
+player 330 draws a 202 from deck 330
+player 330 discards a 879 to deck 331
+player 330 current hand : 396 255 776 321 14 301 515 744 630 667 104 734 210 489 745 813 728 413 927 202 
+player 330 draws a 57 from deck 330
+player 330 discards a 396 to deck 331
+player 330 current hand : 255 776 321 14 301 515 744 630 667 104 734 210 489 745 813 728 413 927 202 57 
+player 330 draws a 705 from deck 330
+player 330 discards a 255 to deck 331
+player 330 current hand : 776 321 14 301 515 744 630 667 104 734 210 489 745 813 728 413 927 202 57 705 
+player 330 draws a 212 from deck 330
+player 330 discards a 776 to deck 331
+player 330 current hand : 321 14 301 515 744 630 667 104 734 210 489 745 813 728 413 927 202 57 705 212 
+player 330 draws a 435 from deck 330
+player 330 discards a 321 to deck 331
+player 330 current hand : 14 301 515 744 630 667 104 734 210 489 745 813 728 413 927 202 57 705 212 435 
+player 330 draws a 240 from deck 330
+player 330 discards a 14 to deck 331
+player 330 current hand : 301 515 744 630 667 104 734 210 489 745 813 728 413 927 202 57 705 212 435 240 
+player 330 draws a 578 from deck 330
+player 330 discards a 301 to deck 331
+player 330 current hand : 515 744 630 667 104 734 210 489 745 813 728 413 927 202 57 705 212 435 240 578 
+player 330 draws a 608 from deck 330
+player 330 discards a 515 to deck 331
+player 330 current hand : 744 630 667 104 734 210 489 745 813 728 413 927 202 57 705 212 435 240 578 608 
+player 330 draws a 199 from deck 330
+player 330 discards a 744 to deck 331
+player 330 current hand : 630 667 104 734 210 489 745 813 728 413 927 202 57 705 212 435 240 578 608 199 
+player 330 draws a 580 from deck 330
+player 330 discards a 630 to deck 331
+player 330 current hand : 667 104 734 210 489 745 813 728 413 927 202 57 705 212 435 240 578 608 199 580 
+player 330 draws a 422 from deck 330
+player 330 discards a 667 to deck 331
+player 330 current hand : 104 734 210 489 745 813 728 413 927 202 57 705 212 435 240 578 608 199 580 422 
+player 330 draws a 717 from deck 330
+player 330 discards a 104 to deck 331
+player 330 current hand : 734 210 489 745 813 728 413 927 202 57 705 212 435 240 578 608 199 580 422 717 
+player 330 draws a 158 from deck 330
+player 330 discards a 734 to deck 331
+player 330 current hand : 210 489 745 813 728 413 927 202 57 705 212 435 240 578 608 199 580 422 717 158 
+player 330 draws a 17 from deck 330
+player 330 discards a 210 to deck 331
+player 330 current hand : 489 745 813 728 413 927 202 57 705 212 435 240 578 608 199 580 422 717 158 17 
+player 330 draws a 180 from deck 330
+player 330 discards a 489 to deck 331
+player 330 current hand : 745 813 728 413 927 202 57 705 212 435 240 578 608 199 580 422 717 158 17 180 
+player 330 draws a 17 from deck 330
+player 330 discards a 745 to deck 331
+player 330 current hand : 813 728 413 927 202 57 705 212 435 240 578 608 199 580 422 717 158 17 180 17 
+player 330 draws a 649 from deck 330
+player 330 discards a 813 to deck 331
+player 330 current hand : 728 413 927 202 57 705 212 435 240 578 608 199 580 422 717 158 17 180 17 649 
+player 330 draws a 275 from deck 330
+player 330 discards a 728 to deck 331
+player 330 current hand : 413 927 202 57 705 212 435 240 578 608 199 580 422 717 158 17 180 17 649 275 
+player 330 draws a 93 from deck 330
+player 330 discards a 413 to deck 331
+player 330 current hand : 927 202 57 705 212 435 240 578 608 199 580 422 717 158 17 180 17 649 275 93 
+player 330 draws a 498 from deck 330
+player 330 discards a 927 to deck 331
+player 330 current hand : 202 57 705 212 435 240 578 608 199 580 422 717 158 17 180 17 649 275 93 498 
+player 330 draws a 236 from deck 330
+player 330 discards a 202 to deck 331
+player 330 current hand : 57 705 212 435 240 578 608 199 580 422 717 158 17 180 17 649 275 93 498 236 
+player 330 draws a 24 from deck 330
+player 330 discards a 57 to deck 331
+player 330 current hand : 705 212 435 240 578 608 199 580 422 717 158 17 180 17 649 275 93 498 236 24 
+player 330 draws a 244 from deck 330
+player 330 discards a 705 to deck 331
+player 330 current hand : 212 435 240 578 608 199 580 422 717 158 17 180 17 649 275 93 498 236 24 244 
+player 330 draws a 460 from deck 330
+player 330 discards a 212 to deck 331
+player 330 current hand : 435 240 578 608 199 580 422 717 158 17 180 17 649 275 93 498 236 24 244 460 
+player 330 draws a 835 from deck 330
+player 330 discards a 435 to deck 331
+player 330 current hand : 240 578 608 199 580 422 717 158 17 180 17 649 275 93 498 236 24 244 460 835 
+player 330 draws a 976 from deck 330
+player 330 discards a 240 to deck 331
+player 330 current hand : 578 608 199 580 422 717 158 17 180 17 649 275 93 498 236 24 244 460 835 976 
+player 330 draws a 403 from deck 330
+player 330 discards a 578 to deck 331
+player 330 current hand : 608 199 580 422 717 158 17 180 17 649 275 93 498 236 24 244 460 835 976 403 
+player 330 draws a 917 from deck 330
+player 330 discards a 608 to deck 331
+player 330 current hand : 199 580 422 717 158 17 180 17 649 275 93 498 236 24 244 460 835 976 403 917 
+player 330 draws a 548 from deck 330
+player 330 discards a 199 to deck 331
+player 330 current hand : 580 422 717 158 17 180 17 649 275 93 498 236 24 244 460 835 976 403 917 548 
+player 330 draws a 681 from deck 330
+player 330 discards a 580 to deck 331
+player 330 current hand : 422 717 158 17 180 17 649 275 93 498 236 24 244 460 835 976 403 917 548 681 
+player 330 draws a 861 from deck 330
+player 330 discards a 422 to deck 331
+player 330 current hand : 717 158 17 180 17 649 275 93 498 236 24 244 460 835 976 403 917 548 681 861 
+player 330 draws a 45 from deck 330
+player 330 discards a 717 to deck 331
+player 330 current hand : 158 17 180 17 649 275 93 498 236 24 244 460 835 976 403 917 548 681 861 45 
+player 330 draws a 179 from deck 330
+player 330 discards a 158 to deck 331
+player 330 current hand : 17 180 17 649 275 93 498 236 24 244 460 835 976 403 917 548 681 861 45 179 
+player 330 draws a 305 from deck 330
+player 330 discards a 17 to deck 331
+player 330 current hand : 180 17 649 275 93 498 236 24 244 460 835 976 403 917 548 681 861 45 179 305 
+player 330 draws a 22 from deck 330
+player 330 discards a 180 to deck 331
+player 330 current hand : 17 649 275 93 498 236 24 244 460 835 976 403 917 548 681 861 45 179 305 22 
+player 330 draws a 582 from deck 330
+player 330 discards a 17 to deck 331
+player 330 current hand : 649 275 93 498 236 24 244 460 835 976 403 917 548 681 861 45 179 305 22 582 
+player 330 draws a 510 from deck 330
+player 330 discards a 649 to deck 331
+player 330 current hand : 275 93 498 236 24 244 460 835 976 403 917 548 681 861 45 179 305 22 582 510 
+player 330 draws a 246 from deck 330
+player 330 discards a 275 to deck 331
+player 330 current hand : 93 498 236 24 244 460 835 976 403 917 548 681 861 45 179 305 22 582 510 246 
+player 330 draws a 183 from deck 330
+player 330 discards a 93 to deck 331
+player 330 current hand : 498 236 24 244 460 835 976 403 917 548 681 861 45 179 305 22 582 510 246 183 
+player 330 draws a 336 from deck 330
+player 330 discards a 498 to deck 331
+player 330 current hand : 236 24 244 460 835 976 403 917 548 681 861 45 179 305 22 582 510 246 183 336 
+player 330 draws a 57 from deck 330
+player 330 discards a 236 to deck 331
+player 330 current hand : 24 244 460 835 976 403 917 548 681 861 45 179 305 22 582 510 246 183 336 57 
+player 330 draws a 410 from deck 330
+player 330 discards a 24 to deck 331
+player 330 current hand : 244 460 835 976 403 917 548 681 861 45 179 305 22 582 510 246 183 336 57 410 
+player 330 draws a 246 from deck 330
+player 330 discards a 244 to deck 331
+player 330 current hand : 460 835 976 403 917 548 681 861 45 179 305 22 582 510 246 183 336 57 410 246 
+player 330 draws a 364 from deck 330
+player 330 discards a 460 to deck 331
+player 330 current hand : 835 976 403 917 548 681 861 45 179 305 22 582 510 246 183 336 57 410 246 364 
+player 330 draws a 31 from deck 330
+player 330 discards a 835 to deck 331
+player 330 current hand : 976 403 917 548 681 861 45 179 305 22 582 510 246 183 336 57 410 246 364 31 
+player 330 draws a 584 from deck 330
+player 330 discards a 976 to deck 331
+player 330 current hand : 403 917 548 681 861 45 179 305 22 582 510 246 183 336 57 410 246 364 31 584 
+player 330 draws a 33 from deck 330
+player 330 discards a 403 to deck 331
+player 330 current hand : 917 548 681 861 45 179 305 22 582 510 246 183 336 57 410 246 364 31 584 33 
+player 330 draws a 308 from deck 330
+player 330 discards a 917 to deck 331
+player 330 current hand : 548 681 861 45 179 305 22 582 510 246 183 336 57 410 246 364 31 584 33 308 
+player 330 draws a 408 from deck 330
+player 330 discards a 548 to deck 331
+player 330 current hand : 681 861 45 179 305 22 582 510 246 183 336 57 410 246 364 31 584 33 308 408 
+player 330 draws a 856 from deck 330
+player 330 discards a 681 to deck 331
+player 330 current hand : 861 45 179 305 22 582 510 246 183 336 57 410 246 364 31 584 33 308 408 856 
+player 330 draws a 952 from deck 330
+player 330 discards a 861 to deck 331
+player 330 current hand : 45 179 305 22 582 510 246 183 336 57 410 246 364 31 584 33 308 408 856 952 
+player 330 draws a 712 from deck 330
+player 330 discards a 45 to deck 331
+player 330 current hand : 179 305 22 582 510 246 183 336 57 410 246 364 31 584 33 308 408 856 952 712 
+player 330 draws a 18 from deck 330
+player 330 discards a 179 to deck 331
+player 330 current hand : 305 22 582 510 246 183 336 57 410 246 364 31 584 33 308 408 856 952 712 18 
+player 330 draws a 856 from deck 330
+player 330 discards a 305 to deck 331
+player 330 current hand : 22 582 510 246 183 336 57 410 246 364 31 584 33 308 408 856 952 712 18 856 
+player 330 draws a 565 from deck 330
+player 330 discards a 22 to deck 331
+player 330 current hand : 582 510 246 183 336 57 410 246 364 31 584 33 308 408 856 952 712 18 856 565 
+player 330 draws a 369 from deck 330
+player 330 discards a 582 to deck 331
+player 330 current hand : 510 246 183 336 57 410 246 364 31 584 33 308 408 856 952 712 18 856 565 369 
+player 330 draws a 644 from deck 330
+player 330 discards a 510 to deck 331
+player 330 current hand : 246 183 336 57 410 246 364 31 584 33 308 408 856 952 712 18 856 565 369 644 
+player 330 draws a 55 from deck 330
+player 330 discards a 246 to deck 331
+player 330 current hand : 183 336 57 410 246 364 31 584 33 308 408 856 952 712 18 856 565 369 644 55 
+player 330 draws a 74 from deck 330
+player 330 discards a 183 to deck 331
+player 330 current hand : 336 57 410 246 364 31 584 33 308 408 856 952 712 18 856 565 369 644 55 74 
+player 330 draws a 138 from deck 330
+player 330 discards a 336 to deck 331
+player 330 current hand : 57 410 246 364 31 584 33 308 408 856 952 712 18 856 565 369 644 55 74 138 
+player 330 draws a 112 from deck 330
+player 330 discards a 57 to deck 331
+player 330 current hand : 410 246 364 31 584 33 308 408 856 952 712 18 856 565 369 644 55 74 138 112 
+player 330 draws a 392 from deck 330
+player 330 discards a 410 to deck 331
+player 330 current hand : 246 364 31 584 33 308 408 856 952 712 18 856 565 369 644 55 74 138 112 392 
+player 330 draws a 555 from deck 330
+player 330 discards a 246 to deck 331
+player 330 current hand : 364 31 584 33 308 408 856 952 712 18 856 565 369 644 55 74 138 112 392 555 
+player 330 draws a 263 from deck 330
+player 330 discards a 364 to deck 331
+player 330 current hand : 31 584 33 308 408 856 952 712 18 856 565 369 644 55 74 138 112 392 555 263 
+player 330 draws a 661 from deck 330

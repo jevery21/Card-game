@@ -1,0 +1,309 @@
+player 447 initial hand 315 913 163 265 229 24 142 511 623 209 1000 814 117 425 446 581 787 356 885 106 
+player 447 draws a 810 from deck 447
+player 447 discards a 315 to deck 448
+player 447 current hand : 913 163 265 229 24 142 511 623 209 1000 814 117 425 446 581 787 356 885 106 810 
+player 447 draws a 1 from deck 447
+player 447 discards a 913 to deck 448
+player 447 current hand : 163 265 229 24 142 511 623 209 1000 814 117 425 446 581 787 356 885 106 810 1 
+player 447 draws a 232 from deck 447
+player 447 discards a 163 to deck 448
+player 447 current hand : 265 229 24 142 511 623 209 1000 814 117 425 446 581 787 356 885 106 810 1 232 
+player 447 draws a 235 from deck 447
+player 447 discards a 265 to deck 448
+player 447 current hand : 229 24 142 511 623 209 1000 814 117 425 446 581 787 356 885 106 810 1 232 235 
+player 447 draws a 267 from deck 447
+player 447 discards a 229 to deck 448
+player 447 current hand : 24 142 511 623 209 1000 814 117 425 446 581 787 356 885 106 810 1 232 235 267 
+player 447 draws a 945 from deck 447
+player 447 discards a 24 to deck 448
+player 447 current hand : 142 511 623 209 1000 814 117 425 446 581 787 356 885 106 810 1 232 235 267 945 
+player 447 draws a 922 from deck 447
+player 447 discards a 142 to deck 448
+player 447 current hand : 511 623 209 1000 814 117 425 446 581 787 356 885 106 810 1 232 235 267 945 922 
+player 447 draws a 829 from deck 447
+player 447 discards a 511 to deck 448
+player 447 current hand : 623 209 1000 814 117 425 446 581 787 356 885 106 810 1 232 235 267 945 922 829 
+player 447 draws a 226 from deck 447
+player 447 discards a 623 to deck 448
+player 447 current hand : 209 1000 814 117 425 446 581 787 356 885 106 810 1 232 235 267 945 922 829 226 
+player 447 draws a 226 from deck 447
+player 447 discards a 209 to deck 448
+player 447 current hand : 1000 814 117 425 446 581 787 356 885 106 810 1 232 235 267 945 922 829 226 226 
+player 447 draws a 598 from deck 447
+player 447 discards a 1000 to deck 448
+player 447 current hand : 814 117 425 446 581 787 356 885 106 810 1 232 235 267 945 922 829 226 226 598 
+player 447 draws a 498 from deck 447
+player 447 discards a 814 to deck 448
+player 447 current hand : 117 425 446 581 787 356 885 106 810 1 232 235 267 945 922 829 226 226 598 498 
+player 447 draws a 653 from deck 447
+player 447 discards a 117 to deck 448
+player 447 current hand : 425 446 581 787 356 885 106 810 1 232 235 267 945 922 829 226 226 598 498 653 
+player 447 draws a 635 from deck 447
+player 447 discards a 425 to deck 448
+player 447 current hand : 446 581 787 356 885 106 810 1 232 235 267 945 922 829 226 226 598 498 653 635 
+player 447 draws a 944 from deck 447
+player 447 discards a 446 to deck 448
+player 447 current hand : 581 787 356 885 106 810 1 232 235 267 945 922 829 226 226 598 498 653 635 944 
+player 447 draws a 904 from deck 447
+player 447 discards a 581 to deck 448
+player 447 current hand : 787 356 885 106 810 1 232 235 267 945 922 829 226 226 598 498 653 635 944 904 
+player 447 draws a 420 from deck 447
+player 447 discards a 787 to deck 448
+player 447 current hand : 356 885 106 810 1 232 235 267 945 922 829 226 226 598 498 653 635 944 904 420 
+player 447 draws a 559 from deck 447
+player 447 discards a 356 to deck 448
+player 447 current hand : 885 106 810 1 232 235 267 945 922 829 226 226 598 498 653 635 944 904 420 559 
+player 447 draws a 646 from deck 447
+player 447 discards a 885 to deck 448
+player 447 current hand : 106 810 1 232 235 267 945 922 829 226 226 598 498 653 635 944 904 420 559 646 
+player 447 draws a 464 from deck 447
+player 447 discards a 106 to deck 448
+player 447 current hand : 810 1 232 235 267 945 922 829 226 226 598 498 653 635 944 904 420 559 646 464 
+player 447 draws a 44 from deck 447
+player 447 discards a 810 to deck 448
+player 447 current hand : 1 232 235 267 945 922 829 226 226 598 498 653 635 944 904 420 559 646 464 44 
+player 447 draws a 956 from deck 447
+player 447 discards a 1 to deck 448
+player 447 current hand : 232 235 267 945 922 829 226 226 598 498 653 635 944 904 420 559 646 464 44 956 
+player 447 draws a 852 from deck 447
+player 447 discards a 232 to deck 448
+player 447 current hand : 235 267 945 922 829 226 226 598 498 653 635 944 904 420 559 646 464 44 956 852 
+player 447 draws a 926 from deck 447
+player 447 discards a 235 to deck 448
+player 447 current hand : 267 945 922 829 226 226 598 498 653 635 944 904 420 559 646 464 44 956 852 926 
+player 447 draws a 15 from deck 447
+player 447 discards a 267 to deck 448
+player 447 current hand : 945 922 829 226 226 598 498 653 635 944 904 420 559 646 464 44 956 852 926 15 
+player 447 draws a 829 from deck 447
+player 447 discards a 945 to deck 448
+player 447 current hand : 922 829 226 226 598 498 653 635 944 904 420 559 646 464 44 956 852 926 15 829 
+player 447 draws a 774 from deck 447
+player 447 discards a 922 to deck 448
+player 447 current hand : 829 226 226 598 498 653 635 944 904 420 559 646 464 44 956 852 926 15 829 774 
+player 447 draws a 231 from deck 447
+player 447 discards a 829 to deck 448
+player 447 current hand : 226 226 598 498 653 635 944 904 420 559 646 464 44 956 852 926 15 829 774 231 
+player 447 draws a 549 from deck 447
+player 447 discards a 226 to deck 448
+player 447 current hand : 226 598 498 653 635 944 904 420 559 646 464 44 956 852 926 15 829 774 231 549 
+player 447 draws a 799 from deck 447
+player 447 discards a 226 to deck 448
+player 447 current hand : 598 498 653 635 944 904 420 559 646 464 44 956 852 926 15 829 774 231 549 799 
+player 447 draws a 384 from deck 447
+player 447 discards a 598 to deck 448
+player 447 current hand : 498 653 635 944 904 420 559 646 464 44 956 852 926 15 829 774 231 549 799 384 
+player 447 draws a 29 from deck 447
+player 447 discards a 498 to deck 448
+player 447 current hand : 653 635 944 904 420 559 646 464 44 956 852 926 15 829 774 231 549 799 384 29 
+player 447 draws a 677 from deck 447
+player 447 discards a 653 to deck 448
+player 447 current hand : 635 944 904 420 559 646 464 44 956 852 926 15 829 774 231 549 799 384 29 677 
+player 447 draws a 913 from deck 447
+player 447 discards a 635 to deck 448
+player 447 current hand : 944 904 420 559 646 464 44 956 852 926 15 829 774 231 549 799 384 29 677 913 
+player 447 draws a 730 from deck 447
+player 447 discards a 944 to deck 448
+player 447 current hand : 904 420 559 646 464 44 956 852 926 15 829 774 231 549 799 384 29 677 913 730 
+player 447 draws a 137 from deck 447
+player 447 discards a 904 to deck 448
+player 447 current hand : 420 559 646 464 44 956 852 926 15 829 774 231 549 799 384 29 677 913 730 137 
+player 447 draws a 773 from deck 447
+player 447 discards a 420 to deck 448
+player 447 current hand : 559 646 464 44 956 852 926 15 829 774 231 549 799 384 29 677 913 730 137 773 
+player 447 draws a 870 from deck 447
+player 447 discards a 559 to deck 448
+player 447 current hand : 646 464 44 956 852 926 15 829 774 231 549 799 384 29 677 913 730 137 773 870 
+player 447 draws a 511 from deck 447
+player 447 discards a 646 to deck 448
+player 447 current hand : 464 44 956 852 926 15 829 774 231 549 799 384 29 677 913 730 137 773 870 511 
+player 447 draws a 535 from deck 447
+player 447 discards a 464 to deck 448
+player 447 current hand : 44 956 852 926 15 829 774 231 549 799 384 29 677 913 730 137 773 870 511 535 
+player 447 draws a 809 from deck 447
+player 447 discards a 44 to deck 448
+player 447 current hand : 956 852 926 15 829 774 231 549 799 384 29 677 913 730 137 773 870 511 535 809 
+player 447 draws a 457 from deck 447
+player 447 discards a 956 to deck 448
+player 447 current hand : 852 926 15 829 774 231 549 799 384 29 677 913 730 137 773 870 511 535 809 457 
+player 447 draws a 708 from deck 447
+player 447 discards a 852 to deck 448
+player 447 current hand : 926 15 829 774 231 549 799 384 29 677 913 730 137 773 870 511 535 809 457 708 
+player 447 draws a 514 from deck 447
+player 447 discards a 926 to deck 448
+player 447 current hand : 15 829 774 231 549 799 384 29 677 913 730 137 773 870 511 535 809 457 708 514 
+player 447 draws a 849 from deck 447
+player 447 discards a 15 to deck 448
+player 447 current hand : 829 774 231 549 799 384 29 677 913 730 137 773 870 511 535 809 457 708 514 849 
+player 447 draws a 775 from deck 447
+player 447 discards a 829 to deck 448
+player 447 current hand : 774 231 549 799 384 29 677 913 730 137 773 870 511 535 809 457 708 514 849 775 
+player 447 draws a 589 from deck 447
+player 447 discards a 774 to deck 448
+player 447 current hand : 231 549 799 384 29 677 913 730 137 773 870 511 535 809 457 708 514 849 775 589 
+player 447 draws a 81 from deck 447
+player 447 discards a 231 to deck 448
+player 447 current hand : 549 799 384 29 677 913 730 137 773 870 511 535 809 457 708 514 849 775 589 81 
+player 447 draws a 319 from deck 447
+player 447 discards a 549 to deck 448
+player 447 current hand : 799 384 29 677 913 730 137 773 870 511 535 809 457 708 514 849 775 589 81 319 
+player 447 draws a 641 from deck 447
+player 447 discards a 799 to deck 448
+player 447 current hand : 384 29 677 913 730 137 773 870 511 535 809 457 708 514 849 775 589 81 319 641 
+player 447 draws a 740 from deck 447
+player 447 discards a 384 to deck 448
+player 447 current hand : 29 677 913 730 137 773 870 511 535 809 457 708 514 849 775 589 81 319 641 740 
+player 447 draws a 644 from deck 447
+player 447 discards a 29 to deck 448
+player 447 current hand : 677 913 730 137 773 870 511 535 809 457 708 514 849 775 589 81 319 641 740 644 
+player 447 draws a 388 from deck 447
+player 447 discards a 677 to deck 448
+player 447 current hand : 913 730 137 773 870 511 535 809 457 708 514 849 775 589 81 319 641 740 644 388 
+player 447 draws a 546 from deck 447
+player 447 discards a 913 to deck 448
+player 447 current hand : 730 137 773 870 511 535 809 457 708 514 849 775 589 81 319 641 740 644 388 546 
+player 447 draws a 890 from deck 447
+player 447 discards a 730 to deck 448
+player 447 current hand : 137 773 870 511 535 809 457 708 514 849 775 589 81 319 641 740 644 388 546 890 
+player 447 draws a 786 from deck 447
+player 447 discards a 137 to deck 448
+player 447 current hand : 773 870 511 535 809 457 708 514 849 775 589 81 319 641 740 644 388 546 890 786 
+player 447 draws a 773 from deck 447
+player 447 discards a 773 to deck 448
+player 447 current hand : 870 511 535 809 457 708 514 849 775 589 81 319 641 740 644 388 546 890 786 773 
+player 447 draws a 143 from deck 447
+player 447 discards a 870 to deck 448
+player 447 current hand : 511 535 809 457 708 514 849 775 589 81 319 641 740 644 388 546 890 786 773 143 
+player 447 draws a 715 from deck 447
+player 447 discards a 511 to deck 448
+player 447 current hand : 535 809 457 708 514 849 775 589 81 319 641 740 644 388 546 890 786 773 143 715 
+player 447 draws a 255 from deck 447
+player 447 discards a 535 to deck 448
+player 447 current hand : 809 457 708 514 849 775 589 81 319 641 740 644 388 546 890 786 773 143 715 255 
+player 447 draws a 841 from deck 447
+player 447 discards a 809 to deck 448
+player 447 current hand : 457 708 514 849 775 589 81 319 641 740 644 388 546 890 786 773 143 715 255 841 
+player 447 draws a 111 from deck 447
+player 447 discards a 457 to deck 448
+player 447 current hand : 708 514 849 775 589 81 319 641 740 644 388 546 890 786 773 143 715 255 841 111 
+player 447 draws a 999 from deck 447
+player 447 discards a 708 to deck 448
+player 447 current hand : 514 849 775 589 81 319 641 740 644 388 546 890 786 773 143 715 255 841 111 999 
+player 447 draws a 720 from deck 447
+player 447 discards a 514 to deck 448
+player 447 current hand : 849 775 589 81 319 641 740 644 388 546 890 786 773 143 715 255 841 111 999 720 
+player 447 draws a 692 from deck 447
+player 447 discards a 849 to deck 448
+player 447 current hand : 775 589 81 319 641 740 644 388 546 890 786 773 143 715 255 841 111 999 720 692 
+player 447 draws a 204 from deck 447
+player 447 discards a 775 to deck 448
+player 447 current hand : 589 81 319 641 740 644 388 546 890 786 773 143 715 255 841 111 999 720 692 204 
+player 447 draws a 690 from deck 447
+player 447 discards a 589 to deck 448
+player 447 current hand : 81 319 641 740 644 388 546 890 786 773 143 715 255 841 111 999 720 692 204 690 
+player 447 draws a 888 from deck 447
+player 447 discards a 81 to deck 448
+player 447 current hand : 319 641 740 644 388 546 890 786 773 143 715 255 841 111 999 720 692 204 690 888 
+player 447 draws a 941 from deck 447
+player 447 discards a 319 to deck 448
+player 447 current hand : 641 740 644 388 546 890 786 773 143 715 255 841 111 999 720 692 204 690 888 941 
+player 447 draws a 618 from deck 447
+player 447 discards a 641 to deck 448
+player 447 current hand : 740 644 388 546 890 786 773 143 715 255 841 111 999 720 692 204 690 888 941 618 
+player 447 draws a 771 from deck 447
+player 447 discards a 740 to deck 448
+player 447 current hand : 644 388 546 890 786 773 143 715 255 841 111 999 720 692 204 690 888 941 618 771 
+player 447 draws a 731 from deck 447
+player 447 discards a 644 to deck 448
+player 447 current hand : 388 546 890 786 773 143 715 255 841 111 999 720 692 204 690 888 941 618 771 731 
+player 447 draws a 233 from deck 447
+player 447 discards a 388 to deck 448
+player 447 current hand : 546 890 786 773 143 715 255 841 111 999 720 692 204 690 888 941 618 771 731 233 
+player 447 draws a 247 from deck 447
+player 447 discards a 546 to deck 448
+player 447 current hand : 890 786 773 143 715 255 841 111 999 720 692 204 690 888 941 618 771 731 233 247 
+player 447 draws a 189 from deck 447
+player 447 discards a 890 to deck 448
+player 447 current hand : 786 773 143 715 255 841 111 999 720 692 204 690 888 941 618 771 731 233 247 189 
+player 447 draws a 874 from deck 447
+player 447 discards a 786 to deck 448
+player 447 current hand : 773 143 715 255 841 111 999 720 692 204 690 888 941 618 771 731 233 247 189 874 
+player 447 draws a 463 from deck 447
+player 447 discards a 773 to deck 448
+player 447 current hand : 143 715 255 841 111 999 720 692 204 690 888 941 618 771 731 233 247 189 874 463 
+player 447 draws a 574 from deck 447
+player 447 discards a 143 to deck 448
+player 447 current hand : 715 255 841 111 999 720 692 204 690 888 941 618 771 731 233 247 189 874 463 574 
+player 447 draws a 749 from deck 447
+player 447 discards a 715 to deck 448
+player 447 current hand : 255 841 111 999 720 692 204 690 888 941 618 771 731 233 247 189 874 463 574 749 
+player 447 draws a 514 from deck 447
+player 447 discards a 255 to deck 448
+player 447 current hand : 841 111 999 720 692 204 690 888 941 618 771 731 233 247 189 874 463 574 749 514 
+player 447 draws a 9 from deck 447
+player 447 discards a 841 to deck 448
+player 447 current hand : 111 999 720 692 204 690 888 941 618 771 731 233 247 189 874 463 574 749 514 9 
+player 447 draws a 469 from deck 447
+player 447 discards a 111 to deck 448
+player 447 current hand : 999 720 692 204 690 888 941 618 771 731 233 247 189 874 463 574 749 514 9 469 
+player 447 draws a 714 from deck 447
+player 447 discards a 999 to deck 448
+player 447 current hand : 720 692 204 690 888 941 618 771 731 233 247 189 874 463 574 749 514 9 469 714 
+player 447 draws a 939 from deck 447
+player 447 discards a 720 to deck 448
+player 447 current hand : 692 204 690 888 941 618 771 731 233 247 189 874 463 574 749 514 9 469 714 939 
+player 447 draws a 548 from deck 447
+player 447 discards a 692 to deck 448
+player 447 current hand : 204 690 888 941 618 771 731 233 247 189 874 463 574 749 514 9 469 714 939 548 
+player 447 draws a 728 from deck 447
+player 447 discards a 204 to deck 448
+player 447 current hand : 690 888 941 618 771 731 233 247 189 874 463 574 749 514 9 469 714 939 548 728 
+player 447 draws a 354 from deck 447
+player 447 discards a 690 to deck 448
+player 447 current hand : 888 941 618 771 731 233 247 189 874 463 574 749 514 9 469 714 939 548 728 354 
+player 447 draws a 392 from deck 447
+player 447 discards a 888 to deck 448
+player 447 current hand : 941 618 771 731 233 247 189 874 463 574 749 514 9 469 714 939 548 728 354 392 
+player 447 draws a 635 from deck 447
+player 447 discards a 941 to deck 448
+player 447 current hand : 618 771 731 233 247 189 874 463 574 749 514 9 469 714 939 548 728 354 392 635 
+player 447 draws a 173 from deck 447
+player 447 discards a 618 to deck 448
+player 447 current hand : 771 731 233 247 189 874 463 574 749 514 9 469 714 939 548 728 354 392 635 173 
+player 447 draws a 475 from deck 447
+player 447 discards a 771 to deck 448
+player 447 current hand : 731 233 247 189 874 463 574 749 514 9 469 714 939 548 728 354 392 635 173 475 
+player 447 draws a 399 from deck 447
+player 447 discards a 731 to deck 448
+player 447 current hand : 233 247 189 874 463 574 749 514 9 469 714 939 548 728 354 392 635 173 475 399 
+player 447 draws a 788 from deck 447
+player 447 discards a 233 to deck 448
+player 447 current hand : 247 189 874 463 574 749 514 9 469 714 939 548 728 354 392 635 173 475 399 788 
+player 447 draws a 388 from deck 447
+player 447 discards a 247 to deck 448
+player 447 current hand : 189 874 463 574 749 514 9 469 714 939 548 728 354 392 635 173 475 399 788 388 
+player 447 draws a 786 from deck 447
+player 447 discards a 189 to deck 448
+player 447 current hand : 874 463 574 749 514 9 469 714 939 548 728 354 392 635 173 475 399 788 388 786 
+player 447 draws a 284 from deck 447
+player 447 discards a 874 to deck 448
+player 447 current hand : 463 574 749 514 9 469 714 939 548 728 354 392 635 173 475 399 788 388 786 284 
+player 447 draws a 866 from deck 447
+player 447 discards a 463 to deck 448
+player 447 current hand : 574 749 514 9 469 714 939 548 728 354 392 635 173 475 399 788 388 786 284 866 
+player 447 draws a 982 from deck 447
+player 447 discards a 574 to deck 448
+player 447 current hand : 749 514 9 469 714 939 548 728 354 392 635 173 475 399 788 388 786 284 866 982 
+player 447 draws a 428 from deck 447
+player 447 discards a 749 to deck 448
+player 447 current hand : 514 9 469 714 939 548 728 354 392 635 173 475 399 788 388 786 284 866 982 428 
+player 447 draws a 685 from deck 447
+player 447 discards a 514 to deck 448
+player 447 current hand : 9 469 714 939 548 728 354 392 635 173 475 399 788 388 786 284 866 982 428 685 
+player 447 draws a 570 from deck 447
+player 447 discards a 9 to deck 448
+player 447 current hand : 469 714 939 548 728 354 392 635 173 475 399 788 388 786 284 866 982 428 685 570 
+player 447 draws a 546 from deck 447
+player 447 discards a 469 to deck 448
+player 447 current hand : 714 939 548 728 354 392 635 173 475 399 788 388 786 284 866 982 428 685 570 546 
+player 447 draws a 269 from deck 447
+player 447 discards a 714 to deck 448

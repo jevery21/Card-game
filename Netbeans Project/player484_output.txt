@@ -1,0 +1,298 @@
+player 484 initial hand 642 343 794 507 810 947 815 621 521 875 788 548 282 729 863 880 501 217 981 996 
+player 484 draws a 162 from deck 484
+player 484 discards a 642 to deck 485
+player 484 current hand : 343 794 507 810 947 815 621 521 875 788 548 282 729 863 880 501 217 981 996 162 
+player 484 draws a 1000 from deck 484
+player 484 discards a 343 to deck 485
+player 484 current hand : 794 507 810 947 815 621 521 875 788 548 282 729 863 880 501 217 981 996 162 1000 
+player 484 draws a 793 from deck 484
+player 484 discards a 794 to deck 485
+player 484 current hand : 507 810 947 815 621 521 875 788 548 282 729 863 880 501 217 981 996 162 1000 793 
+player 484 draws a 269 from deck 484
+player 484 discards a 507 to deck 485
+player 484 current hand : 810 947 815 621 521 875 788 548 282 729 863 880 501 217 981 996 162 1000 793 269 
+player 484 draws a 265 from deck 484
+player 484 discards a 810 to deck 485
+player 484 current hand : 947 815 621 521 875 788 548 282 729 863 880 501 217 981 996 162 1000 793 269 265 
+player 484 draws a 829 from deck 484
+player 484 discards a 947 to deck 485
+player 484 current hand : 815 621 521 875 788 548 282 729 863 880 501 217 981 996 162 1000 793 269 265 829 
+player 484 draws a 867 from deck 484
+player 484 discards a 815 to deck 485
+player 484 current hand : 621 521 875 788 548 282 729 863 880 501 217 981 996 162 1000 793 269 265 829 867 
+player 484 draws a 316 from deck 484
+player 484 discards a 621 to deck 485
+player 484 current hand : 521 875 788 548 282 729 863 880 501 217 981 996 162 1000 793 269 265 829 867 316 
+player 484 draws a 10 from deck 484
+player 484 discards a 521 to deck 485
+player 484 current hand : 875 788 548 282 729 863 880 501 217 981 996 162 1000 793 269 265 829 867 316 10 
+player 484 draws a 500 from deck 484
+player 484 discards a 875 to deck 485
+player 484 current hand : 788 548 282 729 863 880 501 217 981 996 162 1000 793 269 265 829 867 316 10 500 
+player 484 draws a 872 from deck 484
+player 484 discards a 788 to deck 485
+player 484 current hand : 548 282 729 863 880 501 217 981 996 162 1000 793 269 265 829 867 316 10 500 872 
+player 484 draws a 100 from deck 484
+player 484 discards a 548 to deck 485
+player 484 current hand : 282 729 863 880 501 217 981 996 162 1000 793 269 265 829 867 316 10 500 872 100 
+player 484 draws a 200 from deck 484
+player 484 discards a 282 to deck 485
+player 484 current hand : 729 863 880 501 217 981 996 162 1000 793 269 265 829 867 316 10 500 872 100 200 
+player 484 draws a 554 from deck 484
+player 484 discards a 729 to deck 485
+player 484 current hand : 863 880 501 217 981 996 162 1000 793 269 265 829 867 316 10 500 872 100 200 554 
+player 484 draws a 233 from deck 484
+player 484 discards a 863 to deck 485
+player 484 current hand : 880 501 217 981 996 162 1000 793 269 265 829 867 316 10 500 872 100 200 554 233 
+player 484 draws a 210 from deck 484
+player 484 discards a 880 to deck 485
+player 484 current hand : 501 217 981 996 162 1000 793 269 265 829 867 316 10 500 872 100 200 554 233 210 
+player 484 draws a 601 from deck 484
+player 484 discards a 501 to deck 485
+player 484 current hand : 217 981 996 162 1000 793 269 265 829 867 316 10 500 872 100 200 554 233 210 601 
+player 484 draws a 388 from deck 484
+player 484 discards a 217 to deck 485
+player 484 current hand : 981 996 162 1000 793 269 265 829 867 316 10 500 872 100 200 554 233 210 601 388 
+player 484 draws a 262 from deck 484
+player 484 discards a 981 to deck 485
+player 484 current hand : 996 162 1000 793 269 265 829 867 316 10 500 872 100 200 554 233 210 601 388 262 
+player 484 draws a 919 from deck 484
+player 484 discards a 996 to deck 485
+player 484 current hand : 162 1000 793 269 265 829 867 316 10 500 872 100 200 554 233 210 601 388 262 919 
+player 484 draws a 309 from deck 484
+player 484 discards a 162 to deck 485
+player 484 current hand : 1000 793 269 265 829 867 316 10 500 872 100 200 554 233 210 601 388 262 919 309 
+player 484 draws a 691 from deck 484
+player 484 discards a 1000 to deck 485
+player 484 current hand : 793 269 265 829 867 316 10 500 872 100 200 554 233 210 601 388 262 919 309 691 
+player 484 draws a 782 from deck 484
+player 484 discards a 793 to deck 485
+player 484 current hand : 269 265 829 867 316 10 500 872 100 200 554 233 210 601 388 262 919 309 691 782 
+player 484 draws a 373 from deck 484
+player 484 discards a 269 to deck 485
+player 484 current hand : 265 829 867 316 10 500 872 100 200 554 233 210 601 388 262 919 309 691 782 373 
+player 484 draws a 7 from deck 484
+player 484 discards a 265 to deck 485
+player 484 current hand : 829 867 316 10 500 872 100 200 554 233 210 601 388 262 919 309 691 782 373 7 
+player 484 draws a 110 from deck 484
+player 484 discards a 829 to deck 485
+player 484 current hand : 867 316 10 500 872 100 200 554 233 210 601 388 262 919 309 691 782 373 7 110 
+player 484 draws a 922 from deck 484
+player 484 discards a 867 to deck 485
+player 484 current hand : 316 10 500 872 100 200 554 233 210 601 388 262 919 309 691 782 373 7 110 922 
+player 484 draws a 874 from deck 484
+player 484 discards a 316 to deck 485
+player 484 current hand : 10 500 872 100 200 554 233 210 601 388 262 919 309 691 782 373 7 110 922 874 
+player 484 draws a 15 from deck 484
+player 484 discards a 10 to deck 485
+player 484 current hand : 500 872 100 200 554 233 210 601 388 262 919 309 691 782 373 7 110 922 874 15 
+player 484 draws a 96 from deck 484
+player 484 discards a 500 to deck 485
+player 484 current hand : 872 100 200 554 233 210 601 388 262 919 309 691 782 373 7 110 922 874 15 96 
+player 484 draws a 618 from deck 484
+player 484 discards a 872 to deck 485
+player 484 current hand : 100 200 554 233 210 601 388 262 919 309 691 782 373 7 110 922 874 15 96 618 
+player 484 draws a 917 from deck 484
+player 484 discards a 100 to deck 485
+player 484 current hand : 200 554 233 210 601 388 262 919 309 691 782 373 7 110 922 874 15 96 618 917 
+player 484 draws a 810 from deck 484
+player 484 discards a 200 to deck 485
+player 484 current hand : 554 233 210 601 388 262 919 309 691 782 373 7 110 922 874 15 96 618 917 810 
+player 484 draws a 532 from deck 484
+player 484 discards a 554 to deck 485
+player 484 current hand : 233 210 601 388 262 919 309 691 782 373 7 110 922 874 15 96 618 917 810 532 
+player 484 draws a 714 from deck 484
+player 484 discards a 233 to deck 485
+player 484 current hand : 210 601 388 262 919 309 691 782 373 7 110 922 874 15 96 618 917 810 532 714 
+player 484 draws a 626 from deck 484
+player 484 discards a 210 to deck 485
+player 484 current hand : 601 388 262 919 309 691 782 373 7 110 922 874 15 96 618 917 810 532 714 626 
+player 484 draws a 983 from deck 484
+player 484 discards a 601 to deck 485
+player 484 current hand : 388 262 919 309 691 782 373 7 110 922 874 15 96 618 917 810 532 714 626 983 
+player 484 draws a 773 from deck 484
+player 484 discards a 388 to deck 485
+player 484 current hand : 262 919 309 691 782 373 7 110 922 874 15 96 618 917 810 532 714 626 983 773 
+player 484 draws a 778 from deck 484
+player 484 discards a 262 to deck 485
+player 484 current hand : 919 309 691 782 373 7 110 922 874 15 96 618 917 810 532 714 626 983 773 778 
+player 484 draws a 205 from deck 484
+player 484 discards a 919 to deck 485
+player 484 current hand : 309 691 782 373 7 110 922 874 15 96 618 917 810 532 714 626 983 773 778 205 
+player 484 draws a 70 from deck 484
+player 484 discards a 309 to deck 485
+player 484 current hand : 691 782 373 7 110 922 874 15 96 618 917 810 532 714 626 983 773 778 205 70 
+player 484 draws a 320 from deck 484
+player 484 discards a 691 to deck 485
+player 484 current hand : 782 373 7 110 922 874 15 96 618 917 810 532 714 626 983 773 778 205 70 320 
+player 484 draws a 571 from deck 484
+player 484 discards a 782 to deck 485
+player 484 current hand : 373 7 110 922 874 15 96 618 917 810 532 714 626 983 773 778 205 70 320 571 
+player 484 draws a 509 from deck 484
+player 484 discards a 373 to deck 485
+player 484 current hand : 7 110 922 874 15 96 618 917 810 532 714 626 983 773 778 205 70 320 571 509 
+player 484 draws a 142 from deck 484
+player 484 discards a 7 to deck 485
+player 484 current hand : 110 922 874 15 96 618 917 810 532 714 626 983 773 778 205 70 320 571 509 142 
+player 484 draws a 793 from deck 484
+player 484 discards a 110 to deck 485
+player 484 current hand : 922 874 15 96 618 917 810 532 714 626 983 773 778 205 70 320 571 509 142 793 
+player 484 draws a 896 from deck 484
+player 484 discards a 922 to deck 485
+player 484 current hand : 874 15 96 618 917 810 532 714 626 983 773 778 205 70 320 571 509 142 793 896 
+player 484 draws a 793 from deck 484
+player 484 discards a 874 to deck 485
+player 484 current hand : 15 96 618 917 810 532 714 626 983 773 778 205 70 320 571 509 142 793 896 793 
+player 484 draws a 170 from deck 484
+player 484 discards a 15 to deck 485
+player 484 current hand : 96 618 917 810 532 714 626 983 773 778 205 70 320 571 509 142 793 896 793 170 
+player 484 draws a 827 from deck 484
+player 484 discards a 96 to deck 485
+player 484 current hand : 618 917 810 532 714 626 983 773 778 205 70 320 571 509 142 793 896 793 170 827 
+player 484 draws a 994 from deck 484
+player 484 discards a 618 to deck 485
+player 484 current hand : 917 810 532 714 626 983 773 778 205 70 320 571 509 142 793 896 793 170 827 994 
+player 484 draws a 164 from deck 484
+player 484 discards a 917 to deck 485
+player 484 current hand : 810 532 714 626 983 773 778 205 70 320 571 509 142 793 896 793 170 827 994 164 
+player 484 draws a 580 from deck 484
+player 484 discards a 810 to deck 485
+player 484 current hand : 532 714 626 983 773 778 205 70 320 571 509 142 793 896 793 170 827 994 164 580 
+player 484 draws a 325 from deck 484
+player 484 discards a 532 to deck 485
+player 484 current hand : 714 626 983 773 778 205 70 320 571 509 142 793 896 793 170 827 994 164 580 325 
+player 484 draws a 452 from deck 484
+player 484 discards a 714 to deck 485
+player 484 current hand : 626 983 773 778 205 70 320 571 509 142 793 896 793 170 827 994 164 580 325 452 
+player 484 draws a 971 from deck 484
+player 484 discards a 626 to deck 485
+player 484 current hand : 983 773 778 205 70 320 571 509 142 793 896 793 170 827 994 164 580 325 452 971 
+player 484 draws a 367 from deck 484
+player 484 discards a 983 to deck 485
+player 484 current hand : 773 778 205 70 320 571 509 142 793 896 793 170 827 994 164 580 325 452 971 367 
+player 484 draws a 176 from deck 484
+player 484 discards a 773 to deck 485
+player 484 current hand : 778 205 70 320 571 509 142 793 896 793 170 827 994 164 580 325 452 971 367 176 
+player 484 draws a 61 from deck 484
+player 484 discards a 778 to deck 485
+player 484 current hand : 205 70 320 571 509 142 793 896 793 170 827 994 164 580 325 452 971 367 176 61 
+player 484 draws a 986 from deck 484
+player 484 discards a 205 to deck 485
+player 484 current hand : 70 320 571 509 142 793 896 793 170 827 994 164 580 325 452 971 367 176 61 986 
+player 484 draws a 835 from deck 484
+player 484 discards a 70 to deck 485
+player 484 current hand : 320 571 509 142 793 896 793 170 827 994 164 580 325 452 971 367 176 61 986 835 
+player 484 draws a 511 from deck 484
+player 484 discards a 320 to deck 485
+player 484 current hand : 571 509 142 793 896 793 170 827 994 164 580 325 452 971 367 176 61 986 835 511 
+player 484 draws a 645 from deck 484
+player 484 discards a 571 to deck 485
+player 484 current hand : 509 142 793 896 793 170 827 994 164 580 325 452 971 367 176 61 986 835 511 645 
+player 484 draws a 804 from deck 484
+player 484 discards a 509 to deck 485
+player 484 current hand : 142 793 896 793 170 827 994 164 580 325 452 971 367 176 61 986 835 511 645 804 
+player 484 draws a 885 from deck 484
+player 484 discards a 142 to deck 485
+player 484 current hand : 793 896 793 170 827 994 164 580 325 452 971 367 176 61 986 835 511 645 804 885 
+player 484 draws a 93 from deck 484
+player 484 discards a 793 to deck 485
+player 484 current hand : 896 793 170 827 994 164 580 325 452 971 367 176 61 986 835 511 645 804 885 93 
+player 484 draws a 114 from deck 484
+player 484 discards a 896 to deck 485
+player 484 current hand : 793 170 827 994 164 580 325 452 971 367 176 61 986 835 511 645 804 885 93 114 
+player 484 draws a 274 from deck 484
+player 484 discards a 793 to deck 485
+player 484 current hand : 170 827 994 164 580 325 452 971 367 176 61 986 835 511 645 804 885 93 114 274 
+player 484 draws a 189 from deck 484
+player 484 discards a 170 to deck 485
+player 484 current hand : 827 994 164 580 325 452 971 367 176 61 986 835 511 645 804 885 93 114 274 189 
+player 484 draws a 509 from deck 484
+player 484 discards a 827 to deck 485
+player 484 current hand : 994 164 580 325 452 971 367 176 61 986 835 511 645 804 885 93 114 274 189 509 
+player 484 draws a 647 from deck 484
+player 484 discards a 994 to deck 485
+player 484 current hand : 164 580 325 452 971 367 176 61 986 835 511 645 804 885 93 114 274 189 509 647 
+player 484 draws a 388 from deck 484
+player 484 discards a 164 to deck 485
+player 484 current hand : 580 325 452 971 367 176 61 986 835 511 645 804 885 93 114 274 189 509 647 388 
+player 484 draws a 425 from deck 484
+player 484 discards a 580 to deck 485
+player 484 current hand : 325 452 971 367 176 61 986 835 511 645 804 885 93 114 274 189 509 647 388 425 
+player 484 draws a 276 from deck 484
+player 484 discards a 325 to deck 485
+player 484 current hand : 452 971 367 176 61 986 835 511 645 804 885 93 114 274 189 509 647 388 425 276 
+player 484 draws a 415 from deck 484
+player 484 discards a 452 to deck 485
+player 484 current hand : 971 367 176 61 986 835 511 645 804 885 93 114 274 189 509 647 388 425 276 415 
+player 484 draws a 899 from deck 484
+player 484 discards a 971 to deck 485
+player 484 current hand : 367 176 61 986 835 511 645 804 885 93 114 274 189 509 647 388 425 276 415 899 
+player 484 draws a 634 from deck 484
+player 484 discards a 367 to deck 485
+player 484 current hand : 176 61 986 835 511 645 804 885 93 114 274 189 509 647 388 425 276 415 899 634 
+player 484 draws a 722 from deck 484
+player 484 discards a 176 to deck 485
+player 484 current hand : 61 986 835 511 645 804 885 93 114 274 189 509 647 388 425 276 415 899 634 722 
+player 484 draws a 200 from deck 484
+player 484 discards a 61 to deck 485
+player 484 current hand : 986 835 511 645 804 885 93 114 274 189 509 647 388 425 276 415 899 634 722 200 
+player 484 draws a 971 from deck 484
+player 484 discards a 986 to deck 485
+player 484 current hand : 835 511 645 804 885 93 114 274 189 509 647 388 425 276 415 899 634 722 200 971 
+player 484 draws a 29 from deck 484
+player 484 discards a 835 to deck 485
+player 484 current hand : 511 645 804 885 93 114 274 189 509 647 388 425 276 415 899 634 722 200 971 29 
+player 484 draws a 452 from deck 484
+player 484 discards a 511 to deck 485
+player 484 current hand : 645 804 885 93 114 274 189 509 647 388 425 276 415 899 634 722 200 971 29 452 
+player 484 draws a 971 from deck 484
+player 484 discards a 645 to deck 485
+player 484 current hand : 804 885 93 114 274 189 509 647 388 425 276 415 899 634 722 200 971 29 452 971 
+player 484 draws a 75 from deck 484
+player 484 discards a 804 to deck 485
+player 484 current hand : 885 93 114 274 189 509 647 388 425 276 415 899 634 722 200 971 29 452 971 75 
+player 484 draws a 498 from deck 484
+player 484 discards a 885 to deck 485
+player 484 current hand : 93 114 274 189 509 647 388 425 276 415 899 634 722 200 971 29 452 971 75 498 
+player 484 draws a 531 from deck 484
+player 484 discards a 93 to deck 485
+player 484 current hand : 114 274 189 509 647 388 425 276 415 899 634 722 200 971 29 452 971 75 498 531 
+player 484 draws a 229 from deck 484
+player 484 discards a 114 to deck 485
+player 484 current hand : 274 189 509 647 388 425 276 415 899 634 722 200 971 29 452 971 75 498 531 229 
+player 484 draws a 287 from deck 484
+player 484 discards a 274 to deck 485
+player 484 current hand : 189 509 647 388 425 276 415 899 634 722 200 971 29 452 971 75 498 531 229 287 
+player 484 draws a 663 from deck 484
+player 484 discards a 189 to deck 485
+player 484 current hand : 509 647 388 425 276 415 899 634 722 200 971 29 452 971 75 498 531 229 287 663 
+player 484 draws a 856 from deck 484
+player 484 discards a 509 to deck 485
+player 484 current hand : 647 388 425 276 415 899 634 722 200 971 29 452 971 75 498 531 229 287 663 856 
+player 484 draws a 718 from deck 484
+player 484 discards a 647 to deck 485
+player 484 current hand : 388 425 276 415 899 634 722 200 971 29 452 971 75 498 531 229 287 663 856 718 
+player 484 draws a 928 from deck 484
+player 484 discards a 388 to deck 485
+player 484 current hand : 425 276 415 899 634 722 200 971 29 452 971 75 498 531 229 287 663 856 718 928 
+player 484 draws a 964 from deck 484
+player 484 discards a 425 to deck 485
+player 484 current hand : 276 415 899 634 722 200 971 29 452 971 75 498 531 229 287 663 856 718 928 964 
+player 484 draws a 848 from deck 484
+player 484 discards a 276 to deck 485
+player 484 current hand : 415 899 634 722 200 971 29 452 971 75 498 531 229 287 663 856 718 928 964 848 
+player 484 draws a 776 from deck 484
+player 484 discards a 415 to deck 485
+player 484 current hand : 899 634 722 200 971 29 452 971 75 498 531 229 287 663 856 718 928 964 848 776 
+player 484 draws a 523 from deck 484
+player 484 discards a 899 to deck 485
+player 484 current hand : 634 722 200 971 29 452 971 75 498 531 229 287 663 856 718 928 964 848 776 523 
+player 484 draws a 91 from deck 484
+player 484 discards a 634 to deck 485
+player 484 current hand : 722 200 971 29 452 971 75 498 531 229 287 663 856 718 928 964 848 776 523 91 
+player 484 draws a 853 from deck 484
+player 484 discards a 722 to deck 485
+player 484 current hand : 200 971 29 452 971 75 498 531 229 287 663 856 718 928 964 848 776 523 91 853 
+player 484 draws a 473 from deck 484
+player 484 discards a 200 to deck 485
+player 484 current hand : 971 29 452 971 75 498 531 229 287 663 856 718 928 964 848 776 523 91 853 473 

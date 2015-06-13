@@ -1,0 +1,311 @@
+player 408 initial hand 983 425 220 796 27 63 899 31 666 695 125 436 188 351 862 527 370 245 815 176 
+player 408 draws a 784 from deck 408
+player 408 discards a 983 to deck 409
+player 408 current hand : 425 220 796 27 63 899 31 666 695 125 436 188 351 862 527 370 245 815 176 784 
+player 408 draws a 446 from deck 408
+player 408 discards a 425 to deck 409
+player 408 current hand : 220 796 27 63 899 31 666 695 125 436 188 351 862 527 370 245 815 176 784 446 
+player 408 draws a 9 from deck 408
+player 408 discards a 220 to deck 409
+player 408 current hand : 796 27 63 899 31 666 695 125 436 188 351 862 527 370 245 815 176 784 446 9 
+player 408 draws a 924 from deck 408
+player 408 discards a 796 to deck 409
+player 408 current hand : 27 63 899 31 666 695 125 436 188 351 862 527 370 245 815 176 784 446 9 924 
+player 408 draws a 874 from deck 408
+player 408 discards a 27 to deck 409
+player 408 current hand : 63 899 31 666 695 125 436 188 351 862 527 370 245 815 176 784 446 9 924 874 
+player 408 draws a 44 from deck 408
+player 408 discards a 63 to deck 409
+player 408 current hand : 899 31 666 695 125 436 188 351 862 527 370 245 815 176 784 446 9 924 874 44 
+player 408 draws a 365 from deck 408
+player 408 discards a 899 to deck 409
+player 408 current hand : 31 666 695 125 436 188 351 862 527 370 245 815 176 784 446 9 924 874 44 365 
+player 408 draws a 822 from deck 408
+player 408 discards a 31 to deck 409
+player 408 current hand : 666 695 125 436 188 351 862 527 370 245 815 176 784 446 9 924 874 44 365 822 
+player 408 draws a 211 from deck 408
+player 408 discards a 666 to deck 409
+player 408 current hand : 695 125 436 188 351 862 527 370 245 815 176 784 446 9 924 874 44 365 822 211 
+player 408 draws a 74 from deck 408
+player 408 discards a 695 to deck 409
+player 408 current hand : 125 436 188 351 862 527 370 245 815 176 784 446 9 924 874 44 365 822 211 74 
+player 408 draws a 240 from deck 408
+player 408 discards a 125 to deck 409
+player 408 current hand : 436 188 351 862 527 370 245 815 176 784 446 9 924 874 44 365 822 211 74 240 
+player 408 draws a 661 from deck 408
+player 408 discards a 436 to deck 409
+player 408 current hand : 188 351 862 527 370 245 815 176 784 446 9 924 874 44 365 822 211 74 240 661 
+player 408 draws a 276 from deck 408
+player 408 discards a 188 to deck 409
+player 408 current hand : 351 862 527 370 245 815 176 784 446 9 924 874 44 365 822 211 74 240 661 276 
+player 408 draws a 176 from deck 408
+player 408 discards a 351 to deck 409
+player 408 current hand : 862 527 370 245 815 176 784 446 9 924 874 44 365 822 211 74 240 661 276 176 
+player 408 draws a 984 from deck 408
+player 408 discards a 862 to deck 409
+player 408 current hand : 527 370 245 815 176 784 446 9 924 874 44 365 822 211 74 240 661 276 176 984 
+player 408 draws a 787 from deck 408
+player 408 discards a 527 to deck 409
+player 408 current hand : 370 245 815 176 784 446 9 924 874 44 365 822 211 74 240 661 276 176 984 787 
+player 408 draws a 428 from deck 408
+player 408 discards a 370 to deck 409
+player 408 current hand : 245 815 176 784 446 9 924 874 44 365 822 211 74 240 661 276 176 984 787 428 
+player 408 draws a 855 from deck 408
+player 408 discards a 245 to deck 409
+player 408 current hand : 815 176 784 446 9 924 874 44 365 822 211 74 240 661 276 176 984 787 428 855 
+player 408 draws a 326 from deck 408
+player 408 discards a 815 to deck 409
+player 408 current hand : 176 784 446 9 924 874 44 365 822 211 74 240 661 276 176 984 787 428 855 326 
+player 408 draws a 593 from deck 408
+player 408 discards a 176 to deck 409
+player 408 current hand : 784 446 9 924 874 44 365 822 211 74 240 661 276 176 984 787 428 855 326 593 
+player 408 draws a 643 from deck 408
+player 408 discards a 784 to deck 409
+player 408 current hand : 446 9 924 874 44 365 822 211 74 240 661 276 176 984 787 428 855 326 593 643 
+player 408 draws a 835 from deck 408
+player 408 discards a 446 to deck 409
+player 408 current hand : 9 924 874 44 365 822 211 74 240 661 276 176 984 787 428 855 326 593 643 835 
+player 408 draws a 571 from deck 408
+player 408 discards a 9 to deck 409
+player 408 current hand : 924 874 44 365 822 211 74 240 661 276 176 984 787 428 855 326 593 643 835 571 
+player 408 draws a 924 from deck 408
+player 408 discards a 924 to deck 409
+player 408 current hand : 874 44 365 822 211 74 240 661 276 176 984 787 428 855 326 593 643 835 571 924 
+player 408 draws a 617 from deck 408
+player 408 discards a 874 to deck 409
+player 408 current hand : 44 365 822 211 74 240 661 276 176 984 787 428 855 326 593 643 835 571 924 617 
+player 408 draws a 827 from deck 408
+player 408 discards a 44 to deck 409
+player 408 current hand : 365 822 211 74 240 661 276 176 984 787 428 855 326 593 643 835 571 924 617 827 
+player 408 draws a 309 from deck 408
+player 408 discards a 365 to deck 409
+player 408 current hand : 822 211 74 240 661 276 176 984 787 428 855 326 593 643 835 571 924 617 827 309 
+player 408 draws a 52 from deck 408
+player 408 discards a 822 to deck 409
+player 408 current hand : 211 74 240 661 276 176 984 787 428 855 326 593 643 835 571 924 617 827 309 52 
+player 408 draws a 173 from deck 408
+player 408 discards a 211 to deck 409
+player 408 current hand : 74 240 661 276 176 984 787 428 855 326 593 643 835 571 924 617 827 309 52 173 
+player 408 draws a 402 from deck 408
+player 408 discards a 74 to deck 409
+player 408 current hand : 240 661 276 176 984 787 428 855 326 593 643 835 571 924 617 827 309 52 173 402 
+player 408 draws a 107 from deck 408
+player 408 discards a 240 to deck 409
+player 408 current hand : 661 276 176 984 787 428 855 326 593 643 835 571 924 617 827 309 52 173 402 107 
+player 408 draws a 753 from deck 408
+player 408 discards a 661 to deck 409
+player 408 current hand : 276 176 984 787 428 855 326 593 643 835 571 924 617 827 309 52 173 402 107 753 
+player 408 draws a 164 from deck 408
+player 408 discards a 276 to deck 409
+player 408 current hand : 176 984 787 428 855 326 593 643 835 571 924 617 827 309 52 173 402 107 753 164 
+player 408 draws a 692 from deck 408
+player 408 discards a 176 to deck 409
+player 408 current hand : 984 787 428 855 326 593 643 835 571 924 617 827 309 52 173 402 107 753 164 692 
+player 408 draws a 339 from deck 408
+player 408 discards a 984 to deck 409
+player 408 current hand : 787 428 855 326 593 643 835 571 924 617 827 309 52 173 402 107 753 164 692 339 
+player 408 draws a 707 from deck 408
+player 408 discards a 787 to deck 409
+player 408 current hand : 428 855 326 593 643 835 571 924 617 827 309 52 173 402 107 753 164 692 339 707 
+player 408 draws a 115 from deck 408
+player 408 discards a 428 to deck 409
+player 408 current hand : 855 326 593 643 835 571 924 617 827 309 52 173 402 107 753 164 692 339 707 115 
+player 408 draws a 822 from deck 408
+player 408 discards a 855 to deck 409
+player 408 current hand : 326 593 643 835 571 924 617 827 309 52 173 402 107 753 164 692 339 707 115 822 
+player 408 draws a 763 from deck 408
+player 408 discards a 326 to deck 409
+player 408 current hand : 593 643 835 571 924 617 827 309 52 173 402 107 753 164 692 339 707 115 822 763 
+player 408 draws a 716 from deck 408
+player 408 discards a 593 to deck 409
+player 408 current hand : 643 835 571 924 617 827 309 52 173 402 107 753 164 692 339 707 115 822 763 716 
+player 408 draws a 754 from deck 408
+player 408 discards a 643 to deck 409
+player 408 current hand : 835 571 924 617 827 309 52 173 402 107 753 164 692 339 707 115 822 763 716 754 
+player 408 draws a 972 from deck 408
+player 408 discards a 835 to deck 409
+player 408 current hand : 571 924 617 827 309 52 173 402 107 753 164 692 339 707 115 822 763 716 754 972 
+player 408 draws a 973 from deck 408
+player 408 discards a 571 to deck 409
+player 408 current hand : 924 617 827 309 52 173 402 107 753 164 692 339 707 115 822 763 716 754 972 973 
+player 408 draws a 920 from deck 408
+player 408 discards a 924 to deck 409
+player 408 current hand : 617 827 309 52 173 402 107 753 164 692 339 707 115 822 763 716 754 972 973 920 
+player 408 draws a 537 from deck 408
+player 408 discards a 617 to deck 409
+player 408 current hand : 827 309 52 173 402 107 753 164 692 339 707 115 822 763 716 754 972 973 920 537 
+player 408 draws a 952 from deck 408
+player 408 discards a 827 to deck 409
+player 408 current hand : 309 52 173 402 107 753 164 692 339 707 115 822 763 716 754 972 973 920 537 952 
+player 408 draws a 634 from deck 408
+player 408 discards a 309 to deck 409
+player 408 current hand : 52 173 402 107 753 164 692 339 707 115 822 763 716 754 972 973 920 537 952 634 
+player 408 draws a 837 from deck 408
+player 408 discards a 52 to deck 409
+player 408 current hand : 173 402 107 753 164 692 339 707 115 822 763 716 754 972 973 920 537 952 634 837 
+player 408 draws a 904 from deck 408
+player 408 discards a 173 to deck 409
+player 408 current hand : 402 107 753 164 692 339 707 115 822 763 716 754 972 973 920 537 952 634 837 904 
+player 408 draws a 720 from deck 408
+player 408 discards a 402 to deck 409
+player 408 current hand : 107 753 164 692 339 707 115 822 763 716 754 972 973 920 537 952 634 837 904 720 
+player 408 draws a 717 from deck 408
+player 408 discards a 107 to deck 409
+player 408 current hand : 753 164 692 339 707 115 822 763 716 754 972 973 920 537 952 634 837 904 720 717 
+player 408 draws a 534 from deck 408
+player 408 discards a 753 to deck 409
+player 408 current hand : 164 692 339 707 115 822 763 716 754 972 973 920 537 952 634 837 904 720 717 534 
+player 408 draws a 279 from deck 408
+player 408 discards a 164 to deck 409
+player 408 current hand : 692 339 707 115 822 763 716 754 972 973 920 537 952 634 837 904 720 717 534 279 
+player 408 draws a 616 from deck 408
+player 408 discards a 692 to deck 409
+player 408 current hand : 339 707 115 822 763 716 754 972 973 920 537 952 634 837 904 720 717 534 279 616 
+player 408 draws a 131 from deck 408
+player 408 discards a 339 to deck 409
+player 408 current hand : 707 115 822 763 716 754 972 973 920 537 952 634 837 904 720 717 534 279 616 131 
+player 408 draws a 105 from deck 408
+player 408 discards a 707 to deck 409
+player 408 current hand : 115 822 763 716 754 972 973 920 537 952 634 837 904 720 717 534 279 616 131 105 
+player 408 draws a 991 from deck 408
+player 408 discards a 115 to deck 409
+player 408 current hand : 822 763 716 754 972 973 920 537 952 634 837 904 720 717 534 279 616 131 105 991 
+player 408 draws a 779 from deck 408
+player 408 discards a 822 to deck 409
+player 408 current hand : 763 716 754 972 973 920 537 952 634 837 904 720 717 534 279 616 131 105 991 779 
+player 408 draws a 589 from deck 408
+player 408 discards a 763 to deck 409
+player 408 current hand : 716 754 972 973 920 537 952 634 837 904 720 717 534 279 616 131 105 991 779 589 
+player 408 draws a 231 from deck 408
+player 408 discards a 716 to deck 409
+player 408 current hand : 754 972 973 920 537 952 634 837 904 720 717 534 279 616 131 105 991 779 589 231 
+player 408 draws a 31 from deck 408
+player 408 discards a 754 to deck 409
+player 408 current hand : 972 973 920 537 952 634 837 904 720 717 534 279 616 131 105 991 779 589 231 31 
+player 408 draws a 105 from deck 408
+player 408 discards a 972 to deck 409
+player 408 current hand : 973 920 537 952 634 837 904 720 717 534 279 616 131 105 991 779 589 231 31 105 
+player 408 draws a 284 from deck 408
+player 408 discards a 973 to deck 409
+player 408 current hand : 920 537 952 634 837 904 720 717 534 279 616 131 105 991 779 589 231 31 105 284 
+player 408 draws a 336 from deck 408
+player 408 discards a 920 to deck 409
+player 408 current hand : 537 952 634 837 904 720 717 534 279 616 131 105 991 779 589 231 31 105 284 336 
+player 408 draws a 392 from deck 408
+player 408 discards a 537 to deck 409
+player 408 current hand : 952 634 837 904 720 717 534 279 616 131 105 991 779 589 231 31 105 284 336 392 
+player 408 draws a 274 from deck 408
+player 408 discards a 952 to deck 409
+player 408 current hand : 634 837 904 720 717 534 279 616 131 105 991 779 589 231 31 105 284 336 392 274 
+player 408 draws a 549 from deck 408
+player 408 discards a 634 to deck 409
+player 408 current hand : 837 904 720 717 534 279 616 131 105 991 779 589 231 31 105 284 336 392 274 549 
+player 408 draws a 258 from deck 408
+player 408 discards a 837 to deck 409
+player 408 current hand : 904 720 717 534 279 616 131 105 991 779 589 231 31 105 284 336 392 274 549 258 
+player 408 draws a 238 from deck 408
+player 408 discards a 904 to deck 409
+player 408 current hand : 720 717 534 279 616 131 105 991 779 589 231 31 105 284 336 392 274 549 258 238 
+player 408 draws a 720 from deck 408
+player 408 discards a 720 to deck 409
+player 408 current hand : 717 534 279 616 131 105 991 779 589 231 31 105 284 336 392 274 549 258 238 720 
+player 408 draws a 156 from deck 408
+player 408 discards a 717 to deck 409
+player 408 current hand : 534 279 616 131 105 991 779 589 231 31 105 284 336 392 274 549 258 238 720 156 
+player 408 draws a 574 from deck 408
+player 408 discards a 534 to deck 409
+player 408 current hand : 279 616 131 105 991 779 589 231 31 105 284 336 392 274 549 258 238 720 156 574 
+player 408 draws a 525 from deck 408
+player 408 discards a 279 to deck 409
+player 408 current hand : 616 131 105 991 779 589 231 31 105 284 336 392 274 549 258 238 720 156 574 525 
+player 408 draws a 797 from deck 408
+player 408 discards a 616 to deck 409
+player 408 current hand : 131 105 991 779 589 231 31 105 284 336 392 274 549 258 238 720 156 574 525 797 
+player 408 draws a 31 from deck 408
+player 408 discards a 131 to deck 409
+player 408 current hand : 105 991 779 589 231 31 105 284 336 392 274 549 258 238 720 156 574 525 797 31 
+player 408 draws a 649 from deck 408
+player 408 discards a 105 to deck 409
+player 408 current hand : 991 779 589 231 31 105 284 336 392 274 549 258 238 720 156 574 525 797 31 649 
+player 408 draws a 446 from deck 408
+player 408 discards a 991 to deck 409
+player 408 current hand : 779 589 231 31 105 284 336 392 274 549 258 238 720 156 574 525 797 31 649 446 
+player 408 draws a 809 from deck 408
+player 408 discards a 779 to deck 409
+player 408 current hand : 589 231 31 105 284 336 392 274 549 258 238 720 156 574 525 797 31 649 446 809 
+player 408 draws a 918 from deck 408
+player 408 discards a 589 to deck 409
+player 408 current hand : 231 31 105 284 336 392 274 549 258 238 720 156 574 525 797 31 649 446 809 918 
+player 408 draws a 729 from deck 408
+player 408 discards a 231 to deck 409
+player 408 current hand : 31 105 284 336 392 274 549 258 238 720 156 574 525 797 31 649 446 809 918 729 
+player 408 draws a 797 from deck 408
+player 408 discards a 31 to deck 409
+player 408 current hand : 105 284 336 392 274 549 258 238 720 156 574 525 797 31 649 446 809 918 729 797 
+player 408 draws a 214 from deck 408
+player 408 discards a 105 to deck 409
+player 408 current hand : 284 336 392 274 549 258 238 720 156 574 525 797 31 649 446 809 918 729 797 214 
+player 408 draws a 40 from deck 408
+player 408 discards a 284 to deck 409
+player 408 current hand : 336 392 274 549 258 238 720 156 574 525 797 31 649 446 809 918 729 797 214 40 
+player 408 draws a 533 from deck 408
+player 408 discards a 336 to deck 409
+player 408 current hand : 392 274 549 258 238 720 156 574 525 797 31 649 446 809 918 729 797 214 40 533 
+player 408 draws a 991 from deck 408
+player 408 discards a 392 to deck 409
+player 408 current hand : 274 549 258 238 720 156 574 525 797 31 649 446 809 918 729 797 214 40 533 991 
+player 408 draws a 690 from deck 408
+player 408 discards a 274 to deck 409
+player 408 current hand : 549 258 238 720 156 574 525 797 31 649 446 809 918 729 797 214 40 533 991 690 
+player 408 draws a 632 from deck 408
+player 408 discards a 549 to deck 409
+player 408 current hand : 258 238 720 156 574 525 797 31 649 446 809 918 729 797 214 40 533 991 690 632 
+player 408 draws a 740 from deck 408
+player 408 discards a 258 to deck 409
+player 408 current hand : 238 720 156 574 525 797 31 649 446 809 918 729 797 214 40 533 991 690 632 740 
+player 408 draws a 52 from deck 408
+player 408 discards a 238 to deck 409
+player 408 current hand : 720 156 574 525 797 31 649 446 809 918 729 797 214 40 533 991 690 632 740 52 
+player 408 draws a 627 from deck 408
+player 408 discards a 720 to deck 409
+player 408 current hand : 156 574 525 797 31 649 446 809 918 729 797 214 40 533 991 690 632 740 52 627 
+player 408 draws a 947 from deck 408
+player 408 discards a 156 to deck 409
+player 408 current hand : 574 525 797 31 649 446 809 918 729 797 214 40 533 991 690 632 740 52 627 947 
+player 408 draws a 849 from deck 408
+player 408 discards a 574 to deck 409
+player 408 current hand : 525 797 31 649 446 809 918 729 797 214 40 533 991 690 632 740 52 627 947 849 
+player 408 draws a 633 from deck 408
+player 408 discards a 525 to deck 409
+player 408 current hand : 797 31 649 446 809 918 729 797 214 40 533 991 690 632 740 52 627 947 849 633 
+player 408 draws a 682 from deck 408
+player 408 discards a 797 to deck 409
+player 408 current hand : 31 649 446 809 918 729 797 214 40 533 991 690 632 740 52 627 947 849 633 682 
+player 408 draws a 481 from deck 408
+player 408 discards a 31 to deck 409
+player 408 current hand : 649 446 809 918 729 797 214 40 533 991 690 632 740 52 627 947 849 633 682 481 
+player 408 draws a 549 from deck 408
+player 408 discards a 649 to deck 409
+player 408 current hand : 446 809 918 729 797 214 40 533 991 690 632 740 52 627 947 849 633 682 481 549 
+player 408 draws a 838 from deck 408
+player 408 discards a 446 to deck 409
+player 408 current hand : 809 918 729 797 214 40 533 991 690 632 740 52 627 947 849 633 682 481 549 838 
+player 408 draws a 320 from deck 408
+player 408 discards a 809 to deck 409
+player 408 current hand : 918 729 797 214 40 533 991 690 632 740 52 627 947 849 633 682 481 549 838 320 
+player 408 draws a 712 from deck 408
+player 408 discards a 918 to deck 409
+player 408 current hand : 729 797 214 40 533 991 690 632 740 52 627 947 849 633 682 481 549 838 320 712 
+player 408 draws a 424 from deck 408
+player 408 discards a 729 to deck 409
+player 408 current hand : 797 214 40 533 991 690 632 740 52 627 947 849 633 682 481 549 838 320 712 424 
+player 408 draws a 72 from deck 408
+player 408 discards a 797 to deck 409
+player 408 current hand : 214 40 533 991 690 632 740 52 627 947 849 633 682 481 549 838 320 712 424 72 
+player 408 draws a 589 from deck 408
+player 408 discards a 214 to deck 409
+player 408 current hand : 40 533 991 690 632 740 52 627 947 849 633 682 481 549 838 320 712 424 72 589 
+player 408 draws a 732 from deck 408
+player 408 discards a 40 to deck 409
+player 408 current hand : 533 991 690 632 740 52 627 947 849 633 682 481 549 838 320 712 424 72 589 732 
+player 408 draws a 743 from deck 408

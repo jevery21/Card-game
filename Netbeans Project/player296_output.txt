@@ -1,0 +1,308 @@
+player 296 initial hand 1000 180 441 788 44 898 776 332 366 949 212 952 699 728 696 852 269 750 652 248 
+player 296 draws a 737 from deck 296
+player 296 discards a 1000 to deck 297
+player 296 current hand : 180 441 788 44 898 776 332 366 949 212 952 699 728 696 852 269 750 652 248 737 
+player 296 draws a 36 from deck 296
+player 296 discards a 180 to deck 297
+player 296 current hand : 441 788 44 898 776 332 366 949 212 952 699 728 696 852 269 750 652 248 737 36 
+player 296 draws a 634 from deck 296
+player 296 discards a 441 to deck 297
+player 296 current hand : 788 44 898 776 332 366 949 212 952 699 728 696 852 269 750 652 248 737 36 634 
+player 296 draws a 532 from deck 296
+player 296 discards a 788 to deck 297
+player 296 current hand : 44 898 776 332 366 949 212 952 699 728 696 852 269 750 652 248 737 36 634 532 
+player 296 draws a 681 from deck 296
+player 296 discards a 44 to deck 297
+player 296 current hand : 898 776 332 366 949 212 952 699 728 696 852 269 750 652 248 737 36 634 532 681 
+player 296 draws a 134 from deck 296
+player 296 discards a 898 to deck 297
+player 296 current hand : 776 332 366 949 212 952 699 728 696 852 269 750 652 248 737 36 634 532 681 134 
+player 296 draws a 901 from deck 296
+player 296 discards a 776 to deck 297
+player 296 current hand : 332 366 949 212 952 699 728 696 852 269 750 652 248 737 36 634 532 681 134 901 
+player 296 draws a 39 from deck 296
+player 296 discards a 332 to deck 297
+player 296 current hand : 366 949 212 952 699 728 696 852 269 750 652 248 737 36 634 532 681 134 901 39 
+player 296 draws a 548 from deck 296
+player 296 discards a 366 to deck 297
+player 296 current hand : 949 212 952 699 728 696 852 269 750 652 248 737 36 634 532 681 134 901 39 548 
+player 296 draws a 258 from deck 296
+player 296 discards a 949 to deck 297
+player 296 current hand : 212 952 699 728 696 852 269 750 652 248 737 36 634 532 681 134 901 39 548 258 
+player 296 draws a 702 from deck 296
+player 296 discards a 212 to deck 297
+player 296 current hand : 952 699 728 696 852 269 750 652 248 737 36 634 532 681 134 901 39 548 258 702 
+player 296 draws a 432 from deck 296
+player 296 discards a 952 to deck 297
+player 296 current hand : 699 728 696 852 269 750 652 248 737 36 634 532 681 134 901 39 548 258 702 432 
+player 296 draws a 275 from deck 296
+player 296 discards a 699 to deck 297
+player 296 current hand : 728 696 852 269 750 652 248 737 36 634 532 681 134 901 39 548 258 702 432 275 
+player 296 draws a 599 from deck 296
+player 296 discards a 728 to deck 297
+player 296 current hand : 696 852 269 750 652 248 737 36 634 532 681 134 901 39 548 258 702 432 275 599 
+player 296 draws a 934 from deck 296
+player 296 discards a 696 to deck 297
+player 296 current hand : 852 269 750 652 248 737 36 634 532 681 134 901 39 548 258 702 432 275 599 934 
+player 296 draws a 316 from deck 296
+player 296 discards a 852 to deck 297
+player 296 current hand : 269 750 652 248 737 36 634 532 681 134 901 39 548 258 702 432 275 599 934 316 
+player 296 draws a 562 from deck 296
+player 296 discards a 269 to deck 297
+player 296 current hand : 750 652 248 737 36 634 532 681 134 901 39 548 258 702 432 275 599 934 316 562 
+player 296 draws a 688 from deck 296
+player 296 discards a 750 to deck 297
+player 296 current hand : 652 248 737 36 634 532 681 134 901 39 548 258 702 432 275 599 934 316 562 688 
+player 296 draws a 340 from deck 296
+player 296 discards a 652 to deck 297
+player 296 current hand : 248 737 36 634 532 681 134 901 39 548 258 702 432 275 599 934 316 562 688 340 
+player 296 draws a 755 from deck 296
+player 296 discards a 248 to deck 297
+player 296 current hand : 737 36 634 532 681 134 901 39 548 258 702 432 275 599 934 316 562 688 340 755 
+player 296 draws a 77 from deck 296
+player 296 discards a 737 to deck 297
+player 296 current hand : 36 634 532 681 134 901 39 548 258 702 432 275 599 934 316 562 688 340 755 77 
+player 296 draws a 209 from deck 296
+player 296 discards a 36 to deck 297
+player 296 current hand : 634 532 681 134 901 39 548 258 702 432 275 599 934 316 562 688 340 755 77 209 
+player 296 draws a 222 from deck 296
+player 296 discards a 634 to deck 297
+player 296 current hand : 532 681 134 901 39 548 258 702 432 275 599 934 316 562 688 340 755 77 209 222 
+player 296 draws a 277 from deck 296
+player 296 discards a 532 to deck 297
+player 296 current hand : 681 134 901 39 548 258 702 432 275 599 934 316 562 688 340 755 77 209 222 277 
+player 296 draws a 65 from deck 296
+player 296 discards a 681 to deck 297
+player 296 current hand : 134 901 39 548 258 702 432 275 599 934 316 562 688 340 755 77 209 222 277 65 
+player 296 draws a 100 from deck 296
+player 296 discards a 134 to deck 297
+player 296 current hand : 901 39 548 258 702 432 275 599 934 316 562 688 340 755 77 209 222 277 65 100 
+player 296 draws a 720 from deck 296
+player 296 discards a 901 to deck 297
+player 296 current hand : 39 548 258 702 432 275 599 934 316 562 688 340 755 77 209 222 277 65 100 720 
+player 296 draws a 878 from deck 296
+player 296 discards a 39 to deck 297
+player 296 current hand : 548 258 702 432 275 599 934 316 562 688 340 755 77 209 222 277 65 100 720 878 
+player 296 draws a 661 from deck 296
+player 296 discards a 548 to deck 297
+player 296 current hand : 258 702 432 275 599 934 316 562 688 340 755 77 209 222 277 65 100 720 878 661 
+player 296 draws a 117 from deck 296
+player 296 discards a 258 to deck 297
+player 296 current hand : 702 432 275 599 934 316 562 688 340 755 77 209 222 277 65 100 720 878 661 117 
+player 296 draws a 313 from deck 296
+player 296 discards a 702 to deck 297
+player 296 current hand : 432 275 599 934 316 562 688 340 755 77 209 222 277 65 100 720 878 661 117 313 
+player 296 draws a 792 from deck 296
+player 296 discards a 432 to deck 297
+player 296 current hand : 275 599 934 316 562 688 340 755 77 209 222 277 65 100 720 878 661 117 313 792 
+player 296 draws a 252 from deck 296
+player 296 discards a 275 to deck 297
+player 296 current hand : 599 934 316 562 688 340 755 77 209 222 277 65 100 720 878 661 117 313 792 252 
+player 296 draws a 470 from deck 296
+player 296 discards a 599 to deck 297
+player 296 current hand : 934 316 562 688 340 755 77 209 222 277 65 100 720 878 661 117 313 792 252 470 
+player 296 draws a 83 from deck 296
+player 296 discards a 934 to deck 297
+player 296 current hand : 316 562 688 340 755 77 209 222 277 65 100 720 878 661 117 313 792 252 470 83 
+player 296 draws a 945 from deck 296
+player 296 discards a 316 to deck 297
+player 296 current hand : 562 688 340 755 77 209 222 277 65 100 720 878 661 117 313 792 252 470 83 945 
+player 296 draws a 128 from deck 296
+player 296 discards a 562 to deck 297
+player 296 current hand : 688 340 755 77 209 222 277 65 100 720 878 661 117 313 792 252 470 83 945 128 
+player 296 draws a 329 from deck 296
+player 296 discards a 688 to deck 297
+player 296 current hand : 340 755 77 209 222 277 65 100 720 878 661 117 313 792 252 470 83 945 128 329 
+player 296 draws a 913 from deck 296
+player 296 discards a 340 to deck 297
+player 296 current hand : 755 77 209 222 277 65 100 720 878 661 117 313 792 252 470 83 945 128 329 913 
+player 296 draws a 23 from deck 296
+player 296 discards a 755 to deck 297
+player 296 current hand : 77 209 222 277 65 100 720 878 661 117 313 792 252 470 83 945 128 329 913 23 
+player 296 draws a 33 from deck 296
+player 296 discards a 77 to deck 297
+player 296 current hand : 209 222 277 65 100 720 878 661 117 313 792 252 470 83 945 128 329 913 23 33 
+player 296 draws a 98 from deck 296
+player 296 discards a 209 to deck 297
+player 296 current hand : 222 277 65 100 720 878 661 117 313 792 252 470 83 945 128 329 913 23 33 98 
+player 296 draws a 176 from deck 296
+player 296 discards a 222 to deck 297
+player 296 current hand : 277 65 100 720 878 661 117 313 792 252 470 83 945 128 329 913 23 33 98 176 
+player 296 draws a 74 from deck 296
+player 296 discards a 277 to deck 297
+player 296 current hand : 65 100 720 878 661 117 313 792 252 470 83 945 128 329 913 23 33 98 176 74 
+player 296 draws a 685 from deck 296
+player 296 discards a 65 to deck 297
+player 296 current hand : 100 720 878 661 117 313 792 252 470 83 945 128 329 913 23 33 98 176 74 685 
+player 296 draws a 160 from deck 296
+player 296 discards a 100 to deck 297
+player 296 current hand : 720 878 661 117 313 792 252 470 83 945 128 329 913 23 33 98 176 74 685 160 
+player 296 draws a 303 from deck 296
+player 296 discards a 720 to deck 297
+player 296 current hand : 878 661 117 313 792 252 470 83 945 128 329 913 23 33 98 176 74 685 160 303 
+player 296 draws a 219 from deck 296
+player 296 discards a 878 to deck 297
+player 296 current hand : 661 117 313 792 252 470 83 945 128 329 913 23 33 98 176 74 685 160 303 219 
+player 296 draws a 766 from deck 296
+player 296 discards a 661 to deck 297
+player 296 current hand : 117 313 792 252 470 83 945 128 329 913 23 33 98 176 74 685 160 303 219 766 
+player 296 draws a 947 from deck 296
+player 296 discards a 117 to deck 297
+player 296 current hand : 313 792 252 470 83 945 128 329 913 23 33 98 176 74 685 160 303 219 766 947 
+player 296 draws a 922 from deck 296
+player 296 discards a 313 to deck 297
+player 296 current hand : 792 252 470 83 945 128 329 913 23 33 98 176 74 685 160 303 219 766 947 922 
+player 296 draws a 775 from deck 296
+player 296 discards a 792 to deck 297
+player 296 current hand : 252 470 83 945 128 329 913 23 33 98 176 74 685 160 303 219 766 947 922 775 
+player 296 draws a 829 from deck 296
+player 296 discards a 252 to deck 297
+player 296 current hand : 470 83 945 128 329 913 23 33 98 176 74 685 160 303 219 766 947 922 775 829 
+player 296 draws a 255 from deck 296
+player 296 discards a 470 to deck 297
+player 296 current hand : 83 945 128 329 913 23 33 98 176 74 685 160 303 219 766 947 922 775 829 255 
+player 296 draws a 11 from deck 296
+player 296 discards a 83 to deck 297
+player 296 current hand : 945 128 329 913 23 33 98 176 74 685 160 303 219 766 947 922 775 829 255 11 
+player 296 draws a 495 from deck 296
+player 296 discards a 945 to deck 297
+player 296 current hand : 128 329 913 23 33 98 176 74 685 160 303 219 766 947 922 775 829 255 11 495 
+player 296 draws a 117 from deck 296
+player 296 discards a 128 to deck 297
+player 296 current hand : 329 913 23 33 98 176 74 685 160 303 219 766 947 922 775 829 255 11 495 117 
+player 296 draws a 252 from deck 296
+player 296 discards a 329 to deck 297
+player 296 current hand : 913 23 33 98 176 74 685 160 303 219 766 947 922 775 829 255 11 495 117 252 
+player 296 draws a 420 from deck 296
+player 296 discards a 913 to deck 297
+player 296 current hand : 23 33 98 176 74 685 160 303 219 766 947 922 775 829 255 11 495 117 252 420 
+player 296 draws a 704 from deck 296
+player 296 discards a 23 to deck 297
+player 296 current hand : 33 98 176 74 685 160 303 219 766 947 922 775 829 255 11 495 117 252 420 704 
+player 296 draws a 180 from deck 296
+player 296 discards a 33 to deck 297
+player 296 current hand : 98 176 74 685 160 303 219 766 947 922 775 829 255 11 495 117 252 420 704 180 
+player 296 draws a 17 from deck 296
+player 296 discards a 98 to deck 297
+player 296 current hand : 176 74 685 160 303 219 766 947 922 775 829 255 11 495 117 252 420 704 180 17 
+player 296 draws a 346 from deck 296
+player 296 discards a 176 to deck 297
+player 296 current hand : 74 685 160 303 219 766 947 922 775 829 255 11 495 117 252 420 704 180 17 346 
+player 296 draws a 921 from deck 296
+player 296 discards a 74 to deck 297
+player 296 current hand : 685 160 303 219 766 947 922 775 829 255 11 495 117 252 420 704 180 17 346 921 
+player 296 draws a 685 from deck 296
+player 296 discards a 685 to deck 297
+player 296 current hand : 160 303 219 766 947 922 775 829 255 11 495 117 252 420 704 180 17 346 921 685 
+player 296 draws a 739 from deck 296
+player 296 discards a 160 to deck 297
+player 296 current hand : 303 219 766 947 922 775 829 255 11 495 117 252 420 704 180 17 346 921 685 739 
+player 296 draws a 867 from deck 296
+player 296 discards a 303 to deck 297
+player 296 current hand : 219 766 947 922 775 829 255 11 495 117 252 420 704 180 17 346 921 685 739 867 
+player 296 draws a 152 from deck 296
+player 296 discards a 219 to deck 297
+player 296 current hand : 766 947 922 775 829 255 11 495 117 252 420 704 180 17 346 921 685 739 867 152 
+player 296 draws a 162 from deck 296
+player 296 discards a 766 to deck 297
+player 296 current hand : 947 922 775 829 255 11 495 117 252 420 704 180 17 346 921 685 739 867 152 162 
+player 296 draws a 1000 from deck 296
+player 296 discards a 947 to deck 297
+player 296 current hand : 922 775 829 255 11 495 117 252 420 704 180 17 346 921 685 739 867 152 162 1000 
+player 296 draws a 537 from deck 296
+player 296 discards a 922 to deck 297
+player 296 current hand : 775 829 255 11 495 117 252 420 704 180 17 346 921 685 739 867 152 162 1000 537 
+player 296 draws a 979 from deck 296
+player 296 discards a 775 to deck 297
+player 296 current hand : 829 255 11 495 117 252 420 704 180 17 346 921 685 739 867 152 162 1000 537 979 
+player 296 draws a 904 from deck 296
+player 296 discards a 829 to deck 297
+player 296 current hand : 255 11 495 117 252 420 704 180 17 346 921 685 739 867 152 162 1000 537 979 904 
+player 296 draws a 32 from deck 296
+player 296 discards a 255 to deck 297
+player 296 current hand : 11 495 117 252 420 704 180 17 346 921 685 739 867 152 162 1000 537 979 904 32 
+player 296 draws a 620 from deck 296
+player 296 discards a 11 to deck 297
+player 296 current hand : 495 117 252 420 704 180 17 346 921 685 739 867 152 162 1000 537 979 904 32 620 
+player 296 draws a 233 from deck 296
+player 296 discards a 495 to deck 297
+player 296 current hand : 117 252 420 704 180 17 346 921 685 739 867 152 162 1000 537 979 904 32 620 233 
+player 296 draws a 946 from deck 296
+player 296 discards a 117 to deck 297
+player 296 current hand : 252 420 704 180 17 346 921 685 739 867 152 162 1000 537 979 904 32 620 233 946 
+player 296 draws a 24 from deck 296
+player 296 discards a 252 to deck 297
+player 296 current hand : 420 704 180 17 346 921 685 739 867 152 162 1000 537 979 904 32 620 233 946 24 
+player 296 draws a 921 from deck 296
+player 296 discards a 420 to deck 297
+player 296 current hand : 704 180 17 346 921 685 739 867 152 162 1000 537 979 904 32 620 233 946 24 921 
+player 296 draws a 32 from deck 296
+player 296 discards a 704 to deck 297
+player 296 current hand : 180 17 346 921 685 739 867 152 162 1000 537 979 904 32 620 233 946 24 921 32 
+player 296 draws a 799 from deck 296
+player 296 discards a 180 to deck 297
+player 296 current hand : 17 346 921 685 739 867 152 162 1000 537 979 904 32 620 233 946 24 921 32 799 
+player 296 draws a 491 from deck 296
+player 296 discards a 17 to deck 297
+player 296 current hand : 346 921 685 739 867 152 162 1000 537 979 904 32 620 233 946 24 921 32 799 491 
+player 296 draws a 562 from deck 296
+player 296 discards a 346 to deck 297
+player 296 current hand : 921 685 739 867 152 162 1000 537 979 904 32 620 233 946 24 921 32 799 491 562 
+player 296 draws a 500 from deck 296
+player 296 discards a 921 to deck 297
+player 296 current hand : 685 739 867 152 162 1000 537 979 904 32 620 233 946 24 921 32 799 491 562 500 
+player 296 draws a 299 from deck 296
+player 296 discards a 685 to deck 297
+player 296 current hand : 739 867 152 162 1000 537 979 904 32 620 233 946 24 921 32 799 491 562 500 299 
+player 296 draws a 776 from deck 296
+player 296 discards a 739 to deck 297
+player 296 current hand : 867 152 162 1000 537 979 904 32 620 233 946 24 921 32 799 491 562 500 299 776 
+player 296 draws a 285 from deck 296
+player 296 discards a 867 to deck 297
+player 296 current hand : 152 162 1000 537 979 904 32 620 233 946 24 921 32 799 491 562 500 299 776 285 
+player 296 draws a 581 from deck 296
+player 296 discards a 152 to deck 297
+player 296 current hand : 162 1000 537 979 904 32 620 233 946 24 921 32 799 491 562 500 299 776 285 581 
+player 296 draws a 390 from deck 296
+player 296 discards a 162 to deck 297
+player 296 current hand : 1000 537 979 904 32 620 233 946 24 921 32 799 491 562 500 299 776 285 581 390 
+player 296 draws a 364 from deck 296
+player 296 discards a 1000 to deck 297
+player 296 current hand : 537 979 904 32 620 233 946 24 921 32 799 491 562 500 299 776 285 581 390 364 
+player 296 draws a 907 from deck 296
+player 296 discards a 537 to deck 297
+player 296 current hand : 979 904 32 620 233 946 24 921 32 799 491 562 500 299 776 285 581 390 364 907 
+player 296 draws a 152 from deck 296
+player 296 discards a 979 to deck 297
+player 296 current hand : 904 32 620 233 946 24 921 32 799 491 562 500 299 776 285 581 390 364 907 152 
+player 296 draws a 252 from deck 296
+player 296 discards a 904 to deck 297
+player 296 current hand : 32 620 233 946 24 921 32 799 491 562 500 299 776 285 581 390 364 907 152 252 
+player 296 draws a 798 from deck 296
+player 296 discards a 32 to deck 297
+player 296 current hand : 620 233 946 24 921 32 799 491 562 500 299 776 285 581 390 364 907 152 252 798 
+player 296 draws a 392 from deck 296
+player 296 discards a 620 to deck 297
+player 296 current hand : 233 946 24 921 32 799 491 562 500 299 776 285 581 390 364 907 152 252 798 392 
+player 296 draws a 945 from deck 296
+player 296 discards a 233 to deck 297
+player 296 current hand : 946 24 921 32 799 491 562 500 299 776 285 581 390 364 907 152 252 798 392 945 
+player 296 draws a 968 from deck 296
+player 296 discards a 946 to deck 297
+player 296 current hand : 24 921 32 799 491 562 500 299 776 285 581 390 364 907 152 252 798 392 945 968 
+player 296 draws a 557 from deck 296
+player 296 discards a 24 to deck 297
+player 296 current hand : 921 32 799 491 562 500 299 776 285 581 390 364 907 152 252 798 392 945 968 557 
+player 296 draws a 844 from deck 296
+player 296 discards a 921 to deck 297
+player 296 current hand : 32 799 491 562 500 299 776 285 581 390 364 907 152 252 798 392 945 968 557 844 
+player 296 draws a 355 from deck 296
+player 296 discards a 32 to deck 297
+player 296 current hand : 799 491 562 500 299 776 285 581 390 364 907 152 252 798 392 945 968 557 844 355 
+player 296 draws a 632 from deck 296
+player 296 discards a 799 to deck 297
+player 296 current hand : 491 562 500 299 776 285 581 390 364 907 152 252 798 392 945 968 557 844 355 632 
+player 296 draws a 159 from deck 296
+player 296 discards a 491 to deck 297
+player 296 current hand : 562 500 299 776 285 581 390 364 907 152 252 798 392 945 968 557 844 355 632 159 
+player 296 draws a 177 from deck 296

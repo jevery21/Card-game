@@ -1,0 +1,309 @@
+player 265 initial hand 919 400 875 267 385 554 548 910 948 239 791 994 838 466 988 988 343 194 508 885 
+player 265 draws a 561 from deck 265
+player 265 discards a 919 to deck 266
+player 265 current hand : 400 875 267 385 554 548 910 948 239 791 994 838 466 988 988 343 194 508 885 561 
+player 265 draws a 499 from deck 265
+player 265 discards a 400 to deck 266
+player 265 current hand : 875 267 385 554 548 910 948 239 791 994 838 466 988 988 343 194 508 885 561 499 
+player 265 draws a 787 from deck 265
+player 265 discards a 875 to deck 266
+player 265 current hand : 267 385 554 548 910 948 239 791 994 838 466 988 988 343 194 508 885 561 499 787 
+player 265 draws a 686 from deck 265
+player 265 discards a 267 to deck 266
+player 265 current hand : 385 554 548 910 948 239 791 994 838 466 988 988 343 194 508 885 561 499 787 686 
+player 265 draws a 825 from deck 265
+player 265 discards a 385 to deck 266
+player 265 current hand : 554 548 910 948 239 791 994 838 466 988 988 343 194 508 885 561 499 787 686 825 
+player 265 draws a 677 from deck 265
+player 265 discards a 554 to deck 266
+player 265 current hand : 548 910 948 239 791 994 838 466 988 988 343 194 508 885 561 499 787 686 825 677 
+player 265 draws a 303 from deck 265
+player 265 discards a 548 to deck 266
+player 265 current hand : 910 948 239 791 994 838 466 988 988 343 194 508 885 561 499 787 686 825 677 303 
+player 265 draws a 47 from deck 265
+player 265 discards a 910 to deck 266
+player 265 current hand : 948 239 791 994 838 466 988 988 343 194 508 885 561 499 787 686 825 677 303 47 
+player 265 draws a 785 from deck 265
+player 265 discards a 948 to deck 266
+player 265 current hand : 239 791 994 838 466 988 988 343 194 508 885 561 499 787 686 825 677 303 47 785 
+player 265 draws a 561 from deck 265
+player 265 discards a 239 to deck 266
+player 265 current hand : 791 994 838 466 988 988 343 194 508 885 561 499 787 686 825 677 303 47 785 561 
+player 265 draws a 8 from deck 265
+player 265 discards a 791 to deck 266
+player 265 current hand : 994 838 466 988 988 343 194 508 885 561 499 787 686 825 677 303 47 785 561 8 
+player 265 draws a 736 from deck 265
+player 265 discards a 994 to deck 266
+player 265 current hand : 838 466 988 988 343 194 508 885 561 499 787 686 825 677 303 47 785 561 8 736 
+player 265 draws a 38 from deck 265
+player 265 discards a 838 to deck 266
+player 265 current hand : 466 988 988 343 194 508 885 561 499 787 686 825 677 303 47 785 561 8 736 38 
+player 265 draws a 168 from deck 265
+player 265 discards a 466 to deck 266
+player 265 current hand : 988 988 343 194 508 885 561 499 787 686 825 677 303 47 785 561 8 736 38 168 
+player 265 draws a 599 from deck 265
+player 265 discards a 988 to deck 266
+player 265 current hand : 988 343 194 508 885 561 499 787 686 825 677 303 47 785 561 8 736 38 168 599 
+player 265 draws a 329 from deck 265
+player 265 discards a 988 to deck 266
+player 265 current hand : 343 194 508 885 561 499 787 686 825 677 303 47 785 561 8 736 38 168 599 329 
+player 265 draws a 920 from deck 265
+player 265 discards a 343 to deck 266
+player 265 current hand : 194 508 885 561 499 787 686 825 677 303 47 785 561 8 736 38 168 599 329 920 
+player 265 draws a 875 from deck 265
+player 265 discards a 194 to deck 266
+player 265 current hand : 508 885 561 499 787 686 825 677 303 47 785 561 8 736 38 168 599 329 920 875 
+player 265 draws a 993 from deck 265
+player 265 discards a 508 to deck 266
+player 265 current hand : 885 561 499 787 686 825 677 303 47 785 561 8 736 38 168 599 329 920 875 993 
+player 265 draws a 894 from deck 265
+player 265 discards a 885 to deck 266
+player 265 current hand : 561 499 787 686 825 677 303 47 785 561 8 736 38 168 599 329 920 875 993 894 
+player 265 draws a 415 from deck 265
+player 265 discards a 561 to deck 266
+player 265 current hand : 499 787 686 825 677 303 47 785 561 8 736 38 168 599 329 920 875 993 894 415 
+player 265 draws a 499 from deck 265
+player 265 discards a 499 to deck 266
+player 265 current hand : 787 686 825 677 303 47 785 561 8 736 38 168 599 329 920 875 993 894 415 499 
+player 265 draws a 822 from deck 265
+player 265 discards a 787 to deck 266
+player 265 current hand : 686 825 677 303 47 785 561 8 736 38 168 599 329 920 875 993 894 415 499 822 
+player 265 draws a 565 from deck 265
+player 265 discards a 686 to deck 266
+player 265 current hand : 825 677 303 47 785 561 8 736 38 168 599 329 920 875 993 894 415 499 822 565 
+player 265 draws a 185 from deck 265
+player 265 discards a 825 to deck 266
+player 265 current hand : 677 303 47 785 561 8 736 38 168 599 329 920 875 993 894 415 499 822 565 185 
+player 265 draws a 233 from deck 265
+player 265 discards a 677 to deck 266
+player 265 current hand : 303 47 785 561 8 736 38 168 599 329 920 875 993 894 415 499 822 565 185 233 
+player 265 draws a 849 from deck 265
+player 265 discards a 303 to deck 266
+player 265 current hand : 47 785 561 8 736 38 168 599 329 920 875 993 894 415 499 822 565 185 233 849 
+player 265 draws a 999 from deck 265
+player 265 discards a 47 to deck 266
+player 265 current hand : 785 561 8 736 38 168 599 329 920 875 993 894 415 499 822 565 185 233 849 999 
+player 265 draws a 74 from deck 265
+player 265 discards a 785 to deck 266
+player 265 current hand : 561 8 736 38 168 599 329 920 875 993 894 415 499 822 565 185 233 849 999 74 
+player 265 draws a 15 from deck 265
+player 265 discards a 561 to deck 266
+player 265 current hand : 8 736 38 168 599 329 920 875 993 894 415 499 822 565 185 233 849 999 74 15 
+player 265 draws a 339 from deck 265
+player 265 discards a 8 to deck 266
+player 265 current hand : 736 38 168 599 329 920 875 993 894 415 499 822 565 185 233 849 999 74 15 339 
+player 265 draws a 758 from deck 265
+player 265 discards a 736 to deck 266
+player 265 current hand : 38 168 599 329 920 875 993 894 415 499 822 565 185 233 849 999 74 15 339 758 
+player 265 draws a 175 from deck 265
+player 265 discards a 38 to deck 266
+player 265 current hand : 168 599 329 920 875 993 894 415 499 822 565 185 233 849 999 74 15 339 758 175 
+player 265 draws a 99 from deck 265
+player 265 discards a 168 to deck 266
+player 265 current hand : 599 329 920 875 993 894 415 499 822 565 185 233 849 999 74 15 339 758 175 99 
+player 265 draws a 858 from deck 265
+player 265 discards a 599 to deck 266
+player 265 current hand : 329 920 875 993 894 415 499 822 565 185 233 849 999 74 15 339 758 175 99 858 
+player 265 draws a 160 from deck 265
+player 265 discards a 329 to deck 266
+player 265 current hand : 920 875 993 894 415 499 822 565 185 233 849 999 74 15 339 758 175 99 858 160 
+player 265 draws a 783 from deck 265
+player 265 discards a 920 to deck 266
+player 265 current hand : 875 993 894 415 499 822 565 185 233 849 999 74 15 339 758 175 99 858 160 783 
+player 265 draws a 416 from deck 265
+player 265 discards a 875 to deck 266
+player 265 current hand : 993 894 415 499 822 565 185 233 849 999 74 15 339 758 175 99 858 160 783 416 
+player 265 draws a 971 from deck 265
+player 265 discards a 993 to deck 266
+player 265 current hand : 894 415 499 822 565 185 233 849 999 74 15 339 758 175 99 858 160 783 416 971 
+player 265 draws a 669 from deck 265
+player 265 discards a 894 to deck 266
+player 265 current hand : 415 499 822 565 185 233 849 999 74 15 339 758 175 99 858 160 783 416 971 669 
+player 265 draws a 765 from deck 265
+player 265 discards a 415 to deck 266
+player 265 current hand : 499 822 565 185 233 849 999 74 15 339 758 175 99 858 160 783 416 971 669 765 
+player 265 draws a 861 from deck 265
+player 265 discards a 499 to deck 266
+player 265 current hand : 822 565 185 233 849 999 74 15 339 758 175 99 858 160 783 416 971 669 765 861 
+player 265 draws a 820 from deck 265
+player 265 discards a 822 to deck 266
+player 265 current hand : 565 185 233 849 999 74 15 339 758 175 99 858 160 783 416 971 669 765 861 820 
+player 265 draws a 691 from deck 265
+player 265 discards a 565 to deck 266
+player 265 current hand : 185 233 849 999 74 15 339 758 175 99 858 160 783 416 971 669 765 861 820 691 
+player 265 draws a 758 from deck 265
+player 265 discards a 185 to deck 266
+player 265 current hand : 233 849 999 74 15 339 758 175 99 858 160 783 416 971 669 765 861 820 691 758 
+player 265 draws a 60 from deck 265
+player 265 discards a 233 to deck 266
+player 265 current hand : 849 999 74 15 339 758 175 99 858 160 783 416 971 669 765 861 820 691 758 60 
+player 265 draws a 612 from deck 265
+player 265 discards a 849 to deck 266
+player 265 current hand : 999 74 15 339 758 175 99 858 160 783 416 971 669 765 861 820 691 758 60 612 
+player 265 draws a 861 from deck 265
+player 265 discards a 999 to deck 266
+player 265 current hand : 74 15 339 758 175 99 858 160 783 416 971 669 765 861 820 691 758 60 612 861 
+player 265 draws a 765 from deck 265
+player 265 discards a 74 to deck 266
+player 265 current hand : 15 339 758 175 99 858 160 783 416 971 669 765 861 820 691 758 60 612 861 765 
+player 265 draws a 258 from deck 265
+player 265 discards a 15 to deck 266
+player 265 current hand : 339 758 175 99 858 160 783 416 971 669 765 861 820 691 758 60 612 861 765 258 
+player 265 draws a 164 from deck 265
+player 265 discards a 339 to deck 266
+player 265 current hand : 758 175 99 858 160 783 416 971 669 765 861 820 691 758 60 612 861 765 258 164 
+player 265 draws a 36 from deck 265
+player 265 discards a 758 to deck 266
+player 265 current hand : 175 99 858 160 783 416 971 669 765 861 820 691 758 60 612 861 765 258 164 36 
+player 265 draws a 964 from deck 265
+player 265 discards a 175 to deck 266
+player 265 current hand : 99 858 160 783 416 971 669 765 861 820 691 758 60 612 861 765 258 164 36 964 
+player 265 draws a 826 from deck 265
+player 265 discards a 99 to deck 266
+player 265 current hand : 858 160 783 416 971 669 765 861 820 691 758 60 612 861 765 258 164 36 964 826 
+player 265 draws a 599 from deck 265
+player 265 discards a 858 to deck 266
+player 265 current hand : 160 783 416 971 669 765 861 820 691 758 60 612 861 765 258 164 36 964 826 599 
+player 265 draws a 115 from deck 265
+player 265 discards a 160 to deck 266
+player 265 current hand : 783 416 971 669 765 861 820 691 758 60 612 861 765 258 164 36 964 826 599 115 
+player 265 draws a 160 from deck 265
+player 265 discards a 783 to deck 266
+player 265 current hand : 416 971 669 765 861 820 691 758 60 612 861 765 258 164 36 964 826 599 115 160 
+player 265 draws a 589 from deck 265
+player 265 discards a 416 to deck 266
+player 265 current hand : 971 669 765 861 820 691 758 60 612 861 765 258 164 36 964 826 599 115 160 589 
+player 265 draws a 476 from deck 265
+player 265 discards a 971 to deck 266
+player 265 current hand : 669 765 861 820 691 758 60 612 861 765 258 164 36 964 826 599 115 160 589 476 
+player 265 draws a 377 from deck 265
+player 265 discards a 669 to deck 266
+player 265 current hand : 765 861 820 691 758 60 612 861 765 258 164 36 964 826 599 115 160 589 476 377 
+player 265 draws a 595 from deck 265
+player 265 discards a 765 to deck 266
+player 265 current hand : 861 820 691 758 60 612 861 765 258 164 36 964 826 599 115 160 589 476 377 595 
+player 265 draws a 972 from deck 265
+player 265 discards a 861 to deck 266
+player 265 current hand : 820 691 758 60 612 861 765 258 164 36 964 826 599 115 160 589 476 377 595 972 
+player 265 draws a 260 from deck 265
+player 265 discards a 820 to deck 266
+player 265 current hand : 691 758 60 612 861 765 258 164 36 964 826 599 115 160 589 476 377 595 972 260 
+player 265 draws a 223 from deck 265
+player 265 discards a 691 to deck 266
+player 265 current hand : 758 60 612 861 765 258 164 36 964 826 599 115 160 589 476 377 595 972 260 223 
+player 265 draws a 114 from deck 265
+player 265 discards a 758 to deck 266
+player 265 current hand : 60 612 861 765 258 164 36 964 826 599 115 160 589 476 377 595 972 260 223 114 
+player 265 draws a 341 from deck 265
+player 265 discards a 60 to deck 266
+player 265 current hand : 612 861 765 258 164 36 964 826 599 115 160 589 476 377 595 972 260 223 114 341 
+player 265 draws a 586 from deck 265
+player 265 discards a 612 to deck 266
+player 265 current hand : 861 765 258 164 36 964 826 599 115 160 589 476 377 595 972 260 223 114 341 586 
+player 265 draws a 22 from deck 265
+player 265 discards a 861 to deck 266
+player 265 current hand : 765 258 164 36 964 826 599 115 160 589 476 377 595 972 260 223 114 341 586 22 
+player 265 draws a 899 from deck 265
+player 265 discards a 765 to deck 266
+player 265 current hand : 258 164 36 964 826 599 115 160 589 476 377 595 972 260 223 114 341 586 22 899 
+player 265 draws a 485 from deck 265
+player 265 discards a 258 to deck 266
+player 265 current hand : 164 36 964 826 599 115 160 589 476 377 595 972 260 223 114 341 586 22 899 485 
+player 265 draws a 210 from deck 265
+player 265 discards a 164 to deck 266
+player 265 current hand : 36 964 826 599 115 160 589 476 377 595 972 260 223 114 341 586 22 899 485 210 
+player 265 draws a 38 from deck 265
+player 265 discards a 36 to deck 266
+player 265 current hand : 964 826 599 115 160 589 476 377 595 972 260 223 114 341 586 22 899 485 210 38 
+player 265 draws a 537 from deck 265
+player 265 discards a 964 to deck 266
+player 265 current hand : 826 599 115 160 589 476 377 595 972 260 223 114 341 586 22 899 485 210 38 537 
+player 265 draws a 731 from deck 265
+player 265 discards a 826 to deck 266
+player 265 current hand : 599 115 160 589 476 377 595 972 260 223 114 341 586 22 899 485 210 38 537 731 
+player 265 draws a 622 from deck 265
+player 265 discards a 599 to deck 266
+player 265 current hand : 115 160 589 476 377 595 972 260 223 114 341 586 22 899 485 210 38 537 731 622 
+player 265 draws a 224 from deck 265
+player 265 discards a 115 to deck 266
+player 265 current hand : 160 589 476 377 595 972 260 223 114 341 586 22 899 485 210 38 537 731 622 224 
+player 265 draws a 303 from deck 265
+player 265 discards a 160 to deck 266
+player 265 current hand : 589 476 377 595 972 260 223 114 341 586 22 899 485 210 38 537 731 622 224 303 
+player 265 draws a 745 from deck 265
+player 265 discards a 589 to deck 266
+player 265 current hand : 476 377 595 972 260 223 114 341 586 22 899 485 210 38 537 731 622 224 303 745 
+player 265 draws a 378 from deck 265
+player 265 discards a 476 to deck 266
+player 265 current hand : 377 595 972 260 223 114 341 586 22 899 485 210 38 537 731 622 224 303 745 378 
+player 265 draws a 83 from deck 265
+player 265 discards a 377 to deck 266
+player 265 current hand : 595 972 260 223 114 341 586 22 899 485 210 38 537 731 622 224 303 745 378 83 
+player 265 draws a 415 from deck 265
+player 265 discards a 595 to deck 266
+player 265 current hand : 972 260 223 114 341 586 22 899 485 210 38 537 731 622 224 303 745 378 83 415 
+player 265 draws a 635 from deck 265
+player 265 discards a 972 to deck 266
+player 265 current hand : 260 223 114 341 586 22 899 485 210 38 537 731 622 224 303 745 378 83 415 635 
+player 265 draws a 780 from deck 265
+player 265 discards a 260 to deck 266
+player 265 current hand : 223 114 341 586 22 899 485 210 38 537 731 622 224 303 745 378 83 415 635 780 
+player 265 draws a 870 from deck 265
+player 265 discards a 223 to deck 266
+player 265 current hand : 114 341 586 22 899 485 210 38 537 731 622 224 303 745 378 83 415 635 780 870 
+player 265 draws a 670 from deck 265
+player 265 discards a 114 to deck 266
+player 265 current hand : 341 586 22 899 485 210 38 537 731 622 224 303 745 378 83 415 635 780 870 670 
+player 265 draws a 787 from deck 265
+player 265 discards a 341 to deck 266
+player 265 current hand : 586 22 899 485 210 38 537 731 622 224 303 745 378 83 415 635 780 870 670 787 
+player 265 draws a 181 from deck 265
+player 265 discards a 586 to deck 266
+player 265 current hand : 22 899 485 210 38 537 731 622 224 303 745 378 83 415 635 780 870 670 787 181 
+player 265 draws a 901 from deck 265
+player 265 discards a 22 to deck 266
+player 265 current hand : 899 485 210 38 537 731 622 224 303 745 378 83 415 635 780 870 670 787 181 901 
+player 265 draws a 224 from deck 265
+player 265 discards a 899 to deck 266
+player 265 current hand : 485 210 38 537 731 622 224 303 745 378 83 415 635 780 870 670 787 181 901 224 
+player 265 draws a 754 from deck 265
+player 265 discards a 485 to deck 266
+player 265 current hand : 210 38 537 731 622 224 303 745 378 83 415 635 780 870 670 787 181 901 224 754 
+player 265 draws a 152 from deck 265
+player 265 discards a 210 to deck 266
+player 265 current hand : 38 537 731 622 224 303 745 378 83 415 635 780 870 670 787 181 901 224 754 152 
+player 265 draws a 322 from deck 265
+player 265 discards a 38 to deck 266
+player 265 current hand : 537 731 622 224 303 745 378 83 415 635 780 870 670 787 181 901 224 754 152 322 
+player 265 draws a 852 from deck 265
+player 265 discards a 537 to deck 266
+player 265 current hand : 731 622 224 303 745 378 83 415 635 780 870 670 787 181 901 224 754 152 322 852 
+player 265 draws a 938 from deck 265
+player 265 discards a 731 to deck 266
+player 265 current hand : 622 224 303 745 378 83 415 635 780 870 670 787 181 901 224 754 152 322 852 938 
+player 265 draws a 297 from deck 265
+player 265 discards a 622 to deck 266
+player 265 current hand : 224 303 745 378 83 415 635 780 870 670 787 181 901 224 754 152 322 852 938 297 
+player 265 draws a 448 from deck 265
+player 265 discards a 224 to deck 266
+player 265 current hand : 303 745 378 83 415 635 780 870 670 787 181 901 224 754 152 322 852 938 297 448 
+player 265 draws a 161 from deck 265
+player 265 discards a 303 to deck 266
+player 265 current hand : 745 378 83 415 635 780 870 670 787 181 901 224 754 152 322 852 938 297 448 161 
+player 265 draws a 224 from deck 265
+player 265 discards a 745 to deck 266
+player 265 current hand : 378 83 415 635 780 870 670 787 181 901 224 754 152 322 852 938 297 448 161 224 
+player 265 draws a 337 from deck 265
+player 265 discards a 378 to deck 266
+player 265 current hand : 83 415 635 780 870 670 787 181 901 224 754 152 322 852 938 297 448 161 224 337 
+player 265 draws a 44 from deck 265
+player 265 discards a 83 to deck 266
+player 265 current hand : 415 635 780 870 670 787 181 901 224 754 152 322 852 938 297 448 161 224 337 44 
+player 265 draws a 589 from deck 265
+player 265 discards a 415 to deck 266
+player 265 current hand : 635 780 870 670 787 181 901 224 754 152 322 852 938 297 448 161 224 337 44 589 
+player 265 draws a 156 from deck 265
+player 265 discards a 635 to deck 266
+player 265 current hand : 780 870 670 787 181 901 224 754 152 322 852 938 297 448 161 224 337 44 589 156 
+player 265 draws a 970 from deck 265
+player 265 discards a 780 to deck 266

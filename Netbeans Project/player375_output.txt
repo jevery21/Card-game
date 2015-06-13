@@ -1,0 +1,326 @@
+player 375 initial hand 16 720 428 815 726 83 359 466 86 729 170 906 878 588 483 819 880 183 971 855 
+player 375 draws a 955 from deck 375
+player 375 discards a 16 to deck 376
+player 375 current hand : 720 428 815 726 83 359 466 86 729 170 906 878 588 483 819 880 183 971 855 955 
+player 375 draws a 702 from deck 375
+player 375 discards a 720 to deck 376
+player 375 current hand : 428 815 726 83 359 466 86 729 170 906 878 588 483 819 880 183 971 855 955 702 
+player 375 draws a 969 from deck 375
+player 375 discards a 428 to deck 376
+player 375 current hand : 815 726 83 359 466 86 729 170 906 878 588 483 819 880 183 971 855 955 702 969 
+player 375 draws a 880 from deck 375
+player 375 discards a 815 to deck 376
+player 375 current hand : 726 83 359 466 86 729 170 906 878 588 483 819 880 183 971 855 955 702 969 880 
+player 375 draws a 654 from deck 375
+player 375 discards a 726 to deck 376
+player 375 current hand : 83 359 466 86 729 170 906 878 588 483 819 880 183 971 855 955 702 969 880 654 
+player 375 draws a 19 from deck 375
+player 375 discards a 83 to deck 376
+player 375 current hand : 359 466 86 729 170 906 878 588 483 819 880 183 971 855 955 702 969 880 654 19 
+player 375 draws a 778 from deck 375
+player 375 discards a 359 to deck 376
+player 375 current hand : 466 86 729 170 906 878 588 483 819 880 183 971 855 955 702 969 880 654 19 778 
+player 375 draws a 249 from deck 375
+player 375 discards a 466 to deck 376
+player 375 current hand : 86 729 170 906 878 588 483 819 880 183 971 855 955 702 969 880 654 19 778 249 
+player 375 draws a 574 from deck 375
+player 375 discards a 86 to deck 376
+player 375 current hand : 729 170 906 878 588 483 819 880 183 971 855 955 702 969 880 654 19 778 249 574 
+player 375 draws a 508 from deck 375
+player 375 discards a 729 to deck 376
+player 375 current hand : 170 906 878 588 483 819 880 183 971 855 955 702 969 880 654 19 778 249 574 508 
+player 375 draws a 54 from deck 375
+player 375 discards a 170 to deck 376
+player 375 current hand : 906 878 588 483 819 880 183 971 855 955 702 969 880 654 19 778 249 574 508 54 
+player 375 draws a 216 from deck 375
+player 375 discards a 906 to deck 376
+player 375 current hand : 878 588 483 819 880 183 971 855 955 702 969 880 654 19 778 249 574 508 54 216 
+player 375 draws a 928 from deck 375
+player 375 discards a 878 to deck 376
+player 375 current hand : 588 483 819 880 183 971 855 955 702 969 880 654 19 778 249 574 508 54 216 928 
+player 375 draws a 33 from deck 375
+player 375 discards a 588 to deck 376
+player 375 current hand : 483 819 880 183 971 855 955 702 969 880 654 19 778 249 574 508 54 216 928 33 
+player 375 draws a 369 from deck 375
+player 375 discards a 483 to deck 376
+player 375 current hand : 819 880 183 971 855 955 702 969 880 654 19 778 249 574 508 54 216 928 33 369 
+player 375 draws a 174 from deck 375
+player 375 discards a 819 to deck 376
+player 375 current hand : 880 183 971 855 955 702 969 880 654 19 778 249 574 508 54 216 928 33 369 174 
+player 375 draws a 559 from deck 375
+player 375 discards a 880 to deck 376
+player 375 current hand : 183 971 855 955 702 969 880 654 19 778 249 574 508 54 216 928 33 369 174 559 
+player 375 draws a 737 from deck 375
+player 375 discards a 183 to deck 376
+player 375 current hand : 971 855 955 702 969 880 654 19 778 249 574 508 54 216 928 33 369 174 559 737 
+player 375 draws a 729 from deck 375
+player 375 discards a 971 to deck 376
+player 375 current hand : 855 955 702 969 880 654 19 778 249 574 508 54 216 928 33 369 174 559 737 729 
+player 375 draws a 737 from deck 375
+player 375 discards a 855 to deck 376
+player 375 current hand : 955 702 969 880 654 19 778 249 574 508 54 216 928 33 369 174 559 737 729 737 
+player 375 draws a 834 from deck 375
+player 375 discards a 955 to deck 376
+player 375 current hand : 702 969 880 654 19 778 249 574 508 54 216 928 33 369 174 559 737 729 737 834 
+player 375 draws a 415 from deck 375
+player 375 discards a 702 to deck 376
+player 375 current hand : 969 880 654 19 778 249 574 508 54 216 928 33 369 174 559 737 729 737 834 415 
+player 375 draws a 337 from deck 375
+player 375 discards a 969 to deck 376
+player 375 current hand : 880 654 19 778 249 574 508 54 216 928 33 369 174 559 737 729 737 834 415 337 
+player 375 draws a 598 from deck 375
+player 375 discards a 880 to deck 376
+player 375 current hand : 654 19 778 249 574 508 54 216 928 33 369 174 559 737 729 737 834 415 337 598 
+player 375 draws a 930 from deck 375
+player 375 discards a 654 to deck 376
+player 375 current hand : 19 778 249 574 508 54 216 928 33 369 174 559 737 729 737 834 415 337 598 930 
+player 375 draws a 342 from deck 375
+player 375 discards a 19 to deck 376
+player 375 current hand : 778 249 574 508 54 216 928 33 369 174 559 737 729 737 834 415 337 598 930 342 
+player 375 draws a 941 from deck 375
+player 375 discards a 778 to deck 376
+player 375 current hand : 249 574 508 54 216 928 33 369 174 559 737 729 737 834 415 337 598 930 342 941 
+player 375 draws a 618 from deck 375
+player 375 discards a 249 to deck 376
+player 375 current hand : 574 508 54 216 928 33 369 174 559 737 729 737 834 415 337 598 930 342 941 618 
+player 375 draws a 546 from deck 375
+player 375 discards a 574 to deck 376
+player 375 current hand : 508 54 216 928 33 369 174 559 737 729 737 834 415 337 598 930 342 941 618 546 
+player 375 draws a 305 from deck 375
+player 375 discards a 508 to deck 376
+player 375 current hand : 54 216 928 33 369 174 559 737 729 737 834 415 337 598 930 342 941 618 546 305 
+player 375 draws a 45 from deck 375
+player 375 discards a 54 to deck 376
+player 375 current hand : 216 928 33 369 174 559 737 729 737 834 415 337 598 930 342 941 618 546 305 45 
+player 375 draws a 971 from deck 375
+player 375 discards a 216 to deck 376
+player 375 current hand : 928 33 369 174 559 737 729 737 834 415 337 598 930 342 941 618 546 305 45 971 
+player 375 draws a 222 from deck 375
+player 375 discards a 928 to deck 376
+player 375 current hand : 33 369 174 559 737 729 737 834 415 337 598 930 342 941 618 546 305 45 971 222 
+player 375 draws a 845 from deck 375
+player 375 discards a 33 to deck 376
+player 375 current hand : 369 174 559 737 729 737 834 415 337 598 930 342 941 618 546 305 45 971 222 845 
+player 375 draws a 267 from deck 375
+player 375 discards a 369 to deck 376
+player 375 current hand : 174 559 737 729 737 834 415 337 598 930 342 941 618 546 305 45 971 222 845 267 
+player 375 draws a 792 from deck 375
+player 375 discards a 174 to deck 376
+player 375 current hand : 559 737 729 737 834 415 337 598 930 342 941 618 546 305 45 971 222 845 267 792 
+player 375 draws a 38 from deck 375
+player 375 discards a 559 to deck 376
+player 375 current hand : 737 729 737 834 415 337 598 930 342 941 618 546 305 45 971 222 845 267 792 38 
+player 375 draws a 137 from deck 375
+player 375 discards a 737 to deck 376
+player 375 current hand : 729 737 834 415 337 598 930 342 941 618 546 305 45 971 222 845 267 792 38 137 
+player 375 draws a 519 from deck 375
+player 375 discards a 729 to deck 376
+player 375 current hand : 737 834 415 337 598 930 342 941 618 546 305 45 971 222 845 267 792 38 137 519 
+player 375 draws a 418 from deck 375
+player 375 discards a 737 to deck 376
+player 375 current hand : 834 415 337 598 930 342 941 618 546 305 45 971 222 845 267 792 38 137 519 418 
+player 375 draws a 426 from deck 375
+player 375 discards a 834 to deck 376
+player 375 current hand : 415 337 598 930 342 941 618 546 305 45 971 222 845 267 792 38 137 519 418 426 
+player 375 draws a 868 from deck 375
+player 375 discards a 415 to deck 376
+player 375 current hand : 337 598 930 342 941 618 546 305 45 971 222 845 267 792 38 137 519 418 426 868 
+player 375 draws a 901 from deck 375
+player 375 discards a 337 to deck 376
+player 375 current hand : 598 930 342 941 618 546 305 45 971 222 845 267 792 38 137 519 418 426 868 901 
+player 375 draws a 642 from deck 375
+player 375 discards a 598 to deck 376
+player 375 current hand : 930 342 941 618 546 305 45 971 222 845 267 792 38 137 519 418 426 868 901 642 
+player 375 draws a 699 from deck 375
+player 375 discards a 930 to deck 376
+player 375 current hand : 342 941 618 546 305 45 971 222 845 267 792 38 137 519 418 426 868 901 642 699 
+player 375 draws a 49 from deck 375
+player 375 discards a 342 to deck 376
+player 375 current hand : 941 618 546 305 45 971 222 845 267 792 38 137 519 418 426 868 901 642 699 49 
+player 375 draws a 464 from deck 375
+player 375 discards a 941 to deck 376
+player 375 current hand : 618 546 305 45 971 222 845 267 792 38 137 519 418 426 868 901 642 699 49 464 
+player 375 draws a 10 from deck 375
+player 375 discards a 618 to deck 376
+player 375 current hand : 546 305 45 971 222 845 267 792 38 137 519 418 426 868 901 642 699 49 464 10 
+player 375 draws a 787 from deck 375
+player 375 discards a 546 to deck 376
+player 375 current hand : 305 45 971 222 845 267 792 38 137 519 418 426 868 901 642 699 49 464 10 787 
+player 375 draws a 47 from deck 375
+player 375 discards a 305 to deck 376
+player 375 current hand : 45 971 222 845 267 792 38 137 519 418 426 868 901 642 699 49 464 10 787 47 
+player 375 draws a 78 from deck 375
+player 375 discards a 45 to deck 376
+player 375 current hand : 971 222 845 267 792 38 137 519 418 426 868 901 642 699 49 464 10 787 47 78 
+player 375 draws a 173 from deck 375
+player 375 discards a 971 to deck 376
+player 375 current hand : 222 845 267 792 38 137 519 418 426 868 901 642 699 49 464 10 787 47 78 173 
+player 375 draws a 31 from deck 375
+player 375 discards a 222 to deck 376
+player 375 current hand : 845 267 792 38 137 519 418 426 868 901 642 699 49 464 10 787 47 78 173 31 
+player 375 draws a 457 from deck 375
+player 375 discards a 845 to deck 376
+player 375 current hand : 267 792 38 137 519 418 426 868 901 642 699 49 464 10 787 47 78 173 31 457 
+player 375 draws a 738 from deck 375
+player 375 discards a 267 to deck 376
+player 375 current hand : 792 38 137 519 418 426 868 901 642 699 49 464 10 787 47 78 173 31 457 738 
+player 375 draws a 557 from deck 375
+player 375 discards a 792 to deck 376
+player 375 current hand : 38 137 519 418 426 868 901 642 699 49 464 10 787 47 78 173 31 457 738 557 
+player 375 draws a 713 from deck 375
+player 375 discards a 38 to deck 376
+player 375 current hand : 137 519 418 426 868 901 642 699 49 464 10 787 47 78 173 31 457 738 557 713 
+player 375 draws a 771 from deck 375
+player 375 discards a 137 to deck 376
+player 375 current hand : 519 418 426 868 901 642 699 49 464 10 787 47 78 173 31 457 738 557 713 771 
+player 375 draws a 957 from deck 375
+player 375 discards a 519 to deck 376
+player 375 current hand : 418 426 868 901 642 699 49 464 10 787 47 78 173 31 457 738 557 713 771 957 
+player 375 draws a 885 from deck 375
+player 375 discards a 418 to deck 376
+player 375 current hand : 426 868 901 642 699 49 464 10 787 47 78 173 31 457 738 557 713 771 957 885 
+player 375 draws a 24 from deck 375
+player 375 discards a 426 to deck 376
+player 375 current hand : 868 901 642 699 49 464 10 787 47 78 173 31 457 738 557 713 771 957 885 24 
+player 375 draws a 814 from deck 375
+player 375 discards a 868 to deck 376
+player 375 current hand : 901 642 699 49 464 10 787 47 78 173 31 457 738 557 713 771 957 885 24 814 
+player 375 draws a 365 from deck 375
+player 375 discards a 901 to deck 376
+player 375 current hand : 642 699 49 464 10 787 47 78 173 31 457 738 557 713 771 957 885 24 814 365 
+player 375 draws a 604 from deck 375
+player 375 discards a 642 to deck 376
+player 375 current hand : 699 49 464 10 787 47 78 173 31 457 738 557 713 771 957 885 24 814 365 604 
+player 375 draws a 933 from deck 375
+player 375 discards a 699 to deck 376
+player 375 current hand : 49 464 10 787 47 78 173 31 457 738 557 713 771 957 885 24 814 365 604 933 
+player 375 draws a 469 from deck 375
+player 375 discards a 49 to deck 376
+player 375 current hand : 464 10 787 47 78 173 31 457 738 557 713 771 957 885 24 814 365 604 933 469 
+player 375 draws a 242 from deck 375
+player 375 discards a 464 to deck 376
+player 375 current hand : 10 787 47 78 173 31 457 738 557 713 771 957 885 24 814 365 604 933 469 242 
+player 375 draws a 285 from deck 375
+player 375 discards a 10 to deck 376
+player 375 current hand : 787 47 78 173 31 457 738 557 713 771 957 885 24 814 365 604 933 469 242 285 
+player 375 draws a 830 from deck 375
+player 375 discards a 787 to deck 376
+player 375 current hand : 47 78 173 31 457 738 557 713 771 957 885 24 814 365 604 933 469 242 285 830 
+player 375 draws a 737 from deck 375
+player 375 discards a 47 to deck 376
+player 375 current hand : 78 173 31 457 738 557 713 771 957 885 24 814 365 604 933 469 242 285 830 737 
+player 375 draws a 913 from deck 375
+player 375 discards a 78 to deck 376
+player 375 current hand : 173 31 457 738 557 713 771 957 885 24 814 365 604 933 469 242 285 830 737 913 
+player 375 draws a 928 from deck 375
+player 375 discards a 173 to deck 376
+player 375 current hand : 31 457 738 557 713 771 957 885 24 814 365 604 933 469 242 285 830 737 913 928 
+player 375 draws a 622 from deck 375
+player 375 discards a 31 to deck 376
+player 375 current hand : 457 738 557 713 771 957 885 24 814 365 604 933 469 242 285 830 737 913 928 622 
+player 375 draws a 594 from deck 375
+player 375 discards a 457 to deck 376
+player 375 current hand : 738 557 713 771 957 885 24 814 365 604 933 469 242 285 830 737 913 928 622 594 
+player 375 draws a 156 from deck 375
+player 375 discards a 738 to deck 376
+player 375 current hand : 557 713 771 957 885 24 814 365 604 933 469 242 285 830 737 913 928 622 594 156 
+player 375 draws a 440 from deck 375
+player 375 discards a 557 to deck 376
+player 375 current hand : 713 771 957 885 24 814 365 604 933 469 242 285 830 737 913 928 622 594 156 440 
+player 375 draws a 524 from deck 375
+player 375 discards a 713 to deck 376
+player 375 current hand : 771 957 885 24 814 365 604 933 469 242 285 830 737 913 928 622 594 156 440 524 
+player 375 draws a 815 from deck 375
+player 375 discards a 771 to deck 376
+player 375 current hand : 957 885 24 814 365 604 933 469 242 285 830 737 913 928 622 594 156 440 524 815 
+player 375 draws a 826 from deck 375
+player 375 discards a 957 to deck 376
+player 375 current hand : 885 24 814 365 604 933 469 242 285 830 737 913 928 622 594 156 440 524 815 826 
+player 375 draws a 765 from deck 375
+player 375 discards a 885 to deck 376
+player 375 current hand : 24 814 365 604 933 469 242 285 830 737 913 928 622 594 156 440 524 815 826 765 
+player 375 draws a 985 from deck 375
+player 375 discards a 24 to deck 376
+player 375 current hand : 814 365 604 933 469 242 285 830 737 913 928 622 594 156 440 524 815 826 765 985 
+player 375 draws a 705 from deck 375
+player 375 discards a 814 to deck 376
+player 375 current hand : 365 604 933 469 242 285 830 737 913 928 622 594 156 440 524 815 826 765 985 705 
+player 375 draws a 452 from deck 375
+player 375 discards a 365 to deck 376
+player 375 current hand : 604 933 469 242 285 830 737 913 928 622 594 156 440 524 815 826 765 985 705 452 
+player 375 draws a 6 from deck 375
+player 375 discards a 604 to deck 376
+player 375 current hand : 933 469 242 285 830 737 913 928 622 594 156 440 524 815 826 765 985 705 452 6 
+player 375 draws a 815 from deck 375
+player 375 discards a 933 to deck 376
+player 375 current hand : 469 242 285 830 737 913 928 622 594 156 440 524 815 826 765 985 705 452 6 815 
+player 375 draws a 654 from deck 375
+player 375 discards a 469 to deck 376
+player 375 current hand : 242 285 830 737 913 928 622 594 156 440 524 815 826 765 985 705 452 6 815 654 
+player 375 draws a 860 from deck 375
+player 375 discards a 242 to deck 376
+player 375 current hand : 285 830 737 913 928 622 594 156 440 524 815 826 765 985 705 452 6 815 654 860 
+player 375 draws a 805 from deck 375
+player 375 discards a 285 to deck 376
+player 375 current hand : 830 737 913 928 622 594 156 440 524 815 826 765 985 705 452 6 815 654 860 805 
+player 375 draws a 740 from deck 375
+player 375 discards a 830 to deck 376
+player 375 current hand : 737 913 928 622 594 156 440 524 815 826 765 985 705 452 6 815 654 860 805 740 
+player 375 draws a 481 from deck 375
+player 375 discards a 737 to deck 376
+player 375 current hand : 913 928 622 594 156 440 524 815 826 765 985 705 452 6 815 654 860 805 740 481 
+player 375 draws a 507 from deck 375
+player 375 discards a 913 to deck 376
+player 375 current hand : 928 622 594 156 440 524 815 826 765 985 705 452 6 815 654 860 805 740 481 507 
+player 375 draws a 220 from deck 375
+player 375 discards a 928 to deck 376
+player 375 current hand : 622 594 156 440 524 815 826 765 985 705 452 6 815 654 860 805 740 481 507 220 
+player 375 draws a 838 from deck 375
+player 375 discards a 622 to deck 376
+player 375 current hand : 594 156 440 524 815 826 765 985 705 452 6 815 654 860 805 740 481 507 220 838 
+player 375 draws a 769 from deck 375
+player 375 discards a 594 to deck 376
+player 375 current hand : 156 440 524 815 826 765 985 705 452 6 815 654 860 805 740 481 507 220 838 769 
+player 375 draws a 158 from deck 375
+player 375 discards a 156 to deck 376
+player 375 current hand : 440 524 815 826 765 985 705 452 6 815 654 860 805 740 481 507 220 838 769 158 
+player 375 draws a 196 from deck 375
+player 375 discards a 440 to deck 376
+player 375 current hand : 524 815 826 765 985 705 452 6 815 654 860 805 740 481 507 220 838 769 158 196 
+player 375 draws a 78 from deck 375
+player 375 discards a 524 to deck 376
+player 375 current hand : 815 826 765 985 705 452 6 815 654 860 805 740 481 507 220 838 769 158 196 78 
+player 375 draws a 667 from deck 375
+player 375 discards a 815 to deck 376
+player 375 current hand : 826 765 985 705 452 6 815 654 860 805 740 481 507 220 838 769 158 196 78 667 
+player 375 draws a 920 from deck 375
+player 375 discards a 826 to deck 376
+player 375 current hand : 765 985 705 452 6 815 654 860 805 740 481 507 220 838 769 158 196 78 667 920 
+player 375 draws a 826 from deck 375
+player 375 discards a 765 to deck 376
+player 375 current hand : 985 705 452 6 815 654 860 805 740 481 507 220 838 769 158 196 78 667 920 826 
+player 375 draws a 820 from deck 375
+player 375 discards a 985 to deck 376
+player 375 current hand : 705 452 6 815 654 860 805 740 481 507 220 838 769 158 196 78 667 920 826 820 
+player 375 draws a 968 from deck 375
+player 375 discards a 705 to deck 376
+player 375 current hand : 452 6 815 654 860 805 740 481 507 220 838 769 158 196 78 667 920 826 820 968 
+player 375 draws a 562 from deck 375
+player 375 discards a 452 to deck 376
+player 375 current hand : 6 815 654 860 805 740 481 507 220 838 769 158 196 78 667 920 826 820 968 562 
+player 375 draws a 654 from deck 375
+player 375 discards a 6 to deck 376
+player 375 current hand : 815 654 860 805 740 481 507 220 838 769 158 196 78 667 920 826 820 968 562 654 
+player 375 draws a 176 from deck 375
+player 375 discards a 815 to deck 376
+player 375 current hand : 654 860 805 740 481 507 220 838 769 158 196 78 667 920 826 820 968 562 654 176 
+player 375 draws a 664 from deck 375
+player 375 discards a 654 to deck 376
+player 375 current hand : 860 805 740 481 507 220 838 769 158 196 78 667 920 826 820 968 562 654 176 664 
+player 375 draws a 160 from deck 375
+player 375 discards a 860 to deck 376
+player 375 current hand : 805 740 481 507 220 838 769 158 196 78 667 920 826 820 968 562 654 176 664 160 
+player 375 draws a 796 from deck 375
+player 375 discards a 805 to deck 376
+player 375 current hand : 740 481 507 220 838 769 158 196 78 667 920 826 820 968 562 654 176 664 160 796 
+player 375 draws a 33 from deck 375

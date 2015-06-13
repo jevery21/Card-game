@@ -1,0 +1,314 @@
+player 1000 initial hand 993 168 355 633 537 142 289 399 103 422 403 189 448 643 655 944 120 202 470 481 
+player 1000 draws a 831 from deck 1000
+player 1000 discards a 993 to deck 1
+player 1000 current hand : 168 355 633 537 142 289 399 103 422 403 189 448 643 655 944 120 202 470 481 831 
+player 1000 draws a 105 from deck 1000
+player 1000 discards a 168 to deck 1
+player 1000 current hand : 355 633 537 142 289 399 103 422 403 189 448 643 655 944 120 202 470 481 831 105 
+player 1000 draws a 919 from deck 1000
+player 1000 discards a 355 to deck 1
+player 1000 current hand : 633 537 142 289 399 103 422 403 189 448 643 655 944 120 202 470 481 831 105 919 
+player 1000 draws a 970 from deck 1000
+player 1000 discards a 633 to deck 1
+player 1000 current hand : 537 142 289 399 103 422 403 189 448 643 655 944 120 202 470 481 831 105 919 970 
+player 1000 draws a 979 from deck 1000
+player 1000 discards a 537 to deck 1
+player 1000 current hand : 142 289 399 103 422 403 189 448 643 655 944 120 202 470 481 831 105 919 970 979 
+player 1000 draws a 61 from deck 1000
+player 1000 discards a 142 to deck 1
+player 1000 current hand : 289 399 103 422 403 189 448 643 655 944 120 202 470 481 831 105 919 970 979 61 
+player 1000 draws a 86 from deck 1000
+player 1000 discards a 289 to deck 1
+player 1000 current hand : 399 103 422 403 189 448 643 655 944 120 202 470 481 831 105 919 970 979 61 86 
+player 1000 draws a 425 from deck 1000
+player 1000 discards a 399 to deck 1
+player 1000 current hand : 103 422 403 189 448 643 655 944 120 202 470 481 831 105 919 970 979 61 86 425 
+player 1000 draws a 746 from deck 1000
+player 1000 discards a 103 to deck 1
+player 1000 current hand : 422 403 189 448 643 655 944 120 202 470 481 831 105 919 970 979 61 86 425 746 
+player 1000 draws a 81 from deck 1000
+player 1000 discards a 422 to deck 1
+player 1000 current hand : 403 189 448 643 655 944 120 202 470 481 831 105 919 970 979 61 86 425 746 81 
+player 1000 draws a 499 from deck 1000
+player 1000 discards a 403 to deck 1
+player 1000 current hand : 189 448 643 655 944 120 202 470 481 831 105 919 970 979 61 86 425 746 81 499 
+player 1000 draws a 731 from deck 1000
+player 1000 discards a 189 to deck 1
+player 1000 current hand : 448 643 655 944 120 202 470 481 831 105 919 970 979 61 86 425 746 81 499 731 
+player 1000 draws a 877 from deck 1000
+player 1000 discards a 448 to deck 1
+player 1000 current hand : 643 655 944 120 202 470 481 831 105 919 970 979 61 86 425 746 81 499 731 877 
+player 1000 draws a 854 from deck 1000
+player 1000 discards a 643 to deck 1
+player 1000 current hand : 655 944 120 202 470 481 831 105 919 970 979 61 86 425 746 81 499 731 877 854 
+player 1000 draws a 518 from deck 1000
+player 1000 discards a 655 to deck 1
+player 1000 current hand : 944 120 202 470 481 831 105 919 970 979 61 86 425 746 81 499 731 877 854 518 
+player 1000 draws a 238 from deck 1000
+player 1000 discards a 944 to deck 1
+player 1000 current hand : 120 202 470 481 831 105 919 970 979 61 86 425 746 81 499 731 877 854 518 238 
+player 1000 draws a 603 from deck 1000
+player 1000 discards a 120 to deck 1
+player 1000 current hand : 202 470 481 831 105 919 970 979 61 86 425 746 81 499 731 877 854 518 238 603 
+player 1000 draws a 373 from deck 1000
+player 1000 discards a 202 to deck 1
+player 1000 current hand : 470 481 831 105 919 970 979 61 86 425 746 81 499 731 877 854 518 238 603 373 
+player 1000 draws a 73 from deck 1000
+player 1000 discards a 470 to deck 1
+player 1000 current hand : 481 831 105 919 970 979 61 86 425 746 81 499 731 877 854 518 238 603 373 73 
+player 1000 draws a 973 from deck 1000
+player 1000 discards a 481 to deck 1
+player 1000 current hand : 831 105 919 970 979 61 86 425 746 81 499 731 877 854 518 238 603 373 73 973 
+player 1000 draws a 579 from deck 1000
+player 1000 discards a 831 to deck 1
+player 1000 current hand : 105 919 970 979 61 86 425 746 81 499 731 877 854 518 238 603 373 73 973 579 
+player 1000 draws a 31 from deck 1000
+player 1000 discards a 105 to deck 1
+player 1000 current hand : 919 970 979 61 86 425 746 81 499 731 877 854 518 238 603 373 73 973 579 31 
+player 1000 draws a 91 from deck 1000
+player 1000 discards a 919 to deck 1
+player 1000 current hand : 970 979 61 86 425 746 81 499 731 877 854 518 238 603 373 73 973 579 31 91 
+player 1000 draws a 93 from deck 1000
+player 1000 discards a 970 to deck 1
+player 1000 current hand : 979 61 86 425 746 81 499 731 877 854 518 238 603 373 73 973 579 31 91 93 
+player 1000 draws a 738 from deck 1000
+player 1000 discards a 979 to deck 1
+player 1000 current hand : 61 86 425 746 81 499 731 877 854 518 238 603 373 73 973 579 31 91 93 738 
+player 1000 draws a 149 from deck 1000
+player 1000 discards a 61 to deck 1
+player 1000 current hand : 86 425 746 81 499 731 877 854 518 238 603 373 73 973 579 31 91 93 738 149 
+player 1000 draws a 587 from deck 1000
+player 1000 discards a 86 to deck 1
+player 1000 current hand : 425 746 81 499 731 877 854 518 238 603 373 73 973 579 31 91 93 738 149 587 
+player 1000 draws a 37 from deck 1000
+player 1000 discards a 425 to deck 1
+player 1000 current hand : 746 81 499 731 877 854 518 238 603 373 73 973 579 31 91 93 738 149 587 37 
+player 1000 draws a 339 from deck 1000
+player 1000 discards a 746 to deck 1
+player 1000 current hand : 81 499 731 877 854 518 238 603 373 73 973 579 31 91 93 738 149 587 37 339 
+player 1000 draws a 389 from deck 1000
+player 1000 discards a 81 to deck 1
+player 1000 current hand : 499 731 877 854 518 238 603 373 73 973 579 31 91 93 738 149 587 37 339 389 
+player 1000 draws a 950 from deck 1000
+player 1000 discards a 499 to deck 1
+player 1000 current hand : 731 877 854 518 238 603 373 73 973 579 31 91 93 738 149 587 37 339 389 950 
+player 1000 draws a 277 from deck 1000
+player 1000 discards a 731 to deck 1
+player 1000 current hand : 877 854 518 238 603 373 73 973 579 31 91 93 738 149 587 37 339 389 950 277 
+player 1000 draws a 595 from deck 1000
+player 1000 discards a 877 to deck 1
+player 1000 current hand : 854 518 238 603 373 73 973 579 31 91 93 738 149 587 37 339 389 950 277 595 
+player 1000 draws a 72 from deck 1000
+player 1000 discards a 854 to deck 1
+player 1000 current hand : 518 238 603 373 73 973 579 31 91 93 738 149 587 37 339 389 950 277 595 72 
+player 1000 draws a 214 from deck 1000
+player 1000 discards a 518 to deck 1
+player 1000 current hand : 238 603 373 73 973 579 31 91 93 738 149 587 37 339 389 950 277 595 72 214 
+player 1000 draws a 403 from deck 1000
+player 1000 discards a 238 to deck 1
+player 1000 current hand : 603 373 73 973 579 31 91 93 738 149 587 37 339 389 950 277 595 72 214 403 
+player 1000 draws a 730 from deck 1000
+player 1000 discards a 603 to deck 1
+player 1000 current hand : 373 73 973 579 31 91 93 738 149 587 37 339 389 950 277 595 72 214 403 730 
+player 1000 draws a 931 from deck 1000
+player 1000 discards a 373 to deck 1
+player 1000 current hand : 73 973 579 31 91 93 738 149 587 37 339 389 950 277 595 72 214 403 730 931 
+player 1000 draws a 284 from deck 1000
+player 1000 discards a 73 to deck 1
+player 1000 current hand : 973 579 31 91 93 738 149 587 37 339 389 950 277 595 72 214 403 730 931 284 
+player 1000 draws a 111 from deck 1000
+player 1000 discards a 973 to deck 1
+player 1000 current hand : 579 31 91 93 738 149 587 37 339 389 950 277 595 72 214 403 730 931 284 111 
+player 1000 draws a 589 from deck 1000
+player 1000 discards a 579 to deck 1
+player 1000 current hand : 31 91 93 738 149 587 37 339 389 950 277 595 72 214 403 730 931 284 111 589 
+player 1000 draws a 182 from deck 1000
+player 1000 discards a 31 to deck 1
+player 1000 current hand : 91 93 738 149 587 37 339 389 950 277 595 72 214 403 730 931 284 111 589 182 
+player 1000 draws a 913 from deck 1000
+player 1000 discards a 91 to deck 1
+player 1000 current hand : 93 738 149 587 37 339 389 950 277 595 72 214 403 730 931 284 111 589 182 913 
+player 1000 draws a 275 from deck 1000
+player 1000 discards a 93 to deck 1
+player 1000 current hand : 738 149 587 37 339 389 950 277 595 72 214 403 730 931 284 111 589 182 913 275 
+player 1000 draws a 537 from deck 1000
+player 1000 discards a 738 to deck 1
+player 1000 current hand : 149 587 37 339 389 950 277 595 72 214 403 730 931 284 111 589 182 913 275 537 
+player 1000 draws a 693 from deck 1000
+player 1000 discards a 149 to deck 1
+player 1000 current hand : 587 37 339 389 950 277 595 72 214 403 730 931 284 111 589 182 913 275 537 693 
+player 1000 draws a 341 from deck 1000
+player 1000 discards a 587 to deck 1
+player 1000 current hand : 37 339 389 950 277 595 72 214 403 730 931 284 111 589 182 913 275 537 693 341 
+player 1000 draws a 40 from deck 1000
+player 1000 discards a 37 to deck 1
+player 1000 current hand : 339 389 950 277 595 72 214 403 730 931 284 111 589 182 913 275 537 693 341 40 
+player 1000 draws a 251 from deck 1000
+player 1000 discards a 339 to deck 1
+player 1000 current hand : 389 950 277 595 72 214 403 730 931 284 111 589 182 913 275 537 693 341 40 251 
+player 1000 draws a 24 from deck 1000
+player 1000 discards a 389 to deck 1
+player 1000 current hand : 950 277 595 72 214 403 730 931 284 111 589 182 913 275 537 693 341 40 251 24 
+player 1000 draws a 643 from deck 1000
+player 1000 discards a 950 to deck 1
+player 1000 current hand : 277 595 72 214 403 730 931 284 111 589 182 913 275 537 693 341 40 251 24 643 
+player 1000 draws a 109 from deck 1000
+player 1000 discards a 277 to deck 1
+player 1000 current hand : 595 72 214 403 730 931 284 111 589 182 913 275 537 693 341 40 251 24 643 109 
+player 1000 draws a 28 from deck 1000
+player 1000 discards a 595 to deck 1
+player 1000 current hand : 72 214 403 730 931 284 111 589 182 913 275 537 693 341 40 251 24 643 109 28 
+player 1000 draws a 257 from deck 1000
+player 1000 discards a 72 to deck 1
+player 1000 current hand : 214 403 730 931 284 111 589 182 913 275 537 693 341 40 251 24 643 109 28 257 
+player 1000 draws a 497 from deck 1000
+player 1000 discards a 214 to deck 1
+player 1000 current hand : 403 730 931 284 111 589 182 913 275 537 693 341 40 251 24 643 109 28 257 497 
+player 1000 draws a 556 from deck 1000
+player 1000 discards a 403 to deck 1
+player 1000 current hand : 730 931 284 111 589 182 913 275 537 693 341 40 251 24 643 109 28 257 497 556 
+player 1000 draws a 415 from deck 1000
+player 1000 discards a 730 to deck 1
+player 1000 current hand : 931 284 111 589 182 913 275 537 693 341 40 251 24 643 109 28 257 497 556 415 
+player 1000 draws a 79 from deck 1000
+player 1000 discards a 931 to deck 1
+player 1000 current hand : 284 111 589 182 913 275 537 693 341 40 251 24 643 109 28 257 497 556 415 79 
+player 1000 draws a 222 from deck 1000
+player 1000 discards a 284 to deck 1
+player 1000 current hand : 111 589 182 913 275 537 693 341 40 251 24 643 109 28 257 497 556 415 79 222 
+player 1000 draws a 773 from deck 1000
+player 1000 discards a 111 to deck 1
+player 1000 current hand : 589 182 913 275 537 693 341 40 251 24 643 109 28 257 497 556 415 79 222 773 
+player 1000 draws a 62 from deck 1000
+player 1000 discards a 589 to deck 1
+player 1000 current hand : 182 913 275 537 693 341 40 251 24 643 109 28 257 497 556 415 79 222 773 62 
+player 1000 draws a 504 from deck 1000
+player 1000 discards a 182 to deck 1
+player 1000 current hand : 913 275 537 693 341 40 251 24 643 109 28 257 497 556 415 79 222 773 62 504 
+player 1000 draws a 721 from deck 1000
+player 1000 discards a 913 to deck 1
+player 1000 current hand : 275 537 693 341 40 251 24 643 109 28 257 497 556 415 79 222 773 62 504 721 
+player 1000 draws a 279 from deck 1000
+player 1000 discards a 275 to deck 1
+player 1000 current hand : 537 693 341 40 251 24 643 109 28 257 497 556 415 79 222 773 62 504 721 279 
+player 1000 draws a 249 from deck 1000
+player 1000 discards a 537 to deck 1
+player 1000 current hand : 693 341 40 251 24 643 109 28 257 497 556 415 79 222 773 62 504 721 279 249 
+player 1000 draws a 860 from deck 1000
+player 1000 discards a 693 to deck 1
+player 1000 current hand : 341 40 251 24 643 109 28 257 497 556 415 79 222 773 62 504 721 279 249 860 
+player 1000 draws a 758 from deck 1000
+player 1000 discards a 341 to deck 1
+player 1000 current hand : 40 251 24 643 109 28 257 497 556 415 79 222 773 62 504 721 279 249 860 758 
+player 1000 draws a 31 from deck 1000
+player 1000 discards a 40 to deck 1
+player 1000 current hand : 251 24 643 109 28 257 497 556 415 79 222 773 62 504 721 279 249 860 758 31 
+player 1000 draws a 206 from deck 1000
+player 1000 discards a 251 to deck 1
+player 1000 current hand : 24 643 109 28 257 497 556 415 79 222 773 62 504 721 279 249 860 758 31 206 
+player 1000 draws a 577 from deck 1000
+player 1000 discards a 24 to deck 1
+player 1000 current hand : 643 109 28 257 497 556 415 79 222 773 62 504 721 279 249 860 758 31 206 577 
+player 1000 draws a 599 from deck 1000
+player 1000 discards a 643 to deck 1
+player 1000 current hand : 109 28 257 497 556 415 79 222 773 62 504 721 279 249 860 758 31 206 577 599 
+player 1000 draws a 16 from deck 1000
+player 1000 discards a 109 to deck 1
+player 1000 current hand : 28 257 497 556 415 79 222 773 62 504 721 279 249 860 758 31 206 577 599 16 
+player 1000 draws a 888 from deck 1000
+player 1000 discards a 28 to deck 1
+player 1000 current hand : 257 497 556 415 79 222 773 62 504 721 279 249 860 758 31 206 577 599 16 888 
+player 1000 draws a 237 from deck 1000
+player 1000 discards a 257 to deck 1
+player 1000 current hand : 497 556 415 79 222 773 62 504 721 279 249 860 758 31 206 577 599 16 888 237 
+player 1000 draws a 173 from deck 1000
+player 1000 discards a 497 to deck 1
+player 1000 current hand : 556 415 79 222 773 62 504 721 279 249 860 758 31 206 577 599 16 888 237 173 
+player 1000 draws a 242 from deck 1000
+player 1000 discards a 556 to deck 1
+player 1000 current hand : 415 79 222 773 62 504 721 279 249 860 758 31 206 577 599 16 888 237 173 242 
+player 1000 draws a 453 from deck 1000
+player 1000 discards a 415 to deck 1
+player 1000 current hand : 79 222 773 62 504 721 279 249 860 758 31 206 577 599 16 888 237 173 242 453 
+player 1000 draws a 599 from deck 1000
+player 1000 discards a 79 to deck 1
+player 1000 current hand : 222 773 62 504 721 279 249 860 758 31 206 577 599 16 888 237 173 242 453 599 
+player 1000 draws a 917 from deck 1000
+player 1000 discards a 222 to deck 1
+player 1000 current hand : 773 62 504 721 279 249 860 758 31 206 577 599 16 888 237 173 242 453 599 917 
+player 1000 draws a 7 from deck 1000
+player 1000 discards a 773 to deck 1
+player 1000 current hand : 62 504 721 279 249 860 758 31 206 577 599 16 888 237 173 242 453 599 917 7 
+player 1000 draws a 332 from deck 1000
+player 1000 discards a 62 to deck 1
+player 1000 current hand : 504 721 279 249 860 758 31 206 577 599 16 888 237 173 242 453 599 917 7 332 
+player 1000 draws a 440 from deck 1000
+player 1000 discards a 504 to deck 1
+player 1000 current hand : 721 279 249 860 758 31 206 577 599 16 888 237 173 242 453 599 917 7 332 440 
+player 1000 draws a 242 from deck 1000
+player 1000 discards a 721 to deck 1
+player 1000 current hand : 279 249 860 758 31 206 577 599 16 888 237 173 242 453 599 917 7 332 440 242 
+player 1000 draws a 785 from deck 1000
+player 1000 discards a 279 to deck 1
+player 1000 current hand : 249 860 758 31 206 577 599 16 888 237 173 242 453 599 917 7 332 440 242 785 
+player 1000 draws a 285 from deck 1000
+player 1000 discards a 249 to deck 1
+player 1000 current hand : 860 758 31 206 577 599 16 888 237 173 242 453 599 917 7 332 440 242 785 285 
+player 1000 draws a 748 from deck 1000
+player 1000 discards a 860 to deck 1
+player 1000 current hand : 758 31 206 577 599 16 888 237 173 242 453 599 917 7 332 440 242 785 285 748 
+player 1000 draws a 856 from deck 1000
+player 1000 discards a 758 to deck 1
+player 1000 current hand : 31 206 577 599 16 888 237 173 242 453 599 917 7 332 440 242 785 285 748 856 
+player 1000 draws a 240 from deck 1000
+player 1000 discards a 31 to deck 1
+player 1000 current hand : 206 577 599 16 888 237 173 242 453 599 917 7 332 440 242 785 285 748 856 240 
+player 1000 draws a 476 from deck 1000
+player 1000 discards a 206 to deck 1
+player 1000 current hand : 577 599 16 888 237 173 242 453 599 917 7 332 440 242 785 285 748 856 240 476 
+player 1000 draws a 62 from deck 1000
+player 1000 discards a 577 to deck 1
+player 1000 current hand : 599 16 888 237 173 242 453 599 917 7 332 440 242 785 285 748 856 240 476 62 
+player 1000 draws a 176 from deck 1000
+player 1000 discards a 599 to deck 1
+player 1000 current hand : 16 888 237 173 242 453 599 917 7 332 440 242 785 285 748 856 240 476 62 176 
+player 1000 draws a 524 from deck 1000
+player 1000 discards a 16 to deck 1
+player 1000 current hand : 888 237 173 242 453 599 917 7 332 440 242 785 285 748 856 240 476 62 176 524 
+player 1000 draws a 500 from deck 1000
+player 1000 discards a 888 to deck 1
+player 1000 current hand : 237 173 242 453 599 917 7 332 440 242 785 285 748 856 240 476 62 176 524 500 
+player 1000 draws a 631 from deck 1000
+player 1000 discards a 237 to deck 1
+player 1000 current hand : 173 242 453 599 917 7 332 440 242 785 285 748 856 240 476 62 176 524 500 631 
+player 1000 draws a 598 from deck 1000
+player 1000 discards a 173 to deck 1
+player 1000 current hand : 242 453 599 917 7 332 440 242 785 285 748 856 240 476 62 176 524 500 631 598 
+player 1000 draws a 981 from deck 1000
+player 1000 discards a 242 to deck 1
+player 1000 current hand : 453 599 917 7 332 440 242 785 285 748 856 240 476 62 176 524 500 631 598 981 
+player 1000 draws a 585 from deck 1000
+player 1000 discards a 453 to deck 1
+player 1000 current hand : 599 917 7 332 440 242 785 285 748 856 240 476 62 176 524 500 631 598 981 585 
+player 1000 draws a 897 from deck 1000
+player 1000 discards a 599 to deck 1
+player 1000 current hand : 917 7 332 440 242 785 285 748 856 240 476 62 176 524 500 631 598 981 585 897 
+player 1000 draws a 730 from deck 1000
+player 1000 discards a 917 to deck 1
+player 1000 current hand : 7 332 440 242 785 285 748 856 240 476 62 176 524 500 631 598 981 585 897 730 
+player 1000 draws a 631 from deck 1000
+player 1000 discards a 7 to deck 1
+player 1000 current hand : 332 440 242 785 285 748 856 240 476 62 176 524 500 631 598 981 585 897 730 631 
+player 1000 draws a 816 from deck 1000
+player 1000 discards a 332 to deck 1
+player 1000 current hand : 440 242 785 285 748 856 240 476 62 176 524 500 631 598 981 585 897 730 631 816 
+player 1000 draws a 595 from deck 1000
+player 1000 discards a 440 to deck 1
+player 1000 current hand : 242 785 285 748 856 240 476 62 176 524 500 631 598 981 585 897 730 631 816 595 
+player 1000 draws a 370 from deck 1000
+player 1000 discards a 242 to deck 1
+player 1000 current hand : 785 285 748 856 240 476 62 176 524 500 631 598 981 585 897 730 631 816 595 370 
+player 1000 draws a 768 from deck 1000
+player 1000 discards a 785 to deck 1
+player 1000 current hand : 285 748 856 240 476 62 176 524 500 631 598 981 585 897 730 631 816 595 370 768 
+player 1000 draws a 460 from deck 1000

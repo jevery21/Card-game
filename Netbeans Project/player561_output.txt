@@ -1,0 +1,293 @@
+player 561 initial hand 853 648 177 110 70 495 144 204 954 616 768 44 189 173 537 613 514 814 428 971 
+player 561 draws a 272 from deck 561
+player 561 discards a 853 to deck 562
+player 561 current hand : 648 177 110 70 495 144 204 954 616 768 44 189 173 537 613 514 814 428 971 272 
+player 561 draws a 730 from deck 561
+player 561 discards a 648 to deck 562
+player 561 current hand : 177 110 70 495 144 204 954 616 768 44 189 173 537 613 514 814 428 971 272 730 
+player 561 draws a 655 from deck 561
+player 561 discards a 177 to deck 562
+player 561 current hand : 110 70 495 144 204 954 616 768 44 189 173 537 613 514 814 428 971 272 730 655 
+player 561 draws a 805 from deck 561
+player 561 discards a 110 to deck 562
+player 561 current hand : 70 495 144 204 954 616 768 44 189 173 537 613 514 814 428 971 272 730 655 805 
+player 561 draws a 256 from deck 561
+player 561 discards a 70 to deck 562
+player 561 current hand : 495 144 204 954 616 768 44 189 173 537 613 514 814 428 971 272 730 655 805 256 
+player 561 draws a 262 from deck 561
+player 561 discards a 495 to deck 562
+player 561 current hand : 144 204 954 616 768 44 189 173 537 613 514 814 428 971 272 730 655 805 256 262 
+player 561 draws a 686 from deck 561
+player 561 discards a 144 to deck 562
+player 561 current hand : 204 954 616 768 44 189 173 537 613 514 814 428 971 272 730 655 805 256 262 686 
+player 561 draws a 773 from deck 561
+player 561 discards a 204 to deck 562
+player 561 current hand : 954 616 768 44 189 173 537 613 514 814 428 971 272 730 655 805 256 262 686 773 
+player 561 draws a 417 from deck 561
+player 561 discards a 954 to deck 562
+player 561 current hand : 616 768 44 189 173 537 613 514 814 428 971 272 730 655 805 256 262 686 773 417 
+player 561 draws a 927 from deck 561
+player 561 discards a 616 to deck 562
+player 561 current hand : 768 44 189 173 537 613 514 814 428 971 272 730 655 805 256 262 686 773 417 927 
+player 561 draws a 618 from deck 561
+player 561 discards a 768 to deck 562
+player 561 current hand : 44 189 173 537 613 514 814 428 971 272 730 655 805 256 262 686 773 417 927 618 
+player 561 draws a 817 from deck 561
+player 561 discards a 44 to deck 562
+player 561 current hand : 189 173 537 613 514 814 428 971 272 730 655 805 256 262 686 773 417 927 618 817 
+player 561 draws a 970 from deck 561
+player 561 discards a 189 to deck 562
+player 561 current hand : 173 537 613 514 814 428 971 272 730 655 805 256 262 686 773 417 927 618 817 970 
+player 561 draws a 743 from deck 561
+player 561 discards a 173 to deck 562
+player 561 current hand : 537 613 514 814 428 971 272 730 655 805 256 262 686 773 417 927 618 817 970 743 
+player 561 draws a 143 from deck 561
+player 561 discards a 537 to deck 562
+player 561 current hand : 613 514 814 428 971 272 730 655 805 256 262 686 773 417 927 618 817 970 743 143 
+player 561 draws a 817 from deck 561
+player 561 discards a 613 to deck 562
+player 561 current hand : 514 814 428 971 272 730 655 805 256 262 686 773 417 927 618 817 970 743 143 817 
+player 561 draws a 935 from deck 561
+player 561 discards a 514 to deck 562
+player 561 current hand : 814 428 971 272 730 655 805 256 262 686 773 417 927 618 817 970 743 143 817 935 
+player 561 draws a 179 from deck 561
+player 561 discards a 814 to deck 562
+player 561 current hand : 428 971 272 730 655 805 256 262 686 773 417 927 618 817 970 743 143 817 935 179 
+player 561 draws a 417 from deck 561
+player 561 discards a 428 to deck 562
+player 561 current hand : 971 272 730 655 805 256 262 686 773 417 927 618 817 970 743 143 817 935 179 417 
+player 561 draws a 65 from deck 561
+player 561 discards a 971 to deck 562
+player 561 current hand : 272 730 655 805 256 262 686 773 417 927 618 817 970 743 143 817 935 179 417 65 
+player 561 draws a 233 from deck 561
+player 561 discards a 272 to deck 562
+player 561 current hand : 730 655 805 256 262 686 773 417 927 618 817 970 743 143 817 935 179 417 65 233 
+player 561 draws a 248 from deck 561
+player 561 discards a 730 to deck 562
+player 561 current hand : 655 805 256 262 686 773 417 927 618 817 970 743 143 817 935 179 417 65 233 248 
+player 561 draws a 833 from deck 561
+player 561 discards a 655 to deck 562
+player 561 current hand : 805 256 262 686 773 417 927 618 817 970 743 143 817 935 179 417 65 233 248 833 
+player 561 draws a 716 from deck 561
+player 561 discards a 805 to deck 562
+player 561 current hand : 256 262 686 773 417 927 618 817 970 743 143 817 935 179 417 65 233 248 833 716 
+player 561 draws a 572 from deck 561
+player 561 discards a 256 to deck 562
+player 561 current hand : 262 686 773 417 927 618 817 970 743 143 817 935 179 417 65 233 248 833 716 572 
+player 561 draws a 821 from deck 561
+player 561 discards a 262 to deck 562
+player 561 current hand : 686 773 417 927 618 817 970 743 143 817 935 179 417 65 233 248 833 716 572 821 
+player 561 draws a 925 from deck 561
+player 561 discards a 686 to deck 562
+player 561 current hand : 773 417 927 618 817 970 743 143 817 935 179 417 65 233 248 833 716 572 821 925 
+player 561 draws a 818 from deck 561
+player 561 discards a 773 to deck 562
+player 561 current hand : 417 927 618 817 970 743 143 817 935 179 417 65 233 248 833 716 572 821 925 818 
+player 561 draws a 198 from deck 561
+player 561 discards a 417 to deck 562
+player 561 current hand : 927 618 817 970 743 143 817 935 179 417 65 233 248 833 716 572 821 925 818 198 
+player 561 draws a 910 from deck 561
+player 561 discards a 927 to deck 562
+player 561 current hand : 618 817 970 743 143 817 935 179 417 65 233 248 833 716 572 821 925 818 198 910 
+player 561 draws a 773 from deck 561
+player 561 discards a 618 to deck 562
+player 561 current hand : 817 970 743 143 817 935 179 417 65 233 248 833 716 572 821 925 818 198 910 773 
+player 561 draws a 570 from deck 561
+player 561 discards a 817 to deck 562
+player 561 current hand : 970 743 143 817 935 179 417 65 233 248 833 716 572 821 925 818 198 910 773 570 
+player 561 draws a 264 from deck 561
+player 561 discards a 970 to deck 562
+player 561 current hand : 743 143 817 935 179 417 65 233 248 833 716 572 821 925 818 198 910 773 570 264 
+player 561 draws a 631 from deck 561
+player 561 discards a 743 to deck 562
+player 561 current hand : 143 817 935 179 417 65 233 248 833 716 572 821 925 818 198 910 773 570 264 631 
+player 561 draws a 240 from deck 561
+player 561 discards a 143 to deck 562
+player 561 current hand : 817 935 179 417 65 233 248 833 716 572 821 925 818 198 910 773 570 264 631 240 
+player 561 draws a 846 from deck 561
+player 561 discards a 817 to deck 562
+player 561 current hand : 935 179 417 65 233 248 833 716 572 821 925 818 198 910 773 570 264 631 240 846 
+player 561 draws a 113 from deck 561
+player 561 discards a 935 to deck 562
+player 561 current hand : 179 417 65 233 248 833 716 572 821 925 818 198 910 773 570 264 631 240 846 113 
+player 561 draws a 204 from deck 561
+player 561 discards a 179 to deck 562
+player 561 current hand : 417 65 233 248 833 716 572 821 925 818 198 910 773 570 264 631 240 846 113 204 
+player 561 draws a 862 from deck 561
+player 561 discards a 417 to deck 562
+player 561 current hand : 65 233 248 833 716 572 821 925 818 198 910 773 570 264 631 240 846 113 204 862 
+player 561 draws a 135 from deck 561
+player 561 discards a 65 to deck 562
+player 561 current hand : 233 248 833 716 572 821 925 818 198 910 773 570 264 631 240 846 113 204 862 135 
+player 561 draws a 632 from deck 561
+player 561 discards a 233 to deck 562
+player 561 current hand : 248 833 716 572 821 925 818 198 910 773 570 264 631 240 846 113 204 862 135 632 
+player 561 draws a 646 from deck 561
+player 561 discards a 248 to deck 562
+player 561 current hand : 833 716 572 821 925 818 198 910 773 570 264 631 240 846 113 204 862 135 632 646 
+player 561 draws a 138 from deck 561
+player 561 discards a 833 to deck 562
+player 561 current hand : 716 572 821 925 818 198 910 773 570 264 631 240 846 113 204 862 135 632 646 138 
+player 561 draws a 717 from deck 561
+player 561 discards a 716 to deck 562
+player 561 current hand : 572 821 925 818 198 910 773 570 264 631 240 846 113 204 862 135 632 646 138 717 
+player 561 draws a 110 from deck 561
+player 561 discards a 572 to deck 562
+player 561 current hand : 821 925 818 198 910 773 570 264 631 240 846 113 204 862 135 632 646 138 717 110 
+player 561 draws a 654 from deck 561
+player 561 discards a 821 to deck 562
+player 561 current hand : 925 818 198 910 773 570 264 631 240 846 113 204 862 135 632 646 138 717 110 654 
+player 561 draws a 758 from deck 561
+player 561 discards a 925 to deck 562
+player 561 current hand : 818 198 910 773 570 264 631 240 846 113 204 862 135 632 646 138 717 110 654 758 
+player 561 draws a 171 from deck 561
+player 561 discards a 818 to deck 562
+player 561 current hand : 198 910 773 570 264 631 240 846 113 204 862 135 632 646 138 717 110 654 758 171 
+player 561 draws a 966 from deck 561
+player 561 discards a 198 to deck 562
+player 561 current hand : 910 773 570 264 631 240 846 113 204 862 135 632 646 138 717 110 654 758 171 966 
+player 561 draws a 513 from deck 561
+player 561 discards a 910 to deck 562
+player 561 current hand : 773 570 264 631 240 846 113 204 862 135 632 646 138 717 110 654 758 171 966 513 
+player 561 draws a 871 from deck 561
+player 561 discards a 773 to deck 562
+player 561 current hand : 570 264 631 240 846 113 204 862 135 632 646 138 717 110 654 758 171 966 513 871 
+player 561 draws a 631 from deck 561
+player 561 discards a 570 to deck 562
+player 561 current hand : 264 631 240 846 113 204 862 135 632 646 138 717 110 654 758 171 966 513 871 631 
+player 561 draws a 310 from deck 561
+player 561 discards a 264 to deck 562
+player 561 current hand : 631 240 846 113 204 862 135 632 646 138 717 110 654 758 171 966 513 871 631 310 
+player 561 draws a 981 from deck 561
+player 561 discards a 631 to deck 562
+player 561 current hand : 240 846 113 204 862 135 632 646 138 717 110 654 758 171 966 513 871 631 310 981 
+player 561 draws a 561 from deck 561
+player 561 discards a 240 to deck 562
+player 561 current hand : 846 113 204 862 135 632 646 138 717 110 654 758 171 966 513 871 631 310 981 561 
+player 561 draws a 562 from deck 561
+player 561 discards a 846 to deck 562
+player 561 current hand : 113 204 862 135 632 646 138 717 110 654 758 171 966 513 871 631 310 981 561 562 
+player 561 draws a 972 from deck 561
+player 561 discards a 113 to deck 562
+player 561 current hand : 204 862 135 632 646 138 717 110 654 758 171 966 513 871 631 310 981 561 562 972 
+player 561 draws a 380 from deck 561
+player 561 discards a 204 to deck 562
+player 561 current hand : 862 135 632 646 138 717 110 654 758 171 966 513 871 631 310 981 561 562 972 380 
+player 561 draws a 4 from deck 561
+player 561 discards a 862 to deck 562
+player 561 current hand : 135 632 646 138 717 110 654 758 171 966 513 871 631 310 981 561 562 972 380 4 
+player 561 draws a 485 from deck 561
+player 561 discards a 135 to deck 562
+player 561 current hand : 632 646 138 717 110 654 758 171 966 513 871 631 310 981 561 562 972 380 4 485 
+player 561 draws a 458 from deck 561
+player 561 discards a 632 to deck 562
+player 561 current hand : 646 138 717 110 654 758 171 966 513 871 631 310 981 561 562 972 380 4 485 458 
+player 561 draws a 274 from deck 561
+player 561 discards a 646 to deck 562
+player 561 current hand : 138 717 110 654 758 171 966 513 871 631 310 981 561 562 972 380 4 485 458 274 
+player 561 draws a 405 from deck 561
+player 561 discards a 138 to deck 562
+player 561 current hand : 717 110 654 758 171 966 513 871 631 310 981 561 562 972 380 4 485 458 274 405 
+player 561 draws a 385 from deck 561
+player 561 discards a 717 to deck 562
+player 561 current hand : 110 654 758 171 966 513 871 631 310 981 561 562 972 380 4 485 458 274 405 385 
+player 561 draws a 680 from deck 561
+player 561 discards a 110 to deck 562
+player 561 current hand : 654 758 171 966 513 871 631 310 981 561 562 972 380 4 485 458 274 405 385 680 
+player 561 draws a 412 from deck 561
+player 561 discards a 654 to deck 562
+player 561 current hand : 758 171 966 513 871 631 310 981 561 562 972 380 4 485 458 274 405 385 680 412 
+player 561 draws a 365 from deck 561
+player 561 discards a 758 to deck 562
+player 561 current hand : 171 966 513 871 631 310 981 561 562 972 380 4 485 458 274 405 385 680 412 365 
+player 561 draws a 252 from deck 561
+player 561 discards a 171 to deck 562
+player 561 current hand : 966 513 871 631 310 981 561 562 972 380 4 485 458 274 405 385 680 412 365 252 
+player 561 draws a 988 from deck 561
+player 561 discards a 966 to deck 562
+player 561 current hand : 513 871 631 310 981 561 562 972 380 4 485 458 274 405 385 680 412 365 252 988 
+player 561 draws a 240 from deck 561
+player 561 discards a 513 to deck 562
+player 561 current hand : 871 631 310 981 561 562 972 380 4 485 458 274 405 385 680 412 365 252 988 240 
+player 561 draws a 245 from deck 561
+player 561 discards a 871 to deck 562
+player 561 current hand : 631 310 981 561 562 972 380 4 485 458 274 405 385 680 412 365 252 988 240 245 
+player 561 draws a 512 from deck 561
+player 561 discards a 631 to deck 562
+player 561 current hand : 310 981 561 562 972 380 4 485 458 274 405 385 680 412 365 252 988 240 245 512 
+player 561 draws a 491 from deck 561
+player 561 discards a 310 to deck 562
+player 561 current hand : 981 561 562 972 380 4 485 458 274 405 385 680 412 365 252 988 240 245 512 491 
+player 561 draws a 219 from deck 561
+player 561 discards a 981 to deck 562
+player 561 current hand : 561 562 972 380 4 485 458 274 405 385 680 412 365 252 988 240 245 512 491 219 
+player 561 draws a 219 from deck 561
+player 561 discards a 562 to deck 562
+player 561 current hand : 561 972 380 4 485 458 274 405 385 680 412 365 252 988 240 245 512 491 219 219 
+player 561 draws a 471 from deck 561
+player 561 discards a 972 to deck 562
+player 561 current hand : 561 380 4 485 458 274 405 385 680 412 365 252 988 240 245 512 491 219 219 471 
+player 561 draws a 279 from deck 561
+player 561 discards a 380 to deck 562
+player 561 current hand : 561 4 485 458 274 405 385 680 412 365 252 988 240 245 512 491 219 219 471 279 
+player 561 draws a 720 from deck 561
+player 561 discards a 4 to deck 562
+player 561 current hand : 561 485 458 274 405 385 680 412 365 252 988 240 245 512 491 219 219 471 279 720 
+player 561 draws a 970 from deck 561
+player 561 discards a 485 to deck 562
+player 561 current hand : 561 458 274 405 385 680 412 365 252 988 240 245 512 491 219 219 471 279 720 970 
+player 561 draws a 181 from deck 561
+player 561 discards a 458 to deck 562
+player 561 current hand : 561 274 405 385 680 412 365 252 988 240 245 512 491 219 219 471 279 720 970 181 
+player 561 draws a 612 from deck 561
+player 561 discards a 274 to deck 562
+player 561 current hand : 561 405 385 680 412 365 252 988 240 245 512 491 219 219 471 279 720 970 181 612 
+player 561 draws a 409 from deck 561
+player 561 discards a 405 to deck 562
+player 561 current hand : 561 385 680 412 365 252 988 240 245 512 491 219 219 471 279 720 970 181 612 409 
+player 561 draws a 519 from deck 561
+player 561 discards a 385 to deck 562
+player 561 current hand : 561 680 412 365 252 988 240 245 512 491 219 219 471 279 720 970 181 612 409 519 
+player 561 draws a 73 from deck 561
+player 561 discards a 680 to deck 562
+player 561 current hand : 561 412 365 252 988 240 245 512 491 219 219 471 279 720 970 181 612 409 519 73 
+player 561 draws a 550 from deck 561
+player 561 discards a 412 to deck 562
+player 561 current hand : 561 365 252 988 240 245 512 491 219 219 471 279 720 970 181 612 409 519 73 550 
+player 561 draws a 581 from deck 561
+player 561 discards a 365 to deck 562
+player 561 current hand : 561 252 988 240 245 512 491 219 219 471 279 720 970 181 612 409 519 73 550 581 
+player 561 draws a 302 from deck 561
+player 561 discards a 252 to deck 562
+player 561 current hand : 561 988 240 245 512 491 219 219 471 279 720 970 181 612 409 519 73 550 581 302 
+player 561 draws a 765 from deck 561
+player 561 discards a 988 to deck 562
+player 561 current hand : 561 240 245 512 491 219 219 471 279 720 970 181 612 409 519 73 550 581 302 765 
+player 561 draws a 83 from deck 561
+player 561 discards a 240 to deck 562
+player 561 current hand : 561 245 512 491 219 219 471 279 720 970 181 612 409 519 73 550 581 302 765 83 
+player 561 draws a 623 from deck 561
+player 561 discards a 245 to deck 562
+player 561 current hand : 561 512 491 219 219 471 279 720 970 181 612 409 519 73 550 581 302 765 83 623 
+player 561 draws a 847 from deck 561
+player 561 discards a 512 to deck 562
+player 561 current hand : 561 491 219 219 471 279 720 970 181 612 409 519 73 550 581 302 765 83 623 847 
+player 561 draws a 296 from deck 561
+player 561 discards a 491 to deck 562
+player 561 current hand : 561 219 219 471 279 720 970 181 612 409 519 73 550 581 302 765 83 623 847 296 
+player 561 draws a 589 from deck 561
+player 561 discards a 219 to deck 562
+player 561 current hand : 561 219 471 279 720 970 181 612 409 519 73 550 581 302 765 83 623 847 296 589 
+player 561 draws a 377 from deck 561
+player 561 discards a 219 to deck 562
+player 561 current hand : 561 471 279 720 970 181 612 409 519 73 550 581 302 765 83 623 847 296 589 377 
+player 561 draws a 592 from deck 561
+player 561 discards a 471 to deck 562
+player 561 current hand : 561 279 720 970 181 612 409 519 73 550 581 302 765 83 623 847 296 589 377 592 
+player 561 draws a 661 from deck 561
+player 561 discards a 279 to deck 562
+player 561 current hand : 561 720 970 181 612 409 519 73 550 581 302 765 83 623 847 296 589 377 592 661 
+player 561 draws a 378 from deck 561
+player 561 discards a 720 to deck 562
+player 561 current hand : 561 970 181 612 409 519 73 550 581 302 765 83 623 847 296 589 377 592 661 378 
+player 561 draws a 927 from deck 561

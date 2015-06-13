@@ -1,0 +1,305 @@
+player 350 initial hand 329 236 635 897 511 254 507 388 333 74 499 644 810 485 359 523 72 529 524 927 
+player 350 draws a 585 from deck 350
+player 350 discards a 329 to deck 351
+player 350 current hand : 236 635 897 511 254 507 388 333 74 499 644 810 485 359 523 72 529 524 927 585 
+player 350 draws a 485 from deck 350
+player 350 discards a 236 to deck 351
+player 350 current hand : 635 897 511 254 507 388 333 74 499 644 810 485 359 523 72 529 524 927 585 485 
+player 350 draws a 879 from deck 350
+player 350 discards a 635 to deck 351
+player 350 current hand : 897 511 254 507 388 333 74 499 644 810 485 359 523 72 529 524 927 585 485 879 
+player 350 draws a 62 from deck 350
+player 350 discards a 897 to deck 351
+player 350 current hand : 511 254 507 388 333 74 499 644 810 485 359 523 72 529 524 927 585 485 879 62 
+player 350 draws a 370 from deck 350
+player 350 discards a 511 to deck 351
+player 350 current hand : 254 507 388 333 74 499 644 810 485 359 523 72 529 524 927 585 485 879 62 370 
+player 350 draws a 138 from deck 350
+player 350 discards a 254 to deck 351
+player 350 current hand : 507 388 333 74 499 644 810 485 359 523 72 529 524 927 585 485 879 62 370 138 
+player 350 draws a 619 from deck 350
+player 350 discards a 507 to deck 351
+player 350 current hand : 388 333 74 499 644 810 485 359 523 72 529 524 927 585 485 879 62 370 138 619 
+player 350 draws a 642 from deck 350
+player 350 discards a 388 to deck 351
+player 350 current hand : 333 74 499 644 810 485 359 523 72 529 524 927 585 485 879 62 370 138 619 642 
+player 350 draws a 637 from deck 350
+player 350 discards a 333 to deck 351
+player 350 current hand : 74 499 644 810 485 359 523 72 529 524 927 585 485 879 62 370 138 619 642 637 
+player 350 draws a 234 from deck 350
+player 350 discards a 74 to deck 351
+player 350 current hand : 499 644 810 485 359 523 72 529 524 927 585 485 879 62 370 138 619 642 637 234 
+player 350 draws a 105 from deck 350
+player 350 discards a 499 to deck 351
+player 350 current hand : 644 810 485 359 523 72 529 524 927 585 485 879 62 370 138 619 642 637 234 105 
+player 350 draws a 558 from deck 350
+player 350 discards a 644 to deck 351
+player 350 current hand : 810 485 359 523 72 529 524 927 585 485 879 62 370 138 619 642 637 234 105 558 
+player 350 draws a 392 from deck 350
+player 350 discards a 810 to deck 351
+player 350 current hand : 485 359 523 72 529 524 927 585 485 879 62 370 138 619 642 637 234 105 558 392 
+player 350 draws a 781 from deck 350
+player 350 discards a 485 to deck 351
+player 350 current hand : 359 523 72 529 524 927 585 485 879 62 370 138 619 642 637 234 105 558 392 781 
+player 350 draws a 18 from deck 350
+player 350 discards a 359 to deck 351
+player 350 current hand : 523 72 529 524 927 585 485 879 62 370 138 619 642 637 234 105 558 392 781 18 
+player 350 draws a 436 from deck 350
+player 350 discards a 523 to deck 351
+player 350 current hand : 72 529 524 927 585 485 879 62 370 138 619 642 637 234 105 558 392 781 18 436 
+player 350 draws a 863 from deck 350
+player 350 discards a 72 to deck 351
+player 350 current hand : 529 524 927 585 485 879 62 370 138 619 642 637 234 105 558 392 781 18 436 863 
+player 350 draws a 773 from deck 350
+player 350 discards a 529 to deck 351
+player 350 current hand : 524 927 585 485 879 62 370 138 619 642 637 234 105 558 392 781 18 436 863 773 
+player 350 draws a 971 from deck 350
+player 350 discards a 524 to deck 351
+player 350 current hand : 927 585 485 879 62 370 138 619 642 637 234 105 558 392 781 18 436 863 773 971 
+player 350 draws a 808 from deck 350
+player 350 discards a 927 to deck 351
+player 350 current hand : 585 485 879 62 370 138 619 642 637 234 105 558 392 781 18 436 863 773 971 808 
+player 350 draws a 482 from deck 350
+player 350 discards a 585 to deck 351
+player 350 current hand : 485 879 62 370 138 619 642 637 234 105 558 392 781 18 436 863 773 971 808 482 
+player 350 draws a 254 from deck 350
+player 350 discards a 485 to deck 351
+player 350 current hand : 879 62 370 138 619 642 637 234 105 558 392 781 18 436 863 773 971 808 482 254 
+player 350 draws a 680 from deck 350
+player 350 discards a 879 to deck 351
+player 350 current hand : 62 370 138 619 642 637 234 105 558 392 781 18 436 863 773 971 808 482 254 680 
+player 350 draws a 319 from deck 350
+player 350 discards a 62 to deck 351
+player 350 current hand : 370 138 619 642 637 234 105 558 392 781 18 436 863 773 971 808 482 254 680 319 
+player 350 draws a 957 from deck 350
+player 350 discards a 370 to deck 351
+player 350 current hand : 138 619 642 637 234 105 558 392 781 18 436 863 773 971 808 482 254 680 319 957 
+player 350 draws a 866 from deck 350
+player 350 discards a 138 to deck 351
+player 350 current hand : 619 642 637 234 105 558 392 781 18 436 863 773 971 808 482 254 680 319 957 866 
+player 350 draws a 730 from deck 350
+player 350 discards a 619 to deck 351
+player 350 current hand : 642 637 234 105 558 392 781 18 436 863 773 971 808 482 254 680 319 957 866 730 
+player 350 draws a 523 from deck 350
+player 350 discards a 642 to deck 351
+player 350 current hand : 637 234 105 558 392 781 18 436 863 773 971 808 482 254 680 319 957 866 730 523 
+player 350 draws a 47 from deck 350
+player 350 discards a 637 to deck 351
+player 350 current hand : 234 105 558 392 781 18 436 863 773 971 808 482 254 680 319 957 866 730 523 47 
+player 350 draws a 601 from deck 350
+player 350 discards a 234 to deck 351
+player 350 current hand : 105 558 392 781 18 436 863 773 971 808 482 254 680 319 957 866 730 523 47 601 
+player 350 draws a 430 from deck 350
+player 350 discards a 105 to deck 351
+player 350 current hand : 558 392 781 18 436 863 773 971 808 482 254 680 319 957 866 730 523 47 601 430 
+player 350 draws a 531 from deck 350
+player 350 discards a 558 to deck 351
+player 350 current hand : 392 781 18 436 863 773 971 808 482 254 680 319 957 866 730 523 47 601 430 531 
+player 350 draws a 564 from deck 350
+player 350 discards a 392 to deck 351
+player 350 current hand : 781 18 436 863 773 971 808 482 254 680 319 957 866 730 523 47 601 430 531 564 
+player 350 draws a 783 from deck 350
+player 350 discards a 781 to deck 351
+player 350 current hand : 18 436 863 773 971 808 482 254 680 319 957 866 730 523 47 601 430 531 564 783 
+player 350 draws a 350 from deck 350
+player 350 discards a 18 to deck 351
+player 350 current hand : 436 863 773 971 808 482 254 680 319 957 866 730 523 47 601 430 531 564 783 350 
+player 350 draws a 924 from deck 350
+player 350 discards a 436 to deck 351
+player 350 current hand : 863 773 971 808 482 254 680 319 957 866 730 523 47 601 430 531 564 783 350 924 
+player 350 draws a 875 from deck 350
+player 350 discards a 863 to deck 351
+player 350 current hand : 773 971 808 482 254 680 319 957 866 730 523 47 601 430 531 564 783 350 924 875 
+player 350 draws a 308 from deck 350
+player 350 discards a 773 to deck 351
+player 350 current hand : 971 808 482 254 680 319 957 866 730 523 47 601 430 531 564 783 350 924 875 308 
+player 350 draws a 852 from deck 350
+player 350 discards a 971 to deck 351
+player 350 current hand : 808 482 254 680 319 957 866 730 523 47 601 430 531 564 783 350 924 875 308 852 
+player 350 draws a 954 from deck 350
+player 350 discards a 808 to deck 351
+player 350 current hand : 482 254 680 319 957 866 730 523 47 601 430 531 564 783 350 924 875 308 852 954 
+player 350 draws a 425 from deck 350
+player 350 discards a 482 to deck 351
+player 350 current hand : 254 680 319 957 866 730 523 47 601 430 531 564 783 350 924 875 308 852 954 425 
+player 350 draws a 767 from deck 350
+player 350 discards a 254 to deck 351
+player 350 current hand : 680 319 957 866 730 523 47 601 430 531 564 783 350 924 875 308 852 954 425 767 
+player 350 draws a 456 from deck 350
+player 350 discards a 680 to deck 351
+player 350 current hand : 319 957 866 730 523 47 601 430 531 564 783 350 924 875 308 852 954 425 767 456 
+player 350 draws a 875 from deck 350
+player 350 discards a 319 to deck 351
+player 350 current hand : 957 866 730 523 47 601 430 531 564 783 350 924 875 308 852 954 425 767 456 875 
+player 350 draws a 267 from deck 350
+player 350 discards a 957 to deck 351
+player 350 current hand : 866 730 523 47 601 430 531 564 783 350 924 875 308 852 954 425 767 456 875 267 
+player 350 draws a 44 from deck 350
+player 350 discards a 866 to deck 351
+player 350 current hand : 730 523 47 601 430 531 564 783 350 924 875 308 852 954 425 767 456 875 267 44 
+player 350 draws a 988 from deck 350
+player 350 discards a 730 to deck 351
+player 350 current hand : 523 47 601 430 531 564 783 350 924 875 308 852 954 425 767 456 875 267 44 988 
+player 350 draws a 168 from deck 350
+player 350 discards a 523 to deck 351
+player 350 current hand : 47 601 430 531 564 783 350 924 875 308 852 954 425 767 456 875 267 44 988 168 
+player 350 draws a 316 from deck 350
+player 350 discards a 47 to deck 351
+player 350 current hand : 601 430 531 564 783 350 924 875 308 852 954 425 767 456 875 267 44 988 168 316 
+player 350 draws a 198 from deck 350
+player 350 discards a 601 to deck 351
+player 350 current hand : 430 531 564 783 350 924 875 308 852 954 425 767 456 875 267 44 988 168 316 198 
+player 350 draws a 268 from deck 350
+player 350 discards a 430 to deck 351
+player 350 current hand : 531 564 783 350 924 875 308 852 954 425 767 456 875 267 44 988 168 316 198 268 
+player 350 draws a 490 from deck 350
+player 350 discards a 531 to deck 351
+player 350 current hand : 564 783 350 924 875 308 852 954 425 767 456 875 267 44 988 168 316 198 268 490 
+player 350 draws a 275 from deck 350
+player 350 discards a 564 to deck 351
+player 350 current hand : 783 350 924 875 308 852 954 425 767 456 875 267 44 988 168 316 198 268 490 275 
+player 350 draws a 9 from deck 350
+player 350 discards a 783 to deck 351
+player 350 current hand : 350 924 875 308 852 954 425 767 456 875 267 44 988 168 316 198 268 490 275 9 
+player 350 draws a 852 from deck 350
+player 350 discards a 924 to deck 351
+player 350 current hand : 350 875 308 852 954 425 767 456 875 267 44 988 168 316 198 268 490 275 9 852 
+player 350 draws a 328 from deck 350
+player 350 discards a 875 to deck 351
+player 350 current hand : 350 308 852 954 425 767 456 875 267 44 988 168 316 198 268 490 275 9 852 328 
+player 350 draws a 964 from deck 350
+player 350 discards a 308 to deck 351
+player 350 current hand : 350 852 954 425 767 456 875 267 44 988 168 316 198 268 490 275 9 852 328 964 
+player 350 draws a 224 from deck 350
+player 350 discards a 852 to deck 351
+player 350 current hand : 350 954 425 767 456 875 267 44 988 168 316 198 268 490 275 9 852 328 964 224 
+player 350 draws a 788 from deck 350
+player 350 discards a 954 to deck 351
+player 350 current hand : 350 425 767 456 875 267 44 988 168 316 198 268 490 275 9 852 328 964 224 788 
+player 350 draws a 591 from deck 350
+player 350 discards a 425 to deck 351
+player 350 current hand : 350 767 456 875 267 44 988 168 316 198 268 490 275 9 852 328 964 224 788 591 
+player 350 draws a 268 from deck 350
+player 350 discards a 767 to deck 351
+player 350 current hand : 350 456 875 267 44 988 168 316 198 268 490 275 9 852 328 964 224 788 591 268 
+player 350 draws a 397 from deck 350
+player 350 discards a 456 to deck 351
+player 350 current hand : 350 875 267 44 988 168 316 198 268 490 275 9 852 328 964 224 788 591 268 397 
+player 350 draws a 690 from deck 350
+player 350 discards a 875 to deck 351
+player 350 current hand : 350 267 44 988 168 316 198 268 490 275 9 852 328 964 224 788 591 268 397 690 
+player 350 draws a 941 from deck 350
+player 350 discards a 267 to deck 351
+player 350 current hand : 350 44 988 168 316 198 268 490 275 9 852 328 964 224 788 591 268 397 690 941 
+player 350 draws a 173 from deck 350
+player 350 discards a 44 to deck 351
+player 350 current hand : 350 988 168 316 198 268 490 275 9 852 328 964 224 788 591 268 397 690 941 173 
+player 350 draws a 79 from deck 350
+player 350 discards a 988 to deck 351
+player 350 current hand : 350 168 316 198 268 490 275 9 852 328 964 224 788 591 268 397 690 941 173 79 
+player 350 draws a 182 from deck 350
+player 350 discards a 168 to deck 351
+player 350 current hand : 350 316 198 268 490 275 9 852 328 964 224 788 591 268 397 690 941 173 79 182 
+player 350 draws a 297 from deck 350
+player 350 discards a 316 to deck 351
+player 350 current hand : 350 198 268 490 275 9 852 328 964 224 788 591 268 397 690 941 173 79 182 297 
+player 350 draws a 329 from deck 350
+player 350 discards a 198 to deck 351
+player 350 current hand : 350 268 490 275 9 852 328 964 224 788 591 268 397 690 941 173 79 182 297 329 
+player 350 draws a 572 from deck 350
+player 350 discards a 268 to deck 351
+player 350 current hand : 350 490 275 9 852 328 964 224 788 591 268 397 690 941 173 79 182 297 329 572 
+player 350 draws a 660 from deck 350
+player 350 discards a 490 to deck 351
+player 350 current hand : 350 275 9 852 328 964 224 788 591 268 397 690 941 173 79 182 297 329 572 660 
+player 350 draws a 180 from deck 350
+player 350 discards a 275 to deck 351
+player 350 current hand : 350 9 852 328 964 224 788 591 268 397 690 941 173 79 182 297 329 572 660 180 
+player 350 draws a 464 from deck 350
+player 350 discards a 9 to deck 351
+player 350 current hand : 350 852 328 964 224 788 591 268 397 690 941 173 79 182 297 329 572 660 180 464 
+player 350 draws a 646 from deck 350
+player 350 discards a 852 to deck 351
+player 350 current hand : 350 328 964 224 788 591 268 397 690 941 173 79 182 297 329 572 660 180 464 646 
+player 350 draws a 810 from deck 350
+player 350 discards a 328 to deck 351
+player 350 current hand : 350 964 224 788 591 268 397 690 941 173 79 182 297 329 572 660 180 464 646 810 
+player 350 draws a 744 from deck 350
+player 350 discards a 964 to deck 351
+player 350 current hand : 350 224 788 591 268 397 690 941 173 79 182 297 329 572 660 180 464 646 810 744 
+player 350 draws a 316 from deck 350
+player 350 discards a 224 to deck 351
+player 350 current hand : 350 788 591 268 397 690 941 173 79 182 297 329 572 660 180 464 646 810 744 316 
+player 350 draws a 759 from deck 350
+player 350 discards a 788 to deck 351
+player 350 current hand : 350 591 268 397 690 941 173 79 182 297 329 572 660 180 464 646 810 744 316 759 
+player 350 draws a 425 from deck 350
+player 350 discards a 591 to deck 351
+player 350 current hand : 350 268 397 690 941 173 79 182 297 329 572 660 180 464 646 810 744 316 759 425 
+player 350 draws a 631 from deck 350
+player 350 discards a 268 to deck 351
+player 350 current hand : 350 397 690 941 173 79 182 297 329 572 660 180 464 646 810 744 316 759 425 631 
+player 350 draws a 922 from deck 350
+player 350 discards a 397 to deck 351
+player 350 current hand : 350 690 941 173 79 182 297 329 572 660 180 464 646 810 744 316 759 425 631 922 
+player 350 draws a 584 from deck 350
+player 350 discards a 690 to deck 351
+player 350 current hand : 350 941 173 79 182 297 329 572 660 180 464 646 810 744 316 759 425 631 922 584 
+player 350 draws a 326 from deck 350
+player 350 discards a 941 to deck 351
+player 350 current hand : 350 173 79 182 297 329 572 660 180 464 646 810 744 316 759 425 631 922 584 326 
+player 350 draws a 621 from deck 350
+player 350 discards a 173 to deck 351
+player 350 current hand : 350 79 182 297 329 572 660 180 464 646 810 744 316 759 425 631 922 584 326 621 
+player 350 draws a 308 from deck 350
+player 350 discards a 79 to deck 351
+player 350 current hand : 350 182 297 329 572 660 180 464 646 810 744 316 759 425 631 922 584 326 621 308 
+player 350 draws a 75 from deck 350
+player 350 discards a 182 to deck 351
+player 350 current hand : 350 297 329 572 660 180 464 646 810 744 316 759 425 631 922 584 326 621 308 75 
+player 350 draws a 111 from deck 350
+player 350 discards a 297 to deck 351
+player 350 current hand : 350 329 572 660 180 464 646 810 744 316 759 425 631 922 584 326 621 308 75 111 
+player 350 draws a 556 from deck 350
+player 350 discards a 329 to deck 351
+player 350 current hand : 350 572 660 180 464 646 810 744 316 759 425 631 922 584 326 621 308 75 111 556 
+player 350 draws a 495 from deck 350
+player 350 discards a 572 to deck 351
+player 350 current hand : 350 660 180 464 646 810 744 316 759 425 631 922 584 326 621 308 75 111 556 495 
+player 350 draws a 75 from deck 350
+player 350 discards a 660 to deck 351
+player 350 current hand : 350 180 464 646 810 744 316 759 425 631 922 584 326 621 308 75 111 556 495 75 
+player 350 draws a 434 from deck 350
+player 350 discards a 180 to deck 351
+player 350 current hand : 350 464 646 810 744 316 759 425 631 922 584 326 621 308 75 111 556 495 75 434 
+player 350 draws a 402 from deck 350
+player 350 discards a 464 to deck 351
+player 350 current hand : 350 646 810 744 316 759 425 631 922 584 326 621 308 75 111 556 495 75 434 402 
+player 350 draws a 773 from deck 350
+player 350 discards a 646 to deck 351
+player 350 current hand : 350 810 744 316 759 425 631 922 584 326 621 308 75 111 556 495 75 434 402 773 
+player 350 draws a 724 from deck 350
+player 350 discards a 810 to deck 351
+player 350 current hand : 350 744 316 759 425 631 922 584 326 621 308 75 111 556 495 75 434 402 773 724 
+player 350 draws a 978 from deck 350
+player 350 discards a 744 to deck 351
+player 350 current hand : 350 316 759 425 631 922 584 326 621 308 75 111 556 495 75 434 402 773 724 978 
+player 350 draws a 212 from deck 350
+player 350 discards a 316 to deck 351
+player 350 current hand : 350 759 425 631 922 584 326 621 308 75 111 556 495 75 434 402 773 724 978 212 
+player 350 draws a 555 from deck 350
+player 350 discards a 759 to deck 351
+player 350 current hand : 350 425 631 922 584 326 621 308 75 111 556 495 75 434 402 773 724 978 212 555 
+player 350 draws a 309 from deck 350
+player 350 discards a 425 to deck 351
+player 350 current hand : 350 631 922 584 326 621 308 75 111 556 495 75 434 402 773 724 978 212 555 309 
+player 350 draws a 456 from deck 350
+player 350 discards a 631 to deck 351
+player 350 current hand : 350 922 584 326 621 308 75 111 556 495 75 434 402 773 724 978 212 555 309 456 
+player 350 draws a 550 from deck 350
+player 350 discards a 922 to deck 351
+player 350 current hand : 350 584 326 621 308 75 111 556 495 75 434 402 773 724 978 212 555 309 456 550 
+player 350 draws a 93 from deck 350
+player 350 discards a 584 to deck 351
+player 350 current hand : 350 326 621 308 75 111 556 495 75 434 402 773 724 978 212 555 309 456 550 93 
+player 350 draws a 185 from deck 350

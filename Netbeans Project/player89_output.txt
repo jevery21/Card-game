@@ -1,0 +1,349 @@
+player 89 initial hand 291 332 226 159 988 365 205 497 575 734 275 380 403 188 275 114 986 397 583 740 
+player 89 draws a 804 from deck 89
+player 89 discards a 291 to deck 90
+player 89 current hand : 332 226 159 988 365 205 497 575 734 275 380 403 188 275 114 986 397 583 740 804 
+player 89 draws a 805 from deck 89
+player 89 discards a 332 to deck 90
+player 89 current hand : 226 159 988 365 205 497 575 734 275 380 403 188 275 114 986 397 583 740 804 805 
+player 89 draws a 378 from deck 89
+player 89 discards a 226 to deck 90
+player 89 current hand : 159 988 365 205 497 575 734 275 380 403 188 275 114 986 397 583 740 804 805 378 
+player 89 draws a 707 from deck 89
+player 89 discards a 159 to deck 90
+player 89 current hand : 988 365 205 497 575 734 275 380 403 188 275 114 986 397 583 740 804 805 378 707 
+player 89 draws a 116 from deck 89
+player 89 discards a 988 to deck 90
+player 89 current hand : 365 205 497 575 734 275 380 403 188 275 114 986 397 583 740 804 805 378 707 116 
+player 89 draws a 475 from deck 89
+player 89 discards a 365 to deck 90
+player 89 current hand : 205 497 575 734 275 380 403 188 275 114 986 397 583 740 804 805 378 707 116 475 
+player 89 draws a 367 from deck 89
+player 89 discards a 205 to deck 90
+player 89 current hand : 497 575 734 275 380 403 188 275 114 986 397 583 740 804 805 378 707 116 475 367 
+player 89 draws a 174 from deck 89
+player 89 discards a 497 to deck 90
+player 89 current hand : 575 734 275 380 403 188 275 114 986 397 583 740 804 805 378 707 116 475 367 174 
+player 89 draws a 834 from deck 89
+player 89 discards a 575 to deck 90
+player 89 current hand : 734 275 380 403 188 275 114 986 397 583 740 804 805 378 707 116 475 367 174 834 
+player 89 draws a 758 from deck 89
+player 89 discards a 734 to deck 90
+player 89 current hand : 275 380 403 188 275 114 986 397 583 740 804 805 378 707 116 475 367 174 834 758 
+player 89 draws a 451 from deck 89
+player 89 discards a 275 to deck 90
+player 89 current hand : 380 403 188 275 114 986 397 583 740 804 805 378 707 116 475 367 174 834 758 451 
+player 89 draws a 853 from deck 89
+player 89 discards a 380 to deck 90
+player 89 current hand : 403 188 275 114 986 397 583 740 804 805 378 707 116 475 367 174 834 758 451 853 
+player 89 draws a 792 from deck 89
+player 89 discards a 403 to deck 90
+player 89 current hand : 188 275 114 986 397 583 740 804 805 378 707 116 475 367 174 834 758 451 853 792 
+player 89 draws a 189 from deck 89
+player 89 discards a 188 to deck 90
+player 89 current hand : 275 114 986 397 583 740 804 805 378 707 116 475 367 174 834 758 451 853 792 189 
+player 89 draws a 957 from deck 89
+player 89 discards a 275 to deck 90
+player 89 current hand : 114 986 397 583 740 804 805 378 707 116 475 367 174 834 758 451 853 792 189 957 
+player 89 draws a 301 from deck 89
+player 89 discards a 114 to deck 90
+player 89 current hand : 986 397 583 740 804 805 378 707 116 475 367 174 834 758 451 853 792 189 957 301 
+player 89 draws a 728 from deck 89
+player 89 discards a 986 to deck 90
+player 89 current hand : 397 583 740 804 805 378 707 116 475 367 174 834 758 451 853 792 189 957 301 728 
+player 89 draws a 535 from deck 89
+player 89 discards a 397 to deck 90
+player 89 current hand : 583 740 804 805 378 707 116 475 367 174 834 758 451 853 792 189 957 301 728 535 
+player 89 draws a 222 from deck 89
+player 89 discards a 583 to deck 90
+player 89 current hand : 740 804 805 378 707 116 475 367 174 834 758 451 853 792 189 957 301 728 535 222 
+player 89 draws a 303 from deck 89
+player 89 discards a 740 to deck 90
+player 89 current hand : 804 805 378 707 116 475 367 174 834 758 451 853 792 189 957 301 728 535 222 303 
+player 89 draws a 900 from deck 89
+player 89 discards a 804 to deck 90
+player 89 current hand : 805 378 707 116 475 367 174 834 758 451 853 792 189 957 301 728 535 222 303 900 
+player 89 draws a 169 from deck 89
+player 89 discards a 805 to deck 90
+player 89 current hand : 378 707 116 475 367 174 834 758 451 853 792 189 957 301 728 535 222 303 900 169 
+player 89 draws a 159 from deck 89
+player 89 discards a 378 to deck 90
+player 89 current hand : 707 116 475 367 174 834 758 451 853 792 189 957 301 728 535 222 303 900 169 159 
+player 89 draws a 393 from deck 89
+player 89 discards a 707 to deck 90
+player 89 current hand : 116 475 367 174 834 758 451 853 792 189 957 301 728 535 222 303 900 169 159 393 
+player 89 draws a 738 from deck 89
+player 89 discards a 116 to deck 90
+player 89 current hand : 475 367 174 834 758 451 853 792 189 957 301 728 535 222 303 900 169 159 393 738 
+player 89 draws a 188 from deck 89
+player 89 discards a 475 to deck 90
+player 89 current hand : 367 174 834 758 451 853 792 189 957 301 728 535 222 303 900 169 159 393 738 188 
+player 89 draws a 826 from deck 89
+player 89 discards a 367 to deck 90
+player 89 current hand : 174 834 758 451 853 792 189 957 301 728 535 222 303 900 169 159 393 738 188 826 
+player 89 draws a 224 from deck 89
+player 89 discards a 174 to deck 90
+player 89 current hand : 834 758 451 853 792 189 957 301 728 535 222 303 900 169 159 393 738 188 826 224 
+player 89 draws a 285 from deck 89
+player 89 discards a 834 to deck 90
+player 89 current hand : 758 451 853 792 189 957 301 728 535 222 303 900 169 159 393 738 188 826 224 285 
+player 89 draws a 392 from deck 89
+player 89 discards a 758 to deck 90
+player 89 current hand : 451 853 792 189 957 301 728 535 222 303 900 169 159 393 738 188 826 224 285 392 
+player 89 draws a 209 from deck 89
+player 89 discards a 451 to deck 90
+player 89 current hand : 853 792 189 957 301 728 535 222 303 900 169 159 393 738 188 826 224 285 392 209 
+player 89 draws a 16 from deck 89
+player 89 discards a 853 to deck 90
+player 89 current hand : 792 189 957 301 728 535 222 303 900 169 159 393 738 188 826 224 285 392 209 16 
+player 89 draws a 917 from deck 89
+player 89 discards a 792 to deck 90
+player 89 current hand : 189 957 301 728 535 222 303 900 169 159 393 738 188 826 224 285 392 209 16 917 
+player 89 draws a 765 from deck 89
+player 89 discards a 189 to deck 90
+player 89 current hand : 957 301 728 535 222 303 900 169 159 393 738 188 826 224 285 392 209 16 917 765 
+player 89 draws a 54 from deck 89
+player 89 discards a 957 to deck 90
+player 89 current hand : 301 728 535 222 303 900 169 159 393 738 188 826 224 285 392 209 16 917 765 54 
+player 89 draws a 95 from deck 89
+player 89 discards a 301 to deck 90
+player 89 current hand : 728 535 222 303 900 169 159 393 738 188 826 224 285 392 209 16 917 765 54 95 
+player 89 draws a 73 from deck 89
+player 89 discards a 728 to deck 90
+player 89 current hand : 535 222 303 900 169 159 393 738 188 826 224 285 392 209 16 917 765 54 95 73 
+player 89 draws a 647 from deck 89
+player 89 discards a 535 to deck 90
+player 89 current hand : 222 303 900 169 159 393 738 188 826 224 285 392 209 16 917 765 54 95 73 647 
+player 89 draws a 420 from deck 89
+player 89 discards a 222 to deck 90
+player 89 current hand : 303 900 169 159 393 738 188 826 224 285 392 209 16 917 765 54 95 73 647 420 
+player 89 draws a 763 from deck 89
+player 89 discards a 303 to deck 90
+player 89 current hand : 900 169 159 393 738 188 826 224 285 392 209 16 917 765 54 95 73 647 420 763 
+player 89 draws a 604 from deck 89
+player 89 discards a 900 to deck 90
+player 89 current hand : 169 159 393 738 188 826 224 285 392 209 16 917 765 54 95 73 647 420 763 604 
+player 89 draws a 699 from deck 89
+player 89 discards a 169 to deck 90
+player 89 current hand : 159 393 738 188 826 224 285 392 209 16 917 765 54 95 73 647 420 763 604 699 
+player 89 draws a 79 from deck 89
+player 89 discards a 159 to deck 90
+player 89 current hand : 393 738 188 826 224 285 392 209 16 917 765 54 95 73 647 420 763 604 699 79 
+player 89 draws a 758 from deck 89
+player 89 discards a 393 to deck 90
+player 89 current hand : 738 188 826 224 285 392 209 16 917 765 54 95 73 647 420 763 604 699 79 758 
+player 89 draws a 11 from deck 89
+player 89 discards a 738 to deck 90
+player 89 current hand : 188 826 224 285 392 209 16 917 765 54 95 73 647 420 763 604 699 79 758 11 
+player 89 draws a 293 from deck 89
+player 89 discards a 188 to deck 90
+player 89 current hand : 826 224 285 392 209 16 917 765 54 95 73 647 420 763 604 699 79 758 11 293 
+player 89 draws a 603 from deck 89
+player 89 discards a 826 to deck 90
+player 89 current hand : 224 285 392 209 16 917 765 54 95 73 647 420 763 604 699 79 758 11 293 603 
+player 89 draws a 927 from deck 89
+player 89 discards a 224 to deck 90
+player 89 current hand : 285 392 209 16 917 765 54 95 73 647 420 763 604 699 79 758 11 293 603 927 
+player 89 draws a 38 from deck 89
+player 89 discards a 285 to deck 90
+player 89 current hand : 392 209 16 917 765 54 95 73 647 420 763 604 699 79 758 11 293 603 927 38 
+player 89 draws a 854 from deck 89
+player 89 discards a 392 to deck 90
+player 89 current hand : 209 16 917 765 54 95 73 647 420 763 604 699 79 758 11 293 603 927 38 854 
+player 89 draws a 600 from deck 89
+player 89 discards a 209 to deck 90
+player 89 current hand : 16 917 765 54 95 73 647 420 763 604 699 79 758 11 293 603 927 38 854 600 
+player 89 draws a 640 from deck 89
+player 89 discards a 16 to deck 90
+player 89 current hand : 917 765 54 95 73 647 420 763 604 699 79 758 11 293 603 927 38 854 600 640 
+player 89 draws a 163 from deck 89
+player 89 discards a 917 to deck 90
+player 89 current hand : 765 54 95 73 647 420 763 604 699 79 758 11 293 603 927 38 854 600 640 163 
+player 89 draws a 254 from deck 89
+player 89 discards a 765 to deck 90
+player 89 current hand : 54 95 73 647 420 763 604 699 79 758 11 293 603 927 38 854 600 640 163 254 
+player 89 draws a 272 from deck 89
+player 89 discards a 54 to deck 90
+player 89 current hand : 95 73 647 420 763 604 699 79 758 11 293 603 927 38 854 600 640 163 254 272 
+player 89 draws a 693 from deck 89
+player 89 discards a 95 to deck 90
+player 89 current hand : 73 647 420 763 604 699 79 758 11 293 603 927 38 854 600 640 163 254 272 693 
+player 89 draws a 2 from deck 89
+player 89 discards a 73 to deck 90
+player 89 current hand : 647 420 763 604 699 79 758 11 293 603 927 38 854 600 640 163 254 272 693 2 
+player 89 draws a 81 from deck 89
+player 89 discards a 647 to deck 90
+player 89 current hand : 420 763 604 699 79 758 11 293 603 927 38 854 600 640 163 254 272 693 2 81 
+player 89 draws a 499 from deck 89
+player 89 discards a 420 to deck 90
+player 89 current hand : 763 604 699 79 758 11 293 603 927 38 854 600 640 163 254 272 693 2 81 499 
+player 89 draws a 856 from deck 89
+player 89 discards a 763 to deck 90
+player 89 current hand : 604 699 79 758 11 293 603 927 38 854 600 640 163 254 272 693 2 81 499 856 
+player 89 draws a 864 from deck 89
+player 89 discards a 604 to deck 90
+player 89 current hand : 699 79 758 11 293 603 927 38 854 600 640 163 254 272 693 2 81 499 856 864 
+player 89 draws a 138 from deck 89
+player 89 discards a 699 to deck 90
+player 89 current hand : 79 758 11 293 603 927 38 854 600 640 163 254 272 693 2 81 499 856 864 138 
+player 89 draws a 654 from deck 89
+player 89 discards a 79 to deck 90
+player 89 current hand : 758 11 293 603 927 38 854 600 640 163 254 272 693 2 81 499 856 864 138 654 
+player 89 draws a 196 from deck 89
+player 89 discards a 758 to deck 90
+player 89 current hand : 11 293 603 927 38 854 600 640 163 254 272 693 2 81 499 856 864 138 654 196 
+player 89 draws a 38 from deck 89
+player 89 discards a 11 to deck 90
+player 89 current hand : 293 603 927 38 854 600 640 163 254 272 693 2 81 499 856 864 138 654 196 38 
+player 89 draws a 303 from deck 89
+player 89 discards a 293 to deck 90
+player 89 current hand : 603 927 38 854 600 640 163 254 272 693 2 81 499 856 864 138 654 196 38 303 
+player 89 draws a 204 from deck 89
+player 89 discards a 603 to deck 90
+player 89 current hand : 927 38 854 600 640 163 254 272 693 2 81 499 856 864 138 654 196 38 303 204 
+player 89 draws a 329 from deck 89
+player 89 discards a 927 to deck 90
+player 89 current hand : 38 854 600 640 163 254 272 693 2 81 499 856 864 138 654 196 38 303 204 329 
+player 89 draws a 471 from deck 89
+player 89 discards a 38 to deck 90
+player 89 current hand : 854 600 640 163 254 272 693 2 81 499 856 864 138 654 196 38 303 204 329 471 
+player 89 draws a 177 from deck 89
+player 89 discards a 854 to deck 90
+player 89 current hand : 600 640 163 254 272 693 2 81 499 856 864 138 654 196 38 303 204 329 471 177 
+player 89 draws a 47 from deck 89
+player 89 discards a 600 to deck 90
+player 89 current hand : 640 163 254 272 693 2 81 499 856 864 138 654 196 38 303 204 329 471 177 47 
+player 89 draws a 935 from deck 89
+player 89 discards a 640 to deck 90
+player 89 current hand : 163 254 272 693 2 81 499 856 864 138 654 196 38 303 204 329 471 177 47 935 
+player 89 draws a 720 from deck 89
+player 89 discards a 163 to deck 90
+player 89 current hand : 254 272 693 2 81 499 856 864 138 654 196 38 303 204 329 471 177 47 935 720 
+player 89 draws a 948 from deck 89
+player 89 discards a 254 to deck 90
+player 89 current hand : 272 693 2 81 499 856 864 138 654 196 38 303 204 329 471 177 47 935 720 948 
+player 89 draws a 612 from deck 89
+player 89 discards a 272 to deck 90
+player 89 current hand : 693 2 81 499 856 864 138 654 196 38 303 204 329 471 177 47 935 720 948 612 
+player 89 draws a 565 from deck 89
+player 89 discards a 693 to deck 90
+player 89 current hand : 2 81 499 856 864 138 654 196 38 303 204 329 471 177 47 935 720 948 612 565 
+player 89 draws a 415 from deck 89
+player 89 discards a 2 to deck 90
+player 89 current hand : 81 499 856 864 138 654 196 38 303 204 329 471 177 47 935 720 948 612 565 415 
+player 89 draws a 233 from deck 89
+player 89 discards a 81 to deck 90
+player 89 current hand : 499 856 864 138 654 196 38 303 204 329 471 177 47 935 720 948 612 565 415 233 
+player 89 draws a 214 from deck 89
+player 89 discards a 499 to deck 90
+player 89 current hand : 856 864 138 654 196 38 303 204 329 471 177 47 935 720 948 612 565 415 233 214 
+player 89 draws a 568 from deck 89
+player 89 discards a 856 to deck 90
+player 89 current hand : 864 138 654 196 38 303 204 329 471 177 47 935 720 948 612 565 415 233 214 568 
+player 89 draws a 557 from deck 89
+player 89 discards a 864 to deck 90
+player 89 current hand : 138 654 196 38 303 204 329 471 177 47 935 720 948 612 565 415 233 214 568 557 
+player 89 draws a 392 from deck 89
+player 89 discards a 138 to deck 90
+player 89 current hand : 654 196 38 303 204 329 471 177 47 935 720 948 612 565 415 233 214 568 557 392 
+player 89 draws a 2 from deck 89
+player 89 discards a 654 to deck 90
+player 89 current hand : 196 38 303 204 329 471 177 47 935 720 948 612 565 415 233 214 568 557 392 2 
+player 89 draws a 149 from deck 89
+player 89 discards a 196 to deck 90
+player 89 current hand : 38 303 204 329 471 177 47 935 720 948 612 565 415 233 214 568 557 392 2 149 
+player 89 draws a 688 from deck 89
+player 89 discards a 38 to deck 90
+player 89 current hand : 303 204 329 471 177 47 935 720 948 612 565 415 233 214 568 557 392 2 149 688 
+player 89 draws a 159 from deck 89
+player 89 discards a 303 to deck 90
+player 89 current hand : 204 329 471 177 47 935 720 948 612 565 415 233 214 568 557 392 2 149 688 159 
+player 89 draws a 160 from deck 89
+player 89 discards a 204 to deck 90
+player 89 current hand : 329 471 177 47 935 720 948 612 565 415 233 214 568 557 392 2 149 688 159 160 
+player 89 draws a 544 from deck 89
+player 89 discards a 329 to deck 90
+player 89 current hand : 471 177 47 935 720 948 612 565 415 233 214 568 557 392 2 149 688 159 160 544 
+player 89 draws a 835 from deck 89
+player 89 discards a 471 to deck 90
+player 89 current hand : 177 47 935 720 948 612 565 415 233 214 568 557 392 2 149 688 159 160 544 835 
+player 89 draws a 81 from deck 89
+player 89 discards a 177 to deck 90
+player 89 current hand : 47 935 720 948 612 565 415 233 214 568 557 392 2 149 688 159 160 544 835 81 
+player 89 draws a 508 from deck 89
+player 89 discards a 47 to deck 90
+player 89 current hand : 935 720 948 612 565 415 233 214 568 557 392 2 149 688 159 160 544 835 81 508 
+player 89 draws a 420 from deck 89
+player 89 discards a 935 to deck 90
+player 89 current hand : 720 948 612 565 415 233 214 568 557 392 2 149 688 159 160 544 835 81 508 420 
+player 89 draws a 434 from deck 89
+player 89 discards a 720 to deck 90
+player 89 current hand : 948 612 565 415 233 214 568 557 392 2 149 688 159 160 544 835 81 508 420 434 
+player 89 draws a 943 from deck 89
+player 89 discards a 948 to deck 90
+player 89 current hand : 612 565 415 233 214 568 557 392 2 149 688 159 160 544 835 81 508 420 434 943 
+player 89 draws a 690 from deck 89
+player 89 discards a 612 to deck 90
+player 89 current hand : 565 415 233 214 568 557 392 2 149 688 159 160 544 835 81 508 420 434 943 690 
+player 89 draws a 117 from deck 89
+player 89 discards a 565 to deck 90
+player 89 current hand : 415 233 214 568 557 392 2 149 688 159 160 544 835 81 508 420 434 943 690 117 
+player 89 draws a 111 from deck 89
+player 89 discards a 415 to deck 90
+player 89 current hand : 233 214 568 557 392 2 149 688 159 160 544 835 81 508 420 434 943 690 117 111 
+player 89 draws a 700 from deck 89
+player 89 discards a 233 to deck 90
+player 89 current hand : 214 568 557 392 2 149 688 159 160 544 835 81 508 420 434 943 690 117 111 700 
+player 89 draws a 452 from deck 89
+player 89 discards a 214 to deck 90
+player 89 current hand : 568 557 392 2 149 688 159 160 544 835 81 508 420 434 943 690 117 111 700 452 
+player 89 draws a 926 from deck 89
+player 89 discards a 568 to deck 90
+player 89 current hand : 557 392 2 149 688 159 160 544 835 81 508 420 434 943 690 117 111 700 452 926 
+player 89 draws a 266 from deck 89
+player 89 discards a 557 to deck 90
+player 89 current hand : 392 2 149 688 159 160 544 835 81 508 420 434 943 690 117 111 700 452 926 266 
+player 89 draws a 249 from deck 89
+player 89 discards a 392 to deck 90
+player 89 current hand : 2 149 688 159 160 544 835 81 508 420 434 943 690 117 111 700 452 926 266 249 
+player 89 draws a 401 from deck 89
+player 89 discards a 2 to deck 90
+player 89 current hand : 149 688 159 160 544 835 81 508 420 434 943 690 117 111 700 452 926 266 249 401 
+player 89 draws a 135 from deck 89
+player 89 discards a 149 to deck 90
+player 89 current hand : 688 159 160 544 835 81 508 420 434 943 690 117 111 700 452 926 266 249 401 135 
+player 89 draws a 557 from deck 89
+player 89 discards a 688 to deck 90
+player 89 current hand : 159 160 544 835 81 508 420 434 943 690 117 111 700 452 926 266 249 401 135 557 
+player 89 draws a 299 from deck 89
+player 89 discards a 159 to deck 90
+player 89 current hand : 160 544 835 81 508 420 434 943 690 117 111 700 452 926 266 249 401 135 557 299 
+player 89 draws a 392 from deck 89
+player 89 discards a 160 to deck 90
+player 89 current hand : 544 835 81 508 420 434 943 690 117 111 700 452 926 266 249 401 135 557 299 392 
+player 89 draws a 514 from deck 89
+player 89 discards a 544 to deck 90
+player 89 current hand : 835 81 508 420 434 943 690 117 111 700 452 926 266 249 401 135 557 299 392 514 
+player 89 draws a 827 from deck 89
+player 89 discards a 835 to deck 90
+player 89 current hand : 81 508 420 434 943 690 117 111 700 452 926 266 249 401 135 557 299 392 514 827 
+player 89 draws a 545 from deck 89
+player 89 discards a 81 to deck 90
+player 89 current hand : 508 420 434 943 690 117 111 700 452 926 266 249 401 135 557 299 392 514 827 545 
+player 89 draws a 370 from deck 89
+player 89 discards a 508 to deck 90
+player 89 current hand : 420 434 943 690 117 111 700 452 926 266 249 401 135 557 299 392 514 827 545 370 
+player 89 draws a 610 from deck 89
+player 89 discards a 420 to deck 90
+player 89 current hand : 434 943 690 117 111 700 452 926 266 249 401 135 557 299 392 514 827 545 370 610 
+player 89 draws a 104 from deck 89
+player 89 discards a 434 to deck 90
+player 89 current hand : 943 690 117 111 700 452 926 266 249 401 135 557 299 392 514 827 545 370 610 104 
+player 89 draws a 952 from deck 89
+player 89 discards a 943 to deck 90
+player 89 current hand : 690 117 111 700 452 926 266 249 401 135 557 299 392 514 827 545 370 610 104 952 
+player 89 draws a 909 from deck 89
+player 89 discards a 690 to deck 90
+player 89 current hand : 117 111 700 452 926 266 249 401 135 557 299 392 514 827 545 370 610 104 952 909 
+player 89 draws a 523 from deck 89
+player 89 discards a 117 to deck 90
+player 89 current hand : 111 700 452 926 266 249 401 135 557 299 392 514 827 545 370 610 104 952 909 523 

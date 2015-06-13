@@ -1,0 +1,296 @@
+player 280 initial hand 535 936 765 527 648 77 282 670 704 530 516 210 949 110 686 328 661 542 451 358 
+player 280 draws a 654 from deck 280
+player 280 discards a 535 to deck 281
+player 280 current hand : 936 765 527 648 77 282 670 704 530 516 210 949 110 686 328 661 542 451 358 654 
+player 280 draws a 924 from deck 280
+player 280 discards a 936 to deck 281
+player 280 current hand : 765 527 648 77 282 670 704 530 516 210 949 110 686 328 661 542 451 358 654 924 
+player 280 draws a 68 from deck 280
+player 280 discards a 765 to deck 281
+player 280 current hand : 527 648 77 282 670 704 530 516 210 949 110 686 328 661 542 451 358 654 924 68 
+player 280 draws a 406 from deck 280
+player 280 discards a 527 to deck 281
+player 280 current hand : 648 77 282 670 704 530 516 210 949 110 686 328 661 542 451 358 654 924 68 406 
+player 280 draws a 42 from deck 280
+player 280 discards a 648 to deck 281
+player 280 current hand : 77 282 670 704 530 516 210 949 110 686 328 661 542 451 358 654 924 68 406 42 
+player 280 draws a 308 from deck 280
+player 280 discards a 77 to deck 281
+player 280 current hand : 282 670 704 530 516 210 949 110 686 328 661 542 451 358 654 924 68 406 42 308 
+player 280 draws a 77 from deck 280
+player 280 discards a 282 to deck 281
+player 280 current hand : 670 704 530 516 210 949 110 686 328 661 542 451 358 654 924 68 406 42 308 77 
+player 280 draws a 571 from deck 280
+player 280 discards a 670 to deck 281
+player 280 current hand : 704 530 516 210 949 110 686 328 661 542 451 358 654 924 68 406 42 308 77 571 
+player 280 draws a 715 from deck 280
+player 280 discards a 704 to deck 281
+player 280 current hand : 530 516 210 949 110 686 328 661 542 451 358 654 924 68 406 42 308 77 571 715 
+player 280 draws a 81 from deck 280
+player 280 discards a 530 to deck 281
+player 280 current hand : 516 210 949 110 686 328 661 542 451 358 654 924 68 406 42 308 77 571 715 81 
+player 280 draws a 162 from deck 280
+player 280 discards a 516 to deck 281
+player 280 current hand : 210 949 110 686 328 661 542 451 358 654 924 68 406 42 308 77 571 715 81 162 
+player 280 draws a 10 from deck 280
+player 280 discards a 210 to deck 281
+player 280 current hand : 949 110 686 328 661 542 451 358 654 924 68 406 42 308 77 571 715 81 162 10 
+player 280 draws a 152 from deck 280
+player 280 discards a 949 to deck 281
+player 280 current hand : 110 686 328 661 542 451 358 654 924 68 406 42 308 77 571 715 81 162 10 152 
+player 280 draws a 4 from deck 280
+player 280 discards a 110 to deck 281
+player 280 current hand : 686 328 661 542 451 358 654 924 68 406 42 308 77 571 715 81 162 10 152 4 
+player 280 draws a 150 from deck 280
+player 280 discards a 686 to deck 281
+player 280 current hand : 328 661 542 451 358 654 924 68 406 42 308 77 571 715 81 162 10 152 4 150 
+player 280 draws a 136 from deck 280
+player 280 discards a 328 to deck 281
+player 280 current hand : 661 542 451 358 654 924 68 406 42 308 77 571 715 81 162 10 152 4 150 136 
+player 280 draws a 515 from deck 280
+player 280 discards a 661 to deck 281
+player 280 current hand : 542 451 358 654 924 68 406 42 308 77 571 715 81 162 10 152 4 150 136 515 
+player 280 draws a 165 from deck 280
+player 280 discards a 542 to deck 281
+player 280 current hand : 451 358 654 924 68 406 42 308 77 571 715 81 162 10 152 4 150 136 515 165 
+player 280 draws a 425 from deck 280
+player 280 discards a 451 to deck 281
+player 280 current hand : 358 654 924 68 406 42 308 77 571 715 81 162 10 152 4 150 136 515 165 425 
+player 280 draws a 455 from deck 280
+player 280 discards a 358 to deck 281
+player 280 current hand : 654 924 68 406 42 308 77 571 715 81 162 10 152 4 150 136 515 165 425 455 
+player 280 draws a 282 from deck 280
+player 280 discards a 654 to deck 281
+player 280 current hand : 924 68 406 42 308 77 571 715 81 162 10 152 4 150 136 515 165 425 455 282 
+player 280 draws a 780 from deck 280
+player 280 discards a 924 to deck 281
+player 280 current hand : 68 406 42 308 77 571 715 81 162 10 152 4 150 136 515 165 425 455 282 780 
+player 280 draws a 111 from deck 280
+player 280 discards a 68 to deck 281
+player 280 current hand : 406 42 308 77 571 715 81 162 10 152 4 150 136 515 165 425 455 282 780 111 
+player 280 draws a 9 from deck 280
+player 280 discards a 406 to deck 281
+player 280 current hand : 42 308 77 571 715 81 162 10 152 4 150 136 515 165 425 455 282 780 111 9 
+player 280 draws a 157 from deck 280
+player 280 discards a 42 to deck 281
+player 280 current hand : 308 77 571 715 81 162 10 152 4 150 136 515 165 425 455 282 780 111 9 157 
+player 280 draws a 242 from deck 280
+player 280 discards a 308 to deck 281
+player 280 current hand : 77 571 715 81 162 10 152 4 150 136 515 165 425 455 282 780 111 9 157 242 
+player 280 draws a 875 from deck 280
+player 280 discards a 77 to deck 281
+player 280 current hand : 571 715 81 162 10 152 4 150 136 515 165 425 455 282 780 111 9 157 242 875 
+player 280 draws a 65 from deck 280
+player 280 discards a 571 to deck 281
+player 280 current hand : 715 81 162 10 152 4 150 136 515 165 425 455 282 780 111 9 157 242 875 65 
+player 280 draws a 161 from deck 280
+player 280 discards a 715 to deck 281
+player 280 current hand : 81 162 10 152 4 150 136 515 165 425 455 282 780 111 9 157 242 875 65 161 
+player 280 draws a 256 from deck 280
+player 280 discards a 81 to deck 281
+player 280 current hand : 162 10 152 4 150 136 515 165 425 455 282 780 111 9 157 242 875 65 161 256 
+player 280 draws a 242 from deck 280
+player 280 discards a 162 to deck 281
+player 280 current hand : 10 152 4 150 136 515 165 425 455 282 780 111 9 157 242 875 65 161 256 242 
+player 280 draws a 196 from deck 280
+player 280 discards a 10 to deck 281
+player 280 current hand : 152 4 150 136 515 165 425 455 282 780 111 9 157 242 875 65 161 256 242 196 
+player 280 draws a 627 from deck 280
+player 280 discards a 152 to deck 281
+player 280 current hand : 4 150 136 515 165 425 455 282 780 111 9 157 242 875 65 161 256 242 196 627 
+player 280 draws a 244 from deck 280
+player 280 discards a 4 to deck 281
+player 280 current hand : 150 136 515 165 425 455 282 780 111 9 157 242 875 65 161 256 242 196 627 244 
+player 280 draws a 601 from deck 280
+player 280 discards a 150 to deck 281
+player 280 current hand : 136 515 165 425 455 282 780 111 9 157 242 875 65 161 256 242 196 627 244 601 
+player 280 draws a 972 from deck 280
+player 280 discards a 136 to deck 281
+player 280 current hand : 515 165 425 455 282 780 111 9 157 242 875 65 161 256 242 196 627 244 601 972 
+player 280 draws a 512 from deck 280
+player 280 discards a 515 to deck 281
+player 280 current hand : 165 425 455 282 780 111 9 157 242 875 65 161 256 242 196 627 244 601 972 512 
+player 280 draws a 690 from deck 280
+player 280 discards a 165 to deck 281
+player 280 current hand : 425 455 282 780 111 9 157 242 875 65 161 256 242 196 627 244 601 972 512 690 
+player 280 draws a 161 from deck 280
+player 280 discards a 425 to deck 281
+player 280 current hand : 455 282 780 111 9 157 242 875 65 161 256 242 196 627 244 601 972 512 690 161 
+player 280 draws a 377 from deck 280
+player 280 discards a 455 to deck 281
+player 280 current hand : 282 780 111 9 157 242 875 65 161 256 242 196 627 244 601 972 512 690 161 377 
+player 280 draws a 363 from deck 280
+player 280 discards a 282 to deck 281
+player 280 current hand : 780 111 9 157 242 875 65 161 256 242 196 627 244 601 972 512 690 161 377 363 
+player 280 draws a 487 from deck 280
+player 280 discards a 780 to deck 281
+player 280 current hand : 111 9 157 242 875 65 161 256 242 196 627 244 601 972 512 690 161 377 363 487 
+player 280 draws a 834 from deck 280
+player 280 discards a 111 to deck 281
+player 280 current hand : 9 157 242 875 65 161 256 242 196 627 244 601 972 512 690 161 377 363 487 834 
+player 280 draws a 187 from deck 280
+player 280 discards a 9 to deck 281
+player 280 current hand : 157 242 875 65 161 256 242 196 627 244 601 972 512 690 161 377 363 487 834 187 
+player 280 draws a 474 from deck 280
+player 280 discards a 157 to deck 281
+player 280 current hand : 242 875 65 161 256 242 196 627 244 601 972 512 690 161 377 363 487 834 187 474 
+player 280 draws a 835 from deck 280
+player 280 discards a 242 to deck 281
+player 280 current hand : 875 65 161 256 242 196 627 244 601 972 512 690 161 377 363 487 834 187 474 835 
+player 280 draws a 174 from deck 280
+player 280 discards a 875 to deck 281
+player 280 current hand : 65 161 256 242 196 627 244 601 972 512 690 161 377 363 487 834 187 474 835 174 
+player 280 draws a 768 from deck 280
+player 280 discards a 65 to deck 281
+player 280 current hand : 161 256 242 196 627 244 601 972 512 690 161 377 363 487 834 187 474 835 174 768 
+player 280 draws a 605 from deck 280
+player 280 discards a 161 to deck 281
+player 280 current hand : 256 242 196 627 244 601 972 512 690 161 377 363 487 834 187 474 835 174 768 605 
+player 280 draws a 797 from deck 280
+player 280 discards a 256 to deck 281
+player 280 current hand : 242 196 627 244 601 972 512 690 161 377 363 487 834 187 474 835 174 768 605 797 
+player 280 draws a 319 from deck 280
+player 280 discards a 242 to deck 281
+player 280 current hand : 196 627 244 601 972 512 690 161 377 363 487 834 187 474 835 174 768 605 797 319 
+player 280 draws a 835 from deck 280
+player 280 discards a 196 to deck 281
+player 280 current hand : 627 244 601 972 512 690 161 377 363 487 834 187 474 835 174 768 605 797 319 835 
+player 280 draws a 455 from deck 280
+player 280 discards a 627 to deck 281
+player 280 current hand : 244 601 972 512 690 161 377 363 487 834 187 474 835 174 768 605 797 319 835 455 
+player 280 draws a 284 from deck 280
+player 280 discards a 244 to deck 281
+player 280 current hand : 601 972 512 690 161 377 363 487 834 187 474 835 174 768 605 797 319 835 455 284 
+player 280 draws a 649 from deck 280
+player 280 discards a 601 to deck 281
+player 280 current hand : 972 512 690 161 377 363 487 834 187 474 835 174 768 605 797 319 835 455 284 649 
+player 280 draws a 16 from deck 280
+player 280 discards a 972 to deck 281
+player 280 current hand : 512 690 161 377 363 487 834 187 474 835 174 768 605 797 319 835 455 284 649 16 
+player 280 draws a 182 from deck 280
+player 280 discards a 512 to deck 281
+player 280 current hand : 690 161 377 363 487 834 187 474 835 174 768 605 797 319 835 455 284 649 16 182 
+player 280 draws a 391 from deck 280
+player 280 discards a 690 to deck 281
+player 280 current hand : 161 377 363 487 834 187 474 835 174 768 605 797 319 835 455 284 649 16 182 391 
+player 280 draws a 452 from deck 280
+player 280 discards a 161 to deck 281
+player 280 current hand : 377 363 487 834 187 474 835 174 768 605 797 319 835 455 284 649 16 182 391 452 
+player 280 draws a 399 from deck 280
+player 280 discards a 377 to deck 281
+player 280 current hand : 363 487 834 187 474 835 174 768 605 797 319 835 455 284 649 16 182 391 452 399 
+player 280 draws a 897 from deck 280
+player 280 discards a 363 to deck 281
+player 280 current hand : 487 834 187 474 835 174 768 605 797 319 835 455 284 649 16 182 391 452 399 897 
+player 280 draws a 783 from deck 280
+player 280 discards a 487 to deck 281
+player 280 current hand : 834 187 474 835 174 768 605 797 319 835 455 284 649 16 182 391 452 399 897 783 
+player 280 draws a 949 from deck 280
+player 280 discards a 834 to deck 281
+player 280 current hand : 187 474 835 174 768 605 797 319 835 455 284 649 16 182 391 452 399 897 783 949 
+player 280 draws a 831 from deck 280
+player 280 discards a 187 to deck 281
+player 280 current hand : 474 835 174 768 605 797 319 835 455 284 649 16 182 391 452 399 897 783 949 831 
+player 280 draws a 105 from deck 280
+player 280 discards a 474 to deck 281
+player 280 current hand : 835 174 768 605 797 319 835 455 284 649 16 182 391 452 399 897 783 949 831 105 
+player 280 draws a 470 from deck 280
+player 280 discards a 835 to deck 281
+player 280 current hand : 174 768 605 797 319 835 455 284 649 16 182 391 452 399 897 783 949 831 105 470 
+player 280 draws a 696 from deck 280
+player 280 discards a 174 to deck 281
+player 280 current hand : 768 605 797 319 835 455 284 649 16 182 391 452 399 897 783 949 831 105 470 696 
+player 280 draws a 892 from deck 280
+player 280 discards a 768 to deck 281
+player 280 current hand : 605 797 319 835 455 284 649 16 182 391 452 399 897 783 949 831 105 470 696 892 
+player 280 draws a 712 from deck 280
+player 280 discards a 605 to deck 281
+player 280 current hand : 797 319 835 455 284 649 16 182 391 452 399 897 783 949 831 105 470 696 892 712 
+player 280 draws a 693 from deck 280
+player 280 discards a 797 to deck 281
+player 280 current hand : 319 835 455 284 649 16 182 391 452 399 897 783 949 831 105 470 696 892 712 693 
+player 280 draws a 600 from deck 280
+player 280 discards a 319 to deck 281
+player 280 current hand : 835 455 284 649 16 182 391 452 399 897 783 949 831 105 470 696 892 712 693 600 
+player 280 draws a 677 from deck 280
+player 280 discards a 835 to deck 281
+player 280 current hand : 455 284 649 16 182 391 452 399 897 783 949 831 105 470 696 892 712 693 600 677 
+player 280 draws a 776 from deck 280
+player 280 discards a 455 to deck 281
+player 280 current hand : 284 649 16 182 391 452 399 897 783 949 831 105 470 696 892 712 693 600 677 776 
+player 280 draws a 229 from deck 280
+player 280 discards a 284 to deck 281
+player 280 current hand : 649 16 182 391 452 399 897 783 949 831 105 470 696 892 712 693 600 677 776 229 
+player 280 draws a 882 from deck 280
+player 280 discards a 649 to deck 281
+player 280 current hand : 16 182 391 452 399 897 783 949 831 105 470 696 892 712 693 600 677 776 229 882 
+player 280 draws a 647 from deck 280
+player 280 discards a 16 to deck 281
+player 280 current hand : 182 391 452 399 897 783 949 831 105 470 696 892 712 693 600 677 776 229 882 647 
+player 280 draws a 944 from deck 280
+player 280 discards a 182 to deck 281
+player 280 current hand : 391 452 399 897 783 949 831 105 470 696 892 712 693 600 677 776 229 882 647 944 
+player 280 draws a 666 from deck 280
+player 280 discards a 391 to deck 281
+player 280 current hand : 452 399 897 783 949 831 105 470 696 892 712 693 600 677 776 229 882 647 944 666 
+player 280 draws a 542 from deck 280
+player 280 discards a 452 to deck 281
+player 280 current hand : 399 897 783 949 831 105 470 696 892 712 693 600 677 776 229 882 647 944 666 542 
+player 280 draws a 888 from deck 280
+player 280 discards a 399 to deck 281
+player 280 current hand : 897 783 949 831 105 470 696 892 712 693 600 677 776 229 882 647 944 666 542 888 
+player 280 draws a 109 from deck 280
+player 280 discards a 897 to deck 281
+player 280 current hand : 783 949 831 105 470 696 892 712 693 600 677 776 229 882 647 944 666 542 888 109 
+player 280 draws a 114 from deck 280
+player 280 discards a 783 to deck 281
+player 280 current hand : 949 831 105 470 696 892 712 693 600 677 776 229 882 647 944 666 542 888 109 114 
+player 280 draws a 61 from deck 280
+player 280 discards a 949 to deck 281
+player 280 current hand : 831 105 470 696 892 712 693 600 677 776 229 882 647 944 666 542 888 109 114 61 
+player 280 draws a 705 from deck 280
+player 280 discards a 831 to deck 281
+player 280 current hand : 105 470 696 892 712 693 600 677 776 229 882 647 944 666 542 888 109 114 61 705 
+player 280 draws a 401 from deck 280
+player 280 discards a 105 to deck 281
+player 280 current hand : 470 696 892 712 693 600 677 776 229 882 647 944 666 542 888 109 114 61 705 401 
+player 280 draws a 240 from deck 280
+player 280 discards a 470 to deck 281
+player 280 current hand : 696 892 712 693 600 677 776 229 882 647 944 666 542 888 109 114 61 705 401 240 
+player 280 draws a 457 from deck 280
+player 280 discards a 696 to deck 281
+player 280 current hand : 892 712 693 600 677 776 229 882 647 944 666 542 888 109 114 61 705 401 240 457 
+player 280 draws a 990 from deck 280
+player 280 discards a 892 to deck 281
+player 280 current hand : 712 693 600 677 776 229 882 647 944 666 542 888 109 114 61 705 401 240 457 990 
+player 280 draws a 262 from deck 280
+player 280 discards a 712 to deck 281
+player 280 current hand : 693 600 677 776 229 882 647 944 666 542 888 109 114 61 705 401 240 457 990 262 
+player 280 draws a 971 from deck 280
+player 280 discards a 693 to deck 281
+player 280 current hand : 600 677 776 229 882 647 944 666 542 888 109 114 61 705 401 240 457 990 262 971 
+player 280 draws a 407 from deck 280
+player 280 discards a 600 to deck 281
+player 280 current hand : 677 776 229 882 647 944 666 542 888 109 114 61 705 401 240 457 990 262 971 407 
+player 280 draws a 608 from deck 280
+player 280 discards a 677 to deck 281
+player 280 current hand : 776 229 882 647 944 666 542 888 109 114 61 705 401 240 457 990 262 971 407 608 
+player 280 draws a 602 from deck 280
+player 280 discards a 776 to deck 281
+player 280 current hand : 229 882 647 944 666 542 888 109 114 61 705 401 240 457 990 262 971 407 608 602 
+player 280 draws a 348 from deck 280
+player 280 discards a 229 to deck 281
+player 280 current hand : 882 647 944 666 542 888 109 114 61 705 401 240 457 990 262 971 407 608 602 348 
+player 280 draws a 245 from deck 280
+player 280 discards a 882 to deck 281
+player 280 current hand : 647 944 666 542 888 109 114 61 705 401 240 457 990 262 971 407 608 602 348 245 
+player 280 draws a 422 from deck 280
+player 280 discards a 647 to deck 281
+player 280 current hand : 944 666 542 888 109 114 61 705 401 240 457 990 262 971 407 608 602 348 245 422 
+player 280 draws a 228 from deck 280
+player 280 discards a 944 to deck 281
+player 280 current hand : 666 542 888 109 114 61 705 401 240 457 990 262 971 407 608 602 348 245 422 228 
+player 280 draws a 473 from deck 280
+player 280 discards a 666 to deck 281
+player 280 current hand : 542 888 109 114 61 705 401 240 457 990 262 971 407 608 602 348 245 422 228 473 
+player 280 draws a 254 from deck 280

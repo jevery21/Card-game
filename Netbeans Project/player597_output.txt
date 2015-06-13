@@ -1,0 +1,315 @@
+player 597 initial hand 120 122 188 865 558 690 744 546 691 415 518 971 84 546 169 636 668 539 796 1000 
+player 597 draws a 369 from deck 597
+player 597 discards a 120 to deck 598
+player 597 current hand : 122 188 865 558 690 744 546 691 415 518 971 84 546 169 636 668 539 796 1000 369 
+player 597 draws a 153 from deck 597
+player 597 discards a 122 to deck 598
+player 597 current hand : 188 865 558 690 744 546 691 415 518 971 84 546 169 636 668 539 796 1000 369 153 
+player 597 draws a 947 from deck 597
+player 597 discards a 188 to deck 598
+player 597 current hand : 865 558 690 744 546 691 415 518 971 84 546 169 636 668 539 796 1000 369 153 947 
+player 597 draws a 188 from deck 597
+player 597 discards a 865 to deck 598
+player 597 current hand : 558 690 744 546 691 415 518 971 84 546 169 636 668 539 796 1000 369 153 947 188 
+player 597 draws a 852 from deck 597
+player 597 discards a 558 to deck 598
+player 597 current hand : 690 744 546 691 415 518 971 84 546 169 636 668 539 796 1000 369 153 947 188 852 
+player 597 draws a 989 from deck 597
+player 597 discards a 690 to deck 598
+player 597 current hand : 744 546 691 415 518 971 84 546 169 636 668 539 796 1000 369 153 947 188 852 989 
+player 597 draws a 29 from deck 597
+player 597 discards a 744 to deck 598
+player 597 current hand : 546 691 415 518 971 84 546 169 636 668 539 796 1000 369 153 947 188 852 989 29 
+player 597 draws a 975 from deck 597
+player 597 discards a 546 to deck 598
+player 597 current hand : 691 415 518 971 84 546 169 636 668 539 796 1000 369 153 947 188 852 989 29 975 
+player 597 draws a 415 from deck 597
+player 597 discards a 691 to deck 598
+player 597 current hand : 415 518 971 84 546 169 636 668 539 796 1000 369 153 947 188 852 989 29 975 415 
+player 597 draws a 114 from deck 597
+player 597 discards a 415 to deck 598
+player 597 current hand : 518 971 84 546 169 636 668 539 796 1000 369 153 947 188 852 989 29 975 415 114 
+player 597 draws a 696 from deck 597
+player 597 discards a 518 to deck 598
+player 597 current hand : 971 84 546 169 636 668 539 796 1000 369 153 947 188 852 989 29 975 415 114 696 
+player 597 draws a 377 from deck 597
+player 597 discards a 971 to deck 598
+player 597 current hand : 84 546 169 636 668 539 796 1000 369 153 947 188 852 989 29 975 415 114 696 377 
+player 597 draws a 357 from deck 597
+player 597 discards a 84 to deck 598
+player 597 current hand : 546 169 636 668 539 796 1000 369 153 947 188 852 989 29 975 415 114 696 377 357 
+player 597 draws a 19 from deck 597
+player 597 discards a 546 to deck 598
+player 597 current hand : 169 636 668 539 796 1000 369 153 947 188 852 989 29 975 415 114 696 377 357 19 
+player 597 draws a 732 from deck 597
+player 597 discards a 169 to deck 598
+player 597 current hand : 636 668 539 796 1000 369 153 947 188 852 989 29 975 415 114 696 377 357 19 732 
+player 597 draws a 902 from deck 597
+player 597 discards a 636 to deck 598
+player 597 current hand : 668 539 796 1000 369 153 947 188 852 989 29 975 415 114 696 377 357 19 732 902 
+player 597 draws a 248 from deck 597
+player 597 discards a 668 to deck 598
+player 597 current hand : 539 796 1000 369 153 947 188 852 989 29 975 415 114 696 377 357 19 732 902 248 
+player 597 draws a 867 from deck 597
+player 597 discards a 539 to deck 598
+player 597 current hand : 796 1000 369 153 947 188 852 989 29 975 415 114 696 377 357 19 732 902 248 867 
+player 597 draws a 585 from deck 597
+player 597 discards a 796 to deck 598
+player 597 current hand : 1000 369 153 947 188 852 989 29 975 415 114 696 377 357 19 732 902 248 867 585 
+player 597 draws a 4 from deck 597
+player 597 discards a 1000 to deck 598
+player 597 current hand : 369 153 947 188 852 989 29 975 415 114 696 377 357 19 732 902 248 867 585 4 
+player 597 draws a 360 from deck 597
+player 597 discards a 369 to deck 598
+player 597 current hand : 153 947 188 852 989 29 975 415 114 696 377 357 19 732 902 248 867 585 4 360 
+player 597 draws a 581 from deck 597
+player 597 discards a 153 to deck 598
+player 597 current hand : 947 188 852 989 29 975 415 114 696 377 357 19 732 902 248 867 585 4 360 581 
+player 597 draws a 429 from deck 597
+player 597 discards a 947 to deck 598
+player 597 current hand : 188 852 989 29 975 415 114 696 377 357 19 732 902 248 867 585 4 360 581 429 
+player 597 draws a 40 from deck 597
+player 597 discards a 188 to deck 598
+player 597 current hand : 852 989 29 975 415 114 696 377 357 19 732 902 248 867 585 4 360 581 429 40 
+player 597 draws a 562 from deck 597
+player 597 discards a 852 to deck 598
+player 597 current hand : 989 29 975 415 114 696 377 357 19 732 902 248 867 585 4 360 581 429 40 562 
+player 597 draws a 304 from deck 597
+player 597 discards a 989 to deck 598
+player 597 current hand : 29 975 415 114 696 377 357 19 732 902 248 867 585 4 360 581 429 40 562 304 
+player 597 draws a 303 from deck 597
+player 597 discards a 29 to deck 598
+player 597 current hand : 975 415 114 696 377 357 19 732 902 248 867 585 4 360 581 429 40 562 304 303 
+player 597 draws a 941 from deck 597
+player 597 discards a 975 to deck 598
+player 597 current hand : 415 114 696 377 357 19 732 902 248 867 585 4 360 581 429 40 562 304 303 941 
+player 597 draws a 712 from deck 597
+player 597 discards a 415 to deck 598
+player 597 current hand : 114 696 377 357 19 732 902 248 867 585 4 360 581 429 40 562 304 303 941 712 
+player 597 draws a 773 from deck 597
+player 597 discards a 114 to deck 598
+player 597 current hand : 696 377 357 19 732 902 248 867 585 4 360 581 429 40 562 304 303 941 712 773 
+player 597 draws a 17 from deck 597
+player 597 discards a 696 to deck 598
+player 597 current hand : 377 357 19 732 902 248 867 585 4 360 581 429 40 562 304 303 941 712 773 17 
+player 597 draws a 460 from deck 597
+player 597 discards a 377 to deck 598
+player 597 current hand : 357 19 732 902 248 867 585 4 360 581 429 40 562 304 303 941 712 773 17 460 
+player 597 draws a 449 from deck 597
+player 597 discards a 357 to deck 598
+player 597 current hand : 19 732 902 248 867 585 4 360 581 429 40 562 304 303 941 712 773 17 460 449 
+player 597 draws a 593 from deck 597
+player 597 discards a 19 to deck 598
+player 597 current hand : 732 902 248 867 585 4 360 581 429 40 562 304 303 941 712 773 17 460 449 593 
+player 597 draws a 815 from deck 597
+player 597 discards a 732 to deck 598
+player 597 current hand : 902 248 867 585 4 360 581 429 40 562 304 303 941 712 773 17 460 449 593 815 
+player 597 draws a 650 from deck 597
+player 597 discards a 902 to deck 598
+player 597 current hand : 248 867 585 4 360 581 429 40 562 304 303 941 712 773 17 460 449 593 815 650 
+player 597 draws a 305 from deck 597
+player 597 discards a 248 to deck 598
+player 597 current hand : 867 585 4 360 581 429 40 562 304 303 941 712 773 17 460 449 593 815 650 305 
+player 597 draws a 248 from deck 597
+player 597 discards a 867 to deck 598
+player 597 current hand : 585 4 360 581 429 40 562 304 303 941 712 773 17 460 449 593 815 650 305 248 
+player 597 draws a 326 from deck 597
+player 597 discards a 585 to deck 598
+player 597 current hand : 4 360 581 429 40 562 304 303 941 712 773 17 460 449 593 815 650 305 248 326 
+player 597 draws a 12 from deck 597
+player 597 discards a 4 to deck 598
+player 597 current hand : 360 581 429 40 562 304 303 941 712 773 17 460 449 593 815 650 305 248 326 12 
+player 597 draws a 943 from deck 597
+player 597 discards a 360 to deck 598
+player 597 current hand : 581 429 40 562 304 303 941 712 773 17 460 449 593 815 650 305 248 326 12 943 
+player 597 draws a 838 from deck 597
+player 597 discards a 581 to deck 598
+player 597 current hand : 429 40 562 304 303 941 712 773 17 460 449 593 815 650 305 248 326 12 943 838 
+player 597 draws a 576 from deck 597
+player 597 discards a 429 to deck 598
+player 597 current hand : 40 562 304 303 941 712 773 17 460 449 593 815 650 305 248 326 12 943 838 576 
+player 597 draws a 494 from deck 597
+player 597 discards a 40 to deck 598
+player 597 current hand : 562 304 303 941 712 773 17 460 449 593 815 650 305 248 326 12 943 838 576 494 
+player 597 draws a 782 from deck 597
+player 597 discards a 562 to deck 598
+player 597 current hand : 304 303 941 712 773 17 460 449 593 815 650 305 248 326 12 943 838 576 494 782 
+player 597 draws a 939 from deck 597
+player 597 discards a 304 to deck 598
+player 597 current hand : 303 941 712 773 17 460 449 593 815 650 305 248 326 12 943 838 576 494 782 939 
+player 597 draws a 792 from deck 597
+player 597 discards a 303 to deck 598
+player 597 current hand : 941 712 773 17 460 449 593 815 650 305 248 326 12 943 838 576 494 782 939 792 
+player 597 draws a 177 from deck 597
+player 597 discards a 941 to deck 598
+player 597 current hand : 712 773 17 460 449 593 815 650 305 248 326 12 943 838 576 494 782 939 792 177 
+player 597 draws a 827 from deck 597
+player 597 discards a 712 to deck 598
+player 597 current hand : 773 17 460 449 593 815 650 305 248 326 12 943 838 576 494 782 939 792 177 827 
+player 597 draws a 216 from deck 597
+player 597 discards a 773 to deck 598
+player 597 current hand : 17 460 449 593 815 650 305 248 326 12 943 838 576 494 782 939 792 177 827 216 
+player 597 draws a 888 from deck 597
+player 597 discards a 17 to deck 598
+player 597 current hand : 460 449 593 815 650 305 248 326 12 943 838 576 494 782 939 792 177 827 216 888 
+player 597 draws a 744 from deck 597
+player 597 discards a 460 to deck 598
+player 597 current hand : 449 593 815 650 305 248 326 12 943 838 576 494 782 939 792 177 827 216 888 744 
+player 597 draws a 906 from deck 597
+player 597 discards a 449 to deck 598
+player 597 current hand : 593 815 650 305 248 326 12 943 838 576 494 782 939 792 177 827 216 888 744 906 
+player 597 draws a 816 from deck 597
+player 597 discards a 593 to deck 598
+player 597 current hand : 815 650 305 248 326 12 943 838 576 494 782 939 792 177 827 216 888 744 906 816 
+player 597 draws a 79 from deck 597
+player 597 discards a 815 to deck 598
+player 597 current hand : 650 305 248 326 12 943 838 576 494 782 939 792 177 827 216 888 744 906 816 79 
+player 597 draws a 156 from deck 597
+player 597 discards a 650 to deck 598
+player 597 current hand : 305 248 326 12 943 838 576 494 782 939 792 177 827 216 888 744 906 816 79 156 
+player 597 draws a 160 from deck 597
+player 597 discards a 305 to deck 598
+player 597 current hand : 248 326 12 943 838 576 494 782 939 792 177 827 216 888 744 906 816 79 156 160 
+player 597 draws a 614 from deck 597
+player 597 discards a 248 to deck 598
+player 597 current hand : 326 12 943 838 576 494 782 939 792 177 827 216 888 744 906 816 79 156 160 614 
+player 597 draws a 894 from deck 597
+player 597 discards a 326 to deck 598
+player 597 current hand : 12 943 838 576 494 782 939 792 177 827 216 888 744 906 816 79 156 160 614 894 
+player 597 draws a 589 from deck 597
+player 597 discards a 12 to deck 598
+player 597 current hand : 943 838 576 494 782 939 792 177 827 216 888 744 906 816 79 156 160 614 894 589 
+player 597 draws a 688 from deck 597
+player 597 discards a 943 to deck 598
+player 597 current hand : 838 576 494 782 939 792 177 827 216 888 744 906 816 79 156 160 614 894 589 688 
+player 597 draws a 681 from deck 597
+player 597 discards a 838 to deck 598
+player 597 current hand : 576 494 782 939 792 177 827 216 888 744 906 816 79 156 160 614 894 589 688 681 
+player 597 draws a 164 from deck 597
+player 597 discards a 576 to deck 598
+player 597 current hand : 494 782 939 792 177 827 216 888 744 906 816 79 156 160 614 894 589 688 681 164 
+player 597 draws a 860 from deck 597
+player 597 discards a 494 to deck 598
+player 597 current hand : 782 939 792 177 827 216 888 744 906 816 79 156 160 614 894 589 688 681 164 860 
+player 597 draws a 436 from deck 597
+player 597 discards a 782 to deck 598
+player 597 current hand : 939 792 177 827 216 888 744 906 816 79 156 160 614 894 589 688 681 164 860 436 
+player 597 draws a 384 from deck 597
+player 597 discards a 939 to deck 598
+player 597 current hand : 792 177 827 216 888 744 906 816 79 156 160 614 894 589 688 681 164 860 436 384 
+player 597 draws a 784 from deck 597
+player 597 discards a 792 to deck 598
+player 597 current hand : 177 827 216 888 744 906 816 79 156 160 614 894 589 688 681 164 860 436 384 784 
+player 597 draws a 239 from deck 597
+player 597 discards a 177 to deck 598
+player 597 current hand : 827 216 888 744 906 816 79 156 160 614 894 589 688 681 164 860 436 384 784 239 
+player 597 draws a 370 from deck 597
+player 597 discards a 827 to deck 598
+player 597 current hand : 216 888 744 906 816 79 156 160 614 894 589 688 681 164 860 436 384 784 239 370 
+player 597 draws a 764 from deck 597
+player 597 discards a 216 to deck 598
+player 597 current hand : 888 744 906 816 79 156 160 614 894 589 688 681 164 860 436 384 784 239 370 764 
+player 597 draws a 265 from deck 597
+player 597 discards a 888 to deck 598
+player 597 current hand : 744 906 816 79 156 160 614 894 589 688 681 164 860 436 384 784 239 370 764 265 
+player 597 draws a 986 from deck 597
+player 597 discards a 744 to deck 598
+player 597 current hand : 906 816 79 156 160 614 894 589 688 681 164 860 436 384 784 239 370 764 265 986 
+player 597 draws a 515 from deck 597
+player 597 discards a 906 to deck 598
+player 597 current hand : 816 79 156 160 614 894 589 688 681 164 860 436 384 784 239 370 764 265 986 515 
+player 597 draws a 511 from deck 597
+player 597 discards a 816 to deck 598
+player 597 current hand : 79 156 160 614 894 589 688 681 164 860 436 384 784 239 370 764 265 986 515 511 
+player 597 draws a 666 from deck 597
+player 597 discards a 79 to deck 598
+player 597 current hand : 156 160 614 894 589 688 681 164 860 436 384 784 239 370 764 265 986 515 511 666 
+player 597 draws a 111 from deck 597
+player 597 discards a 156 to deck 598
+player 597 current hand : 160 614 894 589 688 681 164 860 436 384 784 239 370 764 265 986 515 511 666 111 
+player 597 draws a 706 from deck 597
+player 597 discards a 160 to deck 598
+player 597 current hand : 614 894 589 688 681 164 860 436 384 784 239 370 764 265 986 515 511 666 111 706 
+player 597 draws a 107 from deck 597
+player 597 discards a 614 to deck 598
+player 597 current hand : 894 589 688 681 164 860 436 384 784 239 370 764 265 986 515 511 666 111 706 107 
+player 597 draws a 470 from deck 597
+player 597 discards a 894 to deck 598
+player 597 current hand : 589 688 681 164 860 436 384 784 239 370 764 265 986 515 511 666 111 706 107 470 
+player 597 draws a 769 from deck 597
+player 597 discards a 589 to deck 598
+player 597 current hand : 688 681 164 860 436 384 784 239 370 764 265 986 515 511 666 111 706 107 470 769 
+player 597 draws a 377 from deck 597
+player 597 discards a 688 to deck 598
+player 597 current hand : 681 164 860 436 384 784 239 370 764 265 986 515 511 666 111 706 107 470 769 377 
+player 597 draws a 951 from deck 597
+player 597 discards a 681 to deck 598
+player 597 current hand : 164 860 436 384 784 239 370 764 265 986 515 511 666 111 706 107 470 769 377 951 
+player 597 draws a 4 from deck 597
+player 597 discards a 164 to deck 598
+player 597 current hand : 860 436 384 784 239 370 764 265 986 515 511 666 111 706 107 470 769 377 951 4 
+player 597 draws a 199 from deck 597
+player 597 discards a 860 to deck 598
+player 597 current hand : 436 384 784 239 370 764 265 986 515 511 666 111 706 107 470 769 377 951 4 199 
+player 597 draws a 12 from deck 597
+player 597 discards a 436 to deck 598
+player 597 current hand : 384 784 239 370 764 265 986 515 511 666 111 706 107 470 769 377 951 4 199 12 
+player 597 draws a 497 from deck 597
+player 597 discards a 384 to deck 598
+player 597 current hand : 784 239 370 764 265 986 515 511 666 111 706 107 470 769 377 951 4 199 12 497 
+player 597 draws a 199 from deck 597
+player 597 discards a 784 to deck 598
+player 597 current hand : 239 370 764 265 986 515 511 666 111 706 107 470 769 377 951 4 199 12 497 199 
+player 597 draws a 437 from deck 597
+player 597 discards a 239 to deck 598
+player 597 current hand : 370 764 265 986 515 511 666 111 706 107 470 769 377 951 4 199 12 497 199 437 
+player 597 draws a 55 from deck 597
+player 597 discards a 370 to deck 598
+player 597 current hand : 764 265 986 515 511 666 111 706 107 470 769 377 951 4 199 12 497 199 437 55 
+player 597 draws a 798 from deck 597
+player 597 discards a 764 to deck 598
+player 597 current hand : 265 986 515 511 666 111 706 107 470 769 377 951 4 199 12 497 199 437 55 798 
+player 597 draws a 452 from deck 597
+player 597 discards a 265 to deck 598
+player 597 current hand : 986 515 511 666 111 706 107 470 769 377 951 4 199 12 497 199 437 55 798 452 
+player 597 draws a 636 from deck 597
+player 597 discards a 986 to deck 598
+player 597 current hand : 515 511 666 111 706 107 470 769 377 951 4 199 12 497 199 437 55 798 452 636 
+player 597 draws a 326 from deck 597
+player 597 discards a 515 to deck 598
+player 597 current hand : 511 666 111 706 107 470 769 377 951 4 199 12 497 199 437 55 798 452 636 326 
+player 597 draws a 702 from deck 597
+player 597 discards a 511 to deck 598
+player 597 current hand : 666 111 706 107 470 769 377 951 4 199 12 497 199 437 55 798 452 636 326 702 
+player 597 draws a 751 from deck 597
+player 597 discards a 666 to deck 598
+player 597 current hand : 111 706 107 470 769 377 951 4 199 12 497 199 437 55 798 452 636 326 702 751 
+player 597 draws a 939 from deck 597
+player 597 discards a 111 to deck 598
+player 597 current hand : 706 107 470 769 377 951 4 199 12 497 199 437 55 798 452 636 326 702 751 939 
+player 597 draws a 936 from deck 597
+player 597 discards a 706 to deck 598
+player 597 current hand : 107 470 769 377 951 4 199 12 497 199 437 55 798 452 636 326 702 751 939 936 
+player 597 draws a 712 from deck 597
+player 597 discards a 107 to deck 598
+player 597 current hand : 470 769 377 951 4 199 12 497 199 437 55 798 452 636 326 702 751 939 936 712 
+player 597 draws a 178 from deck 597
+player 597 discards a 470 to deck 598
+player 597 current hand : 769 377 951 4 199 12 497 199 437 55 798 452 636 326 702 751 939 936 712 178 
+player 597 draws a 681 from deck 597
+player 597 discards a 769 to deck 598
+player 597 current hand : 377 951 4 199 12 497 199 437 55 798 452 636 326 702 751 939 936 712 178 681 
+player 597 draws a 853 from deck 597
+player 597 discards a 377 to deck 598
+player 597 current hand : 951 4 199 12 497 199 437 55 798 452 636 326 702 751 939 936 712 178 681 853 
+player 597 draws a 176 from deck 597
+player 597 discards a 951 to deck 598
+player 597 current hand : 4 199 12 497 199 437 55 798 452 636 326 702 751 939 936 712 178 681 853 176 
+player 597 draws a 111 from deck 597
+player 597 discards a 4 to deck 598
+player 597 current hand : 199 12 497 199 437 55 798 452 636 326 702 751 939 936 712 178 681 853 176 111 
+player 597 draws a 621 from deck 597
+player 597 discards a 199 to deck 598
+player 597 current hand : 12 497 199 437 55 798 452 636 326 702 751 939 936 712 178 681 853 176 111 621 
+player 597 draws a 482 from deck 597
+player 597 discards a 12 to deck 598

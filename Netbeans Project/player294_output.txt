@@ -1,0 +1,307 @@
+player 294 initial hand 180 17 346 921 685 739 867 152 162 1000 537 979 904 295 32 620 233 946 24 921 
+player 294 draws a 32 from deck 294
+player 294 discards a 180 to deck 295
+player 294 current hand : 17 346 921 685 739 867 152 162 1000 537 979 904 295 32 620 233 946 24 921 32 
+player 294 draws a 799 from deck 294
+player 294 discards a 17 to deck 295
+player 294 current hand : 346 921 685 739 867 152 162 1000 537 979 904 295 32 620 233 946 24 921 32 799 
+player 294 draws a 491 from deck 294
+player 294 discards a 346 to deck 295
+player 294 current hand : 921 685 739 867 152 162 1000 537 979 904 295 32 620 233 946 24 921 32 799 491 
+player 294 draws a 562 from deck 294
+player 294 discards a 921 to deck 295
+player 294 current hand : 685 739 867 152 162 1000 537 979 904 295 32 620 233 946 24 921 32 799 491 562 
+player 294 draws a 500 from deck 294
+player 294 discards a 685 to deck 295
+player 294 current hand : 739 867 152 162 1000 537 979 904 295 32 620 233 946 24 921 32 799 491 562 500 
+player 294 draws a 299 from deck 294
+player 294 discards a 739 to deck 295
+player 294 current hand : 867 152 162 1000 537 979 904 295 32 620 233 946 24 921 32 799 491 562 500 299 
+player 294 draws a 776 from deck 294
+player 294 discards a 867 to deck 295
+player 294 current hand : 152 162 1000 537 979 904 295 32 620 233 946 24 921 32 799 491 562 500 299 776 
+player 294 draws a 285 from deck 294
+player 294 discards a 152 to deck 295
+player 294 current hand : 162 1000 537 979 904 295 32 620 233 946 24 921 32 799 491 562 500 299 776 285 
+player 294 draws a 581 from deck 294
+player 294 discards a 162 to deck 295
+player 294 current hand : 1000 537 979 904 295 32 620 233 946 24 921 32 799 491 562 500 299 776 285 581 
+player 294 draws a 390 from deck 294
+player 294 discards a 1000 to deck 295
+player 294 current hand : 537 979 904 295 32 620 233 946 24 921 32 799 491 562 500 299 776 285 581 390 
+player 294 draws a 364 from deck 294
+player 294 discards a 537 to deck 295
+player 294 current hand : 979 904 295 32 620 233 946 24 921 32 799 491 562 500 299 776 285 581 390 364 
+player 294 draws a 907 from deck 294
+player 294 discards a 979 to deck 295
+player 294 current hand : 904 295 32 620 233 946 24 921 32 799 491 562 500 299 776 285 581 390 364 907 
+player 294 draws a 152 from deck 294
+player 294 discards a 904 to deck 295
+player 294 current hand : 295 32 620 233 946 24 921 32 799 491 562 500 299 776 285 581 390 364 907 152 
+player 294 draws a 252 from deck 294
+player 294 discards a 295 to deck 295
+player 294 current hand : 32 620 233 946 24 921 32 799 491 562 500 299 776 285 581 390 364 907 152 252 
+player 294 draws a 798 from deck 294
+player 294 discards a 32 to deck 295
+player 294 current hand : 620 233 946 24 921 32 799 491 562 500 299 776 285 581 390 364 907 152 252 798 
+player 294 draws a 392 from deck 294
+player 294 discards a 620 to deck 295
+player 294 current hand : 233 946 24 921 32 799 491 562 500 299 776 285 581 390 364 907 152 252 798 392 
+player 294 draws a 945 from deck 294
+player 294 discards a 233 to deck 295
+player 294 current hand : 946 24 921 32 799 491 562 500 299 776 285 581 390 364 907 152 252 798 392 945 
+player 294 draws a 968 from deck 294
+player 294 discards a 946 to deck 295
+player 294 current hand : 24 921 32 799 491 562 500 299 776 285 581 390 364 907 152 252 798 392 945 968 
+player 294 draws a 557 from deck 294
+player 294 discards a 24 to deck 295
+player 294 current hand : 921 32 799 491 562 500 299 776 285 581 390 364 907 152 252 798 392 945 968 557 
+player 294 draws a 844 from deck 294
+player 294 discards a 921 to deck 295
+player 294 current hand : 32 799 491 562 500 299 776 285 581 390 364 907 152 252 798 392 945 968 557 844 
+player 294 draws a 355 from deck 294
+player 294 discards a 32 to deck 295
+player 294 current hand : 799 491 562 500 299 776 285 581 390 364 907 152 252 798 392 945 968 557 844 355 
+player 294 draws a 632 from deck 294
+player 294 discards a 799 to deck 295
+player 294 current hand : 491 562 500 299 776 285 581 390 364 907 152 252 798 392 945 968 557 844 355 632 
+player 294 draws a 159 from deck 294
+player 294 discards a 491 to deck 295
+player 294 current hand : 562 500 299 776 285 581 390 364 907 152 252 798 392 945 968 557 844 355 632 159 
+player 294 draws a 177 from deck 294
+player 294 discards a 562 to deck 295
+player 294 current hand : 500 299 776 285 581 390 364 907 152 252 798 392 945 968 557 844 355 632 159 177 
+player 294 draws a 125 from deck 294
+player 294 discards a 500 to deck 295
+player 294 current hand : 299 776 285 581 390 364 907 152 252 798 392 945 968 557 844 355 632 159 177 125 
+player 294 draws a 152 from deck 294
+player 294 discards a 299 to deck 295
+player 294 current hand : 776 285 581 390 364 907 152 252 798 392 945 968 557 844 355 632 159 177 125 152 
+player 294 draws a 879 from deck 294
+player 294 discards a 776 to deck 295
+player 294 current hand : 285 581 390 364 907 152 252 798 392 945 968 557 844 355 632 159 177 125 152 879 
+player 294 draws a 7 from deck 294
+player 294 discards a 285 to deck 295
+player 294 current hand : 581 390 364 907 152 252 798 392 945 968 557 844 355 632 159 177 125 152 879 7 
+player 294 draws a 255 from deck 294
+player 294 discards a 581 to deck 295
+player 294 current hand : 390 364 907 152 252 798 392 945 968 557 844 355 632 159 177 125 152 879 7 255 
+player 294 draws a 515 from deck 294
+player 294 discards a 390 to deck 295
+player 294 current hand : 364 907 152 252 798 392 945 968 557 844 355 632 159 177 125 152 879 7 255 515 
+player 294 draws a 515 from deck 294
+player 294 discards a 364 to deck 295
+player 294 current hand : 907 152 252 798 392 945 968 557 844 355 632 159 177 125 152 879 7 255 515 515 
+player 294 draws a 74 from deck 294
+player 294 discards a 907 to deck 295
+player 294 current hand : 152 252 798 392 945 968 557 844 355 632 159 177 125 152 879 7 255 515 515 74 
+player 294 draws a 233 from deck 294
+player 294 discards a 152 to deck 295
+player 294 current hand : 252 798 392 945 968 557 844 355 632 159 177 125 152 879 7 255 515 515 74 233 
+player 294 draws a 922 from deck 294
+player 294 discards a 252 to deck 295
+player 294 current hand : 798 392 945 968 557 844 355 632 159 177 125 152 879 7 255 515 515 74 233 922 
+player 294 draws a 879 from deck 294
+player 294 discards a 798 to deck 295
+player 294 current hand : 392 945 968 557 844 355 632 159 177 125 152 879 7 255 515 515 74 233 922 879 
+player 294 draws a 808 from deck 294
+player 294 discards a 392 to deck 295
+player 294 current hand : 945 968 557 844 355 632 159 177 125 152 879 7 255 515 515 74 233 922 879 808 
+player 294 draws a 105 from deck 294
+player 294 discards a 945 to deck 295
+player 294 current hand : 968 557 844 355 632 159 177 125 152 879 7 255 515 515 74 233 922 879 808 105 
+player 294 draws a 852 from deck 294
+player 294 discards a 968 to deck 295
+player 294 current hand : 557 844 355 632 159 177 125 152 879 7 255 515 515 74 233 922 879 808 105 852 
+player 294 draws a 500 from deck 294
+player 294 discards a 557 to deck 295
+player 294 current hand : 844 355 632 159 177 125 152 879 7 255 515 515 74 233 922 879 808 105 852 500 
+player 294 draws a 455 from deck 294
+player 294 discards a 844 to deck 295
+player 294 current hand : 355 632 159 177 125 152 879 7 255 515 515 74 233 922 879 808 105 852 500 455 
+player 294 draws a 302 from deck 294
+player 294 discards a 355 to deck 295
+player 294 current hand : 632 159 177 125 152 879 7 255 515 515 74 233 922 879 808 105 852 500 455 302 
+player 294 draws a 518 from deck 294
+player 294 discards a 632 to deck 295
+player 294 current hand : 159 177 125 152 879 7 255 515 515 74 233 922 879 808 105 852 500 455 302 518 
+player 294 draws a 33 from deck 294
+player 294 discards a 159 to deck 295
+player 294 current hand : 177 125 152 879 7 255 515 515 74 233 922 879 808 105 852 500 455 302 518 33 
+player 294 draws a 977 from deck 294
+player 294 discards a 177 to deck 295
+player 294 current hand : 125 152 879 7 255 515 515 74 233 922 879 808 105 852 500 455 302 518 33 977 
+player 294 draws a 470 from deck 294
+player 294 discards a 125 to deck 295
+player 294 current hand : 152 879 7 255 515 515 74 233 922 879 808 105 852 500 455 302 518 33 977 470 
+player 294 draws a 106 from deck 294
+player 294 discards a 152 to deck 295
+player 294 current hand : 879 7 255 515 515 74 233 922 879 808 105 852 500 455 302 518 33 977 470 106 
+player 294 draws a 686 from deck 294
+player 294 discards a 879 to deck 295
+player 294 current hand : 7 255 515 515 74 233 922 879 808 105 852 500 455 302 518 33 977 470 106 686 
+player 294 draws a 702 from deck 294
+player 294 discards a 7 to deck 295
+player 294 current hand : 255 515 515 74 233 922 879 808 105 852 500 455 302 518 33 977 470 106 686 702 
+player 294 draws a 778 from deck 294
+player 294 discards a 255 to deck 295
+player 294 current hand : 515 515 74 233 922 879 808 105 852 500 455 302 518 33 977 470 106 686 702 778 
+player 294 draws a 458 from deck 294
+player 294 discards a 515 to deck 295
+player 294 current hand : 515 74 233 922 879 808 105 852 500 455 302 518 33 977 470 106 686 702 778 458 
+player 294 draws a 43 from deck 294
+player 294 discards a 515 to deck 295
+player 294 current hand : 74 233 922 879 808 105 852 500 455 302 518 33 977 470 106 686 702 778 458 43 
+player 294 draws a 768 from deck 294
+player 294 discards a 74 to deck 295
+player 294 current hand : 233 922 879 808 105 852 500 455 302 518 33 977 470 106 686 702 778 458 43 768 
+player 294 draws a 189 from deck 294
+player 294 discards a 233 to deck 295
+player 294 current hand : 922 879 808 105 852 500 455 302 518 33 977 470 106 686 702 778 458 43 768 189 
+player 294 draws a 31 from deck 294
+player 294 discards a 922 to deck 295
+player 294 current hand : 879 808 105 852 500 455 302 518 33 977 470 106 686 702 778 458 43 768 189 31 
+player 294 draws a 824 from deck 294
+player 294 discards a 879 to deck 295
+player 294 current hand : 808 105 852 500 455 302 518 33 977 470 106 686 702 778 458 43 768 189 31 824 
+player 294 draws a 776 from deck 294
+player 294 discards a 808 to deck 295
+player 294 current hand : 105 852 500 455 302 518 33 977 470 106 686 702 778 458 43 768 189 31 824 776 
+player 294 draws a 170 from deck 294
+player 294 discards a 105 to deck 295
+player 294 current hand : 852 500 455 302 518 33 977 470 106 686 702 778 458 43 768 189 31 824 776 170 
+player 294 draws a 943 from deck 294
+player 294 discards a 852 to deck 295
+player 294 current hand : 500 455 302 518 33 977 470 106 686 702 778 458 43 768 189 31 824 776 170 943 
+player 294 draws a 314 from deck 294
+player 294 discards a 500 to deck 295
+player 294 current hand : 455 302 518 33 977 470 106 686 702 778 458 43 768 189 31 824 776 170 943 314 
+player 294 draws a 861 from deck 294
+player 294 discards a 455 to deck 295
+player 294 current hand : 302 518 33 977 470 106 686 702 778 458 43 768 189 31 824 776 170 943 314 861 
+player 294 draws a 720 from deck 294
+player 294 discards a 302 to deck 295
+player 294 current hand : 518 33 977 470 106 686 702 778 458 43 768 189 31 824 776 170 943 314 861 720 
+player 294 draws a 603 from deck 294
+player 294 discards a 518 to deck 295
+player 294 current hand : 33 977 470 106 686 702 778 458 43 768 189 31 824 776 170 943 314 861 720 603 
+player 294 draws a 453 from deck 294
+player 294 discards a 33 to deck 295
+player 294 current hand : 977 470 106 686 702 778 458 43 768 189 31 824 776 170 943 314 861 720 603 453 
+player 294 draws a 645 from deck 294
+player 294 discards a 977 to deck 295
+player 294 current hand : 470 106 686 702 778 458 43 768 189 31 824 776 170 943 314 861 720 603 453 645 
+player 294 draws a 31 from deck 294
+player 294 discards a 470 to deck 295
+player 294 current hand : 106 686 702 778 458 43 768 189 31 824 776 170 943 314 861 720 603 453 645 31 
+player 294 draws a 363 from deck 294
+player 294 discards a 106 to deck 295
+player 294 current hand : 686 702 778 458 43 768 189 31 824 776 170 943 314 861 720 603 453 645 31 363 
+player 294 draws a 122 from deck 294
+player 294 discards a 686 to deck 295
+player 294 current hand : 702 778 458 43 768 189 31 824 776 170 943 314 861 720 603 453 645 31 363 122 
+player 294 draws a 839 from deck 294
+player 294 discards a 702 to deck 295
+player 294 current hand : 778 458 43 768 189 31 824 776 170 943 314 861 720 603 453 645 31 363 122 839 
+player 294 draws a 614 from deck 294
+player 294 discards a 778 to deck 295
+player 294 current hand : 458 43 768 189 31 824 776 170 943 314 861 720 603 453 645 31 363 122 839 614 
+player 294 draws a 328 from deck 294
+player 294 discards a 458 to deck 295
+player 294 current hand : 43 768 189 31 824 776 170 943 314 861 720 603 453 645 31 363 122 839 614 328 
+player 294 draws a 3 from deck 294
+player 294 discards a 43 to deck 295
+player 294 current hand : 768 189 31 824 776 170 943 314 861 720 603 453 645 31 363 122 839 614 328 3 
+player 294 draws a 642 from deck 294
+player 294 discards a 768 to deck 295
+player 294 current hand : 189 31 824 776 170 943 314 861 720 603 453 645 31 363 122 839 614 328 3 642 
+player 294 draws a 842 from deck 294
+player 294 discards a 189 to deck 295
+player 294 current hand : 31 824 776 170 943 314 861 720 603 453 645 31 363 122 839 614 328 3 642 842 
+player 294 draws a 559 from deck 294
+player 294 discards a 31 to deck 295
+player 294 current hand : 824 776 170 943 314 861 720 603 453 645 31 363 122 839 614 328 3 642 842 559 
+player 294 draws a 417 from deck 294
+player 294 discards a 824 to deck 295
+player 294 current hand : 776 170 943 314 861 720 603 453 645 31 363 122 839 614 328 3 642 842 559 417 
+player 294 draws a 611 from deck 294
+player 294 discards a 776 to deck 295
+player 294 current hand : 170 943 314 861 720 603 453 645 31 363 122 839 614 328 3 642 842 559 417 611 
+player 294 draws a 182 from deck 294
+player 294 discards a 170 to deck 295
+player 294 current hand : 943 314 861 720 603 453 645 31 363 122 839 614 328 3 642 842 559 417 611 182 
+player 294 draws a 265 from deck 294
+player 294 discards a 943 to deck 295
+player 294 current hand : 314 861 720 603 453 645 31 363 122 839 614 328 3 642 842 559 417 611 182 265 
+player 294 draws a 212 from deck 294
+player 294 discards a 314 to deck 295
+player 294 current hand : 861 720 603 453 645 31 363 122 839 614 328 3 642 842 559 417 611 182 265 212 
+player 294 draws a 860 from deck 294
+player 294 discards a 861 to deck 295
+player 294 current hand : 720 603 453 645 31 363 122 839 614 328 3 642 842 559 417 611 182 265 212 860 
+player 294 draws a 431 from deck 294
+player 294 discards a 720 to deck 295
+player 294 current hand : 603 453 645 31 363 122 839 614 328 3 642 842 559 417 611 182 265 212 860 431 
+player 294 draws a 712 from deck 294
+player 294 discards a 603 to deck 295
+player 294 current hand : 453 645 31 363 122 839 614 328 3 642 842 559 417 611 182 265 212 860 431 712 
+player 294 draws a 500 from deck 294
+player 294 discards a 453 to deck 295
+player 294 current hand : 645 31 363 122 839 614 328 3 642 842 559 417 611 182 265 212 860 431 712 500 
+player 294 draws a 947 from deck 294
+player 294 discards a 645 to deck 295
+player 294 current hand : 31 363 122 839 614 328 3 642 842 559 417 611 182 265 212 860 431 712 500 947 
+player 294 draws a 647 from deck 294
+player 294 discards a 31 to deck 295
+player 294 current hand : 363 122 839 614 328 3 642 842 559 417 611 182 265 212 860 431 712 500 947 647 
+player 294 draws a 120 from deck 294
+player 294 discards a 363 to deck 295
+player 294 current hand : 122 839 614 328 3 642 842 559 417 611 182 265 212 860 431 712 500 947 647 120 
+player 294 draws a 622 from deck 294
+player 294 discards a 122 to deck 295
+player 294 current hand : 839 614 328 3 642 842 559 417 611 182 265 212 860 431 712 500 947 647 120 622 
+player 294 draws a 384 from deck 294
+player 294 discards a 839 to deck 295
+player 294 current hand : 614 328 3 642 842 559 417 611 182 265 212 860 431 712 500 947 647 120 622 384 
+player 294 draws a 269 from deck 294
+player 294 discards a 614 to deck 295
+player 294 current hand : 328 3 642 842 559 417 611 182 265 212 860 431 712 500 947 647 120 622 384 269 
+player 294 draws a 91 from deck 294
+player 294 discards a 328 to deck 295
+player 294 current hand : 3 642 842 559 417 611 182 265 212 860 431 712 500 947 647 120 622 384 269 91 
+player 294 draws a 707 from deck 294
+player 294 discards a 3 to deck 295
+player 294 current hand : 642 842 559 417 611 182 265 212 860 431 712 500 947 647 120 622 384 269 91 707 
+player 294 draws a 631 from deck 294
+player 294 discards a 642 to deck 295
+player 294 current hand : 842 559 417 611 182 265 212 860 431 712 500 947 647 120 622 384 269 91 707 631 
+player 294 draws a 924 from deck 294
+player 294 discards a 842 to deck 295
+player 294 current hand : 559 417 611 182 265 212 860 431 712 500 947 647 120 622 384 269 91 707 631 924 
+player 294 draws a 904 from deck 294
+player 294 discards a 559 to deck 295
+player 294 current hand : 417 611 182 265 212 860 431 712 500 947 647 120 622 384 269 91 707 631 924 904 
+player 294 draws a 764 from deck 294
+player 294 discards a 417 to deck 295
+player 294 current hand : 611 182 265 212 860 431 712 500 947 647 120 622 384 269 91 707 631 924 904 764 
+player 294 draws a 984 from deck 294
+player 294 discards a 611 to deck 295
+player 294 current hand : 182 265 212 860 431 712 500 947 647 120 622 384 269 91 707 631 924 904 764 984 
+player 294 draws a 721 from deck 294
+player 294 discards a 182 to deck 295
+player 294 current hand : 265 212 860 431 712 500 947 647 120 622 384 269 91 707 631 924 904 764 984 721 
+player 294 draws a 138 from deck 294
+player 294 discards a 265 to deck 295
+player 294 current hand : 212 860 431 712 500 947 647 120 622 384 269 91 707 631 924 904 764 984 721 138 
+player 294 draws a 239 from deck 294
+player 294 discards a 212 to deck 295
+player 294 current hand : 860 431 712 500 947 647 120 622 384 269 91 707 631 924 904 764 984 721 138 239 
+player 294 draws a 677 from deck 294
+player 294 discards a 860 to deck 295
+player 294 current hand : 431 712 500 947 647 120 622 384 269 91 707 631 924 904 764 984 721 138 239 677 
+player 294 draws a 649 from deck 294
+player 294 discards a 431 to deck 295
+player 294 current hand : 712 500 947 647 120 622 384 269 91 707 631 924 904 764 984 721 138 239 677 649 
+player 294 draws a 321 from deck 294
+player 294 discards a 712 to deck 295
+player 294 current hand : 500 947 647 120 622 384 269 91 707 631 924 904 764 984 721 138 239 677 649 321 

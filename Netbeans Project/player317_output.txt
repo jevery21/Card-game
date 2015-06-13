@@ -1,0 +1,322 @@
+player 317 initial hand 326 334 475 22 570 62 460 924 183 559 841 8 101 744 554 269 632 200 176 401 
+player 317 draws a 62 from deck 317
+player 317 discards a 326 to deck 318
+player 317 current hand : 334 475 22 570 62 460 924 183 559 841 8 101 744 554 269 632 200 176 401 62 
+player 317 draws a 988 from deck 317
+player 317 discards a 334 to deck 318
+player 317 current hand : 475 22 570 62 460 924 183 559 841 8 101 744 554 269 632 200 176 401 62 988 
+player 317 draws a 57 from deck 317
+player 317 discards a 475 to deck 318
+player 317 current hand : 22 570 62 460 924 183 559 841 8 101 744 554 269 632 200 176 401 62 988 57 
+player 317 draws a 669 from deck 317
+player 317 discards a 22 to deck 318
+player 317 current hand : 570 62 460 924 183 559 841 8 101 744 554 269 632 200 176 401 62 988 57 669 
+player 317 draws a 554 from deck 317
+player 317 discards a 570 to deck 318
+player 317 current hand : 62 460 924 183 559 841 8 101 744 554 269 632 200 176 401 62 988 57 669 554 
+player 317 draws a 426 from deck 317
+player 317 discards a 62 to deck 318
+player 317 current hand : 460 924 183 559 841 8 101 744 554 269 632 200 176 401 62 988 57 669 554 426 
+player 317 draws a 612 from deck 317
+player 317 discards a 460 to deck 318
+player 317 current hand : 924 183 559 841 8 101 744 554 269 632 200 176 401 62 988 57 669 554 426 612 
+player 317 draws a 308 from deck 317
+player 317 discards a 924 to deck 318
+player 317 current hand : 183 559 841 8 101 744 554 269 632 200 176 401 62 988 57 669 554 426 612 308 
+player 317 draws a 252 from deck 317
+player 317 discards a 183 to deck 318
+player 317 current hand : 559 841 8 101 744 554 269 632 200 176 401 62 988 57 669 554 426 612 308 252 
+player 317 draws a 652 from deck 317
+player 317 discards a 559 to deck 318
+player 317 current hand : 841 8 101 744 554 269 632 200 176 401 62 988 57 669 554 426 612 308 252 652 
+player 317 draws a 141 from deck 317
+player 317 discards a 841 to deck 318
+player 317 current hand : 8 101 744 554 269 632 200 176 401 62 988 57 669 554 426 612 308 252 652 141 
+player 317 draws a 945 from deck 317
+player 317 discards a 8 to deck 318
+player 317 current hand : 101 744 554 269 632 200 176 401 62 988 57 669 554 426 612 308 252 652 141 945 
+player 317 draws a 178 from deck 317
+player 317 discards a 101 to deck 318
+player 317 current hand : 744 554 269 632 200 176 401 62 988 57 669 554 426 612 308 252 652 141 945 178 
+player 317 draws a 228 from deck 317
+player 317 discards a 744 to deck 318
+player 317 current hand : 554 269 632 200 176 401 62 988 57 669 554 426 612 308 252 652 141 945 178 228 
+player 317 draws a 856 from deck 317
+player 317 discards a 554 to deck 318
+player 317 current hand : 269 632 200 176 401 62 988 57 669 554 426 612 308 252 652 141 945 178 228 856 
+player 317 draws a 162 from deck 317
+player 317 discards a 269 to deck 318
+player 317 current hand : 632 200 176 401 62 988 57 669 554 426 612 308 252 652 141 945 178 228 856 162 
+player 317 draws a 707 from deck 317
+player 317 discards a 632 to deck 318
+player 317 current hand : 200 176 401 62 988 57 669 554 426 612 308 252 652 141 945 178 228 856 162 707 
+player 317 draws a 863 from deck 317
+player 317 discards a 200 to deck 318
+player 317 current hand : 176 401 62 988 57 669 554 426 612 308 252 652 141 945 178 228 856 162 707 863 
+player 317 draws a 182 from deck 317
+player 317 discards a 176 to deck 318
+player 317 current hand : 401 62 988 57 669 554 426 612 308 252 652 141 945 178 228 856 162 707 863 182 
+player 317 draws a 466 from deck 317
+player 317 discards a 401 to deck 318
+player 317 current hand : 62 988 57 669 554 426 612 308 252 652 141 945 178 228 856 162 707 863 182 466 
+player 317 draws a 384 from deck 317
+player 317 discards a 62 to deck 318
+player 317 current hand : 988 57 669 554 426 612 308 252 652 141 945 178 228 856 162 707 863 182 466 384 
+player 317 draws a 759 from deck 317
+player 317 discards a 988 to deck 318
+player 317 current hand : 57 669 554 426 612 308 252 652 141 945 178 228 856 162 707 863 182 466 384 759 
+player 317 draws a 999 from deck 317
+player 317 discards a 57 to deck 318
+player 317 current hand : 669 554 426 612 308 252 652 141 945 178 228 856 162 707 863 182 466 384 759 999 
+player 317 draws a 389 from deck 317
+player 317 discards a 669 to deck 318
+player 317 current hand : 554 426 612 308 252 652 141 945 178 228 856 162 707 863 182 466 384 759 999 389 
+player 317 draws a 991 from deck 317
+player 317 discards a 554 to deck 318
+player 317 current hand : 426 612 308 252 652 141 945 178 228 856 162 707 863 182 466 384 759 999 389 991 
+player 317 draws a 409 from deck 317
+player 317 discards a 426 to deck 318
+player 317 current hand : 612 308 252 652 141 945 178 228 856 162 707 863 182 466 384 759 999 389 991 409 
+player 317 draws a 755 from deck 317
+player 317 discards a 612 to deck 318
+player 317 current hand : 308 252 652 141 945 178 228 856 162 707 863 182 466 384 759 999 389 991 409 755 
+player 317 draws a 663 from deck 317
+player 317 discards a 308 to deck 318
+player 317 current hand : 252 652 141 945 178 228 856 162 707 863 182 466 384 759 999 389 991 409 755 663 
+player 317 draws a 98 from deck 317
+player 317 discards a 252 to deck 318
+player 317 current hand : 652 141 945 178 228 856 162 707 863 182 466 384 759 999 389 991 409 755 663 98 
+player 317 draws a 188 from deck 317
+player 317 discards a 652 to deck 318
+player 317 current hand : 141 945 178 228 856 162 707 863 182 466 384 759 999 389 991 409 755 663 98 188 
+player 317 draws a 834 from deck 317
+player 317 discards a 141 to deck 318
+player 317 current hand : 945 178 228 856 162 707 863 182 466 384 759 999 389 991 409 755 663 98 188 834 
+player 317 draws a 216 from deck 317
+player 317 discards a 945 to deck 318
+player 317 current hand : 178 228 856 162 707 863 182 466 384 759 999 389 991 409 755 663 98 188 834 216 
+player 317 draws a 933 from deck 317
+player 317 discards a 178 to deck 318
+player 317 current hand : 228 856 162 707 863 182 466 384 759 999 389 991 409 755 663 98 188 834 216 933 
+player 317 draws a 862 from deck 317
+player 317 discards a 228 to deck 318
+player 317 current hand : 856 162 707 863 182 466 384 759 999 389 991 409 755 663 98 188 834 216 933 862 
+player 317 draws a 317 from deck 317
+player 317 discards a 856 to deck 318
+player 317 current hand : 162 707 863 182 466 384 759 999 389 991 409 755 663 98 188 834 216 933 862 317 
+player 317 draws a 691 from deck 317
+player 317 discards a 162 to deck 318
+player 317 current hand : 707 863 182 466 384 759 999 389 991 409 755 663 98 188 834 216 933 862 317 691 
+player 317 draws a 187 from deck 317
+player 317 discards a 707 to deck 318
+player 317 current hand : 863 182 466 384 759 999 389 991 409 755 663 98 188 834 216 933 862 317 691 187 
+player 317 draws a 712 from deck 317
+player 317 discards a 863 to deck 318
+player 317 current hand : 182 466 384 759 999 389 991 409 755 663 98 188 834 216 933 862 317 691 187 712 
+player 317 draws a 96 from deck 317
+player 317 discards a 182 to deck 318
+player 317 current hand : 466 384 759 999 389 991 409 755 663 98 188 834 216 933 862 317 691 187 712 96 
+player 317 draws a 374 from deck 317
+player 317 discards a 466 to deck 318
+player 317 current hand : 384 759 999 389 991 409 755 663 98 188 834 216 933 862 317 691 187 712 96 374 
+player 317 draws a 395 from deck 317
+player 317 discards a 384 to deck 318
+player 317 current hand : 759 999 389 991 409 755 663 98 188 834 216 933 862 317 691 187 712 96 374 395 
+player 317 draws a 835 from deck 317
+player 317 discards a 759 to deck 318
+player 317 current hand : 999 389 991 409 755 663 98 188 834 216 933 862 317 691 187 712 96 374 395 835 
+player 317 draws a 712 from deck 317
+player 317 discards a 999 to deck 318
+player 317 current hand : 389 991 409 755 663 98 188 834 216 933 862 317 691 187 712 96 374 395 835 712 
+player 317 draws a 359 from deck 317
+player 317 discards a 389 to deck 318
+player 317 current hand : 991 409 755 663 98 188 834 216 933 862 317 691 187 712 96 374 395 835 712 359 
+player 317 draws a 155 from deck 317
+player 317 discards a 991 to deck 318
+player 317 current hand : 409 755 663 98 188 834 216 933 862 317 691 187 712 96 374 395 835 712 359 155 
+player 317 draws a 509 from deck 317
+player 317 discards a 409 to deck 318
+player 317 current hand : 755 663 98 188 834 216 933 862 317 691 187 712 96 374 395 835 712 359 155 509 
+player 317 draws a 871 from deck 317
+player 317 discards a 755 to deck 318
+player 317 current hand : 663 98 188 834 216 933 862 317 691 187 712 96 374 395 835 712 359 155 509 871 
+player 317 draws a 450 from deck 317
+player 317 discards a 663 to deck 318
+player 317 current hand : 98 188 834 216 933 862 317 691 187 712 96 374 395 835 712 359 155 509 871 450 
+player 317 draws a 719 from deck 317
+player 317 discards a 98 to deck 318
+player 317 current hand : 188 834 216 933 862 317 691 187 712 96 374 395 835 712 359 155 509 871 450 719 
+player 317 draws a 862 from deck 317
+player 317 discards a 188 to deck 318
+player 317 current hand : 834 216 933 862 317 691 187 712 96 374 395 835 712 359 155 509 871 450 719 862 
+player 317 draws a 661 from deck 317
+player 317 discards a 834 to deck 318
+player 317 current hand : 216 933 862 317 691 187 712 96 374 395 835 712 359 155 509 871 450 719 862 661 
+player 317 draws a 11 from deck 317
+player 317 discards a 216 to deck 318
+player 317 current hand : 933 862 317 691 187 712 96 374 395 835 712 359 155 509 871 450 719 862 661 11 
+player 317 draws a 521 from deck 317
+player 317 discards a 933 to deck 318
+player 317 current hand : 862 317 691 187 712 96 374 395 835 712 359 155 509 871 450 719 862 661 11 521 
+player 317 draws a 654 from deck 317
+player 317 discards a 862 to deck 318
+player 317 current hand : 317 691 187 712 96 374 395 835 712 359 155 509 871 450 719 862 661 11 521 654 
+player 317 draws a 489 from deck 317
+player 317 discards a 691 to deck 318
+player 317 current hand : 317 187 712 96 374 395 835 712 359 155 509 871 450 719 862 661 11 521 654 489 
+player 317 draws a 4 from deck 317
+player 317 discards a 187 to deck 318
+player 317 current hand : 317 712 96 374 395 835 712 359 155 509 871 450 719 862 661 11 521 654 489 4 
+player 317 draws a 9 from deck 317
+player 317 discards a 712 to deck 318
+player 317 current hand : 317 96 374 395 835 712 359 155 509 871 450 719 862 661 11 521 654 489 4 9 
+player 317 draws a 855 from deck 317
+player 317 discards a 96 to deck 318
+player 317 current hand : 317 374 395 835 712 359 155 509 871 450 719 862 661 11 521 654 489 4 9 855 
+player 317 draws a 400 from deck 317
+player 317 discards a 374 to deck 318
+player 317 current hand : 317 395 835 712 359 155 509 871 450 719 862 661 11 521 654 489 4 9 855 400 
+player 317 draws a 762 from deck 317
+player 317 discards a 395 to deck 318
+player 317 current hand : 317 835 712 359 155 509 871 450 719 862 661 11 521 654 489 4 9 855 400 762 
+player 317 draws a 434 from deck 317
+player 317 discards a 835 to deck 318
+player 317 current hand : 317 712 359 155 509 871 450 719 862 661 11 521 654 489 4 9 855 400 762 434 
+player 317 draws a 427 from deck 317
+player 317 discards a 712 to deck 318
+player 317 current hand : 317 359 155 509 871 450 719 862 661 11 521 654 489 4 9 855 400 762 434 427 
+player 317 draws a 680 from deck 317
+player 317 discards a 359 to deck 318
+player 317 current hand : 317 155 509 871 450 719 862 661 11 521 654 489 4 9 855 400 762 434 427 680 
+player 317 draws a 455 from deck 317
+player 317 discards a 155 to deck 318
+player 317 current hand : 317 509 871 450 719 862 661 11 521 654 489 4 9 855 400 762 434 427 680 455 
+player 317 draws a 688 from deck 317
+player 317 discards a 509 to deck 318
+player 317 current hand : 317 871 450 719 862 661 11 521 654 489 4 9 855 400 762 434 427 680 455 688 
+player 317 draws a 681 from deck 317
+player 317 discards a 871 to deck 318
+player 317 current hand : 317 450 719 862 661 11 521 654 489 4 9 855 400 762 434 427 680 455 688 681 
+player 317 draws a 583 from deck 317
+player 317 discards a 450 to deck 318
+player 317 current hand : 317 719 862 661 11 521 654 489 4 9 855 400 762 434 427 680 455 688 681 583 
+player 317 draws a 285 from deck 317
+player 317 discards a 719 to deck 318
+player 317 current hand : 317 862 661 11 521 654 489 4 9 855 400 762 434 427 680 455 688 681 583 285 
+player 317 draws a 480 from deck 317
+player 317 discards a 862 to deck 318
+player 317 current hand : 317 661 11 521 654 489 4 9 855 400 762 434 427 680 455 688 681 583 285 480 
+player 317 draws a 565 from deck 317
+player 317 discards a 661 to deck 318
+player 317 current hand : 317 11 521 654 489 4 9 855 400 762 434 427 680 455 688 681 583 285 480 565 
+player 317 draws a 834 from deck 317
+player 317 discards a 11 to deck 318
+player 317 current hand : 317 521 654 489 4 9 855 400 762 434 427 680 455 688 681 583 285 480 565 834 
+player 317 draws a 630 from deck 317
+player 317 discards a 521 to deck 318
+player 317 current hand : 317 654 489 4 9 855 400 762 434 427 680 455 688 681 583 285 480 565 834 630 
+player 317 draws a 746 from deck 317
+player 317 discards a 654 to deck 318
+player 317 current hand : 317 489 4 9 855 400 762 434 427 680 455 688 681 583 285 480 565 834 630 746 
+player 317 draws a 42 from deck 317
+player 317 discards a 489 to deck 318
+player 317 current hand : 317 4 9 855 400 762 434 427 680 455 688 681 583 285 480 565 834 630 746 42 
+player 317 draws a 343 from deck 317
+player 317 discards a 4 to deck 318
+player 317 current hand : 317 9 855 400 762 434 427 680 455 688 681 583 285 480 565 834 630 746 42 343 
+player 317 draws a 492 from deck 317
+player 317 discards a 9 to deck 318
+player 317 current hand : 317 855 400 762 434 427 680 455 688 681 583 285 480 565 834 630 746 42 343 492 
+player 317 draws a 222 from deck 317
+player 317 discards a 855 to deck 318
+player 317 current hand : 317 400 762 434 427 680 455 688 681 583 285 480 565 834 630 746 42 343 492 222 
+player 317 draws a 827 from deck 317
+player 317 discards a 400 to deck 318
+player 317 current hand : 317 762 434 427 680 455 688 681 583 285 480 565 834 630 746 42 343 492 222 827 
+player 317 draws a 886 from deck 317
+player 317 discards a 762 to deck 318
+player 317 current hand : 317 434 427 680 455 688 681 583 285 480 565 834 630 746 42 343 492 222 827 886 
+player 317 draws a 938 from deck 317
+player 317 discards a 434 to deck 318
+player 317 current hand : 317 427 680 455 688 681 583 285 480 565 834 630 746 42 343 492 222 827 886 938 
+player 317 draws a 568 from deck 317
+player 317 discards a 427 to deck 318
+player 317 current hand : 317 680 455 688 681 583 285 480 565 834 630 746 42 343 492 222 827 886 938 568 
+player 317 draws a 524 from deck 317
+player 317 discards a 680 to deck 318
+player 317 current hand : 317 455 688 681 583 285 480 565 834 630 746 42 343 492 222 827 886 938 568 524 
+player 317 draws a 391 from deck 317
+player 317 discards a 455 to deck 318
+player 317 current hand : 317 688 681 583 285 480 565 834 630 746 42 343 492 222 827 886 938 568 524 391 
+player 317 draws a 745 from deck 317
+player 317 discards a 688 to deck 318
+player 317 current hand : 317 681 583 285 480 565 834 630 746 42 343 492 222 827 886 938 568 524 391 745 
+player 317 draws a 60 from deck 317
+player 317 discards a 681 to deck 318
+player 317 current hand : 317 583 285 480 565 834 630 746 42 343 492 222 827 886 938 568 524 391 745 60 
+player 317 draws a 977 from deck 317
+player 317 discards a 583 to deck 318
+player 317 current hand : 317 285 480 565 834 630 746 42 343 492 222 827 886 938 568 524 391 745 60 977 
+player 317 draws a 246 from deck 317
+player 317 discards a 285 to deck 318
+player 317 current hand : 317 480 565 834 630 746 42 343 492 222 827 886 938 568 524 391 745 60 977 246 
+player 317 draws a 580 from deck 317
+player 317 discards a 480 to deck 318
+player 317 current hand : 317 565 834 630 746 42 343 492 222 827 886 938 568 524 391 745 60 977 246 580 
+player 317 draws a 855 from deck 317
+player 317 discards a 565 to deck 318
+player 317 current hand : 317 834 630 746 42 343 492 222 827 886 938 568 524 391 745 60 977 246 580 855 
+player 317 draws a 485 from deck 317
+player 317 discards a 834 to deck 318
+player 317 current hand : 317 630 746 42 343 492 222 827 886 938 568 524 391 745 60 977 246 580 855 485 
+player 317 draws a 605 from deck 317
+player 317 discards a 630 to deck 318
+player 317 current hand : 317 746 42 343 492 222 827 886 938 568 524 391 745 60 977 246 580 855 485 605 
+player 317 draws a 516 from deck 317
+player 317 discards a 746 to deck 318
+player 317 current hand : 317 42 343 492 222 827 886 938 568 524 391 745 60 977 246 580 855 485 605 516 
+player 317 draws a 605 from deck 317
+player 317 discards a 42 to deck 318
+player 317 current hand : 317 343 492 222 827 886 938 568 524 391 745 60 977 246 580 855 485 605 516 605 
+player 317 draws a 706 from deck 317
+player 317 discards a 343 to deck 318
+player 317 current hand : 317 492 222 827 886 938 568 524 391 745 60 977 246 580 855 485 605 516 605 706 
+player 317 draws a 860 from deck 317
+player 317 discards a 492 to deck 318
+player 317 current hand : 317 222 827 886 938 568 524 391 745 60 977 246 580 855 485 605 516 605 706 860 
+player 317 draws a 650 from deck 317
+player 317 discards a 222 to deck 318
+player 317 current hand : 317 827 886 938 568 524 391 745 60 977 246 580 855 485 605 516 605 706 860 650 
+player 317 draws a 38 from deck 317
+player 317 discards a 827 to deck 318
+player 317 current hand : 317 886 938 568 524 391 745 60 977 246 580 855 485 605 516 605 706 860 650 38 
+player 317 draws a 374 from deck 317
+player 317 discards a 886 to deck 318
+player 317 current hand : 317 938 568 524 391 745 60 977 246 580 855 485 605 516 605 706 860 650 38 374 
+player 317 draws a 361 from deck 317
+player 317 discards a 938 to deck 318
+player 317 current hand : 317 568 524 391 745 60 977 246 580 855 485 605 516 605 706 860 650 38 374 361 
+player 317 draws a 365 from deck 317
+player 317 discards a 568 to deck 318
+player 317 current hand : 317 524 391 745 60 977 246 580 855 485 605 516 605 706 860 650 38 374 361 365 
+player 317 draws a 19 from deck 317
+player 317 discards a 524 to deck 318
+player 317 current hand : 317 391 745 60 977 246 580 855 485 605 516 605 706 860 650 38 374 361 365 19 
+player 317 draws a 774 from deck 317
+player 317 discards a 391 to deck 318
+player 317 current hand : 317 745 60 977 246 580 855 485 605 516 605 706 860 650 38 374 361 365 19 774 
+player 317 draws a 38 from deck 317
+player 317 discards a 745 to deck 318
+player 317 current hand : 317 60 977 246 580 855 485 605 516 605 706 860 650 38 374 361 365 19 774 38 
+player 317 draws a 511 from deck 317
+player 317 discards a 60 to deck 318
+player 317 current hand : 317 977 246 580 855 485 605 516 605 706 860 650 38 374 361 365 19 774 38 511 
+player 317 draws a 863 from deck 317
+player 317 discards a 977 to deck 318
+player 317 current hand : 317 246 580 855 485 605 516 605 706 860 650 38 374 361 365 19 774 38 511 863 
+player 317 draws a 45 from deck 317
+player 317 discards a 246 to deck 318
+player 317 current hand : 317 580 855 485 605 516 605 706 860 650 38 374 361 365 19 774 38 511 863 45 
+player 317 draws a 926 from deck 317
+player 317 discards a 580 to deck 318
+player 317 current hand : 317 855 485 605 516 605 706 860 650 38 374 361 365 19 774 38 511 863 45 926 

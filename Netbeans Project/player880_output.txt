@@ -1,0 +1,296 @@
+player 880 initial hand 505 596 868 417 364 316 105 505 805 157 244 183 792 589 374 572 245 750 518 42 
+player 880 draws a 233 from deck 880
+player 880 discards a 505 to deck 881
+player 880 current hand : 596 868 417 364 316 105 505 805 157 244 183 792 589 374 572 245 750 518 42 233 
+player 880 draws a 114 from deck 880
+player 880 discards a 596 to deck 881
+player 880 current hand : 868 417 364 316 105 505 805 157 244 183 792 589 374 572 245 750 518 42 233 114 
+player 880 draws a 893 from deck 880
+player 880 discards a 868 to deck 881
+player 880 current hand : 417 364 316 105 505 805 157 244 183 792 589 374 572 245 750 518 42 233 114 893 
+player 880 draws a 947 from deck 880
+player 880 discards a 417 to deck 881
+player 880 current hand : 364 316 105 505 805 157 244 183 792 589 374 572 245 750 518 42 233 114 893 947 
+player 880 draws a 805 from deck 880
+player 880 discards a 364 to deck 881
+player 880 current hand : 316 105 505 805 157 244 183 792 589 374 572 245 750 518 42 233 114 893 947 805 
+player 880 draws a 300 from deck 880
+player 880 discards a 316 to deck 881
+player 880 current hand : 105 505 805 157 244 183 792 589 374 572 245 750 518 42 233 114 893 947 805 300 
+player 880 draws a 343 from deck 880
+player 880 discards a 105 to deck 881
+player 880 current hand : 505 805 157 244 183 792 589 374 572 245 750 518 42 233 114 893 947 805 300 343 
+player 880 draws a 358 from deck 880
+player 880 discards a 505 to deck 881
+player 880 current hand : 805 157 244 183 792 589 374 572 245 750 518 42 233 114 893 947 805 300 343 358 
+player 880 draws a 706 from deck 880
+player 880 discards a 805 to deck 881
+player 880 current hand : 157 244 183 792 589 374 572 245 750 518 42 233 114 893 947 805 300 343 358 706 
+player 880 draws a 587 from deck 880
+player 880 discards a 157 to deck 881
+player 880 current hand : 244 183 792 589 374 572 245 750 518 42 233 114 893 947 805 300 343 358 706 587 
+player 880 draws a 696 from deck 880
+player 880 discards a 244 to deck 881
+player 880 current hand : 183 792 589 374 572 245 750 518 42 233 114 893 947 805 300 343 358 706 587 696 
+player 880 draws a 758 from deck 880
+player 880 discards a 183 to deck 881
+player 880 current hand : 792 589 374 572 245 750 518 42 233 114 893 947 805 300 343 358 706 587 696 758 
+player 880 draws a 599 from deck 880
+player 880 discards a 792 to deck 881
+player 880 current hand : 589 374 572 245 750 518 42 233 114 893 947 805 300 343 358 706 587 696 758 599 
+player 880 draws a 999 from deck 880
+player 880 discards a 589 to deck 881
+player 880 current hand : 374 572 245 750 518 42 233 114 893 947 805 300 343 358 706 587 696 758 599 999 
+player 880 draws a 647 from deck 880
+player 880 discards a 374 to deck 881
+player 880 current hand : 572 245 750 518 42 233 114 893 947 805 300 343 358 706 587 696 758 599 999 647 
+player 880 draws a 128 from deck 880
+player 880 discards a 572 to deck 881
+player 880 current hand : 245 750 518 42 233 114 893 947 805 300 343 358 706 587 696 758 599 999 647 128 
+player 880 draws a 153 from deck 880
+player 880 discards a 245 to deck 881
+player 880 current hand : 750 518 42 233 114 893 947 805 300 343 358 706 587 696 758 599 999 647 128 153 
+player 880 draws a 111 from deck 880
+player 880 discards a 750 to deck 881
+player 880 current hand : 518 42 233 114 893 947 805 300 343 358 706 587 696 758 599 999 647 128 153 111 
+player 880 draws a 97 from deck 880
+player 880 discards a 518 to deck 881
+player 880 current hand : 42 233 114 893 947 805 300 343 358 706 587 696 758 599 999 647 128 153 111 97 
+player 880 draws a 412 from deck 880
+player 880 discards a 42 to deck 881
+player 880 current hand : 233 114 893 947 805 300 343 358 706 587 696 758 599 999 647 128 153 111 97 412 
+player 880 draws a 229 from deck 880
+player 880 discards a 233 to deck 881
+player 880 current hand : 114 893 947 805 300 343 358 706 587 696 758 599 999 647 128 153 111 97 412 229 
+player 880 draws a 163 from deck 880
+player 880 discards a 114 to deck 881
+player 880 current hand : 893 947 805 300 343 358 706 587 696 758 599 999 647 128 153 111 97 412 229 163 
+player 880 draws a 283 from deck 880
+player 880 discards a 893 to deck 881
+player 880 current hand : 947 805 300 343 358 706 587 696 758 599 999 647 128 153 111 97 412 229 163 283 
+player 880 draws a 141 from deck 880
+player 880 discards a 947 to deck 881
+player 880 current hand : 805 300 343 358 706 587 696 758 599 999 647 128 153 111 97 412 229 163 283 141 
+player 880 draws a 541 from deck 880
+player 880 discards a 805 to deck 881
+player 880 current hand : 300 343 358 706 587 696 758 599 999 647 128 153 111 97 412 229 163 283 141 541 
+player 880 draws a 835 from deck 880
+player 880 discards a 300 to deck 881
+player 880 current hand : 343 358 706 587 696 758 599 999 647 128 153 111 97 412 229 163 283 141 541 835 
+player 880 draws a 205 from deck 880
+player 880 discards a 343 to deck 881
+player 880 current hand : 358 706 587 696 758 599 999 647 128 153 111 97 412 229 163 283 141 541 835 205 
+player 880 draws a 864 from deck 880
+player 880 discards a 358 to deck 881
+player 880 current hand : 706 587 696 758 599 999 647 128 153 111 97 412 229 163 283 141 541 835 205 864 
+player 880 draws a 50 from deck 880
+player 880 discards a 706 to deck 881
+player 880 current hand : 587 696 758 599 999 647 128 153 111 97 412 229 163 283 141 541 835 205 864 50 
+player 880 draws a 429 from deck 880
+player 880 discards a 587 to deck 881
+player 880 current hand : 696 758 599 999 647 128 153 111 97 412 229 163 283 141 541 835 205 864 50 429 
+player 880 draws a 464 from deck 880
+player 880 discards a 696 to deck 881
+player 880 current hand : 758 599 999 647 128 153 111 97 412 229 163 283 141 541 835 205 864 50 429 464 
+player 880 draws a 135 from deck 880
+player 880 discards a 758 to deck 881
+player 880 current hand : 599 999 647 128 153 111 97 412 229 163 283 141 541 835 205 864 50 429 464 135 
+player 880 draws a 390 from deck 880
+player 880 discards a 599 to deck 881
+player 880 current hand : 999 647 128 153 111 97 412 229 163 283 141 541 835 205 864 50 429 464 135 390 
+player 880 draws a 996 from deck 880
+player 880 discards a 999 to deck 881
+player 880 current hand : 647 128 153 111 97 412 229 163 283 141 541 835 205 864 50 429 464 135 390 996 
+player 880 draws a 168 from deck 880
+player 880 discards a 647 to deck 881
+player 880 current hand : 128 153 111 97 412 229 163 283 141 541 835 205 864 50 429 464 135 390 996 168 
+player 880 draws a 499 from deck 880
+player 880 discards a 128 to deck 881
+player 880 current hand : 153 111 97 412 229 163 283 141 541 835 205 864 50 429 464 135 390 996 168 499 
+player 880 draws a 97 from deck 880
+player 880 discards a 153 to deck 881
+player 880 current hand : 111 97 412 229 163 283 141 541 835 205 864 50 429 464 135 390 996 168 499 97 
+player 880 draws a 796 from deck 880
+player 880 discards a 111 to deck 881
+player 880 current hand : 97 412 229 163 283 141 541 835 205 864 50 429 464 135 390 996 168 499 97 796 
+player 880 draws a 422 from deck 880
+player 880 discards a 97 to deck 881
+player 880 current hand : 412 229 163 283 141 541 835 205 864 50 429 464 135 390 996 168 499 97 796 422 
+player 880 draws a 343 from deck 880
+player 880 discards a 412 to deck 881
+player 880 current hand : 229 163 283 141 541 835 205 864 50 429 464 135 390 996 168 499 97 796 422 343 
+player 880 draws a 170 from deck 880
+player 880 discards a 229 to deck 881
+player 880 current hand : 163 283 141 541 835 205 864 50 429 464 135 390 996 168 499 97 796 422 343 170 
+player 880 draws a 242 from deck 880
+player 880 discards a 163 to deck 881
+player 880 current hand : 283 141 541 835 205 864 50 429 464 135 390 996 168 499 97 796 422 343 170 242 
+player 880 draws a 598 from deck 880
+player 880 discards a 283 to deck 881
+player 880 current hand : 141 541 835 205 864 50 429 464 135 390 996 168 499 97 796 422 343 170 242 598 
+player 880 draws a 135 from deck 880
+player 880 discards a 141 to deck 881
+player 880 current hand : 541 835 205 864 50 429 464 135 390 996 168 499 97 796 422 343 170 242 598 135 
+player 880 draws a 912 from deck 880
+player 880 discards a 541 to deck 881
+player 880 current hand : 835 205 864 50 429 464 135 390 996 168 499 97 796 422 343 170 242 598 135 912 
+player 880 draws a 422 from deck 880
+player 880 discards a 835 to deck 881
+player 880 current hand : 205 864 50 429 464 135 390 996 168 499 97 796 422 343 170 242 598 135 912 422 
+player 880 draws a 41 from deck 880
+player 880 discards a 205 to deck 881
+player 880 current hand : 864 50 429 464 135 390 996 168 499 97 796 422 343 170 242 598 135 912 422 41 
+player 880 draws a 942 from deck 880
+player 880 discards a 864 to deck 881
+player 880 current hand : 50 429 464 135 390 996 168 499 97 796 422 343 170 242 598 135 912 422 41 942 
+player 880 draws a 944 from deck 880
+player 880 discards a 50 to deck 881
+player 880 current hand : 429 464 135 390 996 168 499 97 796 422 343 170 242 598 135 912 422 41 942 944 
+player 880 draws a 480 from deck 880
+player 880 discards a 429 to deck 881
+player 880 current hand : 464 135 390 996 168 499 97 796 422 343 170 242 598 135 912 422 41 942 944 480 
+player 880 draws a 54 from deck 880
+player 880 discards a 464 to deck 881
+player 880 current hand : 135 390 996 168 499 97 796 422 343 170 242 598 135 912 422 41 942 944 480 54 
+player 880 draws a 121 from deck 880
+player 880 discards a 135 to deck 881
+player 880 current hand : 390 996 168 499 97 796 422 343 170 242 598 135 912 422 41 942 944 480 54 121 
+player 880 draws a 633 from deck 880
+player 880 discards a 390 to deck 881
+player 880 current hand : 996 168 499 97 796 422 343 170 242 598 135 912 422 41 942 944 480 54 121 633 
+player 880 draws a 618 from deck 880
+player 880 discards a 996 to deck 881
+player 880 current hand : 168 499 97 796 422 343 170 242 598 135 912 422 41 942 944 480 54 121 633 618 
+player 880 draws a 537 from deck 880
+player 880 discards a 168 to deck 881
+player 880 current hand : 499 97 796 422 343 170 242 598 135 912 422 41 942 944 480 54 121 633 618 537 
+player 880 draws a 141 from deck 880
+player 880 discards a 499 to deck 881
+player 880 current hand : 97 796 422 343 170 242 598 135 912 422 41 942 944 480 54 121 633 618 537 141 
+player 880 draws a 810 from deck 880
+player 880 discards a 97 to deck 881
+player 880 current hand : 796 422 343 170 242 598 135 912 422 41 942 944 480 54 121 633 618 537 141 810 
+player 880 draws a 966 from deck 880
+player 880 discards a 796 to deck 881
+player 880 current hand : 422 343 170 242 598 135 912 422 41 942 944 480 54 121 633 618 537 141 810 966 
+player 880 draws a 555 from deck 880
+player 880 discards a 422 to deck 881
+player 880 current hand : 343 170 242 598 135 912 422 41 942 944 480 54 121 633 618 537 141 810 966 555 
+player 880 draws a 999 from deck 880
+player 880 discards a 343 to deck 881
+player 880 current hand : 170 242 598 135 912 422 41 942 944 480 54 121 633 618 537 141 810 966 555 999 
+player 880 draws a 498 from deck 880
+player 880 discards a 170 to deck 881
+player 880 current hand : 242 598 135 912 422 41 942 944 480 54 121 633 618 537 141 810 966 555 999 498 
+player 880 draws a 910 from deck 880
+player 880 discards a 242 to deck 881
+player 880 current hand : 598 135 912 422 41 942 944 480 54 121 633 618 537 141 810 966 555 999 498 910 
+player 880 draws a 422 from deck 880
+player 880 discards a 598 to deck 881
+player 880 current hand : 135 912 422 41 942 944 480 54 121 633 618 537 141 810 966 555 999 498 910 422 
+player 880 draws a 481 from deck 880
+player 880 discards a 135 to deck 881
+player 880 current hand : 912 422 41 942 944 480 54 121 633 618 537 141 810 966 555 999 498 910 422 481 
+player 880 draws a 712 from deck 880
+player 880 discards a 912 to deck 881
+player 880 current hand : 422 41 942 944 480 54 121 633 618 537 141 810 966 555 999 498 910 422 481 712 
+player 880 draws a 720 from deck 880
+player 880 discards a 422 to deck 881
+player 880 current hand : 41 942 944 480 54 121 633 618 537 141 810 966 555 999 498 910 422 481 712 720 
+player 880 draws a 9 from deck 880
+player 880 discards a 41 to deck 881
+player 880 current hand : 942 944 480 54 121 633 618 537 141 810 966 555 999 498 910 422 481 712 720 9 
+player 880 draws a 766 from deck 880
+player 880 discards a 942 to deck 881
+player 880 current hand : 944 480 54 121 633 618 537 141 810 966 555 999 498 910 422 481 712 720 9 766 
+player 880 draws a 722 from deck 880
+player 880 discards a 944 to deck 881
+player 880 current hand : 480 54 121 633 618 537 141 810 966 555 999 498 910 422 481 712 720 9 766 722 
+player 880 draws a 456 from deck 880
+player 880 discards a 480 to deck 881
+player 880 current hand : 54 121 633 618 537 141 810 966 555 999 498 910 422 481 712 720 9 766 722 456 
+player 880 draws a 908 from deck 880
+player 880 discards a 54 to deck 881
+player 880 current hand : 121 633 618 537 141 810 966 555 999 498 910 422 481 712 720 9 766 722 456 908 
+player 880 draws a 815 from deck 880
+player 880 discards a 121 to deck 881
+player 880 current hand : 633 618 537 141 810 966 555 999 498 910 422 481 712 720 9 766 722 456 908 815 
+player 880 draws a 272 from deck 880
+player 880 discards a 633 to deck 881
+player 880 current hand : 618 537 141 810 966 555 999 498 910 422 481 712 720 9 766 722 456 908 815 272 
+player 880 draws a 238 from deck 880
+player 880 discards a 618 to deck 881
+player 880 current hand : 537 141 810 966 555 999 498 910 422 481 712 720 9 766 722 456 908 815 272 238 
+player 880 draws a 389 from deck 880
+player 880 discards a 537 to deck 881
+player 880 current hand : 141 810 966 555 999 498 910 422 481 712 720 9 766 722 456 908 815 272 238 389 
+player 880 draws a 350 from deck 880
+player 880 discards a 141 to deck 881
+player 880 current hand : 810 966 555 999 498 910 422 481 712 720 9 766 722 456 908 815 272 238 389 350 
+player 880 draws a 580 from deck 880
+player 880 discards a 810 to deck 881
+player 880 current hand : 966 555 999 498 910 422 481 712 720 9 766 722 456 908 815 272 238 389 350 580 
+player 880 draws a 537 from deck 880
+player 880 discards a 966 to deck 881
+player 880 current hand : 555 999 498 910 422 481 712 720 9 766 722 456 908 815 272 238 389 350 580 537 
+player 880 draws a 500 from deck 880
+player 880 discards a 555 to deck 881
+player 880 current hand : 999 498 910 422 481 712 720 9 766 722 456 908 815 272 238 389 350 580 537 500 
+player 880 draws a 601 from deck 880
+player 880 discards a 999 to deck 881
+player 880 current hand : 498 910 422 481 712 720 9 766 722 456 908 815 272 238 389 350 580 537 500 601 
+player 880 draws a 457 from deck 880
+player 880 discards a 498 to deck 881
+player 880 current hand : 910 422 481 712 720 9 766 722 456 908 815 272 238 389 350 580 537 500 601 457 
+player 880 draws a 233 from deck 880
+player 880 discards a 910 to deck 881
+player 880 current hand : 422 481 712 720 9 766 722 456 908 815 272 238 389 350 580 537 500 601 457 233 
+player 880 draws a 822 from deck 880
+player 880 discards a 422 to deck 881
+player 880 current hand : 481 712 720 9 766 722 456 908 815 272 238 389 350 580 537 500 601 457 233 822 
+player 880 draws a 329 from deck 880
+player 880 discards a 481 to deck 881
+player 880 current hand : 712 720 9 766 722 456 908 815 272 238 389 350 580 537 500 601 457 233 822 329 
+player 880 draws a 636 from deck 880
+player 880 discards a 712 to deck 881
+player 880 current hand : 720 9 766 722 456 908 815 272 238 389 350 580 537 500 601 457 233 822 329 636 
+player 880 draws a 844 from deck 880
+player 880 discards a 720 to deck 881
+player 880 current hand : 9 766 722 456 908 815 272 238 389 350 580 537 500 601 457 233 822 329 636 844 
+player 880 draws a 909 from deck 880
+player 880 discards a 9 to deck 881
+player 880 current hand : 766 722 456 908 815 272 238 389 350 580 537 500 601 457 233 822 329 636 844 909 
+player 880 draws a 775 from deck 880
+player 880 discards a 766 to deck 881
+player 880 current hand : 722 456 908 815 272 238 389 350 580 537 500 601 457 233 822 329 636 844 909 775 
+player 880 draws a 809 from deck 880
+player 880 discards a 722 to deck 881
+player 880 current hand : 456 908 815 272 238 389 350 580 537 500 601 457 233 822 329 636 844 909 775 809 
+player 880 draws a 653 from deck 880
+player 880 discards a 456 to deck 881
+player 880 current hand : 908 815 272 238 389 350 580 537 500 601 457 233 822 329 636 844 909 775 809 653 
+player 880 draws a 575 from deck 880
+player 880 discards a 908 to deck 881
+player 880 current hand : 815 272 238 389 350 580 537 500 601 457 233 822 329 636 844 909 775 809 653 575 
+player 880 draws a 768 from deck 880
+player 880 discards a 815 to deck 881
+player 880 current hand : 272 238 389 350 580 537 500 601 457 233 822 329 636 844 909 775 809 653 575 768 
+player 880 draws a 767 from deck 880
+player 880 discards a 272 to deck 881
+player 880 current hand : 238 389 350 580 537 500 601 457 233 822 329 636 844 909 775 809 653 575 768 767 
+player 880 draws a 176 from deck 880
+player 880 discards a 238 to deck 881
+player 880 current hand : 389 350 580 537 500 601 457 233 822 329 636 844 909 775 809 653 575 768 767 176 
+player 880 draws a 593 from deck 880
+player 880 discards a 389 to deck 881
+player 880 current hand : 350 580 537 500 601 457 233 822 329 636 844 909 775 809 653 575 768 767 176 593 
+player 880 draws a 865 from deck 880
+player 880 discards a 350 to deck 881
+player 880 current hand : 580 537 500 601 457 233 822 329 636 844 909 775 809 653 575 768 767 176 593 865 
+player 880 draws a 423 from deck 880
+player 880 discards a 580 to deck 881
+player 880 current hand : 537 500 601 457 233 822 329 636 844 909 775 809 653 575 768 767 176 593 865 423 
+player 880 draws a 102 from deck 880
+player 880 discards a 537 to deck 881
+player 880 current hand : 500 601 457 233 822 329 636 844 909 775 809 653 575 768 767 176 593 865 423 102 
+player 880 draws a 917 from deck 880

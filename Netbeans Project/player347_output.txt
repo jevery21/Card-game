@@ -1,0 +1,334 @@
+player 347 initial hand 93 185 393 458 612 233 364 138 131 300 136 595 829 170 862 393 992 778 437 756 
+player 347 draws a 509 from deck 347
+player 347 discards a 93 to deck 348
+player 347 current hand : 185 393 458 612 233 364 138 131 300 136 595 829 170 862 393 992 778 437 756 509 
+player 347 draws a 156 from deck 347
+player 347 discards a 185 to deck 348
+player 347 current hand : 393 458 612 233 364 138 131 300 136 595 829 170 862 393 992 778 437 756 509 156 
+player 347 draws a 209 from deck 347
+player 347 discards a 393 to deck 348
+player 347 current hand : 458 612 233 364 138 131 300 136 595 829 170 862 393 992 778 437 756 509 156 209 
+player 347 draws a 791 from deck 347
+player 347 discards a 458 to deck 348
+player 347 current hand : 612 233 364 138 131 300 136 595 829 170 862 393 992 778 437 756 509 156 209 791 
+player 347 draws a 156 from deck 347
+player 347 discards a 612 to deck 348
+player 347 current hand : 233 364 138 131 300 136 595 829 170 862 393 992 778 437 756 509 156 209 791 156 
+player 347 draws a 133 from deck 347
+player 347 discards a 233 to deck 348
+player 347 current hand : 364 138 131 300 136 595 829 170 862 393 992 778 437 756 509 156 209 791 156 133 
+player 347 draws a 591 from deck 347
+player 347 discards a 364 to deck 348
+player 347 current hand : 138 131 300 136 595 829 170 862 393 992 778 437 756 509 156 209 791 156 133 591 
+player 347 draws a 241 from deck 347
+player 347 discards a 138 to deck 348
+player 347 current hand : 131 300 136 595 829 170 862 393 992 778 437 756 509 156 209 791 156 133 591 241 
+player 347 draws a 178 from deck 347
+player 347 discards a 131 to deck 348
+player 347 current hand : 300 136 595 829 170 862 393 992 778 437 756 509 156 209 791 156 133 591 241 178 
+player 347 draws a 173 from deck 347
+player 347 discards a 300 to deck 348
+player 347 current hand : 136 595 829 170 862 393 992 778 437 756 509 156 209 791 156 133 591 241 178 173 
+player 347 draws a 297 from deck 347
+player 347 discards a 136 to deck 348
+player 347 current hand : 595 829 170 862 393 992 778 437 756 509 156 209 791 156 133 591 241 178 173 297 
+player 347 draws a 545 from deck 347
+player 347 discards a 595 to deck 348
+player 347 current hand : 829 170 862 393 992 778 437 756 509 156 209 791 156 133 591 241 178 173 297 545 
+player 347 draws a 267 from deck 347
+player 347 discards a 829 to deck 348
+player 347 current hand : 170 862 393 992 778 437 756 509 156 209 791 156 133 591 241 178 173 297 545 267 
+player 347 draws a 366 from deck 347
+player 347 discards a 170 to deck 348
+player 347 current hand : 862 393 992 778 437 756 509 156 209 791 156 133 591 241 178 173 297 545 267 366 
+player 347 draws a 639 from deck 347
+player 347 discards a 862 to deck 348
+player 347 current hand : 393 992 778 437 756 509 156 209 791 156 133 591 241 178 173 297 545 267 366 639 
+player 347 draws a 267 from deck 347
+player 347 discards a 393 to deck 348
+player 347 current hand : 992 778 437 756 509 156 209 791 156 133 591 241 178 173 297 545 267 366 639 267 
+player 347 draws a 525 from deck 347
+player 347 discards a 992 to deck 348
+player 347 current hand : 778 437 756 509 156 209 791 156 133 591 241 178 173 297 545 267 366 639 267 525 
+player 347 draws a 350 from deck 347
+player 347 discards a 778 to deck 348
+player 347 current hand : 437 756 509 156 209 791 156 133 591 241 178 173 297 545 267 366 639 267 525 350 
+player 347 draws a 768 from deck 347
+player 347 discards a 437 to deck 348
+player 347 current hand : 756 509 156 209 791 156 133 591 241 178 173 297 545 267 366 639 267 525 350 768 
+player 347 draws a 121 from deck 347
+player 347 discards a 756 to deck 348
+player 347 current hand : 509 156 209 791 156 133 591 241 178 173 297 545 267 366 639 267 525 350 768 121 
+player 347 draws a 209 from deck 347
+player 347 discards a 509 to deck 348
+player 347 current hand : 156 209 791 156 133 591 241 178 173 297 545 267 366 639 267 525 350 768 121 209 
+player 347 draws a 263 from deck 347
+player 347 discards a 156 to deck 348
+player 347 current hand : 209 791 156 133 591 241 178 173 297 545 267 366 639 267 525 350 768 121 209 263 
+player 347 draws a 787 from deck 347
+player 347 discards a 209 to deck 348
+player 347 current hand : 791 156 133 591 241 178 173 297 545 267 366 639 267 525 350 768 121 209 263 787 
+player 347 draws a 422 from deck 347
+player 347 discards a 791 to deck 348
+player 347 current hand : 156 133 591 241 178 173 297 545 267 366 639 267 525 350 768 121 209 263 787 422 
+player 347 draws a 482 from deck 347
+player 347 discards a 156 to deck 348
+player 347 current hand : 133 591 241 178 173 297 545 267 366 639 267 525 350 768 121 209 263 787 422 482 
+player 347 draws a 598 from deck 347
+player 347 discards a 133 to deck 348
+player 347 current hand : 591 241 178 173 297 545 267 366 639 267 525 350 768 121 209 263 787 422 482 598 
+player 347 draws a 440 from deck 347
+player 347 discards a 591 to deck 348
+player 347 current hand : 241 178 173 297 545 267 366 639 267 525 350 768 121 209 263 787 422 482 598 440 
+player 347 draws a 320 from deck 347
+player 347 discards a 241 to deck 348
+player 347 current hand : 178 173 297 545 267 366 639 267 525 350 768 121 209 263 787 422 482 598 440 320 
+player 347 draws a 589 from deck 347
+player 347 discards a 178 to deck 348
+player 347 current hand : 173 297 545 267 366 639 267 525 350 768 121 209 263 787 422 482 598 440 320 589 
+player 347 draws a 179 from deck 347
+player 347 discards a 173 to deck 348
+player 347 current hand : 297 545 267 366 639 267 525 350 768 121 209 263 787 422 482 598 440 320 589 179 
+player 347 draws a 442 from deck 347
+player 347 discards a 297 to deck 348
+player 347 current hand : 545 267 366 639 267 525 350 768 121 209 263 787 422 482 598 440 320 589 179 442 
+player 347 draws a 1000 from deck 347
+player 347 discards a 545 to deck 348
+player 347 current hand : 267 366 639 267 525 350 768 121 209 263 787 422 482 598 440 320 589 179 442 1000 
+player 347 draws a 672 from deck 347
+player 347 discards a 267 to deck 348
+player 347 current hand : 366 639 267 525 350 768 121 209 263 787 422 482 598 440 320 589 179 442 1000 672 
+player 347 draws a 812 from deck 347
+player 347 discards a 366 to deck 348
+player 347 current hand : 639 267 525 350 768 121 209 263 787 422 482 598 440 320 589 179 442 1000 672 812 
+player 347 draws a 117 from deck 347
+player 347 discards a 639 to deck 348
+player 347 current hand : 267 525 350 768 121 209 263 787 422 482 598 440 320 589 179 442 1000 672 812 117 
+player 347 draws a 922 from deck 347
+player 347 discards a 267 to deck 348
+player 347 current hand : 525 350 768 121 209 263 787 422 482 598 440 320 589 179 442 1000 672 812 117 922 
+player 347 draws a 774 from deck 347
+player 347 discards a 525 to deck 348
+player 347 current hand : 350 768 121 209 263 787 422 482 598 440 320 589 179 442 1000 672 812 117 922 774 
+player 347 draws a 525 from deck 347
+player 347 discards a 350 to deck 348
+player 347 current hand : 768 121 209 263 787 422 482 598 440 320 589 179 442 1000 672 812 117 922 774 525 
+player 347 draws a 471 from deck 347
+player 347 discards a 768 to deck 348
+player 347 current hand : 121 209 263 787 422 482 598 440 320 589 179 442 1000 672 812 117 922 774 525 471 
+player 347 draws a 450 from deck 347
+player 347 discards a 121 to deck 348
+player 347 current hand : 209 263 787 422 482 598 440 320 589 179 442 1000 672 812 117 922 774 525 471 450 
+player 347 draws a 210 from deck 347
+player 347 discards a 209 to deck 348
+player 347 current hand : 263 787 422 482 598 440 320 589 179 442 1000 672 812 117 922 774 525 471 450 210 
+player 347 draws a 676 from deck 347
+player 347 discards a 263 to deck 348
+player 347 current hand : 787 422 482 598 440 320 589 179 442 1000 672 812 117 922 774 525 471 450 210 676 
+player 347 draws a 886 from deck 347
+player 347 discards a 787 to deck 348
+player 347 current hand : 422 482 598 440 320 589 179 442 1000 672 812 117 922 774 525 471 450 210 676 886 
+player 347 draws a 104 from deck 347
+player 347 discards a 422 to deck 348
+player 347 current hand : 482 598 440 320 589 179 442 1000 672 812 117 922 774 525 471 450 210 676 886 104 
+player 347 draws a 994 from deck 347
+player 347 discards a 482 to deck 348
+player 347 current hand : 598 440 320 589 179 442 1000 672 812 117 922 774 525 471 450 210 676 886 104 994 
+player 347 draws a 217 from deck 347
+player 347 discards a 598 to deck 348
+player 347 current hand : 440 320 589 179 442 1000 672 812 117 922 774 525 471 450 210 676 886 104 994 217 
+player 347 draws a 384 from deck 347
+player 347 discards a 440 to deck 348
+player 347 current hand : 320 589 179 442 1000 672 812 117 922 774 525 471 450 210 676 886 104 994 217 384 
+player 347 draws a 879 from deck 347
+player 347 discards a 320 to deck 348
+player 347 current hand : 589 179 442 1000 672 812 117 922 774 525 471 450 210 676 886 104 994 217 384 879 
+player 347 draws a 967 from deck 347
+player 347 discards a 589 to deck 348
+player 347 current hand : 179 442 1000 672 812 117 922 774 525 471 450 210 676 886 104 994 217 384 879 967 
+player 347 draws a 944 from deck 347
+player 347 discards a 179 to deck 348
+player 347 current hand : 442 1000 672 812 117 922 774 525 471 450 210 676 886 104 994 217 384 879 967 944 
+player 347 draws a 670 from deck 347
+player 347 discards a 442 to deck 348
+player 347 current hand : 1000 672 812 117 922 774 525 471 450 210 676 886 104 994 217 384 879 967 944 670 
+player 347 draws a 188 from deck 347
+player 347 discards a 1000 to deck 348
+player 347 current hand : 672 812 117 922 774 525 471 450 210 676 886 104 994 217 384 879 967 944 670 188 
+player 347 draws a 765 from deck 347
+player 347 discards a 672 to deck 348
+player 347 current hand : 812 117 922 774 525 471 450 210 676 886 104 994 217 384 879 967 944 670 188 765 
+player 347 draws a 612 from deck 347
+player 347 discards a 812 to deck 348
+player 347 current hand : 117 922 774 525 471 450 210 676 886 104 994 217 384 879 967 944 670 188 765 612 
+player 347 draws a 434 from deck 347
+player 347 discards a 117 to deck 348
+player 347 current hand : 922 774 525 471 450 210 676 886 104 994 217 384 879 967 944 670 188 765 612 434 
+player 347 draws a 434 from deck 347
+player 347 discards a 922 to deck 348
+player 347 current hand : 774 525 471 450 210 676 886 104 994 217 384 879 967 944 670 188 765 612 434 434 
+player 347 draws a 626 from deck 347
+player 347 discards a 774 to deck 348
+player 347 current hand : 525 471 450 210 676 886 104 994 217 384 879 967 944 670 188 765 612 434 434 626 
+player 347 draws a 209 from deck 347
+player 347 discards a 525 to deck 348
+player 347 current hand : 471 450 210 676 886 104 994 217 384 879 967 944 670 188 765 612 434 434 626 209 
+player 347 draws a 681 from deck 347
+player 347 discards a 471 to deck 348
+player 347 current hand : 450 210 676 886 104 994 217 384 879 967 944 670 188 765 612 434 434 626 209 681 
+player 347 draws a 360 from deck 347
+player 347 discards a 450 to deck 348
+player 347 current hand : 210 676 886 104 994 217 384 879 967 944 670 188 765 612 434 434 626 209 681 360 
+player 347 draws a 7 from deck 347
+player 347 discards a 210 to deck 348
+player 347 current hand : 676 886 104 994 217 384 879 967 944 670 188 765 612 434 434 626 209 681 360 7 
+player 347 draws a 800 from deck 347
+player 347 discards a 676 to deck 348
+player 347 current hand : 886 104 994 217 384 879 967 944 670 188 765 612 434 434 626 209 681 360 7 800 
+player 347 draws a 326 from deck 347
+player 347 discards a 886 to deck 348
+player 347 current hand : 104 994 217 384 879 967 944 670 188 765 612 434 434 626 209 681 360 7 800 326 
+player 347 draws a 458 from deck 347
+player 347 discards a 104 to deck 348
+player 347 current hand : 994 217 384 879 967 944 670 188 765 612 434 434 626 209 681 360 7 800 326 458 
+player 347 draws a 84 from deck 347
+player 347 discards a 994 to deck 348
+player 347 current hand : 217 384 879 967 944 670 188 765 612 434 434 626 209 681 360 7 800 326 458 84 
+player 347 draws a 824 from deck 347
+player 347 discards a 217 to deck 348
+player 347 current hand : 384 879 967 944 670 188 765 612 434 434 626 209 681 360 7 800 326 458 84 824 
+player 347 draws a 431 from deck 347
+player 347 discards a 384 to deck 348
+player 347 current hand : 879 967 944 670 188 765 612 434 434 626 209 681 360 7 800 326 458 84 824 431 
+player 347 draws a 841 from deck 347
+player 347 discards a 879 to deck 348
+player 347 current hand : 967 944 670 188 765 612 434 434 626 209 681 360 7 800 326 458 84 824 431 841 
+player 347 draws a 782 from deck 347
+player 347 discards a 967 to deck 348
+player 347 current hand : 944 670 188 765 612 434 434 626 209 681 360 7 800 326 458 84 824 431 841 782 
+player 347 draws a 729 from deck 347
+player 347 discards a 944 to deck 348
+player 347 current hand : 670 188 765 612 434 434 626 209 681 360 7 800 326 458 84 824 431 841 782 729 
+player 347 draws a 92 from deck 347
+player 347 discards a 670 to deck 348
+player 347 current hand : 188 765 612 434 434 626 209 681 360 7 800 326 458 84 824 431 841 782 729 92 
+player 347 draws a 135 from deck 347
+player 347 discards a 188 to deck 348
+player 347 current hand : 765 612 434 434 626 209 681 360 7 800 326 458 84 824 431 841 782 729 92 135 
+player 347 draws a 152 from deck 347
+player 347 discards a 765 to deck 348
+player 347 current hand : 612 434 434 626 209 681 360 7 800 326 458 84 824 431 841 782 729 92 135 152 
+player 347 draws a 414 from deck 347
+player 347 discards a 612 to deck 348
+player 347 current hand : 434 434 626 209 681 360 7 800 326 458 84 824 431 841 782 729 92 135 152 414 
+player 347 draws a 970 from deck 347
+player 347 discards a 434 to deck 348
+player 347 current hand : 434 626 209 681 360 7 800 326 458 84 824 431 841 782 729 92 135 152 414 970 
+player 347 draws a 947 from deck 347
+player 347 discards a 434 to deck 348
+player 347 current hand : 626 209 681 360 7 800 326 458 84 824 431 841 782 729 92 135 152 414 970 947 
+player 347 draws a 603 from deck 347
+player 347 discards a 626 to deck 348
+player 347 current hand : 209 681 360 7 800 326 458 84 824 431 841 782 729 92 135 152 414 970 947 603 
+player 347 draws a 415 from deck 347
+player 347 discards a 209 to deck 348
+player 347 current hand : 681 360 7 800 326 458 84 824 431 841 782 729 92 135 152 414 970 947 603 415 
+player 347 draws a 62 from deck 347
+player 347 discards a 681 to deck 348
+player 347 current hand : 360 7 800 326 458 84 824 431 841 782 729 92 135 152 414 970 947 603 415 62 
+player 347 draws a 470 from deck 347
+player 347 discards a 360 to deck 348
+player 347 current hand : 7 800 326 458 84 824 431 841 782 729 92 135 152 414 970 947 603 415 62 470 
+player 347 draws a 930 from deck 347
+player 347 discards a 7 to deck 348
+player 347 current hand : 800 326 458 84 824 431 841 782 729 92 135 152 414 970 947 603 415 62 470 930 
+player 347 draws a 455 from deck 347
+player 347 discards a 800 to deck 348
+player 347 current hand : 326 458 84 824 431 841 782 729 92 135 152 414 970 947 603 415 62 470 930 455 
+player 347 draws a 122 from deck 347
+player 347 discards a 326 to deck 348
+player 347 current hand : 458 84 824 431 841 782 729 92 135 152 414 970 947 603 415 62 470 930 455 122 
+player 347 draws a 498 from deck 347
+player 347 discards a 458 to deck 348
+player 347 current hand : 84 824 431 841 782 729 92 135 152 414 970 947 603 415 62 470 930 455 122 498 
+player 347 draws a 214 from deck 347
+player 347 discards a 84 to deck 348
+player 347 current hand : 824 431 841 782 729 92 135 152 414 970 947 603 415 62 470 930 455 122 498 214 
+player 347 draws a 180 from deck 347
+player 347 discards a 824 to deck 348
+player 347 current hand : 431 841 782 729 92 135 152 414 970 947 603 415 62 470 930 455 122 498 214 180 
+player 347 draws a 223 from deck 347
+player 347 discards a 431 to deck 348
+player 347 current hand : 841 782 729 92 135 152 414 970 947 603 415 62 470 930 455 122 498 214 180 223 
+player 347 draws a 255 from deck 347
+player 347 discards a 841 to deck 348
+player 347 current hand : 782 729 92 135 152 414 970 947 603 415 62 470 930 455 122 498 214 180 223 255 
+player 347 draws a 205 from deck 347
+player 347 discards a 782 to deck 348
+player 347 current hand : 729 92 135 152 414 970 947 603 415 62 470 930 455 122 498 214 180 223 255 205 
+player 347 draws a 11 from deck 347
+player 347 discards a 729 to deck 348
+player 347 current hand : 92 135 152 414 970 947 603 415 62 470 930 455 122 498 214 180 223 255 205 11 
+player 347 draws a 138 from deck 347
+player 347 discards a 92 to deck 348
+player 347 current hand : 135 152 414 970 947 603 415 62 470 930 455 122 498 214 180 223 255 205 11 138 
+player 347 draws a 350 from deck 347
+player 347 discards a 135 to deck 348
+player 347 current hand : 152 414 970 947 603 415 62 470 930 455 122 498 214 180 223 255 205 11 138 350 
+player 347 draws a 279 from deck 347
+player 347 discards a 152 to deck 348
+player 347 current hand : 414 970 947 603 415 62 470 930 455 122 498 214 180 223 255 205 11 138 350 279 
+player 347 draws a 529 from deck 347
+player 347 discards a 414 to deck 348
+player 347 current hand : 970 947 603 415 62 470 930 455 122 498 214 180 223 255 205 11 138 350 279 529 
+player 347 draws a 408 from deck 347
+player 347 discards a 970 to deck 348
+player 347 current hand : 947 603 415 62 470 930 455 122 498 214 180 223 255 205 11 138 350 279 529 408 
+player 347 draws a 552 from deck 347
+player 347 discards a 947 to deck 348
+player 347 current hand : 603 415 62 470 930 455 122 498 214 180 223 255 205 11 138 350 279 529 408 552 
+player 347 draws a 690 from deck 347
+player 347 discards a 603 to deck 348
+player 347 current hand : 415 62 470 930 455 122 498 214 180 223 255 205 11 138 350 279 529 408 552 690 
+player 347 draws a 634 from deck 347
+player 347 discards a 415 to deck 348
+player 347 current hand : 62 470 930 455 122 498 214 180 223 255 205 11 138 350 279 529 408 552 690 634 
+player 347 draws a 308 from deck 347
+player 347 discards a 62 to deck 348
+player 347 current hand : 470 930 455 122 498 214 180 223 255 205 11 138 350 279 529 408 552 690 634 308 
+player 347 draws a 258 from deck 347
+player 347 discards a 470 to deck 348
+player 347 current hand : 930 455 122 498 214 180 223 255 205 11 138 350 279 529 408 552 690 634 308 258 
+player 347 draws a 141 from deck 347
+player 347 discards a 930 to deck 348
+player 347 current hand : 455 122 498 214 180 223 255 205 11 138 350 279 529 408 552 690 634 308 258 141 
+player 347 draws a 692 from deck 347
+player 347 discards a 455 to deck 348
+player 347 current hand : 122 498 214 180 223 255 205 11 138 350 279 529 408 552 690 634 308 258 141 692 
+player 347 draws a 342 from deck 347
+player 347 discards a 122 to deck 348
+player 347 current hand : 498 214 180 223 255 205 11 138 350 279 529 408 552 690 634 308 258 141 692 342 
+player 347 draws a 122 from deck 347
+player 347 discards a 498 to deck 348
+player 347 current hand : 214 180 223 255 205 11 138 350 279 529 408 552 690 634 308 258 141 692 342 122 
+player 347 draws a 417 from deck 347
+player 347 discards a 214 to deck 348
+player 347 current hand : 180 223 255 205 11 138 350 279 529 408 552 690 634 308 258 141 692 342 122 417 
+player 347 draws a 654 from deck 347
+player 347 discards a 180 to deck 348
+player 347 current hand : 223 255 205 11 138 350 279 529 408 552 690 634 308 258 141 692 342 122 417 654 
+player 347 draws a 131 from deck 347
+player 347 discards a 223 to deck 348
+player 347 current hand : 255 205 11 138 350 279 529 408 552 690 634 308 258 141 692 342 122 417 654 131 
+player 347 draws a 559 from deck 347
+player 347 discards a 255 to deck 348
+player 347 current hand : 205 11 138 350 279 529 408 552 690 634 308 258 141 692 342 122 417 654 131 559 
+player 347 draws a 390 from deck 347
+player 347 discards a 205 to deck 348
+player 347 current hand : 11 138 350 279 529 408 552 690 634 308 258 141 692 342 122 417 654 131 559 390 
+player 347 draws a 841 from deck 347
+player 347 discards a 11 to deck 348
+player 347 current hand : 138 350 279 529 408 552 690 634 308 258 141 692 342 122 417 654 131 559 390 841 
+player 347 draws a 890 from deck 347
+player 347 discards a 138 to deck 348
+player 347 current hand : 350 279 529 408 552 690 634 308 258 141 692 342 122 417 654 131 559 390 841 890 

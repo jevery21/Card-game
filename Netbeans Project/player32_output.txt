@@ -1,0 +1,313 @@
+player 32 initial hand 741 14 613 111 971 316 222 610 267 631 933 892 776 177 412 481 262 924 523 84 
+player 32 draws a 186 from deck 32
+player 32 discards a 741 to deck 33
+player 32 current hand : 14 613 111 971 316 222 610 267 631 933 892 776 177 412 481 262 924 523 84 186 
+player 32 draws a 924 from deck 32
+player 32 discards a 14 to deck 33
+player 32 current hand : 613 111 971 316 222 610 267 631 933 892 776 177 412 481 262 924 523 84 186 924 
+player 32 draws a 222 from deck 32
+player 32 discards a 613 to deck 33
+player 32 current hand : 111 971 316 222 610 267 631 933 892 776 177 412 481 262 924 523 84 186 924 222 
+player 32 draws a 728 from deck 32
+player 32 discards a 111 to deck 33
+player 32 current hand : 971 316 222 610 267 631 933 892 776 177 412 481 262 924 523 84 186 924 222 728 
+player 32 draws a 497 from deck 32
+player 32 discards a 971 to deck 33
+player 32 current hand : 316 222 610 267 631 933 892 776 177 412 481 262 924 523 84 186 924 222 728 497 
+player 32 draws a 984 from deck 32
+player 32 discards a 316 to deck 33
+player 32 current hand : 222 610 267 631 933 892 776 177 412 481 262 924 523 84 186 924 222 728 497 984 
+player 32 draws a 308 from deck 32
+player 32 discards a 222 to deck 33
+player 32 current hand : 610 267 631 933 892 776 177 412 481 262 924 523 84 186 924 222 728 497 984 308 
+player 32 draws a 888 from deck 32
+player 32 discards a 610 to deck 33
+player 32 current hand : 267 631 933 892 776 177 412 481 262 924 523 84 186 924 222 728 497 984 308 888 
+player 32 draws a 776 from deck 32
+player 32 discards a 267 to deck 33
+player 32 current hand : 631 933 892 776 177 412 481 262 924 523 84 186 924 222 728 497 984 308 888 776 
+player 32 draws a 954 from deck 32
+player 32 discards a 631 to deck 33
+player 32 current hand : 933 892 776 177 412 481 262 924 523 84 186 924 222 728 497 984 308 888 776 954 
+player 32 draws a 302 from deck 32
+player 32 discards a 933 to deck 33
+player 32 current hand : 892 776 177 412 481 262 924 523 84 186 924 222 728 497 984 308 888 776 954 302 
+player 32 draws a 738 from deck 32
+player 32 discards a 892 to deck 33
+player 32 current hand : 776 177 412 481 262 924 523 84 186 924 222 728 497 984 308 888 776 954 302 738 
+player 32 draws a 420 from deck 32
+player 32 discards a 776 to deck 33
+player 32 current hand : 177 412 481 262 924 523 84 186 924 222 728 497 984 308 888 776 954 302 738 420 
+player 32 draws a 840 from deck 32
+player 32 discards a 177 to deck 33
+player 32 current hand : 412 481 262 924 523 84 186 924 222 728 497 984 308 888 776 954 302 738 420 840 
+player 32 draws a 618 from deck 32
+player 32 discards a 412 to deck 33
+player 32 current hand : 481 262 924 523 84 186 924 222 728 497 984 308 888 776 954 302 738 420 840 618 
+player 32 draws a 54 from deck 32
+player 32 discards a 481 to deck 33
+player 32 current hand : 262 924 523 84 186 924 222 728 497 984 308 888 776 954 302 738 420 840 618 54 
+player 32 draws a 896 from deck 32
+player 32 discards a 262 to deck 33
+player 32 current hand : 924 523 84 186 924 222 728 497 984 308 888 776 954 302 738 420 840 618 54 896 
+player 32 draws a 589 from deck 32
+player 32 discards a 924 to deck 33
+player 32 current hand : 523 84 186 924 222 728 497 984 308 888 776 954 302 738 420 840 618 54 896 589 
+player 32 draws a 473 from deck 32
+player 32 discards a 523 to deck 33
+player 32 current hand : 84 186 924 222 728 497 984 308 888 776 954 302 738 420 840 618 54 896 589 473 
+player 32 draws a 136 from deck 32
+player 32 discards a 84 to deck 33
+player 32 current hand : 186 924 222 728 497 984 308 888 776 954 302 738 420 840 618 54 896 589 473 136 
+player 32 draws a 343 from deck 32
+player 32 discards a 186 to deck 33
+player 32 current hand : 924 222 728 497 984 308 888 776 954 302 738 420 840 618 54 896 589 473 136 343 
+player 32 draws a 720 from deck 32
+player 32 discards a 924 to deck 33
+player 32 current hand : 222 728 497 984 308 888 776 954 302 738 420 840 618 54 896 589 473 136 343 720 
+player 32 draws a 893 from deck 32
+player 32 discards a 222 to deck 33
+player 32 current hand : 728 497 984 308 888 776 954 302 738 420 840 618 54 896 589 473 136 343 720 893 
+player 32 draws a 179 from deck 32
+player 32 discards a 728 to deck 33
+player 32 current hand : 497 984 308 888 776 954 302 738 420 840 618 54 896 589 473 136 343 720 893 179 
+player 32 draws a 960 from deck 32
+player 32 discards a 497 to deck 33
+player 32 current hand : 984 308 888 776 954 302 738 420 840 618 54 896 589 473 136 343 720 893 179 960 
+player 32 draws a 320 from deck 32
+player 32 discards a 984 to deck 33
+player 32 current hand : 308 888 776 954 302 738 420 840 618 54 896 589 473 136 343 720 893 179 960 320 
+player 32 draws a 267 from deck 32
+player 32 discards a 308 to deck 33
+player 32 current hand : 888 776 954 302 738 420 840 618 54 896 589 473 136 343 720 893 179 960 320 267 
+player 32 draws a 485 from deck 32
+player 32 discards a 888 to deck 33
+player 32 current hand : 776 954 302 738 420 840 618 54 896 589 473 136 343 720 893 179 960 320 267 485 
+player 32 draws a 326 from deck 32
+player 32 discards a 776 to deck 33
+player 32 current hand : 954 302 738 420 840 618 54 896 589 473 136 343 720 893 179 960 320 267 485 326 
+player 32 draws a 681 from deck 32
+player 32 discards a 954 to deck 33
+player 32 current hand : 302 738 420 840 618 54 896 589 473 136 343 720 893 179 960 320 267 485 326 681 
+player 32 draws a 326 from deck 32
+player 32 discards a 302 to deck 33
+player 32 current hand : 738 420 840 618 54 896 589 473 136 343 720 893 179 960 320 267 485 326 681 326 
+player 32 draws a 654 from deck 32
+player 32 discards a 738 to deck 33
+player 32 current hand : 420 840 618 54 896 589 473 136 343 720 893 179 960 320 267 485 326 681 326 654 
+player 32 draws a 749 from deck 32
+player 32 discards a 420 to deck 33
+player 32 current hand : 840 618 54 896 589 473 136 343 720 893 179 960 320 267 485 326 681 326 654 749 
+player 32 draws a 125 from deck 32
+player 32 discards a 840 to deck 33
+player 32 current hand : 618 54 896 589 473 136 343 720 893 179 960 320 267 485 326 681 326 654 749 125 
+player 32 draws a 509 from deck 32
+player 32 discards a 618 to deck 33
+player 32 current hand : 54 896 589 473 136 343 720 893 179 960 320 267 485 326 681 326 654 749 125 509 
+player 32 draws a 417 from deck 32
+player 32 discards a 54 to deck 33
+player 32 current hand : 896 589 473 136 343 720 893 179 960 320 267 485 326 681 326 654 749 125 509 417 
+player 32 draws a 984 from deck 32
+player 32 discards a 896 to deck 33
+player 32 current hand : 589 473 136 343 720 893 179 960 320 267 485 326 681 326 654 749 125 509 417 984 
+player 32 draws a 867 from deck 32
+player 32 discards a 589 to deck 33
+player 32 current hand : 473 136 343 720 893 179 960 320 267 485 326 681 326 654 749 125 509 417 984 867 
+player 32 draws a 853 from deck 32
+player 32 discards a 473 to deck 33
+player 32 current hand : 136 343 720 893 179 960 320 267 485 326 681 326 654 749 125 509 417 984 867 853 
+player 32 draws a 723 from deck 32
+player 32 discards a 136 to deck 33
+player 32 current hand : 343 720 893 179 960 320 267 485 326 681 326 654 749 125 509 417 984 867 853 723 
+player 32 draws a 632 from deck 32
+player 32 discards a 343 to deck 33
+player 32 current hand : 720 893 179 960 320 267 485 326 681 326 654 749 125 509 417 984 867 853 723 632 
+player 32 draws a 562 from deck 32
+player 32 discards a 720 to deck 33
+player 32 current hand : 893 179 960 320 267 485 326 681 326 654 749 125 509 417 984 867 853 723 632 562 
+player 32 draws a 712 from deck 32
+player 32 discards a 893 to deck 33
+player 32 current hand : 179 960 320 267 485 326 681 326 654 749 125 509 417 984 867 853 723 632 562 712 
+player 32 draws a 171 from deck 32
+player 32 discards a 179 to deck 33
+player 32 current hand : 960 320 267 485 326 681 326 654 749 125 509 417 984 867 853 723 632 562 712 171 
+player 32 draws a 458 from deck 32
+player 32 discards a 960 to deck 33
+player 32 current hand : 320 267 485 326 681 326 654 749 125 509 417 984 867 853 723 632 562 712 171 458 
+player 32 draws a 988 from deck 32
+player 32 discards a 320 to deck 33
+player 32 current hand : 267 485 326 681 326 654 749 125 509 417 984 867 853 723 632 562 712 171 458 988 
+player 32 draws a 530 from deck 32
+player 32 discards a 267 to deck 33
+player 32 current hand : 485 326 681 326 654 749 125 509 417 984 867 853 723 632 562 712 171 458 988 530 
+player 32 draws a 535 from deck 32
+player 32 discards a 485 to deck 33
+player 32 current hand : 326 681 326 654 749 125 509 417 984 867 853 723 632 562 712 171 458 988 530 535 
+player 32 draws a 778 from deck 32
+player 32 discards a 326 to deck 33
+player 32 current hand : 681 326 654 749 125 509 417 984 867 853 723 632 562 712 171 458 988 530 535 778 
+player 32 draws a 773 from deck 32
+player 32 discards a 681 to deck 33
+player 32 current hand : 326 654 749 125 509 417 984 867 853 723 632 562 712 171 458 988 530 535 778 773 
+player 32 draws a 901 from deck 32
+player 32 discards a 326 to deck 33
+player 32 current hand : 654 749 125 509 417 984 867 853 723 632 562 712 171 458 988 530 535 778 773 901 
+player 32 draws a 99 from deck 32
+player 32 discards a 654 to deck 33
+player 32 current hand : 749 125 509 417 984 867 853 723 632 562 712 171 458 988 530 535 778 773 901 99 
+player 32 draws a 736 from deck 32
+player 32 discards a 749 to deck 33
+player 32 current hand : 125 509 417 984 867 853 723 632 562 712 171 458 988 530 535 778 773 901 99 736 
+player 32 draws a 737 from deck 32
+player 32 discards a 125 to deck 33
+player 32 current hand : 509 417 984 867 853 723 632 562 712 171 458 988 530 535 778 773 901 99 736 737 
+player 32 draws a 219 from deck 32
+player 32 discards a 509 to deck 33
+player 32 current hand : 417 984 867 853 723 632 562 712 171 458 988 530 535 778 773 901 99 736 737 219 
+player 32 draws a 646 from deck 32
+player 32 discards a 417 to deck 33
+player 32 current hand : 984 867 853 723 632 562 712 171 458 988 530 535 778 773 901 99 736 737 219 646 
+player 32 draws a 460 from deck 32
+player 32 discards a 984 to deck 33
+player 32 current hand : 867 853 723 632 562 712 171 458 988 530 535 778 773 901 99 736 737 219 646 460 
+player 32 draws a 816 from deck 32
+player 32 discards a 867 to deck 33
+player 32 current hand : 853 723 632 562 712 171 458 988 530 535 778 773 901 99 736 737 219 646 460 816 
+player 32 draws a 530 from deck 32
+player 32 discards a 853 to deck 33
+player 32 current hand : 723 632 562 712 171 458 988 530 535 778 773 901 99 736 737 219 646 460 816 530 
+player 32 draws a 267 from deck 32
+player 32 discards a 723 to deck 33
+player 32 current hand : 632 562 712 171 458 988 530 535 778 773 901 99 736 737 219 646 460 816 530 267 
+player 32 draws a 601 from deck 32
+player 32 discards a 632 to deck 33
+player 32 current hand : 562 712 171 458 988 530 535 778 773 901 99 736 737 219 646 460 816 530 267 601 
+player 32 draws a 7 from deck 32
+player 32 discards a 562 to deck 33
+player 32 current hand : 712 171 458 988 530 535 778 773 901 99 736 737 219 646 460 816 530 267 601 7 
+player 32 draws a 568 from deck 32
+player 32 discards a 712 to deck 33
+player 32 current hand : 171 458 988 530 535 778 773 901 99 736 737 219 646 460 816 530 267 601 7 568 
+player 32 draws a 11 from deck 32
+player 32 discards a 171 to deck 33
+player 32 current hand : 458 988 530 535 778 773 901 99 736 737 219 646 460 816 530 267 601 7 568 11 
+player 32 draws a 91 from deck 32
+player 32 discards a 458 to deck 33
+player 32 current hand : 988 530 535 778 773 901 99 736 737 219 646 460 816 530 267 601 7 568 11 91 
+player 32 draws a 252 from deck 32
+player 32 discards a 988 to deck 33
+player 32 current hand : 530 535 778 773 901 99 736 737 219 646 460 816 530 267 601 7 568 11 91 252 
+player 32 draws a 47 from deck 32
+player 32 discards a 530 to deck 33
+player 32 current hand : 535 778 773 901 99 736 737 219 646 460 816 530 267 601 7 568 11 91 252 47 
+player 32 draws a 765 from deck 32
+player 32 discards a 535 to deck 33
+player 32 current hand : 778 773 901 99 736 737 219 646 460 816 530 267 601 7 568 11 91 252 47 765 
+player 32 draws a 690 from deck 32
+player 32 discards a 778 to deck 33
+player 32 current hand : 773 901 99 736 737 219 646 460 816 530 267 601 7 568 11 91 252 47 765 690 
+player 32 draws a 595 from deck 32
+player 32 discards a 773 to deck 33
+player 32 current hand : 901 99 736 737 219 646 460 816 530 267 601 7 568 11 91 252 47 765 690 595 
+player 32 draws a 644 from deck 32
+player 32 discards a 901 to deck 33
+player 32 current hand : 99 736 737 219 646 460 816 530 267 601 7 568 11 91 252 47 765 690 595 644 
+player 32 draws a 658 from deck 32
+player 32 discards a 99 to deck 33
+player 32 current hand : 736 737 219 646 460 816 530 267 601 7 568 11 91 252 47 765 690 595 644 658 
+player 32 draws a 7 from deck 32
+player 32 discards a 736 to deck 33
+player 32 current hand : 737 219 646 460 816 530 267 601 7 568 11 91 252 47 765 690 595 644 658 7 
+player 32 draws a 557 from deck 32
+player 32 discards a 737 to deck 33
+player 32 current hand : 219 646 460 816 530 267 601 7 568 11 91 252 47 765 690 595 644 658 7 557 
+player 32 draws a 253 from deck 32
+player 32 discards a 219 to deck 33
+player 32 current hand : 646 460 816 530 267 601 7 568 11 91 252 47 765 690 595 644 658 7 557 253 
+player 32 draws a 200 from deck 32
+player 32 discards a 646 to deck 33
+player 32 current hand : 460 816 530 267 601 7 568 11 91 252 47 765 690 595 644 658 7 557 253 200 
+player 32 draws a 867 from deck 32
+player 32 discards a 460 to deck 33
+player 32 current hand : 816 530 267 601 7 568 11 91 252 47 765 690 595 644 658 7 557 253 200 867 
+player 32 draws a 877 from deck 32
+player 32 discards a 816 to deck 33
+player 32 current hand : 530 267 601 7 568 11 91 252 47 765 690 595 644 658 7 557 253 200 867 877 
+player 32 draws a 460 from deck 32
+player 32 discards a 530 to deck 33
+player 32 current hand : 267 601 7 568 11 91 252 47 765 690 595 644 658 7 557 253 200 867 877 460 
+player 32 draws a 947 from deck 32
+player 32 discards a 267 to deck 33
+player 32 current hand : 601 7 568 11 91 252 47 765 690 595 644 658 7 557 253 200 867 877 460 947 
+player 32 draws a 409 from deck 32
+player 32 discards a 601 to deck 33
+player 32 current hand : 7 568 11 91 252 47 765 690 595 644 658 7 557 253 200 867 877 460 947 409 
+player 32 draws a 37 from deck 32
+player 32 discards a 7 to deck 33
+player 32 current hand : 568 11 91 252 47 765 690 595 644 658 7 557 253 200 867 877 460 947 409 37 
+player 32 draws a 862 from deck 32
+player 32 discards a 568 to deck 33
+player 32 current hand : 11 91 252 47 765 690 595 644 658 7 557 253 200 867 877 460 947 409 37 862 
+player 32 draws a 9 from deck 32
+player 32 discards a 11 to deck 33
+player 32 current hand : 91 252 47 765 690 595 644 658 7 557 253 200 867 877 460 947 409 37 862 9 
+player 32 draws a 631 from deck 32
+player 32 discards a 91 to deck 33
+player 32 current hand : 252 47 765 690 595 644 658 7 557 253 200 867 877 460 947 409 37 862 9 631 
+player 32 draws a 198 from deck 32
+player 32 discards a 252 to deck 33
+player 32 current hand : 47 765 690 595 644 658 7 557 253 200 867 877 460 947 409 37 862 9 631 198 
+player 32 draws a 267 from deck 32
+player 32 discards a 47 to deck 33
+player 32 current hand : 765 690 595 644 658 7 557 253 200 867 877 460 947 409 37 862 9 631 198 267 
+player 32 draws a 396 from deck 32
+player 32 discards a 765 to deck 33
+player 32 current hand : 690 595 644 658 7 557 253 200 867 877 460 947 409 37 862 9 631 198 267 396 
+player 32 draws a 124 from deck 32
+player 32 discards a 690 to deck 33
+player 32 current hand : 595 644 658 7 557 253 200 867 877 460 947 409 37 862 9 631 198 267 396 124 
+player 32 draws a 774 from deck 32
+player 32 discards a 595 to deck 33
+player 32 current hand : 644 658 7 557 253 200 867 877 460 947 409 37 862 9 631 198 267 396 124 774 
+player 32 draws a 199 from deck 32
+player 32 discards a 644 to deck 33
+player 32 current hand : 658 7 557 253 200 867 877 460 947 409 37 862 9 631 198 267 396 124 774 199 
+player 32 draws a 981 from deck 32
+player 32 discards a 658 to deck 33
+player 32 current hand : 7 557 253 200 867 877 460 947 409 37 862 9 631 198 267 396 124 774 199 981 
+player 32 draws a 608 from deck 32
+player 32 discards a 7 to deck 33
+player 32 current hand : 557 253 200 867 877 460 947 409 37 862 9 631 198 267 396 124 774 199 981 608 
+player 32 draws a 657 from deck 32
+player 32 discards a 557 to deck 33
+player 32 current hand : 253 200 867 877 460 947 409 37 862 9 631 198 267 396 124 774 199 981 608 657 
+player 32 draws a 262 from deck 32
+player 32 discards a 253 to deck 33
+player 32 current hand : 200 867 877 460 947 409 37 862 9 631 198 267 396 124 774 199 981 608 657 262 
+player 32 draws a 409 from deck 32
+player 32 discards a 200 to deck 33
+player 32 current hand : 867 877 460 947 409 37 862 9 631 198 267 396 124 774 199 981 608 657 262 409 
+player 32 draws a 900 from deck 32
+player 32 discards a 867 to deck 33
+player 32 current hand : 877 460 947 409 37 862 9 631 198 267 396 124 774 199 981 608 657 262 409 900 
+player 32 draws a 92 from deck 32
+player 32 discards a 877 to deck 33
+player 32 current hand : 460 947 409 37 862 9 631 198 267 396 124 774 199 981 608 657 262 409 900 92 
+player 32 draws a 964 from deck 32
+player 32 discards a 460 to deck 33
+player 32 current hand : 947 409 37 862 9 631 198 267 396 124 774 199 981 608 657 262 409 900 92 964 
+player 32 draws a 775 from deck 32
+player 32 discards a 947 to deck 33
+player 32 current hand : 409 37 862 9 631 198 267 396 124 774 199 981 608 657 262 409 900 92 964 775 
+player 32 draws a 277 from deck 32
+player 32 discards a 409 to deck 33
+player 32 current hand : 37 862 9 631 198 267 396 124 774 199 981 608 657 262 409 900 92 964 775 277 
+player 32 draws a 972 from deck 32
+player 32 discards a 37 to deck 33
+player 32 current hand : 862 9 631 198 267 396 124 774 199 981 608 657 262 409 900 92 964 775 277 972 
+player 32 draws a 12 from deck 32
+player 32 discards a 862 to deck 33
+player 32 current hand : 9 631 198 267 396 124 774 199 981 608 657 262 409 900 92 964 775 277 972 12 
+player 32 draws a 256 from deck 32
+player 32 discards a 9 to deck 33
+player 32 current hand : 631 198 267 396 124 774 199 981 608 657 262 409 900 92 964 775 277 972 12 256 

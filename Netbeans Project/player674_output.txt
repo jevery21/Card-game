@@ -1,0 +1,315 @@
+player 674 initial hand 7 773 654 105 365 705 791 45 25 164 566 734 707 720 878 438 340 9 303 478 
+player 674 draws a 835 from deck 674
+player 674 discards a 7 to deck 675
+player 674 current hand : 773 654 105 365 705 791 45 25 164 566 734 707 720 878 438 340 9 303 478 835 
+player 674 draws a 239 from deck 674
+player 674 discards a 773 to deck 675
+player 674 current hand : 654 105 365 705 791 45 25 164 566 734 707 720 878 438 340 9 303 478 835 239 
+player 674 draws a 823 from deck 674
+player 674 discards a 654 to deck 675
+player 674 current hand : 105 365 705 791 45 25 164 566 734 707 720 878 438 340 9 303 478 835 239 823 
+player 674 draws a 816 from deck 674
+player 674 discards a 105 to deck 675
+player 674 current hand : 365 705 791 45 25 164 566 734 707 720 878 438 340 9 303 478 835 239 823 816 
+player 674 draws a 462 from deck 674
+player 674 discards a 365 to deck 675
+player 674 current hand : 705 791 45 25 164 566 734 707 720 878 438 340 9 303 478 835 239 823 816 462 
+player 674 draws a 29 from deck 674
+player 674 discards a 705 to deck 675
+player 674 current hand : 791 45 25 164 566 734 707 720 878 438 340 9 303 478 835 239 823 816 462 29 
+player 674 draws a 80 from deck 674
+player 674 discards a 791 to deck 675
+player 674 current hand : 45 25 164 566 734 707 720 878 438 340 9 303 478 835 239 823 816 462 29 80 
+player 674 draws a 585 from deck 674
+player 674 discards a 45 to deck 675
+player 674 current hand : 25 164 566 734 707 720 878 438 340 9 303 478 835 239 823 816 462 29 80 585 
+player 674 draws a 121 from deck 674
+player 674 discards a 25 to deck 675
+player 674 current hand : 164 566 734 707 720 878 438 340 9 303 478 835 239 823 816 462 29 80 585 121 
+player 674 draws a 476 from deck 674
+player 674 discards a 164 to deck 675
+player 674 current hand : 566 734 707 720 878 438 340 9 303 478 835 239 823 816 462 29 80 585 121 476 
+player 674 draws a 93 from deck 674
+player 674 discards a 566 to deck 675
+player 674 current hand : 734 707 720 878 438 340 9 303 478 835 239 823 816 462 29 80 585 121 476 93 
+player 674 draws a 100 from deck 674
+player 674 discards a 734 to deck 675
+player 674 current hand : 707 720 878 438 340 9 303 478 835 239 823 816 462 29 80 585 121 476 93 100 
+player 674 draws a 885 from deck 674
+player 674 discards a 707 to deck 675
+player 674 current hand : 720 878 438 340 9 303 478 835 239 823 816 462 29 80 585 121 476 93 100 885 
+player 674 draws a 71 from deck 674
+player 674 discards a 720 to deck 675
+player 674 current hand : 878 438 340 9 303 478 835 239 823 816 462 29 80 585 121 476 93 100 885 71 
+player 674 draws a 855 from deck 674
+player 674 discards a 878 to deck 675
+player 674 current hand : 438 340 9 303 478 835 239 823 816 462 29 80 585 121 476 93 100 885 71 855 
+player 674 draws a 764 from deck 674
+player 674 discards a 438 to deck 675
+player 674 current hand : 340 9 303 478 835 239 823 816 462 29 80 585 121 476 93 100 885 71 855 764 
+player 674 draws a 160 from deck 674
+player 674 discards a 340 to deck 675
+player 674 current hand : 9 303 478 835 239 823 816 462 29 80 585 121 476 93 100 885 71 855 764 160 
+player 674 draws a 852 from deck 674
+player 674 discards a 9 to deck 675
+player 674 current hand : 303 478 835 239 823 816 462 29 80 585 121 476 93 100 885 71 855 764 160 852 
+player 674 draws a 910 from deck 674
+player 674 discards a 303 to deck 675
+player 674 current hand : 478 835 239 823 816 462 29 80 585 121 476 93 100 885 71 855 764 160 852 910 
+player 674 draws a 973 from deck 674
+player 674 discards a 478 to deck 675
+player 674 current hand : 835 239 823 816 462 29 80 585 121 476 93 100 885 71 855 764 160 852 910 973 
+player 674 draws a 37 from deck 674
+player 674 discards a 835 to deck 675
+player 674 current hand : 239 823 816 462 29 80 585 121 476 93 100 885 71 855 764 160 852 910 973 37 
+player 674 draws a 834 from deck 674
+player 674 discards a 239 to deck 675
+player 674 current hand : 823 816 462 29 80 585 121 476 93 100 885 71 855 764 160 852 910 973 37 834 
+player 674 draws a 242 from deck 674
+player 674 discards a 823 to deck 675
+player 674 current hand : 816 462 29 80 585 121 476 93 100 885 71 855 764 160 852 910 973 37 834 242 
+player 674 draws a 424 from deck 674
+player 674 discards a 816 to deck 675
+player 674 current hand : 462 29 80 585 121 476 93 100 885 71 855 764 160 852 910 973 37 834 242 424 
+player 674 draws a 654 from deck 674
+player 674 discards a 462 to deck 675
+player 674 current hand : 29 80 585 121 476 93 100 885 71 855 764 160 852 910 973 37 834 242 424 654 
+player 674 draws a 897 from deck 674
+player 674 discards a 29 to deck 675
+player 674 current hand : 80 585 121 476 93 100 885 71 855 764 160 852 910 973 37 834 242 424 654 897 
+player 674 draws a 622 from deck 674
+player 674 discards a 80 to deck 675
+player 674 current hand : 585 121 476 93 100 885 71 855 764 160 852 910 973 37 834 242 424 654 897 622 
+player 674 draws a 367 from deck 674
+player 674 discards a 585 to deck 675
+player 674 current hand : 121 476 93 100 885 71 855 764 160 852 910 973 37 834 242 424 654 897 622 367 
+player 674 draws a 24 from deck 674
+player 674 discards a 121 to deck 675
+player 674 current hand : 476 93 100 885 71 855 764 160 852 910 973 37 834 242 424 654 897 622 367 24 
+player 674 draws a 40 from deck 674
+player 674 discards a 476 to deck 675
+player 674 current hand : 93 100 885 71 855 764 160 852 910 973 37 834 242 424 654 897 622 367 24 40 
+player 674 draws a 332 from deck 674
+player 674 discards a 93 to deck 675
+player 674 current hand : 100 885 71 855 764 160 852 910 973 37 834 242 424 654 897 622 367 24 40 332 
+player 674 draws a 863 from deck 674
+player 674 discards a 100 to deck 675
+player 674 current hand : 885 71 855 764 160 852 910 973 37 834 242 424 654 897 622 367 24 40 332 863 
+player 674 draws a 944 from deck 674
+player 674 discards a 885 to deck 675
+player 674 current hand : 71 855 764 160 852 910 973 37 834 242 424 654 897 622 367 24 40 332 863 944 
+player 674 draws a 39 from deck 674
+player 674 discards a 71 to deck 675
+player 674 current hand : 855 764 160 852 910 973 37 834 242 424 654 897 622 367 24 40 332 863 944 39 
+player 674 draws a 767 from deck 674
+player 674 discards a 855 to deck 675
+player 674 current hand : 764 160 852 910 973 37 834 242 424 654 897 622 367 24 40 332 863 944 39 767 
+player 674 draws a 283 from deck 674
+player 674 discards a 764 to deck 675
+player 674 current hand : 160 852 910 973 37 834 242 424 654 897 622 367 24 40 332 863 944 39 767 283 
+player 674 draws a 81 from deck 674
+player 674 discards a 160 to deck 675
+player 674 current hand : 852 910 973 37 834 242 424 654 897 622 367 24 40 332 863 944 39 767 283 81 
+player 674 draws a 796 from deck 674
+player 674 discards a 852 to deck 675
+player 674 current hand : 910 973 37 834 242 424 654 897 622 367 24 40 332 863 944 39 767 283 81 796 
+player 674 draws a 134 from deck 674
+player 674 discards a 910 to deck 675
+player 674 current hand : 973 37 834 242 424 654 897 622 367 24 40 332 863 944 39 767 283 81 796 134 
+player 674 draws a 833 from deck 674
+player 674 discards a 973 to deck 675
+player 674 current hand : 37 834 242 424 654 897 622 367 24 40 332 863 944 39 767 283 81 796 134 833 
+player 674 draws a 84 from deck 674
+player 674 discards a 37 to deck 675
+player 674 current hand : 834 242 424 654 897 622 367 24 40 332 863 944 39 767 283 81 796 134 833 84 
+player 674 draws a 364 from deck 674
+player 674 discards a 834 to deck 675
+player 674 current hand : 242 424 654 897 622 367 24 40 332 863 944 39 767 283 81 796 134 833 84 364 
+player 674 draws a 888 from deck 674
+player 674 discards a 242 to deck 675
+player 674 current hand : 424 654 897 622 367 24 40 332 863 944 39 767 283 81 796 134 833 84 364 888 
+player 674 draws a 51 from deck 674
+player 674 discards a 424 to deck 675
+player 674 current hand : 654 897 622 367 24 40 332 863 944 39 767 283 81 796 134 833 84 364 888 51 
+player 674 draws a 599 from deck 674
+player 674 discards a 654 to deck 675
+player 674 current hand : 897 622 367 24 40 332 863 944 39 767 283 81 796 134 833 84 364 888 51 599 
+player 674 draws a 262 from deck 674
+player 674 discards a 897 to deck 675
+player 674 current hand : 622 367 24 40 332 863 944 39 767 283 81 796 134 833 84 364 888 51 599 262 
+player 674 draws a 590 from deck 674
+player 674 discards a 622 to deck 675
+player 674 current hand : 367 24 40 332 863 944 39 767 283 81 796 134 833 84 364 888 51 599 262 590 
+player 674 draws a 164 from deck 674
+player 674 discards a 367 to deck 675
+player 674 current hand : 24 40 332 863 944 39 767 283 81 796 134 833 84 364 888 51 599 262 590 164 
+player 674 draws a 900 from deck 674
+player 674 discards a 24 to deck 675
+player 674 current hand : 40 332 863 944 39 767 283 81 796 134 833 84 364 888 51 599 262 590 164 900 
+player 674 draws a 18 from deck 674
+player 674 discards a 40 to deck 675
+player 674 current hand : 332 863 944 39 767 283 81 796 134 833 84 364 888 51 599 262 590 164 900 18 
+player 674 draws a 917 from deck 674
+player 674 discards a 332 to deck 675
+player 674 current hand : 863 944 39 767 283 81 796 134 833 84 364 888 51 599 262 590 164 900 18 917 
+player 674 draws a 571 from deck 674
+player 674 discards a 863 to deck 675
+player 674 current hand : 944 39 767 283 81 796 134 833 84 364 888 51 599 262 590 164 900 18 917 571 
+player 674 draws a 742 from deck 674
+player 674 discards a 944 to deck 675
+player 674 current hand : 39 767 283 81 796 134 833 84 364 888 51 599 262 590 164 900 18 917 571 742 
+player 674 draws a 951 from deck 674
+player 674 discards a 39 to deck 675
+player 674 current hand : 767 283 81 796 134 833 84 364 888 51 599 262 590 164 900 18 917 571 742 951 
+player 674 draws a 480 from deck 674
+player 674 discards a 767 to deck 675
+player 674 current hand : 283 81 796 134 833 84 364 888 51 599 262 590 164 900 18 917 571 742 951 480 
+player 674 draws a 18 from deck 674
+player 674 discards a 283 to deck 675
+player 674 current hand : 81 796 134 833 84 364 888 51 599 262 590 164 900 18 917 571 742 951 480 18 
+player 674 draws a 105 from deck 674
+player 674 discards a 81 to deck 675
+player 674 current hand : 796 134 833 84 364 888 51 599 262 590 164 900 18 917 571 742 951 480 18 105 
+player 674 draws a 919 from deck 674
+player 674 discards a 796 to deck 675
+player 674 current hand : 134 833 84 364 888 51 599 262 590 164 900 18 917 571 742 951 480 18 105 919 
+player 674 draws a 71 from deck 674
+player 674 discards a 134 to deck 675
+player 674 current hand : 833 84 364 888 51 599 262 590 164 900 18 917 571 742 951 480 18 105 919 71 
+player 674 draws a 473 from deck 674
+player 674 discards a 833 to deck 675
+player 674 current hand : 84 364 888 51 599 262 590 164 900 18 917 571 742 951 480 18 105 919 71 473 
+player 674 draws a 267 from deck 674
+player 674 discards a 84 to deck 675
+player 674 current hand : 364 888 51 599 262 590 164 900 18 917 571 742 951 480 18 105 919 71 473 267 
+player 674 draws a 971 from deck 674
+player 674 discards a 364 to deck 675
+player 674 current hand : 888 51 599 262 590 164 900 18 917 571 742 951 480 18 105 919 71 473 267 971 
+player 674 draws a 827 from deck 674
+player 674 discards a 888 to deck 675
+player 674 current hand : 51 599 262 590 164 900 18 917 571 742 951 480 18 105 919 71 473 267 971 827 
+player 674 draws a 168 from deck 674
+player 674 discards a 51 to deck 675
+player 674 current hand : 599 262 590 164 900 18 917 571 742 951 480 18 105 919 71 473 267 971 827 168 
+player 674 draws a 858 from deck 674
+player 674 discards a 599 to deck 675
+player 674 current hand : 262 590 164 900 18 917 571 742 951 480 18 105 919 71 473 267 971 827 168 858 
+player 674 draws a 490 from deck 674
+player 674 discards a 262 to deck 675
+player 674 current hand : 590 164 900 18 917 571 742 951 480 18 105 919 71 473 267 971 827 168 858 490 
+player 674 draws a 369 from deck 674
+player 674 discards a 590 to deck 675
+player 674 current hand : 164 900 18 917 571 742 951 480 18 105 919 71 473 267 971 827 168 858 490 369 
+player 674 draws a 257 from deck 674
+player 674 discards a 164 to deck 675
+player 674 current hand : 900 18 917 571 742 951 480 18 105 919 71 473 267 971 827 168 858 490 369 257 
+player 674 draws a 514 from deck 674
+player 674 discards a 900 to deck 675
+player 674 current hand : 18 917 571 742 951 480 18 105 919 71 473 267 971 827 168 858 490 369 257 514 
+player 674 draws a 799 from deck 674
+player 674 discards a 18 to deck 675
+player 674 current hand : 917 571 742 951 480 18 105 919 71 473 267 971 827 168 858 490 369 257 514 799 
+player 674 draws a 508 from deck 674
+player 674 discards a 917 to deck 675
+player 674 current hand : 571 742 951 480 18 105 919 71 473 267 971 827 168 858 490 369 257 514 799 508 
+player 674 draws a 54 from deck 674
+player 674 discards a 571 to deck 675
+player 674 current hand : 742 951 480 18 105 919 71 473 267 971 827 168 858 490 369 257 514 799 508 54 
+player 674 draws a 863 from deck 674
+player 674 discards a 742 to deck 675
+player 674 current hand : 951 480 18 105 919 71 473 267 971 827 168 858 490 369 257 514 799 508 54 863 
+player 674 draws a 872 from deck 674
+player 674 discards a 951 to deck 675
+player 674 current hand : 480 18 105 919 71 473 267 971 827 168 858 490 369 257 514 799 508 54 863 872 
+player 674 draws a 635 from deck 674
+player 674 discards a 480 to deck 675
+player 674 current hand : 18 105 919 71 473 267 971 827 168 858 490 369 257 514 799 508 54 863 872 635 
+player 674 draws a 72 from deck 674
+player 674 discards a 18 to deck 675
+player 674 current hand : 105 919 71 473 267 971 827 168 858 490 369 257 514 799 508 54 863 872 635 72 
+player 674 draws a 218 from deck 674
+player 674 discards a 105 to deck 675
+player 674 current hand : 919 71 473 267 971 827 168 858 490 369 257 514 799 508 54 863 872 635 72 218 
+player 674 draws a 507 from deck 674
+player 674 discards a 919 to deck 675
+player 674 current hand : 71 473 267 971 827 168 858 490 369 257 514 799 508 54 863 872 635 72 218 507 
+player 674 draws a 430 from deck 674
+player 674 discards a 71 to deck 675
+player 674 current hand : 473 267 971 827 168 858 490 369 257 514 799 508 54 863 872 635 72 218 507 430 
+player 674 draws a 829 from deck 674
+player 674 discards a 473 to deck 675
+player 674 current hand : 267 971 827 168 858 490 369 257 514 799 508 54 863 872 635 72 218 507 430 829 
+player 674 draws a 110 from deck 674
+player 674 discards a 267 to deck 675
+player 674 current hand : 971 827 168 858 490 369 257 514 799 508 54 863 872 635 72 218 507 430 829 110 
+player 674 draws a 641 from deck 674
+player 674 discards a 971 to deck 675
+player 674 current hand : 827 168 858 490 369 257 514 799 508 54 863 872 635 72 218 507 430 829 110 641 
+player 674 draws a 909 from deck 674
+player 674 discards a 827 to deck 675
+player 674 current hand : 168 858 490 369 257 514 799 508 54 863 872 635 72 218 507 430 829 110 641 909 
+player 674 draws a 490 from deck 674
+player 674 discards a 168 to deck 675
+player 674 current hand : 858 490 369 257 514 799 508 54 863 872 635 72 218 507 430 829 110 641 909 490 
+player 674 draws a 212 from deck 674
+player 674 discards a 858 to deck 675
+player 674 current hand : 490 369 257 514 799 508 54 863 872 635 72 218 507 430 829 110 641 909 490 212 
+player 674 draws a 164 from deck 674
+player 674 discards a 490 to deck 675
+player 674 current hand : 369 257 514 799 508 54 863 872 635 72 218 507 430 829 110 641 909 490 212 164 
+player 674 draws a 599 from deck 674
+player 674 discards a 369 to deck 675
+player 674 current hand : 257 514 799 508 54 863 872 635 72 218 507 430 829 110 641 909 490 212 164 599 
+player 674 draws a 765 from deck 674
+player 674 discards a 257 to deck 675
+player 674 current hand : 514 799 508 54 863 872 635 72 218 507 430 829 110 641 909 490 212 164 599 765 
+player 674 draws a 920 from deck 674
+player 674 discards a 514 to deck 675
+player 674 current hand : 799 508 54 863 872 635 72 218 507 430 829 110 641 909 490 212 164 599 765 920 
+player 674 draws a 27 from deck 674
+player 674 discards a 799 to deck 675
+player 674 current hand : 508 54 863 872 635 72 218 507 430 829 110 641 909 490 212 164 599 765 920 27 
+player 674 draws a 832 from deck 674
+player 674 discards a 508 to deck 675
+player 674 current hand : 54 863 872 635 72 218 507 430 829 110 641 909 490 212 164 599 765 920 27 832 
+player 674 draws a 326 from deck 674
+player 674 discards a 54 to deck 675
+player 674 current hand : 863 872 635 72 218 507 430 829 110 641 909 490 212 164 599 765 920 27 832 326 
+player 674 draws a 113 from deck 674
+player 674 discards a 863 to deck 675
+player 674 current hand : 872 635 72 218 507 430 829 110 641 909 490 212 164 599 765 920 27 832 326 113 
+player 674 draws a 614 from deck 674
+player 674 discards a 872 to deck 675
+player 674 current hand : 635 72 218 507 430 829 110 641 909 490 212 164 599 765 920 27 832 326 113 614 
+player 674 draws a 188 from deck 674
+player 674 discards a 635 to deck 675
+player 674 current hand : 72 218 507 430 829 110 641 909 490 212 164 599 765 920 27 832 326 113 614 188 
+player 674 draws a 251 from deck 674
+player 674 discards a 72 to deck 675
+player 674 current hand : 218 507 430 829 110 641 909 490 212 164 599 765 920 27 832 326 113 614 188 251 
+player 674 draws a 627 from deck 674
+player 674 discards a 218 to deck 675
+player 674 current hand : 507 430 829 110 641 909 490 212 164 599 765 920 27 832 326 113 614 188 251 627 
+player 674 draws a 712 from deck 674
+player 674 discards a 507 to deck 675
+player 674 current hand : 430 829 110 641 909 490 212 164 599 765 920 27 832 326 113 614 188 251 627 712 
+player 674 draws a 788 from deck 674
+player 674 discards a 430 to deck 675
+player 674 current hand : 829 110 641 909 490 212 164 599 765 920 27 832 326 113 614 188 251 627 712 788 
+player 674 draws a 9 from deck 674
+player 674 discards a 829 to deck 675
+player 674 current hand : 110 641 909 490 212 164 599 765 920 27 832 326 113 614 188 251 627 712 788 9 
+player 674 draws a 797 from deck 674
+player 674 discards a 110 to deck 675
+player 674 current hand : 641 909 490 212 164 599 765 920 27 832 326 113 614 188 251 627 712 788 9 797 
+player 674 draws a 9 from deck 674
+player 674 discards a 641 to deck 675
+player 674 current hand : 909 490 212 164 599 765 920 27 832 326 113 614 188 251 627 712 788 9 797 9 
+player 674 draws a 73 from deck 674
+player 674 discards a 909 to deck 675
+player 674 current hand : 490 212 164 599 765 920 27 832 326 113 614 188 251 627 712 788 9 797 9 73 
+player 674 draws a 18 from deck 674
+player 674 discards a 490 to deck 675
+player 674 current hand : 212 164 599 765 920 27 832 326 113 614 188 251 627 712 788 9 797 9 73 18 
+player 674 draws a 582 from deck 674
+player 674 discards a 212 to deck 675

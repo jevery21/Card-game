@@ -1,0 +1,336 @@
+player 844 initial hand 647 649 706 302 715 357 635 52 957 263 342 449 531 786 626 608 972 635 845 840 
+player 844 draws a 816 from deck 844
+player 844 discards a 647 to deck 845
+player 844 current hand : 649 706 302 715 357 635 52 957 263 342 449 531 786 626 608 972 635 845 840 816 
+player 844 draws a 947 from deck 844
+player 844 discards a 649 to deck 845
+player 844 current hand : 706 302 715 357 635 52 957 263 342 449 531 786 626 608 972 635 845 840 816 947 
+player 844 draws a 950 from deck 844
+player 844 discards a 706 to deck 845
+player 844 current hand : 302 715 357 635 52 957 263 342 449 531 786 626 608 972 635 845 840 816 947 950 
+player 844 draws a 74 from deck 844
+player 844 discards a 302 to deck 845
+player 844 current hand : 715 357 635 52 957 263 342 449 531 786 626 608 972 635 845 840 816 947 950 74 
+player 844 draws a 970 from deck 844
+player 844 discards a 715 to deck 845
+player 844 current hand : 357 635 52 957 263 342 449 531 786 626 608 972 635 845 840 816 947 950 74 970 
+player 844 draws a 38 from deck 844
+player 844 discards a 357 to deck 845
+player 844 current hand : 635 52 957 263 342 449 531 786 626 608 972 635 845 840 816 947 950 74 970 38 
+player 844 draws a 934 from deck 844
+player 844 discards a 635 to deck 845
+player 844 current hand : 52 957 263 342 449 531 786 626 608 972 635 845 840 816 947 950 74 970 38 934 
+player 844 draws a 852 from deck 844
+player 844 discards a 52 to deck 845
+player 844 current hand : 957 263 342 449 531 786 626 608 972 635 845 840 816 947 950 74 970 38 934 852 
+player 844 draws a 251 from deck 844
+player 844 discards a 957 to deck 845
+player 844 current hand : 263 342 449 531 786 626 608 972 635 845 840 816 947 950 74 970 38 934 852 251 
+player 844 draws a 459 from deck 844
+player 844 discards a 263 to deck 845
+player 844 current hand : 342 449 531 786 626 608 972 635 845 840 816 947 950 74 970 38 934 852 251 459 
+player 844 draws a 584 from deck 844
+player 844 discards a 342 to deck 845
+player 844 current hand : 449 531 786 626 608 972 635 845 840 816 947 950 74 970 38 934 852 251 459 584 
+player 844 draws a 291 from deck 844
+player 844 discards a 449 to deck 845
+player 844 current hand : 531 786 626 608 972 635 845 840 816 947 950 74 970 38 934 852 251 459 584 291 
+player 844 draws a 245 from deck 844
+player 844 discards a 531 to deck 845
+player 844 current hand : 786 626 608 972 635 845 840 816 947 950 74 970 38 934 852 251 459 584 291 245 
+player 844 draws a 124 from deck 844
+player 844 discards a 786 to deck 845
+player 844 current hand : 626 608 972 635 845 840 816 947 950 74 970 38 934 852 251 459 584 291 245 124 
+player 844 draws a 51 from deck 844
+player 844 discards a 626 to deck 845
+player 844 current hand : 608 972 635 845 840 816 947 950 74 970 38 934 852 251 459 584 291 245 124 51 
+player 844 draws a 707 from deck 844
+player 844 discards a 608 to deck 845
+player 844 current hand : 972 635 845 840 816 947 950 74 970 38 934 852 251 459 584 291 245 124 51 707 
+player 844 draws a 73 from deck 844
+player 844 discards a 972 to deck 845
+player 844 current hand : 635 845 840 816 947 950 74 970 38 934 852 251 459 584 291 245 124 51 707 73 
+player 844 draws a 540 from deck 844
+player 844 discards a 635 to deck 845
+player 844 current hand : 845 840 816 947 950 74 970 38 934 852 251 459 584 291 245 124 51 707 73 540 
+player 844 draws a 218 from deck 844
+player 844 discards a 845 to deck 845
+player 844 current hand : 840 816 947 950 74 970 38 934 852 251 459 584 291 245 124 51 707 73 540 218 
+player 844 draws a 787 from deck 844
+player 844 discards a 840 to deck 845
+player 844 current hand : 816 947 950 74 970 38 934 852 251 459 584 291 245 124 51 707 73 540 218 787 
+player 844 draws a 326 from deck 844
+player 844 discards a 816 to deck 845
+player 844 current hand : 947 950 74 970 38 934 852 251 459 584 291 245 124 51 707 73 540 218 787 326 
+player 844 draws a 518 from deck 844
+player 844 discards a 947 to deck 845
+player 844 current hand : 950 74 970 38 934 852 251 459 584 291 245 124 51 707 73 540 218 787 326 518 
+player 844 draws a 791 from deck 844
+player 844 discards a 950 to deck 845
+player 844 current hand : 74 970 38 934 852 251 459 584 291 245 124 51 707 73 540 218 787 326 518 791 
+player 844 draws a 741 from deck 844
+player 844 discards a 74 to deck 845
+player 844 current hand : 970 38 934 852 251 459 584 291 245 124 51 707 73 540 218 787 326 518 791 741 
+player 844 draws a 685 from deck 844
+player 844 discards a 970 to deck 845
+player 844 current hand : 38 934 852 251 459 584 291 245 124 51 707 73 540 218 787 326 518 791 741 685 
+player 844 draws a 951 from deck 844
+player 844 discards a 38 to deck 845
+player 844 current hand : 934 852 251 459 584 291 245 124 51 707 73 540 218 787 326 518 791 741 685 951 
+player 844 draws a 89 from deck 844
+player 844 discards a 934 to deck 845
+player 844 current hand : 852 251 459 584 291 245 124 51 707 73 540 218 787 326 518 791 741 685 951 89 
+player 844 draws a 788 from deck 844
+player 844 discards a 852 to deck 845
+player 844 current hand : 251 459 584 291 245 124 51 707 73 540 218 787 326 518 791 741 685 951 89 788 
+player 844 draws a 216 from deck 844
+player 844 discards a 251 to deck 845
+player 844 current hand : 459 584 291 245 124 51 707 73 540 218 787 326 518 791 741 685 951 89 788 216 
+player 844 draws a 435 from deck 844
+player 844 discards a 459 to deck 845
+player 844 current hand : 584 291 245 124 51 707 73 540 218 787 326 518 791 741 685 951 89 788 216 435 
+player 844 draws a 726 from deck 844
+player 844 discards a 584 to deck 845
+player 844 current hand : 291 245 124 51 707 73 540 218 787 326 518 791 741 685 951 89 788 216 435 726 
+player 844 draws a 315 from deck 844
+player 844 discards a 291 to deck 845
+player 844 current hand : 245 124 51 707 73 540 218 787 326 518 791 741 685 951 89 788 216 435 726 315 
+player 844 draws a 745 from deck 844
+player 844 discards a 245 to deck 845
+player 844 current hand : 124 51 707 73 540 218 787 326 518 791 741 685 951 89 788 216 435 726 315 745 
+player 844 draws a 338 from deck 844
+player 844 discards a 124 to deck 845
+player 844 current hand : 51 707 73 540 218 787 326 518 791 741 685 951 89 788 216 435 726 315 745 338 
+player 844 draws a 910 from deck 844
+player 844 discards a 51 to deck 845
+player 844 current hand : 707 73 540 218 787 326 518 791 741 685 951 89 788 216 435 726 315 745 338 910 
+player 844 draws a 754 from deck 844
+player 844 discards a 707 to deck 845
+player 844 current hand : 73 540 218 787 326 518 791 741 685 951 89 788 216 435 726 315 745 338 910 754 
+player 844 draws a 787 from deck 844
+player 844 discards a 73 to deck 845
+player 844 current hand : 540 218 787 326 518 791 741 685 951 89 788 216 435 726 315 745 338 910 754 787 
+player 844 draws a 40 from deck 844
+player 844 discards a 540 to deck 845
+player 844 current hand : 218 787 326 518 791 741 685 951 89 788 216 435 726 315 745 338 910 754 787 40 
+player 844 draws a 768 from deck 844
+player 844 discards a 218 to deck 845
+player 844 current hand : 787 326 518 791 741 685 951 89 788 216 435 726 315 745 338 910 754 787 40 768 
+player 844 draws a 265 from deck 844
+player 844 discards a 787 to deck 845
+player 844 current hand : 326 518 791 741 685 951 89 788 216 435 726 315 745 338 910 754 787 40 768 265 
+player 844 draws a 530 from deck 844
+player 844 discards a 326 to deck 845
+player 844 current hand : 518 791 741 685 951 89 788 216 435 726 315 745 338 910 754 787 40 768 265 530 
+player 844 draws a 334 from deck 844
+player 844 discards a 518 to deck 845
+player 844 current hand : 791 741 685 951 89 788 216 435 726 315 745 338 910 754 787 40 768 265 530 334 
+player 844 draws a 922 from deck 844
+player 844 discards a 791 to deck 845
+player 844 current hand : 741 685 951 89 788 216 435 726 315 745 338 910 754 787 40 768 265 530 334 922 
+player 844 draws a 303 from deck 844
+player 844 discards a 741 to deck 845
+player 844 current hand : 685 951 89 788 216 435 726 315 745 338 910 754 787 40 768 265 530 334 922 303 
+player 844 draws a 348 from deck 844
+player 844 discards a 685 to deck 845
+player 844 current hand : 951 89 788 216 435 726 315 745 338 910 754 787 40 768 265 530 334 922 303 348 
+player 844 draws a 255 from deck 844
+player 844 discards a 951 to deck 845
+player 844 current hand : 89 788 216 435 726 315 745 338 910 754 787 40 768 265 530 334 922 303 348 255 
+player 844 draws a 154 from deck 844
+player 844 discards a 89 to deck 845
+player 844 current hand : 788 216 435 726 315 745 338 910 754 787 40 768 265 530 334 922 303 348 255 154 
+player 844 draws a 691 from deck 844
+player 844 discards a 788 to deck 845
+player 844 current hand : 216 435 726 315 745 338 910 754 787 40 768 265 530 334 922 303 348 255 154 691 
+player 844 draws a 283 from deck 844
+player 844 discards a 216 to deck 845
+player 844 current hand : 435 726 315 745 338 910 754 787 40 768 265 530 334 922 303 348 255 154 691 283 
+player 844 draws a 976 from deck 844
+player 844 discards a 435 to deck 845
+player 844 current hand : 726 315 745 338 910 754 787 40 768 265 530 334 922 303 348 255 154 691 283 976 
+player 844 draws a 233 from deck 844
+player 844 discards a 726 to deck 845
+player 844 current hand : 315 745 338 910 754 787 40 768 265 530 334 922 303 348 255 154 691 283 976 233 
+player 844 draws a 380 from deck 844
+player 844 discards a 315 to deck 845
+player 844 current hand : 745 338 910 754 787 40 768 265 530 334 922 303 348 255 154 691 283 976 233 380 
+player 844 draws a 647 from deck 844
+player 844 discards a 745 to deck 845
+player 844 current hand : 338 910 754 787 40 768 265 530 334 922 303 348 255 154 691 283 976 233 380 647 
+player 844 draws a 57 from deck 844
+player 844 discards a 338 to deck 845
+player 844 current hand : 910 754 787 40 768 265 530 334 922 303 348 255 154 691 283 976 233 380 647 57 
+player 844 draws a 50 from deck 844
+player 844 discards a 910 to deck 845
+player 844 current hand : 754 787 40 768 265 530 334 922 303 348 255 154 691 283 976 233 380 647 57 50 
+player 844 draws a 530 from deck 844
+player 844 discards a 754 to deck 845
+player 844 current hand : 787 40 768 265 530 334 922 303 348 255 154 691 283 976 233 380 647 57 50 530 
+player 844 draws a 708 from deck 844
+player 844 discards a 787 to deck 845
+player 844 current hand : 40 768 265 530 334 922 303 348 255 154 691 283 976 233 380 647 57 50 530 708 
+player 844 draws a 879 from deck 844
+player 844 discards a 40 to deck 845
+player 844 current hand : 768 265 530 334 922 303 348 255 154 691 283 976 233 380 647 57 50 530 708 879 
+player 844 draws a 54 from deck 844
+player 844 discards a 768 to deck 845
+player 844 current hand : 265 530 334 922 303 348 255 154 691 283 976 233 380 647 57 50 530 708 879 54 
+player 844 draws a 981 from deck 844
+player 844 discards a 265 to deck 845
+player 844 current hand : 530 334 922 303 348 255 154 691 283 976 233 380 647 57 50 530 708 879 54 981 
+player 844 draws a 177 from deck 844
+player 844 discards a 530 to deck 845
+player 844 current hand : 334 922 303 348 255 154 691 283 976 233 380 647 57 50 530 708 879 54 981 177 
+player 844 draws a 235 from deck 844
+player 844 discards a 334 to deck 845
+player 844 current hand : 922 303 348 255 154 691 283 976 233 380 647 57 50 530 708 879 54 981 177 235 
+player 844 draws a 603 from deck 844
+player 844 discards a 922 to deck 845
+player 844 current hand : 303 348 255 154 691 283 976 233 380 647 57 50 530 708 879 54 981 177 235 603 
+player 844 draws a 309 from deck 844
+player 844 discards a 303 to deck 845
+player 844 current hand : 348 255 154 691 283 976 233 380 647 57 50 530 708 879 54 981 177 235 603 309 
+player 844 draws a 855 from deck 844
+player 844 discards a 348 to deck 845
+player 844 current hand : 255 154 691 283 976 233 380 647 57 50 530 708 879 54 981 177 235 603 309 855 
+player 844 draws a 924 from deck 844
+player 844 discards a 255 to deck 845
+player 844 current hand : 154 691 283 976 233 380 647 57 50 530 708 879 54 981 177 235 603 309 855 924 
+player 844 draws a 31 from deck 844
+player 844 discards a 154 to deck 845
+player 844 current hand : 691 283 976 233 380 647 57 50 530 708 879 54 981 177 235 603 309 855 924 31 
+player 844 draws a 78 from deck 844
+player 844 discards a 691 to deck 845
+player 844 current hand : 283 976 233 380 647 57 50 530 708 879 54 981 177 235 603 309 855 924 31 78 
+player 844 draws a 328 from deck 844
+player 844 discards a 283 to deck 845
+player 844 current hand : 976 233 380 647 57 50 530 708 879 54 981 177 235 603 309 855 924 31 78 328 
+player 844 draws a 907 from deck 844
+player 844 discards a 976 to deck 845
+player 844 current hand : 233 380 647 57 50 530 708 879 54 981 177 235 603 309 855 924 31 78 328 907 
+player 844 draws a 19 from deck 844
+player 844 discards a 233 to deck 845
+player 844 current hand : 380 647 57 50 530 708 879 54 981 177 235 603 309 855 924 31 78 328 907 19 
+player 844 draws a 245 from deck 844
+player 844 discards a 380 to deck 845
+player 844 current hand : 647 57 50 530 708 879 54 981 177 235 603 309 855 924 31 78 328 907 19 245 
+player 844 draws a 813 from deck 844
+player 844 discards a 647 to deck 845
+player 844 current hand : 57 50 530 708 879 54 981 177 235 603 309 855 924 31 78 328 907 19 245 813 
+player 844 draws a 239 from deck 844
+player 844 discards a 57 to deck 845
+player 844 current hand : 50 530 708 879 54 981 177 235 603 309 855 924 31 78 328 907 19 245 813 239 
+player 844 draws a 754 from deck 844
+player 844 discards a 50 to deck 845
+player 844 current hand : 530 708 879 54 981 177 235 603 309 855 924 31 78 328 907 19 245 813 239 754 
+player 844 draws a 316 from deck 844
+player 844 discards a 530 to deck 845
+player 844 current hand : 708 879 54 981 177 235 603 309 855 924 31 78 328 907 19 245 813 239 754 316 
+player 844 draws a 824 from deck 844
+player 844 discards a 708 to deck 845
+player 844 current hand : 879 54 981 177 235 603 309 855 924 31 78 328 907 19 245 813 239 754 316 824 
+player 844 draws a 168 from deck 844
+player 844 discards a 879 to deck 845
+player 844 current hand : 54 981 177 235 603 309 855 924 31 78 328 907 19 245 813 239 754 316 824 168 
+player 844 draws a 689 from deck 844
+player 844 discards a 54 to deck 845
+player 844 current hand : 981 177 235 603 309 855 924 31 78 328 907 19 245 813 239 754 316 824 168 689 
+player 844 draws a 869 from deck 844
+player 844 discards a 981 to deck 845
+player 844 current hand : 177 235 603 309 855 924 31 78 328 907 19 245 813 239 754 316 824 168 689 869 
+player 844 draws a 509 from deck 844
+player 844 discards a 177 to deck 845
+player 844 current hand : 235 603 309 855 924 31 78 328 907 19 245 813 239 754 316 824 168 689 869 509 
+player 844 draws a 865 from deck 844
+player 844 discards a 235 to deck 845
+player 844 current hand : 603 309 855 924 31 78 328 907 19 245 813 239 754 316 824 168 689 869 509 865 
+player 844 draws a 374 from deck 844
+player 844 discards a 603 to deck 845
+player 844 current hand : 309 855 924 31 78 328 907 19 245 813 239 754 316 824 168 689 869 509 865 374 
+player 844 draws a 595 from deck 844
+player 844 discards a 309 to deck 845
+player 844 current hand : 855 924 31 78 328 907 19 245 813 239 754 316 824 168 689 869 509 865 374 595 
+player 844 draws a 391 from deck 844
+player 844 discards a 855 to deck 845
+player 844 current hand : 924 31 78 328 907 19 245 813 239 754 316 824 168 689 869 509 865 374 595 391 
+player 844 draws a 265 from deck 844
+player 844 discards a 924 to deck 845
+player 844 current hand : 31 78 328 907 19 245 813 239 754 316 824 168 689 869 509 865 374 595 391 265 
+player 844 draws a 762 from deck 844
+player 844 discards a 31 to deck 845
+player 844 current hand : 78 328 907 19 245 813 239 754 316 824 168 689 869 509 865 374 595 391 265 762 
+player 844 draws a 122 from deck 844
+player 844 discards a 78 to deck 845
+player 844 current hand : 328 907 19 245 813 239 754 316 824 168 689 869 509 865 374 595 391 265 762 122 
+player 844 draws a 947 from deck 844
+player 844 discards a 328 to deck 845
+player 844 current hand : 907 19 245 813 239 754 316 824 168 689 869 509 865 374 595 391 265 762 122 947 
+player 844 draws a 972 from deck 844
+player 844 discards a 907 to deck 845
+player 844 current hand : 19 245 813 239 754 316 824 168 689 869 509 865 374 595 391 265 762 122 947 972 
+player 844 draws a 738 from deck 844
+player 844 discards a 19 to deck 845
+player 844 current hand : 245 813 239 754 316 824 168 689 869 509 865 374 595 391 265 762 122 947 972 738 
+player 844 draws a 219 from deck 844
+player 844 discards a 245 to deck 845
+player 844 current hand : 813 239 754 316 824 168 689 869 509 865 374 595 391 265 762 122 947 972 738 219 
+player 844 draws a 699 from deck 844
+player 844 discards a 813 to deck 845
+player 844 current hand : 239 754 316 824 168 689 869 509 865 374 595 391 265 762 122 947 972 738 219 699 
+player 844 draws a 161 from deck 844
+player 844 discards a 239 to deck 845
+player 844 current hand : 754 316 824 168 689 869 509 865 374 595 391 265 762 122 947 972 738 219 699 161 
+player 844 draws a 979 from deck 844
+player 844 discards a 754 to deck 845
+player 844 current hand : 316 824 168 689 869 509 865 374 595 391 265 762 122 947 972 738 219 699 161 979 
+player 844 draws a 635 from deck 844
+player 844 discards a 316 to deck 845
+player 844 current hand : 824 168 689 869 509 865 374 595 391 265 762 122 947 972 738 219 699 161 979 635 
+player 844 draws a 605 from deck 844
+player 844 discards a 824 to deck 845
+player 844 current hand : 168 689 869 509 865 374 595 391 265 762 122 947 972 738 219 699 161 979 635 605 
+player 844 draws a 735 from deck 844
+player 844 discards a 168 to deck 845
+player 844 current hand : 689 869 509 865 374 595 391 265 762 122 947 972 738 219 699 161 979 635 605 735 
+player 844 draws a 977 from deck 844
+player 844 discards a 689 to deck 845
+player 844 current hand : 869 509 865 374 595 391 265 762 122 947 972 738 219 699 161 979 635 605 735 977 
+player 844 draws a 149 from deck 844
+player 844 discards a 869 to deck 845
+player 844 current hand : 509 865 374 595 391 265 762 122 947 972 738 219 699 161 979 635 605 735 977 149 
+player 844 draws a 468 from deck 844
+player 844 discards a 509 to deck 845
+player 844 current hand : 865 374 595 391 265 762 122 947 972 738 219 699 161 979 635 605 735 977 149 468 
+player 844 draws a 233 from deck 844
+player 844 discards a 865 to deck 845
+player 844 current hand : 374 595 391 265 762 122 947 972 738 219 699 161 979 635 605 735 977 149 468 233 
+player 844 draws a 440 from deck 844
+player 844 discards a 374 to deck 845
+player 844 current hand : 595 391 265 762 122 947 972 738 219 699 161 979 635 605 735 977 149 468 233 440 
+player 844 draws a 297 from deck 844
+player 844 discards a 595 to deck 845
+player 844 current hand : 391 265 762 122 947 972 738 219 699 161 979 635 605 735 977 149 468 233 440 297 
+player 844 draws a 182 from deck 844
+player 844 discards a 391 to deck 845
+player 844 current hand : 265 762 122 947 972 738 219 699 161 979 635 605 735 977 149 468 233 440 297 182 
+player 844 draws a 645 from deck 844
+player 844 discards a 265 to deck 845
+player 844 current hand : 762 122 947 972 738 219 699 161 979 635 605 735 977 149 468 233 440 297 182 645 
+player 844 draws a 764 from deck 844
+player 844 discards a 762 to deck 845
+player 844 current hand : 122 947 972 738 219 699 161 979 635 605 735 977 149 468 233 440 297 182 645 764 
+player 844 draws a 248 from deck 844
+player 844 discards a 122 to deck 845
+player 844 current hand : 947 972 738 219 699 161 979 635 605 735 977 149 468 233 440 297 182 645 764 248 
+player 844 draws a 538 from deck 844
+player 844 discards a 947 to deck 845
+player 844 current hand : 972 738 219 699 161 979 635 605 735 977 149 468 233 440 297 182 645 764 248 538 
+player 844 draws a 636 from deck 844
+player 844 discards a 972 to deck 845
+player 844 current hand : 738 219 699 161 979 635 605 735 977 149 468 233 440 297 182 645 764 248 538 636 
+player 844 draws a 530 from deck 844
+player 844 discards a 738 to deck 845
+player 844 current hand : 219 699 161 979 635 605 735 977 149 468 233 440 297 182 645 764 248 538 636 530 
+player 844 draws a 246 from deck 844
+player 844 discards a 219 to deck 845

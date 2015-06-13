@@ -1,0 +1,327 @@
+player 151 initial hand 774 248 897 575 4 117 794 180 374 717 429 141 85 415 984 650 101 570 970 401 
+player 151 draws a 893 from deck 151
+player 151 discards a 774 to deck 152
+player 151 current hand : 248 897 575 4 117 794 180 374 717 429 141 85 415 984 650 101 570 970 401 893 
+player 151 draws a 737 from deck 151
+player 151 discards a 248 to deck 152
+player 151 current hand : 897 575 4 117 794 180 374 717 429 141 85 415 984 650 101 570 970 401 893 737 
+player 151 draws a 729 from deck 151
+player 151 discards a 897 to deck 152
+player 151 current hand : 575 4 117 794 180 374 717 429 141 85 415 984 650 101 570 970 401 893 737 729 
+player 151 draws a 898 from deck 151
+player 151 discards a 575 to deck 152
+player 151 current hand : 4 117 794 180 374 717 429 141 85 415 984 650 101 570 970 401 893 737 729 898 
+player 151 draws a 786 from deck 151
+player 151 discards a 4 to deck 152
+player 151 current hand : 117 794 180 374 717 429 141 85 415 984 650 101 570 970 401 893 737 729 898 786 
+player 151 draws a 397 from deck 151
+player 151 discards a 117 to deck 152
+player 151 current hand : 794 180 374 717 429 141 85 415 984 650 101 570 970 401 893 737 729 898 786 397 
+player 151 draws a 707 from deck 151
+player 151 discards a 794 to deck 152
+player 151 current hand : 180 374 717 429 141 85 415 984 650 101 570 970 401 893 737 729 898 786 397 707 
+player 151 draws a 297 from deck 151
+player 151 discards a 180 to deck 152
+player 151 current hand : 374 717 429 141 85 415 984 650 101 570 970 401 893 737 729 898 786 397 707 297 
+player 151 draws a 309 from deck 151
+player 151 discards a 374 to deck 152
+player 151 current hand : 717 429 141 85 415 984 650 101 570 970 401 893 737 729 898 786 397 707 297 309 
+player 151 draws a 715 from deck 151
+player 151 discards a 717 to deck 152
+player 151 current hand : 429 141 85 415 984 650 101 570 970 401 893 737 729 898 786 397 707 297 309 715 
+player 151 draws a 575 from deck 151
+player 151 discards a 429 to deck 152
+player 151 current hand : 141 85 415 984 650 101 570 970 401 893 737 729 898 786 397 707 297 309 715 575 
+player 151 draws a 985 from deck 151
+player 151 discards a 141 to deck 152
+player 151 current hand : 85 415 984 650 101 570 970 401 893 737 729 898 786 397 707 297 309 715 575 985 
+player 151 draws a 635 from deck 151
+player 151 discards a 85 to deck 152
+player 151 current hand : 415 984 650 101 570 970 401 893 737 729 898 786 397 707 297 309 715 575 985 635 
+player 151 draws a 42 from deck 151
+player 151 discards a 415 to deck 152
+player 151 current hand : 984 650 101 570 970 401 893 737 729 898 786 397 707 297 309 715 575 985 635 42 
+player 151 draws a 199 from deck 151
+player 151 discards a 984 to deck 152
+player 151 current hand : 650 101 570 970 401 893 737 729 898 786 397 707 297 309 715 575 985 635 42 199 
+player 151 draws a 719 from deck 151
+player 151 discards a 650 to deck 152
+player 151 current hand : 101 570 970 401 893 737 729 898 786 397 707 297 309 715 575 985 635 42 199 719 
+player 151 draws a 188 from deck 151
+player 151 discards a 101 to deck 152
+player 151 current hand : 570 970 401 893 737 729 898 786 397 707 297 309 715 575 985 635 42 199 719 188 
+player 151 draws a 303 from deck 151
+player 151 discards a 570 to deck 152
+player 151 current hand : 970 401 893 737 729 898 786 397 707 297 309 715 575 985 635 42 199 719 188 303 
+player 151 draws a 128 from deck 151
+player 151 discards a 970 to deck 152
+player 151 current hand : 401 893 737 729 898 786 397 707 297 309 715 575 985 635 42 199 719 188 303 128 
+player 151 draws a 848 from deck 151
+player 151 discards a 401 to deck 152
+player 151 current hand : 893 737 729 898 786 397 707 297 309 715 575 985 635 42 199 719 188 303 128 848 
+player 151 draws a 44 from deck 151
+player 151 discards a 893 to deck 152
+player 151 current hand : 737 729 898 786 397 707 297 309 715 575 985 635 42 199 719 188 303 128 848 44 
+player 151 draws a 765 from deck 151
+player 151 discards a 737 to deck 152
+player 151 current hand : 729 898 786 397 707 297 309 715 575 985 635 42 199 719 188 303 128 848 44 765 
+player 151 draws a 758 from deck 151
+player 151 discards a 729 to deck 152
+player 151 current hand : 898 786 397 707 297 309 715 575 985 635 42 199 719 188 303 128 848 44 765 758 
+player 151 draws a 999 from deck 151
+player 151 discards a 898 to deck 152
+player 151 current hand : 786 397 707 297 309 715 575 985 635 42 199 719 188 303 128 848 44 765 758 999 
+player 151 draws a 258 from deck 151
+player 151 discards a 786 to deck 152
+player 151 current hand : 397 707 297 309 715 575 985 635 42 199 719 188 303 128 848 44 765 758 999 258 
+player 151 draws a 179 from deck 151
+player 151 discards a 397 to deck 152
+player 151 current hand : 707 297 309 715 575 985 635 42 199 719 188 303 128 848 44 765 758 999 258 179 
+player 151 draws a 984 from deck 151
+player 151 discards a 707 to deck 152
+player 151 current hand : 297 309 715 575 985 635 42 199 719 188 303 128 848 44 765 758 999 258 179 984 
+player 151 draws a 415 from deck 151
+player 151 discards a 297 to deck 152
+player 151 current hand : 309 715 575 985 635 42 199 719 188 303 128 848 44 765 758 999 258 179 984 415 
+player 151 draws a 593 from deck 151
+player 151 discards a 309 to deck 152
+player 151 current hand : 715 575 985 635 42 199 719 188 303 128 848 44 765 758 999 258 179 984 415 593 
+player 151 draws a 175 from deck 151
+player 151 discards a 715 to deck 152
+player 151 current hand : 575 985 635 42 199 719 188 303 128 848 44 765 758 999 258 179 984 415 593 175 
+player 151 draws a 559 from deck 151
+player 151 discards a 575 to deck 152
+player 151 current hand : 985 635 42 199 719 188 303 128 848 44 765 758 999 258 179 984 415 593 175 559 
+player 151 draws a 388 from deck 151
+player 151 discards a 985 to deck 152
+player 151 current hand : 635 42 199 719 188 303 128 848 44 765 758 999 258 179 984 415 593 175 559 388 
+player 151 draws a 303 from deck 151
+player 151 discards a 635 to deck 152
+player 151 current hand : 42 199 719 188 303 128 848 44 765 758 999 258 179 984 415 593 175 559 388 303 
+player 151 draws a 605 from deck 151
+player 151 discards a 42 to deck 152
+player 151 current hand : 199 719 188 303 128 848 44 765 758 999 258 179 984 415 593 175 559 388 303 605 
+player 151 draws a 897 from deck 151
+player 151 discards a 199 to deck 152
+player 151 current hand : 719 188 303 128 848 44 765 758 999 258 179 984 415 593 175 559 388 303 605 897 
+player 151 draws a 972 from deck 151
+player 151 discards a 719 to deck 152
+player 151 current hand : 188 303 128 848 44 765 758 999 258 179 984 415 593 175 559 388 303 605 897 972 
+player 151 draws a 137 from deck 151
+player 151 discards a 188 to deck 152
+player 151 current hand : 303 128 848 44 765 758 999 258 179 984 415 593 175 559 388 303 605 897 972 137 
+player 151 draws a 645 from deck 151
+player 151 discards a 303 to deck 152
+player 151 current hand : 128 848 44 765 758 999 258 179 984 415 593 175 559 388 303 605 897 972 137 645 
+player 151 draws a 117 from deck 151
+player 151 discards a 128 to deck 152
+player 151 current hand : 848 44 765 758 999 258 179 984 415 593 175 559 388 303 605 897 972 137 645 117 
+player 151 draws a 415 from deck 151
+player 151 discards a 848 to deck 152
+player 151 current hand : 44 765 758 999 258 179 984 415 593 175 559 388 303 605 897 972 137 645 117 415 
+player 151 draws a 443 from deck 151
+player 151 discards a 44 to deck 152
+player 151 current hand : 765 758 999 258 179 984 415 593 175 559 388 303 605 897 972 137 645 117 415 443 
+player 151 draws a 186 from deck 151
+player 151 discards a 765 to deck 152
+player 151 current hand : 758 999 258 179 984 415 593 175 559 388 303 605 897 972 137 645 117 415 443 186 
+player 151 draws a 258 from deck 151
+player 151 discards a 758 to deck 152
+player 151 current hand : 999 258 179 984 415 593 175 559 388 303 605 897 972 137 645 117 415 443 186 258 
+player 151 draws a 654 from deck 151
+player 151 discards a 999 to deck 152
+player 151 current hand : 258 179 984 415 593 175 559 388 303 605 897 972 137 645 117 415 443 186 258 654 
+player 151 draws a 2 from deck 151
+player 151 discards a 258 to deck 152
+player 151 current hand : 179 984 415 593 175 559 388 303 605 897 972 137 645 117 415 443 186 258 654 2 
+player 151 draws a 499 from deck 151
+player 151 discards a 179 to deck 152
+player 151 current hand : 984 415 593 175 559 388 303 605 897 972 137 645 117 415 443 186 258 654 2 499 
+player 151 draws a 257 from deck 151
+player 151 discards a 984 to deck 152
+player 151 current hand : 415 593 175 559 388 303 605 897 972 137 645 117 415 443 186 258 654 2 499 257 
+player 151 draws a 257 from deck 151
+player 151 discards a 415 to deck 152
+player 151 current hand : 593 175 559 388 303 605 897 972 137 645 117 415 443 186 258 654 2 499 257 257 
+player 151 draws a 707 from deck 151
+player 151 discards a 593 to deck 152
+player 151 current hand : 175 559 388 303 605 897 972 137 645 117 415 443 186 258 654 2 499 257 257 707 
+player 151 draws a 339 from deck 151
+player 151 discards a 175 to deck 152
+player 151 current hand : 559 388 303 605 897 972 137 645 117 415 443 186 258 654 2 499 257 257 707 339 
+player 151 draws a 62 from deck 151
+player 151 discards a 559 to deck 152
+player 151 current hand : 388 303 605 897 972 137 645 117 415 443 186 258 654 2 499 257 257 707 339 62 
+player 151 draws a 393 from deck 151
+player 151 discards a 388 to deck 152
+player 151 current hand : 303 605 897 972 137 645 117 415 443 186 258 654 2 499 257 257 707 339 62 393 
+player 151 draws a 709 from deck 151
+player 151 discards a 303 to deck 152
+player 151 current hand : 605 897 972 137 645 117 415 443 186 258 654 2 499 257 257 707 339 62 393 709 
+player 151 draws a 686 from deck 151
+player 151 discards a 605 to deck 152
+player 151 current hand : 897 972 137 645 117 415 443 186 258 654 2 499 257 257 707 339 62 393 709 686 
+player 151 draws a 341 from deck 151
+player 151 discards a 897 to deck 152
+player 151 current hand : 972 137 645 117 415 443 186 258 654 2 499 257 257 707 339 62 393 709 686 341 
+player 151 draws a 639 from deck 151
+player 151 discards a 972 to deck 152
+player 151 current hand : 137 645 117 415 443 186 258 654 2 499 257 257 707 339 62 393 709 686 341 639 
+player 151 draws a 778 from deck 151
+player 151 discards a 137 to deck 152
+player 151 current hand : 645 117 415 443 186 258 654 2 499 257 257 707 339 62 393 709 686 341 639 778 
+player 151 draws a 780 from deck 151
+player 151 discards a 645 to deck 152
+player 151 current hand : 117 415 443 186 258 654 2 499 257 257 707 339 62 393 709 686 341 639 778 780 
+player 151 draws a 652 from deck 151
+player 151 discards a 117 to deck 152
+player 151 current hand : 415 443 186 258 654 2 499 257 257 707 339 62 393 709 686 341 639 778 780 652 
+player 151 draws a 691 from deck 151
+player 151 discards a 415 to deck 152
+player 151 current hand : 443 186 258 654 2 499 257 257 707 339 62 393 709 686 341 639 778 780 652 691 
+player 151 draws a 721 from deck 151
+player 151 discards a 443 to deck 152
+player 151 current hand : 186 258 654 2 499 257 257 707 339 62 393 709 686 341 639 778 780 652 691 721 
+player 151 draws a 981 from deck 151
+player 151 discards a 186 to deck 152
+player 151 current hand : 258 654 2 499 257 257 707 339 62 393 709 686 341 639 778 780 652 691 721 981 
+player 151 draws a 266 from deck 151
+player 151 discards a 258 to deck 152
+player 151 current hand : 654 2 499 257 257 707 339 62 393 709 686 341 639 778 780 652 691 721 981 266 
+player 151 draws a 870 from deck 151
+player 151 discards a 654 to deck 152
+player 151 current hand : 2 499 257 257 707 339 62 393 709 686 341 639 778 780 652 691 721 981 266 870 
+player 151 draws a 707 from deck 151
+player 151 discards a 2 to deck 152
+player 151 current hand : 499 257 257 707 339 62 393 709 686 341 639 778 780 652 691 721 981 266 870 707 
+player 151 draws a 991 from deck 151
+player 151 discards a 499 to deck 152
+player 151 current hand : 257 257 707 339 62 393 709 686 341 639 778 780 652 691 721 981 266 870 707 991 
+player 151 draws a 321 from deck 151
+player 151 discards a 257 to deck 152
+player 151 current hand : 257 707 339 62 393 709 686 341 639 778 780 652 691 721 981 266 870 707 991 321 
+player 151 draws a 660 from deck 151
+player 151 discards a 257 to deck 152
+player 151 current hand : 707 339 62 393 709 686 341 639 778 780 652 691 721 981 266 870 707 991 321 660 
+player 151 draws a 325 from deck 151
+player 151 discards a 707 to deck 152
+player 151 current hand : 339 62 393 709 686 341 639 778 780 652 691 721 981 266 870 707 991 321 660 325 
+player 151 draws a 507 from deck 151
+player 151 discards a 339 to deck 152
+player 151 current hand : 62 393 709 686 341 639 778 780 652 691 721 981 266 870 707 991 321 660 325 507 
+player 151 draws a 844 from deck 151
+player 151 discards a 62 to deck 152
+player 151 current hand : 393 709 686 341 639 778 780 652 691 721 981 266 870 707 991 321 660 325 507 844 
+player 151 draws a 900 from deck 151
+player 151 discards a 393 to deck 152
+player 151 current hand : 709 686 341 639 778 780 652 691 721 981 266 870 707 991 321 660 325 507 844 900 
+player 151 draws a 643 from deck 151
+player 151 discards a 709 to deck 152
+player 151 current hand : 686 341 639 778 780 652 691 721 981 266 870 707 991 321 660 325 507 844 900 643 
+player 151 draws a 933 from deck 151
+player 151 discards a 686 to deck 152
+player 151 current hand : 341 639 778 780 652 691 721 981 266 870 707 991 321 660 325 507 844 900 643 933 
+player 151 draws a 269 from deck 151
+player 151 discards a 341 to deck 152
+player 151 current hand : 639 778 780 652 691 721 981 266 870 707 991 321 660 325 507 844 900 643 933 269 
+player 151 draws a 787 from deck 151
+player 151 discards a 639 to deck 152
+player 151 current hand : 778 780 652 691 721 981 266 870 707 991 321 660 325 507 844 900 643 933 269 787 
+player 151 draws a 66 from deck 151
+player 151 discards a 778 to deck 152
+player 151 current hand : 780 652 691 721 981 266 870 707 991 321 660 325 507 844 900 643 933 269 787 66 
+player 151 draws a 533 from deck 151
+player 151 discards a 780 to deck 152
+player 151 current hand : 652 691 721 981 266 870 707 991 321 660 325 507 844 900 643 933 269 787 66 533 
+player 151 draws a 412 from deck 151
+player 151 discards a 652 to deck 152
+player 151 current hand : 691 721 981 266 870 707 991 321 660 325 507 844 900 643 933 269 787 66 533 412 
+player 151 draws a 114 from deck 151
+player 151 discards a 691 to deck 152
+player 151 current hand : 721 981 266 870 707 991 321 660 325 507 844 900 643 933 269 787 66 533 412 114 
+player 151 draws a 137 from deck 151
+player 151 discards a 721 to deck 152
+player 151 current hand : 981 266 870 707 991 321 660 325 507 844 900 643 933 269 787 66 533 412 114 137 
+player 151 draws a 11 from deck 151
+player 151 discards a 981 to deck 152
+player 151 current hand : 266 870 707 991 321 660 325 507 844 900 643 933 269 787 66 533 412 114 137 11 
+player 151 draws a 406 from deck 151
+player 151 discards a 266 to deck 152
+player 151 current hand : 870 707 991 321 660 325 507 844 900 643 933 269 787 66 533 412 114 137 11 406 
+player 151 draws a 391 from deck 151
+player 151 discards a 870 to deck 152
+player 151 current hand : 707 991 321 660 325 507 844 900 643 933 269 787 66 533 412 114 137 11 406 391 
+player 151 draws a 441 from deck 151
+player 151 discards a 707 to deck 152
+player 151 current hand : 991 321 660 325 507 844 900 643 933 269 787 66 533 412 114 137 11 406 391 441 
+player 151 draws a 536 from deck 151
+player 151 discards a 991 to deck 152
+player 151 current hand : 321 660 325 507 844 900 643 933 269 787 66 533 412 114 137 11 406 391 441 536 
+player 151 draws a 272 from deck 151
+player 151 discards a 321 to deck 152
+player 151 current hand : 660 325 507 844 900 643 933 269 787 66 533 412 114 137 11 406 391 441 536 272 
+player 151 draws a 211 from deck 151
+player 151 discards a 660 to deck 152
+player 151 current hand : 325 507 844 900 643 933 269 787 66 533 412 114 137 11 406 391 441 536 272 211 
+player 151 draws a 808 from deck 151
+player 151 discards a 325 to deck 152
+player 151 current hand : 507 844 900 643 933 269 787 66 533 412 114 137 11 406 391 441 536 272 211 808 
+player 151 draws a 134 from deck 151
+player 151 discards a 507 to deck 152
+player 151 current hand : 844 900 643 933 269 787 66 533 412 114 137 11 406 391 441 536 272 211 808 134 
+player 151 draws a 117 from deck 151
+player 151 discards a 844 to deck 152
+player 151 current hand : 900 643 933 269 787 66 533 412 114 137 11 406 391 441 536 272 211 808 134 117 
+player 151 draws a 989 from deck 151
+player 151 discards a 900 to deck 152
+player 151 current hand : 643 933 269 787 66 533 412 114 137 11 406 391 441 536 272 211 808 134 117 989 
+player 151 draws a 112 from deck 151
+player 151 discards a 643 to deck 152
+player 151 current hand : 933 269 787 66 533 412 114 137 11 406 391 441 536 272 211 808 134 117 989 112 
+player 151 draws a 115 from deck 151
+player 151 discards a 933 to deck 152
+player 151 current hand : 269 787 66 533 412 114 137 11 406 391 441 536 272 211 808 134 117 989 112 115 
+player 151 draws a 810 from deck 151
+player 151 discards a 269 to deck 152
+player 151 current hand : 787 66 533 412 114 137 11 406 391 441 536 272 211 808 134 117 989 112 115 810 
+player 151 draws a 91 from deck 151
+player 151 discards a 787 to deck 152
+player 151 current hand : 66 533 412 114 137 11 406 391 441 536 272 211 808 134 117 989 112 115 810 91 
+player 151 draws a 900 from deck 151
+player 151 discards a 66 to deck 152
+player 151 current hand : 533 412 114 137 11 406 391 441 536 272 211 808 134 117 989 112 115 810 91 900 
+player 151 draws a 417 from deck 151
+player 151 discards a 533 to deck 152
+player 151 current hand : 412 114 137 11 406 391 441 536 272 211 808 134 117 989 112 115 810 91 900 417 
+player 151 draws a 189 from deck 151
+player 151 discards a 412 to deck 152
+player 151 current hand : 114 137 11 406 391 441 536 272 211 808 134 117 989 112 115 810 91 900 417 189 
+player 151 draws a 60 from deck 151
+player 151 discards a 114 to deck 152
+player 151 current hand : 137 11 406 391 441 536 272 211 808 134 117 989 112 115 810 91 900 417 189 60 
+player 151 draws a 550 from deck 151
+player 151 discards a 137 to deck 152
+player 151 current hand : 11 406 391 441 536 272 211 808 134 117 989 112 115 810 91 900 417 189 60 550 
+player 151 draws a 600 from deck 151
+player 151 discards a 11 to deck 152
+player 151 current hand : 406 391 441 536 272 211 808 134 117 989 112 115 810 91 900 417 189 60 550 600 
+player 151 draws a 531 from deck 151
+player 151 discards a 406 to deck 152
+player 151 current hand : 391 441 536 272 211 808 134 117 989 112 115 810 91 900 417 189 60 550 600 531 
+player 151 draws a 518 from deck 151
+player 151 discards a 391 to deck 152
+player 151 current hand : 441 536 272 211 808 134 117 989 112 115 810 91 900 417 189 60 550 600 531 518 
+player 151 draws a 326 from deck 151
+player 151 discards a 441 to deck 152
+player 151 current hand : 536 272 211 808 134 117 989 112 115 810 91 900 417 189 60 550 600 531 518 326 
+player 151 draws a 762 from deck 151
+player 151 discards a 536 to deck 152
+player 151 current hand : 272 211 808 134 117 989 112 115 810 91 900 417 189 60 550 600 531 518 326 762 
+player 151 draws a 426 from deck 151
+player 151 discards a 272 to deck 152
+player 151 current hand : 211 808 134 117 989 112 115 810 91 900 417 189 60 550 600 531 518 326 762 426 
+player 151 draws a 728 from deck 151
+player 151 discards a 211 to deck 152
+player 151 current hand : 808 134 117 989 112 115 810 91 900 417 189 60 550 600 531 518 326 762 426 728 
+player 151 draws a 499 from deck 151
+player 151 discards a 808 to deck 152

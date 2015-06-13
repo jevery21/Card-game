@@ -1,0 +1,313 @@
+player 634 initial hand 141 269 313 480 936 282 977 475 328 791 257 215 305 581 448 853 993 189 422 86 
+player 634 draws a 773 from deck 634
+player 634 discards a 141 to deck 635
+player 634 current hand : 269 313 480 936 282 977 475 328 791 257 215 305 581 448 853 993 189 422 86 773 
+player 634 draws a 763 from deck 634
+player 634 discards a 269 to deck 635
+player 634 current hand : 313 480 936 282 977 475 328 791 257 215 305 581 448 853 993 189 422 86 773 763 
+player 634 draws a 164 from deck 634
+player 634 discards a 313 to deck 635
+player 634 current hand : 480 936 282 977 475 328 791 257 215 305 581 448 853 993 189 422 86 773 763 164 
+player 634 draws a 869 from deck 634
+player 634 discards a 480 to deck 635
+player 634 current hand : 936 282 977 475 328 791 257 215 305 581 448 853 993 189 422 86 773 763 164 869 
+player 634 draws a 305 from deck 634
+player 634 discards a 936 to deck 635
+player 634 current hand : 282 977 475 328 791 257 215 305 581 448 853 993 189 422 86 773 763 164 869 305 
+player 634 draws a 810 from deck 634
+player 634 discards a 282 to deck 635
+player 634 current hand : 977 475 328 791 257 215 305 581 448 853 993 189 422 86 773 763 164 869 305 810 
+player 634 draws a 544 from deck 634
+player 634 discards a 977 to deck 635
+player 634 current hand : 475 328 791 257 215 305 581 448 853 993 189 422 86 773 763 164 869 305 810 544 
+player 634 draws a 673 from deck 634
+player 634 discards a 475 to deck 635
+player 634 current hand : 328 791 257 215 305 581 448 853 993 189 422 86 773 763 164 869 305 810 544 673 
+player 634 draws a 571 from deck 634
+player 634 discards a 328 to deck 635
+player 634 current hand : 791 257 215 305 581 448 853 993 189 422 86 773 763 164 869 305 810 544 673 571 
+player 634 draws a 558 from deck 634
+player 634 discards a 791 to deck 635
+player 634 current hand : 257 215 305 581 448 853 993 189 422 86 773 763 164 869 305 810 544 673 571 558 
+player 634 draws a 622 from deck 634
+player 634 discards a 257 to deck 635
+player 634 current hand : 215 305 581 448 853 993 189 422 86 773 763 164 869 305 810 544 673 571 558 622 
+player 634 draws a 571 from deck 634
+player 634 discards a 215 to deck 635
+player 634 current hand : 305 581 448 853 993 189 422 86 773 763 164 869 305 810 544 673 571 558 622 571 
+player 634 draws a 298 from deck 634
+player 634 discards a 305 to deck 635
+player 634 current hand : 581 448 853 993 189 422 86 773 763 164 869 305 810 544 673 571 558 622 571 298 
+player 634 draws a 642 from deck 634
+player 634 discards a 581 to deck 635
+player 634 current hand : 448 853 993 189 422 86 773 763 164 869 305 810 544 673 571 558 622 571 298 642 
+player 634 draws a 275 from deck 634
+player 634 discards a 448 to deck 635
+player 634 current hand : 853 993 189 422 86 773 763 164 869 305 810 544 673 571 558 622 571 298 642 275 
+player 634 draws a 468 from deck 634
+player 634 discards a 853 to deck 635
+player 634 current hand : 993 189 422 86 773 763 164 869 305 810 544 673 571 558 622 571 298 642 275 468 
+player 634 draws a 602 from deck 634
+player 634 discards a 993 to deck 635
+player 634 current hand : 189 422 86 773 763 164 869 305 810 544 673 571 558 622 571 298 642 275 468 602 
+player 634 draws a 275 from deck 634
+player 634 discards a 189 to deck 635
+player 634 current hand : 422 86 773 763 164 869 305 810 544 673 571 558 622 571 298 642 275 468 602 275 
+player 634 draws a 45 from deck 634
+player 634 discards a 422 to deck 635
+player 634 current hand : 86 773 763 164 869 305 810 544 673 571 558 622 571 298 642 275 468 602 275 45 
+player 634 draws a 24 from deck 634
+player 634 discards a 86 to deck 635
+player 634 current hand : 773 763 164 869 305 810 544 673 571 558 622 571 298 642 275 468 602 275 45 24 
+player 634 draws a 612 from deck 634
+player 634 discards a 773 to deck 635
+player 634 current hand : 763 164 869 305 810 544 673 571 558 622 571 298 642 275 468 602 275 45 24 612 
+player 634 draws a 427 from deck 634
+player 634 discards a 763 to deck 635
+player 634 current hand : 164 869 305 810 544 673 571 558 622 571 298 642 275 468 602 275 45 24 612 427 
+player 634 draws a 113 from deck 634
+player 634 discards a 164 to deck 635
+player 634 current hand : 869 305 810 544 673 571 558 622 571 298 642 275 468 602 275 45 24 612 427 113 
+player 634 draws a 951 from deck 634
+player 634 discards a 869 to deck 635
+player 634 current hand : 305 810 544 673 571 558 622 571 298 642 275 468 602 275 45 24 612 427 113 951 
+player 634 draws a 254 from deck 634
+player 634 discards a 305 to deck 635
+player 634 current hand : 810 544 673 571 558 622 571 298 642 275 468 602 275 45 24 612 427 113 951 254 
+player 634 draws a 658 from deck 634
+player 634 discards a 810 to deck 635
+player 634 current hand : 544 673 571 558 622 571 298 642 275 468 602 275 45 24 612 427 113 951 254 658 
+player 634 draws a 392 from deck 634
+player 634 discards a 544 to deck 635
+player 634 current hand : 673 571 558 622 571 298 642 275 468 602 275 45 24 612 427 113 951 254 658 392 
+player 634 draws a 165 from deck 634
+player 634 discards a 673 to deck 635
+player 634 current hand : 571 558 622 571 298 642 275 468 602 275 45 24 612 427 113 951 254 658 392 165 
+player 634 draws a 562 from deck 634
+player 634 discards a 571 to deck 635
+player 634 current hand : 558 622 571 298 642 275 468 602 275 45 24 612 427 113 951 254 658 392 165 562 
+player 634 draws a 818 from deck 634
+player 634 discards a 558 to deck 635
+player 634 current hand : 622 571 298 642 275 468 602 275 45 24 612 427 113 951 254 658 392 165 562 818 
+player 634 draws a 661 from deck 634
+player 634 discards a 622 to deck 635
+player 634 current hand : 571 298 642 275 468 602 275 45 24 612 427 113 951 254 658 392 165 562 818 661 
+player 634 draws a 977 from deck 634
+player 634 discards a 571 to deck 635
+player 634 current hand : 298 642 275 468 602 275 45 24 612 427 113 951 254 658 392 165 562 818 661 977 
+player 634 draws a 489 from deck 634
+player 634 discards a 298 to deck 635
+player 634 current hand : 642 275 468 602 275 45 24 612 427 113 951 254 658 392 165 562 818 661 977 489 
+player 634 draws a 867 from deck 634
+player 634 discards a 642 to deck 635
+player 634 current hand : 275 468 602 275 45 24 612 427 113 951 254 658 392 165 562 818 661 977 489 867 
+player 634 draws a 700 from deck 634
+player 634 discards a 275 to deck 635
+player 634 current hand : 468 602 275 45 24 612 427 113 951 254 658 392 165 562 818 661 977 489 867 700 
+player 634 draws a 350 from deck 634
+player 634 discards a 468 to deck 635
+player 634 current hand : 602 275 45 24 612 427 113 951 254 658 392 165 562 818 661 977 489 867 700 350 
+player 634 draws a 515 from deck 634
+player 634 discards a 602 to deck 635
+player 634 current hand : 275 45 24 612 427 113 951 254 658 392 165 562 818 661 977 489 867 700 350 515 
+player 634 draws a 525 from deck 634
+player 634 discards a 275 to deck 635
+player 634 current hand : 45 24 612 427 113 951 254 658 392 165 562 818 661 977 489 867 700 350 515 525 
+player 634 draws a 15 from deck 634
+player 634 discards a 45 to deck 635
+player 634 current hand : 24 612 427 113 951 254 658 392 165 562 818 661 977 489 867 700 350 515 525 15 
+player 634 draws a 827 from deck 634
+player 634 discards a 24 to deck 635
+player 634 current hand : 612 427 113 951 254 658 392 165 562 818 661 977 489 867 700 350 515 525 15 827 
+player 634 draws a 107 from deck 634
+player 634 discards a 612 to deck 635
+player 634 current hand : 427 113 951 254 658 392 165 562 818 661 977 489 867 700 350 515 525 15 827 107 
+player 634 draws a 401 from deck 634
+player 634 discards a 427 to deck 635
+player 634 current hand : 113 951 254 658 392 165 562 818 661 977 489 867 700 350 515 525 15 827 107 401 
+player 634 draws a 525 from deck 634
+player 634 discards a 113 to deck 635
+player 634 current hand : 951 254 658 392 165 562 818 661 977 489 867 700 350 515 525 15 827 107 401 525 
+player 634 draws a 29 from deck 634
+player 634 discards a 951 to deck 635
+player 634 current hand : 254 658 392 165 562 818 661 977 489 867 700 350 515 525 15 827 107 401 525 29 
+player 634 draws a 326 from deck 634
+player 634 discards a 254 to deck 635
+player 634 current hand : 658 392 165 562 818 661 977 489 867 700 350 515 525 15 827 107 401 525 29 326 
+player 634 draws a 37 from deck 634
+player 634 discards a 658 to deck 635
+player 634 current hand : 392 165 562 818 661 977 489 867 700 350 515 525 15 827 107 401 525 29 326 37 
+player 634 draws a 458 from deck 634
+player 634 discards a 392 to deck 635
+player 634 current hand : 165 562 818 661 977 489 867 700 350 515 525 15 827 107 401 525 29 326 37 458 
+player 634 draws a 556 from deck 634
+player 634 discards a 165 to deck 635
+player 634 current hand : 562 818 661 977 489 867 700 350 515 525 15 827 107 401 525 29 326 37 458 556 
+player 634 draws a 355 from deck 634
+player 634 discards a 562 to deck 635
+player 634 current hand : 818 661 977 489 867 700 350 515 525 15 827 107 401 525 29 326 37 458 556 355 
+player 634 draws a 257 from deck 634
+player 634 discards a 818 to deck 635
+player 634 current hand : 661 977 489 867 700 350 515 525 15 827 107 401 525 29 326 37 458 556 355 257 
+player 634 draws a 874 from deck 634
+player 634 discards a 661 to deck 635
+player 634 current hand : 977 489 867 700 350 515 525 15 827 107 401 525 29 326 37 458 556 355 257 874 
+player 634 draws a 490 from deck 634
+player 634 discards a 977 to deck 635
+player 634 current hand : 489 867 700 350 515 525 15 827 107 401 525 29 326 37 458 556 355 257 874 490 
+player 634 draws a 194 from deck 634
+player 634 discards a 489 to deck 635
+player 634 current hand : 867 700 350 515 525 15 827 107 401 525 29 326 37 458 556 355 257 874 490 194 
+player 634 draws a 886 from deck 634
+player 634 discards a 867 to deck 635
+player 634 current hand : 700 350 515 525 15 827 107 401 525 29 326 37 458 556 355 257 874 490 194 886 
+player 634 draws a 145 from deck 634
+player 634 discards a 700 to deck 635
+player 634 current hand : 350 515 525 15 827 107 401 525 29 326 37 458 556 355 257 874 490 194 886 145 
+player 634 draws a 258 from deck 634
+player 634 discards a 350 to deck 635
+player 634 current hand : 515 525 15 827 107 401 525 29 326 37 458 556 355 257 874 490 194 886 145 258 
+player 634 draws a 861 from deck 634
+player 634 discards a 515 to deck 635
+player 634 current hand : 525 15 827 107 401 525 29 326 37 458 556 355 257 874 490 194 886 145 258 861 
+player 634 draws a 317 from deck 634
+player 634 discards a 525 to deck 635
+player 634 current hand : 15 827 107 401 525 29 326 37 458 556 355 257 874 490 194 886 145 258 861 317 
+player 634 draws a 874 from deck 634
+player 634 discards a 15 to deck 635
+player 634 current hand : 827 107 401 525 29 326 37 458 556 355 257 874 490 194 886 145 258 861 317 874 
+player 634 draws a 215 from deck 634
+player 634 discards a 827 to deck 635
+player 634 current hand : 107 401 525 29 326 37 458 556 355 257 874 490 194 886 145 258 861 317 874 215 
+player 634 draws a 627 from deck 634
+player 634 discards a 107 to deck 635
+player 634 current hand : 401 525 29 326 37 458 556 355 257 874 490 194 886 145 258 861 317 874 215 627 
+player 634 draws a 720 from deck 634
+player 634 discards a 401 to deck 635
+player 634 current hand : 525 29 326 37 458 556 355 257 874 490 194 886 145 258 861 317 874 215 627 720 
+player 634 draws a 715 from deck 634
+player 634 discards a 525 to deck 635
+player 634 current hand : 29 326 37 458 556 355 257 874 490 194 886 145 258 861 317 874 215 627 720 715 
+player 634 draws a 894 from deck 634
+player 634 discards a 29 to deck 635
+player 634 current hand : 326 37 458 556 355 257 874 490 194 886 145 258 861 317 874 215 627 720 715 894 
+player 634 draws a 877 from deck 634
+player 634 discards a 326 to deck 635
+player 634 current hand : 37 458 556 355 257 874 490 194 886 145 258 861 317 874 215 627 720 715 894 877 
+player 634 draws a 991 from deck 634
+player 634 discards a 37 to deck 635
+player 634 current hand : 458 556 355 257 874 490 194 886 145 258 861 317 874 215 627 720 715 894 877 991 
+player 634 draws a 83 from deck 634
+player 634 discards a 458 to deck 635
+player 634 current hand : 556 355 257 874 490 194 886 145 258 861 317 874 215 627 720 715 894 877 991 83 
+player 634 draws a 407 from deck 634
+player 634 discards a 556 to deck 635
+player 634 current hand : 355 257 874 490 194 886 145 258 861 317 874 215 627 720 715 894 877 991 83 407 
+player 634 draws a 626 from deck 634
+player 634 discards a 355 to deck 635
+player 634 current hand : 257 874 490 194 886 145 258 861 317 874 215 627 720 715 894 877 991 83 407 626 
+player 634 draws a 977 from deck 634
+player 634 discards a 257 to deck 635
+player 634 current hand : 874 490 194 886 145 258 861 317 874 215 627 720 715 894 877 991 83 407 626 977 
+player 634 draws a 469 from deck 634
+player 634 discards a 874 to deck 635
+player 634 current hand : 490 194 886 145 258 861 317 874 215 627 720 715 894 877 991 83 407 626 977 469 
+player 634 draws a 40 from deck 634
+player 634 discards a 490 to deck 635
+player 634 current hand : 194 886 145 258 861 317 874 215 627 720 715 894 877 991 83 407 626 977 469 40 
+player 634 draws a 350 from deck 634
+player 634 discards a 194 to deck 635
+player 634 current hand : 886 145 258 861 317 874 215 627 720 715 894 877 991 83 407 626 977 469 40 350 
+player 634 draws a 159 from deck 634
+player 634 discards a 886 to deck 635
+player 634 current hand : 145 258 861 317 874 215 627 720 715 894 877 991 83 407 626 977 469 40 350 159 
+player 634 draws a 668 from deck 634
+player 634 discards a 145 to deck 635
+player 634 current hand : 258 861 317 874 215 627 720 715 894 877 991 83 407 626 977 469 40 350 159 668 
+player 634 draws a 290 from deck 634
+player 634 discards a 258 to deck 635
+player 634 current hand : 861 317 874 215 627 720 715 894 877 991 83 407 626 977 469 40 350 159 668 290 
+player 634 draws a 833 from deck 634
+player 634 discards a 861 to deck 635
+player 634 current hand : 317 874 215 627 720 715 894 877 991 83 407 626 977 469 40 350 159 668 290 833 
+player 634 draws a 712 from deck 634
+player 634 discards a 317 to deck 635
+player 634 current hand : 874 215 627 720 715 894 877 991 83 407 626 977 469 40 350 159 668 290 833 712 
+player 634 draws a 722 from deck 634
+player 634 discards a 874 to deck 635
+player 634 current hand : 215 627 720 715 894 877 991 83 407 626 977 469 40 350 159 668 290 833 712 722 
+player 634 draws a 332 from deck 634
+player 634 discards a 215 to deck 635
+player 634 current hand : 627 720 715 894 877 991 83 407 626 977 469 40 350 159 668 290 833 712 722 332 
+player 634 draws a 824 from deck 634
+player 634 discards a 627 to deck 635
+player 634 current hand : 720 715 894 877 991 83 407 626 977 469 40 350 159 668 290 833 712 722 332 824 
+player 634 draws a 799 from deck 634
+player 634 discards a 720 to deck 635
+player 634 current hand : 715 894 877 991 83 407 626 977 469 40 350 159 668 290 833 712 722 332 824 799 
+player 634 draws a 153 from deck 634
+player 634 discards a 715 to deck 635
+player 634 current hand : 894 877 991 83 407 626 977 469 40 350 159 668 290 833 712 722 332 824 799 153 
+player 634 draws a 897 from deck 634
+player 634 discards a 894 to deck 635
+player 634 current hand : 877 991 83 407 626 977 469 40 350 159 668 290 833 712 722 332 824 799 153 897 
+player 634 draws a 4 from deck 634
+player 634 discards a 877 to deck 635
+player 634 current hand : 991 83 407 626 977 469 40 350 159 668 290 833 712 722 332 824 799 153 897 4 
+player 634 draws a 177 from deck 634
+player 634 discards a 991 to deck 635
+player 634 current hand : 83 407 626 977 469 40 350 159 668 290 833 712 722 332 824 799 153 897 4 177 
+player 634 draws a 452 from deck 634
+player 634 discards a 83 to deck 635
+player 634 current hand : 407 626 977 469 40 350 159 668 290 833 712 722 332 824 799 153 897 4 177 452 
+player 634 draws a 957 from deck 634
+player 634 discards a 407 to deck 635
+player 634 current hand : 626 977 469 40 350 159 668 290 833 712 722 332 824 799 153 897 4 177 452 957 
+player 634 draws a 835 from deck 634
+player 634 discards a 626 to deck 635
+player 634 current hand : 977 469 40 350 159 668 290 833 712 722 332 824 799 153 897 4 177 452 957 835 
+player 634 draws a 523 from deck 634
+player 634 discards a 977 to deck 635
+player 634 current hand : 469 40 350 159 668 290 833 712 722 332 824 799 153 897 4 177 452 957 835 523 
+player 634 draws a 233 from deck 634
+player 634 discards a 469 to deck 635
+player 634 current hand : 40 350 159 668 290 833 712 722 332 824 799 153 897 4 177 452 957 835 523 233 
+player 634 draws a 131 from deck 634
+player 634 discards a 40 to deck 635
+player 634 current hand : 350 159 668 290 833 712 722 332 824 799 153 897 4 177 452 957 835 523 233 131 
+player 634 draws a 836 from deck 634
+player 634 discards a 350 to deck 635
+player 634 current hand : 159 668 290 833 712 722 332 824 799 153 897 4 177 452 957 835 523 233 131 836 
+player 634 draws a 846 from deck 634
+player 634 discards a 159 to deck 635
+player 634 current hand : 668 290 833 712 722 332 824 799 153 897 4 177 452 957 835 523 233 131 836 846 
+player 634 draws a 696 from deck 634
+player 634 discards a 668 to deck 635
+player 634 current hand : 290 833 712 722 332 824 799 153 897 4 177 452 957 835 523 233 131 836 846 696 
+player 634 draws a 783 from deck 634
+player 634 discards a 290 to deck 635
+player 634 current hand : 833 712 722 332 824 799 153 897 4 177 452 957 835 523 233 131 836 846 696 783 
+player 634 draws a 969 from deck 634
+player 634 discards a 833 to deck 635
+player 634 current hand : 712 722 332 824 799 153 897 4 177 452 957 835 523 233 131 836 846 696 783 969 
+player 634 draws a 364 from deck 634
+player 634 discards a 712 to deck 635
+player 634 current hand : 722 332 824 799 153 897 4 177 452 957 835 523 233 131 836 846 696 783 969 364 
+player 634 draws a 196 from deck 634
+player 634 discards a 722 to deck 635
+player 634 current hand : 332 824 799 153 897 4 177 452 957 835 523 233 131 836 846 696 783 969 364 196 
+player 634 draws a 886 from deck 634
+player 634 discards a 332 to deck 635
+player 634 current hand : 824 799 153 897 4 177 452 957 835 523 233 131 836 846 696 783 969 364 196 886 
+player 634 draws a 706 from deck 634
+player 634 discards a 824 to deck 635
+player 634 current hand : 799 153 897 4 177 452 957 835 523 233 131 836 846 696 783 969 364 196 886 706 
+player 634 draws a 691 from deck 634
+player 634 discards a 799 to deck 635
+player 634 current hand : 153 897 4 177 452 957 835 523 233 131 836 846 696 783 969 364 196 886 706 691 
+player 634 draws a 832 from deck 634
+player 634 discards a 153 to deck 635
+player 634 current hand : 897 4 177 452 957 835 523 233 131 836 846 696 783 969 364 196 886 706 691 832 
+player 634 draws a 835 from deck 634
+player 634 discards a 897 to deck 635
+player 634 current hand : 4 177 452 957 835 523 233 131 836 846 696 783 969 364 196 886 706 691 832 835 

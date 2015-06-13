@@ -1,0 +1,323 @@
+player 452 initial hand 101 240 948 321 60 972 354 645 473 440 209 456 2 204 960 938 364 305 449 303 
+player 452 draws a 18 from deck 452
+player 452 discards a 101 to deck 453
+player 452 current hand : 240 948 321 60 972 354 645 473 440 209 456 2 204 960 938 364 305 449 303 18 
+player 452 draws a 71 from deck 452
+player 452 discards a 240 to deck 453
+player 452 current hand : 948 321 60 972 354 645 473 440 209 456 2 204 960 938 364 305 449 303 18 71 
+player 452 draws a 81 from deck 452
+player 452 discards a 948 to deck 453
+player 452 current hand : 321 60 972 354 645 473 440 209 456 2 204 960 938 364 305 449 303 18 71 81 
+player 452 draws a 223 from deck 452
+player 452 discards a 321 to deck 453
+player 452 current hand : 60 972 354 645 473 440 209 456 2 204 960 938 364 305 449 303 18 71 81 223 
+player 452 draws a 788 from deck 452
+player 452 discards a 60 to deck 453
+player 452 current hand : 972 354 645 473 440 209 456 2 204 960 938 364 305 449 303 18 71 81 223 788 
+player 452 draws a 374 from deck 452
+player 452 discards a 972 to deck 453
+player 452 current hand : 354 645 473 440 209 456 2 204 960 938 364 305 449 303 18 71 81 223 788 374 
+player 452 draws a 469 from deck 452
+player 452 discards a 354 to deck 453
+player 452 current hand : 645 473 440 209 456 2 204 960 938 364 305 449 303 18 71 81 223 788 374 469 
+player 452 draws a 788 from deck 452
+player 452 discards a 645 to deck 453
+player 452 current hand : 473 440 209 456 2 204 960 938 364 305 449 303 18 71 81 223 788 374 469 788 
+player 452 draws a 212 from deck 452
+player 452 discards a 473 to deck 453
+player 452 current hand : 440 209 456 2 204 960 938 364 305 449 303 18 71 81 223 788 374 469 788 212 
+player 452 draws a 431 from deck 452
+player 452 discards a 440 to deck 453
+player 452 current hand : 209 456 2 204 960 938 364 305 449 303 18 71 81 223 788 374 469 788 212 431 
+player 452 draws a 598 from deck 452
+player 452 discards a 209 to deck 453
+player 452 current hand : 456 2 204 960 938 364 305 449 303 18 71 81 223 788 374 469 788 212 431 598 
+player 452 draws a 163 from deck 452
+player 452 discards a 456 to deck 453
+player 452 current hand : 2 204 960 938 364 305 449 303 18 71 81 223 788 374 469 788 212 431 598 163 
+player 452 draws a 449 from deck 452
+player 452 discards a 2 to deck 453
+player 452 current hand : 204 960 938 364 305 449 303 18 71 81 223 788 374 469 788 212 431 598 163 449 
+player 452 draws a 589 from deck 452
+player 452 discards a 204 to deck 453
+player 452 current hand : 960 938 364 305 449 303 18 71 81 223 788 374 469 788 212 431 598 163 449 589 
+player 452 draws a 766 from deck 452
+player 452 discards a 960 to deck 453
+player 452 current hand : 938 364 305 449 303 18 71 81 223 788 374 469 788 212 431 598 163 449 589 766 
+player 452 draws a 91 from deck 452
+player 452 discards a 938 to deck 453
+player 452 current hand : 364 305 449 303 18 71 81 223 788 374 469 788 212 431 598 163 449 589 766 91 
+player 452 draws a 736 from deck 452
+player 452 discards a 364 to deck 453
+player 452 current hand : 305 449 303 18 71 81 223 788 374 469 788 212 431 598 163 449 589 766 91 736 
+player 452 draws a 699 from deck 452
+player 452 discards a 305 to deck 453
+player 452 current hand : 449 303 18 71 81 223 788 374 469 788 212 431 598 163 449 589 766 91 736 699 
+player 452 draws a 537 from deck 452
+player 452 discards a 449 to deck 453
+player 452 current hand : 303 18 71 81 223 788 374 469 788 212 431 598 163 449 589 766 91 736 699 537 
+player 452 draws a 154 from deck 452
+player 452 discards a 303 to deck 453
+player 452 current hand : 18 71 81 223 788 374 469 788 212 431 598 163 449 589 766 91 736 699 537 154 
+player 452 draws a 750 from deck 452
+player 452 discards a 18 to deck 453
+player 452 current hand : 71 81 223 788 374 469 788 212 431 598 163 449 589 766 91 736 699 537 154 750 
+player 452 draws a 271 from deck 452
+player 452 discards a 71 to deck 453
+player 452 current hand : 81 223 788 374 469 788 212 431 598 163 449 589 766 91 736 699 537 154 750 271 
+player 452 draws a 537 from deck 452
+player 452 discards a 81 to deck 453
+player 452 current hand : 223 788 374 469 788 212 431 598 163 449 589 766 91 736 699 537 154 750 271 537 
+player 452 draws a 893 from deck 452
+player 452 discards a 223 to deck 453
+player 452 current hand : 788 374 469 788 212 431 598 163 449 589 766 91 736 699 537 154 750 271 537 893 
+player 452 draws a 834 from deck 452
+player 452 discards a 788 to deck 453
+player 452 current hand : 374 469 788 212 431 598 163 449 589 766 91 736 699 537 154 750 271 537 893 834 
+player 452 draws a 931 from deck 452
+player 452 discards a 374 to deck 453
+player 452 current hand : 469 788 212 431 598 163 449 589 766 91 736 699 537 154 750 271 537 893 834 931 
+player 452 draws a 931 from deck 452
+player 452 discards a 469 to deck 453
+player 452 current hand : 788 212 431 598 163 449 589 766 91 736 699 537 154 750 271 537 893 834 931 931 
+player 452 draws a 159 from deck 452
+player 452 discards a 788 to deck 453
+player 452 current hand : 212 431 598 163 449 589 766 91 736 699 537 154 750 271 537 893 834 931 931 159 
+player 452 draws a 720 from deck 452
+player 452 discards a 212 to deck 453
+player 452 current hand : 431 598 163 449 589 766 91 736 699 537 154 750 271 537 893 834 931 931 159 720 
+player 452 draws a 162 from deck 452
+player 452 discards a 431 to deck 453
+player 452 current hand : 598 163 449 589 766 91 736 699 537 154 750 271 537 893 834 931 931 159 720 162 
+player 452 draws a 226 from deck 452
+player 452 discards a 598 to deck 453
+player 452 current hand : 163 449 589 766 91 736 699 537 154 750 271 537 893 834 931 931 159 720 162 226 
+player 452 draws a 701 from deck 452
+player 452 discards a 163 to deck 453
+player 452 current hand : 449 589 766 91 736 699 537 154 750 271 537 893 834 931 931 159 720 162 226 701 
+player 452 draws a 794 from deck 452
+player 452 discards a 449 to deck 453
+player 452 current hand : 589 766 91 736 699 537 154 750 271 537 893 834 931 931 159 720 162 226 701 794 
+player 452 draws a 423 from deck 452
+player 452 discards a 589 to deck 453
+player 452 current hand : 766 91 736 699 537 154 750 271 537 893 834 931 931 159 720 162 226 701 794 423 
+player 452 draws a 153 from deck 452
+player 452 discards a 766 to deck 453
+player 452 current hand : 91 736 699 537 154 750 271 537 893 834 931 931 159 720 162 226 701 794 423 153 
+player 452 draws a 54 from deck 452
+player 452 discards a 91 to deck 453
+player 452 current hand : 736 699 537 154 750 271 537 893 834 931 931 159 720 162 226 701 794 423 153 54 
+player 452 draws a 105 from deck 452
+player 452 discards a 736 to deck 453
+player 452 current hand : 699 537 154 750 271 537 893 834 931 931 159 720 162 226 701 794 423 153 54 105 
+player 452 draws a 272 from deck 452
+player 452 discards a 699 to deck 453
+player 452 current hand : 537 154 750 271 537 893 834 931 931 159 720 162 226 701 794 423 153 54 105 272 
+player 452 draws a 784 from deck 452
+player 452 discards a 537 to deck 453
+player 452 current hand : 154 750 271 537 893 834 931 931 159 720 162 226 701 794 423 153 54 105 272 784 
+player 452 draws a 308 from deck 452
+player 452 discards a 154 to deck 453
+player 452 current hand : 750 271 537 893 834 931 931 159 720 162 226 701 794 423 153 54 105 272 784 308 
+player 452 draws a 648 from deck 452
+player 452 discards a 750 to deck 453
+player 452 current hand : 271 537 893 834 931 931 159 720 162 226 701 794 423 153 54 105 272 784 308 648 
+player 452 draws a 265 from deck 452
+player 452 discards a 271 to deck 453
+player 452 current hand : 537 893 834 931 931 159 720 162 226 701 794 423 153 54 105 272 784 308 648 265 
+player 452 draws a 478 from deck 452
+player 452 discards a 537 to deck 453
+player 452 current hand : 893 834 931 931 159 720 162 226 701 794 423 153 54 105 272 784 308 648 265 478 
+player 452 draws a 301 from deck 452
+player 452 discards a 893 to deck 453
+player 452 current hand : 834 931 931 159 720 162 226 701 794 423 153 54 105 272 784 308 648 265 478 301 
+player 452 draws a 792 from deck 452
+player 452 discards a 834 to deck 453
+player 452 current hand : 931 931 159 720 162 226 701 794 423 153 54 105 272 784 308 648 265 478 301 792 
+player 452 draws a 109 from deck 452
+player 452 discards a 931 to deck 453
+player 452 current hand : 931 159 720 162 226 701 794 423 153 54 105 272 784 308 648 265 478 301 792 109 
+player 452 draws a 996 from deck 452
+player 452 discards a 931 to deck 453
+player 452 current hand : 159 720 162 226 701 794 423 153 54 105 272 784 308 648 265 478 301 792 109 996 
+player 452 draws a 508 from deck 452
+player 452 discards a 159 to deck 453
+player 452 current hand : 720 162 226 701 794 423 153 54 105 272 784 308 648 265 478 301 792 109 996 508 
+player 452 draws a 707 from deck 452
+player 452 discards a 720 to deck 453
+player 452 current hand : 162 226 701 794 423 153 54 105 272 784 308 648 265 478 301 792 109 996 508 707 
+player 452 draws a 834 from deck 452
+player 452 discards a 162 to deck 453
+player 452 current hand : 226 701 794 423 153 54 105 272 784 308 648 265 478 301 792 109 996 508 707 834 
+player 452 draws a 634 from deck 452
+player 452 discards a 226 to deck 453
+player 452 current hand : 701 794 423 153 54 105 272 784 308 648 265 478 301 792 109 996 508 707 834 634 
+player 452 draws a 51 from deck 452
+player 452 discards a 701 to deck 453
+player 452 current hand : 794 423 153 54 105 272 784 308 648 265 478 301 792 109 996 508 707 834 634 51 
+player 452 draws a 879 from deck 452
+player 452 discards a 794 to deck 453
+player 452 current hand : 423 153 54 105 272 784 308 648 265 478 301 792 109 996 508 707 834 634 51 879 
+player 452 draws a 212 from deck 452
+player 452 discards a 423 to deck 453
+player 452 current hand : 153 54 105 272 784 308 648 265 478 301 792 109 996 508 707 834 634 51 879 212 
+player 452 draws a 179 from deck 452
+player 452 discards a 153 to deck 453
+player 452 current hand : 54 105 272 784 308 648 265 478 301 792 109 996 508 707 834 634 51 879 212 179 
+player 452 draws a 922 from deck 452
+player 452 discards a 54 to deck 453
+player 452 current hand : 105 272 784 308 648 265 478 301 792 109 996 508 707 834 634 51 879 212 179 922 
+player 452 draws a 105 from deck 452
+player 452 discards a 105 to deck 453
+player 452 current hand : 272 784 308 648 265 478 301 792 109 996 508 707 834 634 51 879 212 179 922 105 
+player 452 draws a 164 from deck 452
+player 452 discards a 272 to deck 453
+player 452 current hand : 784 308 648 265 478 301 792 109 996 508 707 834 634 51 879 212 179 922 105 164 
+player 452 draws a 893 from deck 452
+player 452 discards a 784 to deck 453
+player 452 current hand : 308 648 265 478 301 792 109 996 508 707 834 634 51 879 212 179 922 105 164 893 
+player 452 draws a 909 from deck 452
+player 452 discards a 308 to deck 453
+player 452 current hand : 648 265 478 301 792 109 996 508 707 834 634 51 879 212 179 922 105 164 893 909 
+player 452 draws a 65 from deck 452
+player 452 discards a 648 to deck 453
+player 452 current hand : 265 478 301 792 109 996 508 707 834 634 51 879 212 179 922 105 164 893 909 65 
+player 452 draws a 925 from deck 452
+player 452 discards a 265 to deck 453
+player 452 current hand : 478 301 792 109 996 508 707 834 634 51 879 212 179 922 105 164 893 909 65 925 
+player 452 draws a 474 from deck 452
+player 452 discards a 478 to deck 453
+player 452 current hand : 301 792 109 996 508 707 834 634 51 879 212 179 922 105 164 893 909 65 925 474 
+player 452 draws a 342 from deck 452
+player 452 discards a 301 to deck 453
+player 452 current hand : 792 109 996 508 707 834 634 51 879 212 179 922 105 164 893 909 65 925 474 342 
+player 452 draws a 322 from deck 452
+player 452 discards a 792 to deck 453
+player 452 current hand : 109 996 508 707 834 634 51 879 212 179 922 105 164 893 909 65 925 474 342 322 
+player 452 draws a 223 from deck 452
+player 452 discards a 109 to deck 453
+player 452 current hand : 996 508 707 834 634 51 879 212 179 922 105 164 893 909 65 925 474 342 322 223 
+player 452 draws a 535 from deck 452
+player 452 discards a 996 to deck 453
+player 452 current hand : 508 707 834 634 51 879 212 179 922 105 164 893 909 65 925 474 342 322 223 535 
+player 452 draws a 826 from deck 452
+player 452 discards a 508 to deck 453
+player 452 current hand : 707 834 634 51 879 212 179 922 105 164 893 909 65 925 474 342 322 223 535 826 
+player 452 draws a 241 from deck 452
+player 452 discards a 707 to deck 453
+player 452 current hand : 834 634 51 879 212 179 922 105 164 893 909 65 925 474 342 322 223 535 826 241 
+player 452 draws a 659 from deck 452
+player 452 discards a 834 to deck 453
+player 452 current hand : 634 51 879 212 179 922 105 164 893 909 65 925 474 342 322 223 535 826 241 659 
+player 452 draws a 792 from deck 452
+player 452 discards a 634 to deck 453
+player 452 current hand : 51 879 212 179 922 105 164 893 909 65 925 474 342 322 223 535 826 241 659 792 
+player 452 draws a 74 from deck 452
+player 452 discards a 51 to deck 453
+player 452 current hand : 879 212 179 922 105 164 893 909 65 925 474 342 322 223 535 826 241 659 792 74 
+player 452 draws a 535 from deck 452
+player 452 discards a 879 to deck 453
+player 452 current hand : 212 179 922 105 164 893 909 65 925 474 342 322 223 535 826 241 659 792 74 535 
+player 452 draws a 296 from deck 452
+player 452 discards a 212 to deck 453
+player 452 current hand : 179 922 105 164 893 909 65 925 474 342 322 223 535 826 241 659 792 74 535 296 
+player 452 draws a 155 from deck 452
+player 452 discards a 179 to deck 453
+player 452 current hand : 922 105 164 893 909 65 925 474 342 322 223 535 826 241 659 792 74 535 296 155 
+player 452 draws a 537 from deck 452
+player 452 discards a 922 to deck 453
+player 452 current hand : 105 164 893 909 65 925 474 342 322 223 535 826 241 659 792 74 535 296 155 537 
+player 452 draws a 261 from deck 452
+player 452 discards a 105 to deck 453
+player 452 current hand : 164 893 909 65 925 474 342 322 223 535 826 241 659 792 74 535 296 155 537 261 
+player 452 draws a 542 from deck 452
+player 452 discards a 164 to deck 453
+player 452 current hand : 893 909 65 925 474 342 322 223 535 826 241 659 792 74 535 296 155 537 261 542 
+player 452 draws a 403 from deck 452
+player 452 discards a 893 to deck 453
+player 452 current hand : 909 65 925 474 342 322 223 535 826 241 659 792 74 535 296 155 537 261 542 403 
+player 452 draws a 474 from deck 452
+player 452 discards a 909 to deck 453
+player 452 current hand : 65 925 474 342 322 223 535 826 241 659 792 74 535 296 155 537 261 542 403 474 
+player 452 draws a 580 from deck 452
+player 452 discards a 65 to deck 453
+player 452 current hand : 925 474 342 322 223 535 826 241 659 792 74 535 296 155 537 261 542 403 474 580 
+player 452 draws a 378 from deck 452
+player 452 discards a 925 to deck 453
+player 452 current hand : 474 342 322 223 535 826 241 659 792 74 535 296 155 537 261 542 403 474 580 378 
+player 452 draws a 993 from deck 452
+player 452 discards a 474 to deck 453
+player 452 current hand : 342 322 223 535 826 241 659 792 74 535 296 155 537 261 542 403 474 580 378 993 
+player 452 draws a 117 from deck 452
+player 452 discards a 342 to deck 453
+player 452 current hand : 322 223 535 826 241 659 792 74 535 296 155 537 261 542 403 474 580 378 993 117 
+player 452 draws a 38 from deck 452
+player 452 discards a 322 to deck 453
+player 452 current hand : 223 535 826 241 659 792 74 535 296 155 537 261 542 403 474 580 378 993 117 38 
+player 452 draws a 19 from deck 452
+player 452 discards a 223 to deck 453
+player 452 current hand : 535 826 241 659 792 74 535 296 155 537 261 542 403 474 580 378 993 117 38 19 
+player 452 draws a 970 from deck 452
+player 452 discards a 535 to deck 453
+player 452 current hand : 826 241 659 792 74 535 296 155 537 261 542 403 474 580 378 993 117 38 19 970 
+player 452 draws a 438 from deck 452
+player 452 discards a 826 to deck 453
+player 452 current hand : 241 659 792 74 535 296 155 537 261 542 403 474 580 378 993 117 38 19 970 438 
+player 452 draws a 320 from deck 452
+player 452 discards a 241 to deck 453
+player 452 current hand : 659 792 74 535 296 155 537 261 542 403 474 580 378 993 117 38 19 970 438 320 
+player 452 draws a 776 from deck 452
+player 452 discards a 659 to deck 453
+player 452 current hand : 792 74 535 296 155 537 261 542 403 474 580 378 993 117 38 19 970 438 320 776 
+player 452 draws a 376 from deck 452
+player 452 discards a 792 to deck 453
+player 452 current hand : 74 535 296 155 537 261 542 403 474 580 378 993 117 38 19 970 438 320 776 376 
+player 452 draws a 42 from deck 452
+player 452 discards a 74 to deck 453
+player 452 current hand : 535 296 155 537 261 542 403 474 580 378 993 117 38 19 970 438 320 776 376 42 
+player 452 draws a 751 from deck 452
+player 452 discards a 535 to deck 453
+player 452 current hand : 296 155 537 261 542 403 474 580 378 993 117 38 19 970 438 320 776 376 42 751 
+player 452 draws a 205 from deck 452
+player 452 discards a 296 to deck 453
+player 452 current hand : 155 537 261 542 403 474 580 378 993 117 38 19 970 438 320 776 376 42 751 205 
+player 452 draws a 8 from deck 452
+player 452 discards a 155 to deck 453
+player 452 current hand : 537 261 542 403 474 580 378 993 117 38 19 970 438 320 776 376 42 751 205 8 
+player 452 draws a 234 from deck 452
+player 452 discards a 537 to deck 453
+player 452 current hand : 261 542 403 474 580 378 993 117 38 19 970 438 320 776 376 42 751 205 8 234 
+player 452 draws a 111 from deck 452
+player 452 discards a 261 to deck 453
+player 452 current hand : 542 403 474 580 378 993 117 38 19 970 438 320 776 376 42 751 205 8 234 111 
+player 452 draws a 351 from deck 452
+player 452 discards a 542 to deck 453
+player 452 current hand : 403 474 580 378 993 117 38 19 970 438 320 776 376 42 751 205 8 234 111 351 
+player 452 draws a 4 from deck 452
+player 452 discards a 403 to deck 453
+player 452 current hand : 474 580 378 993 117 38 19 970 438 320 776 376 42 751 205 8 234 111 351 4 
+player 452 draws a 22 from deck 452
+player 452 discards a 474 to deck 453
+player 452 current hand : 580 378 993 117 38 19 970 438 320 776 376 42 751 205 8 234 111 351 4 22 
+player 452 draws a 905 from deck 452
+player 452 discards a 580 to deck 453
+player 452 current hand : 378 993 117 38 19 970 438 320 776 376 42 751 205 8 234 111 351 4 22 905 
+player 452 draws a 620 from deck 452
+player 452 discards a 378 to deck 453
+player 452 current hand : 993 117 38 19 970 438 320 776 376 42 751 205 8 234 111 351 4 22 905 620 
+player 452 draws a 301 from deck 452
+player 452 discards a 993 to deck 453
+player 452 current hand : 117 38 19 970 438 320 776 376 42 751 205 8 234 111 351 4 22 905 620 301 
+player 452 draws a 600 from deck 452
+player 452 discards a 117 to deck 453
+player 452 current hand : 38 19 970 438 320 776 376 42 751 205 8 234 111 351 4 22 905 620 301 600 
+player 452 draws a 400 from deck 452
+player 452 discards a 38 to deck 453
+player 452 current hand : 19 970 438 320 776 376 42 751 205 8 234 111 351 4 22 905 620 301 600 400 
+player 452 draws a 893 from deck 452
+player 452 discards a 19 to deck 453
+player 452 current hand : 970 438 320 776 376 42 751 205 8 234 111 351 4 22 905 620 301 600 400 893 
+player 452 draws a 169 from deck 452
+player 452 discards a 970 to deck 453
+player 452 current hand : 438 320 776 376 42 751 205 8 234 111 351 4 22 905 620 301 600 400 893 169 
+player 452 draws a 579 from deck 452

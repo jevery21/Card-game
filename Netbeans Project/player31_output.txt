@@ -1,0 +1,314 @@
+player 31 initial hand 343 720 893 179 960 320 267 485 326 681 326 654 31 749 125 509 417 984 867 853 
+player 31 draws a 723 from deck 31
+player 31 discards a 343 to deck 32
+player 31 current hand : 720 893 179 960 320 267 485 326 681 326 654 31 749 125 509 417 984 867 853 723 
+player 31 draws a 632 from deck 31
+player 31 discards a 720 to deck 32
+player 31 current hand : 893 179 960 320 267 485 326 681 326 654 31 749 125 509 417 984 867 853 723 632 
+player 31 draws a 562 from deck 31
+player 31 discards a 893 to deck 32
+player 31 current hand : 179 960 320 267 485 326 681 326 654 31 749 125 509 417 984 867 853 723 632 562 
+player 31 draws a 712 from deck 31
+player 31 discards a 179 to deck 32
+player 31 current hand : 960 320 267 485 326 681 326 654 31 749 125 509 417 984 867 853 723 632 562 712 
+player 31 draws a 171 from deck 31
+player 31 discards a 960 to deck 32
+player 31 current hand : 320 267 485 326 681 326 654 31 749 125 509 417 984 867 853 723 632 562 712 171 
+player 31 draws a 458 from deck 31
+player 31 discards a 320 to deck 32
+player 31 current hand : 267 485 326 681 326 654 31 749 125 509 417 984 867 853 723 632 562 712 171 458 
+player 31 draws a 988 from deck 31
+player 31 discards a 267 to deck 32
+player 31 current hand : 485 326 681 326 654 31 749 125 509 417 984 867 853 723 632 562 712 171 458 988 
+player 31 draws a 530 from deck 31
+player 31 discards a 485 to deck 32
+player 31 current hand : 326 681 326 654 31 749 125 509 417 984 867 853 723 632 562 712 171 458 988 530 
+player 31 draws a 535 from deck 31
+player 31 discards a 326 to deck 32
+player 31 current hand : 681 326 654 31 749 125 509 417 984 867 853 723 632 562 712 171 458 988 530 535 
+player 31 draws a 778 from deck 31
+player 31 discards a 681 to deck 32
+player 31 current hand : 326 654 31 749 125 509 417 984 867 853 723 632 562 712 171 458 988 530 535 778 
+player 31 draws a 773 from deck 31
+player 31 discards a 326 to deck 32
+player 31 current hand : 654 31 749 125 509 417 984 867 853 723 632 562 712 171 458 988 530 535 778 773 
+player 31 draws a 901 from deck 31
+player 31 discards a 654 to deck 32
+player 31 current hand : 31 749 125 509 417 984 867 853 723 632 562 712 171 458 988 530 535 778 773 901 
+player 31 draws a 99 from deck 31
+player 31 discards a 749 to deck 32
+player 31 current hand : 31 125 509 417 984 867 853 723 632 562 712 171 458 988 530 535 778 773 901 99 
+player 31 draws a 736 from deck 31
+player 31 discards a 125 to deck 32
+player 31 current hand : 31 509 417 984 867 853 723 632 562 712 171 458 988 530 535 778 773 901 99 736 
+player 31 draws a 737 from deck 31
+player 31 discards a 509 to deck 32
+player 31 current hand : 31 417 984 867 853 723 632 562 712 171 458 988 530 535 778 773 901 99 736 737 
+player 31 draws a 219 from deck 31
+player 31 discards a 417 to deck 32
+player 31 current hand : 31 984 867 853 723 632 562 712 171 458 988 530 535 778 773 901 99 736 737 219 
+player 31 draws a 646 from deck 31
+player 31 discards a 984 to deck 32
+player 31 current hand : 31 867 853 723 632 562 712 171 458 988 530 535 778 773 901 99 736 737 219 646 
+player 31 draws a 460 from deck 31
+player 31 discards a 867 to deck 32
+player 31 current hand : 31 853 723 632 562 712 171 458 988 530 535 778 773 901 99 736 737 219 646 460 
+player 31 draws a 816 from deck 31
+player 31 discards a 853 to deck 32
+player 31 current hand : 31 723 632 562 712 171 458 988 530 535 778 773 901 99 736 737 219 646 460 816 
+player 31 draws a 530 from deck 31
+player 31 discards a 723 to deck 32
+player 31 current hand : 31 632 562 712 171 458 988 530 535 778 773 901 99 736 737 219 646 460 816 530 
+player 31 draws a 267 from deck 31
+player 31 discards a 632 to deck 32
+player 31 current hand : 31 562 712 171 458 988 530 535 778 773 901 99 736 737 219 646 460 816 530 267 
+player 31 draws a 601 from deck 31
+player 31 discards a 562 to deck 32
+player 31 current hand : 31 712 171 458 988 530 535 778 773 901 99 736 737 219 646 460 816 530 267 601 
+player 31 draws a 7 from deck 31
+player 31 discards a 712 to deck 32
+player 31 current hand : 31 171 458 988 530 535 778 773 901 99 736 737 219 646 460 816 530 267 601 7 
+player 31 draws a 568 from deck 31
+player 31 discards a 171 to deck 32
+player 31 current hand : 31 458 988 530 535 778 773 901 99 736 737 219 646 460 816 530 267 601 7 568 
+player 31 draws a 11 from deck 31
+player 31 discards a 458 to deck 32
+player 31 current hand : 31 988 530 535 778 773 901 99 736 737 219 646 460 816 530 267 601 7 568 11 
+player 31 draws a 91 from deck 31
+player 31 discards a 988 to deck 32
+player 31 current hand : 31 530 535 778 773 901 99 736 737 219 646 460 816 530 267 601 7 568 11 91 
+player 31 draws a 252 from deck 31
+player 31 discards a 530 to deck 32
+player 31 current hand : 31 535 778 773 901 99 736 737 219 646 460 816 530 267 601 7 568 11 91 252 
+player 31 draws a 47 from deck 31
+player 31 discards a 535 to deck 32
+player 31 current hand : 31 778 773 901 99 736 737 219 646 460 816 530 267 601 7 568 11 91 252 47 
+player 31 draws a 765 from deck 31
+player 31 discards a 778 to deck 32
+player 31 current hand : 31 773 901 99 736 737 219 646 460 816 530 267 601 7 568 11 91 252 47 765 
+player 31 draws a 690 from deck 31
+player 31 discards a 773 to deck 32
+player 31 current hand : 31 901 99 736 737 219 646 460 816 530 267 601 7 568 11 91 252 47 765 690 
+player 31 draws a 595 from deck 31
+player 31 discards a 901 to deck 32
+player 31 current hand : 31 99 736 737 219 646 460 816 530 267 601 7 568 11 91 252 47 765 690 595 
+player 31 draws a 644 from deck 31
+player 31 discards a 99 to deck 32
+player 31 current hand : 31 736 737 219 646 460 816 530 267 601 7 568 11 91 252 47 765 690 595 644 
+player 31 draws a 658 from deck 31
+player 31 discards a 736 to deck 32
+player 31 current hand : 31 737 219 646 460 816 530 267 601 7 568 11 91 252 47 765 690 595 644 658 
+player 31 draws a 7 from deck 31
+player 31 discards a 737 to deck 32
+player 31 current hand : 31 219 646 460 816 530 267 601 7 568 11 91 252 47 765 690 595 644 658 7 
+player 31 draws a 557 from deck 31
+player 31 discards a 219 to deck 32
+player 31 current hand : 31 646 460 816 530 267 601 7 568 11 91 252 47 765 690 595 644 658 7 557 
+player 31 draws a 253 from deck 31
+player 31 discards a 646 to deck 32
+player 31 current hand : 31 460 816 530 267 601 7 568 11 91 252 47 765 690 595 644 658 7 557 253 
+player 31 draws a 200 from deck 31
+player 31 discards a 460 to deck 32
+player 31 current hand : 31 816 530 267 601 7 568 11 91 252 47 765 690 595 644 658 7 557 253 200 
+player 31 draws a 867 from deck 31
+player 31 discards a 816 to deck 32
+player 31 current hand : 31 530 267 601 7 568 11 91 252 47 765 690 595 644 658 7 557 253 200 867 
+player 31 draws a 877 from deck 31
+player 31 discards a 530 to deck 32
+player 31 current hand : 31 267 601 7 568 11 91 252 47 765 690 595 644 658 7 557 253 200 867 877 
+player 31 draws a 460 from deck 31
+player 31 discards a 267 to deck 32
+player 31 current hand : 31 601 7 568 11 91 252 47 765 690 595 644 658 7 557 253 200 867 877 460 
+player 31 draws a 947 from deck 31
+player 31 discards a 601 to deck 32
+player 31 current hand : 31 7 568 11 91 252 47 765 690 595 644 658 7 557 253 200 867 877 460 947 
+player 31 draws a 409 from deck 31
+player 31 discards a 7 to deck 32
+player 31 current hand : 31 568 11 91 252 47 765 690 595 644 658 7 557 253 200 867 877 460 947 409 
+player 31 draws a 37 from deck 31
+player 31 discards a 568 to deck 32
+player 31 current hand : 31 11 91 252 47 765 690 595 644 658 7 557 253 200 867 877 460 947 409 37 
+player 31 draws a 862 from deck 31
+player 31 discards a 11 to deck 32
+player 31 current hand : 31 91 252 47 765 690 595 644 658 7 557 253 200 867 877 460 947 409 37 862 
+player 31 draws a 9 from deck 31
+player 31 discards a 91 to deck 32
+player 31 current hand : 31 252 47 765 690 595 644 658 7 557 253 200 867 877 460 947 409 37 862 9 
+player 31 draws a 631 from deck 31
+player 31 discards a 252 to deck 32
+player 31 current hand : 31 47 765 690 595 644 658 7 557 253 200 867 877 460 947 409 37 862 9 631 
+player 31 draws a 198 from deck 31
+player 31 discards a 47 to deck 32
+player 31 current hand : 31 765 690 595 644 658 7 557 253 200 867 877 460 947 409 37 862 9 631 198 
+player 31 draws a 267 from deck 31
+player 31 discards a 765 to deck 32
+player 31 current hand : 31 690 595 644 658 7 557 253 200 867 877 460 947 409 37 862 9 631 198 267 
+player 31 draws a 396 from deck 31
+player 31 discards a 690 to deck 32
+player 31 current hand : 31 595 644 658 7 557 253 200 867 877 460 947 409 37 862 9 631 198 267 396 
+player 31 draws a 124 from deck 31
+player 31 discards a 595 to deck 32
+player 31 current hand : 31 644 658 7 557 253 200 867 877 460 947 409 37 862 9 631 198 267 396 124 
+player 31 draws a 774 from deck 31
+player 31 discards a 644 to deck 32
+player 31 current hand : 31 658 7 557 253 200 867 877 460 947 409 37 862 9 631 198 267 396 124 774 
+player 31 draws a 199 from deck 31
+player 31 discards a 658 to deck 32
+player 31 current hand : 31 7 557 253 200 867 877 460 947 409 37 862 9 631 198 267 396 124 774 199 
+player 31 draws a 981 from deck 31
+player 31 discards a 7 to deck 32
+player 31 current hand : 31 557 253 200 867 877 460 947 409 37 862 9 631 198 267 396 124 774 199 981 
+player 31 draws a 608 from deck 31
+player 31 discards a 557 to deck 32
+player 31 current hand : 31 253 200 867 877 460 947 409 37 862 9 631 198 267 396 124 774 199 981 608 
+player 31 draws a 657 from deck 31
+player 31 discards a 253 to deck 32
+player 31 current hand : 31 200 867 877 460 947 409 37 862 9 631 198 267 396 124 774 199 981 608 657 
+player 31 draws a 262 from deck 31
+player 31 discards a 200 to deck 32
+player 31 current hand : 31 867 877 460 947 409 37 862 9 631 198 267 396 124 774 199 981 608 657 262 
+player 31 draws a 409 from deck 31
+player 31 discards a 867 to deck 32
+player 31 current hand : 31 877 460 947 409 37 862 9 631 198 267 396 124 774 199 981 608 657 262 409 
+player 31 draws a 900 from deck 31
+player 31 discards a 877 to deck 32
+player 31 current hand : 31 460 947 409 37 862 9 631 198 267 396 124 774 199 981 608 657 262 409 900 
+player 31 draws a 92 from deck 31
+player 31 discards a 460 to deck 32
+player 31 current hand : 31 947 409 37 862 9 631 198 267 396 124 774 199 981 608 657 262 409 900 92 
+player 31 draws a 964 from deck 31
+player 31 discards a 947 to deck 32
+player 31 current hand : 31 409 37 862 9 631 198 267 396 124 774 199 981 608 657 262 409 900 92 964 
+player 31 draws a 775 from deck 31
+player 31 discards a 409 to deck 32
+player 31 current hand : 31 37 862 9 631 198 267 396 124 774 199 981 608 657 262 409 900 92 964 775 
+player 31 draws a 277 from deck 31
+player 31 discards a 37 to deck 32
+player 31 current hand : 31 862 9 631 198 267 396 124 774 199 981 608 657 262 409 900 92 964 775 277 
+player 31 draws a 972 from deck 31
+player 31 discards a 862 to deck 32
+player 31 current hand : 31 9 631 198 267 396 124 774 199 981 608 657 262 409 900 92 964 775 277 972 
+player 31 draws a 12 from deck 31
+player 31 discards a 9 to deck 32
+player 31 current hand : 31 631 198 267 396 124 774 199 981 608 657 262 409 900 92 964 775 277 972 12 
+player 31 draws a 256 from deck 31
+player 31 discards a 631 to deck 32
+player 31 current hand : 31 198 267 396 124 774 199 981 608 657 262 409 900 92 964 775 277 972 12 256 
+player 31 draws a 831 from deck 31
+player 31 discards a 198 to deck 32
+player 31 current hand : 31 267 396 124 774 199 981 608 657 262 409 900 92 964 775 277 972 12 256 831 
+player 31 draws a 161 from deck 31
+player 31 discards a 267 to deck 32
+player 31 current hand : 31 396 124 774 199 981 608 657 262 409 900 92 964 775 277 972 12 256 831 161 
+player 31 draws a 27 from deck 31
+player 31 discards a 396 to deck 32
+player 31 current hand : 31 124 774 199 981 608 657 262 409 900 92 964 775 277 972 12 256 831 161 27 
+player 31 draws a 926 from deck 31
+player 31 discards a 124 to deck 32
+player 31 current hand : 31 774 199 981 608 657 262 409 900 92 964 775 277 972 12 256 831 161 27 926 
+player 31 draws a 778 from deck 31
+player 31 discards a 774 to deck 32
+player 31 current hand : 31 199 981 608 657 262 409 900 92 964 775 277 972 12 256 831 161 27 926 778 
+player 31 draws a 852 from deck 31
+player 31 discards a 199 to deck 32
+player 31 current hand : 31 981 608 657 262 409 900 92 964 775 277 972 12 256 831 161 27 926 778 852 
+player 31 draws a 326 from deck 31
+player 31 discards a 981 to deck 32
+player 31 current hand : 31 608 657 262 409 900 92 964 775 277 972 12 256 831 161 27 926 778 852 326 
+player 31 draws a 267 from deck 31
+player 31 discards a 608 to deck 32
+player 31 current hand : 31 657 262 409 900 92 964 775 277 972 12 256 831 161 27 926 778 852 326 267 
+player 31 draws a 320 from deck 31
+player 31 discards a 657 to deck 32
+player 31 current hand : 31 262 409 900 92 964 775 277 972 12 256 831 161 27 926 778 852 326 267 320 
+player 31 draws a 657 from deck 31
+player 31 discards a 262 to deck 32
+player 31 current hand : 31 409 900 92 964 775 277 972 12 256 831 161 27 926 778 852 326 267 320 657 
+player 31 draws a 562 from deck 31
+player 31 discards a 409 to deck 32
+player 31 current hand : 31 900 92 964 775 277 972 12 256 831 161 27 926 778 852 326 267 320 657 562 
+player 31 draws a 402 from deck 31
+player 31 discards a 900 to deck 32
+player 31 current hand : 31 92 964 775 277 972 12 256 831 161 27 926 778 852 326 267 320 657 562 402 
+player 31 draws a 740 from deck 31
+player 31 discards a 92 to deck 32
+player 31 current hand : 31 964 775 277 972 12 256 831 161 27 926 778 852 326 267 320 657 562 402 740 
+player 31 draws a 827 from deck 31
+player 31 discards a 964 to deck 32
+player 31 current hand : 31 775 277 972 12 256 831 161 27 926 778 852 326 267 320 657 562 402 740 827 
+player 31 draws a 239 from deck 31
+player 31 discards a 775 to deck 32
+player 31 current hand : 31 277 972 12 256 831 161 27 926 778 852 326 267 320 657 562 402 740 827 239 
+player 31 draws a 946 from deck 31
+player 31 discards a 277 to deck 32
+player 31 current hand : 31 972 12 256 831 161 27 926 778 852 326 267 320 657 562 402 740 827 239 946 
+player 31 draws a 399 from deck 31
+player 31 discards a 972 to deck 32
+player 31 current hand : 31 12 256 831 161 27 926 778 852 326 267 320 657 562 402 740 827 239 946 399 
+player 31 draws a 97 from deck 31
+player 31 discards a 12 to deck 32
+player 31 current hand : 31 256 831 161 27 926 778 852 326 267 320 657 562 402 740 827 239 946 399 97 
+player 31 draws a 866 from deck 31
+player 31 discards a 256 to deck 32
+player 31 current hand : 31 831 161 27 926 778 852 326 267 320 657 562 402 740 827 239 946 399 97 866 
+player 31 draws a 263 from deck 31
+player 31 discards a 831 to deck 32
+player 31 current hand : 31 161 27 926 778 852 326 267 320 657 562 402 740 827 239 946 399 97 866 263 
+player 31 draws a 184 from deck 31
+player 31 discards a 161 to deck 32
+player 31 current hand : 31 27 926 778 852 326 267 320 657 562 402 740 827 239 946 399 97 866 263 184 
+player 31 draws a 111 from deck 31
+player 31 discards a 27 to deck 32
+player 31 current hand : 31 926 778 852 326 267 320 657 562 402 740 827 239 946 399 97 866 263 184 111 
+player 31 draws a 239 from deck 31
+player 31 discards a 926 to deck 32
+player 31 current hand : 31 778 852 326 267 320 657 562 402 740 827 239 946 399 97 866 263 184 111 239 
+player 31 draws a 613 from deck 31
+player 31 discards a 778 to deck 32
+player 31 current hand : 31 852 326 267 320 657 562 402 740 827 239 946 399 97 866 263 184 111 239 613 
+player 31 draws a 562 from deck 31
+player 31 discards a 852 to deck 32
+player 31 current hand : 31 326 267 320 657 562 402 740 827 239 946 399 97 866 263 184 111 239 613 562 
+player 31 draws a 872 from deck 31
+player 31 discards a 326 to deck 32
+player 31 current hand : 31 267 320 657 562 402 740 827 239 946 399 97 866 263 184 111 239 613 562 872 
+player 31 draws a 448 from deck 31
+player 31 discards a 267 to deck 32
+player 31 current hand : 31 320 657 562 402 740 827 239 946 399 97 866 263 184 111 239 613 562 872 448 
+player 31 draws a 542 from deck 31
+player 31 discards a 320 to deck 32
+player 31 current hand : 31 657 562 402 740 827 239 946 399 97 866 263 184 111 239 613 562 872 448 542 
+player 31 draws a 105 from deck 31
+player 31 discards a 657 to deck 32
+player 31 current hand : 31 562 402 740 827 239 946 399 97 866 263 184 111 239 613 562 872 448 542 105 
+player 31 draws a 176 from deck 31
+player 31 discards a 562 to deck 32
+player 31 current hand : 31 402 740 827 239 946 399 97 866 263 184 111 239 613 562 872 448 542 105 176 
+player 31 draws a 9 from deck 31
+player 31 discards a 402 to deck 32
+player 31 current hand : 31 740 827 239 946 399 97 866 263 184 111 239 613 562 872 448 542 105 176 9 
+player 31 draws a 309 from deck 31
+player 31 discards a 740 to deck 32
+player 31 current hand : 31 827 239 946 399 97 866 263 184 111 239 613 562 872 448 542 105 176 9 309 
+player 31 draws a 145 from deck 31
+player 31 discards a 827 to deck 32
+player 31 current hand : 31 239 946 399 97 866 263 184 111 239 613 562 872 448 542 105 176 9 309 145 
+player 31 draws a 582 from deck 31
+player 31 discards a 239 to deck 32
+player 31 current hand : 31 946 399 97 866 263 184 111 239 613 562 872 448 542 105 176 9 309 145 582 
+player 31 draws a 319 from deck 31
+player 31 discards a 946 to deck 32
+player 31 current hand : 31 399 97 866 263 184 111 239 613 562 872 448 542 105 176 9 309 145 582 319 
+player 31 draws a 72 from deck 31
+player 31 discards a 399 to deck 32
+player 31 current hand : 31 97 866 263 184 111 239 613 562 872 448 542 105 176 9 309 145 582 319 72 
+player 31 draws a 7 from deck 31
+player 31 discards a 97 to deck 32
+player 31 current hand : 31 866 263 184 111 239 613 562 872 448 542 105 176 9 309 145 582 319 72 7 
+player 31 draws a 300 from deck 31
+player 31 discards a 866 to deck 32
+player 31 current hand : 31 263 184 111 239 613 562 872 448 542 105 176 9 309 145 582 319 72 7 300 
+player 31 draws a 494 from deck 31
+player 31 discards a 263 to deck 32
+player 31 current hand : 31 184 111 239 613 562 872 448 542 105 176 9 309 145 582 319 72 7 300 494 
+player 31 draws a 499 from deck 31

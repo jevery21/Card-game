@@ -1,0 +1,315 @@
+player 711 initial hand 870 898 415 819 254 799 71 15 805 286 472 1 522 605 751 620 467 767 532 4 
+player 711 draws a 57 from deck 711
+player 711 discards a 870 to deck 712
+player 711 current hand : 898 415 819 254 799 71 15 805 286 472 1 522 605 751 620 467 767 532 4 57 
+player 711 draws a 31 from deck 711
+player 711 discards a 898 to deck 712
+player 711 current hand : 415 819 254 799 71 15 805 286 472 1 522 605 751 620 467 767 532 4 57 31 
+player 711 draws a 649 from deck 711
+player 711 discards a 415 to deck 712
+player 711 current hand : 819 254 799 71 15 805 286 472 1 522 605 751 620 467 767 532 4 57 31 649 
+player 711 draws a 636 from deck 711
+player 711 discards a 819 to deck 712
+player 711 current hand : 254 799 71 15 805 286 472 1 522 605 751 620 467 767 532 4 57 31 649 636 
+player 711 draws a 123 from deck 711
+player 711 discards a 254 to deck 712
+player 711 current hand : 799 71 15 805 286 472 1 522 605 751 620 467 767 532 4 57 31 649 636 123 
+player 711 draws a 966 from deck 711
+player 711 discards a 799 to deck 712
+player 711 current hand : 71 15 805 286 472 1 522 605 751 620 467 767 532 4 57 31 649 636 123 966 
+player 711 draws a 829 from deck 711
+player 711 discards a 71 to deck 712
+player 711 current hand : 15 805 286 472 1 522 605 751 620 467 767 532 4 57 31 649 636 123 966 829 
+player 711 draws a 184 from deck 711
+player 711 discards a 15 to deck 712
+player 711 current hand : 805 286 472 1 522 605 751 620 467 767 532 4 57 31 649 636 123 966 829 184 
+player 711 draws a 548 from deck 711
+player 711 discards a 805 to deck 712
+player 711 current hand : 286 472 1 522 605 751 620 467 767 532 4 57 31 649 636 123 966 829 184 548 
+player 711 draws a 115 from deck 711
+player 711 discards a 286 to deck 712
+player 711 current hand : 472 1 522 605 751 620 467 767 532 4 57 31 649 636 123 966 829 184 548 115 
+player 711 draws a 498 from deck 711
+player 711 discards a 472 to deck 712
+player 711 current hand : 1 522 605 751 620 467 767 532 4 57 31 649 636 123 966 829 184 548 115 498 
+player 711 draws a 105 from deck 711
+player 711 discards a 1 to deck 712
+player 711 current hand : 522 605 751 620 467 767 532 4 57 31 649 636 123 966 829 184 548 115 498 105 
+player 711 draws a 856 from deck 711
+player 711 discards a 522 to deck 712
+player 711 current hand : 605 751 620 467 767 532 4 57 31 649 636 123 966 829 184 548 115 498 105 856 
+player 711 draws a 995 from deck 711
+player 711 discards a 605 to deck 712
+player 711 current hand : 751 620 467 767 532 4 57 31 649 636 123 966 829 184 548 115 498 105 856 995 
+player 711 draws a 706 from deck 711
+player 711 discards a 751 to deck 712
+player 711 current hand : 620 467 767 532 4 57 31 649 636 123 966 829 184 548 115 498 105 856 995 706 
+player 711 draws a 999 from deck 711
+player 711 discards a 620 to deck 712
+player 711 current hand : 467 767 532 4 57 31 649 636 123 966 829 184 548 115 498 105 856 995 706 999 
+player 711 draws a 74 from deck 711
+player 711 discards a 467 to deck 712
+player 711 current hand : 767 532 4 57 31 649 636 123 966 829 184 548 115 498 105 856 995 706 999 74 
+player 711 draws a 177 from deck 711
+player 711 discards a 767 to deck 712
+player 711 current hand : 532 4 57 31 649 636 123 966 829 184 548 115 498 105 856 995 706 999 74 177 
+player 711 draws a 793 from deck 711
+player 711 discards a 532 to deck 712
+player 711 current hand : 4 57 31 649 636 123 966 829 184 548 115 498 105 856 995 706 999 74 177 793 
+player 711 draws a 441 from deck 711
+player 711 discards a 4 to deck 712
+player 711 current hand : 57 31 649 636 123 966 829 184 548 115 498 105 856 995 706 999 74 177 793 441 
+player 711 draws a 241 from deck 711
+player 711 discards a 57 to deck 712
+player 711 current hand : 31 649 636 123 966 829 184 548 115 498 105 856 995 706 999 74 177 793 441 241 
+player 711 draws a 748 from deck 711
+player 711 discards a 31 to deck 712
+player 711 current hand : 649 636 123 966 829 184 548 115 498 105 856 995 706 999 74 177 793 441 241 748 
+player 711 draws a 686 from deck 711
+player 711 discards a 649 to deck 712
+player 711 current hand : 636 123 966 829 184 548 115 498 105 856 995 706 999 74 177 793 441 241 748 686 
+player 711 draws a 417 from deck 711
+player 711 discards a 636 to deck 712
+player 711 current hand : 123 966 829 184 548 115 498 105 856 995 706 999 74 177 793 441 241 748 686 417 
+player 711 draws a 518 from deck 711
+player 711 discards a 123 to deck 712
+player 711 current hand : 966 829 184 548 115 498 105 856 995 706 999 74 177 793 441 241 748 686 417 518 
+player 711 draws a 966 from deck 711
+player 711 discards a 966 to deck 712
+player 711 current hand : 829 184 548 115 498 105 856 995 706 999 74 177 793 441 241 748 686 417 518 966 
+player 711 draws a 805 from deck 711
+player 711 discards a 829 to deck 712
+player 711 current hand : 184 548 115 498 105 856 995 706 999 74 177 793 441 241 748 686 417 518 966 805 
+player 711 draws a 497 from deck 711
+player 711 discards a 184 to deck 712
+player 711 current hand : 548 115 498 105 856 995 706 999 74 177 793 441 241 748 686 417 518 966 805 497 
+player 711 draws a 42 from deck 711
+player 711 discards a 548 to deck 712
+player 711 current hand : 115 498 105 856 995 706 999 74 177 793 441 241 748 686 417 518 966 805 497 42 
+player 711 draws a 391 from deck 711
+player 711 discards a 115 to deck 712
+player 711 current hand : 498 105 856 995 706 999 74 177 793 441 241 748 686 417 518 966 805 497 42 391 
+player 711 draws a 136 from deck 711
+player 711 discards a 498 to deck 712
+player 711 current hand : 105 856 995 706 999 74 177 793 441 241 748 686 417 518 966 805 497 42 391 136 
+player 711 draws a 994 from deck 711
+player 711 discards a 105 to deck 712
+player 711 current hand : 856 995 706 999 74 177 793 441 241 748 686 417 518 966 805 497 42 391 136 994 
+player 711 draws a 623 from deck 711
+player 711 discards a 856 to deck 712
+player 711 current hand : 995 706 999 74 177 793 441 241 748 686 417 518 966 805 497 42 391 136 994 623 
+player 711 draws a 708 from deck 711
+player 711 discards a 995 to deck 712
+player 711 current hand : 706 999 74 177 793 441 241 748 686 417 518 966 805 497 42 391 136 994 623 708 
+player 711 draws a 932 from deck 711
+player 711 discards a 706 to deck 712
+player 711 current hand : 999 74 177 793 441 241 748 686 417 518 966 805 497 42 391 136 994 623 708 932 
+player 711 draws a 285 from deck 711
+player 711 discards a 999 to deck 712
+player 711 current hand : 74 177 793 441 241 748 686 417 518 966 805 497 42 391 136 994 623 708 932 285 
+player 711 draws a 707 from deck 711
+player 711 discards a 74 to deck 712
+player 711 current hand : 177 793 441 241 748 686 417 518 966 805 497 42 391 136 994 623 708 932 285 707 
+player 711 draws a 574 from deck 711
+player 711 discards a 177 to deck 712
+player 711 current hand : 793 441 241 748 686 417 518 966 805 497 42 391 136 994 623 708 932 285 707 574 
+player 711 draws a 511 from deck 711
+player 711 discards a 793 to deck 712
+player 711 current hand : 441 241 748 686 417 518 966 805 497 42 391 136 994 623 708 932 285 707 574 511 
+player 711 draws a 315 from deck 711
+player 711 discards a 441 to deck 712
+player 711 current hand : 241 748 686 417 518 966 805 497 42 391 136 994 623 708 932 285 707 574 511 315 
+player 711 draws a 264 from deck 711
+player 711 discards a 241 to deck 712
+player 711 current hand : 748 686 417 518 966 805 497 42 391 136 994 623 708 932 285 707 574 511 315 264 
+player 711 draws a 342 from deck 711
+player 711 discards a 748 to deck 712
+player 711 current hand : 686 417 518 966 805 497 42 391 136 994 623 708 932 285 707 574 511 315 264 342 
+player 711 draws a 37 from deck 711
+player 711 discards a 686 to deck 712
+player 711 current hand : 417 518 966 805 497 42 391 136 994 623 708 932 285 707 574 511 315 264 342 37 
+player 711 draws a 631 from deck 711
+player 711 discards a 417 to deck 712
+player 711 current hand : 518 966 805 497 42 391 136 994 623 708 932 285 707 574 511 315 264 342 37 631 
+player 711 draws a 49 from deck 711
+player 711 discards a 518 to deck 712
+player 711 current hand : 966 805 497 42 391 136 994 623 708 932 285 707 574 511 315 264 342 37 631 49 
+player 711 draws a 775 from deck 711
+player 711 discards a 966 to deck 712
+player 711 current hand : 805 497 42 391 136 994 623 708 932 285 707 574 511 315 264 342 37 631 49 775 
+player 711 draws a 902 from deck 711
+player 711 discards a 805 to deck 712
+player 711 current hand : 497 42 391 136 994 623 708 932 285 707 574 511 315 264 342 37 631 49 775 902 
+player 711 draws a 410 from deck 711
+player 711 discards a 497 to deck 712
+player 711 current hand : 42 391 136 994 623 708 932 285 707 574 511 315 264 342 37 631 49 775 902 410 
+player 711 draws a 894 from deck 711
+player 711 discards a 42 to deck 712
+player 711 current hand : 391 136 994 623 708 932 285 707 574 511 315 264 342 37 631 49 775 902 410 894 
+player 711 draws a 446 from deck 711
+player 711 discards a 391 to deck 712
+player 711 current hand : 136 994 623 708 932 285 707 574 511 315 264 342 37 631 49 775 902 410 894 446 
+player 711 draws a 543 from deck 711
+player 711 discards a 136 to deck 712
+player 711 current hand : 994 623 708 932 285 707 574 511 315 264 342 37 631 49 775 902 410 894 446 543 
+player 711 draws a 267 from deck 711
+player 711 discards a 994 to deck 712
+player 711 current hand : 623 708 932 285 707 574 511 315 264 342 37 631 49 775 902 410 894 446 543 267 
+player 711 draws a 686 from deck 711
+player 711 discards a 623 to deck 712
+player 711 current hand : 708 932 285 707 574 511 315 264 342 37 631 49 775 902 410 894 446 543 267 686 
+player 711 draws a 657 from deck 711
+player 711 discards a 708 to deck 712
+player 711 current hand : 932 285 707 574 511 315 264 342 37 631 49 775 902 410 894 446 543 267 686 657 
+player 711 draws a 979 from deck 711
+player 711 discards a 932 to deck 712
+player 711 current hand : 285 707 574 511 315 264 342 37 631 49 775 902 410 894 446 543 267 686 657 979 
+player 711 draws a 391 from deck 711
+player 711 discards a 285 to deck 712
+player 711 current hand : 707 574 511 315 264 342 37 631 49 775 902 410 894 446 543 267 686 657 979 391 
+player 711 draws a 272 from deck 711
+player 711 discards a 707 to deck 712
+player 711 current hand : 574 511 315 264 342 37 631 49 775 902 410 894 446 543 267 686 657 979 391 272 
+player 711 draws a 817 from deck 711
+player 711 discards a 574 to deck 712
+player 711 current hand : 511 315 264 342 37 631 49 775 902 410 894 446 543 267 686 657 979 391 272 817 
+player 711 draws a 13 from deck 711
+player 711 discards a 511 to deck 712
+player 711 current hand : 315 264 342 37 631 49 775 902 410 894 446 543 267 686 657 979 391 272 817 13 
+player 711 draws a 346 from deck 711
+player 711 discards a 315 to deck 712
+player 711 current hand : 264 342 37 631 49 775 902 410 894 446 543 267 686 657 979 391 272 817 13 346 
+player 711 draws a 632 from deck 711
+player 711 discards a 264 to deck 712
+player 711 current hand : 342 37 631 49 775 902 410 894 446 543 267 686 657 979 391 272 817 13 346 632 
+player 711 draws a 809 from deck 711
+player 711 discards a 342 to deck 712
+player 711 current hand : 37 631 49 775 902 410 894 446 543 267 686 657 979 391 272 817 13 346 632 809 
+player 711 draws a 284 from deck 711
+player 711 discards a 37 to deck 712
+player 711 current hand : 631 49 775 902 410 894 446 543 267 686 657 979 391 272 817 13 346 632 809 284 
+player 711 draws a 714 from deck 711
+player 711 discards a 631 to deck 712
+player 711 current hand : 49 775 902 410 894 446 543 267 686 657 979 391 272 817 13 346 632 809 284 714 
+player 711 draws a 902 from deck 711
+player 711 discards a 49 to deck 712
+player 711 current hand : 775 902 410 894 446 543 267 686 657 979 391 272 817 13 346 632 809 284 714 902 
+player 711 draws a 231 from deck 711
+player 711 discards a 775 to deck 712
+player 711 current hand : 902 410 894 446 543 267 686 657 979 391 272 817 13 346 632 809 284 714 902 231 
+player 711 draws a 156 from deck 711
+player 711 discards a 902 to deck 712
+player 711 current hand : 410 894 446 543 267 686 657 979 391 272 817 13 346 632 809 284 714 902 231 156 
+player 711 draws a 24 from deck 711
+player 711 discards a 410 to deck 712
+player 711 current hand : 894 446 543 267 686 657 979 391 272 817 13 346 632 809 284 714 902 231 156 24 
+player 711 draws a 647 from deck 711
+player 711 discards a 894 to deck 712
+player 711 current hand : 446 543 267 686 657 979 391 272 817 13 346 632 809 284 714 902 231 156 24 647 
+player 711 draws a 666 from deck 711
+player 711 discards a 446 to deck 712
+player 711 current hand : 543 267 686 657 979 391 272 817 13 346 632 809 284 714 902 231 156 24 647 666 
+player 711 draws a 655 from deck 711
+player 711 discards a 543 to deck 712
+player 711 current hand : 267 686 657 979 391 272 817 13 346 632 809 284 714 902 231 156 24 647 666 655 
+player 711 draws a 651 from deck 711
+player 711 discards a 267 to deck 712
+player 711 current hand : 686 657 979 391 272 817 13 346 632 809 284 714 902 231 156 24 647 666 655 651 
+player 711 draws a 776 from deck 711
+player 711 discards a 686 to deck 712
+player 711 current hand : 657 979 391 272 817 13 346 632 809 284 714 902 231 156 24 647 666 655 651 776 
+player 711 draws a 440 from deck 711
+player 711 discards a 657 to deck 712
+player 711 current hand : 979 391 272 817 13 346 632 809 284 714 902 231 156 24 647 666 655 651 776 440 
+player 711 draws a 834 from deck 711
+player 711 discards a 979 to deck 712
+player 711 current hand : 391 272 817 13 346 632 809 284 714 902 231 156 24 647 666 655 651 776 440 834 
+player 711 draws a 120 from deck 711
+player 711 discards a 391 to deck 712
+player 711 current hand : 272 817 13 346 632 809 284 714 902 231 156 24 647 666 655 651 776 440 834 120 
+player 711 draws a 816 from deck 711
+player 711 discards a 272 to deck 712
+player 711 current hand : 817 13 346 632 809 284 714 902 231 156 24 647 666 655 651 776 440 834 120 816 
+player 711 draws a 738 from deck 711
+player 711 discards a 817 to deck 712
+player 711 current hand : 13 346 632 809 284 714 902 231 156 24 647 666 655 651 776 440 834 120 816 738 
+player 711 draws a 505 from deck 711
+player 711 discards a 13 to deck 712
+player 711 current hand : 346 632 809 284 714 902 231 156 24 647 666 655 651 776 440 834 120 816 738 505 
+player 711 draws a 539 from deck 711
+player 711 discards a 346 to deck 712
+player 711 current hand : 632 809 284 714 902 231 156 24 647 666 655 651 776 440 834 120 816 738 505 539 
+player 711 draws a 787 from deck 711
+player 711 discards a 632 to deck 712
+player 711 current hand : 809 284 714 902 231 156 24 647 666 655 651 776 440 834 120 816 738 505 539 787 
+player 711 draws a 972 from deck 711
+player 711 discards a 809 to deck 712
+player 711 current hand : 284 714 902 231 156 24 647 666 655 651 776 440 834 120 816 738 505 539 787 972 
+player 711 draws a 969 from deck 711
+player 711 discards a 284 to deck 712
+player 711 current hand : 714 902 231 156 24 647 666 655 651 776 440 834 120 816 738 505 539 787 972 969 
+player 711 draws a 189 from deck 711
+player 711 discards a 714 to deck 712
+player 711 current hand : 902 231 156 24 647 666 655 651 776 440 834 120 816 738 505 539 787 972 969 189 
+player 711 draws a 270 from deck 711
+player 711 discards a 902 to deck 712
+player 711 current hand : 231 156 24 647 666 655 651 776 440 834 120 816 738 505 539 787 972 969 189 270 
+player 711 draws a 600 from deck 711
+player 711 discards a 231 to deck 712
+player 711 current hand : 156 24 647 666 655 651 776 440 834 120 816 738 505 539 787 972 969 189 270 600 
+player 711 draws a 409 from deck 711
+player 711 discards a 156 to deck 712
+player 711 current hand : 24 647 666 655 651 776 440 834 120 816 738 505 539 787 972 969 189 270 600 409 
+player 711 draws a 179 from deck 711
+player 711 discards a 24 to deck 712
+player 711 current hand : 647 666 655 651 776 440 834 120 816 738 505 539 787 972 969 189 270 600 409 179 
+player 711 draws a 305 from deck 711
+player 711 discards a 647 to deck 712
+player 711 current hand : 666 655 651 776 440 834 120 816 738 505 539 787 972 969 189 270 600 409 179 305 
+player 711 draws a 409 from deck 711
+player 711 discards a 666 to deck 712
+player 711 current hand : 655 651 776 440 834 120 816 738 505 539 787 972 969 189 270 600 409 179 305 409 
+player 711 draws a 391 from deck 711
+player 711 discards a 655 to deck 712
+player 711 current hand : 651 776 440 834 120 816 738 505 539 787 972 969 189 270 600 409 179 305 409 391 
+player 711 draws a 498 from deck 711
+player 711 discards a 651 to deck 712
+player 711 current hand : 776 440 834 120 816 738 505 539 787 972 969 189 270 600 409 179 305 409 391 498 
+player 711 draws a 164 from deck 711
+player 711 discards a 776 to deck 712
+player 711 current hand : 440 834 120 816 738 505 539 787 972 969 189 270 600 409 179 305 409 391 498 164 
+player 711 draws a 989 from deck 711
+player 711 discards a 440 to deck 712
+player 711 current hand : 834 120 816 738 505 539 787 972 969 189 270 600 409 179 305 409 391 498 164 989 
+player 711 draws a 774 from deck 711
+player 711 discards a 834 to deck 712
+player 711 current hand : 120 816 738 505 539 787 972 969 189 270 600 409 179 305 409 391 498 164 989 774 
+player 711 draws a 304 from deck 711
+player 711 discards a 120 to deck 712
+player 711 current hand : 816 738 505 539 787 972 969 189 270 600 409 179 305 409 391 498 164 989 774 304 
+player 711 draws a 159 from deck 711
+player 711 discards a 816 to deck 712
+player 711 current hand : 738 505 539 787 972 969 189 270 600 409 179 305 409 391 498 164 989 774 304 159 
+player 711 draws a 672 from deck 711
+player 711 discards a 738 to deck 712
+player 711 current hand : 505 539 787 972 969 189 270 600 409 179 305 409 391 498 164 989 774 304 159 672 
+player 711 draws a 870 from deck 711
+player 711 discards a 505 to deck 712
+player 711 current hand : 539 787 972 969 189 270 600 409 179 305 409 391 498 164 989 774 304 159 672 870 
+player 711 draws a 744 from deck 711
+player 711 discards a 539 to deck 712
+player 711 current hand : 787 972 969 189 270 600 409 179 305 409 391 498 164 989 774 304 159 672 870 744 
+player 711 draws a 763 from deck 711
+player 711 discards a 787 to deck 712
+player 711 current hand : 972 969 189 270 600 409 179 305 409 391 498 164 989 774 304 159 672 870 744 763 
+player 711 draws a 265 from deck 711
+player 711 discards a 972 to deck 712
+player 711 current hand : 969 189 270 600 409 179 305 409 391 498 164 989 774 304 159 672 870 744 763 265 
+player 711 draws a 598 from deck 711
+player 711 discards a 969 to deck 712
+player 711 current hand : 189 270 600 409 179 305 409 391 498 164 989 774 304 159 672 870 744 763 265 598 
+player 711 draws a 284 from deck 711
+player 711 discards a 189 to deck 712
+player 711 current hand : 270 600 409 179 305 409 391 498 164 989 774 304 159 672 870 744 763 265 598 284 
+player 711 draws a 824 from deck 711
+player 711 discards a 270 to deck 712

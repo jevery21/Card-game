@@ -1,0 +1,322 @@
+player 614 initial hand 720 535 419 906 736 222 701 815 319 309 765 750 507 142 438 529 125 100 972 480 
+player 614 draws a 809 from deck 614
+player 614 discards a 720 to deck 615
+player 614 current hand : 535 419 906 736 222 701 815 319 309 765 750 507 142 438 529 125 100 972 480 809 
+player 614 draws a 825 from deck 614
+player 614 discards a 535 to deck 615
+player 614 current hand : 419 906 736 222 701 815 319 309 765 750 507 142 438 529 125 100 972 480 809 825 
+player 614 draws a 865 from deck 614
+player 614 discards a 419 to deck 615
+player 614 current hand : 906 736 222 701 815 319 309 765 750 507 142 438 529 125 100 972 480 809 825 865 
+player 614 draws a 36 from deck 614
+player 614 discards a 906 to deck 615
+player 614 current hand : 736 222 701 815 319 309 765 750 507 142 438 529 125 100 972 480 809 825 865 36 
+player 614 draws a 543 from deck 614
+player 614 discards a 736 to deck 615
+player 614 current hand : 222 701 815 319 309 765 750 507 142 438 529 125 100 972 480 809 825 865 36 543 
+player 614 draws a 22 from deck 614
+player 614 discards a 222 to deck 615
+player 614 current hand : 701 815 319 309 765 750 507 142 438 529 125 100 972 480 809 825 865 36 543 22 
+player 614 draws a 930 from deck 614
+player 614 discards a 701 to deck 615
+player 614 current hand : 815 319 309 765 750 507 142 438 529 125 100 972 480 809 825 865 36 543 22 930 
+player 614 draws a 971 from deck 614
+player 614 discards a 815 to deck 615
+player 614 current hand : 319 309 765 750 507 142 438 529 125 100 972 480 809 825 865 36 543 22 930 971 
+player 614 draws a 499 from deck 614
+player 614 discards a 319 to deck 615
+player 614 current hand : 309 765 750 507 142 438 529 125 100 972 480 809 825 865 36 543 22 930 971 499 
+player 614 draws a 808 from deck 614
+player 614 discards a 309 to deck 615
+player 614 current hand : 765 750 507 142 438 529 125 100 972 480 809 825 865 36 543 22 930 971 499 808 
+player 614 draws a 424 from deck 614
+player 614 discards a 765 to deck 615
+player 614 current hand : 750 507 142 438 529 125 100 972 480 809 825 865 36 543 22 930 971 499 808 424 
+player 614 draws a 228 from deck 614
+player 614 discards a 750 to deck 615
+player 614 current hand : 507 142 438 529 125 100 972 480 809 825 865 36 543 22 930 971 499 808 424 228 
+player 614 draws a 29 from deck 614
+player 614 discards a 507 to deck 615
+player 614 current hand : 142 438 529 125 100 972 480 809 825 865 36 543 22 930 971 499 808 424 228 29 
+player 614 draws a 923 from deck 614
+player 614 discards a 142 to deck 615
+player 614 current hand : 438 529 125 100 972 480 809 825 865 36 543 22 930 971 499 808 424 228 29 923 
+player 614 draws a 769 from deck 614
+player 614 discards a 438 to deck 615
+player 614 current hand : 529 125 100 972 480 809 825 865 36 543 22 930 971 499 808 424 228 29 923 769 
+player 614 draws a 753 from deck 614
+player 614 discards a 529 to deck 615
+player 614 current hand : 125 100 972 480 809 825 865 36 543 22 930 971 499 808 424 228 29 923 769 753 
+player 614 draws a 967 from deck 614
+player 614 discards a 125 to deck 615
+player 614 current hand : 100 972 480 809 825 865 36 543 22 930 971 499 808 424 228 29 923 769 753 967 
+player 614 draws a 838 from deck 614
+player 614 discards a 100 to deck 615
+player 614 current hand : 972 480 809 825 865 36 543 22 930 971 499 808 424 228 29 923 769 753 967 838 
+player 614 draws a 402 from deck 614
+player 614 discards a 972 to deck 615
+player 614 current hand : 480 809 825 865 36 543 22 930 971 499 808 424 228 29 923 769 753 967 838 402 
+player 614 draws a 37 from deck 614
+player 614 discards a 480 to deck 615
+player 614 current hand : 809 825 865 36 543 22 930 971 499 808 424 228 29 923 769 753 967 838 402 37 
+player 614 draws a 509 from deck 614
+player 614 discards a 809 to deck 615
+player 614 current hand : 825 865 36 543 22 930 971 499 808 424 228 29 923 769 753 967 838 402 37 509 
+player 614 draws a 589 from deck 614
+player 614 discards a 825 to deck 615
+player 614 current hand : 865 36 543 22 930 971 499 808 424 228 29 923 769 753 967 838 402 37 509 589 
+player 614 draws a 367 from deck 614
+player 614 discards a 865 to deck 615
+player 614 current hand : 36 543 22 930 971 499 808 424 228 29 923 769 753 967 838 402 37 509 589 367 
+player 614 draws a 54 from deck 614
+player 614 discards a 36 to deck 615
+player 614 current hand : 543 22 930 971 499 808 424 228 29 923 769 753 967 838 402 37 509 589 367 54 
+player 614 draws a 438 from deck 614
+player 614 discards a 543 to deck 615
+player 614 current hand : 22 930 971 499 808 424 228 29 923 769 753 967 838 402 37 509 589 367 54 438 
+player 614 draws a 677 from deck 614
+player 614 discards a 22 to deck 615
+player 614 current hand : 930 971 499 808 424 228 29 923 769 753 967 838 402 37 509 589 367 54 438 677 
+player 614 draws a 120 from deck 614
+player 614 discards a 930 to deck 615
+player 614 current hand : 971 499 808 424 228 29 923 769 753 967 838 402 37 509 589 367 54 438 677 120 
+player 614 draws a 925 from deck 614
+player 614 discards a 971 to deck 615
+player 614 current hand : 499 808 424 228 29 923 769 753 967 838 402 37 509 589 367 54 438 677 120 925 
+player 614 draws a 578 from deck 614
+player 614 discards a 499 to deck 615
+player 614 current hand : 808 424 228 29 923 769 753 967 838 402 37 509 589 367 54 438 677 120 925 578 
+player 614 draws a 582 from deck 614
+player 614 discards a 808 to deck 615
+player 614 current hand : 424 228 29 923 769 753 967 838 402 37 509 589 367 54 438 677 120 925 578 582 
+player 614 draws a 138 from deck 614
+player 614 discards a 424 to deck 615
+player 614 current hand : 228 29 923 769 753 967 838 402 37 509 589 367 54 438 677 120 925 578 582 138 
+player 614 draws a 135 from deck 614
+player 614 discards a 228 to deck 615
+player 614 current hand : 29 923 769 753 967 838 402 37 509 589 367 54 438 677 120 925 578 582 138 135 
+player 614 draws a 918 from deck 614
+player 614 discards a 29 to deck 615
+player 614 current hand : 923 769 753 967 838 402 37 509 589 367 54 438 677 120 925 578 582 138 135 918 
+player 614 draws a 308 from deck 614
+player 614 discards a 923 to deck 615
+player 614 current hand : 769 753 967 838 402 37 509 589 367 54 438 677 120 925 578 582 138 135 918 308 
+player 614 draws a 915 from deck 614
+player 614 discards a 769 to deck 615
+player 614 current hand : 753 967 838 402 37 509 589 367 54 438 677 120 925 578 582 138 135 918 308 915 
+player 614 draws a 575 from deck 614
+player 614 discards a 753 to deck 615
+player 614 current hand : 967 838 402 37 509 589 367 54 438 677 120 925 578 582 138 135 918 308 915 575 
+player 614 draws a 450 from deck 614
+player 614 discards a 967 to deck 615
+player 614 current hand : 838 402 37 509 589 367 54 438 677 120 925 578 582 138 135 918 308 915 575 450 
+player 614 draws a 835 from deck 614
+player 614 discards a 838 to deck 615
+player 614 current hand : 402 37 509 589 367 54 438 677 120 925 578 582 138 135 918 308 915 575 450 835 
+player 614 draws a 805 from deck 614
+player 614 discards a 402 to deck 615
+player 614 current hand : 37 509 589 367 54 438 677 120 925 578 582 138 135 918 308 915 575 450 835 805 
+player 614 draws a 548 from deck 614
+player 614 discards a 37 to deck 615
+player 614 current hand : 509 589 367 54 438 677 120 925 578 582 138 135 918 308 915 575 450 835 805 548 
+player 614 draws a 620 from deck 614
+player 614 discards a 509 to deck 615
+player 614 current hand : 589 367 54 438 677 120 925 578 582 138 135 918 308 915 575 450 835 805 548 620 
+player 614 draws a 125 from deck 614
+player 614 discards a 589 to deck 615
+player 614 current hand : 367 54 438 677 120 925 578 582 138 135 918 308 915 575 450 835 805 548 620 125 
+player 614 draws a 913 from deck 614
+player 614 discards a 367 to deck 615
+player 614 current hand : 54 438 677 120 925 578 582 138 135 918 308 915 575 450 835 805 548 620 125 913 
+player 614 draws a 954 from deck 614
+player 614 discards a 54 to deck 615
+player 614 current hand : 438 677 120 925 578 582 138 135 918 308 915 575 450 835 805 548 620 125 913 954 
+player 614 draws a 797 from deck 614
+player 614 discards a 438 to deck 615
+player 614 current hand : 677 120 925 578 582 138 135 918 308 915 575 450 835 805 548 620 125 913 954 797 
+player 614 draws a 637 from deck 614
+player 614 discards a 677 to deck 615
+player 614 current hand : 120 925 578 582 138 135 918 308 915 575 450 835 805 548 620 125 913 954 797 637 
+player 614 draws a 784 from deck 614
+player 614 discards a 120 to deck 615
+player 614 current hand : 925 578 582 138 135 918 308 915 575 450 835 805 548 620 125 913 954 797 637 784 
+player 614 draws a 257 from deck 614
+player 614 discards a 925 to deck 615
+player 614 current hand : 578 582 138 135 918 308 915 575 450 835 805 548 620 125 913 954 797 637 784 257 
+player 614 draws a 400 from deck 614
+player 614 discards a 578 to deck 615
+player 614 current hand : 582 138 135 918 308 915 575 450 835 805 548 620 125 913 954 797 637 784 257 400 
+player 614 draws a 745 from deck 614
+player 614 discards a 582 to deck 615
+player 614 current hand : 138 135 918 308 915 575 450 835 805 548 620 125 913 954 797 637 784 257 400 745 
+player 614 draws a 590 from deck 614
+player 614 discards a 138 to deck 615
+player 614 current hand : 135 918 308 915 575 450 835 805 548 620 125 913 954 797 637 784 257 400 745 590 
+player 614 draws a 187 from deck 614
+player 614 discards a 135 to deck 615
+player 614 current hand : 918 308 915 575 450 835 805 548 620 125 913 954 797 637 784 257 400 745 590 187 
+player 614 draws a 634 from deck 614
+player 614 discards a 918 to deck 615
+player 614 current hand : 308 915 575 450 835 805 548 620 125 913 954 797 637 784 257 400 745 590 187 634 
+player 614 draws a 917 from deck 614
+player 614 discards a 308 to deck 615
+player 614 current hand : 915 575 450 835 805 548 620 125 913 954 797 637 784 257 400 745 590 187 634 917 
+player 614 draws a 386 from deck 614
+player 614 discards a 915 to deck 615
+player 614 current hand : 575 450 835 805 548 620 125 913 954 797 637 784 257 400 745 590 187 634 917 386 
+player 614 draws a 448 from deck 614
+player 614 discards a 575 to deck 615
+player 614 current hand : 450 835 805 548 620 125 913 954 797 637 784 257 400 745 590 187 634 917 386 448 
+player 614 draws a 340 from deck 614
+player 614 discards a 450 to deck 615
+player 614 current hand : 835 805 548 620 125 913 954 797 637 784 257 400 745 590 187 634 917 386 448 340 
+player 614 draws a 537 from deck 614
+player 614 discards a 835 to deck 615
+player 614 current hand : 805 548 620 125 913 954 797 637 784 257 400 745 590 187 634 917 386 448 340 537 
+player 614 draws a 705 from deck 614
+player 614 discards a 805 to deck 615
+player 614 current hand : 548 620 125 913 954 797 637 784 257 400 745 590 187 634 917 386 448 340 537 705 
+player 614 draws a 327 from deck 614
+player 614 discards a 548 to deck 615
+player 614 current hand : 620 125 913 954 797 637 784 257 400 745 590 187 634 917 386 448 340 537 705 327 
+player 614 draws a 11 from deck 614
+player 614 discards a 620 to deck 615
+player 614 current hand : 125 913 954 797 637 784 257 400 745 590 187 634 917 386 448 340 537 705 327 11 
+player 614 draws a 968 from deck 614
+player 614 discards a 125 to deck 615
+player 614 current hand : 913 954 797 637 784 257 400 745 590 187 634 917 386 448 340 537 705 327 11 968 
+player 614 draws a 830 from deck 614
+player 614 discards a 913 to deck 615
+player 614 current hand : 954 797 637 784 257 400 745 590 187 634 917 386 448 340 537 705 327 11 968 830 
+player 614 draws a 945 from deck 614
+player 614 discards a 954 to deck 615
+player 614 current hand : 797 637 784 257 400 745 590 187 634 917 386 448 340 537 705 327 11 968 830 945 
+player 614 draws a 412 from deck 614
+player 614 discards a 797 to deck 615
+player 614 current hand : 637 784 257 400 745 590 187 634 917 386 448 340 537 705 327 11 968 830 945 412 
+player 614 draws a 515 from deck 614
+player 614 discards a 637 to deck 615
+player 614 current hand : 784 257 400 745 590 187 634 917 386 448 340 537 705 327 11 968 830 945 412 515 
+player 614 draws a 693 from deck 614
+player 614 discards a 784 to deck 615
+player 614 current hand : 257 400 745 590 187 634 917 386 448 340 537 705 327 11 968 830 945 412 515 693 
+player 614 draws a 795 from deck 614
+player 614 discards a 257 to deck 615
+player 614 current hand : 400 745 590 187 634 917 386 448 340 537 705 327 11 968 830 945 412 515 693 795 
+player 614 draws a 294 from deck 614
+player 614 discards a 400 to deck 615
+player 614 current hand : 745 590 187 634 917 386 448 340 537 705 327 11 968 830 945 412 515 693 795 294 
+player 614 draws a 645 from deck 614
+player 614 discards a 745 to deck 615
+player 614 current hand : 590 187 634 917 386 448 340 537 705 327 11 968 830 945 412 515 693 795 294 645 
+player 614 draws a 680 from deck 614
+player 614 discards a 590 to deck 615
+player 614 current hand : 187 634 917 386 448 340 537 705 327 11 968 830 945 412 515 693 795 294 645 680 
+player 614 draws a 308 from deck 614
+player 614 discards a 187 to deck 615
+player 614 current hand : 634 917 386 448 340 537 705 327 11 968 830 945 412 515 693 795 294 645 680 308 
+player 614 draws a 535 from deck 614
+player 614 discards a 634 to deck 615
+player 614 current hand : 917 386 448 340 537 705 327 11 968 830 945 412 515 693 795 294 645 680 308 535 
+player 614 draws a 574 from deck 614
+player 614 discards a 917 to deck 615
+player 614 current hand : 386 448 340 537 705 327 11 968 830 945 412 515 693 795 294 645 680 308 535 574 
+player 614 draws a 256 from deck 614
+player 614 discards a 386 to deck 615
+player 614 current hand : 448 340 537 705 327 11 968 830 945 412 515 693 795 294 645 680 308 535 574 256 
+player 614 draws a 932 from deck 614
+player 614 discards a 448 to deck 615
+player 614 current hand : 340 537 705 327 11 968 830 945 412 515 693 795 294 645 680 308 535 574 256 932 
+player 614 draws a 38 from deck 614
+player 614 discards a 340 to deck 615
+player 614 current hand : 537 705 327 11 968 830 945 412 515 693 795 294 645 680 308 535 574 256 932 38 
+player 614 draws a 62 from deck 614
+player 614 discards a 537 to deck 615
+player 614 current hand : 705 327 11 968 830 945 412 515 693 795 294 645 680 308 535 574 256 932 38 62 
+player 614 draws a 14 from deck 614
+player 614 discards a 705 to deck 615
+player 614 current hand : 327 11 968 830 945 412 515 693 795 294 645 680 308 535 574 256 932 38 62 14 
+player 614 draws a 351 from deck 614
+player 614 discards a 327 to deck 615
+player 614 current hand : 11 968 830 945 412 515 693 795 294 645 680 308 535 574 256 932 38 62 14 351 
+player 614 draws a 558 from deck 614
+player 614 discards a 11 to deck 615
+player 614 current hand : 968 830 945 412 515 693 795 294 645 680 308 535 574 256 932 38 62 14 351 558 
+player 614 draws a 977 from deck 614
+player 614 discards a 968 to deck 615
+player 614 current hand : 830 945 412 515 693 795 294 645 680 308 535 574 256 932 38 62 14 351 558 977 
+player 614 draws a 238 from deck 614
+player 614 discards a 830 to deck 615
+player 614 current hand : 945 412 515 693 795 294 645 680 308 535 574 256 932 38 62 14 351 558 977 238 
+player 614 draws a 427 from deck 614
+player 614 discards a 945 to deck 615
+player 614 current hand : 412 515 693 795 294 645 680 308 535 574 256 932 38 62 14 351 558 977 238 427 
+player 614 draws a 244 from deck 614
+player 614 discards a 412 to deck 615
+player 614 current hand : 515 693 795 294 645 680 308 535 574 256 932 38 62 14 351 558 977 238 427 244 
+player 614 draws a 494 from deck 614
+player 614 discards a 515 to deck 615
+player 614 current hand : 693 795 294 645 680 308 535 574 256 932 38 62 14 351 558 977 238 427 244 494 
+player 614 draws a 795 from deck 614
+player 614 discards a 693 to deck 615
+player 614 current hand : 795 294 645 680 308 535 574 256 932 38 62 14 351 558 977 238 427 244 494 795 
+player 614 draws a 647 from deck 614
+player 614 discards a 795 to deck 615
+player 614 current hand : 294 645 680 308 535 574 256 932 38 62 14 351 558 977 238 427 244 494 795 647 
+player 614 draws a 705 from deck 614
+player 614 discards a 294 to deck 615
+player 614 current hand : 645 680 308 535 574 256 932 38 62 14 351 558 977 238 427 244 494 795 647 705 
+player 614 draws a 815 from deck 614
+player 614 discards a 645 to deck 615
+player 614 current hand : 680 308 535 574 256 932 38 62 14 351 558 977 238 427 244 494 795 647 705 815 
+player 614 draws a 9 from deck 614
+player 614 discards a 680 to deck 615
+player 614 current hand : 308 535 574 256 932 38 62 14 351 558 977 238 427 244 494 795 647 705 815 9 
+player 614 draws a 768 from deck 614
+player 614 discards a 308 to deck 615
+player 614 current hand : 535 574 256 932 38 62 14 351 558 977 238 427 244 494 795 647 705 815 9 768 
+player 614 draws a 40 from deck 614
+player 614 discards a 535 to deck 615
+player 614 current hand : 574 256 932 38 62 14 351 558 977 238 427 244 494 795 647 705 815 9 768 40 
+player 614 draws a 399 from deck 614
+player 614 discards a 574 to deck 615
+player 614 current hand : 256 932 38 62 14 351 558 977 238 427 244 494 795 647 705 815 9 768 40 399 
+player 614 draws a 407 from deck 614
+player 614 discards a 256 to deck 615
+player 614 current hand : 932 38 62 14 351 558 977 238 427 244 494 795 647 705 815 9 768 40 399 407 
+player 614 draws a 83 from deck 614
+player 614 discards a 932 to deck 615
+player 614 current hand : 38 62 14 351 558 977 238 427 244 494 795 647 705 815 9 768 40 399 407 83 
+player 614 draws a 165 from deck 614
+player 614 discards a 38 to deck 615
+player 614 current hand : 62 14 351 558 977 238 427 244 494 795 647 705 815 9 768 40 399 407 83 165 
+player 614 draws a 854 from deck 614
+player 614 discards a 62 to deck 615
+player 614 current hand : 14 351 558 977 238 427 244 494 795 647 705 815 9 768 40 399 407 83 165 854 
+player 614 draws a 933 from deck 614
+player 614 discards a 14 to deck 615
+player 614 current hand : 351 558 977 238 427 244 494 795 647 705 815 9 768 40 399 407 83 165 854 933 
+player 614 draws a 189 from deck 614
+player 614 discards a 351 to deck 615
+player 614 current hand : 558 977 238 427 244 494 795 647 705 815 9 768 40 399 407 83 165 854 933 189 
+player 614 draws a 736 from deck 614
+player 614 discards a 558 to deck 615
+player 614 current hand : 977 238 427 244 494 795 647 705 815 9 768 40 399 407 83 165 854 933 189 736 
+player 614 draws a 63 from deck 614
+player 614 discards a 977 to deck 615
+player 614 current hand : 238 427 244 494 795 647 705 815 9 768 40 399 407 83 165 854 933 189 736 63 
+player 614 draws a 516 from deck 614
+player 614 discards a 238 to deck 615
+player 614 current hand : 427 244 494 795 647 705 815 9 768 40 399 407 83 165 854 933 189 736 63 516 
+player 614 draws a 219 from deck 614
+player 614 discards a 427 to deck 615
+player 614 current hand : 244 494 795 647 705 815 9 768 40 399 407 83 165 854 933 189 736 63 516 219 
+player 614 draws a 814 from deck 614
+player 614 discards a 244 to deck 615
+player 614 current hand : 494 795 647 705 815 9 768 40 399 407 83 165 854 933 189 736 63 516 219 814 
+player 614 draws a 645 from deck 614
+player 614 discards a 494 to deck 615
+player 614 current hand : 795 647 705 815 9 768 40 399 407 83 165 854 933 189 736 63 516 219 814 645 
+player 614 draws a 499 from deck 614
+player 614 discards a 795 to deck 615
+player 614 current hand : 647 705 815 9 768 40 399 407 83 165 854 933 189 736 63 516 219 814 645 499 

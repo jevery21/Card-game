@@ -1,0 +1,306 @@
+player 165 initial hand 255 655 373 589 14 109 442 470 545 685 538 135 778 290 647 499 453 666 272 793 
+player 165 draws a 774 from deck 165
+player 165 discards a 255 to deck 166
+player 165 current hand : 655 373 589 14 109 442 470 545 685 538 135 778 290 647 499 453 666 272 793 774 
+player 165 draws a 217 from deck 165
+player 165 discards a 655 to deck 166
+player 165 current hand : 373 589 14 109 442 470 545 685 538 135 778 290 647 499 453 666 272 793 774 217 
+player 165 draws a 943 from deck 165
+player 165 discards a 373 to deck 166
+player 165 current hand : 589 14 109 442 470 545 685 538 135 778 290 647 499 453 666 272 793 774 217 943 
+player 165 draws a 669 from deck 165
+player 165 discards a 589 to deck 166
+player 165 current hand : 14 109 442 470 545 685 538 135 778 290 647 499 453 666 272 793 774 217 943 669 
+player 165 draws a 510 from deck 165
+player 165 discards a 14 to deck 166
+player 165 current hand : 109 442 470 545 685 538 135 778 290 647 499 453 666 272 793 774 217 943 669 510 
+player 165 draws a 585 from deck 165
+player 165 discards a 109 to deck 166
+player 165 current hand : 442 470 545 685 538 135 778 290 647 499 453 666 272 793 774 217 943 669 510 585 
+player 165 draws a 409 from deck 165
+player 165 discards a 442 to deck 166
+player 165 current hand : 470 545 685 538 135 778 290 647 499 453 666 272 793 774 217 943 669 510 585 409 
+player 165 draws a 491 from deck 165
+player 165 discards a 470 to deck 166
+player 165 current hand : 545 685 538 135 778 290 647 499 453 666 272 793 774 217 943 669 510 585 409 491 
+player 165 draws a 841 from deck 165
+player 165 discards a 545 to deck 166
+player 165 current hand : 685 538 135 778 290 647 499 453 666 272 793 774 217 943 669 510 585 409 491 841 
+player 165 draws a 589 from deck 165
+player 165 discards a 685 to deck 166
+player 165 current hand : 538 135 778 290 647 499 453 666 272 793 774 217 943 669 510 585 409 491 841 589 
+player 165 draws a 581 from deck 165
+player 165 discards a 538 to deck 166
+player 165 current hand : 135 778 290 647 499 453 666 272 793 774 217 943 669 510 585 409 491 841 589 581 
+player 165 draws a 994 from deck 165
+player 165 discards a 135 to deck 166
+player 165 current hand : 778 290 647 499 453 666 272 793 774 217 943 669 510 585 409 491 841 589 581 994 
+player 165 draws a 696 from deck 165
+player 165 discards a 778 to deck 166
+player 165 current hand : 290 647 499 453 666 272 793 774 217 943 669 510 585 409 491 841 589 581 994 696 
+player 165 draws a 870 from deck 165
+player 165 discards a 290 to deck 166
+player 165 current hand : 647 499 453 666 272 793 774 217 943 669 510 585 409 491 841 589 581 994 696 870 
+player 165 draws a 237 from deck 165
+player 165 discards a 647 to deck 166
+player 165 current hand : 499 453 666 272 793 774 217 943 669 510 585 409 491 841 589 581 994 696 870 237 
+player 165 draws a 862 from deck 165
+player 165 discards a 499 to deck 166
+player 165 current hand : 453 666 272 793 774 217 943 669 510 585 409 491 841 589 581 994 696 870 237 862 
+player 165 draws a 339 from deck 165
+player 165 discards a 453 to deck 166
+player 165 current hand : 666 272 793 774 217 943 669 510 585 409 491 841 589 581 994 696 870 237 862 339 
+player 165 draws a 519 from deck 165
+player 165 discards a 666 to deck 166
+player 165 current hand : 272 793 774 217 943 669 510 585 409 491 841 589 581 994 696 870 237 862 339 519 
+player 165 draws a 309 from deck 165
+player 165 discards a 272 to deck 166
+player 165 current hand : 793 774 217 943 669 510 585 409 491 841 589 581 994 696 870 237 862 339 519 309 
+player 165 draws a 443 from deck 165
+player 165 discards a 793 to deck 166
+player 165 current hand : 774 217 943 669 510 585 409 491 841 589 581 994 696 870 237 862 339 519 309 443 
+player 165 draws a 106 from deck 165
+player 165 discards a 774 to deck 166
+player 165 current hand : 217 943 669 510 585 409 491 841 589 581 994 696 870 237 862 339 519 309 443 106 
+player 165 draws a 212 from deck 165
+player 165 discards a 217 to deck 166
+player 165 current hand : 943 669 510 585 409 491 841 589 581 994 696 870 237 862 339 519 309 443 106 212 
+player 165 draws a 319 from deck 165
+player 165 discards a 943 to deck 166
+player 165 current hand : 669 510 585 409 491 841 589 581 994 696 870 237 862 339 519 309 443 106 212 319 
+player 165 draws a 214 from deck 165
+player 165 discards a 669 to deck 166
+player 165 current hand : 510 585 409 491 841 589 581 994 696 870 237 862 339 519 309 443 106 212 319 214 
+player 165 draws a 878 from deck 165
+player 165 discards a 510 to deck 166
+player 165 current hand : 585 409 491 841 589 581 994 696 870 237 862 339 519 309 443 106 212 319 214 878 
+player 165 draws a 645 from deck 165
+player 165 discards a 585 to deck 166
+player 165 current hand : 409 491 841 589 581 994 696 870 237 862 339 519 309 443 106 212 319 214 878 645 
+player 165 draws a 549 from deck 165
+player 165 discards a 409 to deck 166
+player 165 current hand : 491 841 589 581 994 696 870 237 862 339 519 309 443 106 212 319 214 878 645 549 
+player 165 draws a 754 from deck 165
+player 165 discards a 491 to deck 166
+player 165 current hand : 841 589 581 994 696 870 237 862 339 519 309 443 106 212 319 214 878 645 549 754 
+player 165 draws a 936 from deck 165
+player 165 discards a 841 to deck 166
+player 165 current hand : 589 581 994 696 870 237 862 339 519 309 443 106 212 319 214 878 645 549 754 936 
+player 165 draws a 326 from deck 165
+player 165 discards a 589 to deck 166
+player 165 current hand : 581 994 696 870 237 862 339 519 309 443 106 212 319 214 878 645 549 754 936 326 
+player 165 draws a 542 from deck 165
+player 165 discards a 581 to deck 166
+player 165 current hand : 994 696 870 237 862 339 519 309 443 106 212 319 214 878 645 549 754 936 326 542 
+player 165 draws a 415 from deck 165
+player 165 discards a 994 to deck 166
+player 165 current hand : 696 870 237 862 339 519 309 443 106 212 319 214 878 645 549 754 936 326 542 415 
+player 165 draws a 456 from deck 165
+player 165 discards a 696 to deck 166
+player 165 current hand : 870 237 862 339 519 309 443 106 212 319 214 878 645 549 754 936 326 542 415 456 
+player 165 draws a 24 from deck 165
+player 165 discards a 870 to deck 166
+player 165 current hand : 237 862 339 519 309 443 106 212 319 214 878 645 549 754 936 326 542 415 456 24 
+player 165 draws a 37 from deck 165
+player 165 discards a 237 to deck 166
+player 165 current hand : 862 339 519 309 443 106 212 319 214 878 645 549 754 936 326 542 415 456 24 37 
+player 165 draws a 100 from deck 165
+player 165 discards a 862 to deck 166
+player 165 current hand : 339 519 309 443 106 212 319 214 878 645 549 754 936 326 542 415 456 24 37 100 
+player 165 draws a 111 from deck 165
+player 165 discards a 339 to deck 166
+player 165 current hand : 519 309 443 106 212 319 214 878 645 549 754 936 326 542 415 456 24 37 100 111 
+player 165 draws a 238 from deck 165
+player 165 discards a 519 to deck 166
+player 165 current hand : 309 443 106 212 319 214 878 645 549 754 936 326 542 415 456 24 37 100 111 238 
+player 165 draws a 537 from deck 165
+player 165 discards a 309 to deck 166
+player 165 current hand : 443 106 212 319 214 878 645 549 754 936 326 542 415 456 24 37 100 111 238 537 
+player 165 draws a 538 from deck 165
+player 165 discards a 443 to deck 166
+player 165 current hand : 106 212 319 214 878 645 549 754 936 326 542 415 456 24 37 100 111 238 537 538 
+player 165 draws a 776 from deck 165
+player 165 discards a 106 to deck 166
+player 165 current hand : 212 319 214 878 645 549 754 936 326 542 415 456 24 37 100 111 238 537 538 776 
+player 165 draws a 508 from deck 165
+player 165 discards a 212 to deck 166
+player 165 current hand : 319 214 878 645 549 754 936 326 542 415 456 24 37 100 111 238 537 538 776 508 
+player 165 draws a 407 from deck 165
+player 165 discards a 319 to deck 166
+player 165 current hand : 214 878 645 549 754 936 326 542 415 456 24 37 100 111 238 537 538 776 508 407 
+player 165 draws a 121 from deck 165
+player 165 discards a 214 to deck 166
+player 165 current hand : 878 645 549 754 936 326 542 415 456 24 37 100 111 238 537 538 776 508 407 121 
+player 165 draws a 402 from deck 165
+player 165 discards a 878 to deck 166
+player 165 current hand : 645 549 754 936 326 542 415 456 24 37 100 111 238 537 538 776 508 407 121 402 
+player 165 draws a 110 from deck 165
+player 165 discards a 645 to deck 166
+player 165 current hand : 549 754 936 326 542 415 456 24 37 100 111 238 537 538 776 508 407 121 402 110 
+player 165 draws a 415 from deck 165
+player 165 discards a 549 to deck 166
+player 165 current hand : 754 936 326 542 415 456 24 37 100 111 238 537 538 776 508 407 121 402 110 415 
+player 165 draws a 286 from deck 165
+player 165 discards a 754 to deck 166
+player 165 current hand : 936 326 542 415 456 24 37 100 111 238 537 538 776 508 407 121 402 110 415 286 
+player 165 draws a 978 from deck 165
+player 165 discards a 936 to deck 166
+player 165 current hand : 326 542 415 456 24 37 100 111 238 537 538 776 508 407 121 402 110 415 286 978 
+player 165 draws a 680 from deck 165
+player 165 discards a 326 to deck 166
+player 165 current hand : 542 415 456 24 37 100 111 238 537 538 776 508 407 121 402 110 415 286 978 680 
+player 165 draws a 81 from deck 165
+player 165 discards a 542 to deck 166
+player 165 current hand : 415 456 24 37 100 111 238 537 538 776 508 407 121 402 110 415 286 978 680 81 
+player 165 draws a 325 from deck 165
+player 165 discards a 415 to deck 166
+player 165 current hand : 456 24 37 100 111 238 537 538 776 508 407 121 402 110 415 286 978 680 81 325 
+player 165 draws a 602 from deck 165
+player 165 discards a 456 to deck 166
+player 165 current hand : 24 37 100 111 238 537 538 776 508 407 121 402 110 415 286 978 680 81 325 602 
+player 165 draws a 600 from deck 165
+player 165 discards a 24 to deck 166
+player 165 current hand : 37 100 111 238 537 538 776 508 407 121 402 110 415 286 978 680 81 325 602 600 
+player 165 draws a 425 from deck 165
+player 165 discards a 37 to deck 166
+player 165 current hand : 100 111 238 537 538 776 508 407 121 402 110 415 286 978 680 81 325 602 600 425 
+player 165 draws a 178 from deck 165
+player 165 discards a 100 to deck 166
+player 165 current hand : 111 238 537 538 776 508 407 121 402 110 415 286 978 680 81 325 602 600 425 178 
+player 165 draws a 870 from deck 165
+player 165 discards a 111 to deck 166
+player 165 current hand : 238 537 538 776 508 407 121 402 110 415 286 978 680 81 325 602 600 425 178 870 
+player 165 draws a 210 from deck 165
+player 165 discards a 238 to deck 166
+player 165 current hand : 537 538 776 508 407 121 402 110 415 286 978 680 81 325 602 600 425 178 870 210 
+player 165 draws a 991 from deck 165
+player 165 discards a 537 to deck 166
+player 165 current hand : 538 776 508 407 121 402 110 415 286 978 680 81 325 602 600 425 178 870 210 991 
+player 165 draws a 310 from deck 165
+player 165 discards a 538 to deck 166
+player 165 current hand : 776 508 407 121 402 110 415 286 978 680 81 325 602 600 425 178 870 210 991 310 
+player 165 draws a 29 from deck 165
+player 165 discards a 776 to deck 166
+player 165 current hand : 508 407 121 402 110 415 286 978 680 81 325 602 600 425 178 870 210 991 310 29 
+player 165 draws a 326 from deck 165
+player 165 discards a 508 to deck 166
+player 165 current hand : 407 121 402 110 415 286 978 680 81 325 602 600 425 178 870 210 991 310 29 326 
+player 165 draws a 924 from deck 165
+player 165 discards a 407 to deck 166
+player 165 current hand : 121 402 110 415 286 978 680 81 325 602 600 425 178 870 210 991 310 29 326 924 
+player 165 draws a 888 from deck 165
+player 165 discards a 121 to deck 166
+player 165 current hand : 402 110 415 286 978 680 81 325 602 600 425 178 870 210 991 310 29 326 924 888 
+player 165 draws a 483 from deck 165
+player 165 discards a 402 to deck 166
+player 165 current hand : 110 415 286 978 680 81 325 602 600 425 178 870 210 991 310 29 326 924 888 483 
+player 165 draws a 639 from deck 165
+player 165 discards a 110 to deck 166
+player 165 current hand : 415 286 978 680 81 325 602 600 425 178 870 210 991 310 29 326 924 888 483 639 
+player 165 draws a 726 from deck 165
+player 165 discards a 415 to deck 166
+player 165 current hand : 286 978 680 81 325 602 600 425 178 870 210 991 310 29 326 924 888 483 639 726 
+player 165 draws a 619 from deck 165
+player 165 discards a 286 to deck 166
+player 165 current hand : 978 680 81 325 602 600 425 178 870 210 991 310 29 326 924 888 483 639 726 619 
+player 165 draws a 169 from deck 165
+player 165 discards a 978 to deck 166
+player 165 current hand : 680 81 325 602 600 425 178 870 210 991 310 29 326 924 888 483 639 726 619 169 
+player 165 draws a 699 from deck 165
+player 165 discards a 680 to deck 166
+player 165 current hand : 81 325 602 600 425 178 870 210 991 310 29 326 924 888 483 639 726 619 169 699 
+player 165 draws a 537 from deck 165
+player 165 discards a 81 to deck 166
+player 165 current hand : 325 602 600 425 178 870 210 991 310 29 326 924 888 483 639 726 619 169 699 537 
+player 165 draws a 587 from deck 165
+player 165 discards a 325 to deck 166
+player 165 current hand : 602 600 425 178 870 210 991 310 29 326 924 888 483 639 726 619 169 699 537 587 
+player 165 draws a 603 from deck 165
+player 165 discards a 602 to deck 166
+player 165 current hand : 600 425 178 870 210 991 310 29 326 924 888 483 639 726 619 169 699 537 587 603 
+player 165 draws a 838 from deck 165
+player 165 discards a 600 to deck 166
+player 165 current hand : 425 178 870 210 991 310 29 326 924 888 483 639 726 619 169 699 537 587 603 838 
+player 165 draws a 480 from deck 165
+player 165 discards a 425 to deck 166
+player 165 current hand : 178 870 210 991 310 29 326 924 888 483 639 726 619 169 699 537 587 603 838 480 
+player 165 draws a 988 from deck 165
+player 165 discards a 178 to deck 166
+player 165 current hand : 870 210 991 310 29 326 924 888 483 639 726 619 169 699 537 587 603 838 480 988 
+player 165 draws a 204 from deck 165
+player 165 discards a 870 to deck 166
+player 165 current hand : 210 991 310 29 326 924 888 483 639 726 619 169 699 537 587 603 838 480 988 204 
+player 165 draws a 511 from deck 165
+player 165 discards a 210 to deck 166
+player 165 current hand : 991 310 29 326 924 888 483 639 726 619 169 699 537 587 603 838 480 988 204 511 
+player 165 draws a 2 from deck 165
+player 165 discards a 991 to deck 166
+player 165 current hand : 310 29 326 924 888 483 639 726 619 169 699 537 587 603 838 480 988 204 511 2 
+player 165 draws a 680 from deck 165
+player 165 discards a 310 to deck 166
+player 165 current hand : 29 326 924 888 483 639 726 619 169 699 537 587 603 838 480 988 204 511 2 680 
+player 165 draws a 910 from deck 165
+player 165 discards a 29 to deck 166
+player 165 current hand : 326 924 888 483 639 726 619 169 699 537 587 603 838 480 988 204 511 2 680 910 
+player 165 draws a 301 from deck 165
+player 165 discards a 326 to deck 166
+player 165 current hand : 924 888 483 639 726 619 169 699 537 587 603 838 480 988 204 511 2 680 910 301 
+player 165 draws a 813 from deck 165
+player 165 discards a 924 to deck 166
+player 165 current hand : 888 483 639 726 619 169 699 537 587 603 838 480 988 204 511 2 680 910 301 813 
+player 165 draws a 594 from deck 165
+player 165 discards a 888 to deck 166
+player 165 current hand : 483 639 726 619 169 699 537 587 603 838 480 988 204 511 2 680 910 301 813 594 
+player 165 draws a 216 from deck 165
+player 165 discards a 483 to deck 166
+player 165 current hand : 639 726 619 169 699 537 587 603 838 480 988 204 511 2 680 910 301 813 594 216 
+player 165 draws a 647 from deck 165
+player 165 discards a 639 to deck 166
+player 165 current hand : 726 619 169 699 537 587 603 838 480 988 204 511 2 680 910 301 813 594 216 647 
+player 165 draws a 708 from deck 165
+player 165 discards a 726 to deck 166
+player 165 current hand : 619 169 699 537 587 603 838 480 988 204 511 2 680 910 301 813 594 216 647 708 
+player 165 draws a 797 from deck 165
+player 165 discards a 619 to deck 166
+player 165 current hand : 169 699 537 587 603 838 480 988 204 511 2 680 910 301 813 594 216 647 708 797 
+player 165 draws a 922 from deck 165
+player 165 discards a 169 to deck 166
+player 165 current hand : 699 537 587 603 838 480 988 204 511 2 680 910 301 813 594 216 647 708 797 922 
+player 165 draws a 550 from deck 165
+player 165 discards a 699 to deck 166
+player 165 current hand : 537 587 603 838 480 988 204 511 2 680 910 301 813 594 216 647 708 797 922 550 
+player 165 draws a 475 from deck 165
+player 165 discards a 537 to deck 166
+player 165 current hand : 587 603 838 480 988 204 511 2 680 910 301 813 594 216 647 708 797 922 550 475 
+player 165 draws a 309 from deck 165
+player 165 discards a 587 to deck 166
+player 165 current hand : 603 838 480 988 204 511 2 680 910 301 813 594 216 647 708 797 922 550 475 309 
+player 165 draws a 696 from deck 165
+player 165 discards a 603 to deck 166
+player 165 current hand : 838 480 988 204 511 2 680 910 301 813 594 216 647 708 797 922 550 475 309 696 
+player 165 draws a 43 from deck 165
+player 165 discards a 838 to deck 166
+player 165 current hand : 480 988 204 511 2 680 910 301 813 594 216 647 708 797 922 550 475 309 696 43 
+player 165 draws a 521 from deck 165
+player 165 discards a 480 to deck 166
+player 165 current hand : 988 204 511 2 680 910 301 813 594 216 647 708 797 922 550 475 309 696 43 521 
+player 165 draws a 532 from deck 165
+player 165 discards a 988 to deck 166
+player 165 current hand : 204 511 2 680 910 301 813 594 216 647 708 797 922 550 475 309 696 43 521 532 
+player 165 draws a 837 from deck 165
+player 165 discards a 204 to deck 166
+player 165 current hand : 511 2 680 910 301 813 594 216 647 708 797 922 550 475 309 696 43 521 532 837 
+player 165 draws a 844 from deck 165
+player 165 discards a 511 to deck 166
+player 165 current hand : 2 680 910 301 813 594 216 647 708 797 922 550 475 309 696 43 521 532 837 844 
+player 165 draws a 453 from deck 165
+player 165 discards a 2 to deck 166
+player 165 current hand : 680 910 301 813 594 216 647 708 797 922 550 475 309 696 43 521 532 837 844 453 
+player 165 draws a 689 from deck 165
+player 165 discards a 680 to deck 166
+player 165 current hand : 910 301 813 594 216 647 708 797 922 550 475 309 696 43 521 532 837 844 453 689 
+player 165 draws a 11 from deck 165
+player 165 discards a 910 to deck 166
+player 165 current hand : 301 813 594 216 647 708 797 922 550 475 309 696 43 521 532 837 844 453 689 11 
+player 165 draws a 202 from deck 165
+player 165 discards a 301 to deck 166

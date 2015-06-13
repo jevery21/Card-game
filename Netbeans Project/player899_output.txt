@@ -1,0 +1,307 @@
+player 899 initial hand 499 266 170 861 407 637 240 269 695 114 908 38 422 862 455 996 716 956 570 360 
+player 899 draws a 117 from deck 899
+player 899 discards a 499 to deck 900
+player 899 current hand : 266 170 861 407 637 240 269 695 114 908 38 422 862 455 996 716 956 570 360 117 
+player 899 draws a 899 from deck 899
+player 899 discards a 266 to deck 900
+player 899 current hand : 170 861 407 637 240 269 695 114 908 38 422 862 455 996 716 956 570 360 117 899 
+player 899 draws a 149 from deck 899
+player 899 discards a 170 to deck 900
+player 899 current hand : 861 407 637 240 269 695 114 908 38 422 862 455 996 716 956 570 360 117 899 149 
+player 899 draws a 346 from deck 899
+player 899 discards a 861 to deck 900
+player 899 current hand : 407 637 240 269 695 114 908 38 422 862 455 996 716 956 570 360 117 899 149 346 
+player 899 draws a 576 from deck 899
+player 899 discards a 407 to deck 900
+player 899 current hand : 637 240 269 695 114 908 38 422 862 455 996 716 956 570 360 117 899 149 346 576 
+player 899 draws a 689 from deck 899
+player 899 discards a 637 to deck 900
+player 899 current hand : 240 269 695 114 908 38 422 862 455 996 716 956 570 360 117 899 149 346 576 689 
+player 899 draws a 321 from deck 899
+player 899 discards a 240 to deck 900
+player 899 current hand : 269 695 114 908 38 422 862 455 996 716 956 570 360 117 899 149 346 576 689 321 
+player 899 draws a 369 from deck 899
+player 899 discards a 269 to deck 900
+player 899 current hand : 695 114 908 38 422 862 455 996 716 956 570 360 117 899 149 346 576 689 321 369 
+player 899 draws a 699 from deck 899
+player 899 discards a 695 to deck 900
+player 899 current hand : 114 908 38 422 862 455 996 716 956 570 360 117 899 149 346 576 689 321 369 699 
+player 899 draws a 947 from deck 899
+player 899 discards a 114 to deck 900
+player 899 current hand : 908 38 422 862 455 996 716 956 570 360 117 899 149 346 576 689 321 369 699 947 
+player 899 draws a 314 from deck 899
+player 899 discards a 908 to deck 900
+player 899 current hand : 38 422 862 455 996 716 956 570 360 117 899 149 346 576 689 321 369 699 947 314 
+player 899 draws a 977 from deck 899
+player 899 discards a 38 to deck 900
+player 899 current hand : 422 862 455 996 716 956 570 360 117 899 149 346 576 689 321 369 699 947 314 977 
+player 899 draws a 860 from deck 899
+player 899 discards a 422 to deck 900
+player 899 current hand : 862 455 996 716 956 570 360 117 899 149 346 576 689 321 369 699 947 314 977 860 
+player 899 draws a 853 from deck 899
+player 899 discards a 862 to deck 900
+player 899 current hand : 455 996 716 956 570 360 117 899 149 346 576 689 321 369 699 947 314 977 860 853 
+player 899 draws a 797 from deck 899
+player 899 discards a 455 to deck 900
+player 899 current hand : 996 716 956 570 360 117 899 149 346 576 689 321 369 699 947 314 977 860 853 797 
+player 899 draws a 918 from deck 899
+player 899 discards a 996 to deck 900
+player 899 current hand : 716 956 570 360 117 899 149 346 576 689 321 369 699 947 314 977 860 853 797 918 
+player 899 draws a 356 from deck 899
+player 899 discards a 716 to deck 900
+player 899 current hand : 956 570 360 117 899 149 346 576 689 321 369 699 947 314 977 860 853 797 918 356 
+player 899 draws a 684 from deck 899
+player 899 discards a 956 to deck 900
+player 899 current hand : 570 360 117 899 149 346 576 689 321 369 699 947 314 977 860 853 797 918 356 684 
+player 899 draws a 420 from deck 899
+player 899 discards a 570 to deck 900
+player 899 current hand : 360 117 899 149 346 576 689 321 369 699 947 314 977 860 853 797 918 356 684 420 
+player 899 draws a 795 from deck 899
+player 899 discards a 360 to deck 900
+player 899 current hand : 117 899 149 346 576 689 321 369 699 947 314 977 860 853 797 918 356 684 420 795 
+player 899 draws a 581 from deck 899
+player 899 discards a 117 to deck 900
+player 899 current hand : 899 149 346 576 689 321 369 699 947 314 977 860 853 797 918 356 684 420 795 581 
+player 899 draws a 183 from deck 899
+player 899 discards a 149 to deck 900
+player 899 current hand : 899 346 576 689 321 369 699 947 314 977 860 853 797 918 356 684 420 795 581 183 
+player 899 draws a 822 from deck 899
+player 899 discards a 346 to deck 900
+player 899 current hand : 899 576 689 321 369 699 947 314 977 860 853 797 918 356 684 420 795 581 183 822 
+player 899 draws a 50 from deck 899
+player 899 discards a 576 to deck 900
+player 899 current hand : 899 689 321 369 699 947 314 977 860 853 797 918 356 684 420 795 581 183 822 50 
+player 899 draws a 370 from deck 899
+player 899 discards a 689 to deck 900
+player 899 current hand : 899 321 369 699 947 314 977 860 853 797 918 356 684 420 795 581 183 822 50 370 
+player 899 draws a 797 from deck 899
+player 899 discards a 321 to deck 900
+player 899 current hand : 899 369 699 947 314 977 860 853 797 918 356 684 420 795 581 183 822 50 370 797 
+player 899 draws a 938 from deck 899
+player 899 discards a 369 to deck 900
+player 899 current hand : 899 699 947 314 977 860 853 797 918 356 684 420 795 581 183 822 50 370 797 938 
+player 899 draws a 829 from deck 899
+player 899 discards a 699 to deck 900
+player 899 current hand : 899 947 314 977 860 853 797 918 356 684 420 795 581 183 822 50 370 797 938 829 
+player 899 draws a 640 from deck 899
+player 899 discards a 947 to deck 900
+player 899 current hand : 899 314 977 860 853 797 918 356 684 420 795 581 183 822 50 370 797 938 829 640 
+player 899 draws a 768 from deck 899
+player 899 discards a 314 to deck 900
+player 899 current hand : 899 977 860 853 797 918 356 684 420 795 581 183 822 50 370 797 938 829 640 768 
+player 899 draws a 578 from deck 899
+player 899 discards a 977 to deck 900
+player 899 current hand : 899 860 853 797 918 356 684 420 795 581 183 822 50 370 797 938 829 640 768 578 
+player 899 draws a 68 from deck 899
+player 899 discards a 860 to deck 900
+player 899 current hand : 899 853 797 918 356 684 420 795 581 183 822 50 370 797 938 829 640 768 578 68 
+player 899 draws a 389 from deck 899
+player 899 discards a 853 to deck 900
+player 899 current hand : 899 797 918 356 684 420 795 581 183 822 50 370 797 938 829 640 768 578 68 389 
+player 899 draws a 143 from deck 899
+player 899 discards a 797 to deck 900
+player 899 current hand : 899 918 356 684 420 795 581 183 822 50 370 797 938 829 640 768 578 68 389 143 
+player 899 draws a 170 from deck 899
+player 899 discards a 918 to deck 900
+player 899 current hand : 899 356 684 420 795 581 183 822 50 370 797 938 829 640 768 578 68 389 143 170 
+player 899 draws a 47 from deck 899
+player 899 discards a 356 to deck 900
+player 899 current hand : 899 684 420 795 581 183 822 50 370 797 938 829 640 768 578 68 389 143 170 47 
+player 899 draws a 103 from deck 899
+player 899 discards a 684 to deck 900
+player 899 current hand : 899 420 795 581 183 822 50 370 797 938 829 640 768 578 68 389 143 170 47 103 
+player 899 draws a 765 from deck 899
+player 899 discards a 420 to deck 900
+player 899 current hand : 899 795 581 183 822 50 370 797 938 829 640 768 578 68 389 143 170 47 103 765 
+player 899 draws a 177 from deck 899
+player 899 discards a 795 to deck 900
+player 899 current hand : 899 581 183 822 50 370 797 938 829 640 768 578 68 389 143 170 47 103 765 177 
+player 899 draws a 744 from deck 899
+player 899 discards a 581 to deck 900
+player 899 current hand : 899 183 822 50 370 797 938 829 640 768 578 68 389 143 170 47 103 765 177 744 
+player 899 draws a 412 from deck 899
+player 899 discards a 183 to deck 900
+player 899 current hand : 899 822 50 370 797 938 829 640 768 578 68 389 143 170 47 103 765 177 744 412 
+player 899 draws a 669 from deck 899
+player 899 discards a 822 to deck 900
+player 899 current hand : 899 50 370 797 938 829 640 768 578 68 389 143 170 47 103 765 177 744 412 669 
+player 899 draws a 417 from deck 899
+player 899 discards a 50 to deck 900
+player 899 current hand : 899 370 797 938 829 640 768 578 68 389 143 170 47 103 765 177 744 412 669 417 
+player 899 draws a 794 from deck 899
+player 899 discards a 370 to deck 900
+player 899 current hand : 899 797 938 829 640 768 578 68 389 143 170 47 103 765 177 744 412 669 417 794 
+player 899 draws a 767 from deck 899
+player 899 discards a 797 to deck 900
+player 899 current hand : 899 938 829 640 768 578 68 389 143 170 47 103 765 177 744 412 669 417 794 767 
+player 899 draws a 794 from deck 899
+player 899 discards a 938 to deck 900
+player 899 current hand : 899 829 640 768 578 68 389 143 170 47 103 765 177 744 412 669 417 794 767 794 
+player 899 draws a 971 from deck 899
+player 899 discards a 829 to deck 900
+player 899 current hand : 899 640 768 578 68 389 143 170 47 103 765 177 744 412 669 417 794 767 794 971 
+player 899 draws a 309 from deck 899
+player 899 discards a 640 to deck 900
+player 899 current hand : 899 768 578 68 389 143 170 47 103 765 177 744 412 669 417 794 767 794 971 309 
+player 899 draws a 821 from deck 899
+player 899 discards a 768 to deck 900
+player 899 current hand : 899 578 68 389 143 170 47 103 765 177 744 412 669 417 794 767 794 971 309 821 
+player 899 draws a 909 from deck 899
+player 899 discards a 578 to deck 900
+player 899 current hand : 899 68 389 143 170 47 103 765 177 744 412 669 417 794 767 794 971 309 821 909 
+player 899 draws a 796 from deck 899
+player 899 discards a 68 to deck 900
+player 899 current hand : 899 389 143 170 47 103 765 177 744 412 669 417 794 767 794 971 309 821 909 796 
+player 899 draws a 128 from deck 899
+player 899 discards a 389 to deck 900
+player 899 current hand : 899 143 170 47 103 765 177 744 412 669 417 794 767 794 971 309 821 909 796 128 
+player 899 draws a 726 from deck 899
+player 899 discards a 143 to deck 900
+player 899 current hand : 899 170 47 103 765 177 744 412 669 417 794 767 794 971 309 821 909 796 128 726 
+player 899 draws a 669 from deck 899
+player 899 discards a 170 to deck 900
+player 899 current hand : 899 47 103 765 177 744 412 669 417 794 767 794 971 309 821 909 796 128 726 669 
+player 899 draws a 973 from deck 899
+player 899 discards a 47 to deck 900
+player 899 current hand : 899 103 765 177 744 412 669 417 794 767 794 971 309 821 909 796 128 726 669 973 
+player 899 draws a 241 from deck 899
+player 899 discards a 103 to deck 900
+player 899 current hand : 899 765 177 744 412 669 417 794 767 794 971 309 821 909 796 128 726 669 973 241 
+player 899 draws a 418 from deck 899
+player 899 discards a 765 to deck 900
+player 899 current hand : 899 177 744 412 669 417 794 767 794 971 309 821 909 796 128 726 669 973 241 418 
+player 899 draws a 169 from deck 899
+player 899 discards a 177 to deck 900
+player 899 current hand : 899 744 412 669 417 794 767 794 971 309 821 909 796 128 726 669 973 241 418 169 
+player 899 draws a 455 from deck 899
+player 899 discards a 744 to deck 900
+player 899 current hand : 899 412 669 417 794 767 794 971 309 821 909 796 128 726 669 973 241 418 169 455 
+player 899 draws a 871 from deck 899
+player 899 discards a 412 to deck 900
+player 899 current hand : 899 669 417 794 767 794 971 309 821 909 796 128 726 669 973 241 418 169 455 871 
+player 899 draws a 240 from deck 899
+player 899 discards a 669 to deck 900
+player 899 current hand : 899 417 794 767 794 971 309 821 909 796 128 726 669 973 241 418 169 455 871 240 
+player 899 draws a 671 from deck 899
+player 899 discards a 417 to deck 900
+player 899 current hand : 899 794 767 794 971 309 821 909 796 128 726 669 973 241 418 169 455 871 240 671 
+player 899 draws a 200 from deck 899
+player 899 discards a 794 to deck 900
+player 899 current hand : 899 767 794 971 309 821 909 796 128 726 669 973 241 418 169 455 871 240 671 200 
+player 899 draws a 784 from deck 899
+player 899 discards a 767 to deck 900
+player 899 current hand : 899 794 971 309 821 909 796 128 726 669 973 241 418 169 455 871 240 671 200 784 
+player 899 draws a 817 from deck 899
+player 899 discards a 794 to deck 900
+player 899 current hand : 899 971 309 821 909 796 128 726 669 973 241 418 169 455 871 240 671 200 784 817 
+player 899 draws a 973 from deck 899
+player 899 discards a 971 to deck 900
+player 899 current hand : 899 309 821 909 796 128 726 669 973 241 418 169 455 871 240 671 200 784 817 973 
+player 899 draws a 765 from deck 899
+player 899 discards a 309 to deck 900
+player 899 current hand : 899 821 909 796 128 726 669 973 241 418 169 455 871 240 671 200 784 817 973 765 
+player 899 draws a 303 from deck 899
+player 899 discards a 821 to deck 900
+player 899 current hand : 899 909 796 128 726 669 973 241 418 169 455 871 240 671 200 784 817 973 765 303 
+player 899 draws a 449 from deck 899
+player 899 discards a 909 to deck 900
+player 899 current hand : 899 796 128 726 669 973 241 418 169 455 871 240 671 200 784 817 973 765 303 449 
+player 899 draws a 613 from deck 899
+player 899 discards a 796 to deck 900
+player 899 current hand : 899 128 726 669 973 241 418 169 455 871 240 671 200 784 817 973 765 303 449 613 
+player 899 draws a 266 from deck 899
+player 899 discards a 128 to deck 900
+player 899 current hand : 899 726 669 973 241 418 169 455 871 240 671 200 784 817 973 765 303 449 613 266 
+player 899 draws a 815 from deck 899
+player 899 discards a 726 to deck 900
+player 899 current hand : 899 669 973 241 418 169 455 871 240 671 200 784 817 973 765 303 449 613 266 815 
+player 899 draws a 531 from deck 899
+player 899 discards a 669 to deck 900
+player 899 current hand : 899 973 241 418 169 455 871 240 671 200 784 817 973 765 303 449 613 266 815 531 
+player 899 draws a 947 from deck 899
+player 899 discards a 973 to deck 900
+player 899 current hand : 899 241 418 169 455 871 240 671 200 784 817 973 765 303 449 613 266 815 531 947 
+player 899 draws a 220 from deck 899
+player 899 discards a 241 to deck 900
+player 899 current hand : 899 418 169 455 871 240 671 200 784 817 973 765 303 449 613 266 815 531 947 220 
+player 899 draws a 233 from deck 899
+player 899 discards a 418 to deck 900
+player 899 current hand : 899 169 455 871 240 671 200 784 817 973 765 303 449 613 266 815 531 947 220 233 
+player 899 draws a 642 from deck 899
+player 899 discards a 169 to deck 900
+player 899 current hand : 899 455 871 240 671 200 784 817 973 765 303 449 613 266 815 531 947 220 233 642 
+player 899 draws a 364 from deck 899
+player 899 discards a 455 to deck 900
+player 899 current hand : 899 871 240 671 200 784 817 973 765 303 449 613 266 815 531 947 220 233 642 364 
+player 899 draws a 284 from deck 899
+player 899 discards a 871 to deck 900
+player 899 current hand : 899 240 671 200 784 817 973 765 303 449 613 266 815 531 947 220 233 642 364 284 
+player 899 draws a 875 from deck 899
+player 899 discards a 240 to deck 900
+player 899 current hand : 899 671 200 784 817 973 765 303 449 613 266 815 531 947 220 233 642 364 284 875 
+player 899 draws a 523 from deck 899
+player 899 discards a 671 to deck 900
+player 899 current hand : 899 200 784 817 973 765 303 449 613 266 815 531 947 220 233 642 364 284 875 523 
+player 899 draws a 868 from deck 899
+player 899 discards a 200 to deck 900
+player 899 current hand : 899 784 817 973 765 303 449 613 266 815 531 947 220 233 642 364 284 875 523 868 
+player 899 draws a 645 from deck 899
+player 899 discards a 784 to deck 900
+player 899 current hand : 899 817 973 765 303 449 613 266 815 531 947 220 233 642 364 284 875 523 868 645 
+player 899 draws a 456 from deck 899
+player 899 discards a 817 to deck 900
+player 899 current hand : 899 973 765 303 449 613 266 815 531 947 220 233 642 364 284 875 523 868 645 456 
+player 899 draws a 48 from deck 899
+player 899 discards a 973 to deck 900
+player 899 current hand : 899 765 303 449 613 266 815 531 947 220 233 642 364 284 875 523 868 645 456 48 
+player 899 draws a 409 from deck 899
+player 899 discards a 765 to deck 900
+player 899 current hand : 899 303 449 613 266 815 531 947 220 233 642 364 284 875 523 868 645 456 48 409 
+player 899 draws a 182 from deck 899
+player 899 discards a 303 to deck 900
+player 899 current hand : 899 449 613 266 815 531 947 220 233 642 364 284 875 523 868 645 456 48 409 182 
+player 899 draws a 751 from deck 899
+player 899 discards a 449 to deck 900
+player 899 current hand : 899 613 266 815 531 947 220 233 642 364 284 875 523 868 645 456 48 409 182 751 
+player 899 draws a 474 from deck 899
+player 899 discards a 613 to deck 900
+player 899 current hand : 899 266 815 531 947 220 233 642 364 284 875 523 868 645 456 48 409 182 751 474 
+player 899 draws a 93 from deck 899
+player 899 discards a 266 to deck 900
+player 899 current hand : 899 815 531 947 220 233 642 364 284 875 523 868 645 456 48 409 182 751 474 93 
+player 899 draws a 622 from deck 899
+player 899 discards a 815 to deck 900
+player 899 current hand : 899 531 947 220 233 642 364 284 875 523 868 645 456 48 409 182 751 474 93 622 
+player 899 draws a 74 from deck 899
+player 899 discards a 531 to deck 900
+player 899 current hand : 899 947 220 233 642 364 284 875 523 868 645 456 48 409 182 751 474 93 622 74 
+player 899 draws a 135 from deck 899
+player 899 discards a 947 to deck 900
+player 899 current hand : 899 220 233 642 364 284 875 523 868 645 456 48 409 182 751 474 93 622 74 135 
+player 899 draws a 160 from deck 899
+player 899 discards a 220 to deck 900
+player 899 current hand : 899 233 642 364 284 875 523 868 645 456 48 409 182 751 474 93 622 74 135 160 
+player 899 draws a 793 from deck 899
+player 899 discards a 233 to deck 900
+player 899 current hand : 899 642 364 284 875 523 868 645 456 48 409 182 751 474 93 622 74 135 160 793 
+player 899 draws a 110 from deck 899
+player 899 discards a 642 to deck 900
+player 899 current hand : 899 364 284 875 523 868 645 456 48 409 182 751 474 93 622 74 135 160 793 110 
+player 899 draws a 532 from deck 899
+player 899 discards a 364 to deck 900
+player 899 current hand : 899 284 875 523 868 645 456 48 409 182 751 474 93 622 74 135 160 793 110 532 
+player 899 draws a 16 from deck 899
+player 899 discards a 284 to deck 900
+player 899 current hand : 899 875 523 868 645 456 48 409 182 751 474 93 622 74 135 160 793 110 532 16 
+player 899 draws a 246 from deck 899
+player 899 discards a 875 to deck 900
+player 899 current hand : 899 523 868 645 456 48 409 182 751 474 93 622 74 135 160 793 110 532 16 246 
+player 899 draws a 844 from deck 899
+player 899 discards a 523 to deck 900
+player 899 current hand : 899 868 645 456 48 409 182 751 474 93 622 74 135 160 793 110 532 16 246 844 
+player 899 draws a 674 from deck 899
+player 899 discards a 868 to deck 900
+player 899 current hand : 899 645 456 48 409 182 751 474 93 622 74 135 160 793 110 532 16 246 844 674 
+player 899 draws a 326 from deck 899
+player 899 discards a 645 to deck 900
+player 899 current hand : 899 456 48 409 182 751 474 93 622 74 135 160 793 110 532 16 246 844 674 326 

@@ -1,0 +1,335 @@
+player 965 initial hand 261 931 933 484 599 642 418 577 255 65 673 470 315 389 79 798 875 966 898 822 
+player 965 draws a 83 from deck 965
+player 965 discards a 261 to deck 966
+player 965 current hand : 931 933 484 599 642 418 577 255 65 673 470 315 389 79 798 875 966 898 822 83 
+player 965 draws a 13 from deck 965
+player 965 discards a 931 to deck 966
+player 965 current hand : 933 484 599 642 418 577 255 65 673 470 315 389 79 798 875 966 898 822 83 13 
+player 965 draws a 258 from deck 965
+player 965 discards a 933 to deck 966
+player 965 current hand : 484 599 642 418 577 255 65 673 470 315 389 79 798 875 966 898 822 83 13 258 
+player 965 draws a 462 from deck 965
+player 965 discards a 484 to deck 966
+player 965 current hand : 599 642 418 577 255 65 673 470 315 389 79 798 875 966 898 822 83 13 258 462 
+player 965 draws a 384 from deck 965
+player 965 discards a 599 to deck 966
+player 965 current hand : 642 418 577 255 65 673 470 315 389 79 798 875 966 898 822 83 13 258 462 384 
+player 965 draws a 757 from deck 965
+player 965 discards a 642 to deck 966
+player 965 current hand : 418 577 255 65 673 470 315 389 79 798 875 966 898 822 83 13 258 462 384 757 
+player 965 draws a 305 from deck 965
+player 965 discards a 418 to deck 966
+player 965 current hand : 577 255 65 673 470 315 389 79 798 875 966 898 822 83 13 258 462 384 757 305 
+player 965 draws a 455 from deck 965
+player 965 discards a 577 to deck 966
+player 965 current hand : 255 65 673 470 315 389 79 798 875 966 898 822 83 13 258 462 384 757 305 455 
+player 965 draws a 242 from deck 965
+player 965 discards a 255 to deck 966
+player 965 current hand : 65 673 470 315 389 79 798 875 966 898 822 83 13 258 462 384 757 305 455 242 
+player 965 draws a 110 from deck 965
+player 965 discards a 65 to deck 966
+player 965 current hand : 673 470 315 389 79 798 875 966 898 822 83 13 258 462 384 757 305 455 242 110 
+player 965 draws a 164 from deck 965
+player 965 discards a 673 to deck 966
+player 965 current hand : 470 315 389 79 798 875 966 898 822 83 13 258 462 384 757 305 455 242 110 164 
+player 965 draws a 70 from deck 965
+player 965 discards a 470 to deck 966
+player 965 current hand : 315 389 79 798 875 966 898 822 83 13 258 462 384 757 305 455 242 110 164 70 
+player 965 draws a 636 from deck 965
+player 965 discards a 315 to deck 966
+player 965 current hand : 389 79 798 875 966 898 822 83 13 258 462 384 757 305 455 242 110 164 70 636 
+player 965 draws a 458 from deck 965
+player 965 discards a 389 to deck 966
+player 965 current hand : 79 798 875 966 898 822 83 13 258 462 384 757 305 455 242 110 164 70 636 458 
+player 965 draws a 615 from deck 965
+player 965 discards a 79 to deck 966
+player 965 current hand : 798 875 966 898 822 83 13 258 462 384 757 305 455 242 110 164 70 636 458 615 
+player 965 draws a 930 from deck 965
+player 965 discards a 798 to deck 966
+player 965 current hand : 875 966 898 822 83 13 258 462 384 757 305 455 242 110 164 70 636 458 615 930 
+player 965 draws a 657 from deck 965
+player 965 discards a 875 to deck 966
+player 965 current hand : 966 898 822 83 13 258 462 384 757 305 455 242 110 164 70 636 458 615 930 657 
+player 965 draws a 54 from deck 965
+player 965 discards a 966 to deck 966
+player 965 current hand : 898 822 83 13 258 462 384 757 305 455 242 110 164 70 636 458 615 930 657 54 
+player 965 draws a 512 from deck 965
+player 965 discards a 898 to deck 966
+player 965 current hand : 822 83 13 258 462 384 757 305 455 242 110 164 70 636 458 615 930 657 54 512 
+player 965 draws a 330 from deck 965
+player 965 discards a 822 to deck 966
+player 965 current hand : 83 13 258 462 384 757 305 455 242 110 164 70 636 458 615 930 657 54 512 330 
+player 965 draws a 518 from deck 965
+player 965 discards a 83 to deck 966
+player 965 current hand : 13 258 462 384 757 305 455 242 110 164 70 636 458 615 930 657 54 512 330 518 
+player 965 draws a 470 from deck 965
+player 965 discards a 13 to deck 966
+player 965 current hand : 258 462 384 757 305 455 242 110 164 70 636 458 615 930 657 54 512 330 518 470 
+player 965 draws a 252 from deck 965
+player 965 discards a 258 to deck 966
+player 965 current hand : 462 384 757 305 455 242 110 164 70 636 458 615 930 657 54 512 330 518 470 252 
+player 965 draws a 620 from deck 965
+player 965 discards a 462 to deck 966
+player 965 current hand : 384 757 305 455 242 110 164 70 636 458 615 930 657 54 512 330 518 470 252 620 
+player 965 draws a 466 from deck 965
+player 965 discards a 384 to deck 966
+player 965 current hand : 757 305 455 242 110 164 70 636 458 615 930 657 54 512 330 518 470 252 620 466 
+player 965 draws a 886 from deck 965
+player 965 discards a 757 to deck 966
+player 965 current hand : 305 455 242 110 164 70 636 458 615 930 657 54 512 330 518 470 252 620 466 886 
+player 965 draws a 988 from deck 965
+player 965 discards a 305 to deck 966
+player 965 current hand : 455 242 110 164 70 636 458 615 930 657 54 512 330 518 470 252 620 466 886 988 
+player 965 draws a 212 from deck 965
+player 965 discards a 455 to deck 966
+player 965 current hand : 242 110 164 70 636 458 615 930 657 54 512 330 518 470 252 620 466 886 988 212 
+player 965 draws a 151 from deck 965
+player 965 discards a 242 to deck 966
+player 965 current hand : 110 164 70 636 458 615 930 657 54 512 330 518 470 252 620 466 886 988 212 151 
+player 965 draws a 712 from deck 965
+player 965 discards a 110 to deck 966
+player 965 current hand : 164 70 636 458 615 930 657 54 512 330 518 470 252 620 466 886 988 212 151 712 
+player 965 draws a 669 from deck 965
+player 965 discards a 164 to deck 966
+player 965 current hand : 70 636 458 615 930 657 54 512 330 518 470 252 620 466 886 988 212 151 712 669 
+player 965 draws a 945 from deck 965
+player 965 discards a 70 to deck 966
+player 965 current hand : 636 458 615 930 657 54 512 330 518 470 252 620 466 886 988 212 151 712 669 945 
+player 965 draws a 778 from deck 965
+player 965 discards a 636 to deck 966
+player 965 current hand : 458 615 930 657 54 512 330 518 470 252 620 466 886 988 212 151 712 669 945 778 
+player 965 draws a 229 from deck 965
+player 965 discards a 458 to deck 966
+player 965 current hand : 615 930 657 54 512 330 518 470 252 620 466 886 988 212 151 712 669 945 778 229 
+player 965 draws a 351 from deck 965
+player 965 discards a 615 to deck 966
+player 965 current hand : 930 657 54 512 330 518 470 252 620 466 886 988 212 151 712 669 945 778 229 351 
+player 965 draws a 535 from deck 965
+player 965 discards a 930 to deck 966
+player 965 current hand : 657 54 512 330 518 470 252 620 466 886 988 212 151 712 669 945 778 229 351 535 
+player 965 draws a 142 from deck 965
+player 965 discards a 657 to deck 966
+player 965 current hand : 54 512 330 518 470 252 620 466 886 988 212 151 712 669 945 778 229 351 535 142 
+player 965 draws a 608 from deck 965
+player 965 discards a 54 to deck 966
+player 965 current hand : 512 330 518 470 252 620 466 886 988 212 151 712 669 945 778 229 351 535 142 608 
+player 965 draws a 1000 from deck 965
+player 965 discards a 512 to deck 966
+player 965 current hand : 330 518 470 252 620 466 886 988 212 151 712 669 945 778 229 351 535 142 608 1000 
+player 965 draws a 948 from deck 965
+player 965 discards a 330 to deck 966
+player 965 current hand : 518 470 252 620 466 886 988 212 151 712 669 945 778 229 351 535 142 608 1000 948 
+player 965 draws a 675 from deck 965
+player 965 discards a 518 to deck 966
+player 965 current hand : 470 252 620 466 886 988 212 151 712 669 945 778 229 351 535 142 608 1000 948 675 
+player 965 draws a 707 from deck 965
+player 965 discards a 470 to deck 966
+player 965 current hand : 252 620 466 886 988 212 151 712 669 945 778 229 351 535 142 608 1000 948 675 707 
+player 965 draws a 575 from deck 965
+player 965 discards a 252 to deck 966
+player 965 current hand : 620 466 886 988 212 151 712 669 945 778 229 351 535 142 608 1000 948 675 707 575 
+player 965 draws a 169 from deck 965
+player 965 discards a 620 to deck 966
+player 965 current hand : 466 886 988 212 151 712 669 945 778 229 351 535 142 608 1000 948 675 707 575 169 
+player 965 draws a 608 from deck 965
+player 965 discards a 466 to deck 966
+player 965 current hand : 886 988 212 151 712 669 945 778 229 351 535 142 608 1000 948 675 707 575 169 608 
+player 965 draws a 538 from deck 965
+player 965 discards a 886 to deck 966
+player 965 current hand : 988 212 151 712 669 945 778 229 351 535 142 608 1000 948 675 707 575 169 608 538 
+player 965 draws a 668 from deck 965
+player 965 discards a 988 to deck 966
+player 965 current hand : 212 151 712 669 945 778 229 351 535 142 608 1000 948 675 707 575 169 608 538 668 
+player 965 draws a 888 from deck 965
+player 965 discards a 212 to deck 966
+player 965 current hand : 151 712 669 945 778 229 351 535 142 608 1000 948 675 707 575 169 608 538 668 888 
+player 965 draws a 538 from deck 965
+player 965 discards a 151 to deck 966
+player 965 current hand : 712 669 945 778 229 351 535 142 608 1000 948 675 707 575 169 608 538 668 888 538 
+player 965 draws a 641 from deck 965
+player 965 discards a 712 to deck 966
+player 965 current hand : 669 945 778 229 351 535 142 608 1000 948 675 707 575 169 608 538 668 888 538 641 
+player 965 draws a 399 from deck 965
+player 965 discards a 669 to deck 966
+player 965 current hand : 945 778 229 351 535 142 608 1000 948 675 707 575 169 608 538 668 888 538 641 399 
+player 965 draws a 177 from deck 965
+player 965 discards a 945 to deck 966
+player 965 current hand : 778 229 351 535 142 608 1000 948 675 707 575 169 608 538 668 888 538 641 399 177 
+player 965 draws a 898 from deck 965
+player 965 discards a 778 to deck 966
+player 965 current hand : 229 351 535 142 608 1000 948 675 707 575 169 608 538 668 888 538 641 399 177 898 
+player 965 draws a 887 from deck 965
+player 965 discards a 229 to deck 966
+player 965 current hand : 351 535 142 608 1000 948 675 707 575 169 608 538 668 888 538 641 399 177 898 887 
+player 965 draws a 707 from deck 965
+player 965 discards a 351 to deck 966
+player 965 current hand : 535 142 608 1000 948 675 707 575 169 608 538 668 888 538 641 399 177 898 887 707 
+player 965 draws a 760 from deck 965
+player 965 discards a 535 to deck 966
+player 965 current hand : 142 608 1000 948 675 707 575 169 608 538 668 888 538 641 399 177 898 887 707 760 
+player 965 draws a 348 from deck 965
+player 965 discards a 142 to deck 966
+player 965 current hand : 608 1000 948 675 707 575 169 608 538 668 888 538 641 399 177 898 887 707 760 348 
+player 965 draws a 550 from deck 965
+player 965 discards a 608 to deck 966
+player 965 current hand : 1000 948 675 707 575 169 608 538 668 888 538 641 399 177 898 887 707 760 348 550 
+player 965 draws a 100 from deck 965
+player 965 discards a 1000 to deck 966
+player 965 current hand : 948 675 707 575 169 608 538 668 888 538 641 399 177 898 887 707 760 348 550 100 
+player 965 draws a 29 from deck 965
+player 965 discards a 948 to deck 966
+player 965 current hand : 675 707 575 169 608 538 668 888 538 641 399 177 898 887 707 760 348 550 100 29 
+player 965 draws a 852 from deck 965
+player 965 discards a 675 to deck 966
+player 965 current hand : 707 575 169 608 538 668 888 538 641 399 177 898 887 707 760 348 550 100 29 852 
+player 965 draws a 410 from deck 965
+player 965 discards a 707 to deck 966
+player 965 current hand : 575 169 608 538 668 888 538 641 399 177 898 887 707 760 348 550 100 29 852 410 
+player 965 draws a 621 from deck 965
+player 965 discards a 575 to deck 966
+player 965 current hand : 169 608 538 668 888 538 641 399 177 898 887 707 760 348 550 100 29 852 410 621 
+player 965 draws a 510 from deck 965
+player 965 discards a 169 to deck 966
+player 965 current hand : 608 538 668 888 538 641 399 177 898 887 707 760 348 550 100 29 852 410 621 510 
+player 965 draws a 470 from deck 965
+player 965 discards a 608 to deck 966
+player 965 current hand : 538 668 888 538 641 399 177 898 887 707 760 348 550 100 29 852 410 621 510 470 
+player 965 draws a 984 from deck 965
+player 965 discards a 538 to deck 966
+player 965 current hand : 668 888 538 641 399 177 898 887 707 760 348 550 100 29 852 410 621 510 470 984 
+player 965 draws a 518 from deck 965
+player 965 discards a 668 to deck 966
+player 965 current hand : 888 538 641 399 177 898 887 707 760 348 550 100 29 852 410 621 510 470 984 518 
+player 965 draws a 481 from deck 965
+player 965 discards a 888 to deck 966
+player 965 current hand : 538 641 399 177 898 887 707 760 348 550 100 29 852 410 621 510 470 984 518 481 
+player 965 draws a 554 from deck 965
+player 965 discards a 538 to deck 966
+player 965 current hand : 641 399 177 898 887 707 760 348 550 100 29 852 410 621 510 470 984 518 481 554 
+player 965 draws a 975 from deck 965
+player 965 discards a 641 to deck 966
+player 965 current hand : 399 177 898 887 707 760 348 550 100 29 852 410 621 510 470 984 518 481 554 975 
+player 965 draws a 286 from deck 965
+player 965 discards a 399 to deck 966
+player 965 current hand : 177 898 887 707 760 348 550 100 29 852 410 621 510 470 984 518 481 554 975 286 
+player 965 draws a 52 from deck 965
+player 965 discards a 177 to deck 966
+player 965 current hand : 898 887 707 760 348 550 100 29 852 410 621 510 470 984 518 481 554 975 286 52 
+player 965 draws a 364 from deck 965
+player 965 discards a 898 to deck 966
+player 965 current hand : 887 707 760 348 550 100 29 852 410 621 510 470 984 518 481 554 975 286 52 364 
+player 965 draws a 375 from deck 965
+player 965 discards a 887 to deck 966
+player 965 current hand : 707 760 348 550 100 29 852 410 621 510 470 984 518 481 554 975 286 52 364 375 
+player 965 draws a 600 from deck 965
+player 965 discards a 707 to deck 966
+player 965 current hand : 760 348 550 100 29 852 410 621 510 470 984 518 481 554 975 286 52 364 375 600 
+player 965 draws a 266 from deck 965
+player 965 discards a 760 to deck 966
+player 965 current hand : 348 550 100 29 852 410 621 510 470 984 518 481 554 975 286 52 364 375 600 266 
+player 965 draws a 310 from deck 965
+player 965 discards a 348 to deck 966
+player 965 current hand : 550 100 29 852 410 621 510 470 984 518 481 554 975 286 52 364 375 600 266 310 
+player 965 draws a 136 from deck 965
+player 965 discards a 550 to deck 966
+player 965 current hand : 100 29 852 410 621 510 470 984 518 481 554 975 286 52 364 375 600 266 310 136 
+player 965 draws a 612 from deck 965
+player 965 discards a 100 to deck 966
+player 965 current hand : 29 852 410 621 510 470 984 518 481 554 975 286 52 364 375 600 266 310 136 612 
+player 965 draws a 899 from deck 965
+player 965 discards a 29 to deck 966
+player 965 current hand : 852 410 621 510 470 984 518 481 554 975 286 52 364 375 600 266 310 136 612 899 
+player 965 draws a 471 from deck 965
+player 965 discards a 852 to deck 966
+player 965 current hand : 410 621 510 470 984 518 481 554 975 286 52 364 375 600 266 310 136 612 899 471 
+player 965 draws a 907 from deck 965
+player 965 discards a 410 to deck 966
+player 965 current hand : 621 510 470 984 518 481 554 975 286 52 364 375 600 266 310 136 612 899 471 907 
+player 965 draws a 896 from deck 965
+player 965 discards a 621 to deck 966
+player 965 current hand : 510 470 984 518 481 554 975 286 52 364 375 600 266 310 136 612 899 471 907 896 
+player 965 draws a 681 from deck 965
+player 965 discards a 510 to deck 966
+player 965 current hand : 470 984 518 481 554 975 286 52 364 375 600 266 310 136 612 899 471 907 896 681 
+player 965 draws a 946 from deck 965
+player 965 discards a 470 to deck 966
+player 965 current hand : 984 518 481 554 975 286 52 364 375 600 266 310 136 612 899 471 907 896 681 946 
+player 965 draws a 279 from deck 965
+player 965 discards a 984 to deck 966
+player 965 current hand : 518 481 554 975 286 52 364 375 600 266 310 136 612 899 471 907 896 681 946 279 
+player 965 draws a 589 from deck 965
+player 965 discards a 518 to deck 966
+player 965 current hand : 481 554 975 286 52 364 375 600 266 310 136 612 899 471 907 896 681 946 279 589 
+player 965 draws a 228 from deck 965
+player 965 discards a 481 to deck 966
+player 965 current hand : 554 975 286 52 364 375 600 266 310 136 612 899 471 907 896 681 946 279 589 228 
+player 965 draws a 640 from deck 965
+player 965 discards a 554 to deck 966
+player 965 current hand : 975 286 52 364 375 600 266 310 136 612 899 471 907 896 681 946 279 589 228 640 
+player 965 draws a 42 from deck 965
+player 965 discards a 975 to deck 966
+player 965 current hand : 286 52 364 375 600 266 310 136 612 899 471 907 896 681 946 279 589 228 640 42 
+player 965 draws a 737 from deck 965
+player 965 discards a 286 to deck 966
+player 965 current hand : 52 364 375 600 266 310 136 612 899 471 907 896 681 946 279 589 228 640 42 737 
+player 965 draws a 308 from deck 965
+player 965 discards a 52 to deck 966
+player 965 current hand : 364 375 600 266 310 136 612 899 471 907 896 681 946 279 589 228 640 42 737 308 
+player 965 draws a 861 from deck 965
+player 965 discards a 364 to deck 966
+player 965 current hand : 375 600 266 310 136 612 899 471 907 896 681 946 279 589 228 640 42 737 308 861 
+player 965 draws a 239 from deck 965
+player 965 discards a 375 to deck 966
+player 965 current hand : 600 266 310 136 612 899 471 907 896 681 946 279 589 228 640 42 737 308 861 239 
+player 965 draws a 577 from deck 965
+player 965 discards a 600 to deck 966
+player 965 current hand : 266 310 136 612 899 471 907 896 681 946 279 589 228 640 42 737 308 861 239 577 
+player 965 draws a 922 from deck 965
+player 965 discards a 266 to deck 966
+player 965 current hand : 310 136 612 899 471 907 896 681 946 279 589 228 640 42 737 308 861 239 577 922 
+player 965 draws a 309 from deck 965
+player 965 discards a 310 to deck 966
+player 965 current hand : 136 612 899 471 907 896 681 946 279 589 228 640 42 737 308 861 239 577 922 309 
+player 965 draws a 248 from deck 965
+player 965 discards a 136 to deck 966
+player 965 current hand : 612 899 471 907 896 681 946 279 589 228 640 42 737 308 861 239 577 922 309 248 
+player 965 draws a 562 from deck 965
+player 965 discards a 612 to deck 966
+player 965 current hand : 899 471 907 896 681 946 279 589 228 640 42 737 308 861 239 577 922 309 248 562 
+player 965 draws a 853 from deck 965
+player 965 discards a 899 to deck 966
+player 965 current hand : 471 907 896 681 946 279 589 228 640 42 737 308 861 239 577 922 309 248 562 853 
+player 965 draws a 666 from deck 965
+player 965 discards a 471 to deck 966
+player 965 current hand : 907 896 681 946 279 589 228 640 42 737 308 861 239 577 922 309 248 562 853 666 
+player 965 draws a 666 from deck 965
+player 965 discards a 907 to deck 966
+player 965 current hand : 896 681 946 279 589 228 640 42 737 308 861 239 577 922 309 248 562 853 666 666 
+player 965 draws a 117 from deck 965
+player 965 discards a 896 to deck 966
+player 965 current hand : 681 946 279 589 228 640 42 737 308 861 239 577 922 309 248 562 853 666 666 117 
+player 965 draws a 808 from deck 965
+player 965 discards a 681 to deck 966
+player 965 current hand : 946 279 589 228 640 42 737 308 861 239 577 922 309 248 562 853 666 666 117 808 
+player 965 draws a 537 from deck 965
+player 965 discards a 946 to deck 966
+player 965 current hand : 279 589 228 640 42 737 308 861 239 577 922 309 248 562 853 666 666 117 808 537 
+player 965 draws a 815 from deck 965
+player 965 discards a 279 to deck 966
+player 965 current hand : 589 228 640 42 737 308 861 239 577 922 309 248 562 853 666 666 117 808 537 815 
+player 965 draws a 605 from deck 965
+player 965 discards a 589 to deck 966
+player 965 current hand : 228 640 42 737 308 861 239 577 922 309 248 562 853 666 666 117 808 537 815 605 
+player 965 draws a 180 from deck 965
+player 965 discards a 228 to deck 966
+player 965 current hand : 640 42 737 308 861 239 577 922 309 248 562 853 666 666 117 808 537 815 605 180 
+player 965 draws a 783 from deck 965
+player 965 discards a 640 to deck 966
+player 965 current hand : 42 737 308 861 239 577 922 309 248 562 853 666 666 117 808 537 815 605 180 783 
+player 965 draws a 409 from deck 965
+player 965 discards a 42 to deck 966
+player 965 current hand : 737 308 861 239 577 922 309 248 562 853 666 666 117 808 537 815 605 180 783 409 
+player 965 draws a 286 from deck 965
+player 965 discards a 737 to deck 966
+player 965 current hand : 308 861 239 577 922 309 248 562 853 666 666 117 808 537 815 605 180 783 409 286 
+player 965 draws a 436 from deck 965

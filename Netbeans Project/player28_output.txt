@@ -1,0 +1,351 @@
+player 28 initial hand 72 7 300 494 499 768 847 550 691 3 407 554 864 222 975 390 320 105 944 455 
+player 28 draws a 52 from deck 28
+player 28 discards a 72 to deck 29
+player 28 current hand : 7 300 494 499 768 847 550 691 3 407 554 864 222 975 390 320 105 944 455 52 
+player 28 draws a 777 from deck 28
+player 28 discards a 7 to deck 29
+player 28 current hand : 300 494 499 768 847 550 691 3 407 554 864 222 975 390 320 105 944 455 52 777 
+player 28 draws a 955 from deck 28
+player 28 discards a 300 to deck 29
+player 28 current hand : 494 499 768 847 550 691 3 407 554 864 222 975 390 320 105 944 455 52 777 955 
+player 28 draws a 17 from deck 28
+player 28 discards a 494 to deck 29
+player 28 current hand : 499 768 847 550 691 3 407 554 864 222 975 390 320 105 944 455 52 777 955 17 
+player 28 draws a 457 from deck 28
+player 28 discards a 499 to deck 29
+player 28 current hand : 768 847 550 691 3 407 554 864 222 975 390 320 105 944 455 52 777 955 17 457 
+player 28 draws a 979 from deck 28
+player 28 discards a 768 to deck 29
+player 28 current hand : 847 550 691 3 407 554 864 222 975 390 320 105 944 455 52 777 955 17 457 979 
+player 28 draws a 260 from deck 28
+player 28 discards a 847 to deck 29
+player 28 current hand : 550 691 3 407 554 864 222 975 390 320 105 944 455 52 777 955 17 457 979 260 
+player 28 draws a 499 from deck 28
+player 28 discards a 550 to deck 29
+player 28 current hand : 691 3 407 554 864 222 975 390 320 105 944 455 52 777 955 17 457 979 260 499 
+player 28 draws a 589 from deck 28
+player 28 discards a 691 to deck 29
+player 28 current hand : 3 407 554 864 222 975 390 320 105 944 455 52 777 955 17 457 979 260 499 589 
+player 28 draws a 875 from deck 28
+player 28 discards a 3 to deck 29
+player 28 current hand : 407 554 864 222 975 390 320 105 944 455 52 777 955 17 457 979 260 499 589 875 
+player 28 draws a 970 from deck 28
+player 28 discards a 407 to deck 29
+player 28 current hand : 554 864 222 975 390 320 105 944 455 52 777 955 17 457 979 260 499 589 875 970 
+player 28 draws a 402 from deck 28
+player 28 discards a 554 to deck 29
+player 28 current hand : 864 222 975 390 320 105 944 455 52 777 955 17 457 979 260 499 589 875 970 402 
+player 28 draws a 401 from deck 28
+player 28 discards a 864 to deck 29
+player 28 current hand : 222 975 390 320 105 944 455 52 777 955 17 457 979 260 499 589 875 970 402 401 
+player 28 draws a 189 from deck 28
+player 28 discards a 222 to deck 29
+player 28 current hand : 975 390 320 105 944 455 52 777 955 17 457 979 260 499 589 875 970 402 401 189 
+player 28 draws a 627 from deck 28
+player 28 discards a 975 to deck 29
+player 28 current hand : 390 320 105 944 455 52 777 955 17 457 979 260 499 589 875 970 402 401 189 627 
+player 28 draws a 661 from deck 28
+player 28 discards a 390 to deck 29
+player 28 current hand : 320 105 944 455 52 777 955 17 457 979 260 499 589 875 970 402 401 189 627 661 
+player 28 draws a 33 from deck 28
+player 28 discards a 320 to deck 29
+player 28 current hand : 105 944 455 52 777 955 17 457 979 260 499 589 875 970 402 401 189 627 661 33 
+player 28 draws a 715 from deck 28
+player 28 discards a 105 to deck 29
+player 28 current hand : 944 455 52 777 955 17 457 979 260 499 589 875 970 402 401 189 627 661 33 715 
+player 28 draws a 134 from deck 28
+player 28 discards a 944 to deck 29
+player 28 current hand : 455 52 777 955 17 457 979 260 499 589 875 970 402 401 189 627 661 33 715 134 
+player 28 draws a 393 from deck 28
+player 28 discards a 455 to deck 29
+player 28 current hand : 52 777 955 17 457 979 260 499 589 875 970 402 401 189 627 661 33 715 134 393 
+player 28 draws a 754 from deck 28
+player 28 discards a 52 to deck 29
+player 28 current hand : 777 955 17 457 979 260 499 589 875 970 402 401 189 627 661 33 715 134 393 754 
+player 28 draws a 742 from deck 28
+player 28 discards a 777 to deck 29
+player 28 current hand : 955 17 457 979 260 499 589 875 970 402 401 189 627 661 33 715 134 393 754 742 
+player 28 draws a 967 from deck 28
+player 28 discards a 955 to deck 29
+player 28 current hand : 17 457 979 260 499 589 875 970 402 401 189 627 661 33 715 134 393 754 742 967 
+player 28 draws a 154 from deck 28
+player 28 discards a 17 to deck 29
+player 28 current hand : 457 979 260 499 589 875 970 402 401 189 627 661 33 715 134 393 754 742 967 154 
+player 28 draws a 872 from deck 28
+player 28 discards a 457 to deck 29
+player 28 current hand : 979 260 499 589 875 970 402 401 189 627 661 33 715 134 393 754 742 967 154 872 
+player 28 draws a 910 from deck 28
+player 28 discards a 979 to deck 29
+player 28 current hand : 260 499 589 875 970 402 401 189 627 661 33 715 134 393 754 742 967 154 872 910 
+player 28 draws a 156 from deck 28
+player 28 discards a 260 to deck 29
+player 28 current hand : 499 589 875 970 402 401 189 627 661 33 715 134 393 754 742 967 154 872 910 156 
+player 28 draws a 252 from deck 28
+player 28 discards a 499 to deck 29
+player 28 current hand : 589 875 970 402 401 189 627 661 33 715 134 393 754 742 967 154 872 910 156 252 
+player 28 draws a 872 from deck 28
+player 28 discards a 589 to deck 29
+player 28 current hand : 875 970 402 401 189 627 661 33 715 134 393 754 742 967 154 872 910 156 252 872 
+player 28 draws a 826 from deck 28
+player 28 discards a 875 to deck 29
+player 28 current hand : 970 402 401 189 627 661 33 715 134 393 754 742 967 154 872 910 156 252 872 826 
+player 28 draws a 187 from deck 28
+player 28 discards a 970 to deck 29
+player 28 current hand : 402 401 189 627 661 33 715 134 393 754 742 967 154 872 910 156 252 872 826 187 
+player 28 draws a 535 from deck 28
+player 28 discards a 402 to deck 29
+player 28 current hand : 401 189 627 661 33 715 134 393 754 742 967 154 872 910 156 252 872 826 187 535 
+player 28 draws a 693 from deck 28
+player 28 discards a 401 to deck 29
+player 28 current hand : 189 627 661 33 715 134 393 754 742 967 154 872 910 156 252 872 826 187 535 693 
+player 28 draws a 152 from deck 28
+player 28 discards a 189 to deck 29
+player 28 current hand : 627 661 33 715 134 393 754 742 967 154 872 910 156 252 872 826 187 535 693 152 
+player 28 draws a 878 from deck 28
+player 28 discards a 627 to deck 29
+player 28 current hand : 661 33 715 134 393 754 742 967 154 872 910 156 252 872 826 187 535 693 152 878 
+player 28 draws a 570 from deck 28
+player 28 discards a 661 to deck 29
+player 28 current hand : 33 715 134 393 754 742 967 154 872 910 156 252 872 826 187 535 693 152 878 570 
+player 28 draws a 535 from deck 28
+player 28 discards a 33 to deck 29
+player 28 current hand : 715 134 393 754 742 967 154 872 910 156 252 872 826 187 535 693 152 878 570 535 
+player 28 draws a 515 from deck 28
+player 28 discards a 715 to deck 29
+player 28 current hand : 134 393 754 742 967 154 872 910 156 252 872 826 187 535 693 152 878 570 535 515 
+player 28 draws a 564 from deck 28
+player 28 discards a 134 to deck 29
+player 28 current hand : 393 754 742 967 154 872 910 156 252 872 826 187 535 693 152 878 570 535 515 564 
+player 28 draws a 747 from deck 28
+player 28 discards a 393 to deck 29
+player 28 current hand : 754 742 967 154 872 910 156 252 872 826 187 535 693 152 878 570 535 515 564 747 
+player 28 draws a 552 from deck 28
+player 28 discards a 754 to deck 29
+player 28 current hand : 742 967 154 872 910 156 252 872 826 187 535 693 152 878 570 535 515 564 747 552 
+player 28 draws a 369 from deck 28
+player 28 discards a 742 to deck 29
+player 28 current hand : 967 154 872 910 156 252 872 826 187 535 693 152 878 570 535 515 564 747 552 369 
+player 28 draws a 523 from deck 28
+player 28 discards a 967 to deck 29
+player 28 current hand : 154 872 910 156 252 872 826 187 535 693 152 878 570 535 515 564 747 552 369 523 
+player 28 draws a 829 from deck 28
+player 28 discards a 154 to deck 29
+player 28 current hand : 872 910 156 252 872 826 187 535 693 152 878 570 535 515 564 747 552 369 523 829 
+player 28 draws a 240 from deck 28
+player 28 discards a 872 to deck 29
+player 28 current hand : 910 156 252 872 826 187 535 693 152 878 570 535 515 564 747 552 369 523 829 240 
+player 28 draws a 391 from deck 28
+player 28 discards a 910 to deck 29
+player 28 current hand : 156 252 872 826 187 535 693 152 878 570 535 515 564 747 552 369 523 829 240 391 
+player 28 draws a 936 from deck 28
+player 28 discards a 156 to deck 29
+player 28 current hand : 252 872 826 187 535 693 152 878 570 535 515 564 747 552 369 523 829 240 391 936 
+player 28 draws a 415 from deck 28
+player 28 discards a 252 to deck 29
+player 28 current hand : 872 826 187 535 693 152 878 570 535 515 564 747 552 369 523 829 240 391 936 415 
+player 28 draws a 944 from deck 28
+player 28 discards a 872 to deck 29
+player 28 current hand : 826 187 535 693 152 878 570 535 515 564 747 552 369 523 829 240 391 936 415 944 
+player 28 draws a 410 from deck 28
+player 28 discards a 826 to deck 29
+player 28 current hand : 187 535 693 152 878 570 535 515 564 747 552 369 523 829 240 391 936 415 944 410 
+player 28 draws a 62 from deck 28
+player 28 discards a 187 to deck 29
+player 28 current hand : 535 693 152 878 570 535 515 564 747 552 369 523 829 240 391 936 415 944 410 62 
+player 28 draws a 689 from deck 28
+player 28 discards a 535 to deck 29
+player 28 current hand : 693 152 878 570 535 515 564 747 552 369 523 829 240 391 936 415 944 410 62 689 
+player 28 draws a 99 from deck 28
+player 28 discards a 693 to deck 29
+player 28 current hand : 152 878 570 535 515 564 747 552 369 523 829 240 391 936 415 944 410 62 689 99 
+player 28 draws a 9 from deck 28
+player 28 discards a 152 to deck 29
+player 28 current hand : 878 570 535 515 564 747 552 369 523 829 240 391 936 415 944 410 62 689 99 9 
+player 28 draws a 480 from deck 28
+player 28 discards a 878 to deck 29
+player 28 current hand : 570 535 515 564 747 552 369 523 829 240 391 936 415 944 410 62 689 99 9 480 
+player 28 draws a 409 from deck 28
+player 28 discards a 570 to deck 29
+player 28 current hand : 535 515 564 747 552 369 523 829 240 391 936 415 944 410 62 689 99 9 480 409 
+player 28 draws a 582 from deck 28
+player 28 discards a 535 to deck 29
+player 28 current hand : 515 564 747 552 369 523 829 240 391 936 415 944 410 62 689 99 9 480 409 582 
+player 28 draws a 189 from deck 28
+player 28 discards a 515 to deck 29
+player 28 current hand : 564 747 552 369 523 829 240 391 936 415 944 410 62 689 99 9 480 409 582 189 
+player 28 draws a 608 from deck 28
+player 28 discards a 564 to deck 29
+player 28 current hand : 747 552 369 523 829 240 391 936 415 944 410 62 689 99 9 480 409 582 189 608 
+player 28 draws a 47 from deck 28
+player 28 discards a 747 to deck 29
+player 28 current hand : 552 369 523 829 240 391 936 415 944 410 62 689 99 9 480 409 582 189 608 47 
+player 28 draws a 460 from deck 28
+player 28 discards a 552 to deck 29
+player 28 current hand : 369 523 829 240 391 936 415 944 410 62 689 99 9 480 409 582 189 608 47 460 
+player 28 draws a 588 from deck 28
+player 28 discards a 369 to deck 29
+player 28 current hand : 523 829 240 391 936 415 944 410 62 689 99 9 480 409 582 189 608 47 460 588 
+player 28 draws a 988 from deck 28
+player 28 discards a 523 to deck 29
+player 28 current hand : 829 240 391 936 415 944 410 62 689 99 9 480 409 582 189 608 47 460 588 988 
+player 28 draws a 249 from deck 28
+player 28 discards a 829 to deck 29
+player 28 current hand : 240 391 936 415 944 410 62 689 99 9 480 409 582 189 608 47 460 588 988 249 
+player 28 draws a 242 from deck 28
+player 28 discards a 240 to deck 29
+player 28 current hand : 391 936 415 944 410 62 689 99 9 480 409 582 189 608 47 460 588 988 249 242 
+player 28 draws a 515 from deck 28
+player 28 discards a 391 to deck 29
+player 28 current hand : 936 415 944 410 62 689 99 9 480 409 582 189 608 47 460 588 988 249 242 515 
+player 28 draws a 679 from deck 28
+player 28 discards a 936 to deck 29
+player 28 current hand : 415 944 410 62 689 99 9 480 409 582 189 608 47 460 588 988 249 242 515 679 
+player 28 draws a 549 from deck 28
+player 28 discards a 415 to deck 29
+player 28 current hand : 944 410 62 689 99 9 480 409 582 189 608 47 460 588 988 249 242 515 679 549 
+player 28 draws a 157 from deck 28
+player 28 discards a 944 to deck 29
+player 28 current hand : 410 62 689 99 9 480 409 582 189 608 47 460 588 988 249 242 515 679 549 157 
+player 28 draws a 78 from deck 28
+player 28 discards a 410 to deck 29
+player 28 current hand : 62 689 99 9 480 409 582 189 608 47 460 588 988 249 242 515 679 549 157 78 
+player 28 draws a 632 from deck 28
+player 28 discards a 62 to deck 29
+player 28 current hand : 689 99 9 480 409 582 189 608 47 460 588 988 249 242 515 679 549 157 78 632 
+player 28 draws a 200 from deck 28
+player 28 discards a 689 to deck 29
+player 28 current hand : 99 9 480 409 582 189 608 47 460 588 988 249 242 515 679 549 157 78 632 200 
+player 28 draws a 941 from deck 28
+player 28 discards a 99 to deck 29
+player 28 current hand : 9 480 409 582 189 608 47 460 588 988 249 242 515 679 549 157 78 632 200 941 
+player 28 draws a 401 from deck 28
+player 28 discards a 9 to deck 29
+player 28 current hand : 480 409 582 189 608 47 460 588 988 249 242 515 679 549 157 78 632 200 941 401 
+player 28 draws a 418 from deck 28
+player 28 discards a 480 to deck 29
+player 28 current hand : 409 582 189 608 47 460 588 988 249 242 515 679 549 157 78 632 200 941 401 418 
+player 28 draws a 425 from deck 28
+player 28 discards a 409 to deck 29
+player 28 current hand : 582 189 608 47 460 588 988 249 242 515 679 549 157 78 632 200 941 401 418 425 
+player 28 draws a 793 from deck 28
+player 28 discards a 582 to deck 29
+player 28 current hand : 189 608 47 460 588 988 249 242 515 679 549 157 78 632 200 941 401 418 425 793 
+player 28 draws a 708 from deck 28
+player 28 discards a 189 to deck 29
+player 28 current hand : 608 47 460 588 988 249 242 515 679 549 157 78 632 200 941 401 418 425 793 708 
+player 28 draws a 856 from deck 28
+player 28 discards a 608 to deck 29
+player 28 current hand : 47 460 588 988 249 242 515 679 549 157 78 632 200 941 401 418 425 793 708 856 
+player 28 draws a 105 from deck 28
+player 28 discards a 47 to deck 29
+player 28 current hand : 460 588 988 249 242 515 679 549 157 78 632 200 941 401 418 425 793 708 856 105 
+player 28 draws a 507 from deck 28
+player 28 discards a 460 to deck 29
+player 28 current hand : 588 988 249 242 515 679 549 157 78 632 200 941 401 418 425 793 708 856 105 507 
+player 28 draws a 153 from deck 28
+player 28 discards a 588 to deck 29
+player 28 current hand : 988 249 242 515 679 549 157 78 632 200 941 401 418 425 793 708 856 105 507 153 
+player 28 draws a 455 from deck 28
+player 28 discards a 988 to deck 29
+player 28 current hand : 249 242 515 679 549 157 78 632 200 941 401 418 425 793 708 856 105 507 153 455 
+player 28 draws a 740 from deck 28
+player 28 discards a 249 to deck 29
+player 28 current hand : 242 515 679 549 157 78 632 200 941 401 418 425 793 708 856 105 507 153 455 740 
+player 28 draws a 403 from deck 28
+player 28 discards a 242 to deck 29
+player 28 current hand : 515 679 549 157 78 632 200 941 401 418 425 793 708 856 105 507 153 455 740 403 
+player 28 draws a 143 from deck 28
+player 28 discards a 515 to deck 29
+player 28 current hand : 679 549 157 78 632 200 941 401 418 425 793 708 856 105 507 153 455 740 403 143 
+player 28 draws a 513 from deck 28
+player 28 discards a 679 to deck 29
+player 28 current hand : 549 157 78 632 200 941 401 418 425 793 708 856 105 507 153 455 740 403 143 513 
+player 28 draws a 222 from deck 28
+player 28 discards a 549 to deck 29
+player 28 current hand : 157 78 632 200 941 401 418 425 793 708 856 105 507 153 455 740 403 143 513 222 
+player 28 draws a 446 from deck 28
+player 28 discards a 157 to deck 29
+player 28 current hand : 78 632 200 941 401 418 425 793 708 856 105 507 153 455 740 403 143 513 222 446 
+player 28 draws a 708 from deck 28
+player 28 discards a 78 to deck 29
+player 28 current hand : 632 200 941 401 418 425 793 708 856 105 507 153 455 740 403 143 513 222 446 708 
+player 28 draws a 282 from deck 28
+player 28 discards a 632 to deck 29
+player 28 current hand : 200 941 401 418 425 793 708 856 105 507 153 455 740 403 143 513 222 446 708 282 
+player 28 draws a 852 from deck 28
+player 28 discards a 200 to deck 29
+player 28 current hand : 941 401 418 425 793 708 856 105 507 153 455 740 403 143 513 222 446 708 282 852 
+player 28 draws a 452 from deck 28
+player 28 discards a 941 to deck 29
+player 28 current hand : 401 418 425 793 708 856 105 507 153 455 740 403 143 513 222 446 708 282 852 452 
+player 28 draws a 443 from deck 28
+player 28 discards a 401 to deck 29
+player 28 current hand : 418 425 793 708 856 105 507 153 455 740 403 143 513 222 446 708 282 852 452 443 
+player 28 draws a 65 from deck 28
+player 28 discards a 418 to deck 29
+player 28 current hand : 425 793 708 856 105 507 153 455 740 403 143 513 222 446 708 282 852 452 443 65 
+player 28 draws a 592 from deck 28
+player 28 discards a 425 to deck 29
+player 28 current hand : 793 708 856 105 507 153 455 740 403 143 513 222 446 708 282 852 452 443 65 592 
+player 28 draws a 282 from deck 28
+player 28 discards a 793 to deck 29
+player 28 current hand : 708 856 105 507 153 455 740 403 143 513 222 446 708 282 852 452 443 65 592 282 
+player 28 draws a 226 from deck 28
+player 28 discards a 708 to deck 29
+player 28 current hand : 856 105 507 153 455 740 403 143 513 222 446 708 282 852 452 443 65 592 282 226 
+player 28 draws a 608 from deck 28
+player 28 discards a 856 to deck 29
+player 28 current hand : 105 507 153 455 740 403 143 513 222 446 708 282 852 452 443 65 592 282 226 608 
+player 28 draws a 326 from deck 28
+player 28 discards a 105 to deck 29
+player 28 current hand : 507 153 455 740 403 143 513 222 446 708 282 852 452 443 65 592 282 226 608 326 
+player 28 draws a 187 from deck 28
+player 28 discards a 507 to deck 29
+player 28 current hand : 153 455 740 403 143 513 222 446 708 282 852 452 443 65 592 282 226 608 326 187 
+player 28 draws a 514 from deck 28
+player 28 discards a 153 to deck 29
+player 28 current hand : 455 740 403 143 513 222 446 708 282 852 452 443 65 592 282 226 608 326 187 514 
+player 28 draws a 949 from deck 28
+player 28 discards a 455 to deck 29
+player 28 current hand : 740 403 143 513 222 446 708 282 852 452 443 65 592 282 226 608 326 187 514 949 
+player 28 draws a 721 from deck 28
+player 28 discards a 740 to deck 29
+player 28 current hand : 403 143 513 222 446 708 282 852 452 443 65 592 282 226 608 326 187 514 949 721 
+player 28 draws a 267 from deck 28
+player 28 discards a 403 to deck 29
+player 28 current hand : 143 513 222 446 708 282 852 452 443 65 592 282 226 608 326 187 514 949 721 267 
+player 28 draws a 500 from deck 28
+player 28 discards a 143 to deck 29
+player 28 current hand : 513 222 446 708 282 852 452 443 65 592 282 226 608 326 187 514 949 721 267 500 
+player 28 draws a 104 from deck 28
+player 28 discards a 513 to deck 29
+player 28 current hand : 222 446 708 282 852 452 443 65 592 282 226 608 326 187 514 949 721 267 500 104 
+player 28 draws a 686 from deck 28
+player 28 discards a 222 to deck 29
+player 28 current hand : 446 708 282 852 452 443 65 592 282 226 608 326 187 514 949 721 267 500 104 686 
+player 28 draws a 915 from deck 28
+player 28 discards a 446 to deck 29
+player 28 current hand : 708 282 852 452 443 65 592 282 226 608 326 187 514 949 721 267 500 104 686 915 
+player 28 draws a 253 from deck 28
+player 28 discards a 708 to deck 29
+player 28 current hand : 282 852 452 443 65 592 282 226 608 326 187 514 949 721 267 500 104 686 915 253 
+player 28 draws a 976 from deck 28
+player 28 discards a 282 to deck 29
+player 28 current hand : 852 452 443 65 592 282 226 608 326 187 514 949 721 267 500 104 686 915 253 976 
+player 28 draws a 241 from deck 28
+player 28 discards a 852 to deck 29
+player 28 current hand : 452 443 65 592 282 226 608 326 187 514 949 721 267 500 104 686 915 253 976 241 
+player 28 draws a 519 from deck 28
+player 28 discards a 452 to deck 29
+player 28 current hand : 443 65 592 282 226 608 326 187 514 949 721 267 500 104 686 915 253 976 241 519 
+player 28 draws a 488 from deck 28
+player 28 discards a 443 to deck 29
+player 28 current hand : 65 592 282 226 608 326 187 514 949 721 267 500 104 686 915 253 976 241 519 488 
+player 28 draws a 988 from deck 28
+player 28 discards a 65 to deck 29
+player 28 current hand : 592 282 226 608 326 187 514 949 721 267 500 104 686 915 253 976 241 519 488 988 
+player 28 draws a 599 from deck 28
+player 28 discards a 592 to deck 29
+player 28 current hand : 282 226 608 326 187 514 949 721 267 500 104 686 915 253 976 241 519 488 988 599 
+player 28 draws a 989 from deck 28
+player 28 discards a 282 to deck 29

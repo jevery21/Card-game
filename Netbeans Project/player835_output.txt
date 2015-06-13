@@ -1,0 +1,318 @@
+player 835 initial hand 25 530 879 634 840 55 143 659 210 369 177 33 971 779 42 966 45 233 890 350 
+player 835 draws a 103 from deck 835
+player 835 discards a 25 to deck 836
+player 835 current hand : 530 879 634 840 55 143 659 210 369 177 33 971 779 42 966 45 233 890 350 103 
+player 835 draws a 791 from deck 835
+player 835 discards a 530 to deck 836
+player 835 current hand : 879 634 840 55 143 659 210 369 177 33 971 779 42 966 45 233 890 350 103 791 
+player 835 draws a 719 from deck 835
+player 835 discards a 879 to deck 836
+player 835 current hand : 634 840 55 143 659 210 369 177 33 971 779 42 966 45 233 890 350 103 791 719 
+player 835 draws a 182 from deck 835
+player 835 discards a 634 to deck 836
+player 835 current hand : 840 55 143 659 210 369 177 33 971 779 42 966 45 233 890 350 103 791 719 182 
+player 835 draws a 657 from deck 835
+player 835 discards a 840 to deck 836
+player 835 current hand : 55 143 659 210 369 177 33 971 779 42 966 45 233 890 350 103 791 719 182 657 
+player 835 draws a 33 from deck 835
+player 835 discards a 55 to deck 836
+player 835 current hand : 143 659 210 369 177 33 971 779 42 966 45 233 890 350 103 791 719 182 657 33 
+player 835 draws a 455 from deck 835
+player 835 discards a 143 to deck 836
+player 835 current hand : 659 210 369 177 33 971 779 42 966 45 233 890 350 103 791 719 182 657 33 455 
+player 835 draws a 173 from deck 835
+player 835 discards a 659 to deck 836
+player 835 current hand : 210 369 177 33 971 779 42 966 45 233 890 350 103 791 719 182 657 33 455 173 
+player 835 draws a 699 from deck 835
+player 835 discards a 210 to deck 836
+player 835 current hand : 369 177 33 971 779 42 966 45 233 890 350 103 791 719 182 657 33 455 173 699 
+player 835 draws a 693 from deck 835
+player 835 discards a 369 to deck 836
+player 835 current hand : 177 33 971 779 42 966 45 233 890 350 103 791 719 182 657 33 455 173 699 693 
+player 835 draws a 170 from deck 835
+player 835 discards a 177 to deck 836
+player 835 current hand : 33 971 779 42 966 45 233 890 350 103 791 719 182 657 33 455 173 699 693 170 
+player 835 draws a 684 from deck 835
+player 835 discards a 33 to deck 836
+player 835 current hand : 971 779 42 966 45 233 890 350 103 791 719 182 657 33 455 173 699 693 170 684 
+player 835 draws a 199 from deck 835
+player 835 discards a 971 to deck 836
+player 835 current hand : 779 42 966 45 233 890 350 103 791 719 182 657 33 455 173 699 693 170 684 199 
+player 835 draws a 407 from deck 835
+player 835 discards a 779 to deck 836
+player 835 current hand : 42 966 45 233 890 350 103 791 719 182 657 33 455 173 699 693 170 684 199 407 
+player 835 draws a 36 from deck 835
+player 835 discards a 42 to deck 836
+player 835 current hand : 966 45 233 890 350 103 791 719 182 657 33 455 173 699 693 170 684 199 407 36 
+player 835 draws a 167 from deck 835
+player 835 discards a 966 to deck 836
+player 835 current hand : 45 233 890 350 103 791 719 182 657 33 455 173 699 693 170 684 199 407 36 167 
+player 835 draws a 62 from deck 835
+player 835 discards a 45 to deck 836
+player 835 current hand : 233 890 350 103 791 719 182 657 33 455 173 699 693 170 684 199 407 36 167 62 
+player 835 draws a 763 from deck 835
+player 835 discards a 233 to deck 836
+player 835 current hand : 890 350 103 791 719 182 657 33 455 173 699 693 170 684 199 407 36 167 62 763 
+player 835 draws a 585 from deck 835
+player 835 discards a 890 to deck 836
+player 835 current hand : 350 103 791 719 182 657 33 455 173 699 693 170 684 199 407 36 167 62 763 585 
+player 835 draws a 571 from deck 835
+player 835 discards a 350 to deck 836
+player 835 current hand : 103 791 719 182 657 33 455 173 699 693 170 684 199 407 36 167 62 763 585 571 
+player 835 draws a 177 from deck 835
+player 835 discards a 103 to deck 836
+player 835 current hand : 791 719 182 657 33 455 173 699 693 170 684 199 407 36 167 62 763 585 571 177 
+player 835 draws a 729 from deck 835
+player 835 discards a 791 to deck 836
+player 835 current hand : 719 182 657 33 455 173 699 693 170 684 199 407 36 167 62 763 585 571 177 729 
+player 835 draws a 151 from deck 835
+player 835 discards a 719 to deck 836
+player 835 current hand : 182 657 33 455 173 699 693 170 684 199 407 36 167 62 763 585 571 177 729 151 
+player 835 draws a 928 from deck 835
+player 835 discards a 182 to deck 836
+player 835 current hand : 657 33 455 173 699 693 170 684 199 407 36 167 62 763 585 571 177 729 151 928 
+player 835 draws a 795 from deck 835
+player 835 discards a 657 to deck 836
+player 835 current hand : 33 455 173 699 693 170 684 199 407 36 167 62 763 585 571 177 729 151 928 795 
+player 835 draws a 732 from deck 835
+player 835 discards a 33 to deck 836
+player 835 current hand : 455 173 699 693 170 684 199 407 36 167 62 763 585 571 177 729 151 928 795 732 
+player 835 draws a 696 from deck 835
+player 835 discards a 455 to deck 836
+player 835 current hand : 173 699 693 170 684 199 407 36 167 62 763 585 571 177 729 151 928 795 732 696 
+player 835 draws a 705 from deck 835
+player 835 discards a 173 to deck 836
+player 835 current hand : 699 693 170 684 199 407 36 167 62 763 585 571 177 729 151 928 795 732 696 705 
+player 835 draws a 994 from deck 835
+player 835 discards a 699 to deck 836
+player 835 current hand : 693 170 684 199 407 36 167 62 763 585 571 177 729 151 928 795 732 696 705 994 
+player 835 draws a 645 from deck 835
+player 835 discards a 693 to deck 836
+player 835 current hand : 170 684 199 407 36 167 62 763 585 571 177 729 151 928 795 732 696 705 994 645 
+player 835 draws a 705 from deck 835
+player 835 discards a 170 to deck 836
+player 835 current hand : 684 199 407 36 167 62 763 585 571 177 729 151 928 795 732 696 705 994 645 705 
+player 835 draws a 255 from deck 835
+player 835 discards a 684 to deck 836
+player 835 current hand : 199 407 36 167 62 763 585 571 177 729 151 928 795 732 696 705 994 645 705 255 
+player 835 draws a 233 from deck 835
+player 835 discards a 199 to deck 836
+player 835 current hand : 407 36 167 62 763 585 571 177 729 151 928 795 732 696 705 994 645 705 255 233 
+player 835 draws a 793 from deck 835
+player 835 discards a 407 to deck 836
+player 835 current hand : 36 167 62 763 585 571 177 729 151 928 795 732 696 705 994 645 705 255 233 793 
+player 835 draws a 913 from deck 835
+player 835 discards a 36 to deck 836
+player 835 current hand : 167 62 763 585 571 177 729 151 928 795 732 696 705 994 645 705 255 233 793 913 
+player 835 draws a 65 from deck 835
+player 835 discards a 167 to deck 836
+player 835 current hand : 62 763 585 571 177 729 151 928 795 732 696 705 994 645 705 255 233 793 913 65 
+player 835 draws a 458 from deck 835
+player 835 discards a 62 to deck 836
+player 835 current hand : 763 585 571 177 729 151 928 795 732 696 705 994 645 705 255 233 793 913 65 458 
+player 835 draws a 500 from deck 835
+player 835 discards a 763 to deck 836
+player 835 current hand : 585 571 177 729 151 928 795 732 696 705 994 645 705 255 233 793 913 65 458 500 
+player 835 draws a 991 from deck 835
+player 835 discards a 585 to deck 836
+player 835 current hand : 571 177 729 151 928 795 732 696 705 994 645 705 255 233 793 913 65 458 500 991 
+player 835 draws a 934 from deck 835
+player 835 discards a 571 to deck 836
+player 835 current hand : 177 729 151 928 795 732 696 705 994 645 705 255 233 793 913 65 458 500 991 934 
+player 835 draws a 776 from deck 835
+player 835 discards a 177 to deck 836
+player 835 current hand : 729 151 928 795 732 696 705 994 645 705 255 233 793 913 65 458 500 991 934 776 
+player 835 draws a 527 from deck 835
+player 835 discards a 729 to deck 836
+player 835 current hand : 151 928 795 732 696 705 994 645 705 255 233 793 913 65 458 500 991 934 776 527 
+player 835 draws a 776 from deck 835
+player 835 discards a 151 to deck 836
+player 835 current hand : 928 795 732 696 705 994 645 705 255 233 793 913 65 458 500 991 934 776 527 776 
+player 835 draws a 707 from deck 835
+player 835 discards a 928 to deck 836
+player 835 current hand : 795 732 696 705 994 645 705 255 233 793 913 65 458 500 991 934 776 527 776 707 
+player 835 draws a 812 from deck 835
+player 835 discards a 795 to deck 836
+player 835 current hand : 732 696 705 994 645 705 255 233 793 913 65 458 500 991 934 776 527 776 707 812 
+player 835 draws a 499 from deck 835
+player 835 discards a 732 to deck 836
+player 835 current hand : 696 705 994 645 705 255 233 793 913 65 458 500 991 934 776 527 776 707 812 499 
+player 835 draws a 285 from deck 835
+player 835 discards a 696 to deck 836
+player 835 current hand : 705 994 645 705 255 233 793 913 65 458 500 991 934 776 527 776 707 812 499 285 
+player 835 draws a 877 from deck 835
+player 835 discards a 705 to deck 836
+player 835 current hand : 994 645 705 255 233 793 913 65 458 500 991 934 776 527 776 707 812 499 285 877 
+player 835 draws a 661 from deck 835
+player 835 discards a 994 to deck 836
+player 835 current hand : 645 705 255 233 793 913 65 458 500 991 934 776 527 776 707 812 499 285 877 661 
+player 835 draws a 10 from deck 835
+player 835 discards a 645 to deck 836
+player 835 current hand : 705 255 233 793 913 65 458 500 991 934 776 527 776 707 812 499 285 877 661 10 
+player 835 draws a 907 from deck 835
+player 835 discards a 705 to deck 836
+player 835 current hand : 255 233 793 913 65 458 500 991 934 776 527 776 707 812 499 285 877 661 10 907 
+player 835 draws a 555 from deck 835
+player 835 discards a 255 to deck 836
+player 835 current hand : 233 793 913 65 458 500 991 934 776 527 776 707 812 499 285 877 661 10 907 555 
+player 835 draws a 320 from deck 835
+player 835 discards a 233 to deck 836
+player 835 current hand : 793 913 65 458 500 991 934 776 527 776 707 812 499 285 877 661 10 907 555 320 
+player 835 draws a 402 from deck 835
+player 835 discards a 793 to deck 836
+player 835 current hand : 913 65 458 500 991 934 776 527 776 707 812 499 285 877 661 10 907 555 320 402 
+player 835 draws a 287 from deck 835
+player 835 discards a 913 to deck 836
+player 835 current hand : 65 458 500 991 934 776 527 776 707 812 499 285 877 661 10 907 555 320 402 287 
+player 835 draws a 117 from deck 835
+player 835 discards a 65 to deck 836
+player 835 current hand : 458 500 991 934 776 527 776 707 812 499 285 877 661 10 907 555 320 402 287 117 
+player 835 draws a 835 from deck 835
+player 835 discards a 458 to deck 836
+player 835 current hand : 500 991 934 776 527 776 707 812 499 285 877 661 10 907 555 320 402 287 117 835 
+player 835 draws a 204 from deck 835
+player 835 discards a 500 to deck 836
+player 835 current hand : 991 934 776 527 776 707 812 499 285 877 661 10 907 555 320 402 287 117 835 204 
+player 835 draws a 266 from deck 835
+player 835 discards a 991 to deck 836
+player 835 current hand : 934 776 527 776 707 812 499 285 877 661 10 907 555 320 402 287 117 835 204 266 
+player 835 draws a 142 from deck 835
+player 835 discards a 934 to deck 836
+player 835 current hand : 776 527 776 707 812 499 285 877 661 10 907 555 320 402 287 117 835 204 266 142 
+player 835 draws a 947 from deck 835
+player 835 discards a 776 to deck 836
+player 835 current hand : 527 776 707 812 499 285 877 661 10 907 555 320 402 287 117 835 204 266 142 947 
+player 835 draws a 402 from deck 835
+player 835 discards a 527 to deck 836
+player 835 current hand : 776 707 812 499 285 877 661 10 907 555 320 402 287 117 835 204 266 142 947 402 
+player 835 draws a 944 from deck 835
+player 835 discards a 776 to deck 836
+player 835 current hand : 707 812 499 285 877 661 10 907 555 320 402 287 117 835 204 266 142 947 402 944 
+player 835 draws a 464 from deck 835
+player 835 discards a 707 to deck 836
+player 835 current hand : 812 499 285 877 661 10 907 555 320 402 287 117 835 204 266 142 947 402 944 464 
+player 835 draws a 200 from deck 835
+player 835 discards a 812 to deck 836
+player 835 current hand : 499 285 877 661 10 907 555 320 402 287 117 835 204 266 142 947 402 944 464 200 
+player 835 draws a 886 from deck 835
+player 835 discards a 499 to deck 836
+player 835 current hand : 285 877 661 10 907 555 320 402 287 117 835 204 266 142 947 402 944 464 200 886 
+player 835 draws a 106 from deck 835
+player 835 discards a 285 to deck 836
+player 835 current hand : 877 661 10 907 555 320 402 287 117 835 204 266 142 947 402 944 464 200 886 106 
+player 835 draws a 346 from deck 835
+player 835 discards a 877 to deck 836
+player 835 current hand : 661 10 907 555 320 402 287 117 835 204 266 142 947 402 944 464 200 886 106 346 
+player 835 draws a 294 from deck 835
+player 835 discards a 661 to deck 836
+player 835 current hand : 10 907 555 320 402 287 117 835 204 266 142 947 402 944 464 200 886 106 346 294 
+player 835 draws a 631 from deck 835
+player 835 discards a 10 to deck 836
+player 835 current hand : 907 555 320 402 287 117 835 204 266 142 947 402 944 464 200 886 106 346 294 631 
+player 835 draws a 69 from deck 835
+player 835 discards a 907 to deck 836
+player 835 current hand : 555 320 402 287 117 835 204 266 142 947 402 944 464 200 886 106 346 294 631 69 
+player 835 draws a 238 from deck 835
+player 835 discards a 555 to deck 836
+player 835 current hand : 320 402 287 117 835 204 266 142 947 402 944 464 200 886 106 346 294 631 69 238 
+player 835 draws a 591 from deck 835
+player 835 discards a 320 to deck 836
+player 835 current hand : 402 287 117 835 204 266 142 947 402 944 464 200 886 106 346 294 631 69 238 591 
+player 835 draws a 951 from deck 835
+player 835 discards a 402 to deck 836
+player 835 current hand : 287 117 835 204 266 142 947 402 944 464 200 886 106 346 294 631 69 238 591 951 
+player 835 draws a 153 from deck 835
+player 835 discards a 287 to deck 836
+player 835 current hand : 117 835 204 266 142 947 402 944 464 200 886 106 346 294 631 69 238 591 951 153 
+player 835 draws a 62 from deck 835
+player 835 discards a 117 to deck 836
+player 835 current hand : 835 204 266 142 947 402 944 464 200 886 106 346 294 631 69 238 591 951 153 62 
+player 835 draws a 964 from deck 835
+player 835 discards a 204 to deck 836
+player 835 current hand : 835 266 142 947 402 944 464 200 886 106 346 294 631 69 238 591 951 153 62 964 
+player 835 draws a 795 from deck 835
+player 835 discards a 266 to deck 836
+player 835 current hand : 835 142 947 402 944 464 200 886 106 346 294 631 69 238 591 951 153 62 964 795 
+player 835 draws a 282 from deck 835
+player 835 discards a 142 to deck 836
+player 835 current hand : 835 947 402 944 464 200 886 106 346 294 631 69 238 591 951 153 62 964 795 282 
+player 835 draws a 316 from deck 835
+player 835 discards a 947 to deck 836
+player 835 current hand : 835 402 944 464 200 886 106 346 294 631 69 238 591 951 153 62 964 795 282 316 
+player 835 draws a 701 from deck 835
+player 835 discards a 402 to deck 836
+player 835 current hand : 835 944 464 200 886 106 346 294 631 69 238 591 951 153 62 964 795 282 316 701 
+player 835 draws a 991 from deck 835
+player 835 discards a 944 to deck 836
+player 835 current hand : 835 464 200 886 106 346 294 631 69 238 591 951 153 62 964 795 282 316 701 991 
+player 835 draws a 945 from deck 835
+player 835 discards a 464 to deck 836
+player 835 current hand : 835 200 886 106 346 294 631 69 238 591 951 153 62 964 795 282 316 701 991 945 
+player 835 draws a 939 from deck 835
+player 835 discards a 200 to deck 836
+player 835 current hand : 835 886 106 346 294 631 69 238 591 951 153 62 964 795 282 316 701 991 945 939 
+player 835 draws a 799 from deck 835
+player 835 discards a 886 to deck 836
+player 835 current hand : 835 106 346 294 631 69 238 591 951 153 62 964 795 282 316 701 991 945 939 799 
+player 835 draws a 572 from deck 835
+player 835 discards a 106 to deck 836
+player 835 current hand : 835 346 294 631 69 238 591 951 153 62 964 795 282 316 701 991 945 939 799 572 
+player 835 draws a 467 from deck 835
+player 835 discards a 346 to deck 836
+player 835 current hand : 835 294 631 69 238 591 951 153 62 964 795 282 316 701 991 945 939 799 572 467 
+player 835 draws a 113 from deck 835
+player 835 discards a 294 to deck 836
+player 835 current hand : 835 631 69 238 591 951 153 62 964 795 282 316 701 991 945 939 799 572 467 113 
+player 835 draws a 111 from deck 835
+player 835 discards a 631 to deck 836
+player 835 current hand : 835 69 238 591 951 153 62 964 795 282 316 701 991 945 939 799 572 467 113 111 
+player 835 draws a 599 from deck 835
+player 835 discards a 69 to deck 836
+player 835 current hand : 835 238 591 951 153 62 964 795 282 316 701 991 945 939 799 572 467 113 111 599 
+player 835 draws a 223 from deck 835
+player 835 discards a 238 to deck 836
+player 835 current hand : 835 591 951 153 62 964 795 282 316 701 991 945 939 799 572 467 113 111 599 223 
+player 835 draws a 765 from deck 835
+player 835 discards a 591 to deck 836
+player 835 current hand : 835 951 153 62 964 795 282 316 701 991 945 939 799 572 467 113 111 599 223 765 
+player 835 draws a 491 from deck 835
+player 835 discards a 951 to deck 836
+player 835 current hand : 835 153 62 964 795 282 316 701 991 945 939 799 572 467 113 111 599 223 765 491 
+player 835 draws a 894 from deck 835
+player 835 discards a 153 to deck 836
+player 835 current hand : 835 62 964 795 282 316 701 991 945 939 799 572 467 113 111 599 223 765 491 894 
+player 835 draws a 839 from deck 835
+player 835 discards a 62 to deck 836
+player 835 current hand : 835 964 795 282 316 701 991 945 939 799 572 467 113 111 599 223 765 491 894 839 
+player 835 draws a 574 from deck 835
+player 835 discards a 964 to deck 836
+player 835 current hand : 835 795 282 316 701 991 945 939 799 572 467 113 111 599 223 765 491 894 839 574 
+player 835 draws a 655 from deck 835
+player 835 discards a 795 to deck 836
+player 835 current hand : 835 282 316 701 991 945 939 799 572 467 113 111 599 223 765 491 894 839 574 655 
+player 835 draws a 115 from deck 835
+player 835 discards a 282 to deck 836
+player 835 current hand : 835 316 701 991 945 939 799 572 467 113 111 599 223 765 491 894 839 574 655 115 
+player 835 draws a 17 from deck 835
+player 835 discards a 316 to deck 836
+player 835 current hand : 835 701 991 945 939 799 572 467 113 111 599 223 765 491 894 839 574 655 115 17 
+player 835 draws a 223 from deck 835
+player 835 discards a 701 to deck 836
+player 835 current hand : 835 991 945 939 799 572 467 113 111 599 223 765 491 894 839 574 655 115 17 223 
+player 835 draws a 751 from deck 835
+player 835 discards a 991 to deck 836
+player 835 current hand : 835 945 939 799 572 467 113 111 599 223 765 491 894 839 574 655 115 17 223 751 
+player 835 draws a 848 from deck 835
+player 835 discards a 945 to deck 836
+player 835 current hand : 835 939 799 572 467 113 111 599 223 765 491 894 839 574 655 115 17 223 751 848 
+player 835 draws a 473 from deck 835
+player 835 discards a 939 to deck 836
+player 835 current hand : 835 799 572 467 113 111 599 223 765 491 894 839 574 655 115 17 223 751 848 473 
+player 835 draws a 666 from deck 835
+player 835 discards a 799 to deck 836
+player 835 current hand : 835 572 467 113 111 599 223 765 491 894 839 574 655 115 17 223 751 848 473 666 
+player 835 draws a 343 from deck 835
+player 835 discards a 572 to deck 836
+player 835 current hand : 835 467 113 111 599 223 765 491 894 839 574 655 115 17 223 751 848 473 666 343 
+player 835 draws a 258 from deck 835
+player 835 discards a 467 to deck 836

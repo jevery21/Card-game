@@ -1,0 +1,307 @@
+player 609 initial hand 581 391 655 475 968 297 817 860 143 762 549 500 654 367 247 714 513 736 452 112 
+player 609 draws a 527 from deck 609
+player 609 discards a 581 to deck 610
+player 609 current hand : 391 655 475 968 297 817 860 143 762 549 500 654 367 247 714 513 736 452 112 527 
+player 609 draws a 754 from deck 609
+player 609 discards a 391 to deck 610
+player 609 current hand : 655 475 968 297 817 860 143 762 549 500 654 367 247 714 513 736 452 112 527 754 
+player 609 draws a 137 from deck 609
+player 609 discards a 655 to deck 610
+player 609 current hand : 475 968 297 817 860 143 762 549 500 654 367 247 714 513 736 452 112 527 754 137 
+player 609 draws a 91 from deck 609
+player 609 discards a 475 to deck 610
+player 609 current hand : 968 297 817 860 143 762 549 500 654 367 247 714 513 736 452 112 527 754 137 91 
+player 609 draws a 981 from deck 609
+player 609 discards a 968 to deck 610
+player 609 current hand : 297 817 860 143 762 549 500 654 367 247 714 513 736 452 112 527 754 137 91 981 
+player 609 draws a 765 from deck 609
+player 609 discards a 297 to deck 610
+player 609 current hand : 817 860 143 762 549 500 654 367 247 714 513 736 452 112 527 754 137 91 981 765 
+player 609 draws a 664 from deck 609
+player 609 discards a 817 to deck 610
+player 609 current hand : 860 143 762 549 500 654 367 247 714 513 736 452 112 527 754 137 91 981 765 664 
+player 609 draws a 915 from deck 609
+player 609 discards a 860 to deck 610
+player 609 current hand : 143 762 549 500 654 367 247 714 513 736 452 112 527 754 137 91 981 765 664 915 
+player 609 draws a 317 from deck 609
+player 609 discards a 143 to deck 610
+player 609 current hand : 762 549 500 654 367 247 714 513 736 452 112 527 754 137 91 981 765 664 915 317 
+player 609 draws a 985 from deck 609
+player 609 discards a 762 to deck 610
+player 609 current hand : 549 500 654 367 247 714 513 736 452 112 527 754 137 91 981 765 664 915 317 985 
+player 609 draws a 947 from deck 609
+player 609 discards a 549 to deck 610
+player 609 current hand : 500 654 367 247 714 513 736 452 112 527 754 137 91 981 765 664 915 317 985 947 
+player 609 draws a 805 from deck 609
+player 609 discards a 500 to deck 610
+player 609 current hand : 654 367 247 714 513 736 452 112 527 754 137 91 981 765 664 915 317 985 947 805 
+player 609 draws a 681 from deck 609
+player 609 discards a 654 to deck 610
+player 609 current hand : 367 247 714 513 736 452 112 527 754 137 91 981 765 664 915 317 985 947 805 681 
+player 609 draws a 252 from deck 609
+player 609 discards a 367 to deck 610
+player 609 current hand : 247 714 513 736 452 112 527 754 137 91 981 765 664 915 317 985 947 805 681 252 
+player 609 draws a 837 from deck 609
+player 609 discards a 247 to deck 610
+player 609 current hand : 714 513 736 452 112 527 754 137 91 981 765 664 915 317 985 947 805 681 252 837 
+player 609 draws a 583 from deck 609
+player 609 discards a 714 to deck 610
+player 609 current hand : 513 736 452 112 527 754 137 91 981 765 664 915 317 985 947 805 681 252 837 583 
+player 609 draws a 219 from deck 609
+player 609 discards a 513 to deck 610
+player 609 current hand : 736 452 112 527 754 137 91 981 765 664 915 317 985 947 805 681 252 837 583 219 
+player 609 draws a 117 from deck 609
+player 609 discards a 736 to deck 610
+player 609 current hand : 452 112 527 754 137 91 981 765 664 915 317 985 947 805 681 252 837 583 219 117 
+player 609 draws a 223 from deck 609
+player 609 discards a 452 to deck 610
+player 609 current hand : 112 527 754 137 91 981 765 664 915 317 985 947 805 681 252 837 583 219 117 223 
+player 609 draws a 93 from deck 609
+player 609 discards a 112 to deck 610
+player 609 current hand : 527 754 137 91 981 765 664 915 317 985 947 805 681 252 837 583 219 117 223 93 
+player 609 draws a 860 from deck 609
+player 609 discards a 527 to deck 610
+player 609 current hand : 754 137 91 981 765 664 915 317 985 947 805 681 252 837 583 219 117 223 93 860 
+player 609 draws a 826 from deck 609
+player 609 discards a 754 to deck 610
+player 609 current hand : 137 91 981 765 664 915 317 985 947 805 681 252 837 583 219 117 223 93 860 826 
+player 609 draws a 440 from deck 609
+player 609 discards a 137 to deck 610
+player 609 current hand : 91 981 765 664 915 317 985 947 805 681 252 837 583 219 117 223 93 860 826 440 
+player 609 draws a 559 from deck 609
+player 609 discards a 91 to deck 610
+player 609 current hand : 981 765 664 915 317 985 947 805 681 252 837 583 219 117 223 93 860 826 440 559 
+player 609 draws a 240 from deck 609
+player 609 discards a 981 to deck 610
+player 609 current hand : 765 664 915 317 985 947 805 681 252 837 583 219 117 223 93 860 826 440 559 240 
+player 609 draws a 22 from deck 609
+player 609 discards a 765 to deck 610
+player 609 current hand : 664 915 317 985 947 805 681 252 837 583 219 117 223 93 860 826 440 559 240 22 
+player 609 draws a 796 from deck 609
+player 609 discards a 664 to deck 610
+player 609 current hand : 915 317 985 947 805 681 252 837 583 219 117 223 93 860 826 440 559 240 22 796 
+player 609 draws a 74 from deck 609
+player 609 discards a 915 to deck 610
+player 609 current hand : 317 985 947 805 681 252 837 583 219 117 223 93 860 826 440 559 240 22 796 74 
+player 609 draws a 507 from deck 609
+player 609 discards a 317 to deck 610
+player 609 current hand : 985 947 805 681 252 837 583 219 117 223 93 860 826 440 559 240 22 796 74 507 
+player 609 draws a 475 from deck 609
+player 609 discards a 985 to deck 610
+player 609 current hand : 947 805 681 252 837 583 219 117 223 93 860 826 440 559 240 22 796 74 507 475 
+player 609 draws a 38 from deck 609
+player 609 discards a 947 to deck 610
+player 609 current hand : 805 681 252 837 583 219 117 223 93 860 826 440 559 240 22 796 74 507 475 38 
+player 609 draws a 13 from deck 609
+player 609 discards a 805 to deck 610
+player 609 current hand : 681 252 837 583 219 117 223 93 860 826 440 559 240 22 796 74 507 475 38 13 
+player 609 draws a 255 from deck 609
+player 609 discards a 681 to deck 610
+player 609 current hand : 252 837 583 219 117 223 93 860 826 440 559 240 22 796 74 507 475 38 13 255 
+player 609 draws a 967 from deck 609
+player 609 discards a 252 to deck 610
+player 609 current hand : 837 583 219 117 223 93 860 826 440 559 240 22 796 74 507 475 38 13 255 967 
+player 609 draws a 159 from deck 609
+player 609 discards a 837 to deck 610
+player 609 current hand : 583 219 117 223 93 860 826 440 559 240 22 796 74 507 475 38 13 255 967 159 
+player 609 draws a 126 from deck 609
+player 609 discards a 583 to deck 610
+player 609 current hand : 219 117 223 93 860 826 440 559 240 22 796 74 507 475 38 13 255 967 159 126 
+player 609 draws a 74 from deck 609
+player 609 discards a 219 to deck 610
+player 609 current hand : 117 223 93 860 826 440 559 240 22 796 74 507 475 38 13 255 967 159 126 74 
+player 609 draws a 285 from deck 609
+player 609 discards a 117 to deck 610
+player 609 current hand : 223 93 860 826 440 559 240 22 796 74 507 475 38 13 255 967 159 126 74 285 
+player 609 draws a 720 from deck 609
+player 609 discards a 223 to deck 610
+player 609 current hand : 93 860 826 440 559 240 22 796 74 507 475 38 13 255 967 159 126 74 285 720 
+player 609 draws a 728 from deck 609
+player 609 discards a 93 to deck 610
+player 609 current hand : 860 826 440 559 240 22 796 74 507 475 38 13 255 967 159 126 74 285 720 728 
+player 609 draws a 842 from deck 609
+player 609 discards a 860 to deck 610
+player 609 current hand : 826 440 559 240 22 796 74 507 475 38 13 255 967 159 126 74 285 720 728 842 
+player 609 draws a 919 from deck 609
+player 609 discards a 826 to deck 610
+player 609 current hand : 440 559 240 22 796 74 507 475 38 13 255 967 159 126 74 285 720 728 842 919 
+player 609 draws a 829 from deck 609
+player 609 discards a 440 to deck 610
+player 609 current hand : 559 240 22 796 74 507 475 38 13 255 967 159 126 74 285 720 728 842 919 829 
+player 609 draws a 117 from deck 609
+player 609 discards a 559 to deck 610
+player 609 current hand : 240 22 796 74 507 475 38 13 255 967 159 126 74 285 720 728 842 919 829 117 
+player 609 draws a 424 from deck 609
+player 609 discards a 240 to deck 610
+player 609 current hand : 22 796 74 507 475 38 13 255 967 159 126 74 285 720 728 842 919 829 117 424 
+player 609 draws a 556 from deck 609
+player 609 discards a 22 to deck 610
+player 609 current hand : 796 74 507 475 38 13 255 967 159 126 74 285 720 728 842 919 829 117 424 556 
+player 609 draws a 483 from deck 609
+player 609 discards a 796 to deck 610
+player 609 current hand : 74 507 475 38 13 255 967 159 126 74 285 720 728 842 919 829 117 424 556 483 
+player 609 draws a 260 from deck 609
+player 609 discards a 74 to deck 610
+player 609 current hand : 507 475 38 13 255 967 159 126 74 285 720 728 842 919 829 117 424 556 483 260 
+player 609 draws a 252 from deck 609
+player 609 discards a 507 to deck 610
+player 609 current hand : 475 38 13 255 967 159 126 74 285 720 728 842 919 829 117 424 556 483 260 252 
+player 609 draws a 765 from deck 609
+player 609 discards a 475 to deck 610
+player 609 current hand : 38 13 255 967 159 126 74 285 720 728 842 919 829 117 424 556 483 260 252 765 
+player 609 draws a 731 from deck 609
+player 609 discards a 38 to deck 610
+player 609 current hand : 13 255 967 159 126 74 285 720 728 842 919 829 117 424 556 483 260 252 765 731 
+player 609 draws a 95 from deck 609
+player 609 discards a 13 to deck 610
+player 609 current hand : 255 967 159 126 74 285 720 728 842 919 829 117 424 556 483 260 252 765 731 95 
+player 609 draws a 258 from deck 609
+player 609 discards a 255 to deck 610
+player 609 current hand : 967 159 126 74 285 720 728 842 919 829 117 424 556 483 260 252 765 731 95 258 
+player 609 draws a 726 from deck 609
+player 609 discards a 967 to deck 610
+player 609 current hand : 159 126 74 285 720 728 842 919 829 117 424 556 483 260 252 765 731 95 258 726 
+player 609 draws a 535 from deck 609
+player 609 discards a 159 to deck 610
+player 609 current hand : 126 74 285 720 728 842 919 829 117 424 556 483 260 252 765 731 95 258 726 535 
+player 609 draws a 422 from deck 609
+player 609 discards a 126 to deck 610
+player 609 current hand : 74 285 720 728 842 919 829 117 424 556 483 260 252 765 731 95 258 726 535 422 
+player 609 draws a 586 from deck 609
+player 609 discards a 74 to deck 610
+player 609 current hand : 285 720 728 842 919 829 117 424 556 483 260 252 765 731 95 258 726 535 422 586 
+player 609 draws a 680 from deck 609
+player 609 discards a 285 to deck 610
+player 609 current hand : 720 728 842 919 829 117 424 556 483 260 252 765 731 95 258 726 535 422 586 680 
+player 609 draws a 898 from deck 609
+player 609 discards a 720 to deck 610
+player 609 current hand : 728 842 919 829 117 424 556 483 260 252 765 731 95 258 726 535 422 586 680 898 
+player 609 draws a 681 from deck 609
+player 609 discards a 728 to deck 610
+player 609 current hand : 842 919 829 117 424 556 483 260 252 765 731 95 258 726 535 422 586 680 898 681 
+player 609 draws a 316 from deck 609
+player 609 discards a 842 to deck 610
+player 609 current hand : 919 829 117 424 556 483 260 252 765 731 95 258 726 535 422 586 680 898 681 316 
+player 609 draws a 415 from deck 609
+player 609 discards a 919 to deck 610
+player 609 current hand : 829 117 424 556 483 260 252 765 731 95 258 726 535 422 586 680 898 681 316 415 
+player 609 draws a 442 from deck 609
+player 609 discards a 829 to deck 610
+player 609 current hand : 117 424 556 483 260 252 765 731 95 258 726 535 422 586 680 898 681 316 415 442 
+player 609 draws a 247 from deck 609
+player 609 discards a 117 to deck 610
+player 609 current hand : 424 556 483 260 252 765 731 95 258 726 535 422 586 680 898 681 316 415 442 247 
+player 609 draws a 797 from deck 609
+player 609 discards a 424 to deck 610
+player 609 current hand : 556 483 260 252 765 731 95 258 726 535 422 586 680 898 681 316 415 442 247 797 
+player 609 draws a 16 from deck 609
+player 609 discards a 556 to deck 610
+player 609 current hand : 483 260 252 765 731 95 258 726 535 422 586 680 898 681 316 415 442 247 797 16 
+player 609 draws a 128 from deck 609
+player 609 discards a 483 to deck 610
+player 609 current hand : 260 252 765 731 95 258 726 535 422 586 680 898 681 316 415 442 247 797 16 128 
+player 609 draws a 868 from deck 609
+player 609 discards a 260 to deck 610
+player 609 current hand : 252 765 731 95 258 726 535 422 586 680 898 681 316 415 442 247 797 16 128 868 
+player 609 draws a 136 from deck 609
+player 609 discards a 252 to deck 610
+player 609 current hand : 765 731 95 258 726 535 422 586 680 898 681 316 415 442 247 797 16 128 868 136 
+player 609 draws a 530 from deck 609
+player 609 discards a 765 to deck 610
+player 609 current hand : 731 95 258 726 535 422 586 680 898 681 316 415 442 247 797 16 128 868 136 530 
+player 609 draws a 994 from deck 609
+player 609 discards a 731 to deck 610
+player 609 current hand : 95 258 726 535 422 586 680 898 681 316 415 442 247 797 16 128 868 136 530 994 
+player 609 draws a 317 from deck 609
+player 609 discards a 95 to deck 610
+player 609 current hand : 258 726 535 422 586 680 898 681 316 415 442 247 797 16 128 868 136 530 994 317 
+player 609 draws a 31 from deck 609
+player 609 discards a 258 to deck 610
+player 609 current hand : 726 535 422 586 680 898 681 316 415 442 247 797 16 128 868 136 530 994 317 31 
+player 609 draws a 985 from deck 609
+player 609 discards a 726 to deck 610
+player 609 current hand : 535 422 586 680 898 681 316 415 442 247 797 16 128 868 136 530 994 317 31 985 
+player 609 draws a 3 from deck 609
+player 609 discards a 535 to deck 610
+player 609 current hand : 422 586 680 898 681 316 415 442 247 797 16 128 868 136 530 994 317 31 985 3 
+player 609 draws a 170 from deck 609
+player 609 discards a 422 to deck 610
+player 609 current hand : 586 680 898 681 316 415 442 247 797 16 128 868 136 530 994 317 31 985 3 170 
+player 609 draws a 951 from deck 609
+player 609 discards a 586 to deck 610
+player 609 current hand : 680 898 681 316 415 442 247 797 16 128 868 136 530 994 317 31 985 3 170 951 
+player 609 draws a 947 from deck 609
+player 609 discards a 680 to deck 610
+player 609 current hand : 898 681 316 415 442 247 797 16 128 868 136 530 994 317 31 985 3 170 951 947 
+player 609 draws a 106 from deck 609
+player 609 discards a 898 to deck 610
+player 609 current hand : 681 316 415 442 247 797 16 128 868 136 530 994 317 31 985 3 170 951 947 106 
+player 609 draws a 943 from deck 609
+player 609 discards a 681 to deck 610
+player 609 current hand : 316 415 442 247 797 16 128 868 136 530 994 317 31 985 3 170 951 947 106 943 
+player 609 draws a 329 from deck 609
+player 609 discards a 316 to deck 610
+player 609 current hand : 415 442 247 797 16 128 868 136 530 994 317 31 985 3 170 951 947 106 943 329 
+player 609 draws a 507 from deck 609
+player 609 discards a 415 to deck 610
+player 609 current hand : 442 247 797 16 128 868 136 530 994 317 31 985 3 170 951 947 106 943 329 507 
+player 609 draws a 37 from deck 609
+player 609 discards a 442 to deck 610
+player 609 current hand : 247 797 16 128 868 136 530 994 317 31 985 3 170 951 947 106 943 329 507 37 
+player 609 draws a 438 from deck 609
+player 609 discards a 247 to deck 610
+player 609 current hand : 797 16 128 868 136 530 994 317 31 985 3 170 951 947 106 943 329 507 37 438 
+player 609 draws a 236 from deck 609
+player 609 discards a 797 to deck 610
+player 609 current hand : 16 128 868 136 530 994 317 31 985 3 170 951 947 106 943 329 507 37 438 236 
+player 609 draws a 195 from deck 609
+player 609 discards a 16 to deck 610
+player 609 current hand : 128 868 136 530 994 317 31 985 3 170 951 947 106 943 329 507 37 438 236 195 
+player 609 draws a 829 from deck 609
+player 609 discards a 128 to deck 610
+player 609 current hand : 868 136 530 994 317 31 985 3 170 951 947 106 943 329 507 37 438 236 195 829 
+player 609 draws a 505 from deck 609
+player 609 discards a 868 to deck 610
+player 609 current hand : 136 530 994 317 31 985 3 170 951 947 106 943 329 507 37 438 236 195 829 505 
+player 609 draws a 949 from deck 609
+player 609 discards a 136 to deck 610
+player 609 current hand : 530 994 317 31 985 3 170 951 947 106 943 329 507 37 438 236 195 829 505 949 
+player 609 draws a 787 from deck 609
+player 609 discards a 530 to deck 610
+player 609 current hand : 994 317 31 985 3 170 951 947 106 943 329 507 37 438 236 195 829 505 949 787 
+player 609 draws a 776 from deck 609
+player 609 discards a 994 to deck 610
+player 609 current hand : 317 31 985 3 170 951 947 106 943 329 507 37 438 236 195 829 505 949 787 776 
+player 609 draws a 661 from deck 609
+player 609 discards a 317 to deck 610
+player 609 current hand : 31 985 3 170 951 947 106 943 329 507 37 438 236 195 829 505 949 787 776 661 
+player 609 draws a 600 from deck 609
+player 609 discards a 31 to deck 610
+player 609 current hand : 985 3 170 951 947 106 943 329 507 37 438 236 195 829 505 949 787 776 661 600 
+player 609 draws a 20 from deck 609
+player 609 discards a 985 to deck 610
+player 609 current hand : 3 170 951 947 106 943 329 507 37 438 236 195 829 505 949 787 776 661 600 20 
+player 609 draws a 55 from deck 609
+player 609 discards a 3 to deck 610
+player 609 current hand : 170 951 947 106 943 329 507 37 438 236 195 829 505 949 787 776 661 600 20 55 
+player 609 draws a 845 from deck 609
+player 609 discards a 170 to deck 610
+player 609 current hand : 951 947 106 943 329 507 37 438 236 195 829 505 949 787 776 661 600 20 55 845 
+player 609 draws a 348 from deck 609
+player 609 discards a 951 to deck 610
+player 609 current hand : 947 106 943 329 507 37 438 236 195 829 505 949 787 776 661 600 20 55 845 348 
+player 609 draws a 788 from deck 609
+player 609 discards a 947 to deck 610
+player 609 current hand : 106 943 329 507 37 438 236 195 829 505 949 787 776 661 600 20 55 845 348 788 
+player 609 draws a 655 from deck 609
+player 609 discards a 106 to deck 610
+player 609 current hand : 943 329 507 37 438 236 195 829 505 949 787 776 661 600 20 55 845 348 788 655 
+player 609 draws a 902 from deck 609
+player 609 discards a 943 to deck 610
+player 609 current hand : 329 507 37 438 236 195 829 505 949 787 776 661 600 20 55 845 348 788 655 902 
+player 609 draws a 757 from deck 609
+player 609 discards a 329 to deck 610
+player 609 current hand : 507 37 438 236 195 829 505 949 787 776 661 600 20 55 845 348 788 655 902 757 
+player 609 draws a 15 from deck 609
+player 609 discards a 507 to deck 610
+player 609 current hand : 37 438 236 195 829 505 949 787 776 661 600 20 55 845 348 788 655 902 757 15 

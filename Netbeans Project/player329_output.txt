@@ -1,0 +1,330 @@
+player 329 initial hand 177 331 844 495 879 396 255 776 321 14 301 515 744 630 667 104 734 210 489 745 
+player 329 draws a 813 from deck 329
+player 329 discards a 177 to deck 330
+player 329 current hand : 331 844 495 879 396 255 776 321 14 301 515 744 630 667 104 734 210 489 745 813 
+player 329 draws a 728 from deck 329
+player 329 discards a 331 to deck 330
+player 329 current hand : 844 495 879 396 255 776 321 14 301 515 744 630 667 104 734 210 489 745 813 728 
+player 329 draws a 413 from deck 329
+player 329 discards a 844 to deck 330
+player 329 current hand : 495 879 396 255 776 321 14 301 515 744 630 667 104 734 210 489 745 813 728 413 
+player 329 draws a 927 from deck 329
+player 329 discards a 495 to deck 330
+player 329 current hand : 879 396 255 776 321 14 301 515 744 630 667 104 734 210 489 745 813 728 413 927 
+player 329 draws a 202 from deck 329
+player 329 discards a 879 to deck 330
+player 329 current hand : 396 255 776 321 14 301 515 744 630 667 104 734 210 489 745 813 728 413 927 202 
+player 329 draws a 57 from deck 329
+player 329 discards a 396 to deck 330
+player 329 current hand : 255 776 321 14 301 515 744 630 667 104 734 210 489 745 813 728 413 927 202 57 
+player 329 draws a 705 from deck 329
+player 329 discards a 255 to deck 330
+player 329 current hand : 776 321 14 301 515 744 630 667 104 734 210 489 745 813 728 413 927 202 57 705 
+player 329 draws a 212 from deck 329
+player 329 discards a 776 to deck 330
+player 329 current hand : 321 14 301 515 744 630 667 104 734 210 489 745 813 728 413 927 202 57 705 212 
+player 329 draws a 435 from deck 329
+player 329 discards a 321 to deck 330
+player 329 current hand : 14 301 515 744 630 667 104 734 210 489 745 813 728 413 927 202 57 705 212 435 
+player 329 draws a 240 from deck 329
+player 329 discards a 14 to deck 330
+player 329 current hand : 301 515 744 630 667 104 734 210 489 745 813 728 413 927 202 57 705 212 435 240 
+player 329 draws a 578 from deck 329
+player 329 discards a 301 to deck 330
+player 329 current hand : 515 744 630 667 104 734 210 489 745 813 728 413 927 202 57 705 212 435 240 578 
+player 329 draws a 608 from deck 329
+player 329 discards a 515 to deck 330
+player 329 current hand : 744 630 667 104 734 210 489 745 813 728 413 927 202 57 705 212 435 240 578 608 
+player 329 draws a 199 from deck 329
+player 329 discards a 744 to deck 330
+player 329 current hand : 630 667 104 734 210 489 745 813 728 413 927 202 57 705 212 435 240 578 608 199 
+player 329 draws a 580 from deck 329
+player 329 discards a 630 to deck 330
+player 329 current hand : 667 104 734 210 489 745 813 728 413 927 202 57 705 212 435 240 578 608 199 580 
+player 329 draws a 422 from deck 329
+player 329 discards a 667 to deck 330
+player 329 current hand : 104 734 210 489 745 813 728 413 927 202 57 705 212 435 240 578 608 199 580 422 
+player 329 draws a 717 from deck 329
+player 329 discards a 104 to deck 330
+player 329 current hand : 734 210 489 745 813 728 413 927 202 57 705 212 435 240 578 608 199 580 422 717 
+player 329 draws a 158 from deck 329
+player 329 discards a 734 to deck 330
+player 329 current hand : 210 489 745 813 728 413 927 202 57 705 212 435 240 578 608 199 580 422 717 158 
+player 329 draws a 17 from deck 329
+player 329 discards a 210 to deck 330
+player 329 current hand : 489 745 813 728 413 927 202 57 705 212 435 240 578 608 199 580 422 717 158 17 
+player 329 draws a 180 from deck 329
+player 329 discards a 489 to deck 330
+player 329 current hand : 745 813 728 413 927 202 57 705 212 435 240 578 608 199 580 422 717 158 17 180 
+player 329 draws a 17 from deck 329
+player 329 discards a 745 to deck 330
+player 329 current hand : 813 728 413 927 202 57 705 212 435 240 578 608 199 580 422 717 158 17 180 17 
+player 329 draws a 649 from deck 329
+player 329 discards a 813 to deck 330
+player 329 current hand : 728 413 927 202 57 705 212 435 240 578 608 199 580 422 717 158 17 180 17 649 
+player 329 draws a 275 from deck 329
+player 329 discards a 728 to deck 330
+player 329 current hand : 413 927 202 57 705 212 435 240 578 608 199 580 422 717 158 17 180 17 649 275 
+player 329 draws a 93 from deck 329
+player 329 discards a 413 to deck 330
+player 329 current hand : 927 202 57 705 212 435 240 578 608 199 580 422 717 158 17 180 17 649 275 93 
+player 329 draws a 498 from deck 329
+player 329 discards a 927 to deck 330
+player 329 current hand : 202 57 705 212 435 240 578 608 199 580 422 717 158 17 180 17 649 275 93 498 
+player 329 draws a 236 from deck 329
+player 329 discards a 202 to deck 330
+player 329 current hand : 57 705 212 435 240 578 608 199 580 422 717 158 17 180 17 649 275 93 498 236 
+player 329 draws a 24 from deck 329
+player 329 discards a 57 to deck 330
+player 329 current hand : 705 212 435 240 578 608 199 580 422 717 158 17 180 17 649 275 93 498 236 24 
+player 329 draws a 244 from deck 329
+player 329 discards a 705 to deck 330
+player 329 current hand : 212 435 240 578 608 199 580 422 717 158 17 180 17 649 275 93 498 236 24 244 
+player 329 draws a 460 from deck 329
+player 329 discards a 212 to deck 330
+player 329 current hand : 435 240 578 608 199 580 422 717 158 17 180 17 649 275 93 498 236 24 244 460 
+player 329 draws a 835 from deck 329
+player 329 discards a 435 to deck 330
+player 329 current hand : 240 578 608 199 580 422 717 158 17 180 17 649 275 93 498 236 24 244 460 835 
+player 329 draws a 976 from deck 329
+player 329 discards a 240 to deck 330
+player 329 current hand : 578 608 199 580 422 717 158 17 180 17 649 275 93 498 236 24 244 460 835 976 
+player 329 draws a 403 from deck 329
+player 329 discards a 578 to deck 330
+player 329 current hand : 608 199 580 422 717 158 17 180 17 649 275 93 498 236 24 244 460 835 976 403 
+player 329 draws a 917 from deck 329
+player 329 discards a 608 to deck 330
+player 329 current hand : 199 580 422 717 158 17 180 17 649 275 93 498 236 24 244 460 835 976 403 917 
+player 329 draws a 548 from deck 329
+player 329 discards a 199 to deck 330
+player 329 current hand : 580 422 717 158 17 180 17 649 275 93 498 236 24 244 460 835 976 403 917 548 
+player 329 draws a 681 from deck 329
+player 329 discards a 580 to deck 330
+player 329 current hand : 422 717 158 17 180 17 649 275 93 498 236 24 244 460 835 976 403 917 548 681 
+player 329 draws a 861 from deck 329
+player 329 discards a 422 to deck 330
+player 329 current hand : 717 158 17 180 17 649 275 93 498 236 24 244 460 835 976 403 917 548 681 861 
+player 329 draws a 45 from deck 329
+player 329 discards a 717 to deck 330
+player 329 current hand : 158 17 180 17 649 275 93 498 236 24 244 460 835 976 403 917 548 681 861 45 
+player 329 draws a 179 from deck 329
+player 329 discards a 158 to deck 330
+player 329 current hand : 17 180 17 649 275 93 498 236 24 244 460 835 976 403 917 548 681 861 45 179 
+player 329 draws a 305 from deck 329
+player 329 discards a 17 to deck 330
+player 329 current hand : 180 17 649 275 93 498 236 24 244 460 835 976 403 917 548 681 861 45 179 305 
+player 329 draws a 22 from deck 329
+player 329 discards a 180 to deck 330
+player 329 current hand : 17 649 275 93 498 236 24 244 460 835 976 403 917 548 681 861 45 179 305 22 
+player 329 draws a 582 from deck 329
+player 329 discards a 17 to deck 330
+player 329 current hand : 649 275 93 498 236 24 244 460 835 976 403 917 548 681 861 45 179 305 22 582 
+player 329 draws a 510 from deck 329
+player 329 discards a 649 to deck 330
+player 329 current hand : 275 93 498 236 24 244 460 835 976 403 917 548 681 861 45 179 305 22 582 510 
+player 329 draws a 246 from deck 329
+player 329 discards a 275 to deck 330
+player 329 current hand : 93 498 236 24 244 460 835 976 403 917 548 681 861 45 179 305 22 582 510 246 
+player 329 draws a 183 from deck 329
+player 329 discards a 93 to deck 330
+player 329 current hand : 498 236 24 244 460 835 976 403 917 548 681 861 45 179 305 22 582 510 246 183 
+player 329 draws a 336 from deck 329
+player 329 discards a 498 to deck 330
+player 329 current hand : 236 24 244 460 835 976 403 917 548 681 861 45 179 305 22 582 510 246 183 336 
+player 329 draws a 57 from deck 329
+player 329 discards a 236 to deck 330
+player 329 current hand : 24 244 460 835 976 403 917 548 681 861 45 179 305 22 582 510 246 183 336 57 
+player 329 draws a 410 from deck 329
+player 329 discards a 24 to deck 330
+player 329 current hand : 244 460 835 976 403 917 548 681 861 45 179 305 22 582 510 246 183 336 57 410 
+player 329 draws a 246 from deck 329
+player 329 discards a 244 to deck 330
+player 329 current hand : 460 835 976 403 917 548 681 861 45 179 305 22 582 510 246 183 336 57 410 246 
+player 329 draws a 364 from deck 329
+player 329 discards a 460 to deck 330
+player 329 current hand : 835 976 403 917 548 681 861 45 179 305 22 582 510 246 183 336 57 410 246 364 
+player 329 draws a 31 from deck 329
+player 329 discards a 835 to deck 330
+player 329 current hand : 976 403 917 548 681 861 45 179 305 22 582 510 246 183 336 57 410 246 364 31 
+player 329 draws a 584 from deck 329
+player 329 discards a 976 to deck 330
+player 329 current hand : 403 917 548 681 861 45 179 305 22 582 510 246 183 336 57 410 246 364 31 584 
+player 329 draws a 33 from deck 329
+player 329 discards a 403 to deck 330
+player 329 current hand : 917 548 681 861 45 179 305 22 582 510 246 183 336 57 410 246 364 31 584 33 
+player 329 draws a 308 from deck 329
+player 329 discards a 917 to deck 330
+player 329 current hand : 548 681 861 45 179 305 22 582 510 246 183 336 57 410 246 364 31 584 33 308 
+player 329 draws a 408 from deck 329
+player 329 discards a 548 to deck 330
+player 329 current hand : 681 861 45 179 305 22 582 510 246 183 336 57 410 246 364 31 584 33 308 408 
+player 329 draws a 856 from deck 329
+player 329 discards a 681 to deck 330
+player 329 current hand : 861 45 179 305 22 582 510 246 183 336 57 410 246 364 31 584 33 308 408 856 
+player 329 draws a 952 from deck 329
+player 329 discards a 861 to deck 330
+player 329 current hand : 45 179 305 22 582 510 246 183 336 57 410 246 364 31 584 33 308 408 856 952 
+player 329 draws a 712 from deck 329
+player 329 discards a 45 to deck 330
+player 329 current hand : 179 305 22 582 510 246 183 336 57 410 246 364 31 584 33 308 408 856 952 712 
+player 329 draws a 18 from deck 329
+player 329 discards a 179 to deck 330
+player 329 current hand : 305 22 582 510 246 183 336 57 410 246 364 31 584 33 308 408 856 952 712 18 
+player 329 draws a 856 from deck 329
+player 329 discards a 305 to deck 330
+player 329 current hand : 22 582 510 246 183 336 57 410 246 364 31 584 33 308 408 856 952 712 18 856 
+player 329 draws a 565 from deck 329
+player 329 discards a 22 to deck 330
+player 329 current hand : 582 510 246 183 336 57 410 246 364 31 584 33 308 408 856 952 712 18 856 565 
+player 329 draws a 369 from deck 329
+player 329 discards a 582 to deck 330
+player 329 current hand : 510 246 183 336 57 410 246 364 31 584 33 308 408 856 952 712 18 856 565 369 
+player 329 draws a 644 from deck 329
+player 329 discards a 510 to deck 330
+player 329 current hand : 246 183 336 57 410 246 364 31 584 33 308 408 856 952 712 18 856 565 369 644 
+player 329 draws a 55 from deck 329
+player 329 discards a 246 to deck 330
+player 329 current hand : 183 336 57 410 246 364 31 584 33 308 408 856 952 712 18 856 565 369 644 55 
+player 329 draws a 74 from deck 329
+player 329 discards a 183 to deck 330
+player 329 current hand : 336 57 410 246 364 31 584 33 308 408 856 952 712 18 856 565 369 644 55 74 
+player 329 draws a 138 from deck 329
+player 329 discards a 336 to deck 330
+player 329 current hand : 57 410 246 364 31 584 33 308 408 856 952 712 18 856 565 369 644 55 74 138 
+player 329 draws a 112 from deck 329
+player 329 discards a 57 to deck 330
+player 329 current hand : 410 246 364 31 584 33 308 408 856 952 712 18 856 565 369 644 55 74 138 112 
+player 329 draws a 392 from deck 329
+player 329 discards a 410 to deck 330
+player 329 current hand : 246 364 31 584 33 308 408 856 952 712 18 856 565 369 644 55 74 138 112 392 
+player 329 draws a 555 from deck 329
+player 329 discards a 246 to deck 330
+player 329 current hand : 364 31 584 33 308 408 856 952 712 18 856 565 369 644 55 74 138 112 392 555 
+player 329 draws a 263 from deck 329
+player 329 discards a 364 to deck 330
+player 329 current hand : 31 584 33 308 408 856 952 712 18 856 565 369 644 55 74 138 112 392 555 263 
+player 329 draws a 661 from deck 329
+player 329 discards a 31 to deck 330
+player 329 current hand : 584 33 308 408 856 952 712 18 856 565 369 644 55 74 138 112 392 555 263 661 
+player 329 draws a 702 from deck 329
+player 329 discards a 584 to deck 330
+player 329 current hand : 33 308 408 856 952 712 18 856 565 369 644 55 74 138 112 392 555 263 661 702 
+player 329 draws a 500 from deck 329
+player 329 discards a 33 to deck 330
+player 329 current hand : 308 408 856 952 712 18 856 565 369 644 55 74 138 112 392 555 263 661 702 500 
+player 329 draws a 269 from deck 329
+player 329 discards a 308 to deck 330
+player 329 current hand : 408 856 952 712 18 856 565 369 644 55 74 138 112 392 555 263 661 702 500 269 
+player 329 draws a 816 from deck 329
+player 329 discards a 408 to deck 330
+player 329 current hand : 856 952 712 18 856 565 369 644 55 74 138 112 392 555 263 661 702 500 269 816 
+player 329 draws a 778 from deck 329
+player 329 discards a 856 to deck 330
+player 329 current hand : 952 712 18 856 565 369 644 55 74 138 112 392 555 263 661 702 500 269 816 778 
+player 329 draws a 515 from deck 329
+player 329 discards a 952 to deck 330
+player 329 current hand : 712 18 856 565 369 644 55 74 138 112 392 555 263 661 702 500 269 816 778 515 
+player 329 draws a 162 from deck 329
+player 329 discards a 712 to deck 330
+player 329 current hand : 18 856 565 369 644 55 74 138 112 392 555 263 661 702 500 269 816 778 515 162 
+player 329 draws a 574 from deck 329
+player 329 discards a 18 to deck 330
+player 329 current hand : 856 565 369 644 55 74 138 112 392 555 263 661 702 500 269 816 778 515 162 574 
+player 329 draws a 999 from deck 329
+player 329 discards a 856 to deck 330
+player 329 current hand : 565 369 644 55 74 138 112 392 555 263 661 702 500 269 816 778 515 162 574 999 
+player 329 draws a 797 from deck 329
+player 329 discards a 565 to deck 330
+player 329 current hand : 369 644 55 74 138 112 392 555 263 661 702 500 269 816 778 515 162 574 999 797 
+player 329 draws a 702 from deck 329
+player 329 discards a 369 to deck 330
+player 329 current hand : 644 55 74 138 112 392 555 263 661 702 500 269 816 778 515 162 574 999 797 702 
+player 329 draws a 452 from deck 329
+player 329 discards a 644 to deck 330
+player 329 current hand : 55 74 138 112 392 555 263 661 702 500 269 816 778 515 162 574 999 797 702 452 
+player 329 draws a 336 from deck 329
+player 329 discards a 55 to deck 330
+player 329 current hand : 74 138 112 392 555 263 661 702 500 269 816 778 515 162 574 999 797 702 452 336 
+player 329 draws a 18 from deck 329
+player 329 discards a 74 to deck 330
+player 329 current hand : 138 112 392 555 263 661 702 500 269 816 778 515 162 574 999 797 702 452 336 18 
+player 329 draws a 782 from deck 329
+player 329 discards a 138 to deck 330
+player 329 current hand : 112 392 555 263 661 702 500 269 816 778 515 162 574 999 797 702 452 336 18 782 
+player 329 draws a 975 from deck 329
+player 329 discards a 112 to deck 330
+player 329 current hand : 392 555 263 661 702 500 269 816 778 515 162 574 999 797 702 452 336 18 782 975 
+player 329 draws a 723 from deck 329
+player 329 discards a 392 to deck 330
+player 329 current hand : 555 263 661 702 500 269 816 778 515 162 574 999 797 702 452 336 18 782 975 723 
+player 329 draws a 576 from deck 329
+player 329 discards a 555 to deck 330
+player 329 current hand : 263 661 702 500 269 816 778 515 162 574 999 797 702 452 336 18 782 975 723 576 
+player 329 draws a 654 from deck 329
+player 329 discards a 263 to deck 330
+player 329 current hand : 661 702 500 269 816 778 515 162 574 999 797 702 452 336 18 782 975 723 576 654 
+player 329 draws a 576 from deck 329
+player 329 discards a 661 to deck 330
+player 329 current hand : 702 500 269 816 778 515 162 574 999 797 702 452 336 18 782 975 723 576 654 576 
+player 329 draws a 115 from deck 329
+player 329 discards a 702 to deck 330
+player 329 current hand : 500 269 816 778 515 162 574 999 797 702 452 336 18 782 975 723 576 654 576 115 
+player 329 draws a 537 from deck 329
+player 329 discards a 500 to deck 330
+player 329 current hand : 269 816 778 515 162 574 999 797 702 452 336 18 782 975 723 576 654 576 115 537 
+player 329 draws a 686 from deck 329
+player 329 discards a 269 to deck 330
+player 329 current hand : 816 778 515 162 574 999 797 702 452 336 18 782 975 723 576 654 576 115 537 686 
+player 329 draws a 598 from deck 329
+player 329 discards a 816 to deck 330
+player 329 current hand : 778 515 162 574 999 797 702 452 336 18 782 975 723 576 654 576 115 537 686 598 
+player 329 draws a 947 from deck 329
+player 329 discards a 778 to deck 330
+player 329 current hand : 515 162 574 999 797 702 452 336 18 782 975 723 576 654 576 115 537 686 598 947 
+player 329 draws a 199 from deck 329
+player 329 discards a 515 to deck 330
+player 329 current hand : 162 574 999 797 702 452 336 18 782 975 723 576 654 576 115 537 686 598 947 199 
+player 329 draws a 585 from deck 329
+player 329 discards a 162 to deck 330
+player 329 current hand : 574 999 797 702 452 336 18 782 975 723 576 654 576 115 537 686 598 947 199 585 
+player 329 draws a 188 from deck 329
+player 329 discards a 574 to deck 330
+player 329 current hand : 999 797 702 452 336 18 782 975 723 576 654 576 115 537 686 598 947 199 585 188 
+player 329 draws a 156 from deck 329
+player 329 discards a 999 to deck 330
+player 329 current hand : 797 702 452 336 18 782 975 723 576 654 576 115 537 686 598 947 199 585 188 156 
+player 329 draws a 135 from deck 329
+player 329 discards a 797 to deck 330
+player 329 current hand : 702 452 336 18 782 975 723 576 654 576 115 537 686 598 947 199 585 188 156 135 
+player 329 draws a 488 from deck 329
+player 329 discards a 702 to deck 330
+player 329 current hand : 452 336 18 782 975 723 576 654 576 115 537 686 598 947 199 585 188 156 135 488 
+player 329 draws a 412 from deck 329
+player 329 discards a 452 to deck 330
+player 329 current hand : 336 18 782 975 723 576 654 576 115 537 686 598 947 199 585 188 156 135 488 412 
+player 329 draws a 248 from deck 329
+player 329 discards a 336 to deck 330
+player 329 current hand : 18 782 975 723 576 654 576 115 537 686 598 947 199 585 188 156 135 488 412 248 
+player 329 draws a 817 from deck 329
+player 329 discards a 18 to deck 330
+player 329 current hand : 782 975 723 576 654 576 115 537 686 598 947 199 585 188 156 135 488 412 248 817 
+player 329 draws a 830 from deck 329
+player 329 discards a 782 to deck 330
+player 329 current hand : 975 723 576 654 576 115 537 686 598 947 199 585 188 156 135 488 412 248 817 830 
+player 329 draws a 19 from deck 329
+player 329 discards a 975 to deck 330
+player 329 current hand : 723 576 654 576 115 537 686 598 947 199 585 188 156 135 488 412 248 817 830 19 
+player 329 draws a 981 from deck 329
+player 329 discards a 723 to deck 330
+player 329 current hand : 576 654 576 115 537 686 598 947 199 585 188 156 135 488 412 248 817 830 19 981 
+player 329 draws a 791 from deck 329
+player 329 discards a 576 to deck 330
+player 329 current hand : 654 576 115 537 686 598 947 199 585 188 156 135 488 412 248 817 830 19 981 791 
+player 329 draws a 329 from deck 329
+player 329 discards a 654 to deck 330
+player 329 current hand : 576 115 537 686 598 947 199 585 188 156 135 488 412 248 817 830 19 981 791 329 
+player 329 draws a 649 from deck 329
+player 329 discards a 576 to deck 330
+player 329 current hand : 115 537 686 598 947 199 585 188 156 135 488 412 248 817 830 19 981 791 329 649 
+player 329 draws a 336 from deck 329
+player 329 discards a 115 to deck 330

@@ -1,0 +1,308 @@
+player 361 initial hand 257 484 731 341 395 537 242 888 389 400 9 130 69 78 996 621 453 9 589 754 
+player 361 draws a 844 from deck 361
+player 361 discards a 257 to deck 362
+player 361 current hand : 484 731 341 395 537 242 888 389 400 9 130 69 78 996 621 453 9 589 754 844 
+player 361 draws a 681 from deck 361
+player 361 discards a 484 to deck 362
+player 361 current hand : 731 341 395 537 242 888 389 400 9 130 69 78 996 621 453 9 589 754 844 681 
+player 361 draws a 180 from deck 361
+player 361 discards a 731 to deck 362
+player 361 current hand : 341 395 537 242 888 389 400 9 130 69 78 996 621 453 9 589 754 844 681 180 
+player 361 draws a 916 from deck 361
+player 361 discards a 341 to deck 362
+player 361 current hand : 395 537 242 888 389 400 9 130 69 78 996 621 453 9 589 754 844 681 180 916 
+player 361 draws a 492 from deck 361
+player 361 discards a 395 to deck 362
+player 361 current hand : 537 242 888 389 400 9 130 69 78 996 621 453 9 589 754 844 681 180 916 492 
+player 361 draws a 77 from deck 361
+player 361 discards a 537 to deck 362
+player 361 current hand : 242 888 389 400 9 130 69 78 996 621 453 9 589 754 844 681 180 916 492 77 
+player 361 draws a 239 from deck 361
+player 361 discards a 242 to deck 362
+player 361 current hand : 888 389 400 9 130 69 78 996 621 453 9 589 754 844 681 180 916 492 77 239 
+player 361 draws a 537 from deck 361
+player 361 discards a 888 to deck 362
+player 361 current hand : 389 400 9 130 69 78 996 621 453 9 589 754 844 681 180 916 492 77 239 537 
+player 361 draws a 835 from deck 361
+player 361 discards a 389 to deck 362
+player 361 current hand : 400 9 130 69 78 996 621 453 9 589 754 844 681 180 916 492 77 239 537 835 
+player 361 draws a 482 from deck 361
+player 361 discards a 400 to deck 362
+player 361 current hand : 9 130 69 78 996 621 453 9 589 754 844 681 180 916 492 77 239 537 835 482 
+player 361 draws a 753 from deck 361
+player 361 discards a 9 to deck 362
+player 361 current hand : 130 69 78 996 621 453 9 589 754 844 681 180 916 492 77 239 537 835 482 753 
+player 361 draws a 18 from deck 361
+player 361 discards a 130 to deck 362
+player 361 current hand : 69 78 996 621 453 9 589 754 844 681 180 916 492 77 239 537 835 482 753 18 
+player 361 draws a 1000 from deck 361
+player 361 discards a 69 to deck 362
+player 361 current hand : 78 996 621 453 9 589 754 844 681 180 916 492 77 239 537 835 482 753 18 1000 
+player 361 draws a 449 from deck 361
+player 361 discards a 78 to deck 362
+player 361 current hand : 996 621 453 9 589 754 844 681 180 916 492 77 239 537 835 482 753 18 1000 449 
+player 361 draws a 464 from deck 361
+player 361 discards a 996 to deck 362
+player 361 current hand : 621 453 9 589 754 844 681 180 916 492 77 239 537 835 482 753 18 1000 449 464 
+player 361 draws a 386 from deck 361
+player 361 discards a 621 to deck 362
+player 361 current hand : 453 9 589 754 844 681 180 916 492 77 239 537 835 482 753 18 1000 449 464 386 
+player 361 draws a 868 from deck 361
+player 361 discards a 453 to deck 362
+player 361 current hand : 9 589 754 844 681 180 916 492 77 239 537 835 482 753 18 1000 449 464 386 868 
+player 361 draws a 303 from deck 361
+player 361 discards a 9 to deck 362
+player 361 current hand : 589 754 844 681 180 916 492 77 239 537 835 482 753 18 1000 449 464 386 868 303 
+player 361 draws a 374 from deck 361
+player 361 discards a 589 to deck 362
+player 361 current hand : 754 844 681 180 916 492 77 239 537 835 482 753 18 1000 449 464 386 868 303 374 
+player 361 draws a 145 from deck 361
+player 361 discards a 754 to deck 362
+player 361 current hand : 844 681 180 916 492 77 239 537 835 482 753 18 1000 449 464 386 868 303 374 145 
+player 361 draws a 554 from deck 361
+player 361 discards a 844 to deck 362
+player 361 current hand : 681 180 916 492 77 239 537 835 482 753 18 1000 449 464 386 868 303 374 145 554 
+player 361 draws a 991 from deck 361
+player 361 discards a 681 to deck 362
+player 361 current hand : 180 916 492 77 239 537 835 482 753 18 1000 449 464 386 868 303 374 145 554 991 
+player 361 draws a 666 from deck 361
+player 361 discards a 180 to deck 362
+player 361 current hand : 916 492 77 239 537 835 482 753 18 1000 449 464 386 868 303 374 145 554 991 666 
+player 361 draws a 812 from deck 361
+player 361 discards a 916 to deck 362
+player 361 current hand : 492 77 239 537 835 482 753 18 1000 449 464 386 868 303 374 145 554 991 666 812 
+player 361 draws a 442 from deck 361
+player 361 discards a 492 to deck 362
+player 361 current hand : 77 239 537 835 482 753 18 1000 449 464 386 868 303 374 145 554 991 666 812 442 
+player 361 draws a 4 from deck 361
+player 361 discards a 77 to deck 362
+player 361 current hand : 239 537 835 482 753 18 1000 449 464 386 868 303 374 145 554 991 666 812 442 4 
+player 361 draws a 257 from deck 361
+player 361 discards a 239 to deck 362
+player 361 current hand : 537 835 482 753 18 1000 449 464 386 868 303 374 145 554 991 666 812 442 4 257 
+player 361 draws a 880 from deck 361
+player 361 discards a 537 to deck 362
+player 361 current hand : 835 482 753 18 1000 449 464 386 868 303 374 145 554 991 666 812 442 4 257 880 
+player 361 draws a 984 from deck 361
+player 361 discards a 835 to deck 362
+player 361 current hand : 482 753 18 1000 449 464 386 868 303 374 145 554 991 666 812 442 4 257 880 984 
+player 361 draws a 217 from deck 361
+player 361 discards a 482 to deck 362
+player 361 current hand : 753 18 1000 449 464 386 868 303 374 145 554 991 666 812 442 4 257 880 984 217 
+player 361 draws a 463 from deck 361
+player 361 discards a 753 to deck 362
+player 361 current hand : 18 1000 449 464 386 868 303 374 145 554 991 666 812 442 4 257 880 984 217 463 
+player 361 draws a 238 from deck 361
+player 361 discards a 18 to deck 362
+player 361 current hand : 1000 449 464 386 868 303 374 145 554 991 666 812 442 4 257 880 984 217 463 238 
+player 361 draws a 357 from deck 361
+player 361 discards a 1000 to deck 362
+player 361 current hand : 449 464 386 868 303 374 145 554 991 666 812 442 4 257 880 984 217 463 238 357 
+player 361 draws a 320 from deck 361
+player 361 discards a 449 to deck 362
+player 361 current hand : 464 386 868 303 374 145 554 991 666 812 442 4 257 880 984 217 463 238 357 320 
+player 361 draws a 478 from deck 361
+player 361 discards a 464 to deck 362
+player 361 current hand : 386 868 303 374 145 554 991 666 812 442 4 257 880 984 217 463 238 357 320 478 
+player 361 draws a 509 from deck 361
+player 361 discards a 386 to deck 362
+player 361 current hand : 868 303 374 145 554 991 666 812 442 4 257 880 984 217 463 238 357 320 478 509 
+player 361 draws a 214 from deck 361
+player 361 discards a 868 to deck 362
+player 361 current hand : 303 374 145 554 991 666 812 442 4 257 880 984 217 463 238 357 320 478 509 214 
+player 361 draws a 272 from deck 361
+player 361 discards a 303 to deck 362
+player 361 current hand : 374 145 554 991 666 812 442 4 257 880 984 217 463 238 357 320 478 509 214 272 
+player 361 draws a 474 from deck 361
+player 361 discards a 374 to deck 362
+player 361 current hand : 145 554 991 666 812 442 4 257 880 984 217 463 238 357 320 478 509 214 272 474 
+player 361 draws a 137 from deck 361
+player 361 discards a 145 to deck 362
+player 361 current hand : 554 991 666 812 442 4 257 880 984 217 463 238 357 320 478 509 214 272 474 137 
+player 361 draws a 330 from deck 361
+player 361 discards a 554 to deck 362
+player 361 current hand : 991 666 812 442 4 257 880 984 217 463 238 357 320 478 509 214 272 474 137 330 
+player 361 draws a 985 from deck 361
+player 361 discards a 991 to deck 362
+player 361 current hand : 666 812 442 4 257 880 984 217 463 238 357 320 478 509 214 272 474 137 330 985 
+player 361 draws a 274 from deck 361
+player 361 discards a 666 to deck 362
+player 361 current hand : 812 442 4 257 880 984 217 463 238 357 320 478 509 214 272 474 137 330 985 274 
+player 361 draws a 452 from deck 361
+player 361 discards a 812 to deck 362
+player 361 current hand : 442 4 257 880 984 217 463 238 357 320 478 509 214 272 474 137 330 985 274 452 
+player 361 draws a 419 from deck 361
+player 361 discards a 442 to deck 362
+player 361 current hand : 4 257 880 984 217 463 238 357 320 478 509 214 272 474 137 330 985 274 452 419 
+player 361 draws a 508 from deck 361
+player 361 discards a 4 to deck 362
+player 361 current hand : 257 880 984 217 463 238 357 320 478 509 214 272 474 137 330 985 274 452 419 508 
+player 361 draws a 143 from deck 361
+player 361 discards a 257 to deck 362
+player 361 current hand : 880 984 217 463 238 357 320 478 509 214 272 474 137 330 985 274 452 419 508 143 
+player 361 draws a 329 from deck 361
+player 361 discards a 880 to deck 362
+player 361 current hand : 984 217 463 238 357 320 478 509 214 272 474 137 330 985 274 452 419 508 143 329 
+player 361 draws a 466 from deck 361
+player 361 discards a 984 to deck 362
+player 361 current hand : 217 463 238 357 320 478 509 214 272 474 137 330 985 274 452 419 508 143 329 466 
+player 361 draws a 463 from deck 361
+player 361 discards a 217 to deck 362
+player 361 current hand : 463 238 357 320 478 509 214 272 474 137 330 985 274 452 419 508 143 329 466 463 
+player 361 draws a 637 from deck 361
+player 361 discards a 463 to deck 362
+player 361 current hand : 238 357 320 478 509 214 272 474 137 330 985 274 452 419 508 143 329 466 463 637 
+player 361 draws a 363 from deck 361
+player 361 discards a 238 to deck 362
+player 361 current hand : 357 320 478 509 214 272 474 137 330 985 274 452 419 508 143 329 466 463 637 363 
+player 361 draws a 74 from deck 361
+player 361 discards a 357 to deck 362
+player 361 current hand : 320 478 509 214 272 474 137 330 985 274 452 419 508 143 329 466 463 637 363 74 
+player 361 draws a 133 from deck 361
+player 361 discards a 320 to deck 362
+player 361 current hand : 478 509 214 272 474 137 330 985 274 452 419 508 143 329 466 463 637 363 74 133 
+player 361 draws a 320 from deck 361
+player 361 discards a 478 to deck 362
+player 361 current hand : 509 214 272 474 137 330 985 274 452 419 508 143 329 466 463 637 363 74 133 320 
+player 361 draws a 458 from deck 361
+player 361 discards a 509 to deck 362
+player 361 current hand : 214 272 474 137 330 985 274 452 419 508 143 329 466 463 637 363 74 133 320 458 
+player 361 draws a 994 from deck 361
+player 361 discards a 214 to deck 362
+player 361 current hand : 272 474 137 330 985 274 452 419 508 143 329 466 463 637 363 74 133 320 458 994 
+player 361 draws a 786 from deck 361
+player 361 discards a 272 to deck 362
+player 361 current hand : 474 137 330 985 274 452 419 508 143 329 466 463 637 363 74 133 320 458 994 786 
+player 361 draws a 462 from deck 361
+player 361 discards a 474 to deck 362
+player 361 current hand : 137 330 985 274 452 419 508 143 329 466 463 637 363 74 133 320 458 994 786 462 
+player 361 draws a 31 from deck 361
+player 361 discards a 137 to deck 362
+player 361 current hand : 330 985 274 452 419 508 143 329 466 463 637 363 74 133 320 458 994 786 462 31 
+player 361 draws a 599 from deck 361
+player 361 discards a 330 to deck 362
+player 361 current hand : 985 274 452 419 508 143 329 466 463 637 363 74 133 320 458 994 786 462 31 599 
+player 361 draws a 50 from deck 361
+player 361 discards a 985 to deck 362
+player 361 current hand : 274 452 419 508 143 329 466 463 637 363 74 133 320 458 994 786 462 31 599 50 
+player 361 draws a 810 from deck 361
+player 361 discards a 274 to deck 362
+player 361 current hand : 452 419 508 143 329 466 463 637 363 74 133 320 458 994 786 462 31 599 50 810 
+player 361 draws a 945 from deck 361
+player 361 discards a 452 to deck 362
+player 361 current hand : 419 508 143 329 466 463 637 363 74 133 320 458 994 786 462 31 599 50 810 945 
+player 361 draws a 188 from deck 361
+player 361 discards a 419 to deck 362
+player 361 current hand : 508 143 329 466 463 637 363 74 133 320 458 994 786 462 31 599 50 810 945 188 
+player 361 draws a 972 from deck 361
+player 361 discards a 508 to deck 362
+player 361 current hand : 143 329 466 463 637 363 74 133 320 458 994 786 462 31 599 50 810 945 188 972 
+player 361 draws a 350 from deck 361
+player 361 discards a 143 to deck 362
+player 361 current hand : 329 466 463 637 363 74 133 320 458 994 786 462 31 599 50 810 945 188 972 350 
+player 361 draws a 249 from deck 361
+player 361 discards a 329 to deck 362
+player 361 current hand : 466 463 637 363 74 133 320 458 994 786 462 31 599 50 810 945 188 972 350 249 
+player 361 draws a 365 from deck 361
+player 361 discards a 466 to deck 362
+player 361 current hand : 463 637 363 74 133 320 458 994 786 462 31 599 50 810 945 188 972 350 249 365 
+player 361 draws a 420 from deck 361
+player 361 discards a 463 to deck 362
+player 361 current hand : 637 363 74 133 320 458 994 786 462 31 599 50 810 945 188 972 350 249 365 420 
+player 361 draws a 403 from deck 361
+player 361 discards a 637 to deck 362
+player 361 current hand : 363 74 133 320 458 994 786 462 31 599 50 810 945 188 972 350 249 365 420 403 
+player 361 draws a 631 from deck 361
+player 361 discards a 363 to deck 362
+player 361 current hand : 74 133 320 458 994 786 462 31 599 50 810 945 188 972 350 249 365 420 403 631 
+player 361 draws a 983 from deck 361
+player 361 discards a 74 to deck 362
+player 361 current hand : 133 320 458 994 786 462 31 599 50 810 945 188 972 350 249 365 420 403 631 983 
+player 361 draws a 642 from deck 361
+player 361 discards a 133 to deck 362
+player 361 current hand : 320 458 994 786 462 31 599 50 810 945 188 972 350 249 365 420 403 631 983 642 
+player 361 draws a 152 from deck 361
+player 361 discards a 320 to deck 362
+player 361 current hand : 458 994 786 462 31 599 50 810 945 188 972 350 249 365 420 403 631 983 642 152 
+player 361 draws a 162 from deck 361
+player 361 discards a 458 to deck 362
+player 361 current hand : 994 786 462 31 599 50 810 945 188 972 350 249 365 420 403 631 983 642 152 162 
+player 361 draws a 70 from deck 361
+player 361 discards a 994 to deck 362
+player 361 current hand : 786 462 31 599 50 810 945 188 972 350 249 365 420 403 631 983 642 152 162 70 
+player 361 draws a 391 from deck 361
+player 361 discards a 786 to deck 362
+player 361 current hand : 462 31 599 50 810 945 188 972 350 249 365 420 403 631 983 642 152 162 70 391 
+player 361 draws a 508 from deck 361
+player 361 discards a 462 to deck 362
+player 361 current hand : 31 599 50 810 945 188 972 350 249 365 420 403 631 983 642 152 162 70 391 508 
+player 361 draws a 791 from deck 361
+player 361 discards a 31 to deck 362
+player 361 current hand : 599 50 810 945 188 972 350 249 365 420 403 631 983 642 152 162 70 391 508 791 
+player 361 draws a 901 from deck 361
+player 361 discards a 599 to deck 362
+player 361 current hand : 50 810 945 188 972 350 249 365 420 403 631 983 642 152 162 70 391 508 791 901 
+player 361 draws a 634 from deck 361
+player 361 discards a 50 to deck 362
+player 361 current hand : 810 945 188 972 350 249 365 420 403 631 983 642 152 162 70 391 508 791 901 634 
+player 361 draws a 286 from deck 361
+player 361 discards a 810 to deck 362
+player 361 current hand : 945 188 972 350 249 365 420 403 631 983 642 152 162 70 391 508 791 901 634 286 
+player 361 draws a 627 from deck 361
+player 361 discards a 945 to deck 362
+player 361 current hand : 188 972 350 249 365 420 403 631 983 642 152 162 70 391 508 791 901 634 286 627 
+player 361 draws a 319 from deck 361
+player 361 discards a 188 to deck 362
+player 361 current hand : 972 350 249 365 420 403 631 983 642 152 162 70 391 508 791 901 634 286 627 319 
+player 361 draws a 984 from deck 361
+player 361 discards a 972 to deck 362
+player 361 current hand : 350 249 365 420 403 631 983 642 152 162 70 391 508 791 901 634 286 627 319 984 
+player 361 draws a 566 from deck 361
+player 361 discards a 350 to deck 362
+player 361 current hand : 249 365 420 403 631 983 642 152 162 70 391 508 791 901 634 286 627 319 984 566 
+player 361 draws a 238 from deck 361
+player 361 discards a 249 to deck 362
+player 361 current hand : 365 420 403 631 983 642 152 162 70 391 508 791 901 634 286 627 319 984 566 238 
+player 361 draws a 774 from deck 361
+player 361 discards a 365 to deck 362
+player 361 current hand : 420 403 631 983 642 152 162 70 391 508 791 901 634 286 627 319 984 566 238 774 
+player 361 draws a 516 from deck 361
+player 361 discards a 420 to deck 362
+player 361 current hand : 403 631 983 642 152 162 70 391 508 791 901 634 286 627 319 984 566 238 774 516 
+player 361 draws a 712 from deck 361
+player 361 discards a 403 to deck 362
+player 361 current hand : 631 983 642 152 162 70 391 508 791 901 634 286 627 319 984 566 238 774 516 712 
+player 361 draws a 202 from deck 361
+player 361 discards a 631 to deck 362
+player 361 current hand : 983 642 152 162 70 391 508 791 901 634 286 627 319 984 566 238 774 516 712 202 
+player 361 draws a 983 from deck 361
+player 361 discards a 983 to deck 362
+player 361 current hand : 642 152 162 70 391 508 791 901 634 286 627 319 984 566 238 774 516 712 202 983 
+player 361 draws a 753 from deck 361
+player 361 discards a 642 to deck 362
+player 361 current hand : 152 162 70 391 508 791 901 634 286 627 319 984 566 238 774 516 712 202 983 753 
+player 361 draws a 572 from deck 361
+player 361 discards a 152 to deck 362
+player 361 current hand : 162 70 391 508 791 901 634 286 627 319 984 566 238 774 516 712 202 983 753 572 
+player 361 draws a 887 from deck 361
+player 361 discards a 162 to deck 362
+player 361 current hand : 70 391 508 791 901 634 286 627 319 984 566 238 774 516 712 202 983 753 572 887 
+player 361 draws a 248 from deck 361
+player 361 discards a 70 to deck 362
+player 361 current hand : 391 508 791 901 634 286 627 319 984 566 238 774 516 712 202 983 753 572 887 248 
+player 361 draws a 672 from deck 361
+player 361 discards a 391 to deck 362
+player 361 current hand : 508 791 901 634 286 627 319 984 566 238 774 516 712 202 983 753 572 887 248 672 
+player 361 draws a 287 from deck 361
+player 361 discards a 508 to deck 362
+player 361 current hand : 791 901 634 286 627 319 984 566 238 774 516 712 202 983 753 572 887 248 672 287 
+player 361 draws a 330 from deck 361
+player 361 discards a 791 to deck 362
+player 361 current hand : 901 634 286 627 319 984 566 238 774 516 712 202 983 753 572 887 248 672 287 330 
+player 361 draws a 272 from deck 361
+player 361 discards a 901 to deck 362
+player 361 current hand : 634 286 627 319 984 566 238 774 516 712 202 983 753 572 887 248 672 287 330 272 
+player 361 draws a 613 from deck 361
+player 361 discards a 634 to deck 362
+player 361 current hand : 286 627 319 984 566 238 774 516 712 202 983 753 572 887 248 672 287 330 272 613 
+player 361 draws a 31 from deck 361

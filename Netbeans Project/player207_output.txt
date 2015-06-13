@@ -1,0 +1,313 @@
+player 207 initial hand 757 635 279 525 169 862 835 623 163 616 684 410 760 245 964 429 605 475 52 680 
+player 207 draws a 407 from deck 207
+player 207 discards a 757 to deck 208
+player 207 current hand : 635 279 525 169 862 835 623 163 616 684 410 760 245 964 429 605 475 52 680 407 
+player 207 draws a 669 from deck 207
+player 207 discards a 635 to deck 208
+player 207 current hand : 279 525 169 862 835 623 163 616 684 410 760 245 964 429 605 475 52 680 407 669 
+player 207 draws a 822 from deck 207
+player 207 discards a 279 to deck 208
+player 207 current hand : 525 169 862 835 623 163 616 684 410 760 245 964 429 605 475 52 680 407 669 822 
+player 207 draws a 156 from deck 207
+player 207 discards a 525 to deck 208
+player 207 current hand : 169 862 835 623 163 616 684 410 760 245 964 429 605 475 52 680 407 669 822 156 
+player 207 draws a 154 from deck 207
+player 207 discards a 169 to deck 208
+player 207 current hand : 862 835 623 163 616 684 410 760 245 964 429 605 475 52 680 407 669 822 156 154 
+player 207 draws a 655 from deck 207
+player 207 discards a 862 to deck 208
+player 207 current hand : 835 623 163 616 684 410 760 245 964 429 605 475 52 680 407 669 822 156 154 655 
+player 207 draws a 319 from deck 207
+player 207 discards a 835 to deck 208
+player 207 current hand : 623 163 616 684 410 760 245 964 429 605 475 52 680 407 669 822 156 154 655 319 
+player 207 draws a 97 from deck 207
+player 207 discards a 623 to deck 208
+player 207 current hand : 163 616 684 410 760 245 964 429 605 475 52 680 407 669 822 156 154 655 319 97 
+player 207 draws a 248 from deck 207
+player 207 discards a 163 to deck 208
+player 207 current hand : 616 684 410 760 245 964 429 605 475 52 680 407 669 822 156 154 655 319 97 248 
+player 207 draws a 74 from deck 207
+player 207 discards a 616 to deck 208
+player 207 current hand : 684 410 760 245 964 429 605 475 52 680 407 669 822 156 154 655 319 97 248 74 
+player 207 draws a 719 from deck 207
+player 207 discards a 684 to deck 208
+player 207 current hand : 410 760 245 964 429 605 475 52 680 407 669 822 156 154 655 319 97 248 74 719 
+player 207 draws a 100 from deck 207
+player 207 discards a 410 to deck 208
+player 207 current hand : 760 245 964 429 605 475 52 680 407 669 822 156 154 655 319 97 248 74 719 100 
+player 207 draws a 750 from deck 207
+player 207 discards a 760 to deck 208
+player 207 current hand : 245 964 429 605 475 52 680 407 669 822 156 154 655 319 97 248 74 719 100 750 
+player 207 draws a 762 from deck 207
+player 207 discards a 245 to deck 208
+player 207 current hand : 964 429 605 475 52 680 407 669 822 156 154 655 319 97 248 74 719 100 750 762 
+player 207 draws a 984 from deck 207
+player 207 discards a 964 to deck 208
+player 207 current hand : 429 605 475 52 680 407 669 822 156 154 655 319 97 248 74 719 100 750 762 984 
+player 207 draws a 774 from deck 207
+player 207 discards a 429 to deck 208
+player 207 current hand : 605 475 52 680 407 669 822 156 154 655 319 97 248 74 719 100 750 762 984 774 
+player 207 draws a 501 from deck 207
+player 207 discards a 605 to deck 208
+player 207 current hand : 475 52 680 407 669 822 156 154 655 319 97 248 74 719 100 750 762 984 774 501 
+player 207 draws a 81 from deck 207
+player 207 discards a 475 to deck 208
+player 207 current hand : 52 680 407 669 822 156 154 655 319 97 248 74 719 100 750 762 984 774 501 81 
+player 207 draws a 346 from deck 207
+player 207 discards a 52 to deck 208
+player 207 current hand : 680 407 669 822 156 154 655 319 97 248 74 719 100 750 762 984 774 501 81 346 
+player 207 draws a 521 from deck 207
+player 207 discards a 680 to deck 208
+player 207 current hand : 407 669 822 156 154 655 319 97 248 74 719 100 750 762 984 774 501 81 346 521 
+player 207 draws a 924 from deck 207
+player 207 discards a 407 to deck 208
+player 207 current hand : 669 822 156 154 655 319 97 248 74 719 100 750 762 984 774 501 81 346 521 924 
+player 207 draws a 515 from deck 207
+player 207 discards a 669 to deck 208
+player 207 current hand : 822 156 154 655 319 97 248 74 719 100 750 762 984 774 501 81 346 521 924 515 
+player 207 draws a 17 from deck 207
+player 207 discards a 822 to deck 208
+player 207 current hand : 156 154 655 319 97 248 74 719 100 750 762 984 774 501 81 346 521 924 515 17 
+player 207 draws a 154 from deck 207
+player 207 discards a 156 to deck 208
+player 207 current hand : 154 655 319 97 248 74 719 100 750 762 984 774 501 81 346 521 924 515 17 154 
+player 207 draws a 745 from deck 207
+player 207 discards a 154 to deck 208
+player 207 current hand : 655 319 97 248 74 719 100 750 762 984 774 501 81 346 521 924 515 17 154 745 
+player 207 draws a 966 from deck 207
+player 207 discards a 655 to deck 208
+player 207 current hand : 319 97 248 74 719 100 750 762 984 774 501 81 346 521 924 515 17 154 745 966 
+player 207 draws a 913 from deck 207
+player 207 discards a 319 to deck 208
+player 207 current hand : 97 248 74 719 100 750 762 984 774 501 81 346 521 924 515 17 154 745 966 913 
+player 207 draws a 515 from deck 207
+player 207 discards a 97 to deck 208
+player 207 current hand : 248 74 719 100 750 762 984 774 501 81 346 521 924 515 17 154 745 966 913 515 
+player 207 draws a 786 from deck 207
+player 207 discards a 248 to deck 208
+player 207 current hand : 74 719 100 750 762 984 774 501 81 346 521 924 515 17 154 745 966 913 515 786 
+player 207 draws a 15 from deck 207
+player 207 discards a 74 to deck 208
+player 207 current hand : 719 100 750 762 984 774 501 81 346 521 924 515 17 154 745 966 913 515 786 15 
+player 207 draws a 169 from deck 207
+player 207 discards a 719 to deck 208
+player 207 current hand : 100 750 762 984 774 501 81 346 521 924 515 17 154 745 966 913 515 786 15 169 
+player 207 draws a 176 from deck 207
+player 207 discards a 100 to deck 208
+player 207 current hand : 750 762 984 774 501 81 346 521 924 515 17 154 745 966 913 515 786 15 169 176 
+player 207 draws a 447 from deck 207
+player 207 discards a 750 to deck 208
+player 207 current hand : 762 984 774 501 81 346 521 924 515 17 154 745 966 913 515 786 15 169 176 447 
+player 207 draws a 736 from deck 207
+player 207 discards a 762 to deck 208
+player 207 current hand : 984 774 501 81 346 521 924 515 17 154 745 966 913 515 786 15 169 176 447 736 
+player 207 draws a 906 from deck 207
+player 207 discards a 984 to deck 208
+player 207 current hand : 774 501 81 346 521 924 515 17 154 745 966 913 515 786 15 169 176 447 736 906 
+player 207 draws a 149 from deck 207
+player 207 discards a 774 to deck 208
+player 207 current hand : 501 81 346 521 924 515 17 154 745 966 913 515 786 15 169 176 447 736 906 149 
+player 207 draws a 136 from deck 207
+player 207 discards a 501 to deck 208
+player 207 current hand : 81 346 521 924 515 17 154 745 966 913 515 786 15 169 176 447 736 906 149 136 
+player 207 draws a 36 from deck 207
+player 207 discards a 81 to deck 208
+player 207 current hand : 346 521 924 515 17 154 745 966 913 515 786 15 169 176 447 736 906 149 136 36 
+player 207 draws a 544 from deck 207
+player 207 discards a 346 to deck 208
+player 207 current hand : 521 924 515 17 154 745 966 913 515 786 15 169 176 447 736 906 149 136 36 544 
+player 207 draws a 968 from deck 207
+player 207 discards a 521 to deck 208
+player 207 current hand : 924 515 17 154 745 966 913 515 786 15 169 176 447 736 906 149 136 36 544 968 
+player 207 draws a 747 from deck 207
+player 207 discards a 924 to deck 208
+player 207 current hand : 515 17 154 745 966 913 515 786 15 169 176 447 736 906 149 136 36 544 968 747 
+player 207 draws a 269 from deck 207
+player 207 discards a 515 to deck 208
+player 207 current hand : 17 154 745 966 913 515 786 15 169 176 447 736 906 149 136 36 544 968 747 269 
+player 207 draws a 928 from deck 207
+player 207 discards a 17 to deck 208
+player 207 current hand : 154 745 966 913 515 786 15 169 176 447 736 906 149 136 36 544 968 747 269 928 
+player 207 draws a 841 from deck 207
+player 207 discards a 154 to deck 208
+player 207 current hand : 745 966 913 515 786 15 169 176 447 736 906 149 136 36 544 968 747 269 928 841 
+player 207 draws a 138 from deck 207
+player 207 discards a 745 to deck 208
+player 207 current hand : 966 913 515 786 15 169 176 447 736 906 149 136 36 544 968 747 269 928 841 138 
+player 207 draws a 559 from deck 207
+player 207 discards a 966 to deck 208
+player 207 current hand : 913 515 786 15 169 176 447 736 906 149 136 36 544 968 747 269 928 841 138 559 
+player 207 draws a 546 from deck 207
+player 207 discards a 913 to deck 208
+player 207 current hand : 515 786 15 169 176 447 736 906 149 136 36 544 968 747 269 928 841 138 559 546 
+player 207 draws a 932 from deck 207
+player 207 discards a 515 to deck 208
+player 207 current hand : 786 15 169 176 447 736 906 149 136 36 544 968 747 269 928 841 138 559 546 932 
+player 207 draws a 304 from deck 207
+player 207 discards a 786 to deck 208
+player 207 current hand : 15 169 176 447 736 906 149 136 36 544 968 747 269 928 841 138 559 546 932 304 
+player 207 draws a 74 from deck 207
+player 207 discards a 15 to deck 208
+player 207 current hand : 169 176 447 736 906 149 136 36 544 968 747 269 928 841 138 559 546 932 304 74 
+player 207 draws a 300 from deck 207
+player 207 discards a 169 to deck 208
+player 207 current hand : 176 447 736 906 149 136 36 544 968 747 269 928 841 138 559 546 932 304 74 300 
+player 207 draws a 826 from deck 207
+player 207 discards a 176 to deck 208
+player 207 current hand : 447 736 906 149 136 36 544 968 747 269 928 841 138 559 546 932 304 74 300 826 
+player 207 draws a 598 from deck 207
+player 207 discards a 447 to deck 208
+player 207 current hand : 736 906 149 136 36 544 968 747 269 928 841 138 559 546 932 304 74 300 826 598 
+player 207 draws a 28 from deck 207
+player 207 discards a 736 to deck 208
+player 207 current hand : 906 149 136 36 544 968 747 269 928 841 138 559 546 932 304 74 300 826 598 28 
+player 207 draws a 499 from deck 207
+player 207 discards a 906 to deck 208
+player 207 current hand : 149 136 36 544 968 747 269 928 841 138 559 546 932 304 74 300 826 598 28 499 
+player 207 draws a 270 from deck 207
+player 207 discards a 149 to deck 208
+player 207 current hand : 136 36 544 968 747 269 928 841 138 559 546 932 304 74 300 826 598 28 499 270 
+player 207 draws a 60 from deck 207
+player 207 discards a 136 to deck 208
+player 207 current hand : 36 544 968 747 269 928 841 138 559 546 932 304 74 300 826 598 28 499 270 60 
+player 207 draws a 255 from deck 207
+player 207 discards a 36 to deck 208
+player 207 current hand : 544 968 747 269 928 841 138 559 546 932 304 74 300 826 598 28 499 270 60 255 
+player 207 draws a 825 from deck 207
+player 207 discards a 544 to deck 208
+player 207 current hand : 968 747 269 928 841 138 559 546 932 304 74 300 826 598 28 499 270 60 255 825 
+player 207 draws a 797 from deck 207
+player 207 discards a 968 to deck 208
+player 207 current hand : 747 269 928 841 138 559 546 932 304 74 300 826 598 28 499 270 60 255 825 797 
+player 207 draws a 31 from deck 207
+player 207 discards a 747 to deck 208
+player 207 current hand : 269 928 841 138 559 546 932 304 74 300 826 598 28 499 270 60 255 825 797 31 
+player 207 draws a 452 from deck 207
+player 207 discards a 269 to deck 208
+player 207 current hand : 928 841 138 559 546 932 304 74 300 826 598 28 499 270 60 255 825 797 31 452 
+player 207 draws a 880 from deck 207
+player 207 discards a 928 to deck 208
+player 207 current hand : 841 138 559 546 932 304 74 300 826 598 28 499 270 60 255 825 797 31 452 880 
+player 207 draws a 284 from deck 207
+player 207 discards a 841 to deck 208
+player 207 current hand : 138 559 546 932 304 74 300 826 598 28 499 270 60 255 825 797 31 452 880 284 
+player 207 draws a 173 from deck 207
+player 207 discards a 138 to deck 208
+player 207 current hand : 559 546 932 304 74 300 826 598 28 499 270 60 255 825 797 31 452 880 284 173 
+player 207 draws a 919 from deck 207
+player 207 discards a 559 to deck 208
+player 207 current hand : 546 932 304 74 300 826 598 28 499 270 60 255 825 797 31 452 880 284 173 919 
+player 207 draws a 870 from deck 207
+player 207 discards a 546 to deck 208
+player 207 current hand : 932 304 74 300 826 598 28 499 270 60 255 825 797 31 452 880 284 173 919 870 
+player 207 draws a 378 from deck 207
+player 207 discards a 932 to deck 208
+player 207 current hand : 304 74 300 826 598 28 499 270 60 255 825 797 31 452 880 284 173 919 870 378 
+player 207 draws a 181 from deck 207
+player 207 discards a 304 to deck 208
+player 207 current hand : 74 300 826 598 28 499 270 60 255 825 797 31 452 880 284 173 919 870 378 181 
+player 207 draws a 31 from deck 207
+player 207 discards a 74 to deck 208
+player 207 current hand : 300 826 598 28 499 270 60 255 825 797 31 452 880 284 173 919 870 378 181 31 
+player 207 draws a 442 from deck 207
+player 207 discards a 300 to deck 208
+player 207 current hand : 826 598 28 499 270 60 255 825 797 31 452 880 284 173 919 870 378 181 31 442 
+player 207 draws a 268 from deck 207
+player 207 discards a 826 to deck 208
+player 207 current hand : 598 28 499 270 60 255 825 797 31 452 880 284 173 919 870 378 181 31 442 268 
+player 207 draws a 507 from deck 207
+player 207 discards a 598 to deck 208
+player 207 current hand : 28 499 270 60 255 825 797 31 452 880 284 173 919 870 378 181 31 442 268 507 
+player 207 draws a 913 from deck 207
+player 207 discards a 28 to deck 208
+player 207 current hand : 499 270 60 255 825 797 31 452 880 284 173 919 870 378 181 31 442 268 507 913 
+player 207 draws a 346 from deck 207
+player 207 discards a 499 to deck 208
+player 207 current hand : 270 60 255 825 797 31 452 880 284 173 919 870 378 181 31 442 268 507 913 346 
+player 207 draws a 65 from deck 207
+player 207 discards a 270 to deck 208
+player 207 current hand : 60 255 825 797 31 452 880 284 173 919 870 378 181 31 442 268 507 913 346 65 
+player 207 draws a 660 from deck 207
+player 207 discards a 60 to deck 208
+player 207 current hand : 255 825 797 31 452 880 284 173 919 870 378 181 31 442 268 507 913 346 65 660 
+player 207 draws a 152 from deck 207
+player 207 discards a 255 to deck 208
+player 207 current hand : 825 797 31 452 880 284 173 919 870 378 181 31 442 268 507 913 346 65 660 152 
+player 207 draws a 600 from deck 207
+player 207 discards a 825 to deck 208
+player 207 current hand : 797 31 452 880 284 173 919 870 378 181 31 442 268 507 913 346 65 660 152 600 
+player 207 draws a 837 from deck 207
+player 207 discards a 797 to deck 208
+player 207 current hand : 31 452 880 284 173 919 870 378 181 31 442 268 507 913 346 65 660 152 600 837 
+player 207 draws a 453 from deck 207
+player 207 discards a 31 to deck 208
+player 207 current hand : 452 880 284 173 919 870 378 181 31 442 268 507 913 346 65 660 152 600 837 453 
+player 207 draws a 374 from deck 207
+player 207 discards a 452 to deck 208
+player 207 current hand : 880 284 173 919 870 378 181 31 442 268 507 913 346 65 660 152 600 837 453 374 
+player 207 draws a 930 from deck 207
+player 207 discards a 880 to deck 208
+player 207 current hand : 284 173 919 870 378 181 31 442 268 507 913 346 65 660 152 600 837 453 374 930 
+player 207 draws a 384 from deck 207
+player 207 discards a 284 to deck 208
+player 207 current hand : 173 919 870 378 181 31 442 268 507 913 346 65 660 152 600 837 453 374 930 384 
+player 207 draws a 938 from deck 207
+player 207 discards a 173 to deck 208
+player 207 current hand : 919 870 378 181 31 442 268 507 913 346 65 660 152 600 837 453 374 930 384 938 
+player 207 draws a 557 from deck 207
+player 207 discards a 919 to deck 208
+player 207 current hand : 870 378 181 31 442 268 507 913 346 65 660 152 600 837 453 374 930 384 938 557 
+player 207 draws a 133 from deck 207
+player 207 discards a 870 to deck 208
+player 207 current hand : 378 181 31 442 268 507 913 346 65 660 152 600 837 453 374 930 384 938 557 133 
+player 207 draws a 560 from deck 207
+player 207 discards a 378 to deck 208
+player 207 current hand : 181 31 442 268 507 913 346 65 660 152 600 837 453 374 930 384 938 557 133 560 
+player 207 draws a 774 from deck 207
+player 207 discards a 181 to deck 208
+player 207 current hand : 31 442 268 507 913 346 65 660 152 600 837 453 374 930 384 938 557 133 560 774 
+player 207 draws a 17 from deck 207
+player 207 discards a 31 to deck 208
+player 207 current hand : 442 268 507 913 346 65 660 152 600 837 453 374 930 384 938 557 133 560 774 17 
+player 207 draws a 366 from deck 207
+player 207 discards a 442 to deck 208
+player 207 current hand : 268 507 913 346 65 660 152 600 837 453 374 930 384 938 557 133 560 774 17 366 
+player 207 draws a 31 from deck 207
+player 207 discards a 268 to deck 208
+player 207 current hand : 507 913 346 65 660 152 600 837 453 374 930 384 938 557 133 560 774 17 366 31 
+player 207 draws a 516 from deck 207
+player 207 discards a 507 to deck 208
+player 207 current hand : 913 346 65 660 152 600 837 453 374 930 384 938 557 133 560 774 17 366 31 516 
+player 207 draws a 681 from deck 207
+player 207 discards a 913 to deck 208
+player 207 current hand : 346 65 660 152 600 837 453 374 930 384 938 557 133 560 774 17 366 31 516 681 
+player 207 draws a 497 from deck 207
+player 207 discards a 346 to deck 208
+player 207 current hand : 65 660 152 600 837 453 374 930 384 938 557 133 560 774 17 366 31 516 681 497 
+player 207 draws a 636 from deck 207
+player 207 discards a 65 to deck 208
+player 207 current hand : 660 152 600 837 453 374 930 384 938 557 133 560 774 17 366 31 516 681 497 636 
+player 207 draws a 714 from deck 207
+player 207 discards a 660 to deck 208
+player 207 current hand : 152 600 837 453 374 930 384 938 557 133 560 774 17 366 31 516 681 497 636 714 
+player 207 draws a 753 from deck 207
+player 207 discards a 152 to deck 208
+player 207 current hand : 600 837 453 374 930 384 938 557 133 560 774 17 366 31 516 681 497 636 714 753 
+player 207 draws a 680 from deck 207
+player 207 discards a 600 to deck 208
+player 207 current hand : 837 453 374 930 384 938 557 133 560 774 17 366 31 516 681 497 636 714 753 680 
+player 207 draws a 380 from deck 207
+player 207 discards a 837 to deck 208
+player 207 current hand : 453 374 930 384 938 557 133 560 774 17 366 31 516 681 497 636 714 753 680 380 
+player 207 draws a 661 from deck 207
+player 207 discards a 453 to deck 208
+player 207 current hand : 374 930 384 938 557 133 560 774 17 366 31 516 681 497 636 714 753 680 380 661 
+player 207 draws a 969 from deck 207
+player 207 discards a 374 to deck 208
+player 207 current hand : 930 384 938 557 133 560 774 17 366 31 516 681 497 636 714 753 680 380 661 969 
+player 207 draws a 255 from deck 207
+player 207 discards a 930 to deck 208
+player 207 current hand : 384 938 557 133 560 774 17 366 31 516 681 497 636 714 753 680 380 661 969 255 
+player 207 draws a 534 from deck 207
+player 207 discards a 384 to deck 208
+player 207 current hand : 938 557 133 560 774 17 366 31 516 681 497 636 714 753 680 380 661 969 255 534 

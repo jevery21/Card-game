@@ -1,0 +1,311 @@
+player 144 initial hand 888 598 341 460 708 917 866 453 515 799 239 561 219 438 579 758 36 252 636 488 
+player 144 draws a 815 from deck 144
+player 144 discards a 888 to deck 145
+player 144 current hand : 598 341 460 708 917 866 453 515 799 239 561 219 438 579 758 36 252 636 488 815 
+player 144 draws a 507 from deck 144
+player 144 discards a 598 to deck 145
+player 144 current hand : 341 460 708 917 866 453 515 799 239 561 219 438 579 758 36 252 636 488 815 507 
+player 144 draws a 16 from deck 144
+player 144 discards a 341 to deck 145
+player 144 current hand : 460 708 917 866 453 515 799 239 561 219 438 579 758 36 252 636 488 815 507 16 
+player 144 draws a 407 from deck 144
+player 144 discards a 460 to deck 145
+player 144 current hand : 708 917 866 453 515 799 239 561 219 438 579 758 36 252 636 488 815 507 16 407 
+player 144 draws a 846 from deck 144
+player 144 discards a 708 to deck 145
+player 144 current hand : 917 866 453 515 799 239 561 219 438 579 758 36 252 636 488 815 507 16 407 846 
+player 144 draws a 57 from deck 144
+player 144 discards a 917 to deck 145
+player 144 current hand : 866 453 515 799 239 561 219 438 579 758 36 252 636 488 815 507 16 407 846 57 
+player 144 draws a 707 from deck 144
+player 144 discards a 866 to deck 145
+player 144 current hand : 453 515 799 239 561 219 438 579 758 36 252 636 488 815 507 16 407 846 57 707 
+player 144 draws a 834 from deck 144
+player 144 discards a 453 to deck 145
+player 144 current hand : 515 799 239 561 219 438 579 758 36 252 636 488 815 507 16 407 846 57 707 834 
+player 144 draws a 263 from deck 144
+player 144 discards a 515 to deck 145
+player 144 current hand : 799 239 561 219 438 579 758 36 252 636 488 815 507 16 407 846 57 707 834 263 
+player 144 draws a 101 from deck 144
+player 144 discards a 799 to deck 145
+player 144 current hand : 239 561 219 438 579 758 36 252 636 488 815 507 16 407 846 57 707 834 263 101 
+player 144 draws a 401 from deck 144
+player 144 discards a 239 to deck 145
+player 144 current hand : 561 219 438 579 758 36 252 636 488 815 507 16 407 846 57 707 834 263 101 401 
+player 144 draws a 805 from deck 144
+player 144 discards a 561 to deck 145
+player 144 current hand : 219 438 579 758 36 252 636 488 815 507 16 407 846 57 707 834 263 101 401 805 
+player 144 draws a 758 from deck 144
+player 144 discards a 219 to deck 145
+player 144 current hand : 438 579 758 36 252 636 488 815 507 16 407 846 57 707 834 263 101 401 805 758 
+player 144 draws a 317 from deck 144
+player 144 discards a 438 to deck 145
+player 144 current hand : 579 758 36 252 636 488 815 507 16 407 846 57 707 834 263 101 401 805 758 317 
+player 144 draws a 692 from deck 144
+player 144 discards a 579 to deck 145
+player 144 current hand : 758 36 252 636 488 815 507 16 407 846 57 707 834 263 101 401 805 758 317 692 
+player 144 draws a 595 from deck 144
+player 144 discards a 758 to deck 145
+player 144 current hand : 36 252 636 488 815 507 16 407 846 57 707 834 263 101 401 805 758 317 692 595 
+player 144 draws a 218 from deck 144
+player 144 discards a 36 to deck 145
+player 144 current hand : 252 636 488 815 507 16 407 846 57 707 834 263 101 401 805 758 317 692 595 218 
+player 144 draws a 414 from deck 144
+player 144 discards a 252 to deck 145
+player 144 current hand : 636 488 815 507 16 407 846 57 707 834 263 101 401 805 758 317 692 595 218 414 
+player 144 draws a 968 from deck 144
+player 144 discards a 636 to deck 145
+player 144 current hand : 488 815 507 16 407 846 57 707 834 263 101 401 805 758 317 692 595 218 414 968 
+player 144 draws a 694 from deck 144
+player 144 discards a 488 to deck 145
+player 144 current hand : 815 507 16 407 846 57 707 834 263 101 401 805 758 317 692 595 218 414 968 694 
+player 144 draws a 730 from deck 144
+player 144 discards a 815 to deck 145
+player 144 current hand : 507 16 407 846 57 707 834 263 101 401 805 758 317 692 595 218 414 968 694 730 
+player 144 draws a 535 from deck 144
+player 144 discards a 507 to deck 145
+player 144 current hand : 16 407 846 57 707 834 263 101 401 805 758 317 692 595 218 414 968 694 730 535 
+player 144 draws a 692 from deck 144
+player 144 discards a 16 to deck 145
+player 144 current hand : 407 846 57 707 834 263 101 401 805 758 317 692 595 218 414 968 694 730 535 692 
+player 144 draws a 283 from deck 144
+player 144 discards a 407 to deck 145
+player 144 current hand : 846 57 707 834 263 101 401 805 758 317 692 595 218 414 968 694 730 535 692 283 
+player 144 draws a 319 from deck 144
+player 144 discards a 846 to deck 145
+player 144 current hand : 57 707 834 263 101 401 805 758 317 692 595 218 414 968 694 730 535 692 283 319 
+player 144 draws a 266 from deck 144
+player 144 discards a 57 to deck 145
+player 144 current hand : 707 834 263 101 401 805 758 317 692 595 218 414 968 694 730 535 692 283 319 266 
+player 144 draws a 508 from deck 144
+player 144 discards a 707 to deck 145
+player 144 current hand : 834 263 101 401 805 758 317 692 595 218 414 968 694 730 535 692 283 319 266 508 
+player 144 draws a 98 from deck 144
+player 144 discards a 834 to deck 145
+player 144 current hand : 263 101 401 805 758 317 692 595 218 414 968 694 730 535 692 283 319 266 508 98 
+player 144 draws a 922 from deck 144
+player 144 discards a 263 to deck 145
+player 144 current hand : 101 401 805 758 317 692 595 218 414 968 694 730 535 692 283 319 266 508 98 922 
+player 144 draws a 44 from deck 144
+player 144 discards a 101 to deck 145
+player 144 current hand : 401 805 758 317 692 595 218 414 968 694 730 535 692 283 319 266 508 98 922 44 
+player 144 draws a 878 from deck 144
+player 144 discards a 401 to deck 145
+player 144 current hand : 805 758 317 692 595 218 414 968 694 730 535 692 283 319 266 508 98 922 44 878 
+player 144 draws a 600 from deck 144
+player 144 discards a 805 to deck 145
+player 144 current hand : 758 317 692 595 218 414 968 694 730 535 692 283 319 266 508 98 922 44 878 600 
+player 144 draws a 587 from deck 144
+player 144 discards a 758 to deck 145
+player 144 current hand : 317 692 595 218 414 968 694 730 535 692 283 319 266 508 98 922 44 878 600 587 
+player 144 draws a 508 from deck 144
+player 144 discards a 317 to deck 145
+player 144 current hand : 692 595 218 414 968 694 730 535 692 283 319 266 508 98 922 44 878 600 587 508 
+player 144 draws a 835 from deck 144
+player 144 discards a 692 to deck 145
+player 144 current hand : 595 218 414 968 694 730 535 692 283 319 266 508 98 922 44 878 600 587 508 835 
+player 144 draws a 146 from deck 144
+player 144 discards a 595 to deck 145
+player 144 current hand : 218 414 968 694 730 535 692 283 319 266 508 98 922 44 878 600 587 508 835 146 
+player 144 draws a 559 from deck 144
+player 144 discards a 218 to deck 145
+player 144 current hand : 414 968 694 730 535 692 283 319 266 508 98 922 44 878 600 587 508 835 146 559 
+player 144 draws a 222 from deck 144
+player 144 discards a 414 to deck 145
+player 144 current hand : 968 694 730 535 692 283 319 266 508 98 922 44 878 600 587 508 835 146 559 222 
+player 144 draws a 927 from deck 144
+player 144 discards a 968 to deck 145
+player 144 current hand : 694 730 535 692 283 319 266 508 98 922 44 878 600 587 508 835 146 559 222 927 
+player 144 draws a 825 from deck 144
+player 144 discards a 694 to deck 145
+player 144 current hand : 730 535 692 283 319 266 508 98 922 44 878 600 587 508 835 146 559 222 927 825 
+player 144 draws a 731 from deck 144
+player 144 discards a 730 to deck 145
+player 144 current hand : 535 692 283 319 266 508 98 922 44 878 600 587 508 835 146 559 222 927 825 731 
+player 144 draws a 418 from deck 144
+player 144 discards a 535 to deck 145
+player 144 current hand : 692 283 319 266 508 98 922 44 878 600 587 508 835 146 559 222 927 825 731 418 
+player 144 draws a 544 from deck 144
+player 144 discards a 692 to deck 145
+player 144 current hand : 283 319 266 508 98 922 44 878 600 587 508 835 146 559 222 927 825 731 418 544 
+player 144 draws a 467 from deck 144
+player 144 discards a 283 to deck 145
+player 144 current hand : 319 266 508 98 922 44 878 600 587 508 835 146 559 222 927 825 731 418 544 467 
+player 144 draws a 514 from deck 144
+player 144 discards a 319 to deck 145
+player 144 current hand : 266 508 98 922 44 878 600 587 508 835 146 559 222 927 825 731 418 544 467 514 
+player 144 draws a 120 from deck 144
+player 144 discards a 266 to deck 145
+player 144 current hand : 508 98 922 44 878 600 587 508 835 146 559 222 927 825 731 418 544 467 514 120 
+player 144 draws a 180 from deck 144
+player 144 discards a 508 to deck 145
+player 144 current hand : 98 922 44 878 600 587 508 835 146 559 222 927 825 731 418 544 467 514 120 180 
+player 144 draws a 511 from deck 144
+player 144 discards a 98 to deck 145
+player 144 current hand : 922 44 878 600 587 508 835 146 559 222 927 825 731 418 544 467 514 120 180 511 
+player 144 draws a 301 from deck 144
+player 144 discards a 922 to deck 145
+player 144 current hand : 44 878 600 587 508 835 146 559 222 927 825 731 418 544 467 514 120 180 511 301 
+player 144 draws a 685 from deck 144
+player 144 discards a 44 to deck 145
+player 144 current hand : 878 600 587 508 835 146 559 222 927 825 731 418 544 467 514 120 180 511 301 685 
+player 144 draws a 740 from deck 144
+player 144 discards a 878 to deck 145
+player 144 current hand : 600 587 508 835 146 559 222 927 825 731 418 544 467 514 120 180 511 301 685 740 
+player 144 draws a 446 from deck 144
+player 144 discards a 600 to deck 145
+player 144 current hand : 587 508 835 146 559 222 927 825 731 418 544 467 514 120 180 511 301 685 740 446 
+player 144 draws a 336 from deck 144
+player 144 discards a 587 to deck 145
+player 144 current hand : 508 835 146 559 222 927 825 731 418 544 467 514 120 180 511 301 685 740 446 336 
+player 144 draws a 386 from deck 144
+player 144 discards a 508 to deck 145
+player 144 current hand : 835 146 559 222 927 825 731 418 544 467 514 120 180 511 301 685 740 446 336 386 
+player 144 draws a 671 from deck 144
+player 144 discards a 835 to deck 145
+player 144 current hand : 146 559 222 927 825 731 418 544 467 514 120 180 511 301 685 740 446 336 386 671 
+player 144 draws a 731 from deck 144
+player 144 discards a 146 to deck 145
+player 144 current hand : 559 222 927 825 731 418 544 467 514 120 180 511 301 685 740 446 336 386 671 731 
+player 144 draws a 284 from deck 144
+player 144 discards a 559 to deck 145
+player 144 current hand : 222 927 825 731 418 544 467 514 120 180 511 301 685 740 446 336 386 671 731 284 
+player 144 draws a 661 from deck 144
+player 144 discards a 222 to deck 145
+player 144 current hand : 927 825 731 418 544 467 514 120 180 511 301 685 740 446 336 386 671 731 284 661 
+player 144 draws a 577 from deck 144
+player 144 discards a 927 to deck 145
+player 144 current hand : 825 731 418 544 467 514 120 180 511 301 685 740 446 336 386 671 731 284 661 577 
+player 144 draws a 610 from deck 144
+player 144 discards a 825 to deck 145
+player 144 current hand : 731 418 544 467 514 120 180 511 301 685 740 446 336 386 671 731 284 661 577 610 
+player 144 draws a 186 from deck 144
+player 144 discards a 731 to deck 145
+player 144 current hand : 418 544 467 514 120 180 511 301 685 740 446 336 386 671 731 284 661 577 610 186 
+player 144 draws a 153 from deck 144
+player 144 discards a 418 to deck 145
+player 144 current hand : 544 467 514 120 180 511 301 685 740 446 336 386 671 731 284 661 577 610 186 153 
+player 144 draws a 991 from deck 144
+player 144 discards a 544 to deck 145
+player 144 current hand : 467 514 120 180 511 301 685 740 446 336 386 671 731 284 661 577 610 186 153 991 
+player 144 draws a 585 from deck 144
+player 144 discards a 467 to deck 145
+player 144 current hand : 514 120 180 511 301 685 740 446 336 386 671 731 284 661 577 610 186 153 991 585 
+player 144 draws a 305 from deck 144
+player 144 discards a 514 to deck 145
+player 144 current hand : 120 180 511 301 685 740 446 336 386 671 731 284 661 577 610 186 153 991 585 305 
+player 144 draws a 242 from deck 144
+player 144 discards a 120 to deck 145
+player 144 current hand : 180 511 301 685 740 446 336 386 671 731 284 661 577 610 186 153 991 585 305 242 
+player 144 draws a 880 from deck 144
+player 144 discards a 180 to deck 145
+player 144 current hand : 511 301 685 740 446 336 386 671 731 284 661 577 610 186 153 991 585 305 242 880 
+player 144 draws a 835 from deck 144
+player 144 discards a 511 to deck 145
+player 144 current hand : 301 685 740 446 336 386 671 731 284 661 577 610 186 153 991 585 305 242 880 835 
+player 144 draws a 673 from deck 144
+player 144 discards a 301 to deck 145
+player 144 current hand : 685 740 446 336 386 671 731 284 661 577 610 186 153 991 585 305 242 880 835 673 
+player 144 draws a 634 from deck 144
+player 144 discards a 685 to deck 145
+player 144 current hand : 740 446 336 386 671 731 284 661 577 610 186 153 991 585 305 242 880 835 673 634 
+player 144 draws a 715 from deck 144
+player 144 discards a 740 to deck 145
+player 144 current hand : 446 336 386 671 731 284 661 577 610 186 153 991 585 305 242 880 835 673 634 715 
+player 144 draws a 970 from deck 144
+player 144 discards a 446 to deck 145
+player 144 current hand : 336 386 671 731 284 661 577 610 186 153 991 585 305 242 880 835 673 634 715 970 
+player 144 draws a 636 from deck 144
+player 144 discards a 336 to deck 145
+player 144 current hand : 386 671 731 284 661 577 610 186 153 991 585 305 242 880 835 673 634 715 970 636 
+player 144 draws a 40 from deck 144
+player 144 discards a 386 to deck 145
+player 144 current hand : 671 731 284 661 577 610 186 153 991 585 305 242 880 835 673 634 715 970 636 40 
+player 144 draws a 578 from deck 144
+player 144 discards a 671 to deck 145
+player 144 current hand : 731 284 661 577 610 186 153 991 585 305 242 880 835 673 634 715 970 636 40 578 
+player 144 draws a 860 from deck 144
+player 144 discards a 731 to deck 145
+player 144 current hand : 284 661 577 610 186 153 991 585 305 242 880 835 673 634 715 970 636 40 578 860 
+player 144 draws a 523 from deck 144
+player 144 discards a 284 to deck 145
+player 144 current hand : 661 577 610 186 153 991 585 305 242 880 835 673 634 715 970 636 40 578 860 523 
+player 144 draws a 527 from deck 144
+player 144 discards a 661 to deck 145
+player 144 current hand : 577 610 186 153 991 585 305 242 880 835 673 634 715 970 636 40 578 860 523 527 
+player 144 draws a 507 from deck 144
+player 144 discards a 577 to deck 145
+player 144 current hand : 610 186 153 991 585 305 242 880 835 673 634 715 970 636 40 578 860 523 527 507 
+player 144 draws a 932 from deck 144
+player 144 discards a 610 to deck 145
+player 144 current hand : 186 153 991 585 305 242 880 835 673 634 715 970 636 40 578 860 523 527 507 932 
+player 144 draws a 968 from deck 144
+player 144 discards a 186 to deck 145
+player 144 current hand : 153 991 585 305 242 880 835 673 634 715 970 636 40 578 860 523 527 507 932 968 
+player 144 draws a 235 from deck 144
+player 144 discards a 153 to deck 145
+player 144 current hand : 991 585 305 242 880 835 673 634 715 970 636 40 578 860 523 527 507 932 968 235 
+player 144 draws a 403 from deck 144
+player 144 discards a 991 to deck 145
+player 144 current hand : 585 305 242 880 835 673 634 715 970 636 40 578 860 523 527 507 932 968 235 403 
+player 144 draws a 96 from deck 144
+player 144 discards a 585 to deck 145
+player 144 current hand : 305 242 880 835 673 634 715 970 636 40 578 860 523 527 507 932 968 235 403 96 
+player 144 draws a 65 from deck 144
+player 144 discards a 305 to deck 145
+player 144 current hand : 242 880 835 673 634 715 970 636 40 578 860 523 527 507 932 968 235 403 96 65 
+player 144 draws a 331 from deck 144
+player 144 discards a 242 to deck 145
+player 144 current hand : 880 835 673 634 715 970 636 40 578 860 523 527 507 932 968 235 403 96 65 331 
+player 144 draws a 766 from deck 144
+player 144 discards a 880 to deck 145
+player 144 current hand : 835 673 634 715 970 636 40 578 860 523 527 507 932 968 235 403 96 65 331 766 
+player 144 draws a 581 from deck 144
+player 144 discards a 835 to deck 145
+player 144 current hand : 673 634 715 970 636 40 578 860 523 527 507 932 968 235 403 96 65 331 766 581 
+player 144 draws a 854 from deck 144
+player 144 discards a 673 to deck 145
+player 144 current hand : 634 715 970 636 40 578 860 523 527 507 932 968 235 403 96 65 331 766 581 854 
+player 144 draws a 500 from deck 144
+player 144 discards a 634 to deck 145
+player 144 current hand : 715 970 636 40 578 860 523 527 507 932 968 235 403 96 65 331 766 581 854 500 
+player 144 draws a 472 from deck 144
+player 144 discards a 715 to deck 145
+player 144 current hand : 970 636 40 578 860 523 527 507 932 968 235 403 96 65 331 766 581 854 500 472 
+player 144 draws a 22 from deck 144
+player 144 discards a 970 to deck 145
+player 144 current hand : 636 40 578 860 523 527 507 932 968 235 403 96 65 331 766 581 854 500 472 22 
+player 144 draws a 897 from deck 144
+player 144 discards a 636 to deck 145
+player 144 current hand : 40 578 860 523 527 507 932 968 235 403 96 65 331 766 581 854 500 472 22 897 
+player 144 draws a 601 from deck 144
+player 144 discards a 40 to deck 145
+player 144 current hand : 578 860 523 527 507 932 968 235 403 96 65 331 766 581 854 500 472 22 897 601 
+player 144 draws a 29 from deck 144
+player 144 discards a 578 to deck 145
+player 144 current hand : 860 523 527 507 932 968 235 403 96 65 331 766 581 854 500 472 22 897 601 29 
+player 144 draws a 38 from deck 144
+player 144 discards a 860 to deck 145
+player 144 current hand : 523 527 507 932 968 235 403 96 65 331 766 581 854 500 472 22 897 601 29 38 
+player 144 draws a 481 from deck 144
+player 144 discards a 523 to deck 145
+player 144 current hand : 527 507 932 968 235 403 96 65 331 766 581 854 500 472 22 897 601 29 38 481 
+player 144 draws a 255 from deck 144
+player 144 discards a 527 to deck 145
+player 144 current hand : 507 932 968 235 403 96 65 331 766 581 854 500 472 22 897 601 29 38 481 255 
+player 144 draws a 684 from deck 144
+player 144 discards a 507 to deck 145
+player 144 current hand : 932 968 235 403 96 65 331 766 581 854 500 472 22 897 601 29 38 481 255 684 
+player 144 draws a 938 from deck 144
+player 144 discards a 932 to deck 145
+player 144 current hand : 968 235 403 96 65 331 766 581 854 500 472 22 897 601 29 38 481 255 684 938 
+player 144 draws a 301 from deck 144
+player 144 discards a 968 to deck 145
+player 144 current hand : 235 403 96 65 331 766 581 854 500 472 22 897 601 29 38 481 255 684 938 301 
+player 144 draws a 861 from deck 144
+player 144 discards a 235 to deck 145
+player 144 current hand : 403 96 65 331 766 581 854 500 472 22 897 601 29 38 481 255 684 938 301 861 
+player 144 draws a 70 from deck 144
+player 144 discards a 403 to deck 145
+player 144 current hand : 96 65 331 766 581 854 500 472 22 897 601 29 38 481 255 684 938 301 861 70 
+player 144 draws a 4 from deck 144

@@ -1,0 +1,316 @@
+player 463 initial hand 543 143 791 189 758 514 284 83 467 432 672 570 86 776 849 731 577 842 54 598 
+player 463 draws a 765 from deck 463
+player 463 discards a 543 to deck 464
+player 463 current hand : 143 791 189 758 514 284 83 467 432 672 570 86 776 849 731 577 842 54 598 765 
+player 463 draws a 401 from deck 463
+player 463 discards a 143 to deck 464
+player 463 current hand : 791 189 758 514 284 83 467 432 672 570 86 776 849 731 577 842 54 598 765 401 
+player 463 draws a 24 from deck 463
+player 463 discards a 791 to deck 464
+player 463 current hand : 189 758 514 284 83 467 432 672 570 86 776 849 731 577 842 54 598 765 401 24 
+player 463 draws a 200 from deck 463
+player 463 discards a 189 to deck 464
+player 463 current hand : 758 514 284 83 467 432 672 570 86 776 849 731 577 842 54 598 765 401 24 200 
+player 463 draws a 554 from deck 463
+player 463 discards a 758 to deck 464
+player 463 current hand : 514 284 83 467 432 672 570 86 776 849 731 577 842 54 598 765 401 24 200 554 
+player 463 draws a 645 from deck 463
+player 463 discards a 514 to deck 464
+player 463 current hand : 284 83 467 432 672 570 86 776 849 731 577 842 54 598 765 401 24 200 554 645 
+player 463 draws a 745 from deck 463
+player 463 discards a 284 to deck 464
+player 463 current hand : 83 467 432 672 570 86 776 849 731 577 842 54 598 765 401 24 200 554 645 745 
+player 463 draws a 200 from deck 463
+player 463 discards a 83 to deck 464
+player 463 current hand : 467 432 672 570 86 776 849 731 577 842 54 598 765 401 24 200 554 645 745 200 
+player 463 draws a 470 from deck 463
+player 463 discards a 467 to deck 464
+player 463 current hand : 432 672 570 86 776 849 731 577 842 54 598 765 401 24 200 554 645 745 200 470 
+player 463 draws a 20 from deck 463
+player 463 discards a 432 to deck 464
+player 463 current hand : 672 570 86 776 849 731 577 842 54 598 765 401 24 200 554 645 745 200 470 20 
+player 463 draws a 700 from deck 463
+player 463 discards a 672 to deck 464
+player 463 current hand : 570 86 776 849 731 577 842 54 598 765 401 24 200 554 645 745 200 470 20 700 
+player 463 draws a 981 from deck 463
+player 463 discards a 570 to deck 464
+player 463 current hand : 86 776 849 731 577 842 54 598 765 401 24 200 554 645 745 200 470 20 700 981 
+player 463 draws a 699 from deck 463
+player 463 discards a 86 to deck 464
+player 463 current hand : 776 849 731 577 842 54 598 765 401 24 200 554 645 745 200 470 20 700 981 699 
+player 463 draws a 915 from deck 463
+player 463 discards a 776 to deck 464
+player 463 current hand : 849 731 577 842 54 598 765 401 24 200 554 645 745 200 470 20 700 981 699 915 
+player 463 draws a 556 from deck 463
+player 463 discards a 849 to deck 464
+player 463 current hand : 731 577 842 54 598 765 401 24 200 554 645 745 200 470 20 700 981 699 915 556 
+player 463 draws a 776 from deck 463
+player 463 discards a 731 to deck 464
+player 463 current hand : 577 842 54 598 765 401 24 200 554 645 745 200 470 20 700 981 699 915 556 776 
+player 463 draws a 507 from deck 463
+player 463 discards a 577 to deck 464
+player 463 current hand : 842 54 598 765 401 24 200 554 645 745 200 470 20 700 981 699 915 556 776 507 
+player 463 draws a 585 from deck 463
+player 463 discards a 842 to deck 464
+player 463 current hand : 54 598 765 401 24 200 554 645 745 200 470 20 700 981 699 915 556 776 507 585 
+player 463 draws a 614 from deck 463
+player 463 discards a 54 to deck 464
+player 463 current hand : 598 765 401 24 200 554 645 745 200 470 20 700 981 699 915 556 776 507 585 614 
+player 463 draws a 921 from deck 463
+player 463 discards a 598 to deck 464
+player 463 current hand : 765 401 24 200 554 645 745 200 470 20 700 981 699 915 556 776 507 585 614 921 
+player 463 draws a 123 from deck 463
+player 463 discards a 765 to deck 464
+player 463 current hand : 401 24 200 554 645 745 200 470 20 700 981 699 915 556 776 507 585 614 921 123 
+player 463 draws a 365 from deck 463
+player 463 discards a 401 to deck 464
+player 463 current hand : 24 200 554 645 745 200 470 20 700 981 699 915 556 776 507 585 614 921 123 365 
+player 463 draws a 944 from deck 463
+player 463 discards a 24 to deck 464
+player 463 current hand : 200 554 645 745 200 470 20 700 981 699 915 556 776 507 585 614 921 123 365 944 
+player 463 draws a 457 from deck 463
+player 463 discards a 200 to deck 464
+player 463 current hand : 554 645 745 200 470 20 700 981 699 915 556 776 507 585 614 921 123 365 944 457 
+player 463 draws a 966 from deck 463
+player 463 discards a 554 to deck 464
+player 463 current hand : 645 745 200 470 20 700 981 699 915 556 776 507 585 614 921 123 365 944 457 966 
+player 463 draws a 776 from deck 463
+player 463 discards a 645 to deck 464
+player 463 current hand : 745 200 470 20 700 981 699 915 556 776 507 585 614 921 123 365 944 457 966 776 
+player 463 draws a 114 from deck 463
+player 463 discards a 745 to deck 464
+player 463 current hand : 200 470 20 700 981 699 915 556 776 507 585 614 921 123 365 944 457 966 776 114 
+player 463 draws a 692 from deck 463
+player 463 discards a 200 to deck 464
+player 463 current hand : 470 20 700 981 699 915 556 776 507 585 614 921 123 365 944 457 966 776 114 692 
+player 463 draws a 833 from deck 463
+player 463 discards a 470 to deck 464
+player 463 current hand : 20 700 981 699 915 556 776 507 585 614 921 123 365 944 457 966 776 114 692 833 
+player 463 draws a 328 from deck 463
+player 463 discards a 20 to deck 464
+player 463 current hand : 700 981 699 915 556 776 507 585 614 921 123 365 944 457 966 776 114 692 833 328 
+player 463 draws a 562 from deck 463
+player 463 discards a 700 to deck 464
+player 463 current hand : 981 699 915 556 776 507 585 614 921 123 365 944 457 966 776 114 692 833 328 562 
+player 463 draws a 238 from deck 463
+player 463 discards a 981 to deck 464
+player 463 current hand : 699 915 556 776 507 585 614 921 123 365 944 457 966 776 114 692 833 328 562 238 
+player 463 draws a 822 from deck 463
+player 463 discards a 699 to deck 464
+player 463 current hand : 915 556 776 507 585 614 921 123 365 944 457 966 776 114 692 833 328 562 238 822 
+player 463 draws a 342 from deck 463
+player 463 discards a 915 to deck 464
+player 463 current hand : 556 776 507 585 614 921 123 365 944 457 966 776 114 692 833 328 562 238 822 342 
+player 463 draws a 947 from deck 463
+player 463 discards a 556 to deck 464
+player 463 current hand : 776 507 585 614 921 123 365 944 457 966 776 114 692 833 328 562 238 822 342 947 
+player 463 draws a 285 from deck 463
+player 463 discards a 776 to deck 464
+player 463 current hand : 507 585 614 921 123 365 944 457 966 776 114 692 833 328 562 238 822 342 947 285 
+player 463 draws a 544 from deck 463
+player 463 discards a 507 to deck 464
+player 463 current hand : 585 614 921 123 365 944 457 966 776 114 692 833 328 562 238 822 342 947 285 544 
+player 463 draws a 516 from deck 463
+player 463 discards a 585 to deck 464
+player 463 current hand : 614 921 123 365 944 457 966 776 114 692 833 328 562 238 822 342 947 285 544 516 
+player 463 draws a 578 from deck 463
+player 463 discards a 614 to deck 464
+player 463 current hand : 921 123 365 944 457 966 776 114 692 833 328 562 238 822 342 947 285 544 516 578 
+player 463 draws a 319 from deck 463
+player 463 discards a 921 to deck 464
+player 463 current hand : 123 365 944 457 966 776 114 692 833 328 562 238 822 342 947 285 544 516 578 319 
+player 463 draws a 224 from deck 463
+player 463 discards a 123 to deck 464
+player 463 current hand : 365 944 457 966 776 114 692 833 328 562 238 822 342 947 285 544 516 578 319 224 
+player 463 draws a 794 from deck 463
+player 463 discards a 365 to deck 464
+player 463 current hand : 944 457 966 776 114 692 833 328 562 238 822 342 947 285 544 516 578 319 224 794 
+player 463 draws a 451 from deck 463
+player 463 discards a 944 to deck 464
+player 463 current hand : 457 966 776 114 692 833 328 562 238 822 342 947 285 544 516 578 319 224 794 451 
+player 463 draws a 921 from deck 463
+player 463 discards a 457 to deck 464
+player 463 current hand : 966 776 114 692 833 328 562 238 822 342 947 285 544 516 578 319 224 794 451 921 
+player 463 draws a 127 from deck 463
+player 463 discards a 966 to deck 464
+player 463 current hand : 776 114 692 833 328 562 238 822 342 947 285 544 516 578 319 224 794 451 921 127 
+player 463 draws a 224 from deck 463
+player 463 discards a 776 to deck 464
+player 463 current hand : 114 692 833 328 562 238 822 342 947 285 544 516 578 319 224 794 451 921 127 224 
+player 463 draws a 351 from deck 463
+player 463 discards a 114 to deck 464
+player 463 current hand : 692 833 328 562 238 822 342 947 285 544 516 578 319 224 794 451 921 127 224 351 
+player 463 draws a 680 from deck 463
+player 463 discards a 692 to deck 464
+player 463 current hand : 833 328 562 238 822 342 947 285 544 516 578 319 224 794 451 921 127 224 351 680 
+player 463 draws a 396 from deck 463
+player 463 discards a 833 to deck 464
+player 463 current hand : 328 562 238 822 342 947 285 544 516 578 319 224 794 451 921 127 224 351 680 396 
+player 463 draws a 809 from deck 463
+player 463 discards a 328 to deck 464
+player 463 current hand : 562 238 822 342 947 285 544 516 578 319 224 794 451 921 127 224 351 680 396 809 
+player 463 draws a 589 from deck 463
+player 463 discards a 562 to deck 464
+player 463 current hand : 238 822 342 947 285 544 516 578 319 224 794 451 921 127 224 351 680 396 809 589 
+player 463 draws a 970 from deck 463
+player 463 discards a 238 to deck 464
+player 463 current hand : 822 342 947 285 544 516 578 319 224 794 451 921 127 224 351 680 396 809 589 970 
+player 463 draws a 878 from deck 463
+player 463 discards a 822 to deck 464
+player 463 current hand : 342 947 285 544 516 578 319 224 794 451 921 127 224 351 680 396 809 589 970 878 
+player 463 draws a 507 from deck 463
+player 463 discards a 342 to deck 464
+player 463 current hand : 947 285 544 516 578 319 224 794 451 921 127 224 351 680 396 809 589 970 878 507 
+player 463 draws a 164 from deck 463
+player 463 discards a 947 to deck 464
+player 463 current hand : 285 544 516 578 319 224 794 451 921 127 224 351 680 396 809 589 970 878 507 164 
+player 463 draws a 85 from deck 463
+player 463 discards a 285 to deck 464
+player 463 current hand : 544 516 578 319 224 794 451 921 127 224 351 680 396 809 589 970 878 507 164 85 
+player 463 draws a 948 from deck 463
+player 463 discards a 544 to deck 464
+player 463 current hand : 516 578 319 224 794 451 921 127 224 351 680 396 809 589 970 878 507 164 85 948 
+player 463 draws a 499 from deck 463
+player 463 discards a 516 to deck 464
+player 463 current hand : 578 319 224 794 451 921 127 224 351 680 396 809 589 970 878 507 164 85 948 499 
+player 463 draws a 849 from deck 463
+player 463 discards a 578 to deck 464
+player 463 current hand : 319 224 794 451 921 127 224 351 680 396 809 589 970 878 507 164 85 948 499 849 
+player 463 draws a 870 from deck 463
+player 463 discards a 319 to deck 464
+player 463 current hand : 224 794 451 921 127 224 351 680 396 809 589 970 878 507 164 85 948 499 849 870 
+player 463 draws a 160 from deck 463
+player 463 discards a 224 to deck 464
+player 463 current hand : 794 451 921 127 224 351 680 396 809 589 970 878 507 164 85 948 499 849 870 160 
+player 463 draws a 586 from deck 463
+player 463 discards a 794 to deck 464
+player 463 current hand : 451 921 127 224 351 680 396 809 589 970 878 507 164 85 948 499 849 870 160 586 
+player 463 draws a 27 from deck 463
+player 463 discards a 451 to deck 464
+player 463 current hand : 921 127 224 351 680 396 809 589 970 878 507 164 85 948 499 849 870 160 586 27 
+player 463 draws a 415 from deck 463
+player 463 discards a 921 to deck 464
+player 463 current hand : 127 224 351 680 396 809 589 970 878 507 164 85 948 499 849 870 160 586 27 415 
+player 463 draws a 524 from deck 463
+player 463 discards a 127 to deck 464
+player 463 current hand : 224 351 680 396 809 589 970 878 507 164 85 948 499 849 870 160 586 27 415 524 
+player 463 draws a 516 from deck 463
+player 463 discards a 224 to deck 464
+player 463 current hand : 351 680 396 809 589 970 878 507 164 85 948 499 849 870 160 586 27 415 524 516 
+player 463 draws a 475 from deck 463
+player 463 discards a 351 to deck 464
+player 463 current hand : 680 396 809 589 970 878 507 164 85 948 499 849 870 160 586 27 415 524 516 475 
+player 463 draws a 496 from deck 463
+player 463 discards a 680 to deck 464
+player 463 current hand : 396 809 589 970 878 507 164 85 948 499 849 870 160 586 27 415 524 516 475 496 
+player 463 draws a 95 from deck 463
+player 463 discards a 396 to deck 464
+player 463 current hand : 809 589 970 878 507 164 85 948 499 849 870 160 586 27 415 524 516 475 496 95 
+player 463 draws a 951 from deck 463
+player 463 discards a 809 to deck 464
+player 463 current hand : 589 970 878 507 164 85 948 499 849 870 160 586 27 415 524 516 475 496 95 951 
+player 463 draws a 608 from deck 463
+player 463 discards a 589 to deck 464
+player 463 current hand : 970 878 507 164 85 948 499 849 870 160 586 27 415 524 516 475 496 95 951 608 
+player 463 draws a 176 from deck 463
+player 463 discards a 970 to deck 464
+player 463 current hand : 878 507 164 85 948 499 849 870 160 586 27 415 524 516 475 496 95 951 608 176 
+player 463 draws a 342 from deck 463
+player 463 discards a 878 to deck 464
+player 463 current hand : 507 164 85 948 499 849 870 160 586 27 415 524 516 475 496 95 951 608 176 342 
+player 463 draws a 747 from deck 463
+player 463 discards a 507 to deck 464
+player 463 current hand : 164 85 948 499 849 870 160 586 27 415 524 516 475 496 95 951 608 176 342 747 
+player 463 draws a 550 from deck 463
+player 463 discards a 164 to deck 464
+player 463 current hand : 85 948 499 849 870 160 586 27 415 524 516 475 496 95 951 608 176 342 747 550 
+player 463 draws a 185 from deck 463
+player 463 discards a 85 to deck 464
+player 463 current hand : 948 499 849 870 160 586 27 415 524 516 475 496 95 951 608 176 342 747 550 185 
+player 463 draws a 773 from deck 463
+player 463 discards a 948 to deck 464
+player 463 current hand : 499 849 870 160 586 27 415 524 516 475 496 95 951 608 176 342 747 550 185 773 
+player 463 draws a 111 from deck 463
+player 463 discards a 499 to deck 464
+player 463 current hand : 849 870 160 586 27 415 524 516 475 496 95 951 608 176 342 747 550 185 773 111 
+player 463 draws a 38 from deck 463
+player 463 discards a 849 to deck 464
+player 463 current hand : 870 160 586 27 415 524 516 475 496 95 951 608 176 342 747 550 185 773 111 38 
+player 463 draws a 944 from deck 463
+player 463 discards a 870 to deck 464
+player 463 current hand : 160 586 27 415 524 516 475 496 95 951 608 176 342 747 550 185 773 111 38 944 
+player 463 draws a 534 from deck 463
+player 463 discards a 160 to deck 464
+player 463 current hand : 586 27 415 524 516 475 496 95 951 608 176 342 747 550 185 773 111 38 944 534 
+player 463 draws a 246 from deck 463
+player 463 discards a 586 to deck 464
+player 463 current hand : 27 415 524 516 475 496 95 951 608 176 342 747 550 185 773 111 38 944 534 246 
+player 463 draws a 130 from deck 463
+player 463 discards a 27 to deck 464
+player 463 current hand : 415 524 516 475 496 95 951 608 176 342 747 550 185 773 111 38 944 534 246 130 
+player 463 draws a 460 from deck 463
+player 463 discards a 415 to deck 464
+player 463 current hand : 524 516 475 496 95 951 608 176 342 747 550 185 773 111 38 944 534 246 130 460 
+player 463 draws a 157 from deck 463
+player 463 discards a 524 to deck 464
+player 463 current hand : 516 475 496 95 951 608 176 342 747 550 185 773 111 38 944 534 246 130 460 157 
+player 463 draws a 964 from deck 463
+player 463 discards a 516 to deck 464
+player 463 current hand : 475 496 95 951 608 176 342 747 550 185 773 111 38 944 534 246 130 460 157 964 
+player 463 draws a 81 from deck 463
+player 463 discards a 475 to deck 464
+player 463 current hand : 496 95 951 608 176 342 747 550 185 773 111 38 944 534 246 130 460 157 964 81 
+player 463 draws a 129 from deck 463
+player 463 discards a 496 to deck 464
+player 463 current hand : 95 951 608 176 342 747 550 185 773 111 38 944 534 246 130 460 157 964 81 129 
+player 463 draws a 578 from deck 463
+player 463 discards a 95 to deck 464
+player 463 current hand : 951 608 176 342 747 550 185 773 111 38 944 534 246 130 460 157 964 81 129 578 
+player 463 draws a 103 from deck 463
+player 463 discards a 951 to deck 464
+player 463 current hand : 608 176 342 747 550 185 773 111 38 944 534 246 130 460 157 964 81 129 578 103 
+player 463 draws a 887 from deck 463
+player 463 discards a 608 to deck 464
+player 463 current hand : 176 342 747 550 185 773 111 38 944 534 246 130 460 157 964 81 129 578 103 887 
+player 463 draws a 45 from deck 463
+player 463 discards a 176 to deck 464
+player 463 current hand : 342 747 550 185 773 111 38 944 534 246 130 460 157 964 81 129 578 103 887 45 
+player 463 draws a 870 from deck 463
+player 463 discards a 342 to deck 464
+player 463 current hand : 747 550 185 773 111 38 944 534 246 130 460 157 964 81 129 578 103 887 45 870 
+player 463 draws a 220 from deck 463
+player 463 discards a 747 to deck 464
+player 463 current hand : 550 185 773 111 38 944 534 246 130 460 157 964 81 129 578 103 887 45 870 220 
+player 463 draws a 618 from deck 463
+player 463 discards a 550 to deck 464
+player 463 current hand : 185 773 111 38 944 534 246 130 460 157 964 81 129 578 103 887 45 870 220 618 
+player 463 draws a 723 from deck 463
+player 463 discards a 185 to deck 464
+player 463 current hand : 773 111 38 944 534 246 130 460 157 964 81 129 578 103 887 45 870 220 618 723 
+player 463 draws a 786 from deck 463
+player 463 discards a 773 to deck 464
+player 463 current hand : 111 38 944 534 246 130 460 157 964 81 129 578 103 887 45 870 220 618 723 786 
+player 463 draws a 508 from deck 463
+player 463 discards a 111 to deck 464
+player 463 current hand : 38 944 534 246 130 460 157 964 81 129 578 103 887 45 870 220 618 723 786 508 
+player 463 draws a 827 from deck 463
+player 463 discards a 38 to deck 464
+player 463 current hand : 944 534 246 130 460 157 964 81 129 578 103 887 45 870 220 618 723 786 508 827 
+player 463 draws a 691 from deck 463
+player 463 discards a 944 to deck 464
+player 463 current hand : 534 246 130 460 157 964 81 129 578 103 887 45 870 220 618 723 786 508 827 691 
+player 463 draws a 741 from deck 463
+player 463 discards a 534 to deck 464
+player 463 current hand : 246 130 460 157 964 81 129 578 103 887 45 870 220 618 723 786 508 827 691 741 
+player 463 draws a 231 from deck 463
+player 463 discards a 246 to deck 464
+player 463 current hand : 130 460 157 964 81 129 578 103 887 45 870 220 618 723 786 508 827 691 741 231 
+player 463 draws a 898 from deck 463
+player 463 discards a 130 to deck 464
+player 463 current hand : 460 157 964 81 129 578 103 887 45 870 220 618 723 786 508 827 691 741 231 898 
+player 463 draws a 868 from deck 463
+player 463 discards a 460 to deck 464
+player 463 current hand : 157 964 81 129 578 103 887 45 870 220 618 723 786 508 827 691 741 231 898 868 
+player 463 draws a 29 from deck 463
+player 463 discards a 157 to deck 464
+player 463 current hand : 964 81 129 578 103 887 45 870 220 618 723 786 508 827 691 741 231 898 868 29 

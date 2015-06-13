@@ -1,0 +1,311 @@
+player 213 initial hand 226 951 851 866 792 233 248 411 115 483 941 632 834 174 62 756 91 525 750 438 
+player 213 draws a 598 from deck 213
+player 213 discards a 226 to deck 214
+player 213 current hand : 951 851 866 792 233 248 411 115 483 941 632 834 174 62 756 91 525 750 438 598 
+player 213 draws a 17 from deck 213
+player 213 discards a 951 to deck 214
+player 213 current hand : 851 866 792 233 248 411 115 483 941 632 834 174 62 756 91 525 750 438 598 17 
+player 213 draws a 746 from deck 213
+player 213 discards a 851 to deck 214
+player 213 current hand : 866 792 233 248 411 115 483 941 632 834 174 62 756 91 525 750 438 598 17 746 
+player 213 draws a 388 from deck 213
+player 213 discards a 866 to deck 214
+player 213 current hand : 792 233 248 411 115 483 941 632 834 174 62 756 91 525 750 438 598 17 746 388 
+player 213 draws a 708 from deck 213
+player 213 discards a 792 to deck 214
+player 213 current hand : 233 248 411 115 483 941 632 834 174 62 756 91 525 750 438 598 17 746 388 708 
+player 213 draws a 691 from deck 213
+player 213 discards a 233 to deck 214
+player 213 current hand : 248 411 115 483 941 632 834 174 62 756 91 525 750 438 598 17 746 388 708 691 
+player 213 draws a 581 from deck 213
+player 213 discards a 248 to deck 214
+player 213 current hand : 411 115 483 941 632 834 174 62 756 91 525 750 438 598 17 746 388 708 691 581 
+player 213 draws a 74 from deck 213
+player 213 discards a 411 to deck 214
+player 213 current hand : 115 483 941 632 834 174 62 756 91 525 750 438 598 17 746 388 708 691 581 74 
+player 213 draws a 523 from deck 213
+player 213 discards a 115 to deck 214
+player 213 current hand : 483 941 632 834 174 62 756 91 525 750 438 598 17 746 388 708 691 581 74 523 
+player 213 draws a 275 from deck 213
+player 213 discards a 483 to deck 214
+player 213 current hand : 941 632 834 174 62 756 91 525 750 438 598 17 746 388 708 691 581 74 523 275 
+player 213 draws a 153 from deck 213
+player 213 discards a 941 to deck 214
+player 213 current hand : 632 834 174 62 756 91 525 750 438 598 17 746 388 708 691 581 74 523 275 153 
+player 213 draws a 334 from deck 213
+player 213 discards a 632 to deck 214
+player 213 current hand : 834 174 62 756 91 525 750 438 598 17 746 388 708 691 581 74 523 275 153 334 
+player 213 draws a 970 from deck 213
+player 213 discards a 834 to deck 214
+player 213 current hand : 174 62 756 91 525 750 438 598 17 746 388 708 691 581 74 523 275 153 334 970 
+player 213 draws a 714 from deck 213
+player 213 discards a 174 to deck 214
+player 213 current hand : 62 756 91 525 750 438 598 17 746 388 708 691 581 74 523 275 153 334 970 714 
+player 213 draws a 798 from deck 213
+player 213 discards a 62 to deck 214
+player 213 current hand : 756 91 525 750 438 598 17 746 388 708 691 581 74 523 275 153 334 970 714 798 
+player 213 draws a 453 from deck 213
+player 213 discards a 756 to deck 214
+player 213 current hand : 91 525 750 438 598 17 746 388 708 691 581 74 523 275 153 334 970 714 798 453 
+player 213 draws a 980 from deck 213
+player 213 discards a 91 to deck 214
+player 213 current hand : 525 750 438 598 17 746 388 708 691 581 74 523 275 153 334 970 714 798 453 980 
+player 213 draws a 970 from deck 213
+player 213 discards a 525 to deck 214
+player 213 current hand : 750 438 598 17 746 388 708 691 581 74 523 275 153 334 970 714 798 453 980 970 
+player 213 draws a 641 from deck 213
+player 213 discards a 750 to deck 214
+player 213 current hand : 438 598 17 746 388 708 691 581 74 523 275 153 334 970 714 798 453 980 970 641 
+player 213 draws a 452 from deck 213
+player 213 discards a 438 to deck 214
+player 213 current hand : 598 17 746 388 708 691 581 74 523 275 153 334 970 714 798 453 980 970 641 452 
+player 213 draws a 913 from deck 213
+player 213 discards a 598 to deck 214
+player 213 current hand : 17 746 388 708 691 581 74 523 275 153 334 970 714 798 453 980 970 641 452 913 
+player 213 draws a 913 from deck 213
+player 213 discards a 17 to deck 214
+player 213 current hand : 746 388 708 691 581 74 523 275 153 334 970 714 798 453 980 970 641 452 913 913 
+player 213 draws a 422 from deck 213
+player 213 discards a 746 to deck 214
+player 213 current hand : 388 708 691 581 74 523 275 153 334 970 714 798 453 980 970 641 452 913 913 422 
+player 213 draws a 242 from deck 213
+player 213 discards a 388 to deck 214
+player 213 current hand : 708 691 581 74 523 275 153 334 970 714 798 453 980 970 641 452 913 913 422 242 
+player 213 draws a 609 from deck 213
+player 213 discards a 708 to deck 214
+player 213 current hand : 691 581 74 523 275 153 334 970 714 798 453 980 970 641 452 913 913 422 242 609 
+player 213 draws a 713 from deck 213
+player 213 discards a 691 to deck 214
+player 213 current hand : 581 74 523 275 153 334 970 714 798 453 980 970 641 452 913 913 422 242 609 713 
+player 213 draws a 390 from deck 213
+player 213 discards a 581 to deck 214
+player 213 current hand : 74 523 275 153 334 970 714 798 453 980 970 641 452 913 913 422 242 609 713 390 
+player 213 draws a 111 from deck 213
+player 213 discards a 74 to deck 214
+player 213 current hand : 523 275 153 334 970 714 798 453 980 970 641 452 913 913 422 242 609 713 390 111 
+player 213 draws a 728 from deck 213
+player 213 discards a 523 to deck 214
+player 213 current hand : 275 153 334 970 714 798 453 980 970 641 452 913 913 422 242 609 713 390 111 728 
+player 213 draws a 899 from deck 213
+player 213 discards a 275 to deck 214
+player 213 current hand : 153 334 970 714 798 453 980 970 641 452 913 913 422 242 609 713 390 111 728 899 
+player 213 draws a 913 from deck 213
+player 213 discards a 153 to deck 214
+player 213 current hand : 334 970 714 798 453 980 970 641 452 913 913 422 242 609 713 390 111 728 899 913 
+player 213 draws a 24 from deck 213
+player 213 discards a 334 to deck 214
+player 213 current hand : 970 714 798 453 980 970 641 452 913 913 422 242 609 713 390 111 728 899 913 24 
+player 213 draws a 514 from deck 213
+player 213 discards a 970 to deck 214
+player 213 current hand : 714 798 453 980 970 641 452 913 913 422 242 609 713 390 111 728 899 913 24 514 
+player 213 draws a 163 from deck 213
+player 213 discards a 714 to deck 214
+player 213 current hand : 798 453 980 970 641 452 913 913 422 242 609 713 390 111 728 899 913 24 514 163 
+player 213 draws a 389 from deck 213
+player 213 discards a 798 to deck 214
+player 213 current hand : 453 980 970 641 452 913 913 422 242 609 713 390 111 728 899 913 24 514 163 389 
+player 213 draws a 888 from deck 213
+player 213 discards a 453 to deck 214
+player 213 current hand : 980 970 641 452 913 913 422 242 609 713 390 111 728 899 913 24 514 163 389 888 
+player 213 draws a 707 from deck 213
+player 213 discards a 980 to deck 214
+player 213 current hand : 970 641 452 913 913 422 242 609 713 390 111 728 899 913 24 514 163 389 888 707 
+player 213 draws a 636 from deck 213
+player 213 discards a 970 to deck 214
+player 213 current hand : 641 452 913 913 422 242 609 713 390 111 728 899 913 24 514 163 389 888 707 636 
+player 213 draws a 417 from deck 213
+player 213 discards a 641 to deck 214
+player 213 current hand : 452 913 913 422 242 609 713 390 111 728 899 913 24 514 163 389 888 707 636 417 
+player 213 draws a 328 from deck 213
+player 213 discards a 452 to deck 214
+player 213 current hand : 913 913 422 242 609 713 390 111 728 899 913 24 514 163 389 888 707 636 417 328 
+player 213 draws a 25 from deck 213
+player 213 discards a 913 to deck 214
+player 213 current hand : 913 422 242 609 713 390 111 728 899 913 24 514 163 389 888 707 636 417 328 25 
+player 213 draws a 580 from deck 213
+player 213 discards a 913 to deck 214
+player 213 current hand : 422 242 609 713 390 111 728 899 913 24 514 163 389 888 707 636 417 328 25 580 
+player 213 draws a 966 from deck 213
+player 213 discards a 422 to deck 214
+player 213 current hand : 242 609 713 390 111 728 899 913 24 514 163 389 888 707 636 417 328 25 580 966 
+player 213 draws a 469 from deck 213
+player 213 discards a 242 to deck 214
+player 213 current hand : 609 713 390 111 728 899 913 24 514 163 389 888 707 636 417 328 25 580 966 469 
+player 213 draws a 975 from deck 213
+player 213 discards a 609 to deck 214
+player 213 current hand : 713 390 111 728 899 913 24 514 163 389 888 707 636 417 328 25 580 966 469 975 
+player 213 draws a 756 from deck 213
+player 213 discards a 713 to deck 214
+player 213 current hand : 390 111 728 899 913 24 514 163 389 888 707 636 417 328 25 580 966 469 975 756 
+player 213 draws a 442 from deck 213
+player 213 discards a 390 to deck 214
+player 213 current hand : 111 728 899 913 24 514 163 389 888 707 636 417 328 25 580 966 469 975 756 442 
+player 213 draws a 554 from deck 213
+player 213 discards a 111 to deck 214
+player 213 current hand : 728 899 913 24 514 163 389 888 707 636 417 328 25 580 966 469 975 756 442 554 
+player 213 draws a 242 from deck 213
+player 213 discards a 728 to deck 214
+player 213 current hand : 899 913 24 514 163 389 888 707 636 417 328 25 580 966 469 975 756 442 554 242 
+player 213 draws a 7 from deck 213
+player 213 discards a 899 to deck 214
+player 213 current hand : 913 24 514 163 389 888 707 636 417 328 25 580 966 469 975 756 442 554 242 7 
+player 213 draws a 217 from deck 213
+player 213 discards a 913 to deck 214
+player 213 current hand : 24 514 163 389 888 707 636 417 328 25 580 966 469 975 756 442 554 242 7 217 
+player 213 draws a 732 from deck 213
+player 213 discards a 24 to deck 214
+player 213 current hand : 514 163 389 888 707 636 417 328 25 580 966 469 975 756 442 554 242 7 217 732 
+player 213 draws a 600 from deck 213
+player 213 discards a 514 to deck 214
+player 213 current hand : 163 389 888 707 636 417 328 25 580 966 469 975 756 442 554 242 7 217 732 600 
+player 213 draws a 164 from deck 213
+player 213 discards a 163 to deck 214
+player 213 current hand : 389 888 707 636 417 328 25 580 966 469 975 756 442 554 242 7 217 732 600 164 
+player 213 draws a 120 from deck 213
+player 213 discards a 389 to deck 214
+player 213 current hand : 888 707 636 417 328 25 580 966 469 975 756 442 554 242 7 217 732 600 164 120 
+player 213 draws a 744 from deck 213
+player 213 discards a 888 to deck 214
+player 213 current hand : 707 636 417 328 25 580 966 469 975 756 442 554 242 7 217 732 600 164 120 744 
+player 213 draws a 879 from deck 213
+player 213 discards a 707 to deck 214
+player 213 current hand : 636 417 328 25 580 966 469 975 756 442 554 242 7 217 732 600 164 120 744 879 
+player 213 draws a 54 from deck 213
+player 213 discards a 636 to deck 214
+player 213 current hand : 417 328 25 580 966 469 975 756 442 554 242 7 217 732 600 164 120 744 879 54 
+player 213 draws a 37 from deck 213
+player 213 discards a 417 to deck 214
+player 213 current hand : 328 25 580 966 469 975 756 442 554 242 7 217 732 600 164 120 744 879 54 37 
+player 213 draws a 979 from deck 213
+player 213 discards a 328 to deck 214
+player 213 current hand : 25 580 966 469 975 756 442 554 242 7 217 732 600 164 120 744 879 54 37 979 
+player 213 draws a 408 from deck 213
+player 213 discards a 25 to deck 214
+player 213 current hand : 580 966 469 975 756 442 554 242 7 217 732 600 164 120 744 879 54 37 979 408 
+player 213 draws a 782 from deck 213
+player 213 discards a 580 to deck 214
+player 213 current hand : 966 469 975 756 442 554 242 7 217 732 600 164 120 744 879 54 37 979 408 782 
+player 213 draws a 775 from deck 213
+player 213 discards a 966 to deck 214
+player 213 current hand : 469 975 756 442 554 242 7 217 732 600 164 120 744 879 54 37 979 408 782 775 
+player 213 draws a 214 from deck 213
+player 213 discards a 469 to deck 214
+player 213 current hand : 975 756 442 554 242 7 217 732 600 164 120 744 879 54 37 979 408 782 775 214 
+player 213 draws a 816 from deck 213
+player 213 discards a 975 to deck 214
+player 213 current hand : 756 442 554 242 7 217 732 600 164 120 744 879 54 37 979 408 782 775 214 816 
+player 213 draws a 720 from deck 213
+player 213 discards a 756 to deck 214
+player 213 current hand : 442 554 242 7 217 732 600 164 120 744 879 54 37 979 408 782 775 214 816 720 
+player 213 draws a 402 from deck 213
+player 213 discards a 442 to deck 214
+player 213 current hand : 554 242 7 217 732 600 164 120 744 879 54 37 979 408 782 775 214 816 720 402 
+player 213 draws a 77 from deck 213
+player 213 discards a 554 to deck 214
+player 213 current hand : 242 7 217 732 600 164 120 744 879 54 37 979 408 782 775 214 816 720 402 77 
+player 213 draws a 272 from deck 213
+player 213 discards a 242 to deck 214
+player 213 current hand : 7 217 732 600 164 120 744 879 54 37 979 408 782 775 214 816 720 402 77 272 
+player 213 draws a 920 from deck 213
+player 213 discards a 7 to deck 214
+player 213 current hand : 217 732 600 164 120 744 879 54 37 979 408 782 775 214 816 720 402 77 272 920 
+player 213 draws a 499 from deck 213
+player 213 discards a 217 to deck 214
+player 213 current hand : 732 600 164 120 744 879 54 37 979 408 782 775 214 816 720 402 77 272 920 499 
+player 213 draws a 18 from deck 213
+player 213 discards a 732 to deck 214
+player 213 current hand : 600 164 120 744 879 54 37 979 408 782 775 214 816 720 402 77 272 920 499 18 
+player 213 draws a 791 from deck 213
+player 213 discards a 600 to deck 214
+player 213 current hand : 164 120 744 879 54 37 979 408 782 775 214 816 720 402 77 272 920 499 18 791 
+player 213 draws a 258 from deck 213
+player 213 discards a 164 to deck 214
+player 213 current hand : 120 744 879 54 37 979 408 782 775 214 816 720 402 77 272 920 499 18 791 258 
+player 213 draws a 548 from deck 213
+player 213 discards a 120 to deck 214
+player 213 current hand : 744 879 54 37 979 408 782 775 214 816 720 402 77 272 920 499 18 791 258 548 
+player 213 draws a 882 from deck 213
+player 213 discards a 744 to deck 214
+player 213 current hand : 879 54 37 979 408 782 775 214 816 720 402 77 272 920 499 18 791 258 548 882 
+player 213 draws a 150 from deck 213
+player 213 discards a 879 to deck 214
+player 213 current hand : 54 37 979 408 782 775 214 816 720 402 77 272 920 499 18 791 258 548 882 150 
+player 213 draws a 303 from deck 213
+player 213 discards a 54 to deck 214
+player 213 current hand : 37 979 408 782 775 214 816 720 402 77 272 920 499 18 791 258 548 882 150 303 
+player 213 draws a 128 from deck 213
+player 213 discards a 37 to deck 214
+player 213 current hand : 979 408 782 775 214 816 720 402 77 272 920 499 18 791 258 548 882 150 303 128 
+player 213 draws a 839 from deck 213
+player 213 discards a 979 to deck 214
+player 213 current hand : 408 782 775 214 816 720 402 77 272 920 499 18 791 258 548 882 150 303 128 839 
+player 213 draws a 455 from deck 213
+player 213 discards a 408 to deck 214
+player 213 current hand : 782 775 214 816 720 402 77 272 920 499 18 791 258 548 882 150 303 128 839 455 
+player 213 draws a 168 from deck 213
+player 213 discards a 782 to deck 214
+player 213 current hand : 775 214 816 720 402 77 272 920 499 18 791 258 548 882 150 303 128 839 455 168 
+player 213 draws a 618 from deck 213
+player 213 discards a 775 to deck 214
+player 213 current hand : 214 816 720 402 77 272 920 499 18 791 258 548 882 150 303 128 839 455 168 618 
+player 213 draws a 933 from deck 213
+player 213 discards a 214 to deck 214
+player 213 current hand : 816 720 402 77 272 920 499 18 791 258 548 882 150 303 128 839 455 168 618 933 
+player 213 draws a 930 from deck 213
+player 213 discards a 816 to deck 214
+player 213 current hand : 720 402 77 272 920 499 18 791 258 548 882 150 303 128 839 455 168 618 933 930 
+player 213 draws a 875 from deck 213
+player 213 discards a 720 to deck 214
+player 213 current hand : 402 77 272 920 499 18 791 258 548 882 150 303 128 839 455 168 618 933 930 875 
+player 213 draws a 242 from deck 213
+player 213 discards a 402 to deck 214
+player 213 current hand : 77 272 920 499 18 791 258 548 882 150 303 128 839 455 168 618 933 930 875 242 
+player 213 draws a 350 from deck 213
+player 213 discards a 77 to deck 214
+player 213 current hand : 272 920 499 18 791 258 548 882 150 303 128 839 455 168 618 933 930 875 242 350 
+player 213 draws a 766 from deck 213
+player 213 discards a 272 to deck 214
+player 213 current hand : 920 499 18 791 258 548 882 150 303 128 839 455 168 618 933 930 875 242 350 766 
+player 213 draws a 612 from deck 213
+player 213 discards a 920 to deck 214
+player 213 current hand : 499 18 791 258 548 882 150 303 128 839 455 168 618 933 930 875 242 350 766 612 
+player 213 draws a 42 from deck 213
+player 213 discards a 499 to deck 214
+player 213 current hand : 18 791 258 548 882 150 303 128 839 455 168 618 933 930 875 242 350 766 612 42 
+player 213 draws a 315 from deck 213
+player 213 discards a 18 to deck 214
+player 213 current hand : 791 258 548 882 150 303 128 839 455 168 618 933 930 875 242 350 766 612 42 315 
+player 213 draws a 771 from deck 213
+player 213 discards a 791 to deck 214
+player 213 current hand : 258 548 882 150 303 128 839 455 168 618 933 930 875 242 350 766 612 42 315 771 
+player 213 draws a 360 from deck 213
+player 213 discards a 258 to deck 214
+player 213 current hand : 548 882 150 303 128 839 455 168 618 933 930 875 242 350 766 612 42 315 771 360 
+player 213 draws a 794 from deck 213
+player 213 discards a 548 to deck 214
+player 213 current hand : 882 150 303 128 839 455 168 618 933 930 875 242 350 766 612 42 315 771 360 794 
+player 213 draws a 14 from deck 213
+player 213 discards a 882 to deck 214
+player 213 current hand : 150 303 128 839 455 168 618 933 930 875 242 350 766 612 42 315 771 360 794 14 
+player 213 draws a 317 from deck 213
+player 213 discards a 150 to deck 214
+player 213 current hand : 303 128 839 455 168 618 933 930 875 242 350 766 612 42 315 771 360 794 14 317 
+player 213 draws a 917 from deck 213
+player 213 discards a 303 to deck 214
+player 213 current hand : 128 839 455 168 618 933 930 875 242 350 766 612 42 315 771 360 794 14 317 917 
+player 213 draws a 125 from deck 213
+player 213 discards a 128 to deck 214
+player 213 current hand : 839 455 168 618 933 930 875 242 350 766 612 42 315 771 360 794 14 317 917 125 
+player 213 draws a 490 from deck 213
+player 213 discards a 839 to deck 214
+player 213 current hand : 455 168 618 933 930 875 242 350 766 612 42 315 771 360 794 14 317 917 125 490 
+player 213 draws a 20 from deck 213
+player 213 discards a 455 to deck 214
+player 213 current hand : 168 618 933 930 875 242 350 766 612 42 315 771 360 794 14 317 917 125 490 20 
+player 213 draws a 29 from deck 213
+player 213 discards a 168 to deck 214
+player 213 current hand : 618 933 930 875 242 350 766 612 42 315 771 360 794 14 317 917 125 490 20 29 
+player 213 draws a 735 from deck 213
+player 213 discards a 618 to deck 214
+player 213 current hand : 933 930 875 242 350 766 612 42 315 771 360 794 14 317 917 125 490 20 29 735 
+player 213 draws a 490 from deck 213

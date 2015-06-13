@@ -1,0 +1,325 @@
+player 430 initial hand 675 741 856 595 426 581 499 735 240 400 18 504 441 792 536 856 282 913 909 510 
+player 430 draws a 745 from deck 430
+player 430 discards a 675 to deck 431
+player 430 current hand : 741 856 595 426 581 499 735 240 400 18 504 441 792 536 856 282 913 909 510 745 
+player 430 draws a 128 from deck 430
+player 430 discards a 741 to deck 431
+player 430 current hand : 856 595 426 581 499 735 240 400 18 504 441 792 536 856 282 913 909 510 745 128 
+player 430 draws a 49 from deck 430
+player 430 discards a 856 to deck 431
+player 430 current hand : 595 426 581 499 735 240 400 18 504 441 792 536 856 282 913 909 510 745 128 49 
+player 430 draws a 460 from deck 430
+player 430 discards a 595 to deck 431
+player 430 current hand : 426 581 499 735 240 400 18 504 441 792 536 856 282 913 909 510 745 128 49 460 
+player 430 draws a 808 from deck 430
+player 430 discards a 426 to deck 431
+player 430 current hand : 581 499 735 240 400 18 504 441 792 536 856 282 913 909 510 745 128 49 460 808 
+player 430 draws a 544 from deck 430
+player 430 discards a 581 to deck 431
+player 430 current hand : 499 735 240 400 18 504 441 792 536 856 282 913 909 510 745 128 49 460 808 544 
+player 430 draws a 583 from deck 430
+player 430 discards a 499 to deck 431
+player 430 current hand : 735 240 400 18 504 441 792 536 856 282 913 909 510 745 128 49 460 808 544 583 
+player 430 draws a 822 from deck 430
+player 430 discards a 735 to deck 431
+player 430 current hand : 240 400 18 504 441 792 536 856 282 913 909 510 745 128 49 460 808 544 583 822 
+player 430 draws a 397 from deck 430
+player 430 discards a 240 to deck 431
+player 430 current hand : 400 18 504 441 792 536 856 282 913 909 510 745 128 49 460 808 544 583 822 397 
+player 430 draws a 518 from deck 430
+player 430 discards a 400 to deck 431
+player 430 current hand : 18 504 441 792 536 856 282 913 909 510 745 128 49 460 808 544 583 822 397 518 
+player 430 draws a 851 from deck 430
+player 430 discards a 18 to deck 431
+player 430 current hand : 504 441 792 536 856 282 913 909 510 745 128 49 460 808 544 583 822 397 518 851 
+player 430 draws a 777 from deck 430
+player 430 discards a 504 to deck 431
+player 430 current hand : 441 792 536 856 282 913 909 510 745 128 49 460 808 544 583 822 397 518 851 777 
+player 430 draws a 74 from deck 430
+player 430 discards a 441 to deck 431
+player 430 current hand : 792 536 856 282 913 909 510 745 128 49 460 808 544 583 822 397 518 851 777 74 
+player 430 draws a 336 from deck 430
+player 430 discards a 792 to deck 431
+player 430 current hand : 536 856 282 913 909 510 745 128 49 460 808 544 583 822 397 518 851 777 74 336 
+player 430 draws a 865 from deck 430
+player 430 discards a 536 to deck 431
+player 430 current hand : 856 282 913 909 510 745 128 49 460 808 544 583 822 397 518 851 777 74 336 865 
+player 430 draws a 338 from deck 430
+player 430 discards a 856 to deck 431
+player 430 current hand : 282 913 909 510 745 128 49 460 808 544 583 822 397 518 851 777 74 336 865 338 
+player 430 draws a 422 from deck 430
+player 430 discards a 282 to deck 431
+player 430 current hand : 913 909 510 745 128 49 460 808 544 583 822 397 518 851 777 74 336 865 338 422 
+player 430 draws a 255 from deck 430
+player 430 discards a 913 to deck 431
+player 430 current hand : 909 510 745 128 49 460 808 544 583 822 397 518 851 777 74 336 865 338 422 255 
+player 430 draws a 666 from deck 430
+player 430 discards a 909 to deck 431
+player 430 current hand : 510 745 128 49 460 808 544 583 822 397 518 851 777 74 336 865 338 422 255 666 
+player 430 draws a 14 from deck 430
+player 430 discards a 510 to deck 431
+player 430 current hand : 745 128 49 460 808 544 583 822 397 518 851 777 74 336 865 338 422 255 666 14 
+player 430 draws a 229 from deck 430
+player 430 discards a 745 to deck 431
+player 430 current hand : 128 49 460 808 544 583 822 397 518 851 777 74 336 865 338 422 255 666 14 229 
+player 430 draws a 241 from deck 430
+player 430 discards a 128 to deck 431
+player 430 current hand : 49 460 808 544 583 822 397 518 851 777 74 336 865 338 422 255 666 14 229 241 
+player 430 draws a 702 from deck 430
+player 430 discards a 49 to deck 431
+player 430 current hand : 460 808 544 583 822 397 518 851 777 74 336 865 338 422 255 666 14 229 241 702 
+player 430 draws a 325 from deck 430
+player 430 discards a 460 to deck 431
+player 430 current hand : 808 544 583 822 397 518 851 777 74 336 865 338 422 255 666 14 229 241 702 325 
+player 430 draws a 264 from deck 430
+player 430 discards a 808 to deck 431
+player 430 current hand : 544 583 822 397 518 851 777 74 336 865 338 422 255 666 14 229 241 702 325 264 
+player 430 draws a 426 from deck 430
+player 430 discards a 544 to deck 431
+player 430 current hand : 583 822 397 518 851 777 74 336 865 338 422 255 666 14 229 241 702 325 264 426 
+player 430 draws a 489 from deck 430
+player 430 discards a 583 to deck 431
+player 430 current hand : 822 397 518 851 777 74 336 865 338 422 255 666 14 229 241 702 325 264 426 489 
+player 430 draws a 128 from deck 430
+player 430 discards a 822 to deck 431
+player 430 current hand : 397 518 851 777 74 336 865 338 422 255 666 14 229 241 702 325 264 426 489 128 
+player 430 draws a 696 from deck 430
+player 430 discards a 397 to deck 431
+player 430 current hand : 518 851 777 74 336 865 338 422 255 666 14 229 241 702 325 264 426 489 128 696 
+player 430 draws a 163 from deck 430
+player 430 discards a 518 to deck 431
+player 430 current hand : 851 777 74 336 865 338 422 255 666 14 229 241 702 325 264 426 489 128 696 163 
+player 430 draws a 570 from deck 430
+player 430 discards a 851 to deck 431
+player 430 current hand : 777 74 336 865 338 422 255 666 14 229 241 702 325 264 426 489 128 696 163 570 
+player 430 draws a 214 from deck 430
+player 430 discards a 777 to deck 431
+player 430 current hand : 74 336 865 338 422 255 666 14 229 241 702 325 264 426 489 128 696 163 570 214 
+player 430 draws a 955 from deck 430
+player 430 discards a 74 to deck 431
+player 430 current hand : 336 865 338 422 255 666 14 229 241 702 325 264 426 489 128 696 163 570 214 955 
+player 430 draws a 263 from deck 430
+player 430 discards a 336 to deck 431
+player 430 current hand : 865 338 422 255 666 14 229 241 702 325 264 426 489 128 696 163 570 214 955 263 
+player 430 draws a 630 from deck 430
+player 430 discards a 865 to deck 431
+player 430 current hand : 338 422 255 666 14 229 241 702 325 264 426 489 128 696 163 570 214 955 263 630 
+player 430 draws a 66 from deck 430
+player 430 discards a 338 to deck 431
+player 430 current hand : 422 255 666 14 229 241 702 325 264 426 489 128 696 163 570 214 955 263 630 66 
+player 430 draws a 426 from deck 430
+player 430 discards a 422 to deck 431
+player 430 current hand : 255 666 14 229 241 702 325 264 426 489 128 696 163 570 214 955 263 630 66 426 
+player 430 draws a 720 from deck 430
+player 430 discards a 255 to deck 431
+player 430 current hand : 666 14 229 241 702 325 264 426 489 128 696 163 570 214 955 263 630 66 426 720 
+player 430 draws a 879 from deck 430
+player 430 discards a 666 to deck 431
+player 430 current hand : 14 229 241 702 325 264 426 489 128 696 163 570 214 955 263 630 66 426 720 879 
+player 430 draws a 160 from deck 430
+player 430 discards a 14 to deck 431
+player 430 current hand : 229 241 702 325 264 426 489 128 696 163 570 214 955 263 630 66 426 720 879 160 
+player 430 draws a 12 from deck 430
+player 430 discards a 229 to deck 431
+player 430 current hand : 241 702 325 264 426 489 128 696 163 570 214 955 263 630 66 426 720 879 160 12 
+player 430 draws a 825 from deck 430
+player 430 discards a 241 to deck 431
+player 430 current hand : 702 325 264 426 489 128 696 163 570 214 955 263 630 66 426 720 879 160 12 825 
+player 430 draws a 120 from deck 430
+player 430 discards a 702 to deck 431
+player 430 current hand : 325 264 426 489 128 696 163 570 214 955 263 630 66 426 720 879 160 12 825 120 
+player 430 draws a 775 from deck 430
+player 430 discards a 325 to deck 431
+player 430 current hand : 264 426 489 128 696 163 570 214 955 263 630 66 426 720 879 160 12 825 120 775 
+player 430 draws a 177 from deck 430
+player 430 discards a 264 to deck 431
+player 430 current hand : 426 489 128 696 163 570 214 955 263 630 66 426 720 879 160 12 825 120 775 177 
+player 430 draws a 62 from deck 430
+player 430 discards a 426 to deck 431
+player 430 current hand : 489 128 696 163 570 214 955 263 630 66 426 720 879 160 12 825 120 775 177 62 
+player 430 draws a 655 from deck 430
+player 430 discards a 489 to deck 431
+player 430 current hand : 128 696 163 570 214 955 263 630 66 426 720 879 160 12 825 120 775 177 62 655 
+player 430 draws a 563 from deck 430
+player 430 discards a 128 to deck 431
+player 430 current hand : 696 163 570 214 955 263 630 66 426 720 879 160 12 825 120 775 177 62 655 563 
+player 430 draws a 71 from deck 430
+player 430 discards a 696 to deck 431
+player 430 current hand : 163 570 214 955 263 630 66 426 720 879 160 12 825 120 775 177 62 655 563 71 
+player 430 draws a 296 from deck 430
+player 430 discards a 163 to deck 431
+player 430 current hand : 570 214 955 263 630 66 426 720 879 160 12 825 120 775 177 62 655 563 71 296 
+player 430 draws a 351 from deck 430
+player 430 discards a 570 to deck 431
+player 430 current hand : 214 955 263 630 66 426 720 879 160 12 825 120 775 177 62 655 563 71 296 351 
+player 430 draws a 862 from deck 430
+player 430 discards a 214 to deck 431
+player 430 current hand : 955 263 630 66 426 720 879 160 12 825 120 775 177 62 655 563 71 296 351 862 
+player 430 draws a 805 from deck 430
+player 430 discards a 955 to deck 431
+player 430 current hand : 263 630 66 426 720 879 160 12 825 120 775 177 62 655 563 71 296 351 862 805 
+player 430 draws a 760 from deck 430
+player 430 discards a 263 to deck 431
+player 430 current hand : 630 66 426 720 879 160 12 825 120 775 177 62 655 563 71 296 351 862 805 760 
+player 430 draws a 4 from deck 430
+player 430 discards a 630 to deck 431
+player 430 current hand : 66 426 720 879 160 12 825 120 775 177 62 655 563 71 296 351 862 805 760 4 
+player 430 draws a 755 from deck 430
+player 430 discards a 66 to deck 431
+player 430 current hand : 426 720 879 160 12 825 120 775 177 62 655 563 71 296 351 862 805 760 4 755 
+player 430 draws a 661 from deck 430
+player 430 discards a 426 to deck 431
+player 430 current hand : 720 879 160 12 825 120 775 177 62 655 563 71 296 351 862 805 760 4 755 661 
+player 430 draws a 862 from deck 430
+player 430 discards a 720 to deck 431
+player 430 current hand : 879 160 12 825 120 775 177 62 655 563 71 296 351 862 805 760 4 755 661 862 
+player 430 draws a 293 from deck 430
+player 430 discards a 879 to deck 431
+player 430 current hand : 160 12 825 120 775 177 62 655 563 71 296 351 862 805 760 4 755 661 862 293 
+player 430 draws a 970 from deck 430
+player 430 discards a 160 to deck 431
+player 430 current hand : 12 825 120 775 177 62 655 563 71 296 351 862 805 760 4 755 661 862 293 970 
+player 430 draws a 354 from deck 430
+player 430 discards a 12 to deck 431
+player 430 current hand : 825 120 775 177 62 655 563 71 296 351 862 805 760 4 755 661 862 293 970 354 
+player 430 draws a 566 from deck 430
+player 430 discards a 825 to deck 431
+player 430 current hand : 120 775 177 62 655 563 71 296 351 862 805 760 4 755 661 862 293 970 354 566 
+player 430 draws a 255 from deck 430
+player 430 discards a 120 to deck 431
+player 430 current hand : 775 177 62 655 563 71 296 351 862 805 760 4 755 661 862 293 970 354 566 255 
+player 430 draws a 401 from deck 430
+player 430 discards a 775 to deck 431
+player 430 current hand : 177 62 655 563 71 296 351 862 805 760 4 755 661 862 293 970 354 566 255 401 
+player 430 draws a 505 from deck 430
+player 430 discards a 177 to deck 431
+player 430 current hand : 62 655 563 71 296 351 862 805 760 4 755 661 862 293 970 354 566 255 401 505 
+player 430 draws a 564 from deck 430
+player 430 discards a 62 to deck 431
+player 430 current hand : 655 563 71 296 351 862 805 760 4 755 661 862 293 970 354 566 255 401 505 564 
+player 430 draws a 252 from deck 430
+player 430 discards a 655 to deck 431
+player 430 current hand : 563 71 296 351 862 805 760 4 755 661 862 293 970 354 566 255 401 505 564 252 
+player 430 draws a 574 from deck 430
+player 430 discards a 563 to deck 431
+player 430 current hand : 71 296 351 862 805 760 4 755 661 862 293 970 354 566 255 401 505 564 252 574 
+player 430 draws a 578 from deck 430
+player 430 discards a 71 to deck 431
+player 430 current hand : 296 351 862 805 760 4 755 661 862 293 970 354 566 255 401 505 564 252 574 578 
+player 430 draws a 11 from deck 430
+player 430 discards a 296 to deck 431
+player 430 current hand : 351 862 805 760 4 755 661 862 293 970 354 566 255 401 505 564 252 574 578 11 
+player 430 draws a 670 from deck 430
+player 430 discards a 351 to deck 431
+player 430 current hand : 862 805 760 4 755 661 862 293 970 354 566 255 401 505 564 252 574 578 11 670 
+player 430 draws a 105 from deck 430
+player 430 discards a 862 to deck 431
+player 430 current hand : 805 760 4 755 661 862 293 970 354 566 255 401 505 564 252 574 578 11 670 105 
+player 430 draws a 819 from deck 430
+player 430 discards a 805 to deck 431
+player 430 current hand : 760 4 755 661 862 293 970 354 566 255 401 505 564 252 574 578 11 670 105 819 
+player 430 draws a 708 from deck 430
+player 430 discards a 760 to deck 431
+player 430 current hand : 4 755 661 862 293 970 354 566 255 401 505 564 252 574 578 11 670 105 819 708 
+player 430 draws a 265 from deck 430
+player 430 discards a 4 to deck 431
+player 430 current hand : 755 661 862 293 970 354 566 255 401 505 564 252 574 578 11 670 105 819 708 265 
+player 430 draws a 636 from deck 430
+player 430 discards a 755 to deck 431
+player 430 current hand : 661 862 293 970 354 566 255 401 505 564 252 574 578 11 670 105 819 708 265 636 
+player 430 draws a 305 from deck 430
+player 430 discards a 661 to deck 431
+player 430 current hand : 862 293 970 354 566 255 401 505 564 252 574 578 11 670 105 819 708 265 636 305 
+player 430 draws a 426 from deck 430
+player 430 discards a 862 to deck 431
+player 430 current hand : 293 970 354 566 255 401 505 564 252 574 578 11 670 105 819 708 265 636 305 426 
+player 430 draws a 4 from deck 430
+player 430 discards a 293 to deck 431
+player 430 current hand : 970 354 566 255 401 505 564 252 574 578 11 670 105 819 708 265 636 305 426 4 
+player 430 draws a 643 from deck 430
+player 430 discards a 970 to deck 431
+player 430 current hand : 354 566 255 401 505 564 252 574 578 11 670 105 819 708 265 636 305 426 4 643 
+player 430 draws a 729 from deck 430
+player 430 discards a 354 to deck 431
+player 430 current hand : 566 255 401 505 564 252 574 578 11 670 105 819 708 265 636 305 426 4 643 729 
+player 430 draws a 600 from deck 430
+player 430 discards a 566 to deck 431
+player 430 current hand : 255 401 505 564 252 574 578 11 670 105 819 708 265 636 305 426 4 643 729 600 
+player 430 draws a 971 from deck 430
+player 430 discards a 255 to deck 431
+player 430 current hand : 401 505 564 252 574 578 11 670 105 819 708 265 636 305 426 4 643 729 600 971 
+player 430 draws a 958 from deck 430
+player 430 discards a 401 to deck 431
+player 430 current hand : 505 564 252 574 578 11 670 105 819 708 265 636 305 426 4 643 729 600 971 958 
+player 430 draws a 239 from deck 430
+player 430 discards a 505 to deck 431
+player 430 current hand : 564 252 574 578 11 670 105 819 708 265 636 305 426 4 643 729 600 971 958 239 
+player 430 draws a 814 from deck 430
+player 430 discards a 564 to deck 431
+player 430 current hand : 252 574 578 11 670 105 819 708 265 636 305 426 4 643 729 600 971 958 239 814 
+player 430 draws a 47 from deck 430
+player 430 discards a 252 to deck 431
+player 430 current hand : 574 578 11 670 105 819 708 265 636 305 426 4 643 729 600 971 958 239 814 47 
+player 430 draws a 475 from deck 430
+player 430 discards a 574 to deck 431
+player 430 current hand : 578 11 670 105 819 708 265 636 305 426 4 643 729 600 971 958 239 814 47 475 
+player 430 draws a 587 from deck 430
+player 430 discards a 578 to deck 431
+player 430 current hand : 11 670 105 819 708 265 636 305 426 4 643 729 600 971 958 239 814 47 475 587 
+player 430 draws a 390 from deck 430
+player 430 discards a 11 to deck 431
+player 430 current hand : 670 105 819 708 265 636 305 426 4 643 729 600 971 958 239 814 47 475 587 390 
+player 430 draws a 410 from deck 430
+player 430 discards a 670 to deck 431
+player 430 current hand : 105 819 708 265 636 305 426 4 643 729 600 971 958 239 814 47 475 587 390 410 
+player 430 draws a 133 from deck 430
+player 430 discards a 105 to deck 431
+player 430 current hand : 819 708 265 636 305 426 4 643 729 600 971 958 239 814 47 475 587 390 410 133 
+player 430 draws a 518 from deck 430
+player 430 discards a 819 to deck 431
+player 430 current hand : 708 265 636 305 426 4 643 729 600 971 958 239 814 47 475 587 390 410 133 518 
+player 430 draws a 593 from deck 430
+player 430 discards a 708 to deck 431
+player 430 current hand : 265 636 305 426 4 643 729 600 971 958 239 814 47 475 587 390 410 133 518 593 
+player 430 draws a 856 from deck 430
+player 430 discards a 265 to deck 431
+player 430 current hand : 636 305 426 4 643 729 600 971 958 239 814 47 475 587 390 410 133 518 593 856 
+player 430 draws a 209 from deck 430
+player 430 discards a 636 to deck 431
+player 430 current hand : 305 426 4 643 729 600 971 958 239 814 47 475 587 390 410 133 518 593 856 209 
+player 430 draws a 824 from deck 430
+player 430 discards a 305 to deck 431
+player 430 current hand : 426 4 643 729 600 971 958 239 814 47 475 587 390 410 133 518 593 856 209 824 
+player 430 draws a 266 from deck 430
+player 430 discards a 426 to deck 431
+player 430 current hand : 4 643 729 600 971 958 239 814 47 475 587 390 410 133 518 593 856 209 824 266 
+player 430 draws a 691 from deck 430
+player 430 discards a 4 to deck 431
+player 430 current hand : 643 729 600 971 958 239 814 47 475 587 390 410 133 518 593 856 209 824 266 691 
+player 430 draws a 970 from deck 430
+player 430 discards a 643 to deck 431
+player 430 current hand : 729 600 971 958 239 814 47 475 587 390 410 133 518 593 856 209 824 266 691 970 
+player 430 draws a 153 from deck 430
+player 430 discards a 729 to deck 431
+player 430 current hand : 600 971 958 239 814 47 475 587 390 410 133 518 593 856 209 824 266 691 970 153 
+player 430 draws a 189 from deck 430
+player 430 discards a 600 to deck 431
+player 430 current hand : 971 958 239 814 47 475 587 390 410 133 518 593 856 209 824 266 691 970 153 189 
+player 430 draws a 830 from deck 430
+player 430 discards a 971 to deck 431
+player 430 current hand : 958 239 814 47 475 587 390 410 133 518 593 856 209 824 266 691 970 153 189 830 
+player 430 draws a 530 from deck 430
+player 430 discards a 958 to deck 431
+player 430 current hand : 239 814 47 475 587 390 410 133 518 593 856 209 824 266 691 970 153 189 830 530 
+player 430 draws a 395 from deck 430
+player 430 discards a 239 to deck 431
+player 430 current hand : 814 47 475 587 390 410 133 518 593 856 209 824 266 691 970 153 189 830 530 395 
+player 430 draws a 346 from deck 430
+player 430 discards a 814 to deck 431
+player 430 current hand : 47 475 587 390 410 133 518 593 856 209 824 266 691 970 153 189 830 530 395 346 
+player 430 draws a 736 from deck 430
+player 430 discards a 47 to deck 431
+player 430 current hand : 475 587 390 410 133 518 593 856 209 824 266 691 970 153 189 830 530 395 346 736 
+player 430 draws a 802 from deck 430
+player 430 discards a 475 to deck 431
+player 430 current hand : 587 390 410 133 518 593 856 209 824 266 691 970 153 189 830 530 395 346 736 802 

@@ -1,0 +1,312 @@
+player 159 initial hand 509 429 427 205 841 886 241 60 634 572 793 599 159 582 415 287 944 334 189 204 
+player 159 draws a 852 from deck 159
+player 159 discards a 509 to deck 160
+player 159 current hand : 429 427 205 841 886 241 60 634 572 793 599 159 582 415 287 944 334 189 204 852 
+player 159 draws a 408 from deck 159
+player 159 discards a 429 to deck 160
+player 159 current hand : 427 205 841 886 241 60 634 572 793 599 159 582 415 287 944 334 189 204 852 408 
+player 159 draws a 731 from deck 159
+player 159 discards a 427 to deck 160
+player 159 current hand : 205 841 886 241 60 634 572 793 599 159 582 415 287 944 334 189 204 852 408 731 
+player 159 draws a 924 from deck 159
+player 159 discards a 205 to deck 160
+player 159 current hand : 841 886 241 60 634 572 793 599 159 582 415 287 944 334 189 204 852 408 731 924 
+player 159 draws a 554 from deck 159
+player 159 discards a 841 to deck 160
+player 159 current hand : 886 241 60 634 572 793 599 159 582 415 287 944 334 189 204 852 408 731 924 554 
+player 159 draws a 964 from deck 159
+player 159 discards a 886 to deck 160
+player 159 current hand : 241 60 634 572 793 599 159 582 415 287 944 334 189 204 852 408 731 924 554 964 
+player 159 draws a 840 from deck 159
+player 159 discards a 241 to deck 160
+player 159 current hand : 60 634 572 793 599 159 582 415 287 944 334 189 204 852 408 731 924 554 964 840 
+player 159 draws a 560 from deck 159
+player 159 discards a 60 to deck 160
+player 159 current hand : 634 572 793 599 159 582 415 287 944 334 189 204 852 408 731 924 554 964 840 560 
+player 159 draws a 177 from deck 159
+player 159 discards a 634 to deck 160
+player 159 current hand : 572 793 599 159 582 415 287 944 334 189 204 852 408 731 924 554 964 840 560 177 
+player 159 draws a 984 from deck 159
+player 159 discards a 572 to deck 160
+player 159 current hand : 793 599 159 582 415 287 944 334 189 204 852 408 731 924 554 964 840 560 177 984 
+player 159 draws a 144 from deck 159
+player 159 discards a 793 to deck 160
+player 159 current hand : 599 159 582 415 287 944 334 189 204 852 408 731 924 554 964 840 560 177 984 144 
+player 159 draws a 44 from deck 159
+player 159 discards a 599 to deck 160
+player 159 current hand : 159 582 415 287 944 334 189 204 852 408 731 924 554 964 840 560 177 984 144 44 
+player 159 draws a 124 from deck 159
+player 159 discards a 582 to deck 160
+player 159 current hand : 159 415 287 944 334 189 204 852 408 731 924 554 964 840 560 177 984 144 44 124 
+player 159 draws a 219 from deck 159
+player 159 discards a 415 to deck 160
+player 159 current hand : 159 287 944 334 189 204 852 408 731 924 554 964 840 560 177 984 144 44 124 219 
+player 159 draws a 972 from deck 159
+player 159 discards a 287 to deck 160
+player 159 current hand : 159 944 334 189 204 852 408 731 924 554 964 840 560 177 984 144 44 124 219 972 
+player 159 draws a 661 from deck 159
+player 159 discards a 944 to deck 160
+player 159 current hand : 159 334 189 204 852 408 731 924 554 964 840 560 177 984 144 44 124 219 972 661 
+player 159 draws a 562 from deck 159
+player 159 discards a 334 to deck 160
+player 159 current hand : 159 189 204 852 408 731 924 554 964 840 560 177 984 144 44 124 219 972 661 562 
+player 159 draws a 415 from deck 159
+player 159 discards a 189 to deck 160
+player 159 current hand : 159 204 852 408 731 924 554 964 840 560 177 984 144 44 124 219 972 661 562 415 
+player 159 draws a 658 from deck 159
+player 159 discards a 204 to deck 160
+player 159 current hand : 159 852 408 731 924 554 964 840 560 177 984 144 44 124 219 972 661 562 415 658 
+player 159 draws a 977 from deck 159
+player 159 discards a 852 to deck 160
+player 159 current hand : 159 408 731 924 554 964 840 560 177 984 144 44 124 219 972 661 562 415 658 977 
+player 159 draws a 957 from deck 159
+player 159 discards a 408 to deck 160
+player 159 current hand : 159 731 924 554 964 840 560 177 984 144 44 124 219 972 661 562 415 658 977 957 
+player 159 draws a 508 from deck 159
+player 159 discards a 731 to deck 160
+player 159 current hand : 159 924 554 964 840 560 177 984 144 44 124 219 972 661 562 415 658 977 957 508 
+player 159 draws a 645 from deck 159
+player 159 discards a 924 to deck 160
+player 159 current hand : 159 554 964 840 560 177 984 144 44 124 219 972 661 562 415 658 977 957 508 645 
+player 159 draws a 283 from deck 159
+player 159 discards a 554 to deck 160
+player 159 current hand : 159 964 840 560 177 984 144 44 124 219 972 661 562 415 658 977 957 508 645 283 
+player 159 draws a 578 from deck 159
+player 159 discards a 964 to deck 160
+player 159 current hand : 159 840 560 177 984 144 44 124 219 972 661 562 415 658 977 957 508 645 283 578 
+player 159 draws a 633 from deck 159
+player 159 discards a 840 to deck 160
+player 159 current hand : 159 560 177 984 144 44 124 219 972 661 562 415 658 977 957 508 645 283 578 633 
+player 159 draws a 774 from deck 159
+player 159 discards a 560 to deck 160
+player 159 current hand : 159 177 984 144 44 124 219 972 661 562 415 658 977 957 508 645 283 578 633 774 
+player 159 draws a 456 from deck 159
+player 159 discards a 177 to deck 160
+player 159 current hand : 159 984 144 44 124 219 972 661 562 415 658 977 957 508 645 283 578 633 774 456 
+player 159 draws a 120 from deck 159
+player 159 discards a 984 to deck 160
+player 159 current hand : 159 144 44 124 219 972 661 562 415 658 977 957 508 645 283 578 633 774 456 120 
+player 159 draws a 514 from deck 159
+player 159 discards a 144 to deck 160
+player 159 current hand : 159 44 124 219 972 661 562 415 658 977 957 508 645 283 578 633 774 456 120 514 
+player 159 draws a 171 from deck 159
+player 159 discards a 44 to deck 160
+player 159 current hand : 159 124 219 972 661 562 415 658 977 957 508 645 283 578 633 774 456 120 514 171 
+player 159 draws a 480 from deck 159
+player 159 discards a 124 to deck 160
+player 159 current hand : 159 219 972 661 562 415 658 977 957 508 645 283 578 633 774 456 120 514 171 480 
+player 159 draws a 939 from deck 159
+player 159 discards a 219 to deck 160
+player 159 current hand : 159 972 661 562 415 658 977 957 508 645 283 578 633 774 456 120 514 171 480 939 
+player 159 draws a 115 from deck 159
+player 159 discards a 972 to deck 160
+player 159 current hand : 159 661 562 415 658 977 957 508 645 283 578 633 774 456 120 514 171 480 939 115 
+player 159 draws a 947 from deck 159
+player 159 discards a 661 to deck 160
+player 159 current hand : 159 562 415 658 977 957 508 645 283 578 633 774 456 120 514 171 480 939 115 947 
+player 159 draws a 17 from deck 159
+player 159 discards a 562 to deck 160
+player 159 current hand : 159 415 658 977 957 508 645 283 578 633 774 456 120 514 171 480 939 115 947 17 
+player 159 draws a 294 from deck 159
+player 159 discards a 415 to deck 160
+player 159 current hand : 159 658 977 957 508 645 283 578 633 774 456 120 514 171 480 939 115 947 17 294 
+player 159 draws a 758 from deck 159
+player 159 discards a 658 to deck 160
+player 159 current hand : 159 977 957 508 645 283 578 633 774 456 120 514 171 480 939 115 947 17 294 758 
+player 159 draws a 475 from deck 159
+player 159 discards a 977 to deck 160
+player 159 current hand : 159 957 508 645 283 578 633 774 456 120 514 171 480 939 115 947 17 294 758 475 
+player 159 draws a 640 from deck 159
+player 159 discards a 957 to deck 160
+player 159 current hand : 159 508 645 283 578 633 774 456 120 514 171 480 939 115 947 17 294 758 475 640 
+player 159 draws a 304 from deck 159
+player 159 discards a 508 to deck 160
+player 159 current hand : 159 645 283 578 633 774 456 120 514 171 480 939 115 947 17 294 758 475 640 304 
+player 159 draws a 668 from deck 159
+player 159 discards a 645 to deck 160
+player 159 current hand : 159 283 578 633 774 456 120 514 171 480 939 115 947 17 294 758 475 640 304 668 
+player 159 draws a 204 from deck 159
+player 159 discards a 283 to deck 160
+player 159 current hand : 159 578 633 774 456 120 514 171 480 939 115 947 17 294 758 475 640 304 668 204 
+player 159 draws a 785 from deck 159
+player 159 discards a 578 to deck 160
+player 159 current hand : 159 633 774 456 120 514 171 480 939 115 947 17 294 758 475 640 304 668 204 785 
+player 159 draws a 442 from deck 159
+player 159 discards a 633 to deck 160
+player 159 current hand : 159 774 456 120 514 171 480 939 115 947 17 294 758 475 640 304 668 204 785 442 
+player 159 draws a 925 from deck 159
+player 159 discards a 774 to deck 160
+player 159 current hand : 159 456 120 514 171 480 939 115 947 17 294 758 475 640 304 668 204 785 442 925 
+player 159 draws a 666 from deck 159
+player 159 discards a 456 to deck 160
+player 159 current hand : 159 120 514 171 480 939 115 947 17 294 758 475 640 304 668 204 785 442 925 666 
+player 159 draws a 5 from deck 159
+player 159 discards a 120 to deck 160
+player 159 current hand : 159 514 171 480 939 115 947 17 294 758 475 640 304 668 204 785 442 925 666 5 
+player 159 draws a 996 from deck 159
+player 159 discards a 514 to deck 160
+player 159 current hand : 159 171 480 939 115 947 17 294 758 475 640 304 668 204 785 442 925 666 5 996 
+player 159 draws a 1 from deck 159
+player 159 discards a 171 to deck 160
+player 159 current hand : 159 480 939 115 947 17 294 758 475 640 304 668 204 785 442 925 666 5 996 1 
+player 159 draws a 715 from deck 159
+player 159 discards a 480 to deck 160
+player 159 current hand : 159 939 115 947 17 294 758 475 640 304 668 204 785 442 925 666 5 996 1 715 
+player 159 draws a 589 from deck 159
+player 159 discards a 939 to deck 160
+player 159 current hand : 159 115 947 17 294 758 475 640 304 668 204 785 442 925 666 5 996 1 715 589 
+player 159 draws a 470 from deck 159
+player 159 discards a 115 to deck 160
+player 159 current hand : 159 947 17 294 758 475 640 304 668 204 785 442 925 666 5 996 1 715 589 470 
+player 159 draws a 159 from deck 159
+player 159 discards a 947 to deck 160
+player 159 current hand : 159 17 294 758 475 640 304 668 204 785 442 925 666 5 996 1 715 589 470 159 
+player 159 draws a 630 from deck 159
+player 159 discards a 17 to deck 160
+player 159 current hand : 159 294 758 475 640 304 668 204 785 442 925 666 5 996 1 715 589 470 159 630 
+player 159 draws a 224 from deck 159
+player 159 discards a 294 to deck 160
+player 159 current hand : 159 758 475 640 304 668 204 785 442 925 666 5 996 1 715 589 470 159 630 224 
+player 159 draws a 732 from deck 159
+player 159 discards a 758 to deck 160
+player 159 current hand : 159 475 640 304 668 204 785 442 925 666 5 996 1 715 589 470 159 630 224 732 
+player 159 draws a 542 from deck 159
+player 159 discards a 475 to deck 160
+player 159 current hand : 159 640 304 668 204 785 442 925 666 5 996 1 715 589 470 159 630 224 732 542 
+player 159 draws a 787 from deck 159
+player 159 discards a 640 to deck 160
+player 159 current hand : 159 304 668 204 785 442 925 666 5 996 1 715 589 470 159 630 224 732 542 787 
+player 159 draws a 365 from deck 159
+player 159 discards a 304 to deck 160
+player 159 current hand : 159 668 204 785 442 925 666 5 996 1 715 589 470 159 630 224 732 542 787 365 
+player 159 draws a 603 from deck 159
+player 159 discards a 668 to deck 160
+player 159 current hand : 159 204 785 442 925 666 5 996 1 715 589 470 159 630 224 732 542 787 365 603 
+player 159 draws a 204 from deck 159
+player 159 discards a 204 to deck 160
+player 159 current hand : 159 785 442 925 666 5 996 1 715 589 470 159 630 224 732 542 787 365 603 204 
+player 159 draws a 690 from deck 159
+player 159 discards a 785 to deck 160
+player 159 current hand : 159 442 925 666 5 996 1 715 589 470 159 630 224 732 542 787 365 603 204 690 
+player 159 draws a 349 from deck 159
+player 159 discards a 442 to deck 160
+player 159 current hand : 159 925 666 5 996 1 715 589 470 159 630 224 732 542 787 365 603 204 690 349 
+player 159 draws a 2 from deck 159
+player 159 discards a 925 to deck 160
+player 159 current hand : 159 666 5 996 1 715 589 470 159 630 224 732 542 787 365 603 204 690 349 2 
+player 159 draws a 714 from deck 159
+player 159 discards a 666 to deck 160
+player 159 current hand : 159 5 996 1 715 589 470 159 630 224 732 542 787 365 603 204 690 349 2 714 
+player 159 draws a 633 from deck 159
+player 159 discards a 5 to deck 160
+player 159 current hand : 159 996 1 715 589 470 159 630 224 732 542 787 365 603 204 690 349 2 714 633 
+player 159 draws a 925 from deck 159
+player 159 discards a 996 to deck 160
+player 159 current hand : 159 1 715 589 470 159 630 224 732 542 787 365 603 204 690 349 2 714 633 925 
+player 159 draws a 861 from deck 159
+player 159 discards a 1 to deck 160
+player 159 current hand : 159 715 589 470 159 630 224 732 542 787 365 603 204 690 349 2 714 633 925 861 
+player 159 draws a 62 from deck 159
+player 159 discards a 715 to deck 160
+player 159 current hand : 159 589 470 159 630 224 732 542 787 365 603 204 690 349 2 714 633 925 861 62 
+player 159 draws a 722 from deck 159
+player 159 discards a 589 to deck 160
+player 159 current hand : 159 470 159 630 224 732 542 787 365 603 204 690 349 2 714 633 925 861 62 722 
+player 159 draws a 226 from deck 159
+player 159 discards a 470 to deck 160
+player 159 current hand : 159 159 630 224 732 542 787 365 603 204 690 349 2 714 633 925 861 62 722 226 
+player 159 draws a 124 from deck 159
+player 159 discards a 630 to deck 160
+player 159 current hand : 159 159 224 732 542 787 365 603 204 690 349 2 714 633 925 861 62 722 226 124 
+player 159 draws a 396 from deck 159
+player 159 discards a 224 to deck 160
+player 159 current hand : 159 159 732 542 787 365 603 204 690 349 2 714 633 925 861 62 722 226 124 396 
+player 159 draws a 238 from deck 159
+player 159 discards a 732 to deck 160
+player 159 current hand : 159 159 542 787 365 603 204 690 349 2 714 633 925 861 62 722 226 124 396 238 
+player 159 draws a 138 from deck 159
+player 159 discards a 542 to deck 160
+player 159 current hand : 159 159 787 365 603 204 690 349 2 714 633 925 861 62 722 226 124 396 238 138 
+player 159 draws a 984 from deck 159
+player 159 discards a 787 to deck 160
+player 159 current hand : 159 159 365 603 204 690 349 2 714 633 925 861 62 722 226 124 396 238 138 984 
+player 159 draws a 103 from deck 159
+player 159 discards a 365 to deck 160
+player 159 current hand : 159 159 603 204 690 349 2 714 633 925 861 62 722 226 124 396 238 138 984 103 
+player 159 draws a 429 from deck 159
+player 159 discards a 603 to deck 160
+player 159 current hand : 159 159 204 690 349 2 714 633 925 861 62 722 226 124 396 238 138 984 103 429 
+player 159 draws a 650 from deck 159
+player 159 discards a 204 to deck 160
+player 159 current hand : 159 159 690 349 2 714 633 925 861 62 722 226 124 396 238 138 984 103 429 650 
+player 159 draws a 623 from deck 159
+player 159 discards a 690 to deck 160
+player 159 current hand : 159 159 349 2 714 633 925 861 62 722 226 124 396 238 138 984 103 429 650 623 
+player 159 draws a 7 from deck 159
+player 159 discards a 349 to deck 160
+player 159 current hand : 159 159 2 714 633 925 861 62 722 226 124 396 238 138 984 103 429 650 623 7 
+player 159 draws a 513 from deck 159
+player 159 discards a 2 to deck 160
+player 159 current hand : 159 159 714 633 925 861 62 722 226 124 396 238 138 984 103 429 650 623 7 513 
+player 159 draws a 587 from deck 159
+player 159 discards a 714 to deck 160
+player 159 current hand : 159 159 633 925 861 62 722 226 124 396 238 138 984 103 429 650 623 7 513 587 
+player 159 draws a 604 from deck 159
+player 159 discards a 633 to deck 160
+player 159 current hand : 159 159 925 861 62 722 226 124 396 238 138 984 103 429 650 623 7 513 587 604 
+player 159 draws a 438 from deck 159
+player 159 discards a 925 to deck 160
+player 159 current hand : 159 159 861 62 722 226 124 396 238 138 984 103 429 650 623 7 513 587 604 438 
+player 159 draws a 560 from deck 159
+player 159 discards a 861 to deck 160
+player 159 current hand : 159 159 62 722 226 124 396 238 138 984 103 429 650 623 7 513 587 604 438 560 
+player 159 draws a 473 from deck 159
+player 159 discards a 62 to deck 160
+player 159 current hand : 159 159 722 226 124 396 238 138 984 103 429 650 623 7 513 587 604 438 560 473 
+player 159 draws a 983 from deck 159
+player 159 discards a 722 to deck 160
+player 159 current hand : 159 159 226 124 396 238 138 984 103 429 650 623 7 513 587 604 438 560 473 983 
+player 159 draws a 605 from deck 159
+player 159 discards a 226 to deck 160
+player 159 current hand : 159 159 124 396 238 138 984 103 429 650 623 7 513 587 604 438 560 473 983 605 
+player 159 draws a 635 from deck 159
+player 159 discards a 124 to deck 160
+player 159 current hand : 159 159 396 238 138 984 103 429 650 623 7 513 587 604 438 560 473 983 605 635 
+player 159 draws a 762 from deck 159
+player 159 discards a 396 to deck 160
+player 159 current hand : 159 159 238 138 984 103 429 650 623 7 513 587 604 438 560 473 983 605 635 762 
+player 159 draws a 299 from deck 159
+player 159 discards a 238 to deck 160
+player 159 current hand : 159 159 138 984 103 429 650 623 7 513 587 604 438 560 473 983 605 635 762 299 
+player 159 draws a 126 from deck 159
+player 159 discards a 138 to deck 160
+player 159 current hand : 159 159 984 103 429 650 623 7 513 587 604 438 560 473 983 605 635 762 299 126 
+player 159 draws a 351 from deck 159
+player 159 discards a 984 to deck 160
+player 159 current hand : 159 159 103 429 650 623 7 513 587 604 438 560 473 983 605 635 762 299 126 351 
+player 159 draws a 764 from deck 159
+player 159 discards a 103 to deck 160
+player 159 current hand : 159 159 429 650 623 7 513 587 604 438 560 473 983 605 635 762 299 126 351 764 
+player 159 draws a 894 from deck 159
+player 159 discards a 429 to deck 160
+player 159 current hand : 159 159 650 623 7 513 587 604 438 560 473 983 605 635 762 299 126 351 764 894 
+player 159 draws a 350 from deck 159
+player 159 discards a 650 to deck 160
+player 159 current hand : 159 159 623 7 513 587 604 438 560 473 983 605 635 762 299 126 351 764 894 350 
+player 159 draws a 719 from deck 159
+player 159 discards a 623 to deck 160
+player 159 current hand : 159 159 7 513 587 604 438 560 473 983 605 635 762 299 126 351 764 894 350 719 
+player 159 draws a 218 from deck 159
+player 159 discards a 7 to deck 160
+player 159 current hand : 159 159 513 587 604 438 560 473 983 605 635 762 299 126 351 764 894 350 719 218 
+player 159 draws a 870 from deck 159
+player 159 discards a 513 to deck 160
+player 159 current hand : 159 159 587 604 438 560 473 983 605 635 762 299 126 351 764 894 350 719 218 870 
+player 159 draws a 778 from deck 159
+player 159 discards a 587 to deck 160
+player 159 current hand : 159 159 604 438 560 473 983 605 635 762 299 126 351 764 894 350 719 218 870 778 
+player 159 draws a 666 from deck 159
+player 159 discards a 604 to deck 160
+player 159 current hand : 159 159 438 560 473 983 605 635 762 299 126 351 764 894 350 719 218 870 778 666 
+player 159 draws a 310 from deck 159
+player 159 discards a 438 to deck 160

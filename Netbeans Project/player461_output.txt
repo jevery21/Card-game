@@ -1,0 +1,315 @@
+player 461 initial hand 160 586 27 415 524 516 475 496 95 951 608 176 342 747 550 185 773 111 38 944 
+player 461 draws a 534 from deck 461
+player 461 discards a 160 to deck 462
+player 461 current hand : 586 27 415 524 516 475 496 95 951 608 176 342 747 550 185 773 111 38 944 534 
+player 461 draws a 246 from deck 461
+player 461 discards a 586 to deck 462
+player 461 current hand : 27 415 524 516 475 496 95 951 608 176 342 747 550 185 773 111 38 944 534 246 
+player 461 draws a 130 from deck 461
+player 461 discards a 27 to deck 462
+player 461 current hand : 415 524 516 475 496 95 951 608 176 342 747 550 185 773 111 38 944 534 246 130 
+player 461 draws a 460 from deck 461
+player 461 discards a 415 to deck 462
+player 461 current hand : 524 516 475 496 95 951 608 176 342 747 550 185 773 111 38 944 534 246 130 460 
+player 461 draws a 157 from deck 461
+player 461 discards a 524 to deck 462
+player 461 current hand : 516 475 496 95 951 608 176 342 747 550 185 773 111 38 944 534 246 130 460 157 
+player 461 draws a 964 from deck 461
+player 461 discards a 516 to deck 462
+player 461 current hand : 475 496 95 951 608 176 342 747 550 185 773 111 38 944 534 246 130 460 157 964 
+player 461 draws a 81 from deck 461
+player 461 discards a 475 to deck 462
+player 461 current hand : 496 95 951 608 176 342 747 550 185 773 111 38 944 534 246 130 460 157 964 81 
+player 461 draws a 129 from deck 461
+player 461 discards a 496 to deck 462
+player 461 current hand : 95 951 608 176 342 747 550 185 773 111 38 944 534 246 130 460 157 964 81 129 
+player 461 draws a 578 from deck 461
+player 461 discards a 95 to deck 462
+player 461 current hand : 951 608 176 342 747 550 185 773 111 38 944 534 246 130 460 157 964 81 129 578 
+player 461 draws a 103 from deck 461
+player 461 discards a 951 to deck 462
+player 461 current hand : 608 176 342 747 550 185 773 111 38 944 534 246 130 460 157 964 81 129 578 103 
+player 461 draws a 887 from deck 461
+player 461 discards a 608 to deck 462
+player 461 current hand : 176 342 747 550 185 773 111 38 944 534 246 130 460 157 964 81 129 578 103 887 
+player 461 draws a 45 from deck 461
+player 461 discards a 176 to deck 462
+player 461 current hand : 342 747 550 185 773 111 38 944 534 246 130 460 157 964 81 129 578 103 887 45 
+player 461 draws a 870 from deck 461
+player 461 discards a 342 to deck 462
+player 461 current hand : 747 550 185 773 111 38 944 534 246 130 460 157 964 81 129 578 103 887 45 870 
+player 461 draws a 220 from deck 461
+player 461 discards a 747 to deck 462
+player 461 current hand : 550 185 773 111 38 944 534 246 130 460 157 964 81 129 578 103 887 45 870 220 
+player 461 draws a 618 from deck 461
+player 461 discards a 550 to deck 462
+player 461 current hand : 185 773 111 38 944 534 246 130 460 157 964 81 129 578 103 887 45 870 220 618 
+player 461 draws a 723 from deck 461
+player 461 discards a 185 to deck 462
+player 461 current hand : 773 111 38 944 534 246 130 460 157 964 81 129 578 103 887 45 870 220 618 723 
+player 461 draws a 786 from deck 461
+player 461 discards a 773 to deck 462
+player 461 current hand : 111 38 944 534 246 130 460 157 964 81 129 578 103 887 45 870 220 618 723 786 
+player 461 draws a 508 from deck 461
+player 461 discards a 111 to deck 462
+player 461 current hand : 38 944 534 246 130 460 157 964 81 129 578 103 887 45 870 220 618 723 786 508 
+player 461 draws a 827 from deck 461
+player 461 discards a 38 to deck 462
+player 461 current hand : 944 534 246 130 460 157 964 81 129 578 103 887 45 870 220 618 723 786 508 827 
+player 461 draws a 691 from deck 461
+player 461 discards a 944 to deck 462
+player 461 current hand : 534 246 130 460 157 964 81 129 578 103 887 45 870 220 618 723 786 508 827 691 
+player 461 draws a 741 from deck 461
+player 461 discards a 534 to deck 462
+player 461 current hand : 246 130 460 157 964 81 129 578 103 887 45 870 220 618 723 786 508 827 691 741 
+player 461 draws a 231 from deck 461
+player 461 discards a 246 to deck 462
+player 461 current hand : 130 460 157 964 81 129 578 103 887 45 870 220 618 723 786 508 827 691 741 231 
+player 461 draws a 898 from deck 461
+player 461 discards a 130 to deck 462
+player 461 current hand : 460 157 964 81 129 578 103 887 45 870 220 618 723 786 508 827 691 741 231 898 
+player 461 draws a 868 from deck 461
+player 461 discards a 460 to deck 462
+player 461 current hand : 157 964 81 129 578 103 887 45 870 220 618 723 786 508 827 691 741 231 898 868 
+player 461 draws a 29 from deck 461
+player 461 discards a 157 to deck 462
+player 461 current hand : 964 81 129 578 103 887 45 870 220 618 723 786 508 827 691 741 231 898 868 29 
+player 461 draws a 153 from deck 461
+player 461 discards a 964 to deck 462
+player 461 current hand : 81 129 578 103 887 45 870 220 618 723 786 508 827 691 741 231 898 868 29 153 
+player 461 draws a 402 from deck 461
+player 461 discards a 81 to deck 462
+player 461 current hand : 129 578 103 887 45 870 220 618 723 786 508 827 691 741 231 898 868 29 153 402 
+player 461 draws a 176 from deck 461
+player 461 discards a 129 to deck 462
+player 461 current hand : 578 103 887 45 870 220 618 723 786 508 827 691 741 231 898 868 29 153 402 176 
+player 461 draws a 226 from deck 461
+player 461 discards a 578 to deck 462
+player 461 current hand : 103 887 45 870 220 618 723 786 508 827 691 741 231 898 868 29 153 402 176 226 
+player 461 draws a 739 from deck 461
+player 461 discards a 103 to deck 462
+player 461 current hand : 887 45 870 220 618 723 786 508 827 691 741 231 898 868 29 153 402 176 226 739 
+player 461 draws a 160 from deck 461
+player 461 discards a 887 to deck 462
+player 461 current hand : 45 870 220 618 723 786 508 827 691 741 231 898 868 29 153 402 176 226 739 160 
+player 461 draws a 431 from deck 461
+player 461 discards a 45 to deck 462
+player 461 current hand : 870 220 618 723 786 508 827 691 741 231 898 868 29 153 402 176 226 739 160 431 
+player 461 draws a 554 from deck 461
+player 461 discards a 870 to deck 462
+player 461 current hand : 220 618 723 786 508 827 691 741 231 898 868 29 153 402 176 226 739 160 431 554 
+player 461 draws a 74 from deck 461
+player 461 discards a 220 to deck 462
+player 461 current hand : 618 723 786 508 827 691 741 231 898 868 29 153 402 176 226 739 160 431 554 74 
+player 461 draws a 138 from deck 461
+player 461 discards a 618 to deck 462
+player 461 current hand : 723 786 508 827 691 741 231 898 868 29 153 402 176 226 739 160 431 554 74 138 
+player 461 draws a 737 from deck 461
+player 461 discards a 723 to deck 462
+player 461 current hand : 786 508 827 691 741 231 898 868 29 153 402 176 226 739 160 431 554 74 138 737 
+player 461 draws a 939 from deck 461
+player 461 discards a 786 to deck 462
+player 461 current hand : 508 827 691 741 231 898 868 29 153 402 176 226 739 160 431 554 74 138 737 939 
+player 461 draws a 879 from deck 461
+player 461 discards a 508 to deck 462
+player 461 current hand : 827 691 741 231 898 868 29 153 402 176 226 739 160 431 554 74 138 737 939 879 
+player 461 draws a 434 from deck 461
+player 461 discards a 827 to deck 462
+player 461 current hand : 691 741 231 898 868 29 153 402 176 226 739 160 431 554 74 138 737 939 879 434 
+player 461 draws a 370 from deck 461
+player 461 discards a 691 to deck 462
+player 461 current hand : 741 231 898 868 29 153 402 176 226 739 160 431 554 74 138 737 939 879 434 370 
+player 461 draws a 885 from deck 461
+player 461 discards a 741 to deck 462
+player 461 current hand : 231 898 868 29 153 402 176 226 739 160 431 554 74 138 737 939 879 434 370 885 
+player 461 draws a 595 from deck 461
+player 461 discards a 231 to deck 462
+player 461 current hand : 898 868 29 153 402 176 226 739 160 431 554 74 138 737 939 879 434 370 885 595 
+player 461 draws a 376 from deck 461
+player 461 discards a 898 to deck 462
+player 461 current hand : 868 29 153 402 176 226 739 160 431 554 74 138 737 939 879 434 370 885 595 376 
+player 461 draws a 65 from deck 461
+player 461 discards a 868 to deck 462
+player 461 current hand : 29 153 402 176 226 739 160 431 554 74 138 737 939 879 434 370 885 595 376 65 
+player 461 draws a 151 from deck 461
+player 461 discards a 29 to deck 462
+player 461 current hand : 153 402 176 226 739 160 431 554 74 138 737 939 879 434 370 885 595 376 65 151 
+player 461 draws a 222 from deck 461
+player 461 discards a 153 to deck 462
+player 461 current hand : 402 176 226 739 160 431 554 74 138 737 939 879 434 370 885 595 376 65 151 222 
+player 461 draws a 869 from deck 461
+player 461 discards a 402 to deck 462
+player 461 current hand : 176 226 739 160 431 554 74 138 737 939 879 434 370 885 595 376 65 151 222 869 
+player 461 draws a 350 from deck 461
+player 461 discards a 176 to deck 462
+player 461 current hand : 226 739 160 431 554 74 138 737 939 879 434 370 885 595 376 65 151 222 869 350 
+player 461 draws a 25 from deck 461
+player 461 discards a 226 to deck 462
+player 461 current hand : 739 160 431 554 74 138 737 939 879 434 370 885 595 376 65 151 222 869 350 25 
+player 461 draws a 164 from deck 461
+player 461 discards a 739 to deck 462
+player 461 current hand : 160 431 554 74 138 737 939 879 434 370 885 595 376 65 151 222 869 350 25 164 
+player 461 draws a 177 from deck 461
+player 461 discards a 160 to deck 462
+player 461 current hand : 431 554 74 138 737 939 879 434 370 885 595 376 65 151 222 869 350 25 164 177 
+player 461 draws a 267 from deck 461
+player 461 discards a 431 to deck 462
+player 461 current hand : 554 74 138 737 939 879 434 370 885 595 376 65 151 222 869 350 25 164 177 267 
+player 461 draws a 683 from deck 461
+player 461 discards a 554 to deck 462
+player 461 current hand : 74 138 737 939 879 434 370 885 595 376 65 151 222 869 350 25 164 177 267 683 
+player 461 draws a 768 from deck 461
+player 461 discards a 74 to deck 462
+player 461 current hand : 138 737 939 879 434 370 885 595 376 65 151 222 869 350 25 164 177 267 683 768 
+player 461 draws a 552 from deck 461
+player 461 discards a 138 to deck 462
+player 461 current hand : 737 939 879 434 370 885 595 376 65 151 222 869 350 25 164 177 267 683 768 552 
+player 461 draws a 219 from deck 461
+player 461 discards a 737 to deck 462
+player 461 current hand : 939 879 434 370 885 595 376 65 151 222 869 350 25 164 177 267 683 768 552 219 
+player 461 draws a 924 from deck 461
+player 461 discards a 939 to deck 462
+player 461 current hand : 879 434 370 885 595 376 65 151 222 869 350 25 164 177 267 683 768 552 219 924 
+player 461 draws a 941 from deck 461
+player 461 discards a 879 to deck 462
+player 461 current hand : 434 370 885 595 376 65 151 222 869 350 25 164 177 267 683 768 552 219 924 941 
+player 461 draws a 168 from deck 461
+player 461 discards a 434 to deck 462
+player 461 current hand : 370 885 595 376 65 151 222 869 350 25 164 177 267 683 768 552 219 924 941 168 
+player 461 draws a 4 from deck 461
+player 461 discards a 370 to deck 462
+player 461 current hand : 885 595 376 65 151 222 869 350 25 164 177 267 683 768 552 219 924 941 168 4 
+player 461 draws a 188 from deck 461
+player 461 discards a 885 to deck 462
+player 461 current hand : 595 376 65 151 222 869 350 25 164 177 267 683 768 552 219 924 941 168 4 188 
+player 461 draws a 161 from deck 461
+player 461 discards a 595 to deck 462
+player 461 current hand : 376 65 151 222 869 350 25 164 177 267 683 768 552 219 924 941 168 4 188 161 
+player 461 draws a 463 from deck 461
+player 461 discards a 376 to deck 462
+player 461 current hand : 65 151 222 869 350 25 164 177 267 683 768 552 219 924 941 168 4 188 161 463 
+player 461 draws a 740 from deck 461
+player 461 discards a 65 to deck 462
+player 461 current hand : 151 222 869 350 25 164 177 267 683 768 552 219 924 941 168 4 188 161 463 740 
+player 461 draws a 54 from deck 461
+player 461 discards a 151 to deck 462
+player 461 current hand : 222 869 350 25 164 177 267 683 768 552 219 924 941 168 4 188 161 463 740 54 
+player 461 draws a 15 from deck 461
+player 461 discards a 222 to deck 462
+player 461 current hand : 869 350 25 164 177 267 683 768 552 219 924 941 168 4 188 161 463 740 54 15 
+player 461 draws a 194 from deck 461
+player 461 discards a 869 to deck 462
+player 461 current hand : 350 25 164 177 267 683 768 552 219 924 941 168 4 188 161 463 740 54 15 194 
+player 461 draws a 113 from deck 461
+player 461 discards a 350 to deck 462
+player 461 current hand : 25 164 177 267 683 768 552 219 924 941 168 4 188 161 463 740 54 15 194 113 
+player 461 draws a 84 from deck 461
+player 461 discards a 25 to deck 462
+player 461 current hand : 164 177 267 683 768 552 219 924 941 168 4 188 161 463 740 54 15 194 113 84 
+player 461 draws a 957 from deck 461
+player 461 discards a 164 to deck 462
+player 461 current hand : 177 267 683 768 552 219 924 941 168 4 188 161 463 740 54 15 194 113 84 957 
+player 461 draws a 474 from deck 461
+player 461 discards a 177 to deck 462
+player 461 current hand : 267 683 768 552 219 924 941 168 4 188 161 463 740 54 15 194 113 84 957 474 
+player 461 draws a 245 from deck 461
+player 461 discards a 267 to deck 462
+player 461 current hand : 683 768 552 219 924 941 168 4 188 161 463 740 54 15 194 113 84 957 474 245 
+player 461 draws a 168 from deck 461
+player 461 discards a 683 to deck 462
+player 461 current hand : 768 552 219 924 941 168 4 188 161 463 740 54 15 194 113 84 957 474 245 168 
+player 461 draws a 568 from deck 461
+player 461 discards a 768 to deck 462
+player 461 current hand : 552 219 924 941 168 4 188 161 463 740 54 15 194 113 84 957 474 245 168 568 
+player 461 draws a 296 from deck 461
+player 461 discards a 552 to deck 462
+player 461 current hand : 219 924 941 168 4 188 161 463 740 54 15 194 113 84 957 474 245 168 568 296 
+player 461 draws a 1000 from deck 461
+player 461 discards a 219 to deck 462
+player 461 current hand : 924 941 168 4 188 161 463 740 54 15 194 113 84 957 474 245 168 568 296 1000 
+player 461 draws a 766 from deck 461
+player 461 discards a 924 to deck 462
+player 461 current hand : 941 168 4 188 161 463 740 54 15 194 113 84 957 474 245 168 568 296 1000 766 
+player 461 draws a 143 from deck 461
+player 461 discards a 941 to deck 462
+player 461 current hand : 168 4 188 161 463 740 54 15 194 113 84 957 474 245 168 568 296 1000 766 143 
+player 461 draws a 844 from deck 461
+player 461 discards a 168 to deck 462
+player 461 current hand : 4 188 161 463 740 54 15 194 113 84 957 474 245 168 568 296 1000 766 143 844 
+player 461 draws a 258 from deck 461
+player 461 discards a 4 to deck 462
+player 461 current hand : 188 161 463 740 54 15 194 113 84 957 474 245 168 568 296 1000 766 143 844 258 
+player 461 draws a 516 from deck 461
+player 461 discards a 188 to deck 462
+player 461 current hand : 161 463 740 54 15 194 113 84 957 474 245 168 568 296 1000 766 143 844 258 516 
+player 461 draws a 330 from deck 461
+player 461 discards a 161 to deck 462
+player 461 current hand : 463 740 54 15 194 113 84 957 474 245 168 568 296 1000 766 143 844 258 516 330 
+player 461 draws a 255 from deck 461
+player 461 discards a 463 to deck 462
+player 461 current hand : 740 54 15 194 113 84 957 474 245 168 568 296 1000 766 143 844 258 516 330 255 
+player 461 draws a 363 from deck 461
+player 461 discards a 740 to deck 462
+player 461 current hand : 54 15 194 113 84 957 474 245 168 568 296 1000 766 143 844 258 516 330 255 363 
+player 461 draws a 319 from deck 461
+player 461 discards a 54 to deck 462
+player 461 current hand : 15 194 113 84 957 474 245 168 568 296 1000 766 143 844 258 516 330 255 363 319 
+player 461 draws a 415 from deck 461
+player 461 discards a 15 to deck 462
+player 461 current hand : 194 113 84 957 474 245 168 568 296 1000 766 143 844 258 516 330 255 363 319 415 
+player 461 draws a 424 from deck 461
+player 461 discards a 194 to deck 462
+player 461 current hand : 113 84 957 474 245 168 568 296 1000 766 143 844 258 516 330 255 363 319 415 424 
+player 461 draws a 438 from deck 461
+player 461 discards a 113 to deck 462
+player 461 current hand : 84 957 474 245 168 568 296 1000 766 143 844 258 516 330 255 363 319 415 424 438 
+player 461 draws a 952 from deck 461
+player 461 discards a 84 to deck 462
+player 461 current hand : 957 474 245 168 568 296 1000 766 143 844 258 516 330 255 363 319 415 424 438 952 
+player 461 draws a 482 from deck 461
+player 461 discards a 957 to deck 462
+player 461 current hand : 474 245 168 568 296 1000 766 143 844 258 516 330 255 363 319 415 424 438 952 482 
+player 461 draws a 110 from deck 461
+player 461 discards a 474 to deck 462
+player 461 current hand : 245 168 568 296 1000 766 143 844 258 516 330 255 363 319 415 424 438 952 482 110 
+player 461 draws a 822 from deck 461
+player 461 discards a 245 to deck 462
+player 461 current hand : 168 568 296 1000 766 143 844 258 516 330 255 363 319 415 424 438 952 482 110 822 
+player 461 draws a 545 from deck 461
+player 461 discards a 168 to deck 462
+player 461 current hand : 568 296 1000 766 143 844 258 516 330 255 363 319 415 424 438 952 482 110 822 545 
+player 461 draws a 233 from deck 461
+player 461 discards a 568 to deck 462
+player 461 current hand : 296 1000 766 143 844 258 516 330 255 363 319 415 424 438 952 482 110 822 545 233 
+player 461 draws a 435 from deck 461
+player 461 discards a 296 to deck 462
+player 461 current hand : 1000 766 143 844 258 516 330 255 363 319 415 424 438 952 482 110 822 545 233 435 
+player 461 draws a 970 from deck 461
+player 461 discards a 1000 to deck 462
+player 461 current hand : 766 143 844 258 516 330 255 363 319 415 424 438 952 482 110 822 545 233 435 970 
+player 461 draws a 896 from deck 461
+player 461 discards a 766 to deck 462
+player 461 current hand : 143 844 258 516 330 255 363 319 415 424 438 952 482 110 822 545 233 435 970 896 
+player 461 draws a 851 from deck 461
+player 461 discards a 143 to deck 462
+player 461 current hand : 844 258 516 330 255 363 319 415 424 438 952 482 110 822 545 233 435 970 896 851 
+player 461 draws a 636 from deck 461
+player 461 discards a 844 to deck 462
+player 461 current hand : 258 516 330 255 363 319 415 424 438 952 482 110 822 545 233 435 970 896 851 636 
+player 461 draws a 23 from deck 461
+player 461 discards a 258 to deck 462
+player 461 current hand : 516 330 255 363 319 415 424 438 952 482 110 822 545 233 435 970 896 851 636 23 
+player 461 draws a 888 from deck 461
+player 461 discards a 516 to deck 462
+player 461 current hand : 330 255 363 319 415 424 438 952 482 110 822 545 233 435 970 896 851 636 23 888 
+player 461 draws a 18 from deck 461
+player 461 discards a 330 to deck 462
+player 461 current hand : 255 363 319 415 424 438 952 482 110 822 545 233 435 970 896 851 636 23 888 18 
+player 461 draws a 252 from deck 461
+player 461 discards a 255 to deck 462
+player 461 current hand : 363 319 415 424 438 952 482 110 822 545 233 435 970 896 851 636 23 888 18 252 
+player 461 draws a 325 from deck 461
+player 461 discards a 363 to deck 462
+player 461 current hand : 319 415 424 438 952 482 110 822 545 233 435 970 896 851 636 23 888 18 252 325 
+player 461 draws a 164 from deck 461
+player 461 discards a 319 to deck 462

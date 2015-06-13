@@ -1,0 +1,329 @@
+player 487 initial hand 555 984 791 116 650 954 154 100 396 22 242 980 519 497 187 994 805 664 875 38 
+player 487 draws a 360 from deck 487
+player 487 discards a 555 to deck 488
+player 487 current hand : 984 791 116 650 954 154 100 396 22 242 980 519 497 187 994 805 664 875 38 360 
+player 487 draws a 875 from deck 487
+player 487 discards a 984 to deck 488
+player 487 current hand : 791 116 650 954 154 100 396 22 242 980 519 497 187 994 805 664 875 38 360 875 
+player 487 draws a 969 from deck 487
+player 487 discards a 791 to deck 488
+player 487 current hand : 116 650 954 154 100 396 22 242 980 519 497 187 994 805 664 875 38 360 875 969 
+player 487 draws a 45 from deck 487
+player 487 discards a 116 to deck 488
+player 487 current hand : 650 954 154 100 396 22 242 980 519 497 187 994 805 664 875 38 360 875 969 45 
+player 487 draws a 878 from deck 487
+player 487 discards a 650 to deck 488
+player 487 current hand : 954 154 100 396 22 242 980 519 497 187 994 805 664 875 38 360 875 969 45 878 
+player 487 draws a 262 from deck 487
+player 487 discards a 954 to deck 488
+player 487 current hand : 154 100 396 22 242 980 519 497 187 994 805 664 875 38 360 875 969 45 878 262 
+player 487 draws a 600 from deck 487
+player 487 discards a 154 to deck 488
+player 487 current hand : 100 396 22 242 980 519 497 187 994 805 664 875 38 360 875 969 45 878 262 600 
+player 487 draws a 696 from deck 487
+player 487 discards a 100 to deck 488
+player 487 current hand : 396 22 242 980 519 497 187 994 805 664 875 38 360 875 969 45 878 262 600 696 
+player 487 draws a 633 from deck 487
+player 487 discards a 396 to deck 488
+player 487 current hand : 22 242 980 519 497 187 994 805 664 875 38 360 875 969 45 878 262 600 696 633 
+player 487 draws a 699 from deck 487
+player 487 discards a 22 to deck 488
+player 487 current hand : 242 980 519 497 187 994 805 664 875 38 360 875 969 45 878 262 600 696 633 699 
+player 487 draws a 627 from deck 487
+player 487 discards a 242 to deck 488
+player 487 current hand : 980 519 497 187 994 805 664 875 38 360 875 969 45 878 262 600 696 633 699 627 
+player 487 draws a 508 from deck 487
+player 487 discards a 980 to deck 488
+player 487 current hand : 519 497 187 994 805 664 875 38 360 875 969 45 878 262 600 696 633 699 627 508 
+player 487 draws a 29 from deck 487
+player 487 discards a 519 to deck 488
+player 487 current hand : 497 187 994 805 664 875 38 360 875 969 45 878 262 600 696 633 699 627 508 29 
+player 487 draws a 270 from deck 487
+player 487 discards a 497 to deck 488
+player 487 current hand : 187 994 805 664 875 38 360 875 969 45 878 262 600 696 633 699 627 508 29 270 
+player 487 draws a 632 from deck 487
+player 487 discards a 187 to deck 488
+player 487 current hand : 994 805 664 875 38 360 875 969 45 878 262 600 696 633 699 627 508 29 270 632 
+player 487 draws a 868 from deck 487
+player 487 discards a 994 to deck 488
+player 487 current hand : 805 664 875 38 360 875 969 45 878 262 600 696 633 699 627 508 29 270 632 868 
+player 487 draws a 336 from deck 487
+player 487 discards a 805 to deck 488
+player 487 current hand : 664 875 38 360 875 969 45 878 262 600 696 633 699 627 508 29 270 632 868 336 
+player 487 draws a 978 from deck 487
+player 487 discards a 664 to deck 488
+player 487 current hand : 875 38 360 875 969 45 878 262 600 696 633 699 627 508 29 270 632 868 336 978 
+player 487 draws a 972 from deck 487
+player 487 discards a 875 to deck 488
+player 487 current hand : 38 360 875 969 45 878 262 600 696 633 699 627 508 29 270 632 868 336 978 972 
+player 487 draws a 253 from deck 487
+player 487 discards a 38 to deck 488
+player 487 current hand : 360 875 969 45 878 262 600 696 633 699 627 508 29 270 632 868 336 978 972 253 
+player 487 draws a 114 from deck 487
+player 487 discards a 360 to deck 488
+player 487 current hand : 875 969 45 878 262 600 696 633 699 627 508 29 270 632 868 336 978 972 253 114 
+player 487 draws a 143 from deck 487
+player 487 discards a 875 to deck 488
+player 487 current hand : 969 45 878 262 600 696 633 699 627 508 29 270 632 868 336 978 972 253 114 143 
+player 487 draws a 500 from deck 487
+player 487 discards a 969 to deck 488
+player 487 current hand : 45 878 262 600 696 633 699 627 508 29 270 632 868 336 978 972 253 114 143 500 
+player 487 draws a 167 from deck 487
+player 487 discards a 45 to deck 488
+player 487 current hand : 878 262 600 696 633 699 627 508 29 270 632 868 336 978 972 253 114 143 500 167 
+player 487 draws a 55 from deck 487
+player 487 discards a 878 to deck 488
+player 487 current hand : 262 600 696 633 699 627 508 29 270 632 868 336 978 972 253 114 143 500 167 55 
+player 487 draws a 690 from deck 487
+player 487 discards a 262 to deck 488
+player 487 current hand : 600 696 633 699 627 508 29 270 632 868 336 978 972 253 114 143 500 167 55 690 
+player 487 draws a 653 from deck 487
+player 487 discards a 600 to deck 488
+player 487 current hand : 696 633 699 627 508 29 270 632 868 336 978 972 253 114 143 500 167 55 690 653 
+player 487 draws a 585 from deck 487
+player 487 discards a 696 to deck 488
+player 487 current hand : 633 699 627 508 29 270 632 868 336 978 972 253 114 143 500 167 55 690 653 585 
+player 487 draws a 858 from deck 487
+player 487 discards a 633 to deck 488
+player 487 current hand : 699 627 508 29 270 632 868 336 978 972 253 114 143 500 167 55 690 653 585 858 
+player 487 draws a 121 from deck 487
+player 487 discards a 699 to deck 488
+player 487 current hand : 627 508 29 270 632 868 336 978 972 253 114 143 500 167 55 690 653 585 858 121 
+player 487 draws a 458 from deck 487
+player 487 discards a 627 to deck 488
+player 487 current hand : 508 29 270 632 868 336 978 972 253 114 143 500 167 55 690 653 585 858 121 458 
+player 487 draws a 233 from deck 487
+player 487 discards a 508 to deck 488
+player 487 current hand : 29 270 632 868 336 978 972 253 114 143 500 167 55 690 653 585 858 121 458 233 
+player 487 draws a 470 from deck 487
+player 487 discards a 29 to deck 488
+player 487 current hand : 270 632 868 336 978 972 253 114 143 500 167 55 690 653 585 858 121 458 233 470 
+player 487 draws a 153 from deck 487
+player 487 discards a 270 to deck 488
+player 487 current hand : 632 868 336 978 972 253 114 143 500 167 55 690 653 585 858 121 458 233 470 153 
+player 487 draws a 652 from deck 487
+player 487 discards a 632 to deck 488
+player 487 current hand : 868 336 978 972 253 114 143 500 167 55 690 653 585 858 121 458 233 470 153 652 
+player 487 draws a 185 from deck 487
+player 487 discards a 868 to deck 488
+player 487 current hand : 336 978 972 253 114 143 500 167 55 690 653 585 858 121 458 233 470 153 652 185 
+player 487 draws a 988 from deck 487
+player 487 discards a 336 to deck 488
+player 487 current hand : 978 972 253 114 143 500 167 55 690 653 585 858 121 458 233 470 153 652 185 988 
+player 487 draws a 204 from deck 487
+player 487 discards a 978 to deck 488
+player 487 current hand : 972 253 114 143 500 167 55 690 653 585 858 121 458 233 470 153 652 185 988 204 
+player 487 draws a 645 from deck 487
+player 487 discards a 972 to deck 488
+player 487 current hand : 253 114 143 500 167 55 690 653 585 858 121 458 233 470 153 652 185 988 204 645 
+player 487 draws a 4 from deck 487
+player 487 discards a 253 to deck 488
+player 487 current hand : 114 143 500 167 55 690 653 585 858 121 458 233 470 153 652 185 988 204 645 4 
+player 487 draws a 402 from deck 487
+player 487 discards a 114 to deck 488
+player 487 current hand : 143 500 167 55 690 653 585 858 121 458 233 470 153 652 185 988 204 645 4 402 
+player 487 draws a 619 from deck 487
+player 487 discards a 143 to deck 488
+player 487 current hand : 500 167 55 690 653 585 858 121 458 233 470 153 652 185 988 204 645 4 402 619 
+player 487 draws a 926 from deck 487
+player 487 discards a 500 to deck 488
+player 487 current hand : 167 55 690 653 585 858 121 458 233 470 153 652 185 988 204 645 4 402 619 926 
+player 487 draws a 92 from deck 487
+player 487 discards a 167 to deck 488
+player 487 current hand : 55 690 653 585 858 121 458 233 470 153 652 185 988 204 645 4 402 619 926 92 
+player 487 draws a 795 from deck 487
+player 487 discards a 55 to deck 488
+player 487 current hand : 690 653 585 858 121 458 233 470 153 652 185 988 204 645 4 402 619 926 92 795 
+player 487 draws a 996 from deck 487
+player 487 discards a 690 to deck 488
+player 487 current hand : 653 585 858 121 458 233 470 153 652 185 988 204 645 4 402 619 926 92 795 996 
+player 487 draws a 279 from deck 487
+player 487 discards a 653 to deck 488
+player 487 current hand : 585 858 121 458 233 470 153 652 185 988 204 645 4 402 619 926 92 795 996 279 
+player 487 draws a 511 from deck 487
+player 487 discards a 585 to deck 488
+player 487 current hand : 858 121 458 233 470 153 652 185 988 204 645 4 402 619 926 92 795 996 279 511 
+player 487 draws a 180 from deck 487
+player 487 discards a 858 to deck 488
+player 487 current hand : 121 458 233 470 153 652 185 988 204 645 4 402 619 926 92 795 996 279 511 180 
+player 487 draws a 717 from deck 487
+player 487 discards a 121 to deck 488
+player 487 current hand : 458 233 470 153 652 185 988 204 645 4 402 619 926 92 795 996 279 511 180 717 
+player 487 draws a 723 from deck 487
+player 487 discards a 458 to deck 488
+player 487 current hand : 233 470 153 652 185 988 204 645 4 402 619 926 92 795 996 279 511 180 717 723 
+player 487 draws a 173 from deck 487
+player 487 discards a 233 to deck 488
+player 487 current hand : 470 153 652 185 988 204 645 4 402 619 926 92 795 996 279 511 180 717 723 173 
+player 487 draws a 80 from deck 487
+player 487 discards a 470 to deck 488
+player 487 current hand : 153 652 185 988 204 645 4 402 619 926 92 795 996 279 511 180 717 723 173 80 
+player 487 draws a 731 from deck 487
+player 487 discards a 153 to deck 488
+player 487 current hand : 652 185 988 204 645 4 402 619 926 92 795 996 279 511 180 717 723 173 80 731 
+player 487 draws a 969 from deck 487
+player 487 discards a 652 to deck 488
+player 487 current hand : 185 988 204 645 4 402 619 926 92 795 996 279 511 180 717 723 173 80 731 969 
+player 487 draws a 734 from deck 487
+player 487 discards a 185 to deck 488
+player 487 current hand : 988 204 645 4 402 619 926 92 795 996 279 511 180 717 723 173 80 731 969 734 
+player 487 draws a 432 from deck 487
+player 487 discards a 988 to deck 488
+player 487 current hand : 204 645 4 402 619 926 92 795 996 279 511 180 717 723 173 80 731 969 734 432 
+player 487 draws a 151 from deck 487
+player 487 discards a 204 to deck 488
+player 487 current hand : 645 4 402 619 926 92 795 996 279 511 180 717 723 173 80 731 969 734 432 151 
+player 487 draws a 671 from deck 487
+player 487 discards a 645 to deck 488
+player 487 current hand : 4 402 619 926 92 795 996 279 511 180 717 723 173 80 731 969 734 432 151 671 
+player 487 draws a 455 from deck 487
+player 487 discards a 4 to deck 488
+player 487 current hand : 402 619 926 92 795 996 279 511 180 717 723 173 80 731 969 734 432 151 671 455 
+player 487 draws a 399 from deck 487
+player 487 discards a 402 to deck 488
+player 487 current hand : 619 926 92 795 996 279 511 180 717 723 173 80 731 969 734 432 151 671 455 399 
+player 487 draws a 626 from deck 487
+player 487 discards a 619 to deck 488
+player 487 current hand : 926 92 795 996 279 511 180 717 723 173 80 731 969 734 432 151 671 455 399 626 
+player 487 draws a 636 from deck 487
+player 487 discards a 926 to deck 488
+player 487 current hand : 92 795 996 279 511 180 717 723 173 80 731 969 734 432 151 671 455 399 626 636 
+player 487 draws a 776 from deck 487
+player 487 discards a 92 to deck 488
+player 487 current hand : 795 996 279 511 180 717 723 173 80 731 969 734 432 151 671 455 399 626 636 776 
+player 487 draws a 294 from deck 487
+player 487 discards a 795 to deck 488
+player 487 current hand : 996 279 511 180 717 723 173 80 731 969 734 432 151 671 455 399 626 636 776 294 
+player 487 draws a 40 from deck 487
+player 487 discards a 996 to deck 488
+player 487 current hand : 279 511 180 717 723 173 80 731 969 734 432 151 671 455 399 626 636 776 294 40 
+player 487 draws a 84 from deck 487
+player 487 discards a 279 to deck 488
+player 487 current hand : 511 180 717 723 173 80 731 969 734 432 151 671 455 399 626 636 776 294 40 84 
+player 487 draws a 85 from deck 487
+player 487 discards a 511 to deck 488
+player 487 current hand : 180 717 723 173 80 731 969 734 432 151 671 455 399 626 636 776 294 40 84 85 
+player 487 draws a 189 from deck 487
+player 487 discards a 180 to deck 488
+player 487 current hand : 717 723 173 80 731 969 734 432 151 671 455 399 626 636 776 294 40 84 85 189 
+player 487 draws a 613 from deck 487
+player 487 discards a 717 to deck 488
+player 487 current hand : 723 173 80 731 969 734 432 151 671 455 399 626 636 776 294 40 84 85 189 613 
+player 487 draws a 105 from deck 487
+player 487 discards a 723 to deck 488
+player 487 current hand : 173 80 731 969 734 432 151 671 455 399 626 636 776 294 40 84 85 189 613 105 
+player 487 draws a 632 from deck 487
+player 487 discards a 173 to deck 488
+player 487 current hand : 80 731 969 734 432 151 671 455 399 626 636 776 294 40 84 85 189 613 105 632 
+player 487 draws a 66 from deck 487
+player 487 discards a 80 to deck 488
+player 487 current hand : 731 969 734 432 151 671 455 399 626 636 776 294 40 84 85 189 613 105 632 66 
+player 487 draws a 258 from deck 487
+player 487 discards a 731 to deck 488
+player 487 current hand : 969 734 432 151 671 455 399 626 636 776 294 40 84 85 189 613 105 632 66 258 
+player 487 draws a 833 from deck 487
+player 487 discards a 969 to deck 488
+player 487 current hand : 734 432 151 671 455 399 626 636 776 294 40 84 85 189 613 105 632 66 258 833 
+player 487 draws a 949 from deck 487
+player 487 discards a 734 to deck 488
+player 487 current hand : 432 151 671 455 399 626 636 776 294 40 84 85 189 613 105 632 66 258 833 949 
+player 487 draws a 28 from deck 487
+player 487 discards a 432 to deck 488
+player 487 current hand : 151 671 455 399 626 636 776 294 40 84 85 189 613 105 632 66 258 833 949 28 
+player 487 draws a 423 from deck 487
+player 487 discards a 151 to deck 488
+player 487 current hand : 671 455 399 626 636 776 294 40 84 85 189 613 105 632 66 258 833 949 28 423 
+player 487 draws a 864 from deck 487
+player 487 discards a 671 to deck 488
+player 487 current hand : 455 399 626 636 776 294 40 84 85 189 613 105 632 66 258 833 949 28 423 864 
+player 487 draws a 500 from deck 487
+player 487 discards a 455 to deck 488
+player 487 current hand : 399 626 636 776 294 40 84 85 189 613 105 632 66 258 833 949 28 423 864 500 
+player 487 draws a 899 from deck 487
+player 487 discards a 399 to deck 488
+player 487 current hand : 626 636 776 294 40 84 85 189 613 105 632 66 258 833 949 28 423 864 500 899 
+player 487 draws a 363 from deck 487
+player 487 discards a 626 to deck 488
+player 487 current hand : 636 776 294 40 84 85 189 613 105 632 66 258 833 949 28 423 864 500 899 363 
+player 487 draws a 969 from deck 487
+player 487 discards a 636 to deck 488
+player 487 current hand : 776 294 40 84 85 189 613 105 632 66 258 833 949 28 423 864 500 899 363 969 
+player 487 draws a 217 from deck 487
+player 487 discards a 776 to deck 488
+player 487 current hand : 294 40 84 85 189 613 105 632 66 258 833 949 28 423 864 500 899 363 969 217 
+player 487 draws a 407 from deck 487
+player 487 discards a 294 to deck 488
+player 487 current hand : 40 84 85 189 613 105 632 66 258 833 949 28 423 864 500 899 363 969 217 407 
+player 487 draws a 440 from deck 487
+player 487 discards a 40 to deck 488
+player 487 current hand : 84 85 189 613 105 632 66 258 833 949 28 423 864 500 899 363 969 217 407 440 
+player 487 draws a 81 from deck 487
+player 487 discards a 84 to deck 488
+player 487 current hand : 85 189 613 105 632 66 258 833 949 28 423 864 500 899 363 969 217 407 440 81 
+player 487 draws a 388 from deck 487
+player 487 discards a 85 to deck 488
+player 487 current hand : 189 613 105 632 66 258 833 949 28 423 864 500 899 363 969 217 407 440 81 388 
+player 487 draws a 249 from deck 487
+player 487 discards a 189 to deck 488
+player 487 current hand : 613 105 632 66 258 833 949 28 423 864 500 899 363 969 217 407 440 81 388 249 
+player 487 draws a 218 from deck 487
+player 487 discards a 613 to deck 488
+player 487 current hand : 105 632 66 258 833 949 28 423 864 500 899 363 969 217 407 440 81 388 249 218 
+player 487 draws a 375 from deck 487
+player 487 discards a 105 to deck 488
+player 487 current hand : 632 66 258 833 949 28 423 864 500 899 363 969 217 407 440 81 388 249 218 375 
+player 487 draws a 568 from deck 487
+player 487 discards a 632 to deck 488
+player 487 current hand : 66 258 833 949 28 423 864 500 899 363 969 217 407 440 81 388 249 218 375 568 
+player 487 draws a 222 from deck 487
+player 487 discards a 66 to deck 488
+player 487 current hand : 258 833 949 28 423 864 500 899 363 969 217 407 440 81 388 249 218 375 568 222 
+player 487 draws a 334 from deck 487
+player 487 discards a 258 to deck 488
+player 487 current hand : 833 949 28 423 864 500 899 363 969 217 407 440 81 388 249 218 375 568 222 334 
+player 487 draws a 86 from deck 487
+player 487 discards a 833 to deck 488
+player 487 current hand : 949 28 423 864 500 899 363 969 217 407 440 81 388 249 218 375 568 222 334 86 
+player 487 draws a 522 from deck 487
+player 487 discards a 949 to deck 488
+player 487 current hand : 28 423 864 500 899 363 969 217 407 440 81 388 249 218 375 568 222 334 86 522 
+player 487 draws a 121 from deck 487
+player 487 discards a 28 to deck 488
+player 487 current hand : 423 864 500 899 363 969 217 407 440 81 388 249 218 375 568 222 334 86 522 121 
+player 487 draws a 699 from deck 487
+player 487 discards a 423 to deck 488
+player 487 current hand : 864 500 899 363 969 217 407 440 81 388 249 218 375 568 222 334 86 522 121 699 
+player 487 draws a 548 from deck 487
+player 487 discards a 864 to deck 488
+player 487 current hand : 500 899 363 969 217 407 440 81 388 249 218 375 568 222 334 86 522 121 699 548 
+player 487 draws a 89 from deck 487
+player 487 discards a 500 to deck 488
+player 487 current hand : 899 363 969 217 407 440 81 388 249 218 375 568 222 334 86 522 121 699 548 89 
+player 487 draws a 642 from deck 487
+player 487 discards a 899 to deck 488
+player 487 current hand : 363 969 217 407 440 81 388 249 218 375 568 222 334 86 522 121 699 548 89 642 
+player 487 draws a 343 from deck 487
+player 487 discards a 363 to deck 488
+player 487 current hand : 969 217 407 440 81 388 249 218 375 568 222 334 86 522 121 699 548 89 642 343 
+player 487 draws a 794 from deck 487
+player 487 discards a 969 to deck 488
+player 487 current hand : 217 407 440 81 388 249 218 375 568 222 334 86 522 121 699 548 89 642 343 794 
+player 487 draws a 507 from deck 487
+player 487 discards a 217 to deck 488
+player 487 current hand : 407 440 81 388 249 218 375 568 222 334 86 522 121 699 548 89 642 343 794 507 
+player 487 draws a 810 from deck 487
+player 487 discards a 407 to deck 488
+player 487 current hand : 440 81 388 249 218 375 568 222 334 86 522 121 699 548 89 642 343 794 507 810 
+player 487 draws a 947 from deck 487
+player 487 discards a 440 to deck 488
+player 487 current hand : 81 388 249 218 375 568 222 334 86 522 121 699 548 89 642 343 794 507 810 947 
+player 487 draws a 815 from deck 487
+player 487 discards a 81 to deck 488
+player 487 current hand : 388 249 218 375 568 222 334 86 522 121 699 548 89 642 343 794 507 810 947 815 
+player 487 draws a 621 from deck 487
+player 487 discards a 388 to deck 488
+player 487 current hand : 249 218 375 568 222 334 86 522 121 699 548 89 642 343 794 507 810 947 815 621 
+player 487 draws a 521 from deck 487
+player 487 discards a 249 to deck 488
+player 487 current hand : 218 375 568 222 334 86 522 121 699 548 89 642 343 794 507 810 947 815 621 521 
+player 487 draws a 875 from deck 487

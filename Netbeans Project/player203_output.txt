@@ -1,0 +1,315 @@
+player 203 initial hand 654 599 18 589 736 694 512 739 450 868 900 631 474 906 162 105 70 791 42 416 
+player 203 draws a 781 from deck 203
+player 203 discards a 654 to deck 204
+player 203 current hand : 599 18 589 736 694 512 739 450 868 900 631 474 906 162 105 70 791 42 416 781 
+player 203 draws a 862 from deck 203
+player 203 discards a 599 to deck 204
+player 203 current hand : 18 589 736 694 512 739 450 868 900 631 474 906 162 105 70 791 42 416 781 862 
+player 203 draws a 384 from deck 203
+player 203 discards a 18 to deck 204
+player 203 current hand : 589 736 694 512 739 450 868 900 631 474 906 162 105 70 791 42 416 781 862 384 
+player 203 draws a 428 from deck 203
+player 203 discards a 589 to deck 204
+player 203 current hand : 736 694 512 739 450 868 900 631 474 906 162 105 70 791 42 416 781 862 384 428 
+player 203 draws a 507 from deck 203
+player 203 discards a 736 to deck 204
+player 203 current hand : 694 512 739 450 868 900 631 474 906 162 105 70 791 42 416 781 862 384 428 507 
+player 203 draws a 991 from deck 203
+player 203 discards a 694 to deck 204
+player 203 current hand : 512 739 450 868 900 631 474 906 162 105 70 791 42 416 781 862 384 428 507 991 
+player 203 draws a 564 from deck 203
+player 203 discards a 512 to deck 204
+player 203 current hand : 739 450 868 900 631 474 906 162 105 70 791 42 416 781 862 384 428 507 991 564 
+player 203 draws a 473 from deck 203
+player 203 discards a 739 to deck 204
+player 203 current hand : 450 868 900 631 474 906 162 105 70 791 42 416 781 862 384 428 507 991 564 473 
+player 203 draws a 475 from deck 203
+player 203 discards a 450 to deck 204
+player 203 current hand : 868 900 631 474 906 162 105 70 791 42 416 781 862 384 428 507 991 564 473 475 
+player 203 draws a 635 from deck 203
+player 203 discards a 868 to deck 204
+player 203 current hand : 900 631 474 906 162 105 70 791 42 416 781 862 384 428 507 991 564 473 475 635 
+player 203 draws a 285 from deck 203
+player 203 discards a 900 to deck 204
+player 203 current hand : 631 474 906 162 105 70 791 42 416 781 862 384 428 507 991 564 473 475 635 285 
+player 203 draws a 101 from deck 203
+player 203 discards a 631 to deck 204
+player 203 current hand : 474 906 162 105 70 791 42 416 781 862 384 428 507 991 564 473 475 635 285 101 
+player 203 draws a 905 from deck 203
+player 203 discards a 474 to deck 204
+player 203 current hand : 906 162 105 70 791 42 416 781 862 384 428 507 991 564 473 475 635 285 101 905 
+player 203 draws a 825 from deck 203
+player 203 discards a 906 to deck 204
+player 203 current hand : 162 105 70 791 42 416 781 862 384 428 507 991 564 473 475 635 285 101 905 825 
+player 203 draws a 945 from deck 203
+player 203 discards a 162 to deck 204
+player 203 current hand : 105 70 791 42 416 781 862 384 428 507 991 564 473 475 635 285 101 905 825 945 
+player 203 draws a 560 from deck 203
+player 203 discards a 105 to deck 204
+player 203 current hand : 70 791 42 416 781 862 384 428 507 991 564 473 475 635 285 101 905 825 945 560 
+player 203 draws a 636 from deck 203
+player 203 discards a 70 to deck 204
+player 203 current hand : 791 42 416 781 862 384 428 507 991 564 473 475 635 285 101 905 825 945 560 636 
+player 203 draws a 86 from deck 203
+player 203 discards a 791 to deck 204
+player 203 current hand : 42 416 781 862 384 428 507 991 564 473 475 635 285 101 905 825 945 560 636 86 
+player 203 draws a 717 from deck 203
+player 203 discards a 42 to deck 204
+player 203 current hand : 416 781 862 384 428 507 991 564 473 475 635 285 101 905 825 945 560 636 86 717 
+player 203 draws a 425 from deck 203
+player 203 discards a 416 to deck 204
+player 203 current hand : 781 862 384 428 507 991 564 473 475 635 285 101 905 825 945 560 636 86 717 425 
+player 203 draws a 805 from deck 203
+player 203 discards a 781 to deck 204
+player 203 current hand : 862 384 428 507 991 564 473 475 635 285 101 905 825 945 560 636 86 717 425 805 
+player 203 draws a 515 from deck 203
+player 203 discards a 862 to deck 204
+player 203 current hand : 384 428 507 991 564 473 475 635 285 101 905 825 945 560 636 86 717 425 805 515 
+player 203 draws a 756 from deck 203
+player 203 discards a 384 to deck 204
+player 203 current hand : 428 507 991 564 473 475 635 285 101 905 825 945 560 636 86 717 425 805 515 756 
+player 203 draws a 537 from deck 203
+player 203 discards a 428 to deck 204
+player 203 current hand : 507 991 564 473 475 635 285 101 905 825 945 560 636 86 717 425 805 515 756 537 
+player 203 draws a 867 from deck 203
+player 203 discards a 507 to deck 204
+player 203 current hand : 991 564 473 475 635 285 101 905 825 945 560 636 86 717 425 805 515 756 537 867 
+player 203 draws a 612 from deck 203
+player 203 discards a 991 to deck 204
+player 203 current hand : 564 473 475 635 285 101 905 825 945 560 636 86 717 425 805 515 756 537 867 612 
+player 203 draws a 642 from deck 203
+player 203 discards a 564 to deck 204
+player 203 current hand : 473 475 635 285 101 905 825 945 560 636 86 717 425 805 515 756 537 867 612 642 
+player 203 draws a 296 from deck 203
+player 203 discards a 473 to deck 204
+player 203 current hand : 475 635 285 101 905 825 945 560 636 86 717 425 805 515 756 537 867 612 642 296 
+player 203 draws a 535 from deck 203
+player 203 discards a 475 to deck 204
+player 203 current hand : 635 285 101 905 825 945 560 636 86 717 425 805 515 756 537 867 612 642 296 535 
+player 203 draws a 403 from deck 203
+player 203 discards a 635 to deck 204
+player 203 current hand : 285 101 905 825 945 560 636 86 717 425 805 515 756 537 867 612 642 296 535 403 
+player 203 draws a 265 from deck 203
+player 203 discards a 285 to deck 204
+player 203 current hand : 101 905 825 945 560 636 86 717 425 805 515 756 537 867 612 642 296 535 403 265 
+player 203 draws a 15 from deck 203
+player 203 discards a 101 to deck 204
+player 203 current hand : 905 825 945 560 636 86 717 425 805 515 756 537 867 612 642 296 535 403 265 15 
+player 203 draws a 927 from deck 203
+player 203 discards a 905 to deck 204
+player 203 current hand : 825 945 560 636 86 717 425 805 515 756 537 867 612 642 296 535 403 265 15 927 
+player 203 draws a 714 from deck 203
+player 203 discards a 825 to deck 204
+player 203 current hand : 945 560 636 86 717 425 805 515 756 537 867 612 642 296 535 403 265 15 927 714 
+player 203 draws a 525 from deck 203
+player 203 discards a 945 to deck 204
+player 203 current hand : 560 636 86 717 425 805 515 756 537 867 612 642 296 535 403 265 15 927 714 525 
+player 203 draws a 992 from deck 203
+player 203 discards a 560 to deck 204
+player 203 current hand : 636 86 717 425 805 515 756 537 867 612 642 296 535 403 265 15 927 714 525 992 
+player 203 draws a 65 from deck 203
+player 203 discards a 636 to deck 204
+player 203 current hand : 86 717 425 805 515 756 537 867 612 642 296 535 403 265 15 927 714 525 992 65 
+player 203 draws a 295 from deck 203
+player 203 discards a 86 to deck 204
+player 203 current hand : 717 425 805 515 756 537 867 612 642 296 535 403 265 15 927 714 525 992 65 295 
+player 203 draws a 130 from deck 203
+player 203 discards a 717 to deck 204
+player 203 current hand : 425 805 515 756 537 867 612 642 296 535 403 265 15 927 714 525 992 65 295 130 
+player 203 draws a 868 from deck 203
+player 203 discards a 425 to deck 204
+player 203 current hand : 805 515 756 537 867 612 642 296 535 403 265 15 927 714 525 992 65 295 130 868 
+player 203 draws a 7 from deck 203
+player 203 discards a 805 to deck 204
+player 203 current hand : 515 756 537 867 612 642 296 535 403 265 15 927 714 525 992 65 295 130 868 7 
+player 203 draws a 47 from deck 203
+player 203 discards a 515 to deck 204
+player 203 current hand : 756 537 867 612 642 296 535 403 265 15 927 714 525 992 65 295 130 868 7 47 
+player 203 draws a 912 from deck 203
+player 203 discards a 756 to deck 204
+player 203 current hand : 537 867 612 642 296 535 403 265 15 927 714 525 992 65 295 130 868 7 47 912 
+player 203 draws a 886 from deck 203
+player 203 discards a 537 to deck 204
+player 203 current hand : 867 612 642 296 535 403 265 15 927 714 525 992 65 295 130 868 7 47 912 886 
+player 203 draws a 168 from deck 203
+player 203 discards a 867 to deck 204
+player 203 current hand : 612 642 296 535 403 265 15 927 714 525 992 65 295 130 868 7 47 912 886 168 
+player 203 draws a 880 from deck 203
+player 203 discards a 612 to deck 204
+player 203 current hand : 642 296 535 403 265 15 927 714 525 992 65 295 130 868 7 47 912 886 168 880 
+player 203 draws a 577 from deck 203
+player 203 discards a 642 to deck 204
+player 203 current hand : 296 535 403 265 15 927 714 525 992 65 295 130 868 7 47 912 886 168 880 577 
+player 203 draws a 297 from deck 203
+player 203 discards a 296 to deck 204
+player 203 current hand : 535 403 265 15 927 714 525 992 65 295 130 868 7 47 912 886 168 880 577 297 
+player 203 draws a 447 from deck 203
+player 203 discards a 535 to deck 204
+player 203 current hand : 403 265 15 927 714 525 992 65 295 130 868 7 47 912 886 168 880 577 297 447 
+player 203 draws a 835 from deck 203
+player 203 discards a 403 to deck 204
+player 203 current hand : 265 15 927 714 525 992 65 295 130 868 7 47 912 886 168 880 577 297 447 835 
+player 203 draws a 378 from deck 203
+player 203 discards a 265 to deck 204
+player 203 current hand : 15 927 714 525 992 65 295 130 868 7 47 912 886 168 880 577 297 447 835 378 
+player 203 draws a 965 from deck 203
+player 203 discards a 15 to deck 204
+player 203 current hand : 927 714 525 992 65 295 130 868 7 47 912 886 168 880 577 297 447 835 378 965 
+player 203 draws a 65 from deck 203
+player 203 discards a 927 to deck 204
+player 203 current hand : 714 525 992 65 295 130 868 7 47 912 886 168 880 577 297 447 835 378 965 65 
+player 203 draws a 872 from deck 203
+player 203 discards a 714 to deck 204
+player 203 current hand : 525 992 65 295 130 868 7 47 912 886 168 880 577 297 447 835 378 965 65 872 
+player 203 draws a 481 from deck 203
+player 203 discards a 525 to deck 204
+player 203 current hand : 992 65 295 130 868 7 47 912 886 168 880 577 297 447 835 378 965 65 872 481 
+player 203 draws a 325 from deck 203
+player 203 discards a 992 to deck 204
+player 203 current hand : 65 295 130 868 7 47 912 886 168 880 577 297 447 835 378 965 65 872 481 325 
+player 203 draws a 754 from deck 203
+player 203 discards a 65 to deck 204
+player 203 current hand : 295 130 868 7 47 912 886 168 880 577 297 447 835 378 965 65 872 481 325 754 
+player 203 draws a 200 from deck 203
+player 203 discards a 295 to deck 204
+player 203 current hand : 130 868 7 47 912 886 168 880 577 297 447 835 378 965 65 872 481 325 754 200 
+player 203 draws a 389 from deck 203
+player 203 discards a 130 to deck 204
+player 203 current hand : 868 7 47 912 886 168 880 577 297 447 835 378 965 65 872 481 325 754 200 389 
+player 203 draws a 226 from deck 203
+player 203 discards a 868 to deck 204
+player 203 current hand : 7 47 912 886 168 880 577 297 447 835 378 965 65 872 481 325 754 200 389 226 
+player 203 draws a 999 from deck 203
+player 203 discards a 7 to deck 204
+player 203 current hand : 47 912 886 168 880 577 297 447 835 378 965 65 872 481 325 754 200 389 226 999 
+player 203 draws a 205 from deck 203
+player 203 discards a 47 to deck 204
+player 203 current hand : 912 886 168 880 577 297 447 835 378 965 65 872 481 325 754 200 389 226 999 205 
+player 203 draws a 40 from deck 203
+player 203 discards a 912 to deck 204
+player 203 current hand : 886 168 880 577 297 447 835 378 965 65 872 481 325 754 200 389 226 999 205 40 
+player 203 draws a 851 from deck 203
+player 203 discards a 886 to deck 204
+player 203 current hand : 168 880 577 297 447 835 378 965 65 872 481 325 754 200 389 226 999 205 40 851 
+player 203 draws a 475 from deck 203
+player 203 discards a 168 to deck 204
+player 203 current hand : 880 577 297 447 835 378 965 65 872 481 325 754 200 389 226 999 205 40 851 475 
+player 203 draws a 91 from deck 203
+player 203 discards a 880 to deck 204
+player 203 current hand : 577 297 447 835 378 965 65 872 481 325 754 200 389 226 999 205 40 851 475 91 
+player 203 draws a 308 from deck 203
+player 203 discards a 577 to deck 204
+player 203 current hand : 297 447 835 378 965 65 872 481 325 754 200 389 226 999 205 40 851 475 91 308 
+player 203 draws a 491 from deck 203
+player 203 discards a 297 to deck 204
+player 203 current hand : 447 835 378 965 65 872 481 325 754 200 389 226 999 205 40 851 475 91 308 491 
+player 203 draws a 415 from deck 203
+player 203 discards a 447 to deck 204
+player 203 current hand : 835 378 965 65 872 481 325 754 200 389 226 999 205 40 851 475 91 308 491 415 
+player 203 draws a 852 from deck 203
+player 203 discards a 835 to deck 204
+player 203 current hand : 378 965 65 872 481 325 754 200 389 226 999 205 40 851 475 91 308 491 415 852 
+player 203 draws a 677 from deck 203
+player 203 discards a 378 to deck 204
+player 203 current hand : 965 65 872 481 325 754 200 389 226 999 205 40 851 475 91 308 491 415 852 677 
+player 203 draws a 814 from deck 203
+player 203 discards a 965 to deck 204
+player 203 current hand : 65 872 481 325 754 200 389 226 999 205 40 851 475 91 308 491 415 852 677 814 
+player 203 draws a 673 from deck 203
+player 203 discards a 65 to deck 204
+player 203 current hand : 872 481 325 754 200 389 226 999 205 40 851 475 91 308 491 415 852 677 814 673 
+player 203 draws a 976 from deck 203
+player 203 discards a 872 to deck 204
+player 203 current hand : 481 325 754 200 389 226 999 205 40 851 475 91 308 491 415 852 677 814 673 976 
+player 203 draws a 604 from deck 203
+player 203 discards a 481 to deck 204
+player 203 current hand : 325 754 200 389 226 999 205 40 851 475 91 308 491 415 852 677 814 673 976 604 
+player 203 draws a 204 from deck 203
+player 203 discards a 325 to deck 204
+player 203 current hand : 754 200 389 226 999 205 40 851 475 91 308 491 415 852 677 814 673 976 604 204 
+player 203 draws a 469 from deck 203
+player 203 discards a 754 to deck 204
+player 203 current hand : 200 389 226 999 205 40 851 475 91 308 491 415 852 677 814 673 976 604 204 469 
+player 203 draws a 899 from deck 203
+player 203 discards a 200 to deck 204
+player 203 current hand : 389 226 999 205 40 851 475 91 308 491 415 852 677 814 673 976 604 204 469 899 
+player 203 draws a 796 from deck 203
+player 203 discards a 389 to deck 204
+player 203 current hand : 226 999 205 40 851 475 91 308 491 415 852 677 814 673 976 604 204 469 899 796 
+player 203 draws a 338 from deck 203
+player 203 discards a 226 to deck 204
+player 203 current hand : 999 205 40 851 475 91 308 491 415 852 677 814 673 976 604 204 469 899 796 338 
+player 203 draws a 384 from deck 203
+player 203 discards a 999 to deck 204
+player 203 current hand : 205 40 851 475 91 308 491 415 852 677 814 673 976 604 204 469 899 796 338 384 
+player 203 draws a 917 from deck 203
+player 203 discards a 205 to deck 204
+player 203 current hand : 40 851 475 91 308 491 415 852 677 814 673 976 604 204 469 899 796 338 384 917 
+player 203 draws a 751 from deck 203
+player 203 discards a 40 to deck 204
+player 203 current hand : 851 475 91 308 491 415 852 677 814 673 976 604 204 469 899 796 338 384 917 751 
+player 203 draws a 401 from deck 203
+player 203 discards a 851 to deck 204
+player 203 current hand : 475 91 308 491 415 852 677 814 673 976 604 204 469 899 796 338 384 917 751 401 
+player 203 draws a 415 from deck 203
+player 203 discards a 475 to deck 204
+player 203 current hand : 91 308 491 415 852 677 814 673 976 604 204 469 899 796 338 384 917 751 401 415 
+player 203 draws a 297 from deck 203
+player 203 discards a 91 to deck 204
+player 203 current hand : 308 491 415 852 677 814 673 976 604 204 469 899 796 338 384 917 751 401 415 297 
+player 203 draws a 242 from deck 203
+player 203 discards a 308 to deck 204
+player 203 current hand : 491 415 852 677 814 673 976 604 204 469 899 796 338 384 917 751 401 415 297 242 
+player 203 draws a 810 from deck 203
+player 203 discards a 491 to deck 204
+player 203 current hand : 415 852 677 814 673 976 604 204 469 899 796 338 384 917 751 401 415 297 242 810 
+player 203 draws a 747 from deck 203
+player 203 discards a 415 to deck 204
+player 203 current hand : 852 677 814 673 976 604 204 469 899 796 338 384 917 751 401 415 297 242 810 747 
+player 203 draws a 18 from deck 203
+player 203 discards a 852 to deck 204
+player 203 current hand : 677 814 673 976 604 204 469 899 796 338 384 917 751 401 415 297 242 810 747 18 
+player 203 draws a 466 from deck 203
+player 203 discards a 677 to deck 204
+player 203 current hand : 814 673 976 604 204 469 899 796 338 384 917 751 401 415 297 242 810 747 18 466 
+player 203 draws a 432 from deck 203
+player 203 discards a 814 to deck 204
+player 203 current hand : 673 976 604 204 469 899 796 338 384 917 751 401 415 297 242 810 747 18 466 432 
+player 203 draws a 401 from deck 203
+player 203 discards a 673 to deck 204
+player 203 current hand : 976 604 204 469 899 796 338 384 917 751 401 415 297 242 810 747 18 466 432 401 
+player 203 draws a 415 from deck 203
+player 203 discards a 976 to deck 204
+player 203 current hand : 604 204 469 899 796 338 384 917 751 401 415 297 242 810 747 18 466 432 401 415 
+player 203 draws a 510 from deck 203
+player 203 discards a 604 to deck 204
+player 203 current hand : 204 469 899 796 338 384 917 751 401 415 297 242 810 747 18 466 432 401 415 510 
+player 203 draws a 595 from deck 203
+player 203 discards a 204 to deck 204
+player 203 current hand : 469 899 796 338 384 917 751 401 415 297 242 810 747 18 466 432 401 415 510 595 
+player 203 draws a 302 from deck 203
+player 203 discards a 469 to deck 204
+player 203 current hand : 899 796 338 384 917 751 401 415 297 242 810 747 18 466 432 401 415 510 595 302 
+player 203 draws a 872 from deck 203
+player 203 discards a 899 to deck 204
+player 203 current hand : 796 338 384 917 751 401 415 297 242 810 747 18 466 432 401 415 510 595 302 872 
+player 203 draws a 285 from deck 203
+player 203 discards a 796 to deck 204
+player 203 current hand : 338 384 917 751 401 415 297 242 810 747 18 466 432 401 415 510 595 302 872 285 
+player 203 draws a 489 from deck 203
+player 203 discards a 338 to deck 204
+player 203 current hand : 384 917 751 401 415 297 242 810 747 18 466 432 401 415 510 595 302 872 285 489 
+player 203 draws a 100 from deck 203
+player 203 discards a 384 to deck 204
+player 203 current hand : 917 751 401 415 297 242 810 747 18 466 432 401 415 510 595 302 872 285 489 100 
+player 203 draws a 745 from deck 203
+player 203 discards a 917 to deck 204
+player 203 current hand : 751 401 415 297 242 810 747 18 466 432 401 415 510 595 302 872 285 489 100 745 
+player 203 draws a 267 from deck 203
+player 203 discards a 751 to deck 204
+player 203 current hand : 401 415 297 242 810 747 18 466 432 401 415 510 595 302 872 285 489 100 745 267 
+player 203 draws a 120 from deck 203
+player 203 discards a 401 to deck 204
+player 203 current hand : 415 297 242 810 747 18 466 432 401 415 510 595 302 872 285 489 100 745 267 120 
+player 203 draws a 472 from deck 203
+player 203 discards a 415 to deck 204

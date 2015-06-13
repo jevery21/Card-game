@@ -1,0 +1,306 @@
+player 156 initial hand 870 778 666 310 637 152 47 469 112 316 681 860 968 324 729 210 452 464 991 370 
+player 156 draws a 328 from deck 156
+player 156 discards a 870 to deck 157
+player 156 current hand : 778 666 310 637 152 47 469 112 316 681 860 968 324 729 210 452 464 991 370 328 
+player 156 draws a 480 from deck 156
+player 156 discards a 778 to deck 157
+player 156 current hand : 666 310 637 152 47 469 112 316 681 860 968 324 729 210 452 464 991 370 328 480 
+player 156 draws a 178 from deck 156
+player 156 discards a 666 to deck 157
+player 156 current hand : 310 637 152 47 469 112 316 681 860 968 324 729 210 452 464 991 370 328 480 178 
+player 156 draws a 861 from deck 156
+player 156 discards a 310 to deck 157
+player 156 current hand : 637 152 47 469 112 316 681 860 968 324 729 210 452 464 991 370 328 480 178 861 
+player 156 draws a 685 from deck 156
+player 156 discards a 637 to deck 157
+player 156 current hand : 152 47 469 112 316 681 860 968 324 729 210 452 464 991 370 328 480 178 861 685 
+player 156 draws a 631 from deck 156
+player 156 discards a 152 to deck 157
+player 156 current hand : 47 469 112 316 681 860 968 324 729 210 452 464 991 370 328 480 178 861 685 631 
+player 156 draws a 721 from deck 156
+player 156 discards a 47 to deck 157
+player 156 current hand : 469 112 316 681 860 968 324 729 210 452 464 991 370 328 480 178 861 685 631 721 
+player 156 draws a 400 from deck 156
+player 156 discards a 469 to deck 157
+player 156 current hand : 112 316 681 860 968 324 729 210 452 464 991 370 328 480 178 861 685 631 721 400 
+player 156 draws a 608 from deck 156
+player 156 discards a 112 to deck 157
+player 156 current hand : 316 681 860 968 324 729 210 452 464 991 370 328 480 178 861 685 631 721 400 608 
+player 156 draws a 723 from deck 156
+player 156 discards a 316 to deck 157
+player 156 current hand : 681 860 968 324 729 210 452 464 991 370 328 480 178 861 685 631 721 400 608 723 
+player 156 draws a 616 from deck 156
+player 156 discards a 681 to deck 157
+player 156 current hand : 860 968 324 729 210 452 464 991 370 328 480 178 861 685 631 721 400 608 723 616 
+player 156 draws a 977 from deck 156
+player 156 discards a 860 to deck 157
+player 156 current hand : 968 324 729 210 452 464 991 370 328 480 178 861 685 631 721 400 608 723 616 977 
+player 156 draws a 319 from deck 156
+player 156 discards a 968 to deck 157
+player 156 current hand : 324 729 210 452 464 991 370 328 480 178 861 685 631 721 400 608 723 616 977 319 
+player 156 draws a 105 from deck 156
+player 156 discards a 324 to deck 157
+player 156 current hand : 729 210 452 464 991 370 328 480 178 861 685 631 721 400 608 723 616 977 319 105 
+player 156 draws a 767 from deck 156
+player 156 discards a 729 to deck 157
+player 156 current hand : 210 452 464 991 370 328 480 178 861 685 631 721 400 608 723 616 977 319 105 767 
+player 156 draws a 460 from deck 156
+player 156 discards a 210 to deck 157
+player 156 current hand : 452 464 991 370 328 480 178 861 685 631 721 400 608 723 616 977 319 105 767 460 
+player 156 draws a 588 from deck 156
+player 156 discards a 452 to deck 157
+player 156 current hand : 464 991 370 328 480 178 861 685 631 721 400 608 723 616 977 319 105 767 460 588 
+player 156 draws a 707 from deck 156
+player 156 discards a 464 to deck 157
+player 156 current hand : 991 370 328 480 178 861 685 631 721 400 608 723 616 977 319 105 767 460 588 707 
+player 156 draws a 74 from deck 156
+player 156 discards a 991 to deck 157
+player 156 current hand : 370 328 480 178 861 685 631 721 400 608 723 616 977 319 105 767 460 588 707 74 
+player 156 draws a 39 from deck 156
+player 156 discards a 370 to deck 157
+player 156 current hand : 328 480 178 861 685 631 721 400 608 723 616 977 319 105 767 460 588 707 74 39 
+player 156 draws a 480 from deck 156
+player 156 discards a 328 to deck 157
+player 156 current hand : 480 178 861 685 631 721 400 608 723 616 977 319 105 767 460 588 707 74 39 480 
+player 156 draws a 851 from deck 156
+player 156 discards a 480 to deck 157
+player 156 current hand : 178 861 685 631 721 400 608 723 616 977 319 105 767 460 588 707 74 39 480 851 
+player 156 draws a 265 from deck 156
+player 156 discards a 178 to deck 157
+player 156 current hand : 861 685 631 721 400 608 723 616 977 319 105 767 460 588 707 74 39 480 851 265 
+player 156 draws a 901 from deck 156
+player 156 discards a 861 to deck 157
+player 156 current hand : 685 631 721 400 608 723 616 977 319 105 767 460 588 707 74 39 480 851 265 901 
+player 156 draws a 559 from deck 156
+player 156 discards a 685 to deck 157
+player 156 current hand : 631 721 400 608 723 616 977 319 105 767 460 588 707 74 39 480 851 265 901 559 
+player 156 draws a 18 from deck 156
+player 156 discards a 631 to deck 157
+player 156 current hand : 721 400 608 723 616 977 319 105 767 460 588 707 74 39 480 851 265 901 559 18 
+player 156 draws a 449 from deck 156
+player 156 discards a 721 to deck 157
+player 156 current hand : 400 608 723 616 977 319 105 767 460 588 707 74 39 480 851 265 901 559 18 449 
+player 156 draws a 141 from deck 156
+player 156 discards a 400 to deck 157
+player 156 current hand : 608 723 616 977 319 105 767 460 588 707 74 39 480 851 265 901 559 18 449 141 
+player 156 draws a 188 from deck 156
+player 156 discards a 608 to deck 157
+player 156 current hand : 723 616 977 319 105 767 460 588 707 74 39 480 851 265 901 559 18 449 141 188 
+player 156 draws a 337 from deck 156
+player 156 discards a 723 to deck 157
+player 156 current hand : 616 977 319 105 767 460 588 707 74 39 480 851 265 901 559 18 449 141 188 337 
+player 156 draws a 245 from deck 156
+player 156 discards a 616 to deck 157
+player 156 current hand : 977 319 105 767 460 588 707 74 39 480 851 265 901 559 18 449 141 188 337 245 
+player 156 draws a 74 from deck 156
+player 156 discards a 977 to deck 157
+player 156 current hand : 319 105 767 460 588 707 74 39 480 851 265 901 559 18 449 141 188 337 245 74 
+player 156 draws a 888 from deck 156
+player 156 discards a 319 to deck 157
+player 156 current hand : 105 767 460 588 707 74 39 480 851 265 901 559 18 449 141 188 337 245 74 888 
+player 156 draws a 1000 from deck 156
+player 156 discards a 105 to deck 157
+player 156 current hand : 767 460 588 707 74 39 480 851 265 901 559 18 449 141 188 337 245 74 888 1000 
+player 156 draws a 707 from deck 156
+player 156 discards a 767 to deck 157
+player 156 current hand : 460 588 707 74 39 480 851 265 901 559 18 449 141 188 337 245 74 888 1000 707 
+player 156 draws a 636 from deck 156
+player 156 discards a 460 to deck 157
+player 156 current hand : 588 707 74 39 480 851 265 901 559 18 449 141 188 337 245 74 888 1000 707 636 
+player 156 draws a 111 from deck 156
+player 156 discards a 588 to deck 157
+player 156 current hand : 707 74 39 480 851 265 901 559 18 449 141 188 337 245 74 888 1000 707 636 111 
+player 156 draws a 33 from deck 156
+player 156 discards a 707 to deck 157
+player 156 current hand : 74 39 480 851 265 901 559 18 449 141 188 337 245 74 888 1000 707 636 111 33 
+player 156 draws a 74 from deck 156
+player 156 discards a 74 to deck 157
+player 156 current hand : 39 480 851 265 901 559 18 449 141 188 337 245 74 888 1000 707 636 111 33 74 
+player 156 draws a 685 from deck 156
+player 156 discards a 39 to deck 157
+player 156 current hand : 480 851 265 901 559 18 449 141 188 337 245 74 888 1000 707 636 111 33 74 685 
+player 156 draws a 773 from deck 156
+player 156 discards a 480 to deck 157
+player 156 current hand : 851 265 901 559 18 449 141 188 337 245 74 888 1000 707 636 111 33 74 685 773 
+player 156 draws a 350 from deck 156
+player 156 discards a 851 to deck 157
+player 156 current hand : 265 901 559 18 449 141 188 337 245 74 888 1000 707 636 111 33 74 685 773 350 
+player 156 draws a 456 from deck 156
+player 156 discards a 265 to deck 157
+player 156 current hand : 901 559 18 449 141 188 337 245 74 888 1000 707 636 111 33 74 685 773 350 456 
+player 156 draws a 427 from deck 156
+player 156 discards a 901 to deck 157
+player 156 current hand : 559 18 449 141 188 337 245 74 888 1000 707 636 111 33 74 685 773 350 456 427 
+player 156 draws a 833 from deck 156
+player 156 discards a 559 to deck 157
+player 156 current hand : 18 449 141 188 337 245 74 888 1000 707 636 111 33 74 685 773 350 456 427 833 
+player 156 draws a 776 from deck 156
+player 156 discards a 18 to deck 157
+player 156 current hand : 449 141 188 337 245 74 888 1000 707 636 111 33 74 685 773 350 456 427 833 776 
+player 156 draws a 545 from deck 156
+player 156 discards a 449 to deck 157
+player 156 current hand : 141 188 337 245 74 888 1000 707 636 111 33 74 685 773 350 456 427 833 776 545 
+player 156 draws a 922 from deck 156
+player 156 discards a 141 to deck 157
+player 156 current hand : 188 337 245 74 888 1000 707 636 111 33 74 685 773 350 456 427 833 776 545 922 
+player 156 draws a 233 from deck 156
+player 156 discards a 188 to deck 157
+player 156 current hand : 337 245 74 888 1000 707 636 111 33 74 685 773 350 456 427 833 776 545 922 233 
+player 156 draws a 143 from deck 156
+player 156 discards a 337 to deck 157
+player 156 current hand : 245 74 888 1000 707 636 111 33 74 685 773 350 456 427 833 776 545 922 233 143 
+player 156 draws a 740 from deck 156
+player 156 discards a 245 to deck 157
+player 156 current hand : 74 888 1000 707 636 111 33 74 685 773 350 456 427 833 776 545 922 233 143 740 
+player 156 draws a 255 from deck 156
+player 156 discards a 74 to deck 157
+player 156 current hand : 888 1000 707 636 111 33 74 685 773 350 456 427 833 776 545 922 233 143 740 255 
+player 156 draws a 455 from deck 156
+player 156 discards a 888 to deck 157
+player 156 current hand : 1000 707 636 111 33 74 685 773 350 456 427 833 776 545 922 233 143 740 255 455 
+player 156 draws a 12 from deck 156
+player 156 discards a 1000 to deck 157
+player 156 current hand : 707 636 111 33 74 685 773 350 456 427 833 776 545 922 233 143 740 255 455 12 
+player 156 draws a 496 from deck 156
+player 156 discards a 707 to deck 157
+player 156 current hand : 636 111 33 74 685 773 350 456 427 833 776 545 922 233 143 740 255 455 12 496 
+player 156 draws a 719 from deck 156
+player 156 discards a 636 to deck 157
+player 156 current hand : 111 33 74 685 773 350 456 427 833 776 545 922 233 143 740 255 455 12 496 719 
+player 156 draws a 468 from deck 156
+player 156 discards a 111 to deck 157
+player 156 current hand : 33 74 685 773 350 456 427 833 776 545 922 233 143 740 255 455 12 496 719 468 
+player 156 draws a 976 from deck 156
+player 156 discards a 33 to deck 157
+player 156 current hand : 74 685 773 350 456 427 833 776 545 922 233 143 740 255 455 12 496 719 468 976 
+player 156 draws a 255 from deck 156
+player 156 discards a 74 to deck 157
+player 156 current hand : 685 773 350 456 427 833 776 545 922 233 143 740 255 455 12 496 719 468 976 255 
+player 156 draws a 787 from deck 156
+player 156 discards a 685 to deck 157
+player 156 current hand : 773 350 456 427 833 776 545 922 233 143 740 255 455 12 496 719 468 976 255 787 
+player 156 draws a 126 from deck 156
+player 156 discards a 773 to deck 157
+player 156 current hand : 350 456 427 833 776 545 922 233 143 740 255 455 12 496 719 468 976 255 787 126 
+player 156 draws a 732 from deck 156
+player 156 discards a 350 to deck 157
+player 156 current hand : 456 427 833 776 545 922 233 143 740 255 455 12 496 719 468 976 255 787 126 732 
+player 156 draws a 396 from deck 156
+player 156 discards a 456 to deck 157
+player 156 current hand : 427 833 776 545 922 233 143 740 255 455 12 496 719 468 976 255 787 126 732 396 
+player 156 draws a 1000 from deck 156
+player 156 discards a 427 to deck 157
+player 156 current hand : 833 776 545 922 233 143 740 255 455 12 496 719 468 976 255 787 126 732 396 1000 
+player 156 draws a 78 from deck 156
+player 156 discards a 833 to deck 157
+player 156 current hand : 776 545 922 233 143 740 255 455 12 496 719 468 976 255 787 126 732 396 1000 78 
+player 156 draws a 825 from deck 156
+player 156 discards a 776 to deck 157
+player 156 current hand : 545 922 233 143 740 255 455 12 496 719 468 976 255 787 126 732 396 1000 78 825 
+player 156 draws a 412 from deck 156
+player 156 discards a 545 to deck 157
+player 156 current hand : 922 233 143 740 255 455 12 496 719 468 976 255 787 126 732 396 1000 78 825 412 
+player 156 draws a 926 from deck 156
+player 156 discards a 922 to deck 157
+player 156 current hand : 233 143 740 255 455 12 496 719 468 976 255 787 126 732 396 1000 78 825 412 926 
+player 156 draws a 215 from deck 156
+player 156 discards a 233 to deck 157
+player 156 current hand : 143 740 255 455 12 496 719 468 976 255 787 126 732 396 1000 78 825 412 926 215 
+player 156 draws a 33 from deck 156
+player 156 discards a 143 to deck 157
+player 156 current hand : 740 255 455 12 496 719 468 976 255 787 126 732 396 1000 78 825 412 926 215 33 
+player 156 draws a 374 from deck 156
+player 156 discards a 740 to deck 157
+player 156 current hand : 255 455 12 496 719 468 976 255 787 126 732 396 1000 78 825 412 926 215 33 374 
+player 156 draws a 54 from deck 156
+player 156 discards a 255 to deck 157
+player 156 current hand : 455 12 496 719 468 976 255 787 126 732 396 1000 78 825 412 926 215 33 374 54 
+player 156 draws a 795 from deck 156
+player 156 discards a 455 to deck 157
+player 156 current hand : 12 496 719 468 976 255 787 126 732 396 1000 78 825 412 926 215 33 374 54 795 
+player 156 draws a 587 from deck 156
+player 156 discards a 12 to deck 157
+player 156 current hand : 496 719 468 976 255 787 126 732 396 1000 78 825 412 926 215 33 374 54 795 587 
+player 156 draws a 105 from deck 156
+player 156 discards a 496 to deck 157
+player 156 current hand : 719 468 976 255 787 126 732 396 1000 78 825 412 926 215 33 374 54 795 587 105 
+player 156 draws a 812 from deck 156
+player 156 discards a 719 to deck 157
+player 156 current hand : 468 976 255 787 126 732 396 1000 78 825 412 926 215 33 374 54 795 587 105 812 
+player 156 draws a 332 from deck 156
+player 156 discards a 468 to deck 157
+player 156 current hand : 976 255 787 126 732 396 1000 78 825 412 926 215 33 374 54 795 587 105 812 332 
+player 156 draws a 765 from deck 156
+player 156 discards a 976 to deck 157
+player 156 current hand : 255 787 126 732 396 1000 78 825 412 926 215 33 374 54 795 587 105 812 332 765 
+player 156 draws a 51 from deck 156
+player 156 discards a 255 to deck 157
+player 156 current hand : 787 126 732 396 1000 78 825 412 926 215 33 374 54 795 587 105 812 332 765 51 
+player 156 draws a 631 from deck 156
+player 156 discards a 787 to deck 157
+player 156 current hand : 126 732 396 1000 78 825 412 926 215 33 374 54 795 587 105 812 332 765 51 631 
+player 156 draws a 226 from deck 156
+player 156 discards a 126 to deck 157
+player 156 current hand : 732 396 1000 78 825 412 926 215 33 374 54 795 587 105 812 332 765 51 631 226 
+player 156 draws a 646 from deck 156
+player 156 discards a 732 to deck 157
+player 156 current hand : 396 1000 78 825 412 926 215 33 374 54 795 587 105 812 332 765 51 631 226 646 
+player 156 draws a 177 from deck 156
+player 156 discards a 396 to deck 157
+player 156 current hand : 1000 78 825 412 926 215 33 374 54 795 587 105 812 332 765 51 631 226 646 177 
+player 156 draws a 490 from deck 156
+player 156 discards a 1000 to deck 157
+player 156 current hand : 78 825 412 926 215 33 374 54 795 587 105 812 332 765 51 631 226 646 177 490 
+player 156 draws a 19 from deck 156
+player 156 discards a 78 to deck 157
+player 156 current hand : 825 412 926 215 33 374 54 795 587 105 812 332 765 51 631 226 646 177 490 19 
+player 156 draws a 956 from deck 156
+player 156 discards a 825 to deck 157
+player 156 current hand : 412 926 215 33 374 54 795 587 105 812 332 765 51 631 226 646 177 490 19 956 
+player 156 draws a 617 from deck 156
+player 156 discards a 412 to deck 157
+player 156 current hand : 926 215 33 374 54 795 587 105 812 332 765 51 631 226 646 177 490 19 956 617 
+player 156 draws a 396 from deck 156
+player 156 discards a 926 to deck 157
+player 156 current hand : 215 33 374 54 795 587 105 812 332 765 51 631 226 646 177 490 19 956 617 396 
+player 156 draws a 28 from deck 156
+player 156 discards a 215 to deck 157
+player 156 current hand : 33 374 54 795 587 105 812 332 765 51 631 226 646 177 490 19 956 617 396 28 
+player 156 draws a 730 from deck 156
+player 156 discards a 33 to deck 157
+player 156 current hand : 374 54 795 587 105 812 332 765 51 631 226 646 177 490 19 956 617 396 28 730 
+player 156 draws a 767 from deck 156
+player 156 discards a 374 to deck 157
+player 156 current hand : 54 795 587 105 812 332 765 51 631 226 646 177 490 19 956 617 396 28 730 767 
+player 156 draws a 514 from deck 156
+player 156 discards a 54 to deck 157
+player 156 current hand : 795 587 105 812 332 765 51 631 226 646 177 490 19 956 617 396 28 730 767 514 
+player 156 draws a 944 from deck 156
+player 156 discards a 795 to deck 157
+player 156 current hand : 587 105 812 332 765 51 631 226 646 177 490 19 956 617 396 28 730 767 514 944 
+player 156 draws a 754 from deck 156
+player 156 discards a 587 to deck 157
+player 156 current hand : 105 812 332 765 51 631 226 646 177 490 19 956 617 396 28 730 767 514 944 754 
+player 156 draws a 657 from deck 156
+player 156 discards a 105 to deck 157
+player 156 current hand : 812 332 765 51 631 226 646 177 490 19 956 617 396 28 730 767 514 944 754 657 
+player 156 draws a 599 from deck 156
+player 156 discards a 812 to deck 157
+player 156 current hand : 332 765 51 631 226 646 177 490 19 956 617 396 28 730 767 514 944 754 657 599 
+player 156 draws a 378 from deck 156
+player 156 discards a 332 to deck 157
+player 156 current hand : 765 51 631 226 646 177 490 19 956 617 396 28 730 767 514 944 754 657 599 378 
+player 156 draws a 164 from deck 156
+player 156 discards a 765 to deck 157
+player 156 current hand : 51 631 226 646 177 490 19 956 617 396 28 730 767 514 944 754 657 599 378 164 
+player 156 draws a 872 from deck 156
+player 156 discards a 51 to deck 157
+player 156 current hand : 631 226 646 177 490 19 956 617 396 28 730 767 514 944 754 657 599 378 164 872 
+player 156 draws a 49 from deck 156
+player 156 discards a 631 to deck 157
+player 156 current hand : 226 646 177 490 19 956 617 396 28 730 767 514 944 754 657 599 378 164 872 49 
+player 156 draws a 24 from deck 156
+player 156 discards a 226 to deck 157
+player 156 current hand : 646 177 490 19 956 617 396 28 730 767 514 944 754 657 599 378 164 872 49 24 
+player 156 draws a 62 from deck 156
+player 156 discards a 646 to deck 157

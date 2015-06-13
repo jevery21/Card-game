@@ -1,0 +1,304 @@
+player 570 initial hand 111 938 499 105 973 238 815 424 370 328 291 978 135 86 641 549 787 690 401 457 
+player 570 draws a 160 from deck 570
+player 570 discards a 111 to deck 571
+player 570 current hand : 938 499 105 973 238 815 424 370 328 291 978 135 86 641 549 787 690 401 457 160 
+player 570 draws a 875 from deck 570
+player 570 discards a 938 to deck 571
+player 570 current hand : 499 105 973 238 815 424 370 328 291 978 135 86 641 549 787 690 401 457 160 875 
+player 570 draws a 199 from deck 570
+player 570 discards a 499 to deck 571
+player 570 current hand : 105 973 238 815 424 370 328 291 978 135 86 641 549 787 690 401 457 160 875 199 
+player 570 draws a 16 from deck 570
+player 570 discards a 105 to deck 571
+player 570 current hand : 973 238 815 424 370 328 291 978 135 86 641 549 787 690 401 457 160 875 199 16 
+player 570 draws a 971 from deck 570
+player 570 discards a 973 to deck 571
+player 570 current hand : 238 815 424 370 328 291 978 135 86 641 549 787 690 401 457 160 875 199 16 971 
+player 570 draws a 130 from deck 570
+player 570 discards a 238 to deck 571
+player 570 current hand : 815 424 370 328 291 978 135 86 641 549 787 690 401 457 160 875 199 16 971 130 
+player 570 draws a 864 from deck 570
+player 570 discards a 815 to deck 571
+player 570 current hand : 424 370 328 291 978 135 86 641 549 787 690 401 457 160 875 199 16 971 130 864 
+player 570 draws a 677 from deck 570
+player 570 discards a 424 to deck 571
+player 570 current hand : 370 328 291 978 135 86 641 549 787 690 401 457 160 875 199 16 971 130 864 677 
+player 570 draws a 366 from deck 570
+player 570 discards a 370 to deck 571
+player 570 current hand : 328 291 978 135 86 641 549 787 690 401 457 160 875 199 16 971 130 864 677 366 
+player 570 draws a 872 from deck 570
+player 570 discards a 328 to deck 571
+player 570 current hand : 291 978 135 86 641 549 787 690 401 457 160 875 199 16 971 130 864 677 366 872 
+player 570 draws a 291 from deck 570
+player 570 discards a 291 to deck 571
+player 570 current hand : 978 135 86 641 549 787 690 401 457 160 875 199 16 971 130 864 677 366 872 291 
+player 570 draws a 42 from deck 570
+player 570 discards a 978 to deck 571
+player 570 current hand : 135 86 641 549 787 690 401 457 160 875 199 16 971 130 864 677 366 872 291 42 
+player 570 draws a 768 from deck 570
+player 570 discards a 135 to deck 571
+player 570 current hand : 86 641 549 787 690 401 457 160 875 199 16 971 130 864 677 366 872 291 42 768 
+player 570 draws a 824 from deck 570
+player 570 discards a 86 to deck 571
+player 570 current hand : 641 549 787 690 401 457 160 875 199 16 971 130 864 677 366 872 291 42 768 824 
+player 570 draws a 155 from deck 570
+player 570 discards a 641 to deck 571
+player 570 current hand : 549 787 690 401 457 160 875 199 16 971 130 864 677 366 872 291 42 768 824 155 
+player 570 draws a 420 from deck 570
+player 570 discards a 549 to deck 571
+player 570 current hand : 787 690 401 457 160 875 199 16 971 130 864 677 366 872 291 42 768 824 155 420 
+player 570 draws a 612 from deck 570
+player 570 discards a 787 to deck 571
+player 570 current hand : 690 401 457 160 875 199 16 971 130 864 677 366 872 291 42 768 824 155 420 612 
+player 570 draws a 356 from deck 570
+player 570 discards a 690 to deck 571
+player 570 current hand : 401 457 160 875 199 16 971 130 864 677 366 872 291 42 768 824 155 420 612 356 
+player 570 draws a 395 from deck 570
+player 570 discards a 401 to deck 571
+player 570 current hand : 457 160 875 199 16 971 130 864 677 366 872 291 42 768 824 155 420 612 356 395 
+player 570 draws a 168 from deck 570
+player 570 discards a 457 to deck 571
+player 570 current hand : 160 875 199 16 971 130 864 677 366 872 291 42 768 824 155 420 612 356 395 168 
+player 570 draws a 758 from deck 570
+player 570 discards a 160 to deck 571
+player 570 current hand : 875 199 16 971 130 864 677 366 872 291 42 768 824 155 420 612 356 395 168 758 
+player 570 draws a 407 from deck 570
+player 570 discards a 875 to deck 571
+player 570 current hand : 199 16 971 130 864 677 366 872 291 42 768 824 155 420 612 356 395 168 758 407 
+player 570 draws a 163 from deck 570
+player 570 discards a 199 to deck 571
+player 570 current hand : 16 971 130 864 677 366 872 291 42 768 824 155 420 612 356 395 168 758 407 163 
+player 570 draws a 142 from deck 570
+player 570 discards a 16 to deck 571
+player 570 current hand : 971 130 864 677 366 872 291 42 768 824 155 420 612 356 395 168 758 407 163 142 
+player 570 draws a 77 from deck 570
+player 570 discards a 971 to deck 571
+player 570 current hand : 130 864 677 366 872 291 42 768 824 155 420 612 356 395 168 758 407 163 142 77 
+player 570 draws a 210 from deck 570
+player 570 discards a 130 to deck 571
+player 570 current hand : 864 677 366 872 291 42 768 824 155 420 612 356 395 168 758 407 163 142 77 210 
+player 570 draws a 448 from deck 570
+player 570 discards a 864 to deck 571
+player 570 current hand : 677 366 872 291 42 768 824 155 420 612 356 395 168 758 407 163 142 77 210 448 
+player 570 draws a 78 from deck 570
+player 570 discards a 677 to deck 571
+player 570 current hand : 366 872 291 42 768 824 155 420 612 356 395 168 758 407 163 142 77 210 448 78 
+player 570 draws a 767 from deck 570
+player 570 discards a 366 to deck 571
+player 570 current hand : 872 291 42 768 824 155 420 612 356 395 168 758 407 163 142 77 210 448 78 767 
+player 570 draws a 399 from deck 570
+player 570 discards a 872 to deck 571
+player 570 current hand : 291 42 768 824 155 420 612 356 395 168 758 407 163 142 77 210 448 78 767 399 
+player 570 draws a 415 from deck 570
+player 570 discards a 291 to deck 571
+player 570 current hand : 42 768 824 155 420 612 356 395 168 758 407 163 142 77 210 448 78 767 399 415 
+player 570 draws a 417 from deck 570
+player 570 discards a 42 to deck 571
+player 570 current hand : 768 824 155 420 612 356 395 168 758 407 163 142 77 210 448 78 767 399 415 417 
+player 570 draws a 487 from deck 570
+player 570 discards a 768 to deck 571
+player 570 current hand : 824 155 420 612 356 395 168 758 407 163 142 77 210 448 78 767 399 415 417 487 
+player 570 draws a 529 from deck 570
+player 570 discards a 824 to deck 571
+player 570 current hand : 155 420 612 356 395 168 758 407 163 142 77 210 448 78 767 399 415 417 487 529 
+player 570 draws a 610 from deck 570
+player 570 discards a 155 to deck 571
+player 570 current hand : 420 612 356 395 168 758 407 163 142 77 210 448 78 767 399 415 417 487 529 610 
+player 570 draws a 4 from deck 570
+player 570 discards a 420 to deck 571
+player 570 current hand : 612 356 395 168 758 407 163 142 77 210 448 78 767 399 415 417 487 529 610 4 
+player 570 draws a 826 from deck 570
+player 570 discards a 612 to deck 571
+player 570 current hand : 356 395 168 758 407 163 142 77 210 448 78 767 399 415 417 487 529 610 4 826 
+player 570 draws a 291 from deck 570
+player 570 discards a 356 to deck 571
+player 570 current hand : 395 168 758 407 163 142 77 210 448 78 767 399 415 417 487 529 610 4 826 291 
+player 570 draws a 91 from deck 570
+player 570 discards a 395 to deck 571
+player 570 current hand : 168 758 407 163 142 77 210 448 78 767 399 415 417 487 529 610 4 826 291 91 
+player 570 draws a 515 from deck 570
+player 570 discards a 168 to deck 571
+player 570 current hand : 758 407 163 142 77 210 448 78 767 399 415 417 487 529 610 4 826 291 91 515 
+player 570 draws a 415 from deck 570
+player 570 discards a 758 to deck 571
+player 570 current hand : 407 163 142 77 210 448 78 767 399 415 417 487 529 610 4 826 291 91 515 415 
+player 570 draws a 681 from deck 570
+player 570 discards a 407 to deck 571
+player 570 current hand : 163 142 77 210 448 78 767 399 415 417 487 529 610 4 826 291 91 515 415 681 
+player 570 draws a 493 from deck 570
+player 570 discards a 163 to deck 571
+player 570 current hand : 142 77 210 448 78 767 399 415 417 487 529 610 4 826 291 91 515 415 681 493 
+player 570 draws a 871 from deck 570
+player 570 discards a 142 to deck 571
+player 570 current hand : 77 210 448 78 767 399 415 417 487 529 610 4 826 291 91 515 415 681 493 871 
+player 570 draws a 310 from deck 570
+player 570 discards a 77 to deck 571
+player 570 current hand : 210 448 78 767 399 415 417 487 529 610 4 826 291 91 515 415 681 493 871 310 
+player 570 draws a 675 from deck 570
+player 570 discards a 210 to deck 571
+player 570 current hand : 448 78 767 399 415 417 487 529 610 4 826 291 91 515 415 681 493 871 310 675 
+player 570 draws a 100 from deck 570
+player 570 discards a 448 to deck 571
+player 570 current hand : 78 767 399 415 417 487 529 610 4 826 291 91 515 415 681 493 871 310 675 100 
+player 570 draws a 589 from deck 570
+player 570 discards a 78 to deck 571
+player 570 current hand : 767 399 415 417 487 529 610 4 826 291 91 515 415 681 493 871 310 675 100 589 
+player 570 draws a 647 from deck 570
+player 570 discards a 767 to deck 571
+player 570 current hand : 399 415 417 487 529 610 4 826 291 91 515 415 681 493 871 310 675 100 589 647 
+player 570 draws a 449 from deck 570
+player 570 discards a 399 to deck 571
+player 570 current hand : 415 417 487 529 610 4 826 291 91 515 415 681 493 871 310 675 100 589 647 449 
+player 570 draws a 939 from deck 570
+player 570 discards a 415 to deck 571
+player 570 current hand : 417 487 529 610 4 826 291 91 515 415 681 493 871 310 675 100 589 647 449 939 
+player 570 draws a 252 from deck 570
+player 570 discards a 417 to deck 571
+player 570 current hand : 487 529 610 4 826 291 91 515 415 681 493 871 310 675 100 589 647 449 939 252 
+player 570 draws a 861 from deck 570
+player 570 discards a 487 to deck 571
+player 570 current hand : 529 610 4 826 291 91 515 415 681 493 871 310 675 100 589 647 449 939 252 861 
+player 570 draws a 861 from deck 570
+player 570 discards a 529 to deck 571
+player 570 current hand : 610 4 826 291 91 515 415 681 493 871 310 675 100 589 647 449 939 252 861 861 
+player 570 draws a 690 from deck 570
+player 570 discards a 610 to deck 571
+player 570 current hand : 4 826 291 91 515 415 681 493 871 310 675 100 589 647 449 939 252 861 861 690 
+player 570 draws a 667 from deck 570
+player 570 discards a 4 to deck 571
+player 570 current hand : 826 291 91 515 415 681 493 871 310 675 100 589 647 449 939 252 861 861 690 667 
+player 570 draws a 774 from deck 570
+player 570 discards a 826 to deck 571
+player 570 current hand : 291 91 515 415 681 493 871 310 675 100 589 647 449 939 252 861 861 690 667 774 
+player 570 draws a 720 from deck 570
+player 570 discards a 291 to deck 571
+player 570 current hand : 91 515 415 681 493 871 310 675 100 589 647 449 939 252 861 861 690 667 774 720 
+player 570 draws a 19 from deck 570
+player 570 discards a 91 to deck 571
+player 570 current hand : 515 415 681 493 871 310 675 100 589 647 449 939 252 861 861 690 667 774 720 19 
+player 570 draws a 189 from deck 570
+player 570 discards a 515 to deck 571
+player 570 current hand : 415 681 493 871 310 675 100 589 647 449 939 252 861 861 690 667 774 720 19 189 
+player 570 draws a 481 from deck 570
+player 570 discards a 415 to deck 571
+player 570 current hand : 681 493 871 310 675 100 589 647 449 939 252 861 861 690 667 774 720 19 189 481 
+player 570 draws a 666 from deck 570
+player 570 discards a 681 to deck 571
+player 570 current hand : 493 871 310 675 100 589 647 449 939 252 861 861 690 667 774 720 19 189 481 666 
+player 570 draws a 457 from deck 570
+player 570 discards a 493 to deck 571
+player 570 current hand : 871 310 675 100 589 647 449 939 252 861 861 690 667 774 720 19 189 481 666 457 
+player 570 draws a 705 from deck 570
+player 570 discards a 871 to deck 571
+player 570 current hand : 310 675 100 589 647 449 939 252 861 861 690 667 774 720 19 189 481 666 457 705 
+player 570 draws a 720 from deck 570
+player 570 discards a 310 to deck 571
+player 570 current hand : 675 100 589 647 449 939 252 861 861 690 667 774 720 19 189 481 666 457 705 720 
+player 570 draws a 351 from deck 570
+player 570 discards a 675 to deck 571
+player 570 current hand : 100 589 647 449 939 252 861 861 690 667 774 720 19 189 481 666 457 705 720 351 
+player 570 draws a 640 from deck 570
+player 570 discards a 100 to deck 571
+player 570 current hand : 589 647 449 939 252 861 861 690 667 774 720 19 189 481 666 457 705 720 351 640 
+player 570 draws a 740 from deck 570
+player 570 discards a 589 to deck 571
+player 570 current hand : 647 449 939 252 861 861 690 667 774 720 19 189 481 666 457 705 720 351 640 740 
+player 570 draws a 222 from deck 570
+player 570 discards a 647 to deck 571
+player 570 current hand : 449 939 252 861 861 690 667 774 720 19 189 481 666 457 705 720 351 640 740 222 
+player 570 draws a 149 from deck 570
+player 570 discards a 449 to deck 571
+player 570 current hand : 939 252 861 861 690 667 774 720 19 189 481 666 457 705 720 351 640 740 222 149 
+player 570 draws a 103 from deck 570
+player 570 discards a 939 to deck 571
+player 570 current hand : 252 861 861 690 667 774 720 19 189 481 666 457 705 720 351 640 740 222 149 103 
+player 570 draws a 255 from deck 570
+player 570 discards a 252 to deck 571
+player 570 current hand : 861 861 690 667 774 720 19 189 481 666 457 705 720 351 640 740 222 149 103 255 
+player 570 draws a 458 from deck 570
+player 570 discards a 861 to deck 571
+player 570 current hand : 861 690 667 774 720 19 189 481 666 457 705 720 351 640 740 222 149 103 255 458 
+player 570 draws a 637 from deck 570
+player 570 discards a 861 to deck 571
+player 570 current hand : 690 667 774 720 19 189 481 666 457 705 720 351 640 740 222 149 103 255 458 637 
+player 570 draws a 563 from deck 570
+player 570 discards a 690 to deck 571
+player 570 current hand : 667 774 720 19 189 481 666 457 705 720 351 640 740 222 149 103 255 458 637 563 
+player 570 draws a 308 from deck 570
+player 570 discards a 667 to deck 571
+player 570 current hand : 774 720 19 189 481 666 457 705 720 351 640 740 222 149 103 255 458 637 563 308 
+player 570 draws a 391 from deck 570
+player 570 discards a 774 to deck 571
+player 570 current hand : 720 19 189 481 666 457 705 720 351 640 740 222 149 103 255 458 637 563 308 391 
+player 570 draws a 369 from deck 570
+player 570 discards a 720 to deck 571
+player 570 current hand : 19 189 481 666 457 705 720 351 640 740 222 149 103 255 458 637 563 308 391 369 
+player 570 draws a 708 from deck 570
+player 570 discards a 19 to deck 571
+player 570 current hand : 189 481 666 457 705 720 351 640 740 222 149 103 255 458 637 563 308 391 369 708 
+player 570 draws a 33 from deck 570
+player 570 discards a 189 to deck 571
+player 570 current hand : 481 666 457 705 720 351 640 740 222 149 103 255 458 637 563 308 391 369 708 33 
+player 570 draws a 699 from deck 570
+player 570 discards a 481 to deck 571
+player 570 current hand : 666 457 705 720 351 640 740 222 149 103 255 458 637 563 308 391 369 708 33 699 
+player 570 draws a 143 from deck 570
+player 570 discards a 666 to deck 571
+player 570 current hand : 457 705 720 351 640 740 222 149 103 255 458 637 563 308 391 369 708 33 699 143 
+player 570 draws a 838 from deck 570
+player 570 discards a 457 to deck 571
+player 570 current hand : 705 720 351 640 740 222 149 103 255 458 637 563 308 391 369 708 33 699 143 838 
+player 570 draws a 29 from deck 570
+player 570 discards a 705 to deck 571
+player 570 current hand : 720 351 640 740 222 149 103 255 458 637 563 308 391 369 708 33 699 143 838 29 
+player 570 draws a 509 from deck 570
+player 570 discards a 720 to deck 571
+player 570 current hand : 351 640 740 222 149 103 255 458 637 563 308 391 369 708 33 699 143 838 29 509 
+player 570 draws a 434 from deck 570
+player 570 discards a 351 to deck 571
+player 570 current hand : 640 740 222 149 103 255 458 637 563 308 391 369 708 33 699 143 838 29 509 434 
+player 570 draws a 341 from deck 570
+player 570 discards a 640 to deck 571
+player 570 current hand : 740 222 149 103 255 458 637 563 308 391 369 708 33 699 143 838 29 509 434 341 
+player 570 draws a 878 from deck 570
+player 570 discards a 740 to deck 571
+player 570 current hand : 222 149 103 255 458 637 563 308 391 369 708 33 699 143 838 29 509 434 341 878 
+player 570 draws a 293 from deck 570
+player 570 discards a 222 to deck 571
+player 570 current hand : 149 103 255 458 637 563 308 391 369 708 33 699 143 838 29 509 434 341 878 293 
+player 570 draws a 295 from deck 570
+player 570 discards a 149 to deck 571
+player 570 current hand : 103 255 458 637 563 308 391 369 708 33 699 143 838 29 509 434 341 878 293 295 
+player 570 draws a 636 from deck 570
+player 570 discards a 103 to deck 571
+player 570 current hand : 255 458 637 563 308 391 369 708 33 699 143 838 29 509 434 341 878 293 295 636 
+player 570 draws a 939 from deck 570
+player 570 discards a 255 to deck 571
+player 570 current hand : 458 637 563 308 391 369 708 33 699 143 838 29 509 434 341 878 293 295 636 939 
+player 570 draws a 359 from deck 570
+player 570 discards a 458 to deck 571
+player 570 current hand : 637 563 308 391 369 708 33 699 143 838 29 509 434 341 878 293 295 636 939 359 
+player 570 draws a 320 from deck 570
+player 570 discards a 637 to deck 571
+player 570 current hand : 563 308 391 369 708 33 699 143 838 29 509 434 341 878 293 295 636 939 359 320 
+player 570 draws a 673 from deck 570
+player 570 discards a 563 to deck 571
+player 570 current hand : 308 391 369 708 33 699 143 838 29 509 434 341 878 293 295 636 939 359 320 673 
+player 570 draws a 640 from deck 570
+player 570 discards a 308 to deck 571
+player 570 current hand : 391 369 708 33 699 143 838 29 509 434 341 878 293 295 636 939 359 320 673 640 
+player 570 draws a 337 from deck 570
+player 570 discards a 391 to deck 571
+player 570 current hand : 369 708 33 699 143 838 29 509 434 341 878 293 295 636 939 359 320 673 640 337 
+player 570 draws a 586 from deck 570
+player 570 discards a 369 to deck 571
+player 570 current hand : 708 33 699 143 838 29 509 434 341 878 293 295 636 939 359 320 673 640 337 586 
+player 570 draws a 776 from deck 570
+player 570 discards a 708 to deck 571
+player 570 current hand : 33 699 143 838 29 509 434 341 878 293 295 636 939 359 320 673 640 337 586 776 
+player 570 draws a 360 from deck 570
+player 570 discards a 33 to deck 571
+player 570 current hand : 699 143 838 29 509 434 341 878 293 295 636 939 359 320 673 640 337 586 776 360 
+player 570 draws a 49 from deck 570
+player 570 discards a 699 to deck 571
+player 570 current hand : 143 838 29 509 434 341 878 293 295 636 939 359 320 673 640 337 586 776 360 49 

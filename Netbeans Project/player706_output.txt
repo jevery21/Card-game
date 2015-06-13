@@ -1,0 +1,326 @@
+player 706 initial hand 232 813 661 576 795 183 951 61 31 159 531 542 399 598 682 592 169 158 684 91 
+player 706 draws a 878 from deck 706
+player 706 discards a 232 to deck 707
+player 706 current hand : 813 661 576 795 183 951 61 31 159 531 542 399 598 682 592 169 158 684 91 878 
+player 706 draws a 505 from deck 706
+player 706 discards a 813 to deck 707
+player 706 current hand : 661 576 795 183 951 61 31 159 531 542 399 598 682 592 169 158 684 91 878 505 
+player 706 draws a 242 from deck 706
+player 706 discards a 661 to deck 707
+player 706 current hand : 576 795 183 951 61 31 159 531 542 399 598 682 592 169 158 684 91 878 505 242 
+player 706 draws a 879 from deck 706
+player 706 discards a 576 to deck 707
+player 706 current hand : 795 183 951 61 31 159 531 542 399 598 682 592 169 158 684 91 878 505 242 879 
+player 706 draws a 647 from deck 706
+player 706 discards a 795 to deck 707
+player 706 current hand : 183 951 61 31 159 531 542 399 598 682 592 169 158 684 91 878 505 242 879 647 
+player 706 draws a 65 from deck 706
+player 706 discards a 183 to deck 707
+player 706 current hand : 951 61 31 159 531 542 399 598 682 592 169 158 684 91 878 505 242 879 647 65 
+player 706 draws a 285 from deck 706
+player 706 discards a 951 to deck 707
+player 706 current hand : 61 31 159 531 542 399 598 682 592 169 158 684 91 878 505 242 879 647 65 285 
+player 706 draws a 826 from deck 706
+player 706 discards a 61 to deck 707
+player 706 current hand : 31 159 531 542 399 598 682 592 169 158 684 91 878 505 242 879 647 65 285 826 
+player 706 draws a 808 from deck 706
+player 706 discards a 31 to deck 707
+player 706 current hand : 159 531 542 399 598 682 592 169 158 684 91 878 505 242 879 647 65 285 826 808 
+player 706 draws a 164 from deck 706
+player 706 discards a 159 to deck 707
+player 706 current hand : 531 542 399 598 682 592 169 158 684 91 878 505 242 879 647 65 285 826 808 164 
+player 706 draws a 283 from deck 706
+player 706 discards a 531 to deck 707
+player 706 current hand : 542 399 598 682 592 169 158 684 91 878 505 242 879 647 65 285 826 808 164 283 
+player 706 draws a 667 from deck 706
+player 706 discards a 542 to deck 707
+player 706 current hand : 399 598 682 592 169 158 684 91 878 505 242 879 647 65 285 826 808 164 283 667 
+player 706 draws a 217 from deck 706
+player 706 discards a 399 to deck 707
+player 706 current hand : 598 682 592 169 158 684 91 878 505 242 879 647 65 285 826 808 164 283 667 217 
+player 706 draws a 493 from deck 706
+player 706 discards a 598 to deck 707
+player 706 current hand : 682 592 169 158 684 91 878 505 242 879 647 65 285 826 808 164 283 667 217 493 
+player 706 draws a 18 from deck 706
+player 706 discards a 682 to deck 707
+player 706 current hand : 592 169 158 684 91 878 505 242 879 647 65 285 826 808 164 283 667 217 493 18 
+player 706 draws a 348 from deck 706
+player 706 discards a 592 to deck 707
+player 706 current hand : 169 158 684 91 878 505 242 879 647 65 285 826 808 164 283 667 217 493 18 348 
+player 706 draws a 61 from deck 706
+player 706 discards a 169 to deck 707
+player 706 current hand : 158 684 91 878 505 242 879 647 65 285 826 808 164 283 667 217 493 18 348 61 
+player 706 draws a 135 from deck 706
+player 706 discards a 158 to deck 707
+player 706 current hand : 684 91 878 505 242 879 647 65 285 826 808 164 283 667 217 493 18 348 61 135 
+player 706 draws a 685 from deck 706
+player 706 discards a 684 to deck 707
+player 706 current hand : 91 878 505 242 879 647 65 285 826 808 164 283 667 217 493 18 348 61 135 685 
+player 706 draws a 495 from deck 706
+player 706 discards a 91 to deck 707
+player 706 current hand : 878 505 242 879 647 65 285 826 808 164 283 667 217 493 18 348 61 135 685 495 
+player 706 draws a 924 from deck 706
+player 706 discards a 878 to deck 707
+player 706 current hand : 505 242 879 647 65 285 826 808 164 283 667 217 493 18 348 61 135 685 495 924 
+player 706 draws a 508 from deck 706
+player 706 discards a 505 to deck 707
+player 706 current hand : 242 879 647 65 285 826 808 164 283 667 217 493 18 348 61 135 685 495 924 508 
+player 706 draws a 305 from deck 706
+player 706 discards a 242 to deck 707
+player 706 current hand : 879 647 65 285 826 808 164 283 667 217 493 18 348 61 135 685 495 924 508 305 
+player 706 draws a 847 from deck 706
+player 706 discards a 879 to deck 707
+player 706 current hand : 647 65 285 826 808 164 283 667 217 493 18 348 61 135 685 495 924 508 305 847 
+player 706 draws a 788 from deck 706
+player 706 discards a 647 to deck 707
+player 706 current hand : 65 285 826 808 164 283 667 217 493 18 348 61 135 685 495 924 508 305 847 788 
+player 706 draws a 993 from deck 706
+player 706 discards a 65 to deck 707
+player 706 current hand : 285 826 808 164 283 667 217 493 18 348 61 135 685 495 924 508 305 847 788 993 
+player 706 draws a 729 from deck 706
+player 706 discards a 285 to deck 707
+player 706 current hand : 826 808 164 283 667 217 493 18 348 61 135 685 495 924 508 305 847 788 993 729 
+player 706 draws a 403 from deck 706
+player 706 discards a 826 to deck 707
+player 706 current hand : 808 164 283 667 217 493 18 348 61 135 685 495 924 508 305 847 788 993 729 403 
+player 706 draws a 631 from deck 706
+player 706 discards a 808 to deck 707
+player 706 current hand : 164 283 667 217 493 18 348 61 135 685 495 924 508 305 847 788 993 729 403 631 
+player 706 draws a 411 from deck 706
+player 706 discards a 164 to deck 707
+player 706 current hand : 283 667 217 493 18 348 61 135 685 495 924 508 305 847 788 993 729 403 631 411 
+player 706 draws a 908 from deck 706
+player 706 discards a 283 to deck 707
+player 706 current hand : 667 217 493 18 348 61 135 685 495 924 508 305 847 788 993 729 403 631 411 908 
+player 706 draws a 805 from deck 706
+player 706 discards a 667 to deck 707
+player 706 current hand : 217 493 18 348 61 135 685 495 924 508 305 847 788 993 729 403 631 411 908 805 
+player 706 draws a 758 from deck 706
+player 706 discards a 217 to deck 707
+player 706 current hand : 493 18 348 61 135 685 495 924 508 305 847 788 993 729 403 631 411 908 805 758 
+player 706 draws a 32 from deck 706
+player 706 discards a 493 to deck 707
+player 706 current hand : 18 348 61 135 685 495 924 508 305 847 788 993 729 403 631 411 908 805 758 32 
+player 706 draws a 613 from deck 706
+player 706 discards a 18 to deck 707
+player 706 current hand : 348 61 135 685 495 924 508 305 847 788 993 729 403 631 411 908 805 758 32 613 
+player 706 draws a 518 from deck 706
+player 706 discards a 348 to deck 707
+player 706 current hand : 61 135 685 495 924 508 305 847 788 993 729 403 631 411 908 805 758 32 613 518 
+player 706 draws a 200 from deck 706
+player 706 discards a 61 to deck 707
+player 706 current hand : 135 685 495 924 508 305 847 788 993 729 403 631 411 908 805 758 32 613 518 200 
+player 706 draws a 950 from deck 706
+player 706 discards a 135 to deck 707
+player 706 current hand : 685 495 924 508 305 847 788 993 729 403 631 411 908 805 758 32 613 518 200 950 
+player 706 draws a 392 from deck 706
+player 706 discards a 685 to deck 707
+player 706 current hand : 495 924 508 305 847 788 993 729 403 631 411 908 805 758 32 613 518 200 950 392 
+player 706 draws a 951 from deck 706
+player 706 discards a 495 to deck 707
+player 706 current hand : 924 508 305 847 788 993 729 403 631 411 908 805 758 32 613 518 200 950 392 951 
+player 706 draws a 743 from deck 706
+player 706 discards a 924 to deck 707
+player 706 current hand : 508 305 847 788 993 729 403 631 411 908 805 758 32 613 518 200 950 392 951 743 
+player 706 draws a 448 from deck 706
+player 706 discards a 508 to deck 707
+player 706 current hand : 305 847 788 993 729 403 631 411 908 805 758 32 613 518 200 950 392 951 743 448 
+player 706 draws a 96 from deck 706
+player 706 discards a 305 to deck 707
+player 706 current hand : 847 788 993 729 403 631 411 908 805 758 32 613 518 200 950 392 951 743 448 96 
+player 706 draws a 527 from deck 706
+player 706 discards a 847 to deck 707
+player 706 current hand : 788 993 729 403 631 411 908 805 758 32 613 518 200 950 392 951 743 448 96 527 
+player 706 draws a 491 from deck 706
+player 706 discards a 788 to deck 707
+player 706 current hand : 993 729 403 631 411 908 805 758 32 613 518 200 950 392 951 743 448 96 527 491 
+player 706 draws a 239 from deck 706
+player 706 discards a 993 to deck 707
+player 706 current hand : 729 403 631 411 908 805 758 32 613 518 200 950 392 951 743 448 96 527 491 239 
+player 706 draws a 707 from deck 706
+player 706 discards a 729 to deck 707
+player 706 current hand : 403 631 411 908 805 758 32 613 518 200 950 392 951 743 448 96 527 491 239 707 
+player 706 draws a 170 from deck 706
+player 706 discards a 403 to deck 707
+player 706 current hand : 631 411 908 805 758 32 613 518 200 950 392 951 743 448 96 527 491 239 707 170 
+player 706 draws a 546 from deck 706
+player 706 discards a 631 to deck 707
+player 706 current hand : 411 908 805 758 32 613 518 200 950 392 951 743 448 96 527 491 239 707 170 546 
+player 706 draws a 432 from deck 706
+player 706 discards a 411 to deck 707
+player 706 current hand : 908 805 758 32 613 518 200 950 392 951 743 448 96 527 491 239 707 170 546 432 
+player 706 draws a 112 from deck 706
+player 706 discards a 908 to deck 707
+player 706 current hand : 805 758 32 613 518 200 950 392 951 743 448 96 527 491 239 707 170 546 432 112 
+player 706 draws a 429 from deck 706
+player 706 discards a 805 to deck 707
+player 706 current hand : 758 32 613 518 200 950 392 951 743 448 96 527 491 239 707 170 546 432 112 429 
+player 706 draws a 186 from deck 706
+player 706 discards a 758 to deck 707
+player 706 current hand : 32 613 518 200 950 392 951 743 448 96 527 491 239 707 170 546 432 112 429 186 
+player 706 draws a 514 from deck 706
+player 706 discards a 32 to deck 707
+player 706 current hand : 613 518 200 950 392 951 743 448 96 527 491 239 707 170 546 432 112 429 186 514 
+player 706 draws a 999 from deck 706
+player 706 discards a 613 to deck 707
+player 706 current hand : 518 200 950 392 951 743 448 96 527 491 239 707 170 546 432 112 429 186 514 999 
+player 706 draws a 392 from deck 706
+player 706 discards a 518 to deck 707
+player 706 current hand : 200 950 392 951 743 448 96 527 491 239 707 170 546 432 112 429 186 514 999 392 
+player 706 draws a 880 from deck 706
+player 706 discards a 200 to deck 707
+player 706 current hand : 950 392 951 743 448 96 527 491 239 707 170 546 432 112 429 186 514 999 392 880 
+player 706 draws a 513 from deck 706
+player 706 discards a 950 to deck 707
+player 706 current hand : 392 951 743 448 96 527 491 239 707 170 546 432 112 429 186 514 999 392 880 513 
+player 706 draws a 957 from deck 706
+player 706 discards a 392 to deck 707
+player 706 current hand : 951 743 448 96 527 491 239 707 170 546 432 112 429 186 514 999 392 880 513 957 
+player 706 draws a 981 from deck 706
+player 706 discards a 951 to deck 707
+player 706 current hand : 743 448 96 527 491 239 707 170 546 432 112 429 186 514 999 392 880 513 957 981 
+player 706 draws a 826 from deck 706
+player 706 discards a 743 to deck 707
+player 706 current hand : 448 96 527 491 239 707 170 546 432 112 429 186 514 999 392 880 513 957 981 826 
+player 706 draws a 338 from deck 706
+player 706 discards a 448 to deck 707
+player 706 current hand : 96 527 491 239 707 170 546 432 112 429 186 514 999 392 880 513 957 981 826 338 
+player 706 draws a 103 from deck 706
+player 706 discards a 96 to deck 707
+player 706 current hand : 527 491 239 707 170 546 432 112 429 186 514 999 392 880 513 957 981 826 338 103 
+player 706 draws a 786 from deck 706
+player 706 discards a 527 to deck 707
+player 706 current hand : 491 239 707 170 546 432 112 429 186 514 999 392 880 513 957 981 826 338 103 786 
+player 706 draws a 341 from deck 706
+player 706 discards a 491 to deck 707
+player 706 current hand : 239 707 170 546 432 112 429 186 514 999 392 880 513 957 981 826 338 103 786 341 
+player 706 draws a 268 from deck 706
+player 706 discards a 239 to deck 707
+player 706 current hand : 707 170 546 432 112 429 186 514 999 392 880 513 957 981 826 338 103 786 341 268 
+player 706 draws a 429 from deck 706
+player 706 discards a 707 to deck 707
+player 706 current hand : 170 546 432 112 429 186 514 999 392 880 513 957 981 826 338 103 786 341 268 429 
+player 706 draws a 712 from deck 706
+player 706 discards a 170 to deck 707
+player 706 current hand : 546 432 112 429 186 514 999 392 880 513 957 981 826 338 103 786 341 268 429 712 
+player 706 draws a 922 from deck 706
+player 706 discards a 546 to deck 707
+player 706 current hand : 432 112 429 186 514 999 392 880 513 957 981 826 338 103 786 341 268 429 712 922 
+player 706 draws a 817 from deck 706
+player 706 discards a 432 to deck 707
+player 706 current hand : 112 429 186 514 999 392 880 513 957 981 826 338 103 786 341 268 429 712 922 817 
+player 706 draws a 199 from deck 706
+player 706 discards a 112 to deck 707
+player 706 current hand : 429 186 514 999 392 880 513 957 981 826 338 103 786 341 268 429 712 922 817 199 
+player 706 draws a 951 from deck 706
+player 706 discards a 429 to deck 707
+player 706 current hand : 186 514 999 392 880 513 957 981 826 338 103 786 341 268 429 712 922 817 199 951 
+player 706 draws a 117 from deck 706
+player 706 discards a 186 to deck 707
+player 706 current hand : 514 999 392 880 513 957 981 826 338 103 786 341 268 429 712 922 817 199 951 117 
+player 706 draws a 452 from deck 706
+player 706 discards a 514 to deck 707
+player 706 current hand : 999 392 880 513 957 981 826 338 103 786 341 268 429 712 922 817 199 951 117 452 
+player 706 draws a 326 from deck 706
+player 706 discards a 999 to deck 707
+player 706 current hand : 392 880 513 957 981 826 338 103 786 341 268 429 712 922 817 199 951 117 452 326 
+player 706 draws a 589 from deck 706
+player 706 discards a 392 to deck 707
+player 706 current hand : 880 513 957 981 826 338 103 786 341 268 429 712 922 817 199 951 117 452 326 589 
+player 706 draws a 575 from deck 706
+player 706 discards a 880 to deck 707
+player 706 current hand : 513 957 981 826 338 103 786 341 268 429 712 922 817 199 951 117 452 326 589 575 
+player 706 draws a 768 from deck 706
+player 706 discards a 513 to deck 707
+player 706 current hand : 957 981 826 338 103 786 341 268 429 712 922 817 199 951 117 452 326 589 575 768 
+player 706 draws a 686 from deck 706
+player 706 discards a 957 to deck 707
+player 706 current hand : 981 826 338 103 786 341 268 429 712 922 817 199 951 117 452 326 589 575 768 686 
+player 706 draws a 282 from deck 706
+player 706 discards a 981 to deck 707
+player 706 current hand : 826 338 103 786 341 268 429 712 922 817 199 951 117 452 326 589 575 768 686 282 
+player 706 draws a 826 from deck 706
+player 706 discards a 826 to deck 707
+player 706 current hand : 338 103 786 341 268 429 712 922 817 199 951 117 452 326 589 575 768 686 282 826 
+player 706 draws a 822 from deck 706
+player 706 discards a 338 to deck 707
+player 706 current hand : 103 786 341 268 429 712 922 817 199 951 117 452 326 589 575 768 686 282 826 822 
+player 706 draws a 169 from deck 706
+player 706 discards a 103 to deck 707
+player 706 current hand : 786 341 268 429 712 922 817 199 951 117 452 326 589 575 768 686 282 826 822 169 
+player 706 draws a 894 from deck 706
+player 706 discards a 786 to deck 707
+player 706 current hand : 341 268 429 712 922 817 199 951 117 452 326 589 575 768 686 282 826 822 169 894 
+player 706 draws a 85 from deck 706
+player 706 discards a 341 to deck 707
+player 706 current hand : 268 429 712 922 817 199 951 117 452 326 589 575 768 686 282 826 822 169 894 85 
+player 706 draws a 378 from deck 706
+player 706 discards a 268 to deck 707
+player 706 current hand : 429 712 922 817 199 951 117 452 326 589 575 768 686 282 826 822 169 894 85 378 
+player 706 draws a 941 from deck 706
+player 706 discards a 429 to deck 707
+player 706 current hand : 712 922 817 199 951 117 452 326 589 575 768 686 282 826 822 169 894 85 378 941 
+player 706 draws a 229 from deck 706
+player 706 discards a 712 to deck 707
+player 706 current hand : 922 817 199 951 117 452 326 589 575 768 686 282 826 822 169 894 85 378 941 229 
+player 706 draws a 483 from deck 706
+player 706 discards a 922 to deck 707
+player 706 current hand : 817 199 951 117 452 326 589 575 768 686 282 826 822 169 894 85 378 941 229 483 
+player 706 draws a 930 from deck 706
+player 706 discards a 817 to deck 707
+player 706 current hand : 199 951 117 452 326 589 575 768 686 282 826 822 169 894 85 378 941 229 483 930 
+player 706 draws a 878 from deck 706
+player 706 discards a 199 to deck 707
+player 706 current hand : 951 117 452 326 589 575 768 686 282 826 822 169 894 85 378 941 229 483 930 878 
+player 706 draws a 627 from deck 706
+player 706 discards a 951 to deck 707
+player 706 current hand : 117 452 326 589 575 768 686 282 826 822 169 894 85 378 941 229 483 930 878 627 
+player 706 draws a 554 from deck 706
+player 706 discards a 117 to deck 707
+player 706 current hand : 452 326 589 575 768 686 282 826 822 169 894 85 378 941 229 483 930 878 627 554 
+player 706 draws a 623 from deck 706
+player 706 discards a 452 to deck 707
+player 706 current hand : 326 589 575 768 686 282 826 822 169 894 85 378 941 229 483 930 878 627 554 623 
+player 706 draws a 636 from deck 706
+player 706 discards a 326 to deck 707
+player 706 current hand : 589 575 768 686 282 826 822 169 894 85 378 941 229 483 930 878 627 554 623 636 
+player 706 draws a 245 from deck 706
+player 706 discards a 589 to deck 707
+player 706 current hand : 575 768 686 282 826 822 169 894 85 378 941 229 483 930 878 627 554 623 636 245 
+player 706 draws a 1000 from deck 706
+player 706 discards a 575 to deck 707
+player 706 current hand : 768 686 282 826 822 169 894 85 378 941 229 483 930 878 627 554 623 636 245 1000 
+player 706 draws a 443 from deck 706
+player 706 discards a 768 to deck 707
+player 706 current hand : 686 282 826 822 169 894 85 378 941 229 483 930 878 627 554 623 636 245 1000 443 
+player 706 draws a 374 from deck 706
+player 706 discards a 686 to deck 707
+player 706 current hand : 282 826 822 169 894 85 378 941 229 483 930 878 627 554 623 636 245 1000 443 374 
+player 706 draws a 762 from deck 706
+player 706 discards a 282 to deck 707
+player 706 current hand : 826 822 169 894 85 378 941 229 483 930 878 627 554 623 636 245 1000 443 374 762 
+player 706 draws a 458 from deck 706
+player 706 discards a 826 to deck 707
+player 706 current hand : 822 169 894 85 378 941 229 483 930 878 627 554 623 636 245 1000 443 374 762 458 
+player 706 draws a 103 from deck 706
+player 706 discards a 822 to deck 707
+player 706 current hand : 169 894 85 378 941 229 483 930 878 627 554 623 636 245 1000 443 374 762 458 103 
+player 706 draws a 18 from deck 706
+player 706 discards a 169 to deck 707
+player 706 current hand : 894 85 378 941 229 483 930 878 627 554 623 636 245 1000 443 374 762 458 103 18 
+player 706 draws a 102 from deck 706
+player 706 discards a 894 to deck 707
+player 706 current hand : 85 378 941 229 483 930 878 627 554 623 636 245 1000 443 374 762 458 103 18 102 
+player 706 draws a 542 from deck 706
+player 706 discards a 85 to deck 707
+player 706 current hand : 378 941 229 483 930 878 627 554 623 636 245 1000 443 374 762 458 103 18 102 542 
+player 706 draws a 604 from deck 706
+player 706 discards a 378 to deck 707
+player 706 current hand : 941 229 483 930 878 627 554 623 636 245 1000 443 374 762 458 103 18 102 542 604 
+player 706 draws a 905 from deck 706
+player 706 discards a 941 to deck 707
+player 706 current hand : 229 483 930 878 627 554 623 636 245 1000 443 374 762 458 103 18 102 542 604 905 
+player 706 draws a 106 from deck 706
+player 706 discards a 229 to deck 707
+player 706 current hand : 483 930 878 627 554 623 636 245 1000 443 374 762 458 103 18 102 542 604 905 106 
+player 706 draws a 65 from deck 706

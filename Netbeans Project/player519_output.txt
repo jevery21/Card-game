@@ -1,0 +1,331 @@
+player 519 initial hand 466 117 886 136 571 541 233 633 511 571 838 399 153 926 262 186 196 490 296 423 
+player 519 draws a 462 from deck 519
+player 519 discards a 466 to deck 520
+player 519 current hand : 117 886 136 571 541 233 633 511 571 838 399 153 926 262 186 196 490 296 423 462 
+player 519 draws a 180 from deck 519
+player 519 discards a 117 to deck 520
+player 519 current hand : 886 136 571 541 233 633 511 571 838 399 153 926 262 186 196 490 296 423 462 180 
+player 519 draws a 429 from deck 519
+player 519 discards a 886 to deck 520
+player 519 current hand : 136 571 541 233 633 511 571 838 399 153 926 262 186 196 490 296 423 462 180 429 
+player 519 draws a 102 from deck 519
+player 519 discards a 136 to deck 520
+player 519 current hand : 571 541 233 633 511 571 838 399 153 926 262 186 196 490 296 423 462 180 429 102 
+player 519 draws a 513 from deck 519
+player 519 discards a 571 to deck 520
+player 519 current hand : 541 233 633 511 571 838 399 153 926 262 186 196 490 296 423 462 180 429 102 513 
+player 519 draws a 267 from deck 519
+player 519 discards a 541 to deck 520
+player 519 current hand : 233 633 511 571 838 399 153 926 262 186 196 490 296 423 462 180 429 102 513 267 
+player 519 draws a 562 from deck 519
+player 519 discards a 233 to deck 520
+player 519 current hand : 633 511 571 838 399 153 926 262 186 196 490 296 423 462 180 429 102 513 267 562 
+player 519 draws a 855 from deck 519
+player 519 discards a 633 to deck 520
+player 519 current hand : 511 571 838 399 153 926 262 186 196 490 296 423 462 180 429 102 513 267 562 855 
+player 519 draws a 272 from deck 519
+player 519 discards a 511 to deck 520
+player 519 current hand : 571 838 399 153 926 262 186 196 490 296 423 462 180 429 102 513 267 562 855 272 
+player 519 draws a 291 from deck 519
+player 519 discards a 571 to deck 520
+player 519 current hand : 838 399 153 926 262 186 196 490 296 423 462 180 429 102 513 267 562 855 272 291 
+player 519 draws a 265 from deck 519
+player 519 discards a 838 to deck 520
+player 519 current hand : 399 153 926 262 186 196 490 296 423 462 180 429 102 513 267 562 855 272 291 265 
+player 519 draws a 22 from deck 519
+player 519 discards a 399 to deck 520
+player 519 current hand : 153 926 262 186 196 490 296 423 462 180 429 102 513 267 562 855 272 291 265 22 
+player 519 draws a 724 from deck 519
+player 519 discards a 153 to deck 520
+player 519 current hand : 926 262 186 196 490 296 423 462 180 429 102 513 267 562 855 272 291 265 22 724 
+player 519 draws a 223 from deck 519
+player 519 discards a 926 to deck 520
+player 519 current hand : 262 186 196 490 296 423 462 180 429 102 513 267 562 855 272 291 265 22 724 223 
+player 519 draws a 62 from deck 519
+player 519 discards a 262 to deck 520
+player 519 current hand : 186 196 490 296 423 462 180 429 102 513 267 562 855 272 291 265 22 724 223 62 
+player 519 draws a 604 from deck 519
+player 519 discards a 186 to deck 520
+player 519 current hand : 196 490 296 423 462 180 429 102 513 267 562 855 272 291 265 22 724 223 62 604 
+player 519 draws a 758 from deck 519
+player 519 discards a 196 to deck 520
+player 519 current hand : 490 296 423 462 180 429 102 513 267 562 855 272 291 265 22 724 223 62 604 758 
+player 519 draws a 791 from deck 519
+player 519 discards a 490 to deck 520
+player 519 current hand : 296 423 462 180 429 102 513 267 562 855 272 291 265 22 724 223 62 604 758 791 
+player 519 draws a 256 from deck 519
+player 519 discards a 296 to deck 520
+player 519 current hand : 423 462 180 429 102 513 267 562 855 272 291 265 22 724 223 62 604 758 791 256 
+player 519 draws a 86 from deck 519
+player 519 discards a 423 to deck 520
+player 519 current hand : 462 180 429 102 513 267 562 855 272 291 265 22 724 223 62 604 758 791 256 86 
+player 519 draws a 303 from deck 519
+player 519 discards a 462 to deck 520
+player 519 current hand : 180 429 102 513 267 562 855 272 291 265 22 724 223 62 604 758 791 256 86 303 
+player 519 draws a 917 from deck 519
+player 519 discards a 180 to deck 520
+player 519 current hand : 429 102 513 267 562 855 272 291 265 22 724 223 62 604 758 791 256 86 303 917 
+player 519 draws a 178 from deck 519
+player 519 discards a 429 to deck 520
+player 519 current hand : 102 513 267 562 855 272 291 265 22 724 223 62 604 758 791 256 86 303 917 178 
+player 519 draws a 499 from deck 519
+player 519 discards a 102 to deck 520
+player 519 current hand : 513 267 562 855 272 291 265 22 724 223 62 604 758 791 256 86 303 917 178 499 
+player 519 draws a 227 from deck 519
+player 519 discards a 513 to deck 520
+player 519 current hand : 267 562 855 272 291 265 22 724 223 62 604 758 791 256 86 303 917 178 499 227 
+player 519 draws a 810 from deck 519
+player 519 discards a 267 to deck 520
+player 519 current hand : 562 855 272 291 265 22 724 223 62 604 758 791 256 86 303 917 178 499 227 810 
+player 519 draws a 971 from deck 519
+player 519 discards a 562 to deck 520
+player 519 current hand : 855 272 291 265 22 724 223 62 604 758 791 256 86 303 917 178 499 227 810 971 
+player 519 draws a 856 from deck 519
+player 519 discards a 855 to deck 520
+player 519 current hand : 272 291 265 22 724 223 62 604 758 791 256 86 303 917 178 499 227 810 971 856 
+player 519 draws a 309 from deck 519
+player 519 discards a 272 to deck 520
+player 519 current hand : 291 265 22 724 223 62 604 758 791 256 86 303 917 178 499 227 810 971 856 309 
+player 519 draws a 1 from deck 519
+player 519 discards a 291 to deck 520
+player 519 current hand : 265 22 724 223 62 604 758 791 256 86 303 917 178 499 227 810 971 856 309 1 
+player 519 draws a 950 from deck 519
+player 519 discards a 265 to deck 520
+player 519 current hand : 22 724 223 62 604 758 791 256 86 303 917 178 499 227 810 971 856 309 1 950 
+player 519 draws a 809 from deck 519
+player 519 discards a 22 to deck 520
+player 519 current hand : 724 223 62 604 758 791 256 86 303 917 178 499 227 810 971 856 309 1 950 809 
+player 519 draws a 575 from deck 519
+player 519 discards a 724 to deck 520
+player 519 current hand : 223 62 604 758 791 256 86 303 917 178 499 227 810 971 856 309 1 950 809 575 
+player 519 draws a 17 from deck 519
+player 519 discards a 223 to deck 520
+player 519 current hand : 62 604 758 791 256 86 303 917 178 499 227 810 971 856 309 1 950 809 575 17 
+player 519 draws a 100 from deck 519
+player 519 discards a 62 to deck 520
+player 519 current hand : 604 758 791 256 86 303 917 178 499 227 810 971 856 309 1 950 809 575 17 100 
+player 519 draws a 252 from deck 519
+player 519 discards a 604 to deck 520
+player 519 current hand : 758 791 256 86 303 917 178 499 227 810 971 856 309 1 950 809 575 17 100 252 
+player 519 draws a 96 from deck 519
+player 519 discards a 758 to deck 520
+player 519 current hand : 791 256 86 303 917 178 499 227 810 971 856 309 1 950 809 575 17 100 252 96 
+player 519 draws a 571 from deck 519
+player 519 discards a 791 to deck 520
+player 519 current hand : 256 86 303 917 178 499 227 810 971 856 309 1 950 809 575 17 100 252 96 571 
+player 519 draws a 75 from deck 519
+player 519 discards a 256 to deck 520
+player 519 current hand : 86 303 917 178 499 227 810 971 856 309 1 950 809 575 17 100 252 96 571 75 
+player 519 draws a 222 from deck 519
+player 519 discards a 86 to deck 520
+player 519 current hand : 303 917 178 499 227 810 971 856 309 1 950 809 575 17 100 252 96 571 75 222 
+player 519 draws a 263 from deck 519
+player 519 discards a 303 to deck 520
+player 519 current hand : 917 178 499 227 810 971 856 309 1 950 809 575 17 100 252 96 571 75 222 263 
+player 519 draws a 931 from deck 519
+player 519 discards a 917 to deck 520
+player 519 current hand : 178 499 227 810 971 856 309 1 950 809 575 17 100 252 96 571 75 222 263 931 
+player 519 draws a 730 from deck 519
+player 519 discards a 178 to deck 520
+player 519 current hand : 499 227 810 971 856 309 1 950 809 575 17 100 252 96 571 75 222 263 931 730 
+player 519 draws a 231 from deck 519
+player 519 discards a 499 to deck 520
+player 519 current hand : 227 810 971 856 309 1 950 809 575 17 100 252 96 571 75 222 263 931 730 231 
+player 519 draws a 527 from deck 519
+player 519 discards a 227 to deck 520
+player 519 current hand : 810 971 856 309 1 950 809 575 17 100 252 96 571 75 222 263 931 730 231 527 
+player 519 draws a 133 from deck 519
+player 519 discards a 810 to deck 520
+player 519 current hand : 971 856 309 1 950 809 575 17 100 252 96 571 75 222 263 931 730 231 527 133 
+player 519 draws a 175 from deck 519
+player 519 discards a 971 to deck 520
+player 519 current hand : 856 309 1 950 809 575 17 100 252 96 571 75 222 263 931 730 231 527 133 175 
+player 519 draws a 875 from deck 519
+player 519 discards a 856 to deck 520
+player 519 current hand : 309 1 950 809 575 17 100 252 96 571 75 222 263 931 730 231 527 133 175 875 
+player 519 draws a 888 from deck 519
+player 519 discards a 309 to deck 520
+player 519 current hand : 1 950 809 575 17 100 252 96 571 75 222 263 931 730 231 527 133 175 875 888 
+player 519 draws a 336 from deck 519
+player 519 discards a 1 to deck 520
+player 519 current hand : 950 809 575 17 100 252 96 571 75 222 263 931 730 231 527 133 175 875 888 336 
+player 519 draws a 164 from deck 519
+player 519 discards a 950 to deck 520
+player 519 current hand : 809 575 17 100 252 96 571 75 222 263 931 730 231 527 133 175 875 888 336 164 
+player 519 draws a 320 from deck 519
+player 519 discards a 809 to deck 520
+player 519 current hand : 575 17 100 252 96 571 75 222 263 931 730 231 527 133 175 875 888 336 164 320 
+player 519 draws a 168 from deck 519
+player 519 discards a 575 to deck 520
+player 519 current hand : 17 100 252 96 571 75 222 263 931 730 231 527 133 175 875 888 336 164 320 168 
+player 519 draws a 915 from deck 519
+player 519 discards a 17 to deck 520
+player 519 current hand : 100 252 96 571 75 222 263 931 730 231 527 133 175 875 888 336 164 320 168 915 
+player 519 draws a 138 from deck 519
+player 519 discards a 100 to deck 520
+player 519 current hand : 252 96 571 75 222 263 931 730 231 527 133 175 875 888 336 164 320 168 915 138 
+player 519 draws a 559 from deck 519
+player 519 discards a 252 to deck 520
+player 519 current hand : 96 571 75 222 263 931 730 231 527 133 175 875 888 336 164 320 168 915 138 559 
+player 519 draws a 16 from deck 519
+player 519 discards a 96 to deck 520
+player 519 current hand : 571 75 222 263 931 730 231 527 133 175 875 888 336 164 320 168 915 138 559 16 
+player 519 draws a 755 from deck 519
+player 519 discards a 571 to deck 520
+player 519 current hand : 75 222 263 931 730 231 527 133 175 875 888 336 164 320 168 915 138 559 16 755 
+player 519 draws a 856 from deck 519
+player 519 discards a 75 to deck 520
+player 519 current hand : 222 263 931 730 231 527 133 175 875 888 336 164 320 168 915 138 559 16 755 856 
+player 519 draws a 863 from deck 519
+player 519 discards a 222 to deck 520
+player 519 current hand : 263 931 730 231 527 133 175 875 888 336 164 320 168 915 138 559 16 755 856 863 
+player 519 draws a 12 from deck 519
+player 519 discards a 263 to deck 520
+player 519 current hand : 931 730 231 527 133 175 875 888 336 164 320 168 915 138 559 16 755 856 863 12 
+player 519 draws a 285 from deck 519
+player 519 discards a 931 to deck 520
+player 519 current hand : 730 231 527 133 175 875 888 336 164 320 168 915 138 559 16 755 856 863 12 285 
+player 519 draws a 343 from deck 519
+player 519 discards a 730 to deck 520
+player 519 current hand : 231 527 133 175 875 888 336 164 320 168 915 138 559 16 755 856 863 12 285 343 
+player 519 draws a 5 from deck 519
+player 519 discards a 231 to deck 520
+player 519 current hand : 527 133 175 875 888 336 164 320 168 915 138 559 16 755 856 863 12 285 343 5 
+player 519 draws a 24 from deck 519
+player 519 discards a 527 to deck 520
+player 519 current hand : 133 175 875 888 336 164 320 168 915 138 559 16 755 856 863 12 285 343 5 24 
+player 519 draws a 110 from deck 519
+player 519 discards a 133 to deck 520
+player 519 current hand : 175 875 888 336 164 320 168 915 138 559 16 755 856 863 12 285 343 5 24 110 
+player 519 draws a 244 from deck 519
+player 519 discards a 175 to deck 520
+player 519 current hand : 875 888 336 164 320 168 915 138 559 16 755 856 863 12 285 343 5 24 110 244 
+player 519 draws a 793 from deck 519
+player 519 discards a 875 to deck 520
+player 519 current hand : 888 336 164 320 168 915 138 559 16 755 856 863 12 285 343 5 24 110 244 793 
+player 519 draws a 719 from deck 519
+player 519 discards a 888 to deck 520
+player 519 current hand : 336 164 320 168 915 138 559 16 755 856 863 12 285 343 5 24 110 244 793 719 
+player 519 draws a 100 from deck 519
+player 519 discards a 336 to deck 520
+player 519 current hand : 164 320 168 915 138 559 16 755 856 863 12 285 343 5 24 110 244 793 719 100 
+player 519 draws a 636 from deck 519
+player 519 discards a 164 to deck 520
+player 519 current hand : 320 168 915 138 559 16 755 856 863 12 285 343 5 24 110 244 793 719 100 636 
+player 519 draws a 89 from deck 519
+player 519 discards a 320 to deck 520
+player 519 current hand : 168 915 138 559 16 755 856 863 12 285 343 5 24 110 244 793 719 100 636 89 
+player 519 draws a 572 from deck 519
+player 519 discards a 168 to deck 520
+player 519 current hand : 915 138 559 16 755 856 863 12 285 343 5 24 110 244 793 719 100 636 89 572 
+player 519 draws a 310 from deck 519
+player 519 discards a 915 to deck 520
+player 519 current hand : 138 559 16 755 856 863 12 285 343 5 24 110 244 793 719 100 636 89 572 310 
+player 519 draws a 392 from deck 519
+player 519 discards a 138 to deck 520
+player 519 current hand : 559 16 755 856 863 12 285 343 5 24 110 244 793 719 100 636 89 572 310 392 
+player 519 draws a 793 from deck 519
+player 519 discards a 559 to deck 520
+player 519 current hand : 16 755 856 863 12 285 343 5 24 110 244 793 719 100 636 89 572 310 392 793 
+player 519 draws a 200 from deck 519
+player 519 discards a 16 to deck 520
+player 519 current hand : 755 856 863 12 285 343 5 24 110 244 793 719 100 636 89 572 310 392 793 200 
+player 519 draws a 587 from deck 519
+player 519 discards a 755 to deck 520
+player 519 current hand : 856 863 12 285 343 5 24 110 244 793 719 100 636 89 572 310 392 793 200 587 
+player 519 draws a 603 from deck 519
+player 519 discards a 856 to deck 520
+player 519 current hand : 863 12 285 343 5 24 110 244 793 719 100 636 89 572 310 392 793 200 587 603 
+player 519 draws a 17 from deck 519
+player 519 discards a 863 to deck 520
+player 519 current hand : 12 285 343 5 24 110 244 793 719 100 636 89 572 310 392 793 200 587 603 17 
+player 519 draws a 246 from deck 519
+player 519 discards a 12 to deck 520
+player 519 current hand : 285 343 5 24 110 244 793 719 100 636 89 572 310 392 793 200 587 603 17 246 
+player 519 draws a 550 from deck 519
+player 519 discards a 285 to deck 520
+player 519 current hand : 343 5 24 110 244 793 719 100 636 89 572 310 392 793 200 587 603 17 246 550 
+player 519 draws a 575 from deck 519
+player 519 discards a 343 to deck 520
+player 519 current hand : 5 24 110 244 793 719 100 636 89 572 310 392 793 200 587 603 17 246 550 575 
+player 519 draws a 815 from deck 519
+player 519 discards a 5 to deck 520
+player 519 current hand : 24 110 244 793 719 100 636 89 572 310 392 793 200 587 603 17 246 550 575 815 
+player 519 draws a 773 from deck 519
+player 519 discards a 24 to deck 520
+player 519 current hand : 110 244 793 719 100 636 89 572 310 392 793 200 587 603 17 246 550 575 815 773 
+player 519 draws a 149 from deck 519
+player 519 discards a 110 to deck 520
+player 519 current hand : 244 793 719 100 636 89 572 310 392 793 200 587 603 17 246 550 575 815 773 149 
+player 519 draws a 715 from deck 519
+player 519 discards a 244 to deck 520
+player 519 current hand : 793 719 100 636 89 572 310 392 793 200 587 603 17 246 550 575 815 773 149 715 
+player 519 draws a 586 from deck 519
+player 519 discards a 793 to deck 520
+player 519 current hand : 719 100 636 89 572 310 392 793 200 587 603 17 246 550 575 815 773 149 715 586 
+player 519 draws a 707 from deck 519
+player 519 discards a 719 to deck 520
+player 519 current hand : 100 636 89 572 310 392 793 200 587 603 17 246 550 575 815 773 149 715 586 707 
+player 519 draws a 275 from deck 519
+player 519 discards a 100 to deck 520
+player 519 current hand : 636 89 572 310 392 793 200 587 603 17 246 550 575 815 773 149 715 586 707 275 
+player 519 draws a 768 from deck 519
+player 519 discards a 636 to deck 520
+player 519 current hand : 89 572 310 392 793 200 587 603 17 246 550 575 815 773 149 715 586 707 275 768 
+player 519 draws a 550 from deck 519
+player 519 discards a 89 to deck 520
+player 519 current hand : 572 310 392 793 200 587 603 17 246 550 575 815 773 149 715 586 707 275 768 550 
+player 519 draws a 851 from deck 519
+player 519 discards a 572 to deck 520
+player 519 current hand : 310 392 793 200 587 603 17 246 550 575 815 773 149 715 586 707 275 768 550 851 
+player 519 draws a 83 from deck 519
+player 519 discards a 310 to deck 520
+player 519 current hand : 392 793 200 587 603 17 246 550 575 815 773 149 715 586 707 275 768 550 851 83 
+player 519 draws a 99 from deck 519
+player 519 discards a 392 to deck 520
+player 519 current hand : 793 200 587 603 17 246 550 575 815 773 149 715 586 707 275 768 550 851 83 99 
+player 519 draws a 292 from deck 519
+player 519 discards a 793 to deck 520
+player 519 current hand : 200 587 603 17 246 550 575 815 773 149 715 586 707 275 768 550 851 83 99 292 
+player 519 draws a 983 from deck 519
+player 519 discards a 200 to deck 520
+player 519 current hand : 587 603 17 246 550 575 815 773 149 715 586 707 275 768 550 851 83 99 292 983 
+player 519 draws a 183 from deck 519
+player 519 discards a 587 to deck 520
+player 519 current hand : 603 17 246 550 575 815 773 149 715 586 707 275 768 550 851 83 99 292 983 183 
+player 519 draws a 391 from deck 519
+player 519 discards a 603 to deck 520
+player 519 current hand : 17 246 550 575 815 773 149 715 586 707 275 768 550 851 83 99 292 983 183 391 
+player 519 draws a 285 from deck 519
+player 519 discards a 17 to deck 520
+player 519 current hand : 246 550 575 815 773 149 715 586 707 275 768 550 851 83 99 292 983 183 391 285 
+player 519 draws a 457 from deck 519
+player 519 discards a 246 to deck 520
+player 519 current hand : 550 575 815 773 149 715 586 707 275 768 550 851 83 99 292 983 183 391 285 457 
+player 519 draws a 220 from deck 519
+player 519 discards a 550 to deck 520
+player 519 current hand : 575 815 773 149 715 586 707 275 768 550 851 83 99 292 983 183 391 285 457 220 
+player 519 draws a 799 from deck 519
+player 519 discards a 575 to deck 520
+player 519 current hand : 815 773 149 715 586 707 275 768 550 851 83 99 292 983 183 391 285 457 220 799 
+player 519 draws a 688 from deck 519
+player 519 discards a 815 to deck 520
+player 519 current hand : 773 149 715 586 707 275 768 550 851 83 99 292 983 183 391 285 457 220 799 688 
+player 519 draws a 864 from deck 519
+player 519 discards a 773 to deck 520
+player 519 current hand : 149 715 586 707 275 768 550 851 83 99 292 983 183 391 285 457 220 799 688 864 
+player 519 draws a 598 from deck 519
+player 519 discards a 149 to deck 520
+player 519 current hand : 715 586 707 275 768 550 851 83 99 292 983 183 391 285 457 220 799 688 864 598 
+player 519 draws a 118 from deck 519
+player 519 discards a 715 to deck 520
+player 519 current hand : 586 707 275 768 550 851 83 99 292 983 183 391 285 457 220 799 688 864 598 118 
+player 519 draws a 701 from deck 519
+player 519 discards a 586 to deck 520
+player 519 current hand : 707 275 768 550 851 83 99 292 983 183 391 285 457 220 799 688 864 598 118 701 
+player 519 draws a 728 from deck 519
+player 519 discards a 707 to deck 520
+player 519 current hand : 275 768 550 851 83 99 292 983 183 391 285 457 220 799 688 864 598 118 701 728 
+player 519 draws a 330 from deck 519
+player 519 discards a 275 to deck 520
+player 519 current hand : 768 550 851 83 99 292 983 183 391 285 457 220 799 688 864 598 118 701 728 330 

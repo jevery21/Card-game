@@ -1,0 +1,304 @@
+player 172 initial hand 794 575 695 740 636 805 316 290 745 544 921 252 669 255 222 768 245 787 15 113 
+player 172 draws a 879 from deck 172
+player 172 discards a 794 to deck 173
+player 172 current hand : 575 695 740 636 805 316 290 745 544 921 252 669 255 222 768 245 787 15 113 879 
+player 172 draws a 618 from deck 172
+player 172 discards a 575 to deck 173
+player 172 current hand : 695 740 636 805 316 290 745 544 921 252 669 255 222 768 245 787 15 113 879 618 
+player 172 draws a 545 from deck 172
+player 172 discards a 695 to deck 173
+player 172 current hand : 740 636 805 316 290 745 544 921 252 669 255 222 768 245 787 15 113 879 618 545 
+player 172 draws a 554 from deck 172
+player 172 discards a 740 to deck 173
+player 172 current hand : 636 805 316 290 745 544 921 252 669 255 222 768 245 787 15 113 879 618 545 554 
+player 172 draws a 367 from deck 172
+player 172 discards a 636 to deck 173
+player 172 current hand : 805 316 290 745 544 921 252 669 255 222 768 245 787 15 113 879 618 545 554 367 
+player 172 draws a 258 from deck 172
+player 172 discards a 805 to deck 173
+player 172 current hand : 316 290 745 544 921 252 669 255 222 768 245 787 15 113 879 618 545 554 367 258 
+player 172 draws a 291 from deck 172
+player 172 discards a 316 to deck 173
+player 172 current hand : 290 745 544 921 252 669 255 222 768 245 787 15 113 879 618 545 554 367 258 291 
+player 172 draws a 481 from deck 172
+player 172 discards a 290 to deck 173
+player 172 current hand : 745 544 921 252 669 255 222 768 245 787 15 113 879 618 545 554 367 258 291 481 
+player 172 draws a 608 from deck 172
+player 172 discards a 745 to deck 173
+player 172 current hand : 544 921 252 669 255 222 768 245 787 15 113 879 618 545 554 367 258 291 481 608 
+player 172 draws a 954 from deck 172
+player 172 discards a 544 to deck 173
+player 172 current hand : 921 252 669 255 222 768 245 787 15 113 879 618 545 554 367 258 291 481 608 954 
+player 172 draws a 122 from deck 172
+player 172 discards a 921 to deck 173
+player 172 current hand : 252 669 255 222 768 245 787 15 113 879 618 545 554 367 258 291 481 608 954 122 
+player 172 draws a 120 from deck 172
+player 172 discards a 252 to deck 173
+player 172 current hand : 669 255 222 768 245 787 15 113 879 618 545 554 367 258 291 481 608 954 122 120 
+player 172 draws a 671 from deck 172
+player 172 discards a 669 to deck 173
+player 172 current hand : 255 222 768 245 787 15 113 879 618 545 554 367 258 291 481 608 954 122 120 671 
+player 172 draws a 449 from deck 172
+player 172 discards a 255 to deck 173
+player 172 current hand : 222 768 245 787 15 113 879 618 545 554 367 258 291 481 608 954 122 120 671 449 
+player 172 draws a 711 from deck 172
+player 172 discards a 222 to deck 173
+player 172 current hand : 768 245 787 15 113 879 618 545 554 367 258 291 481 608 954 122 120 671 449 711 
+player 172 draws a 570 from deck 172
+player 172 discards a 768 to deck 173
+player 172 current hand : 245 787 15 113 879 618 545 554 367 258 291 481 608 954 122 120 671 449 711 570 
+player 172 draws a 508 from deck 172
+player 172 discards a 245 to deck 173
+player 172 current hand : 787 15 113 879 618 545 554 367 258 291 481 608 954 122 120 671 449 711 570 508 
+player 172 draws a 508 from deck 172
+player 172 discards a 787 to deck 173
+player 172 current hand : 15 113 879 618 545 554 367 258 291 481 608 954 122 120 671 449 711 570 508 508 
+player 172 draws a 326 from deck 172
+player 172 discards a 15 to deck 173
+player 172 current hand : 113 879 618 545 554 367 258 291 481 608 954 122 120 671 449 711 570 508 508 326 
+player 172 draws a 920 from deck 172
+player 172 discards a 113 to deck 173
+player 172 current hand : 879 618 545 554 367 258 291 481 608 954 122 120 671 449 711 570 508 508 326 920 
+player 172 draws a 179 from deck 172
+player 172 discards a 879 to deck 173
+player 172 current hand : 618 545 554 367 258 291 481 608 954 122 120 671 449 711 570 508 508 326 920 179 
+player 172 draws a 62 from deck 172
+player 172 discards a 618 to deck 173
+player 172 current hand : 545 554 367 258 291 481 608 954 122 120 671 449 711 570 508 508 326 920 179 62 
+player 172 draws a 92 from deck 172
+player 172 discards a 545 to deck 173
+player 172 current hand : 554 367 258 291 481 608 954 122 120 671 449 711 570 508 508 326 920 179 62 92 
+player 172 draws a 858 from deck 172
+player 172 discards a 554 to deck 173
+player 172 current hand : 367 258 291 481 608 954 122 120 671 449 711 570 508 508 326 920 179 62 92 858 
+player 172 draws a 947 from deck 172
+player 172 discards a 367 to deck 173
+player 172 current hand : 258 291 481 608 954 122 120 671 449 711 570 508 508 326 920 179 62 92 858 947 
+player 172 draws a 209 from deck 172
+player 172 discards a 258 to deck 173
+player 172 current hand : 291 481 608 954 122 120 671 449 711 570 508 508 326 920 179 62 92 858 947 209 
+player 172 draws a 603 from deck 172
+player 172 discards a 291 to deck 173
+player 172 current hand : 481 608 954 122 120 671 449 711 570 508 508 326 920 179 62 92 858 947 209 603 
+player 172 draws a 511 from deck 172
+player 172 discards a 481 to deck 173
+player 172 current hand : 608 954 122 120 671 449 711 570 508 508 326 920 179 62 92 858 947 209 603 511 
+player 172 draws a 770 from deck 172
+player 172 discards a 608 to deck 173
+player 172 current hand : 954 122 120 671 449 711 570 508 508 326 920 179 62 92 858 947 209 603 511 770 
+player 172 draws a 816 from deck 172
+player 172 discards a 954 to deck 173
+player 172 current hand : 122 120 671 449 711 570 508 508 326 920 179 62 92 858 947 209 603 511 770 816 
+player 172 draws a 111 from deck 172
+player 172 discards a 122 to deck 173
+player 172 current hand : 120 671 449 711 570 508 508 326 920 179 62 92 858 947 209 603 511 770 816 111 
+player 172 draws a 516 from deck 172
+player 172 discards a 120 to deck 173
+player 172 current hand : 671 449 711 570 508 508 326 920 179 62 92 858 947 209 603 511 770 816 111 516 
+player 172 draws a 456 from deck 172
+player 172 discards a 671 to deck 173
+player 172 current hand : 449 711 570 508 508 326 920 179 62 92 858 947 209 603 511 770 816 111 516 456 
+player 172 draws a 514 from deck 172
+player 172 discards a 449 to deck 173
+player 172 current hand : 711 570 508 508 326 920 179 62 92 858 947 209 603 511 770 816 111 516 456 514 
+player 172 draws a 923 from deck 172
+player 172 discards a 711 to deck 173
+player 172 current hand : 570 508 508 326 920 179 62 92 858 947 209 603 511 770 816 111 516 456 514 923 
+player 172 draws a 23 from deck 172
+player 172 discards a 570 to deck 173
+player 172 current hand : 508 508 326 920 179 62 92 858 947 209 603 511 770 816 111 516 456 514 923 23 
+player 172 draws a 210 from deck 172
+player 172 discards a 508 to deck 173
+player 172 current hand : 508 326 920 179 62 92 858 947 209 603 511 770 816 111 516 456 514 923 23 210 
+player 172 draws a 350 from deck 172
+player 172 discards a 508 to deck 173
+player 172 current hand : 326 920 179 62 92 858 947 209 603 511 770 816 111 516 456 514 923 23 210 350 
+player 172 draws a 875 from deck 172
+player 172 discards a 326 to deck 173
+player 172 current hand : 920 179 62 92 858 947 209 603 511 770 816 111 516 456 514 923 23 210 350 875 
+player 172 draws a 566 from deck 172
+player 172 discards a 920 to deck 173
+player 172 current hand : 179 62 92 858 947 209 603 511 770 816 111 516 456 514 923 23 210 350 875 566 
+player 172 draws a 957 from deck 172
+player 172 discards a 179 to deck 173
+player 172 current hand : 62 92 858 947 209 603 511 770 816 111 516 456 514 923 23 210 350 875 566 957 
+player 172 draws a 951 from deck 172
+player 172 discards a 62 to deck 173
+player 172 current hand : 92 858 947 209 603 511 770 816 111 516 456 514 923 23 210 350 875 566 957 951 
+player 172 draws a 924 from deck 172
+player 172 discards a 92 to deck 173
+player 172 current hand : 858 947 209 603 511 770 816 111 516 456 514 923 23 210 350 875 566 957 951 924 
+player 172 draws a 152 from deck 172
+player 172 discards a 858 to deck 173
+player 172 current hand : 947 209 603 511 770 816 111 516 456 514 923 23 210 350 875 566 957 951 924 152 
+player 172 draws a 785 from deck 172
+player 172 discards a 947 to deck 173
+player 172 current hand : 209 603 511 770 816 111 516 456 514 923 23 210 350 875 566 957 951 924 152 785 
+player 172 draws a 661 from deck 172
+player 172 discards a 209 to deck 173
+player 172 current hand : 603 511 770 816 111 516 456 514 923 23 210 350 875 566 957 951 924 152 785 661 
+player 172 draws a 245 from deck 172
+player 172 discards a 603 to deck 173
+player 172 current hand : 511 770 816 111 516 456 514 923 23 210 350 875 566 957 951 924 152 785 661 245 
+player 172 draws a 930 from deck 172
+player 172 discards a 511 to deck 173
+player 172 current hand : 770 816 111 516 456 514 923 23 210 350 875 566 957 951 924 152 785 661 245 930 
+player 172 draws a 117 from deck 172
+player 172 discards a 770 to deck 173
+player 172 current hand : 816 111 516 456 514 923 23 210 350 875 566 957 951 924 152 785 661 245 930 117 
+player 172 draws a 922 from deck 172
+player 172 discards a 816 to deck 173
+player 172 current hand : 111 516 456 514 923 23 210 350 875 566 957 951 924 152 785 661 245 930 117 922 
+player 172 draws a 112 from deck 172
+player 172 discards a 111 to deck 173
+player 172 current hand : 516 456 514 923 23 210 350 875 566 957 951 924 152 785 661 245 930 117 922 112 
+player 172 draws a 810 from deck 172
+player 172 discards a 516 to deck 173
+player 172 current hand : 456 514 923 23 210 350 875 566 957 951 924 152 785 661 245 930 117 922 112 810 
+player 172 draws a 392 from deck 172
+player 172 discards a 456 to deck 173
+player 172 current hand : 514 923 23 210 350 875 566 957 951 924 152 785 661 245 930 117 922 112 810 392 
+player 172 draws a 245 from deck 172
+player 172 discards a 514 to deck 173
+player 172 current hand : 923 23 210 350 875 566 957 951 924 152 785 661 245 930 117 922 112 810 392 245 
+player 172 draws a 816 from deck 172
+player 172 discards a 923 to deck 173
+player 172 current hand : 23 210 350 875 566 957 951 924 152 785 661 245 930 117 922 112 810 392 245 816 
+player 172 draws a 702 from deck 172
+player 172 discards a 23 to deck 173
+player 172 current hand : 210 350 875 566 957 951 924 152 785 661 245 930 117 922 112 810 392 245 816 702 
+player 172 draws a 464 from deck 172
+player 172 discards a 210 to deck 173
+player 172 current hand : 350 875 566 957 951 924 152 785 661 245 930 117 922 112 810 392 245 816 702 464 
+player 172 draws a 45 from deck 172
+player 172 discards a 350 to deck 173
+player 172 current hand : 875 566 957 951 924 152 785 661 245 930 117 922 112 810 392 245 816 702 464 45 
+player 172 draws a 73 from deck 172
+player 172 discards a 875 to deck 173
+player 172 current hand : 566 957 951 924 152 785 661 245 930 117 922 112 810 392 245 816 702 464 45 73 
+player 172 draws a 853 from deck 172
+player 172 discards a 566 to deck 173
+player 172 current hand : 957 951 924 152 785 661 245 930 117 922 112 810 392 245 816 702 464 45 73 853 
+player 172 draws a 252 from deck 172
+player 172 discards a 957 to deck 173
+player 172 current hand : 951 924 152 785 661 245 930 117 922 112 810 392 245 816 702 464 45 73 853 252 
+player 172 draws a 287 from deck 172
+player 172 discards a 951 to deck 173
+player 172 current hand : 924 152 785 661 245 930 117 922 112 810 392 245 816 702 464 45 73 853 252 287 
+player 172 draws a 239 from deck 172
+player 172 discards a 924 to deck 173
+player 172 current hand : 152 785 661 245 930 117 922 112 810 392 245 816 702 464 45 73 853 252 287 239 
+player 172 draws a 241 from deck 172
+player 172 discards a 152 to deck 173
+player 172 current hand : 785 661 245 930 117 922 112 810 392 245 816 702 464 45 73 853 252 287 239 241 
+player 172 draws a 888 from deck 172
+player 172 discards a 785 to deck 173
+player 172 current hand : 661 245 930 117 922 112 810 392 245 816 702 464 45 73 853 252 287 239 241 888 
+player 172 draws a 435 from deck 172
+player 172 discards a 661 to deck 173
+player 172 current hand : 245 930 117 922 112 810 392 245 816 702 464 45 73 853 252 287 239 241 888 435 
+player 172 draws a 516 from deck 172
+player 172 discards a 245 to deck 173
+player 172 current hand : 930 117 922 112 810 392 245 816 702 464 45 73 853 252 287 239 241 888 435 516 
+player 172 draws a 731 from deck 172
+player 172 discards a 930 to deck 173
+player 172 current hand : 117 922 112 810 392 245 816 702 464 45 73 853 252 287 239 241 888 435 516 731 
+player 172 draws a 24 from deck 172
+player 172 discards a 117 to deck 173
+player 172 current hand : 922 112 810 392 245 816 702 464 45 73 853 252 287 239 241 888 435 516 731 24 
+player 172 draws a 558 from deck 172
+player 172 discards a 922 to deck 173
+player 172 current hand : 112 810 392 245 816 702 464 45 73 853 252 287 239 241 888 435 516 731 24 558 
+player 172 draws a 978 from deck 172
+player 172 discards a 112 to deck 173
+player 172 current hand : 810 392 245 816 702 464 45 73 853 252 287 239 241 888 435 516 731 24 558 978 
+player 172 draws a 214 from deck 172
+player 172 discards a 810 to deck 173
+player 172 current hand : 392 245 816 702 464 45 73 853 252 287 239 241 888 435 516 731 24 558 978 214 
+player 172 draws a 804 from deck 172
+player 172 discards a 392 to deck 173
+player 172 current hand : 245 816 702 464 45 73 853 252 287 239 241 888 435 516 731 24 558 978 214 804 
+player 172 draws a 276 from deck 172
+player 172 discards a 245 to deck 173
+player 172 current hand : 816 702 464 45 73 853 252 287 239 241 888 435 516 731 24 558 978 214 804 276 
+player 172 draws a 949 from deck 172
+player 172 discards a 816 to deck 173
+player 172 current hand : 702 464 45 73 853 252 287 239 241 888 435 516 731 24 558 978 214 804 276 949 
+player 172 draws a 52 from deck 172
+player 172 discards a 702 to deck 173
+player 172 current hand : 464 45 73 853 252 287 239 241 888 435 516 731 24 558 978 214 804 276 949 52 
+player 172 draws a 577 from deck 172
+player 172 discards a 464 to deck 173
+player 172 current hand : 45 73 853 252 287 239 241 888 435 516 731 24 558 978 214 804 276 949 52 577 
+player 172 draws a 467 from deck 172
+player 172 discards a 45 to deck 173
+player 172 current hand : 73 853 252 287 239 241 888 435 516 731 24 558 978 214 804 276 949 52 577 467 
+player 172 draws a 723 from deck 172
+player 172 discards a 73 to deck 173
+player 172 current hand : 853 252 287 239 241 888 435 516 731 24 558 978 214 804 276 949 52 577 467 723 
+player 172 draws a 79 from deck 172
+player 172 discards a 853 to deck 173
+player 172 current hand : 252 287 239 241 888 435 516 731 24 558 978 214 804 276 949 52 577 467 723 79 
+player 172 draws a 721 from deck 172
+player 172 discards a 252 to deck 173
+player 172 current hand : 287 239 241 888 435 516 731 24 558 978 214 804 276 949 52 577 467 723 79 721 
+player 172 draws a 587 from deck 172
+player 172 discards a 287 to deck 173
+player 172 current hand : 239 241 888 435 516 731 24 558 978 214 804 276 949 52 577 467 723 79 721 587 
+player 172 draws a 254 from deck 172
+player 172 discards a 239 to deck 173
+player 172 current hand : 241 888 435 516 731 24 558 978 214 804 276 949 52 577 467 723 79 721 587 254 
+player 172 draws a 14 from deck 172
+player 172 discards a 241 to deck 173
+player 172 current hand : 888 435 516 731 24 558 978 214 804 276 949 52 577 467 723 79 721 587 254 14 
+player 172 draws a 902 from deck 172
+player 172 discards a 888 to deck 173
+player 172 current hand : 435 516 731 24 558 978 214 804 276 949 52 577 467 723 79 721 587 254 14 902 
+player 172 draws a 912 from deck 172
+player 172 discards a 435 to deck 173
+player 172 current hand : 516 731 24 558 978 214 804 276 949 52 577 467 723 79 721 587 254 14 902 912 
+player 172 draws a 649 from deck 172
+player 172 discards a 516 to deck 173
+player 172 current hand : 731 24 558 978 214 804 276 949 52 577 467 723 79 721 587 254 14 902 912 649 
+player 172 draws a 490 from deck 172
+player 172 discards a 731 to deck 173
+player 172 current hand : 24 558 978 214 804 276 949 52 577 467 723 79 721 587 254 14 902 912 649 490 
+player 172 draws a 242 from deck 172
+player 172 discards a 24 to deck 173
+player 172 current hand : 558 978 214 804 276 949 52 577 467 723 79 721 587 254 14 902 912 649 490 242 
+player 172 draws a 532 from deck 172
+player 172 discards a 558 to deck 173
+player 172 current hand : 978 214 804 276 949 52 577 467 723 79 721 587 254 14 902 912 649 490 242 532 
+player 172 draws a 402 from deck 172
+player 172 discards a 978 to deck 173
+player 172 current hand : 214 804 276 949 52 577 467 723 79 721 587 254 14 902 912 649 490 242 532 402 
+player 172 draws a 601 from deck 172
+player 172 discards a 214 to deck 173
+player 172 current hand : 804 276 949 52 577 467 723 79 721 587 254 14 902 912 649 490 242 532 402 601 
+player 172 draws a 100 from deck 172
+player 172 discards a 804 to deck 173
+player 172 current hand : 276 949 52 577 467 723 79 721 587 254 14 902 912 649 490 242 532 402 601 100 
+player 172 draws a 536 from deck 172
+player 172 discards a 276 to deck 173
+player 172 current hand : 949 52 577 467 723 79 721 587 254 14 902 912 649 490 242 532 402 601 100 536 
+player 172 draws a 302 from deck 172
+player 172 discards a 949 to deck 173
+player 172 current hand : 52 577 467 723 79 721 587 254 14 902 912 649 490 242 532 402 601 100 536 302 
+player 172 draws a 563 from deck 172
+player 172 discards a 52 to deck 173
+player 172 current hand : 577 467 723 79 721 587 254 14 902 912 649 490 242 532 402 601 100 536 302 563 
+player 172 draws a 375 from deck 172
+player 172 discards a 577 to deck 173
+player 172 current hand : 467 723 79 721 587 254 14 902 912 649 490 242 532 402 601 100 536 302 563 375 
+player 172 draws a 258 from deck 172
+player 172 discards a 467 to deck 173
+player 172 current hand : 723 79 721 587 254 14 902 912 649 490 242 532 402 601 100 536 302 563 375 258 
+player 172 draws a 947 from deck 172
+player 172 discards a 723 to deck 173
+player 172 current hand : 79 721 587 254 14 902 912 649 490 242 532 402 601 100 536 302 563 375 258 947 
+player 172 draws a 431 from deck 172
+player 172 discards a 79 to deck 173
+player 172 current hand : 721 587 254 14 902 912 649 490 242 532 402 601 100 536 302 563 375 258 947 431 
+player 172 draws a 464 from deck 172
+player 172 discards a 721 to deck 173
+player 172 current hand : 587 254 14 902 912 649 490 242 532 402 601 100 536 302 563 375 258 947 431 464 

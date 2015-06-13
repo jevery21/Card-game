@@ -1,0 +1,325 @@
+player 507 initial hand 823 50 926 268 636 194 923 91 425 797 822 926 565 879 696 977 70 123 954 170 
+player 507 draws a 305 from deck 507
+player 507 discards a 823 to deck 508
+player 507 current hand : 50 926 268 636 194 923 91 425 797 822 926 565 879 696 977 70 123 954 170 305 
+player 507 draws a 142 from deck 507
+player 507 discards a 50 to deck 508
+player 507 current hand : 926 268 636 194 923 91 425 797 822 926 565 879 696 977 70 123 954 170 305 142 
+player 507 draws a 470 from deck 507
+player 507 discards a 926 to deck 508
+player 507 current hand : 268 636 194 923 91 425 797 822 926 565 879 696 977 70 123 954 170 305 142 470 
+player 507 draws a 164 from deck 507
+player 507 discards a 268 to deck 508
+player 507 current hand : 636 194 923 91 425 797 822 926 565 879 696 977 70 123 954 170 305 142 470 164 
+player 507 draws a 54 from deck 507
+player 507 discards a 636 to deck 508
+player 507 current hand : 194 923 91 425 797 822 926 565 879 696 977 70 123 954 170 305 142 470 164 54 
+player 507 draws a 412 from deck 507
+player 507 discards a 194 to deck 508
+player 507 current hand : 923 91 425 797 822 926 565 879 696 977 70 123 954 170 305 142 470 164 54 412 
+player 507 draws a 181 from deck 507
+player 507 discards a 923 to deck 508
+player 507 current hand : 91 425 797 822 926 565 879 696 977 70 123 954 170 305 142 470 164 54 412 181 
+player 507 draws a 23 from deck 507
+player 507 discards a 91 to deck 508
+player 507 current hand : 425 797 822 926 565 879 696 977 70 123 954 170 305 142 470 164 54 412 181 23 
+player 507 draws a 422 from deck 507
+player 507 discards a 425 to deck 508
+player 507 current hand : 797 822 926 565 879 696 977 70 123 954 170 305 142 470 164 54 412 181 23 422 
+player 507 draws a 167 from deck 507
+player 507 discards a 797 to deck 508
+player 507 current hand : 822 926 565 879 696 977 70 123 954 170 305 142 470 164 54 412 181 23 422 167 
+player 507 draws a 272 from deck 507
+player 507 discards a 822 to deck 508
+player 507 current hand : 926 565 879 696 977 70 123 954 170 305 142 470 164 54 412 181 23 422 167 272 
+player 507 draws a 861 from deck 507
+player 507 discards a 926 to deck 508
+player 507 current hand : 565 879 696 977 70 123 954 170 305 142 470 164 54 412 181 23 422 167 272 861 
+player 507 draws a 713 from deck 507
+player 507 discards a 565 to deck 508
+player 507 current hand : 879 696 977 70 123 954 170 305 142 470 164 54 412 181 23 422 167 272 861 713 
+player 507 draws a 548 from deck 507
+player 507 discards a 879 to deck 508
+player 507 current hand : 696 977 70 123 954 170 305 142 470 164 54 412 181 23 422 167 272 861 713 548 
+player 507 draws a 731 from deck 507
+player 507 discards a 696 to deck 508
+player 507 current hand : 977 70 123 954 170 305 142 470 164 54 412 181 23 422 167 272 861 713 548 731 
+player 507 draws a 496 from deck 507
+player 507 discards a 977 to deck 508
+player 507 current hand : 70 123 954 170 305 142 470 164 54 412 181 23 422 167 272 861 713 548 731 496 
+player 507 draws a 729 from deck 507
+player 507 discards a 70 to deck 508
+player 507 current hand : 123 954 170 305 142 470 164 54 412 181 23 422 167 272 861 713 548 731 496 729 
+player 507 draws a 618 from deck 507
+player 507 discards a 123 to deck 508
+player 507 current hand : 954 170 305 142 470 164 54 412 181 23 422 167 272 861 713 548 731 496 729 618 
+player 507 draws a 284 from deck 507
+player 507 discards a 954 to deck 508
+player 507 current hand : 170 305 142 470 164 54 412 181 23 422 167 272 861 713 548 731 496 729 618 284 
+player 507 draws a 500 from deck 507
+player 507 discards a 170 to deck 508
+player 507 current hand : 305 142 470 164 54 412 181 23 422 167 272 861 713 548 731 496 729 618 284 500 
+player 507 draws a 514 from deck 507
+player 507 discards a 305 to deck 508
+player 507 current hand : 142 470 164 54 412 181 23 422 167 272 861 713 548 731 496 729 618 284 500 514 
+player 507 draws a 510 from deck 507
+player 507 discards a 142 to deck 508
+player 507 current hand : 470 164 54 412 181 23 422 167 272 861 713 548 731 496 729 618 284 500 514 510 
+player 507 draws a 863 from deck 507
+player 507 discards a 470 to deck 508
+player 507 current hand : 164 54 412 181 23 422 167 272 861 713 548 731 496 729 618 284 500 514 510 863 
+player 507 draws a 795 from deck 507
+player 507 discards a 164 to deck 508
+player 507 current hand : 54 412 181 23 422 167 272 861 713 548 731 496 729 618 284 500 514 510 863 795 
+player 507 draws a 71 from deck 507
+player 507 discards a 54 to deck 508
+player 507 current hand : 412 181 23 422 167 272 861 713 548 731 496 729 618 284 500 514 510 863 795 71 
+player 507 draws a 246 from deck 507
+player 507 discards a 412 to deck 508
+player 507 current hand : 181 23 422 167 272 861 713 548 731 496 729 618 284 500 514 510 863 795 71 246 
+player 507 draws a 248 from deck 507
+player 507 discards a 181 to deck 508
+player 507 current hand : 23 422 167 272 861 713 548 731 496 729 618 284 500 514 510 863 795 71 246 248 
+player 507 draws a 788 from deck 507
+player 507 discards a 23 to deck 508
+player 507 current hand : 422 167 272 861 713 548 731 496 729 618 284 500 514 510 863 795 71 246 248 788 
+player 507 draws a 78 from deck 507
+player 507 discards a 422 to deck 508
+player 507 current hand : 167 272 861 713 548 731 496 729 618 284 500 514 510 863 795 71 246 248 788 78 
+player 507 draws a 775 from deck 507
+player 507 discards a 167 to deck 508
+player 507 current hand : 272 861 713 548 731 496 729 618 284 500 514 510 863 795 71 246 248 788 78 775 
+player 507 draws a 582 from deck 507
+player 507 discards a 272 to deck 508
+player 507 current hand : 861 713 548 731 496 729 618 284 500 514 510 863 795 71 246 248 788 78 775 582 
+player 507 draws a 546 from deck 507
+player 507 discards a 861 to deck 508
+player 507 current hand : 713 548 731 496 729 618 284 500 514 510 863 795 71 246 248 788 78 775 582 546 
+player 507 draws a 210 from deck 507
+player 507 discards a 713 to deck 508
+player 507 current hand : 548 731 496 729 618 284 500 514 510 863 795 71 246 248 788 78 775 582 546 210 
+player 507 draws a 728 from deck 507
+player 507 discards a 548 to deck 508
+player 507 current hand : 731 496 729 618 284 500 514 510 863 795 71 246 248 788 78 775 582 546 210 728 
+player 507 draws a 473 from deck 507
+player 507 discards a 731 to deck 508
+player 507 current hand : 496 729 618 284 500 514 510 863 795 71 246 248 788 78 775 582 546 210 728 473 
+player 507 draws a 852 from deck 507
+player 507 discards a 496 to deck 508
+player 507 current hand : 729 618 284 500 514 510 863 795 71 246 248 788 78 775 582 546 210 728 473 852 
+player 507 draws a 7 from deck 507
+player 507 discards a 729 to deck 508
+player 507 current hand : 618 284 500 514 510 863 795 71 246 248 788 78 775 582 546 210 728 473 852 7 
+player 507 draws a 255 from deck 507
+player 507 discards a 618 to deck 508
+player 507 current hand : 284 500 514 510 863 795 71 246 248 788 78 775 582 546 210 728 473 852 7 255 
+player 507 draws a 737 from deck 507
+player 507 discards a 284 to deck 508
+player 507 current hand : 500 514 510 863 795 71 246 248 788 78 775 582 546 210 728 473 852 7 255 737 
+player 507 draws a 291 from deck 507
+player 507 discards a 500 to deck 508
+player 507 current hand : 514 510 863 795 71 246 248 788 78 775 582 546 210 728 473 852 7 255 737 291 
+player 507 draws a 275 from deck 507
+player 507 discards a 514 to deck 508
+player 507 current hand : 510 863 795 71 246 248 788 78 775 582 546 210 728 473 852 7 255 737 291 275 
+player 507 draws a 855 from deck 507
+player 507 discards a 510 to deck 508
+player 507 current hand : 863 795 71 246 248 788 78 775 582 546 210 728 473 852 7 255 737 291 275 855 
+player 507 draws a 723 from deck 507
+player 507 discards a 863 to deck 508
+player 507 current hand : 795 71 246 248 788 78 775 582 546 210 728 473 852 7 255 737 291 275 855 723 
+player 507 draws a 252 from deck 507
+player 507 discards a 795 to deck 508
+player 507 current hand : 71 246 248 788 78 775 582 546 210 728 473 852 7 255 737 291 275 855 723 252 
+player 507 draws a 156 from deck 507
+player 507 discards a 71 to deck 508
+player 507 current hand : 246 248 788 78 775 582 546 210 728 473 852 7 255 737 291 275 855 723 252 156 
+player 507 draws a 401 from deck 507
+player 507 discards a 246 to deck 508
+player 507 current hand : 248 788 78 775 582 546 210 728 473 852 7 255 737 291 275 855 723 252 156 401 
+player 507 draws a 462 from deck 507
+player 507 discards a 248 to deck 508
+player 507 current hand : 788 78 775 582 546 210 728 473 852 7 255 737 291 275 855 723 252 156 401 462 
+player 507 draws a 909 from deck 507
+player 507 discards a 788 to deck 508
+player 507 current hand : 78 775 582 546 210 728 473 852 7 255 737 291 275 855 723 252 156 401 462 909 
+player 507 draws a 460 from deck 507
+player 507 discards a 78 to deck 508
+player 507 current hand : 775 582 546 210 728 473 852 7 255 737 291 275 855 723 252 156 401 462 909 460 
+player 507 draws a 159 from deck 507
+player 507 discards a 775 to deck 508
+player 507 current hand : 582 546 210 728 473 852 7 255 737 291 275 855 723 252 156 401 462 909 460 159 
+player 507 draws a 268 from deck 507
+player 507 discards a 582 to deck 508
+player 507 current hand : 546 210 728 473 852 7 255 737 291 275 855 723 252 156 401 462 909 460 159 268 
+player 507 draws a 493 from deck 507
+player 507 discards a 546 to deck 508
+player 507 current hand : 210 728 473 852 7 255 737 291 275 855 723 252 156 401 462 909 460 159 268 493 
+player 507 draws a 595 from deck 507
+player 507 discards a 210 to deck 508
+player 507 current hand : 728 473 852 7 255 737 291 275 855 723 252 156 401 462 909 460 159 268 493 595 
+player 507 draws a 676 from deck 507
+player 507 discards a 728 to deck 508
+player 507 current hand : 473 852 7 255 737 291 275 855 723 252 156 401 462 909 460 159 268 493 595 676 
+player 507 draws a 785 from deck 507
+player 507 discards a 473 to deck 508
+player 507 current hand : 852 7 255 737 291 275 855 723 252 156 401 462 909 460 159 268 493 595 676 785 
+player 507 draws a 476 from deck 507
+player 507 discards a 852 to deck 508
+player 507 current hand : 7 255 737 291 275 855 723 252 156 401 462 909 460 159 268 493 595 676 785 476 
+player 507 draws a 159 from deck 507
+player 507 discards a 7 to deck 508
+player 507 current hand : 255 737 291 275 855 723 252 156 401 462 909 460 159 268 493 595 676 785 476 159 
+player 507 draws a 829 from deck 507
+player 507 discards a 255 to deck 508
+player 507 current hand : 737 291 275 855 723 252 156 401 462 909 460 159 268 493 595 676 785 476 159 829 
+player 507 draws a 835 from deck 507
+player 507 discards a 737 to deck 508
+player 507 current hand : 291 275 855 723 252 156 401 462 909 460 159 268 493 595 676 785 476 159 829 835 
+player 507 draws a 240 from deck 507
+player 507 discards a 291 to deck 508
+player 507 current hand : 275 855 723 252 156 401 462 909 460 159 268 493 595 676 785 476 159 829 835 240 
+player 507 draws a 267 from deck 507
+player 507 discards a 275 to deck 508
+player 507 current hand : 855 723 252 156 401 462 909 460 159 268 493 595 676 785 476 159 829 835 240 267 
+player 507 draws a 38 from deck 507
+player 507 discards a 855 to deck 508
+player 507 current hand : 723 252 156 401 462 909 460 159 268 493 595 676 785 476 159 829 835 240 267 38 
+player 507 draws a 52 from deck 507
+player 507 discards a 723 to deck 508
+player 507 current hand : 252 156 401 462 909 460 159 268 493 595 676 785 476 159 829 835 240 267 38 52 
+player 507 draws a 655 from deck 507
+player 507 discards a 252 to deck 508
+player 507 current hand : 156 401 462 909 460 159 268 493 595 676 785 476 159 829 835 240 267 38 52 655 
+player 507 draws a 577 from deck 507
+player 507 discards a 156 to deck 508
+player 507 current hand : 401 462 909 460 159 268 493 595 676 785 476 159 829 835 240 267 38 52 655 577 
+player 507 draws a 614 from deck 507
+player 507 discards a 401 to deck 508
+player 507 current hand : 462 909 460 159 268 493 595 676 785 476 159 829 835 240 267 38 52 655 577 614 
+player 507 draws a 921 from deck 507
+player 507 discards a 462 to deck 508
+player 507 current hand : 909 460 159 268 493 595 676 785 476 159 829 835 240 267 38 52 655 577 614 921 
+player 507 draws a 604 from deck 507
+player 507 discards a 909 to deck 508
+player 507 current hand : 460 159 268 493 595 676 785 476 159 829 835 240 267 38 52 655 577 614 921 604 
+player 507 draws a 670 from deck 507
+player 507 discards a 460 to deck 508
+player 507 current hand : 159 268 493 595 676 785 476 159 829 835 240 267 38 52 655 577 614 921 604 670 
+player 507 draws a 741 from deck 507
+player 507 discards a 159 to deck 508
+player 507 current hand : 268 493 595 676 785 476 159 829 835 240 267 38 52 655 577 614 921 604 670 741 
+player 507 draws a 622 from deck 507
+player 507 discards a 268 to deck 508
+player 507 current hand : 493 595 676 785 476 159 829 835 240 267 38 52 655 577 614 921 604 670 741 622 
+player 507 draws a 252 from deck 507
+player 507 discards a 493 to deck 508
+player 507 current hand : 595 676 785 476 159 829 835 240 267 38 52 655 577 614 921 604 670 741 622 252 
+player 507 draws a 641 from deck 507
+player 507 discards a 595 to deck 508
+player 507 current hand : 676 785 476 159 829 835 240 267 38 52 655 577 614 921 604 670 741 622 252 641 
+player 507 draws a 287 from deck 507
+player 507 discards a 676 to deck 508
+player 507 current hand : 785 476 159 829 835 240 267 38 52 655 577 614 921 604 670 741 622 252 641 287 
+player 507 draws a 170 from deck 507
+player 507 discards a 785 to deck 508
+player 507 current hand : 476 159 829 835 240 267 38 52 655 577 614 921 604 670 741 622 252 641 287 170 
+player 507 draws a 499 from deck 507
+player 507 discards a 476 to deck 508
+player 507 current hand : 159 829 835 240 267 38 52 655 577 614 921 604 670 741 622 252 641 287 170 499 
+player 507 draws a 496 from deck 507
+player 507 discards a 159 to deck 508
+player 507 current hand : 829 835 240 267 38 52 655 577 614 921 604 670 741 622 252 641 287 170 499 496 
+player 507 draws a 349 from deck 507
+player 507 discards a 829 to deck 508
+player 507 current hand : 835 240 267 38 52 655 577 614 921 604 670 741 622 252 641 287 170 499 496 349 
+player 507 draws a 320 from deck 507
+player 507 discards a 835 to deck 508
+player 507 current hand : 240 267 38 52 655 577 614 921 604 670 741 622 252 641 287 170 499 496 349 320 
+player 507 draws a 98 from deck 507
+player 507 discards a 240 to deck 508
+player 507 current hand : 267 38 52 655 577 614 921 604 670 741 622 252 641 287 170 499 496 349 320 98 
+player 507 draws a 720 from deck 507
+player 507 discards a 267 to deck 508
+player 507 current hand : 38 52 655 577 614 921 604 670 741 622 252 641 287 170 499 496 349 320 98 720 
+player 507 draws a 266 from deck 507
+player 507 discards a 38 to deck 508
+player 507 current hand : 52 655 577 614 921 604 670 741 622 252 641 287 170 499 496 349 320 98 720 266 
+player 507 draws a 679 from deck 507
+player 507 discards a 52 to deck 508
+player 507 current hand : 655 577 614 921 604 670 741 622 252 641 287 170 499 496 349 320 98 720 266 679 
+player 507 draws a 653 from deck 507
+player 507 discards a 655 to deck 508
+player 507 current hand : 577 614 921 604 670 741 622 252 641 287 170 499 496 349 320 98 720 266 679 653 
+player 507 draws a 229 from deck 507
+player 507 discards a 577 to deck 508
+player 507 current hand : 614 921 604 670 741 622 252 641 287 170 499 496 349 320 98 720 266 679 653 229 
+player 507 draws a 768 from deck 507
+player 507 discards a 614 to deck 508
+player 507 current hand : 921 604 670 741 622 252 641 287 170 499 496 349 320 98 720 266 679 653 229 768 
+player 507 draws a 581 from deck 507
+player 507 discards a 921 to deck 508
+player 507 current hand : 604 670 741 622 252 641 287 170 499 496 349 320 98 720 266 679 653 229 768 581 
+player 507 draws a 15 from deck 507
+player 507 discards a 604 to deck 508
+player 507 current hand : 670 741 622 252 641 287 170 499 496 349 320 98 720 266 679 653 229 768 581 15 
+player 507 draws a 794 from deck 507
+player 507 discards a 670 to deck 508
+player 507 current hand : 741 622 252 641 287 170 499 496 349 320 98 720 266 679 653 229 768 581 15 794 
+player 507 draws a 122 from deck 507
+player 507 discards a 741 to deck 508
+player 507 current hand : 622 252 641 287 170 499 496 349 320 98 720 266 679 653 229 768 581 15 794 122 
+player 507 draws a 947 from deck 507
+player 507 discards a 622 to deck 508
+player 507 current hand : 252 641 287 170 499 496 349 320 98 720 266 679 653 229 768 581 15 794 122 947 
+player 507 draws a 42 from deck 507
+player 507 discards a 252 to deck 508
+player 507 current hand : 641 287 170 499 496 349 320 98 720 266 679 653 229 768 581 15 794 122 947 42 
+player 507 draws a 72 from deck 507
+player 507 discards a 641 to deck 508
+player 507 current hand : 287 170 499 496 349 320 98 720 266 679 653 229 768 581 15 794 122 947 42 72 
+player 507 draws a 246 from deck 507
+player 507 discards a 287 to deck 508
+player 507 current hand : 170 499 496 349 320 98 720 266 679 653 229 768 581 15 794 122 947 42 72 246 
+player 507 draws a 367 from deck 507
+player 507 discards a 170 to deck 508
+player 507 current hand : 499 496 349 320 98 720 266 679 653 229 768 581 15 794 122 947 42 72 246 367 
+player 507 draws a 842 from deck 507
+player 507 discards a 499 to deck 508
+player 507 current hand : 496 349 320 98 720 266 679 653 229 768 581 15 794 122 947 42 72 246 367 842 
+player 507 draws a 255 from deck 507
+player 507 discards a 496 to deck 508
+player 507 current hand : 349 320 98 720 266 679 653 229 768 581 15 794 122 947 42 72 246 367 842 255 
+player 507 draws a 707 from deck 507
+player 507 discards a 349 to deck 508
+player 507 current hand : 320 98 720 266 679 653 229 768 581 15 794 122 947 42 72 246 367 842 255 707 
+player 507 draws a 581 from deck 507
+player 507 discards a 320 to deck 508
+player 507 current hand : 98 720 266 679 653 229 768 581 15 794 122 947 42 72 246 367 842 255 707 581 
+player 507 draws a 589 from deck 507
+player 507 discards a 98 to deck 508
+player 507 current hand : 720 266 679 653 229 768 581 15 794 122 947 42 72 246 367 842 255 707 581 589 
+player 507 draws a 508 from deck 507
+player 507 discards a 720 to deck 508
+player 507 current hand : 266 679 653 229 768 581 15 794 122 947 42 72 246 367 842 255 707 581 589 508 
+player 507 draws a 33 from deck 507
+player 507 discards a 266 to deck 508
+player 507 current hand : 679 653 229 768 581 15 794 122 947 42 72 246 367 842 255 707 581 589 508 33 
+player 507 draws a 783 from deck 507
+player 507 discards a 679 to deck 508
+player 507 current hand : 653 229 768 581 15 794 122 947 42 72 246 367 842 255 707 581 589 508 33 783 
+player 507 draws a 71 from deck 507
+player 507 discards a 653 to deck 508
+player 507 current hand : 229 768 581 15 794 122 947 42 72 246 367 842 255 707 581 589 508 33 783 71 
+player 507 draws a 589 from deck 507
+player 507 discards a 229 to deck 508
+player 507 current hand : 768 581 15 794 122 947 42 72 246 367 842 255 707 581 589 508 33 783 71 589 
+player 507 draws a 518 from deck 507
+player 507 discards a 768 to deck 508
+player 507 current hand : 581 15 794 122 947 42 72 246 367 842 255 707 581 589 508 33 783 71 589 518 
+player 507 draws a 422 from deck 507
+player 507 discards a 581 to deck 508
+player 507 current hand : 15 794 122 947 42 72 246 367 842 255 707 581 589 508 33 783 71 589 518 422 
+player 507 draws a 222 from deck 507
+player 507 discards a 15 to deck 508
+player 507 current hand : 794 122 947 42 72 246 367 842 255 707 581 589 508 33 783 71 589 518 422 222 

@@ -1,0 +1,324 @@
+player 378 initial hand 829 170 886 534 449 315 130 66 146 775 62 143 536 435 209 823 319 875 482 743 
+player 378 draws a 98 from deck 378
+player 378 discards a 829 to deck 379
+player 378 current hand : 170 886 534 449 315 130 66 146 775 62 143 536 435 209 823 319 875 482 743 98 
+player 378 draws a 504 from deck 378
+player 378 discards a 170 to deck 379
+player 378 current hand : 886 534 449 315 130 66 146 775 62 143 536 435 209 823 319 875 482 743 98 504 
+player 378 draws a 591 from deck 378
+player 378 discards a 886 to deck 379
+player 378 current hand : 534 449 315 130 66 146 775 62 143 536 435 209 823 319 875 482 743 98 504 591 
+player 378 draws a 748 from deck 378
+player 378 discards a 534 to deck 379
+player 378 current hand : 449 315 130 66 146 775 62 143 536 435 209 823 319 875 482 743 98 504 591 748 
+player 378 draws a 777 from deck 378
+player 378 discards a 449 to deck 379
+player 378 current hand : 315 130 66 146 775 62 143 536 435 209 823 319 875 482 743 98 504 591 748 777 
+player 378 draws a 799 from deck 378
+player 378 discards a 315 to deck 379
+player 378 current hand : 130 66 146 775 62 143 536 435 209 823 319 875 482 743 98 504 591 748 777 799 
+player 378 draws a 320 from deck 378
+player 378 discards a 130 to deck 379
+player 378 current hand : 66 146 775 62 143 536 435 209 823 319 875 482 743 98 504 591 748 777 799 320 
+player 378 draws a 596 from deck 378
+player 378 discards a 66 to deck 379
+player 378 current hand : 146 775 62 143 536 435 209 823 319 875 482 743 98 504 591 748 777 799 320 596 
+player 378 draws a 27 from deck 378
+player 378 discards a 146 to deck 379
+player 378 current hand : 775 62 143 536 435 209 823 319 875 482 743 98 504 591 748 777 799 320 596 27 
+player 378 draws a 971 from deck 378
+player 378 discards a 775 to deck 379
+player 378 current hand : 62 143 536 435 209 823 319 875 482 743 98 504 591 748 777 799 320 596 27 971 
+player 378 draws a 216 from deck 378
+player 378 discards a 62 to deck 379
+player 378 current hand : 143 536 435 209 823 319 875 482 743 98 504 591 748 777 799 320 596 27 971 216 
+player 378 draws a 952 from deck 378
+player 378 discards a 143 to deck 379
+player 378 current hand : 536 435 209 823 319 875 482 743 98 504 591 748 777 799 320 596 27 971 216 952 
+player 378 draws a 530 from deck 378
+player 378 discards a 536 to deck 379
+player 378 current hand : 435 209 823 319 875 482 743 98 504 591 748 777 799 320 596 27 971 216 952 530 
+player 378 draws a 773 from deck 378
+player 378 discards a 435 to deck 379
+player 378 current hand : 209 823 319 875 482 743 98 504 591 748 777 799 320 596 27 971 216 952 530 773 
+player 378 draws a 448 from deck 378
+player 378 discards a 209 to deck 379
+player 378 current hand : 823 319 875 482 743 98 504 591 748 777 799 320 596 27 971 216 952 530 773 448 
+player 378 draws a 532 from deck 378
+player 378 discards a 823 to deck 379
+player 378 current hand : 319 875 482 743 98 504 591 748 777 799 320 596 27 971 216 952 530 773 448 532 
+player 378 draws a 994 from deck 378
+player 378 discards a 319 to deck 379
+player 378 current hand : 875 482 743 98 504 591 748 777 799 320 596 27 971 216 952 530 773 448 532 994 
+player 378 draws a 650 from deck 378
+player 378 discards a 875 to deck 379
+player 378 current hand : 482 743 98 504 591 748 777 799 320 596 27 971 216 952 530 773 448 532 994 650 
+player 378 draws a 535 from deck 378
+player 378 discards a 482 to deck 379
+player 378 current hand : 743 98 504 591 748 777 799 320 596 27 971 216 952 530 773 448 532 994 650 535 
+player 378 draws a 924 from deck 378
+player 378 discards a 743 to deck 379
+player 378 current hand : 98 504 591 748 777 799 320 596 27 971 216 952 530 773 448 532 994 650 535 924 
+player 378 draws a 456 from deck 378
+player 378 discards a 98 to deck 379
+player 378 current hand : 504 591 748 777 799 320 596 27 971 216 952 530 773 448 532 994 650 535 924 456 
+player 378 draws a 729 from deck 378
+player 378 discards a 504 to deck 379
+player 378 current hand : 591 748 777 799 320 596 27 971 216 952 530 773 448 532 994 650 535 924 456 729 
+player 378 draws a 981 from deck 378
+player 378 discards a 591 to deck 379
+player 378 current hand : 748 777 799 320 596 27 971 216 952 530 773 448 532 994 650 535 924 456 729 981 
+player 378 draws a 691 from deck 378
+player 378 discards a 748 to deck 379
+player 378 current hand : 777 799 320 596 27 971 216 952 530 773 448 532 994 650 535 924 456 729 981 691 
+player 378 draws a 592 from deck 378
+player 378 discards a 777 to deck 379
+player 378 current hand : 799 320 596 27 971 216 952 530 773 448 532 994 650 535 924 456 729 981 691 592 
+player 378 draws a 44 from deck 378
+player 378 discards a 799 to deck 379
+player 378 current hand : 320 596 27 971 216 952 530 773 448 532 994 650 535 924 456 729 981 691 592 44 
+player 378 draws a 49 from deck 378
+player 378 discards a 320 to deck 379
+player 378 current hand : 596 27 971 216 952 530 773 448 532 994 650 535 924 456 729 981 691 592 44 49 
+player 378 draws a 578 from deck 378
+player 378 discards a 596 to deck 379
+player 378 current hand : 27 971 216 952 530 773 448 532 994 650 535 924 456 729 981 691 592 44 49 578 
+player 378 draws a 901 from deck 378
+player 378 discards a 27 to deck 379
+player 378 current hand : 971 216 952 530 773 448 532 994 650 535 924 456 729 981 691 592 44 49 578 901 
+player 378 draws a 581 from deck 378
+player 378 discards a 971 to deck 379
+player 378 current hand : 216 952 530 773 448 532 994 650 535 924 456 729 981 691 592 44 49 578 901 581 
+player 378 draws a 885 from deck 378
+player 378 discards a 216 to deck 379
+player 378 current hand : 952 530 773 448 532 994 650 535 924 456 729 981 691 592 44 49 578 901 581 885 
+player 378 draws a 290 from deck 378
+player 378 discards a 952 to deck 379
+player 378 current hand : 530 773 448 532 994 650 535 924 456 729 981 691 592 44 49 578 901 581 885 290 
+player 378 draws a 221 from deck 378
+player 378 discards a 530 to deck 379
+player 378 current hand : 773 448 532 994 650 535 924 456 729 981 691 592 44 49 578 901 581 885 290 221 
+player 378 draws a 340 from deck 378
+player 378 discards a 773 to deck 379
+player 378 current hand : 448 532 994 650 535 924 456 729 981 691 592 44 49 578 901 581 885 290 221 340 
+player 378 draws a 330 from deck 378
+player 378 discards a 448 to deck 379
+player 378 current hand : 532 994 650 535 924 456 729 981 691 592 44 49 578 901 581 885 290 221 340 330 
+player 378 draws a 732 from deck 378
+player 378 discards a 532 to deck 379
+player 378 current hand : 994 650 535 924 456 729 981 691 592 44 49 578 901 581 885 290 221 340 330 732 
+player 378 draws a 619 from deck 378
+player 378 discards a 994 to deck 379
+player 378 current hand : 650 535 924 456 729 981 691 592 44 49 578 901 581 885 290 221 340 330 732 619 
+player 378 draws a 791 from deck 378
+player 378 discards a 650 to deck 379
+player 378 current hand : 535 924 456 729 981 691 592 44 49 578 901 581 885 290 221 340 330 732 619 791 
+player 378 draws a 299 from deck 378
+player 378 discards a 535 to deck 379
+player 378 current hand : 924 456 729 981 691 592 44 49 578 901 581 885 290 221 340 330 732 619 791 299 
+player 378 draws a 648 from deck 378
+player 378 discards a 924 to deck 379
+player 378 current hand : 456 729 981 691 592 44 49 578 901 581 885 290 221 340 330 732 619 791 299 648 
+player 378 draws a 954 from deck 378
+player 378 discards a 456 to deck 379
+player 378 current hand : 729 981 691 592 44 49 578 901 581 885 290 221 340 330 732 619 791 299 648 954 
+player 378 draws a 410 from deck 378
+player 378 discards a 729 to deck 379
+player 378 current hand : 981 691 592 44 49 578 901 581 885 290 221 340 330 732 619 791 299 648 954 410 
+player 378 draws a 670 from deck 378
+player 378 discards a 981 to deck 379
+player 378 current hand : 691 592 44 49 578 901 581 885 290 221 340 330 732 619 791 299 648 954 410 670 
+player 378 draws a 209 from deck 378
+player 378 discards a 691 to deck 379
+player 378 current hand : 592 44 49 578 901 581 885 290 221 340 330 732 619 791 299 648 954 410 670 209 
+player 378 draws a 892 from deck 378
+player 378 discards a 592 to deck 379
+player 378 current hand : 44 49 578 901 581 885 290 221 340 330 732 619 791 299 648 954 410 670 209 892 
+player 378 draws a 183 from deck 378
+player 378 discards a 44 to deck 379
+player 378 current hand : 49 578 901 581 885 290 221 340 330 732 619 791 299 648 954 410 670 209 892 183 
+player 378 draws a 402 from deck 378
+player 378 discards a 49 to deck 379
+player 378 current hand : 578 901 581 885 290 221 340 330 732 619 791 299 648 954 410 670 209 892 183 402 
+player 378 draws a 793 from deck 378
+player 378 discards a 578 to deck 379
+player 378 current hand : 901 581 885 290 221 340 330 732 619 791 299 648 954 410 670 209 892 183 402 793 
+player 378 draws a 795 from deck 378
+player 378 discards a 901 to deck 379
+player 378 current hand : 581 885 290 221 340 330 732 619 791 299 648 954 410 670 209 892 183 402 793 795 
+player 378 draws a 605 from deck 378
+player 378 discards a 581 to deck 379
+player 378 current hand : 885 290 221 340 330 732 619 791 299 648 954 410 670 209 892 183 402 793 795 605 
+player 378 draws a 86 from deck 378
+player 378 discards a 885 to deck 379
+player 378 current hand : 290 221 340 330 732 619 791 299 648 954 410 670 209 892 183 402 793 795 605 86 
+player 378 draws a 222 from deck 378
+player 378 discards a 290 to deck 379
+player 378 current hand : 221 340 330 732 619 791 299 648 954 410 670 209 892 183 402 793 795 605 86 222 
+player 378 draws a 595 from deck 378
+player 378 discards a 221 to deck 379
+player 378 current hand : 340 330 732 619 791 299 648 954 410 670 209 892 183 402 793 795 605 86 222 595 
+player 378 draws a 415 from deck 378
+player 378 discards a 340 to deck 379
+player 378 current hand : 330 732 619 791 299 648 954 410 670 209 892 183 402 793 795 605 86 222 595 415 
+player 378 draws a 423 from deck 378
+player 378 discards a 330 to deck 379
+player 378 current hand : 732 619 791 299 648 954 410 670 209 892 183 402 793 795 605 86 222 595 415 423 
+player 378 draws a 666 from deck 378
+player 378 discards a 732 to deck 379
+player 378 current hand : 619 791 299 648 954 410 670 209 892 183 402 793 795 605 86 222 595 415 423 666 
+player 378 draws a 290 from deck 378
+player 378 discards a 619 to deck 379
+player 378 current hand : 791 299 648 954 410 670 209 892 183 402 793 795 605 86 222 595 415 423 666 290 
+player 378 draws a 409 from deck 378
+player 378 discards a 791 to deck 379
+player 378 current hand : 299 648 954 410 670 209 892 183 402 793 795 605 86 222 595 415 423 666 290 409 
+player 378 draws a 511 from deck 378
+player 378 discards a 299 to deck 379
+player 378 current hand : 648 954 410 670 209 892 183 402 793 795 605 86 222 595 415 423 666 290 409 511 
+player 378 draws a 432 from deck 378
+player 378 discards a 648 to deck 379
+player 378 current hand : 954 410 670 209 892 183 402 793 795 605 86 222 595 415 423 666 290 409 511 432 
+player 378 draws a 424 from deck 378
+player 378 discards a 954 to deck 379
+player 378 current hand : 410 670 209 892 183 402 793 795 605 86 222 595 415 423 666 290 409 511 432 424 
+player 378 draws a 841 from deck 378
+player 378 discards a 410 to deck 379
+player 378 current hand : 670 209 892 183 402 793 795 605 86 222 595 415 423 666 290 409 511 432 424 841 
+player 378 draws a 143 from deck 378
+player 378 discards a 670 to deck 379
+player 378 current hand : 209 892 183 402 793 795 605 86 222 595 415 423 666 290 409 511 432 424 841 143 
+player 378 draws a 37 from deck 378
+player 378 discards a 209 to deck 379
+player 378 current hand : 892 183 402 793 795 605 86 222 595 415 423 666 290 409 511 432 424 841 143 37 
+player 378 draws a 906 from deck 378
+player 378 discards a 892 to deck 379
+player 378 current hand : 183 402 793 795 605 86 222 595 415 423 666 290 409 511 432 424 841 143 37 906 
+player 378 draws a 819 from deck 378
+player 378 discards a 183 to deck 379
+player 378 current hand : 402 793 795 605 86 222 595 415 423 666 290 409 511 432 424 841 143 37 906 819 
+player 378 draws a 701 from deck 378
+player 378 discards a 402 to deck 379
+player 378 current hand : 793 795 605 86 222 595 415 423 666 290 409 511 432 424 841 143 37 906 819 701 
+player 378 draws a 616 from deck 378
+player 378 discards a 793 to deck 379
+player 378 current hand : 795 605 86 222 595 415 423 666 290 409 511 432 424 841 143 37 906 819 701 616 
+player 378 draws a 261 from deck 378
+player 378 discards a 795 to deck 379
+player 378 current hand : 605 86 222 595 415 423 666 290 409 511 432 424 841 143 37 906 819 701 616 261 
+player 378 draws a 644 from deck 378
+player 378 discards a 605 to deck 379
+player 378 current hand : 86 222 595 415 423 666 290 409 511 432 424 841 143 37 906 819 701 616 261 644 
+player 378 draws a 904 from deck 378
+player 378 discards a 86 to deck 379
+player 378 current hand : 222 595 415 423 666 290 409 511 432 424 841 143 37 906 819 701 616 261 644 904 
+player 378 draws a 559 from deck 378
+player 378 discards a 222 to deck 379
+player 378 current hand : 595 415 423 666 290 409 511 432 424 841 143 37 906 819 701 616 261 644 904 559 
+player 378 draws a 103 from deck 378
+player 378 discards a 595 to deck 379
+player 378 current hand : 415 423 666 290 409 511 432 424 841 143 37 906 819 701 616 261 644 904 559 103 
+player 378 draws a 712 from deck 378
+player 378 discards a 415 to deck 379
+player 378 current hand : 423 666 290 409 511 432 424 841 143 37 906 819 701 616 261 644 904 559 103 712 
+player 378 draws a 248 from deck 378
+player 378 discards a 423 to deck 379
+player 378 current hand : 666 290 409 511 432 424 841 143 37 906 819 701 616 261 644 904 559 103 712 248 
+player 378 draws a 419 from deck 378
+player 378 discards a 666 to deck 379
+player 378 current hand : 290 409 511 432 424 841 143 37 906 819 701 616 261 644 904 559 103 712 248 419 
+player 378 draws a 515 from deck 378
+player 378 discards a 290 to deck 379
+player 378 current hand : 409 511 432 424 841 143 37 906 819 701 616 261 644 904 559 103 712 248 419 515 
+player 378 draws a 8 from deck 378
+player 378 discards a 409 to deck 379
+player 378 current hand : 511 432 424 841 143 37 906 819 701 616 261 644 904 559 103 712 248 419 515 8 
+player 378 draws a 654 from deck 378
+player 378 discards a 511 to deck 379
+player 378 current hand : 432 424 841 143 37 906 819 701 616 261 644 904 559 103 712 248 419 515 8 654 
+player 378 draws a 855 from deck 378
+player 378 discards a 432 to deck 379
+player 378 current hand : 424 841 143 37 906 819 701 616 261 644 904 559 103 712 248 419 515 8 654 855 
+player 378 draws a 182 from deck 378
+player 378 discards a 424 to deck 379
+player 378 current hand : 841 143 37 906 819 701 616 261 644 904 559 103 712 248 419 515 8 654 855 182 
+player 378 draws a 134 from deck 378
+player 378 discards a 841 to deck 379
+player 378 current hand : 143 37 906 819 701 616 261 644 904 559 103 712 248 419 515 8 654 855 182 134 
+player 378 draws a 984 from deck 378
+player 378 discards a 143 to deck 379
+player 378 current hand : 37 906 819 701 616 261 644 904 559 103 712 248 419 515 8 654 855 182 134 984 
+player 378 draws a 446 from deck 378
+player 378 discards a 37 to deck 379
+player 378 current hand : 906 819 701 616 261 644 904 559 103 712 248 419 515 8 654 855 182 134 984 446 
+player 378 draws a 852 from deck 378
+player 378 discards a 906 to deck 379
+player 378 current hand : 819 701 616 261 644 904 559 103 712 248 419 515 8 654 855 182 134 984 446 852 
+player 378 draws a 114 from deck 378
+player 378 discards a 819 to deck 379
+player 378 current hand : 701 616 261 644 904 559 103 712 248 419 515 8 654 855 182 134 984 446 852 114 
+player 378 draws a 835 from deck 378
+player 378 discards a 701 to deck 379
+player 378 current hand : 616 261 644 904 559 103 712 248 419 515 8 654 855 182 134 984 446 852 114 835 
+player 378 draws a 525 from deck 378
+player 378 discards a 616 to deck 379
+player 378 current hand : 261 644 904 559 103 712 248 419 515 8 654 855 182 134 984 446 852 114 835 525 
+player 378 draws a 913 from deck 378
+player 378 discards a 261 to deck 379
+player 378 current hand : 644 904 559 103 712 248 419 515 8 654 855 182 134 984 446 852 114 835 525 913 
+player 378 draws a 8 from deck 378
+player 378 discards a 644 to deck 379
+player 378 current hand : 904 559 103 712 248 419 515 8 654 855 182 134 984 446 852 114 835 525 913 8 
+player 378 draws a 24 from deck 378
+player 378 discards a 904 to deck 379
+player 378 current hand : 559 103 712 248 419 515 8 654 855 182 134 984 446 852 114 835 525 913 8 24 
+player 378 draws a 867 from deck 378
+player 378 discards a 559 to deck 379
+player 378 current hand : 103 712 248 419 515 8 654 855 182 134 984 446 852 114 835 525 913 8 24 867 
+player 378 draws a 942 from deck 378
+player 378 discards a 103 to deck 379
+player 378 current hand : 712 248 419 515 8 654 855 182 134 984 446 852 114 835 525 913 8 24 867 942 
+player 378 draws a 291 from deck 378
+player 378 discards a 712 to deck 379
+player 378 current hand : 248 419 515 8 654 855 182 134 984 446 852 114 835 525 913 8 24 867 942 291 
+player 378 draws a 538 from deck 378
+player 378 discards a 248 to deck 379
+player 378 current hand : 419 515 8 654 855 182 134 984 446 852 114 835 525 913 8 24 867 942 291 538 
+player 378 draws a 824 from deck 378
+player 378 discards a 419 to deck 379
+player 378 current hand : 515 8 654 855 182 134 984 446 852 114 835 525 913 8 24 867 942 291 538 824 
+player 378 draws a 374 from deck 378
+player 378 discards a 515 to deck 379
+player 378 current hand : 8 654 855 182 134 984 446 852 114 835 525 913 8 24 867 942 291 538 824 374 
+player 378 draws a 906 from deck 378
+player 378 discards a 8 to deck 379
+player 378 current hand : 654 855 182 134 984 446 852 114 835 525 913 8 24 867 942 291 538 824 374 906 
+player 378 draws a 712 from deck 378
+player 378 discards a 654 to deck 379
+player 378 current hand : 855 182 134 984 446 852 114 835 525 913 8 24 867 942 291 538 824 374 906 712 
+player 378 draws a 587 from deck 378
+player 378 discards a 855 to deck 379
+player 378 current hand : 182 134 984 446 852 114 835 525 913 8 24 867 942 291 538 824 374 906 712 587 
+player 378 draws a 16 from deck 378
+player 378 discards a 182 to deck 379
+player 378 current hand : 134 984 446 852 114 835 525 913 8 24 867 942 291 538 824 374 906 712 587 16 
+player 378 draws a 720 from deck 378
+player 378 discards a 134 to deck 379
+player 378 current hand : 984 446 852 114 835 525 913 8 24 867 942 291 538 824 374 906 712 587 16 720 
+player 378 draws a 428 from deck 378
+player 378 discards a 984 to deck 379
+player 378 current hand : 446 852 114 835 525 913 8 24 867 942 291 538 824 374 906 712 587 16 720 428 
+player 378 draws a 815 from deck 378
+player 378 discards a 446 to deck 379
+player 378 current hand : 852 114 835 525 913 8 24 867 942 291 538 824 374 906 712 587 16 720 428 815 
+player 378 draws a 726 from deck 378
+player 378 discards a 852 to deck 379
+player 378 current hand : 114 835 525 913 8 24 867 942 291 538 824 374 906 712 587 16 720 428 815 726 
+player 378 draws a 83 from deck 378
+player 378 discards a 114 to deck 379
+player 378 current hand : 835 525 913 8 24 867 942 291 538 824 374 906 712 587 16 720 428 815 726 83 
+player 378 draws a 359 from deck 378
+player 378 discards a 835 to deck 379
+player 378 current hand : 525 913 8 24 867 942 291 538 824 374 906 712 587 16 720 428 815 726 83 359 
+player 378 draws a 466 from deck 378
+player 378 discards a 525 to deck 379

@@ -1,0 +1,315 @@
+player 579 initial hand 62 633 124 70 635 12 548 91 14 156 726 344 152 730 285 507 290 951 363 888 
+player 579 draws a 575 from deck 579
+player 579 discards a 62 to deck 580
+player 579 current hand : 633 124 70 635 12 548 91 14 156 726 344 152 730 285 507 290 951 363 888 575 
+player 579 draws a 7 from deck 579
+player 579 discards a 633 to deck 580
+player 579 current hand : 124 70 635 12 548 91 14 156 726 344 152 730 285 507 290 951 363 888 575 7 
+player 579 draws a 776 from deck 579
+player 579 discards a 124 to deck 580
+player 579 current hand : 70 635 12 548 91 14 156 726 344 152 730 285 507 290 951 363 888 575 7 776 
+player 579 draws a 965 from deck 579
+player 579 discards a 70 to deck 580
+player 579 current hand : 635 12 548 91 14 156 726 344 152 730 285 507 290 951 363 888 575 7 776 965 
+player 579 draws a 377 from deck 579
+player 579 discards a 635 to deck 580
+player 579 current hand : 12 548 91 14 156 726 344 152 730 285 507 290 951 363 888 575 7 776 965 377 
+player 579 draws a 778 from deck 579
+player 579 discards a 12 to deck 580
+player 579 current hand : 548 91 14 156 726 344 152 730 285 507 290 951 363 888 575 7 776 965 377 778 
+player 579 draws a 581 from deck 579
+player 579 discards a 548 to deck 580
+player 579 current hand : 91 14 156 726 344 152 730 285 507 290 951 363 888 575 7 776 965 377 778 581 
+player 579 draws a 835 from deck 579
+player 579 discards a 91 to deck 580
+player 579 current hand : 14 156 726 344 152 730 285 507 290 951 363 888 575 7 776 965 377 778 581 835 
+player 579 draws a 688 from deck 579
+player 579 discards a 14 to deck 580
+player 579 current hand : 156 726 344 152 730 285 507 290 951 363 888 575 7 776 965 377 778 581 835 688 
+player 579 draws a 242 from deck 579
+player 579 discards a 156 to deck 580
+player 579 current hand : 726 344 152 730 285 507 290 951 363 888 575 7 776 965 377 778 581 835 688 242 
+player 579 draws a 635 from deck 579
+player 579 discards a 726 to deck 580
+player 579 current hand : 344 152 730 285 507 290 951 363 888 575 7 776 965 377 778 581 835 688 242 635 
+player 579 draws a 258 from deck 579
+player 579 discards a 344 to deck 580
+player 579 current hand : 152 730 285 507 290 951 363 888 575 7 776 965 377 778 581 835 688 242 635 258 
+player 579 draws a 173 from deck 579
+player 579 discards a 152 to deck 580
+player 579 current hand : 730 285 507 290 951 363 888 575 7 776 965 377 778 581 835 688 242 635 258 173 
+player 579 draws a 329 from deck 579
+player 579 discards a 730 to deck 580
+player 579 current hand : 285 507 290 951 363 888 575 7 776 965 377 778 581 835 688 242 635 258 173 329 
+player 579 draws a 175 from deck 579
+player 579 discards a 285 to deck 580
+player 579 current hand : 507 290 951 363 888 575 7 776 965 377 778 581 835 688 242 635 258 173 329 175 
+player 579 draws a 831 from deck 579
+player 579 discards a 507 to deck 580
+player 579 current hand : 290 951 363 888 575 7 776 965 377 778 581 835 688 242 635 258 173 329 175 831 
+player 579 draws a 556 from deck 579
+player 579 discards a 290 to deck 580
+player 579 current hand : 951 363 888 575 7 776 965 377 778 581 835 688 242 635 258 173 329 175 831 556 
+player 579 draws a 255 from deck 579
+player 579 discards a 951 to deck 580
+player 579 current hand : 363 888 575 7 776 965 377 778 581 835 688 242 635 258 173 329 175 831 556 255 
+player 579 draws a 548 from deck 579
+player 579 discards a 363 to deck 580
+player 579 current hand : 888 575 7 776 965 377 778 581 835 688 242 635 258 173 329 175 831 556 255 548 
+player 579 draws a 38 from deck 579
+player 579 discards a 888 to deck 580
+player 579 current hand : 575 7 776 965 377 778 581 835 688 242 635 258 173 329 175 831 556 255 548 38 
+player 579 draws a 346 from deck 579
+player 579 discards a 575 to deck 580
+player 579 current hand : 7 776 965 377 778 581 835 688 242 635 258 173 329 175 831 556 255 548 38 346 
+player 579 draws a 505 from deck 579
+player 579 discards a 7 to deck 580
+player 579 current hand : 776 965 377 778 581 835 688 242 635 258 173 329 175 831 556 255 548 38 346 505 
+player 579 draws a 25 from deck 579
+player 579 discards a 776 to deck 580
+player 579 current hand : 965 377 778 581 835 688 242 635 258 173 329 175 831 556 255 548 38 346 505 25 
+player 579 draws a 490 from deck 579
+player 579 discards a 965 to deck 580
+player 579 current hand : 377 778 581 835 688 242 635 258 173 329 175 831 556 255 548 38 346 505 25 490 
+player 579 draws a 149 from deck 579
+player 579 discards a 377 to deck 580
+player 579 current hand : 778 581 835 688 242 635 258 173 329 175 831 556 255 548 38 346 505 25 490 149 
+player 579 draws a 946 from deck 579
+player 579 discards a 778 to deck 580
+player 579 current hand : 581 835 688 242 635 258 173 329 175 831 556 255 548 38 346 505 25 490 149 946 
+player 579 draws a 510 from deck 579
+player 579 discards a 581 to deck 580
+player 579 current hand : 835 688 242 635 258 173 329 175 831 556 255 548 38 346 505 25 490 149 946 510 
+player 579 draws a 266 from deck 579
+player 579 discards a 835 to deck 580
+player 579 current hand : 688 242 635 258 173 329 175 831 556 255 548 38 346 505 25 490 149 946 510 266 
+player 579 draws a 401 from deck 579
+player 579 discards a 688 to deck 580
+player 579 current hand : 242 635 258 173 329 175 831 556 255 548 38 346 505 25 490 149 946 510 266 401 
+player 579 draws a 713 from deck 579
+player 579 discards a 242 to deck 580
+player 579 current hand : 635 258 173 329 175 831 556 255 548 38 346 505 25 490 149 946 510 266 401 713 
+player 579 draws a 247 from deck 579
+player 579 discards a 635 to deck 580
+player 579 current hand : 258 173 329 175 831 556 255 548 38 346 505 25 490 149 946 510 266 401 713 247 
+player 579 draws a 444 from deck 579
+player 579 discards a 258 to deck 580
+player 579 current hand : 173 329 175 831 556 255 548 38 346 505 25 490 149 946 510 266 401 713 247 444 
+player 579 draws a 524 from deck 579
+player 579 discards a 173 to deck 580
+player 579 current hand : 329 175 831 556 255 548 38 346 505 25 490 149 946 510 266 401 713 247 444 524 
+player 579 draws a 856 from deck 579
+player 579 discards a 329 to deck 580
+player 579 current hand : 175 831 556 255 548 38 346 505 25 490 149 946 510 266 401 713 247 444 524 856 
+player 579 draws a 20 from deck 579
+player 579 discards a 175 to deck 580
+player 579 current hand : 831 556 255 548 38 346 505 25 490 149 946 510 266 401 713 247 444 524 856 20 
+player 579 draws a 346 from deck 579
+player 579 discards a 831 to deck 580
+player 579 current hand : 556 255 548 38 346 505 25 490 149 946 510 266 401 713 247 444 524 856 20 346 
+player 579 draws a 160 from deck 579
+player 579 discards a 556 to deck 580
+player 579 current hand : 255 548 38 346 505 25 490 149 946 510 266 401 713 247 444 524 856 20 346 160 
+player 579 draws a 135 from deck 579
+player 579 discards a 255 to deck 580
+player 579 current hand : 548 38 346 505 25 490 149 946 510 266 401 713 247 444 524 856 20 346 160 135 
+player 579 draws a 870 from deck 579
+player 579 discards a 548 to deck 580
+player 579 current hand : 38 346 505 25 490 149 946 510 266 401 713 247 444 524 856 20 346 160 135 870 
+player 579 draws a 709 from deck 579
+player 579 discards a 38 to deck 580
+player 579 current hand : 346 505 25 490 149 946 510 266 401 713 247 444 524 856 20 346 160 135 870 709 
+player 579 draws a 984 from deck 579
+player 579 discards a 346 to deck 580
+player 579 current hand : 505 25 490 149 946 510 266 401 713 247 444 524 856 20 346 160 135 870 709 984 
+player 579 draws a 115 from deck 579
+player 579 discards a 505 to deck 580
+player 579 current hand : 25 490 149 946 510 266 401 713 247 444 524 856 20 346 160 135 870 709 984 115 
+player 579 draws a 31 from deck 579
+player 579 discards a 25 to deck 580
+player 579 current hand : 490 149 946 510 266 401 713 247 444 524 856 20 346 160 135 870 709 984 115 31 
+player 579 draws a 263 from deck 579
+player 579 discards a 490 to deck 580
+player 579 current hand : 149 946 510 266 401 713 247 444 524 856 20 346 160 135 870 709 984 115 31 263 
+player 579 draws a 162 from deck 579
+player 579 discards a 149 to deck 580
+player 579 current hand : 946 510 266 401 713 247 444 524 856 20 346 160 135 870 709 984 115 31 263 162 
+player 579 draws a 351 from deck 579
+player 579 discards a 946 to deck 580
+player 579 current hand : 510 266 401 713 247 444 524 856 20 346 160 135 870 709 984 115 31 263 162 351 
+player 579 draws a 841 from deck 579
+player 579 discards a 510 to deck 580
+player 579 current hand : 266 401 713 247 444 524 856 20 346 160 135 870 709 984 115 31 263 162 351 841 
+player 579 draws a 856 from deck 579
+player 579 discards a 266 to deck 580
+player 579 current hand : 401 713 247 444 524 856 20 346 160 135 870 709 984 115 31 263 162 351 841 856 
+player 579 draws a 252 from deck 579
+player 579 discards a 401 to deck 580
+player 579 current hand : 713 247 444 524 856 20 346 160 135 870 709 984 115 31 263 162 351 841 856 252 
+player 579 draws a 258 from deck 579
+player 579 discards a 713 to deck 580
+player 579 current hand : 247 444 524 856 20 346 160 135 870 709 984 115 31 263 162 351 841 856 252 258 
+player 579 draws a 636 from deck 579
+player 579 discards a 247 to deck 580
+player 579 current hand : 444 524 856 20 346 160 135 870 709 984 115 31 263 162 351 841 856 252 258 636 
+player 579 draws a 137 from deck 579
+player 579 discards a 444 to deck 580
+player 579 current hand : 524 856 20 346 160 135 870 709 984 115 31 263 162 351 841 856 252 258 636 137 
+player 579 draws a 926 from deck 579
+player 579 discards a 524 to deck 580
+player 579 current hand : 856 20 346 160 135 870 709 984 115 31 263 162 351 841 856 252 258 636 137 926 
+player 579 draws a 887 from deck 579
+player 579 discards a 856 to deck 580
+player 579 current hand : 20 346 160 135 870 709 984 115 31 263 162 351 841 856 252 258 636 137 926 887 
+player 579 draws a 907 from deck 579
+player 579 discards a 20 to deck 580
+player 579 current hand : 346 160 135 870 709 984 115 31 263 162 351 841 856 252 258 636 137 926 887 907 
+player 579 draws a 422 from deck 579
+player 579 discards a 346 to deck 580
+player 579 current hand : 160 135 870 709 984 115 31 263 162 351 841 856 252 258 636 137 926 887 907 422 
+player 579 draws a 514 from deck 579
+player 579 discards a 160 to deck 580
+player 579 current hand : 135 870 709 984 115 31 263 162 351 841 856 252 258 636 137 926 887 907 422 514 
+player 579 draws a 682 from deck 579
+player 579 discards a 135 to deck 580
+player 579 current hand : 870 709 984 115 31 263 162 351 841 856 252 258 636 137 926 887 907 422 514 682 
+player 579 draws a 707 from deck 579
+player 579 discards a 870 to deck 580
+player 579 current hand : 709 984 115 31 263 162 351 841 856 252 258 636 137 926 887 907 422 514 682 707 
+player 579 draws a 392 from deck 579
+player 579 discards a 709 to deck 580
+player 579 current hand : 984 115 31 263 162 351 841 856 252 258 636 137 926 887 907 422 514 682 707 392 
+player 579 draws a 626 from deck 579
+player 579 discards a 984 to deck 580
+player 579 current hand : 115 31 263 162 351 841 856 252 258 636 137 926 887 907 422 514 682 707 392 626 
+player 579 draws a 392 from deck 579
+player 579 discards a 115 to deck 580
+player 579 current hand : 31 263 162 351 841 856 252 258 636 137 926 887 907 422 514 682 707 392 626 392 
+player 579 draws a 29 from deck 579
+player 579 discards a 31 to deck 580
+player 579 current hand : 263 162 351 841 856 252 258 636 137 926 887 907 422 514 682 707 392 626 392 29 
+player 579 draws a 723 from deck 579
+player 579 discards a 263 to deck 580
+player 579 current hand : 162 351 841 856 252 258 636 137 926 887 907 422 514 682 707 392 626 392 29 723 
+player 579 draws a 174 from deck 579
+player 579 discards a 162 to deck 580
+player 579 current hand : 351 841 856 252 258 636 137 926 887 907 422 514 682 707 392 626 392 29 723 174 
+player 579 draws a 647 from deck 579
+player 579 discards a 351 to deck 580
+player 579 current hand : 841 856 252 258 636 137 926 887 907 422 514 682 707 392 626 392 29 723 174 647 
+player 579 draws a 478 from deck 579
+player 579 discards a 841 to deck 580
+player 579 current hand : 856 252 258 636 137 926 887 907 422 514 682 707 392 626 392 29 723 174 647 478 
+player 579 draws a 513 from deck 579
+player 579 discards a 856 to deck 580
+player 579 current hand : 252 258 636 137 926 887 907 422 514 682 707 392 626 392 29 723 174 647 478 513 
+player 579 draws a 784 from deck 579
+player 579 discards a 252 to deck 580
+player 579 current hand : 258 636 137 926 887 907 422 514 682 707 392 626 392 29 723 174 647 478 513 784 
+player 579 draws a 818 from deck 579
+player 579 discards a 258 to deck 580
+player 579 current hand : 636 137 926 887 907 422 514 682 707 392 626 392 29 723 174 647 478 513 784 818 
+player 579 draws a 898 from deck 579
+player 579 discards a 636 to deck 580
+player 579 current hand : 137 926 887 907 422 514 682 707 392 626 392 29 723 174 647 478 513 784 818 898 
+player 579 draws a 620 from deck 579
+player 579 discards a 137 to deck 580
+player 579 current hand : 926 887 907 422 514 682 707 392 626 392 29 723 174 647 478 513 784 818 898 620 
+player 579 draws a 649 from deck 579
+player 579 discards a 926 to deck 580
+player 579 current hand : 887 907 422 514 682 707 392 626 392 29 723 174 647 478 513 784 818 898 620 649 
+player 579 draws a 618 from deck 579
+player 579 discards a 887 to deck 580
+player 579 current hand : 907 422 514 682 707 392 626 392 29 723 174 647 478 513 784 818 898 620 649 618 
+player 579 draws a 867 from deck 579
+player 579 discards a 907 to deck 580
+player 579 current hand : 422 514 682 707 392 626 392 29 723 174 647 478 513 784 818 898 620 649 618 867 
+player 579 draws a 973 from deck 579
+player 579 discards a 422 to deck 580
+player 579 current hand : 514 682 707 392 626 392 29 723 174 647 478 513 784 818 898 620 649 618 867 973 
+player 579 draws a 31 from deck 579
+player 579 discards a 514 to deck 580
+player 579 current hand : 682 707 392 626 392 29 723 174 647 478 513 784 818 898 620 649 618 867 973 31 
+player 579 draws a 931 from deck 579
+player 579 discards a 682 to deck 580
+player 579 current hand : 707 392 626 392 29 723 174 647 478 513 784 818 898 620 649 618 867 973 31 931 
+player 579 draws a 675 from deck 579
+player 579 discards a 707 to deck 580
+player 579 current hand : 392 626 392 29 723 174 647 478 513 784 818 898 620 649 618 867 973 31 931 675 
+player 579 draws a 142 from deck 579
+player 579 discards a 392 to deck 580
+player 579 current hand : 626 392 29 723 174 647 478 513 784 818 898 620 649 618 867 973 31 931 675 142 
+player 579 draws a 199 from deck 579
+player 579 discards a 626 to deck 580
+player 579 current hand : 392 29 723 174 647 478 513 784 818 898 620 649 618 867 973 31 931 675 142 199 
+player 579 draws a 683 from deck 579
+player 579 discards a 392 to deck 580
+player 579 current hand : 29 723 174 647 478 513 784 818 898 620 649 618 867 973 31 931 675 142 199 683 
+player 579 draws a 564 from deck 579
+player 579 discards a 29 to deck 580
+player 579 current hand : 723 174 647 478 513 784 818 898 620 649 618 867 973 31 931 675 142 199 683 564 
+player 579 draws a 768 from deck 579
+player 579 discards a 723 to deck 580
+player 579 current hand : 174 647 478 513 784 818 898 620 649 618 867 973 31 931 675 142 199 683 564 768 
+player 579 draws a 716 from deck 579
+player 579 discards a 174 to deck 580
+player 579 current hand : 647 478 513 784 818 898 620 649 618 867 973 31 931 675 142 199 683 564 768 716 
+player 579 draws a 104 from deck 579
+player 579 discards a 647 to deck 580
+player 579 current hand : 478 513 784 818 898 620 649 618 867 973 31 931 675 142 199 683 564 768 716 104 
+player 579 draws a 770 from deck 579
+player 579 discards a 478 to deck 580
+player 579 current hand : 513 784 818 898 620 649 618 867 973 31 931 675 142 199 683 564 768 716 104 770 
+player 579 draws a 967 from deck 579
+player 579 discards a 513 to deck 580
+player 579 current hand : 784 818 898 620 649 618 867 973 31 931 675 142 199 683 564 768 716 104 770 967 
+player 579 draws a 580 from deck 579
+player 579 discards a 784 to deck 580
+player 579 current hand : 818 898 620 649 618 867 973 31 931 675 142 199 683 564 768 716 104 770 967 580 
+player 579 draws a 223 from deck 579
+player 579 discards a 818 to deck 580
+player 579 current hand : 898 620 649 618 867 973 31 931 675 142 199 683 564 768 716 104 770 967 580 223 
+player 579 draws a 639 from deck 579
+player 579 discards a 898 to deck 580
+player 579 current hand : 620 649 618 867 973 31 931 675 142 199 683 564 768 716 104 770 967 580 223 639 
+player 579 draws a 620 from deck 579
+player 579 discards a 620 to deck 580
+player 579 current hand : 649 618 867 973 31 931 675 142 199 683 564 768 716 104 770 967 580 223 639 620 
+player 579 draws a 370 from deck 579
+player 579 discards a 649 to deck 580
+player 579 current hand : 618 867 973 31 931 675 142 199 683 564 768 716 104 770 967 580 223 639 620 370 
+player 579 draws a 339 from deck 579
+player 579 discards a 618 to deck 580
+player 579 current hand : 867 973 31 931 675 142 199 683 564 768 716 104 770 967 580 223 639 620 370 339 
+player 579 draws a 753 from deck 579
+player 579 discards a 867 to deck 580
+player 579 current hand : 973 31 931 675 142 199 683 564 768 716 104 770 967 580 223 639 620 370 339 753 
+player 579 draws a 444 from deck 579
+player 579 discards a 973 to deck 580
+player 579 current hand : 31 931 675 142 199 683 564 768 716 104 770 967 580 223 639 620 370 339 753 444 
+player 579 draws a 612 from deck 579
+player 579 discards a 31 to deck 580
+player 579 current hand : 931 675 142 199 683 564 768 716 104 770 967 580 223 639 620 370 339 753 444 612 
+player 579 draws a 968 from deck 579
+player 579 discards a 931 to deck 580
+player 579 current hand : 675 142 199 683 564 768 716 104 770 967 580 223 639 620 370 339 753 444 612 968 
+player 579 draws a 849 from deck 579
+player 579 discards a 675 to deck 580
+player 579 current hand : 142 199 683 564 768 716 104 770 967 580 223 639 620 370 339 753 444 612 968 849 
+player 579 draws a 701 from deck 579
+player 579 discards a 142 to deck 580
+player 579 current hand : 199 683 564 768 716 104 770 967 580 223 639 620 370 339 753 444 612 968 849 701 
+player 579 draws a 897 from deck 579
+player 579 discards a 199 to deck 580
+player 579 current hand : 683 564 768 716 104 770 967 580 223 639 620 370 339 753 444 612 968 849 701 897 
+player 579 draws a 926 from deck 579
+player 579 discards a 683 to deck 580
+player 579 current hand : 564 768 716 104 770 967 580 223 639 620 370 339 753 444 612 968 849 701 897 926 
+player 579 draws a 513 from deck 579
+player 579 discards a 564 to deck 580
+player 579 current hand : 768 716 104 770 967 580 223 639 620 370 339 753 444 612 968 849 701 897 926 513 
+player 579 draws a 62 from deck 579
+player 579 discards a 768 to deck 580
+player 579 current hand : 716 104 770 967 580 223 639 620 370 339 753 444 612 968 849 701 897 926 513 62 
+player 579 draws a 233 from deck 579
+player 579 discards a 716 to deck 580

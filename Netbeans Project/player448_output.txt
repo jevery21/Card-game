@@ -1,0 +1,318 @@
+player 448 initial hand 18 110 289 650 255 157 428 985 768 11 919 994 931 210 512 410 328 649 233 412 
+player 448 draws a 497 from deck 448
+player 448 discards a 18 to deck 449
+player 448 current hand : 110 289 650 255 157 428 985 768 11 919 994 931 210 512 410 328 649 233 412 497 
+player 448 draws a 824 from deck 448
+player 448 discards a 110 to deck 449
+player 448 current hand : 289 650 255 157 428 985 768 11 919 994 931 210 512 410 328 649 233 412 497 824 
+player 448 draws a 535 from deck 448
+player 448 discards a 289 to deck 449
+player 448 current hand : 650 255 157 428 985 768 11 919 994 931 210 512 410 328 649 233 412 497 824 535 
+player 448 draws a 405 from deck 448
+player 448 discards a 650 to deck 449
+player 448 current hand : 255 157 428 985 768 11 919 994 931 210 512 410 328 649 233 412 497 824 535 405 
+player 448 draws a 780 from deck 448
+player 448 discards a 255 to deck 449
+player 448 current hand : 157 428 985 768 11 919 994 931 210 512 410 328 649 233 412 497 824 535 405 780 
+player 448 draws a 599 from deck 448
+player 448 discards a 157 to deck 449
+player 448 current hand : 428 985 768 11 919 994 931 210 512 410 328 649 233 412 497 824 535 405 780 599 
+player 448 draws a 40 from deck 448
+player 448 discards a 428 to deck 449
+player 448 current hand : 985 768 11 919 994 931 210 512 410 328 649 233 412 497 824 535 405 780 599 40 
+player 448 draws a 632 from deck 448
+player 448 discards a 985 to deck 449
+player 448 current hand : 768 11 919 994 931 210 512 410 328 649 233 412 497 824 535 405 780 599 40 632 
+player 448 draws a 705 from deck 448
+player 448 discards a 768 to deck 449
+player 448 current hand : 11 919 994 931 210 512 410 328 649 233 412 497 824 535 405 780 599 40 632 705 
+player 448 draws a 723 from deck 448
+player 448 discards a 11 to deck 449
+player 448 current hand : 919 994 931 210 512 410 328 649 233 412 497 824 535 405 780 599 40 632 705 723 
+player 448 draws a 951 from deck 448
+player 448 discards a 919 to deck 449
+player 448 current hand : 994 931 210 512 410 328 649 233 412 497 824 535 405 780 599 40 632 705 723 951 
+player 448 draws a 153 from deck 448
+player 448 discards a 994 to deck 449
+player 448 current hand : 931 210 512 410 328 649 233 412 497 824 535 405 780 599 40 632 705 723 951 153 
+player 448 draws a 598 from deck 448
+player 448 discards a 931 to deck 449
+player 448 current hand : 210 512 410 328 649 233 412 497 824 535 405 780 599 40 632 705 723 951 153 598 
+player 448 draws a 518 from deck 448
+player 448 discards a 210 to deck 449
+player 448 current hand : 512 410 328 649 233 412 497 824 535 405 780 599 40 632 705 723 951 153 598 518 
+player 448 draws a 7 from deck 448
+player 448 discards a 512 to deck 449
+player 448 current hand : 410 328 649 233 412 497 824 535 405 780 599 40 632 705 723 951 153 598 518 7 
+player 448 draws a 36 from deck 448
+player 448 discards a 410 to deck 449
+player 448 current hand : 328 649 233 412 497 824 535 405 780 599 40 632 705 723 951 153 598 518 7 36 
+player 448 draws a 77 from deck 448
+player 448 discards a 328 to deck 449
+player 448 current hand : 649 233 412 497 824 535 405 780 599 40 632 705 723 951 153 598 518 7 36 77 
+player 448 draws a 737 from deck 448
+player 448 discards a 649 to deck 449
+player 448 current hand : 233 412 497 824 535 405 780 599 40 632 705 723 951 153 598 518 7 36 77 737 
+player 448 draws a 913 from deck 448
+player 448 discards a 233 to deck 449
+player 448 current hand : 412 497 824 535 405 780 599 40 632 705 723 951 153 598 518 7 36 77 737 913 
+player 448 draws a 930 from deck 448
+player 448 discards a 412 to deck 449
+player 448 current hand : 497 824 535 405 780 599 40 632 705 723 951 153 598 518 7 36 77 737 913 930 
+player 448 draws a 315 from deck 448
+player 448 discards a 497 to deck 449
+player 448 current hand : 824 535 405 780 599 40 632 705 723 951 153 598 518 7 36 77 737 913 930 315 
+player 448 draws a 913 from deck 448
+player 448 discards a 824 to deck 449
+player 448 current hand : 535 405 780 599 40 632 705 723 951 153 598 518 7 36 77 737 913 930 315 913 
+player 448 draws a 163 from deck 448
+player 448 discards a 535 to deck 449
+player 448 current hand : 405 780 599 40 632 705 723 951 153 598 518 7 36 77 737 913 930 315 913 163 
+player 448 draws a 265 from deck 448
+player 448 discards a 405 to deck 449
+player 448 current hand : 780 599 40 632 705 723 951 153 598 518 7 36 77 737 913 930 315 913 163 265 
+player 448 draws a 229 from deck 448
+player 448 discards a 780 to deck 449
+player 448 current hand : 599 40 632 705 723 951 153 598 518 7 36 77 737 913 930 315 913 163 265 229 
+player 448 draws a 24 from deck 448
+player 448 discards a 599 to deck 449
+player 448 current hand : 40 632 705 723 951 153 598 518 7 36 77 737 913 930 315 913 163 265 229 24 
+player 448 draws a 142 from deck 448
+player 448 discards a 40 to deck 449
+player 448 current hand : 632 705 723 951 153 598 518 7 36 77 737 913 930 315 913 163 265 229 24 142 
+player 448 draws a 511 from deck 448
+player 448 discards a 632 to deck 449
+player 448 current hand : 705 723 951 153 598 518 7 36 77 737 913 930 315 913 163 265 229 24 142 511 
+player 448 draws a 623 from deck 448
+player 448 discards a 705 to deck 449
+player 448 current hand : 723 951 153 598 518 7 36 77 737 913 930 315 913 163 265 229 24 142 511 623 
+player 448 draws a 209 from deck 448
+player 448 discards a 723 to deck 449
+player 448 current hand : 951 153 598 518 7 36 77 737 913 930 315 913 163 265 229 24 142 511 623 209 
+player 448 draws a 1000 from deck 448
+player 448 discards a 951 to deck 449
+player 448 current hand : 153 598 518 7 36 77 737 913 930 315 913 163 265 229 24 142 511 623 209 1000 
+player 448 draws a 814 from deck 448
+player 448 discards a 153 to deck 449
+player 448 current hand : 598 518 7 36 77 737 913 930 315 913 163 265 229 24 142 511 623 209 1000 814 
+player 448 draws a 117 from deck 448
+player 448 discards a 598 to deck 449
+player 448 current hand : 518 7 36 77 737 913 930 315 913 163 265 229 24 142 511 623 209 1000 814 117 
+player 448 draws a 425 from deck 448
+player 448 discards a 518 to deck 449
+player 448 current hand : 7 36 77 737 913 930 315 913 163 265 229 24 142 511 623 209 1000 814 117 425 
+player 448 draws a 446 from deck 448
+player 448 discards a 7 to deck 449
+player 448 current hand : 36 77 737 913 930 315 913 163 265 229 24 142 511 623 209 1000 814 117 425 446 
+player 448 draws a 581 from deck 448
+player 448 discards a 36 to deck 449
+player 448 current hand : 77 737 913 930 315 913 163 265 229 24 142 511 623 209 1000 814 117 425 446 581 
+player 448 draws a 787 from deck 448
+player 448 discards a 77 to deck 449
+player 448 current hand : 737 913 930 315 913 163 265 229 24 142 511 623 209 1000 814 117 425 446 581 787 
+player 448 draws a 356 from deck 448
+player 448 discards a 737 to deck 449
+player 448 current hand : 913 930 315 913 163 265 229 24 142 511 623 209 1000 814 117 425 446 581 787 356 
+player 448 draws a 885 from deck 448
+player 448 discards a 913 to deck 449
+player 448 current hand : 930 315 913 163 265 229 24 142 511 623 209 1000 814 117 425 446 581 787 356 885 
+player 448 draws a 106 from deck 448
+player 448 discards a 930 to deck 449
+player 448 current hand : 315 913 163 265 229 24 142 511 623 209 1000 814 117 425 446 581 787 356 885 106 
+player 448 draws a 810 from deck 448
+player 448 discards a 315 to deck 449
+player 448 current hand : 913 163 265 229 24 142 511 623 209 1000 814 117 425 446 581 787 356 885 106 810 
+player 448 draws a 1 from deck 448
+player 448 discards a 913 to deck 449
+player 448 current hand : 163 265 229 24 142 511 623 209 1000 814 117 425 446 581 787 356 885 106 810 1 
+player 448 draws a 232 from deck 448
+player 448 discards a 163 to deck 449
+player 448 current hand : 265 229 24 142 511 623 209 1000 814 117 425 446 581 787 356 885 106 810 1 232 
+player 448 draws a 235 from deck 448
+player 448 discards a 265 to deck 449
+player 448 current hand : 229 24 142 511 623 209 1000 814 117 425 446 581 787 356 885 106 810 1 232 235 
+player 448 draws a 267 from deck 448
+player 448 discards a 229 to deck 449
+player 448 current hand : 24 142 511 623 209 1000 814 117 425 446 581 787 356 885 106 810 1 232 235 267 
+player 448 draws a 945 from deck 448
+player 448 discards a 24 to deck 449
+player 448 current hand : 142 511 623 209 1000 814 117 425 446 581 787 356 885 106 810 1 232 235 267 945 
+player 448 draws a 922 from deck 448
+player 448 discards a 142 to deck 449
+player 448 current hand : 511 623 209 1000 814 117 425 446 581 787 356 885 106 810 1 232 235 267 945 922 
+player 448 draws a 829 from deck 448
+player 448 discards a 511 to deck 449
+player 448 current hand : 623 209 1000 814 117 425 446 581 787 356 885 106 810 1 232 235 267 945 922 829 
+player 448 draws a 226 from deck 448
+player 448 discards a 623 to deck 449
+player 448 current hand : 209 1000 814 117 425 446 581 787 356 885 106 810 1 232 235 267 945 922 829 226 
+player 448 draws a 226 from deck 448
+player 448 discards a 209 to deck 449
+player 448 current hand : 1000 814 117 425 446 581 787 356 885 106 810 1 232 235 267 945 922 829 226 226 
+player 448 draws a 598 from deck 448
+player 448 discards a 1000 to deck 449
+player 448 current hand : 814 117 425 446 581 787 356 885 106 810 1 232 235 267 945 922 829 226 226 598 
+player 448 draws a 498 from deck 448
+player 448 discards a 814 to deck 449
+player 448 current hand : 117 425 446 581 787 356 885 106 810 1 232 235 267 945 922 829 226 226 598 498 
+player 448 draws a 653 from deck 448
+player 448 discards a 117 to deck 449
+player 448 current hand : 425 446 581 787 356 885 106 810 1 232 235 267 945 922 829 226 226 598 498 653 
+player 448 draws a 635 from deck 448
+player 448 discards a 425 to deck 449
+player 448 current hand : 446 581 787 356 885 106 810 1 232 235 267 945 922 829 226 226 598 498 653 635 
+player 448 draws a 944 from deck 448
+player 448 discards a 446 to deck 449
+player 448 current hand : 581 787 356 885 106 810 1 232 235 267 945 922 829 226 226 598 498 653 635 944 
+player 448 draws a 904 from deck 448
+player 448 discards a 581 to deck 449
+player 448 current hand : 787 356 885 106 810 1 232 235 267 945 922 829 226 226 598 498 653 635 944 904 
+player 448 draws a 420 from deck 448
+player 448 discards a 787 to deck 449
+player 448 current hand : 356 885 106 810 1 232 235 267 945 922 829 226 226 598 498 653 635 944 904 420 
+player 448 draws a 559 from deck 448
+player 448 discards a 356 to deck 449
+player 448 current hand : 885 106 810 1 232 235 267 945 922 829 226 226 598 498 653 635 944 904 420 559 
+player 448 draws a 646 from deck 448
+player 448 discards a 885 to deck 449
+player 448 current hand : 106 810 1 232 235 267 945 922 829 226 226 598 498 653 635 944 904 420 559 646 
+player 448 draws a 464 from deck 448
+player 448 discards a 106 to deck 449
+player 448 current hand : 810 1 232 235 267 945 922 829 226 226 598 498 653 635 944 904 420 559 646 464 
+player 448 draws a 44 from deck 448
+player 448 discards a 810 to deck 449
+player 448 current hand : 1 232 235 267 945 922 829 226 226 598 498 653 635 944 904 420 559 646 464 44 
+player 448 draws a 956 from deck 448
+player 448 discards a 1 to deck 449
+player 448 current hand : 232 235 267 945 922 829 226 226 598 498 653 635 944 904 420 559 646 464 44 956 
+player 448 draws a 852 from deck 448
+player 448 discards a 232 to deck 449
+player 448 current hand : 235 267 945 922 829 226 226 598 498 653 635 944 904 420 559 646 464 44 956 852 
+player 448 draws a 926 from deck 448
+player 448 discards a 235 to deck 449
+player 448 current hand : 267 945 922 829 226 226 598 498 653 635 944 904 420 559 646 464 44 956 852 926 
+player 448 draws a 15 from deck 448
+player 448 discards a 267 to deck 449
+player 448 current hand : 945 922 829 226 226 598 498 653 635 944 904 420 559 646 464 44 956 852 926 15 
+player 448 draws a 829 from deck 448
+player 448 discards a 945 to deck 449
+player 448 current hand : 922 829 226 226 598 498 653 635 944 904 420 559 646 464 44 956 852 926 15 829 
+player 448 draws a 774 from deck 448
+player 448 discards a 922 to deck 449
+player 448 current hand : 829 226 226 598 498 653 635 944 904 420 559 646 464 44 956 852 926 15 829 774 
+player 448 draws a 231 from deck 448
+player 448 discards a 829 to deck 449
+player 448 current hand : 226 226 598 498 653 635 944 904 420 559 646 464 44 956 852 926 15 829 774 231 
+player 448 draws a 549 from deck 448
+player 448 discards a 226 to deck 449
+player 448 current hand : 226 598 498 653 635 944 904 420 559 646 464 44 956 852 926 15 829 774 231 549 
+player 448 draws a 799 from deck 448
+player 448 discards a 226 to deck 449
+player 448 current hand : 598 498 653 635 944 904 420 559 646 464 44 956 852 926 15 829 774 231 549 799 
+player 448 draws a 384 from deck 448
+player 448 discards a 598 to deck 449
+player 448 current hand : 498 653 635 944 904 420 559 646 464 44 956 852 926 15 829 774 231 549 799 384 
+player 448 draws a 29 from deck 448
+player 448 discards a 498 to deck 449
+player 448 current hand : 653 635 944 904 420 559 646 464 44 956 852 926 15 829 774 231 549 799 384 29 
+player 448 draws a 677 from deck 448
+player 448 discards a 653 to deck 449
+player 448 current hand : 635 944 904 420 559 646 464 44 956 852 926 15 829 774 231 549 799 384 29 677 
+player 448 draws a 913 from deck 448
+player 448 discards a 635 to deck 449
+player 448 current hand : 944 904 420 559 646 464 44 956 852 926 15 829 774 231 549 799 384 29 677 913 
+player 448 draws a 730 from deck 448
+player 448 discards a 944 to deck 449
+player 448 current hand : 904 420 559 646 464 44 956 852 926 15 829 774 231 549 799 384 29 677 913 730 
+player 448 draws a 137 from deck 448
+player 448 discards a 904 to deck 449
+player 448 current hand : 420 559 646 464 44 956 852 926 15 829 774 231 549 799 384 29 677 913 730 137 
+player 448 draws a 773 from deck 448
+player 448 discards a 420 to deck 449
+player 448 current hand : 559 646 464 44 956 852 926 15 829 774 231 549 799 384 29 677 913 730 137 773 
+player 448 draws a 870 from deck 448
+player 448 discards a 559 to deck 449
+player 448 current hand : 646 464 44 956 852 926 15 829 774 231 549 799 384 29 677 913 730 137 773 870 
+player 448 draws a 511 from deck 448
+player 448 discards a 646 to deck 449
+player 448 current hand : 464 44 956 852 926 15 829 774 231 549 799 384 29 677 913 730 137 773 870 511 
+player 448 draws a 535 from deck 448
+player 448 discards a 464 to deck 449
+player 448 current hand : 44 956 852 926 15 829 774 231 549 799 384 29 677 913 730 137 773 870 511 535 
+player 448 draws a 809 from deck 448
+player 448 discards a 44 to deck 449
+player 448 current hand : 956 852 926 15 829 774 231 549 799 384 29 677 913 730 137 773 870 511 535 809 
+player 448 draws a 457 from deck 448
+player 448 discards a 956 to deck 449
+player 448 current hand : 852 926 15 829 774 231 549 799 384 29 677 913 730 137 773 870 511 535 809 457 
+player 448 draws a 708 from deck 448
+player 448 discards a 852 to deck 449
+player 448 current hand : 926 15 829 774 231 549 799 384 29 677 913 730 137 773 870 511 535 809 457 708 
+player 448 draws a 514 from deck 448
+player 448 discards a 926 to deck 449
+player 448 current hand : 15 829 774 231 549 799 384 29 677 913 730 137 773 870 511 535 809 457 708 514 
+player 448 draws a 849 from deck 448
+player 448 discards a 15 to deck 449
+player 448 current hand : 829 774 231 549 799 384 29 677 913 730 137 773 870 511 535 809 457 708 514 849 
+player 448 draws a 775 from deck 448
+player 448 discards a 829 to deck 449
+player 448 current hand : 774 231 549 799 384 29 677 913 730 137 773 870 511 535 809 457 708 514 849 775 
+player 448 draws a 589 from deck 448
+player 448 discards a 774 to deck 449
+player 448 current hand : 231 549 799 384 29 677 913 730 137 773 870 511 535 809 457 708 514 849 775 589 
+player 448 draws a 81 from deck 448
+player 448 discards a 231 to deck 449
+player 448 current hand : 549 799 384 29 677 913 730 137 773 870 511 535 809 457 708 514 849 775 589 81 
+player 448 draws a 319 from deck 448
+player 448 discards a 549 to deck 449
+player 448 current hand : 799 384 29 677 913 730 137 773 870 511 535 809 457 708 514 849 775 589 81 319 
+player 448 draws a 641 from deck 448
+player 448 discards a 799 to deck 449
+player 448 current hand : 384 29 677 913 730 137 773 870 511 535 809 457 708 514 849 775 589 81 319 641 
+player 448 draws a 740 from deck 448
+player 448 discards a 384 to deck 449
+player 448 current hand : 29 677 913 730 137 773 870 511 535 809 457 708 514 849 775 589 81 319 641 740 
+player 448 draws a 644 from deck 448
+player 448 discards a 29 to deck 449
+player 448 current hand : 677 913 730 137 773 870 511 535 809 457 708 514 849 775 589 81 319 641 740 644 
+player 448 draws a 388 from deck 448
+player 448 discards a 677 to deck 449
+player 448 current hand : 913 730 137 773 870 511 535 809 457 708 514 849 775 589 81 319 641 740 644 388 
+player 448 draws a 546 from deck 448
+player 448 discards a 913 to deck 449
+player 448 current hand : 730 137 773 870 511 535 809 457 708 514 849 775 589 81 319 641 740 644 388 546 
+player 448 draws a 890 from deck 448
+player 448 discards a 730 to deck 449
+player 448 current hand : 137 773 870 511 535 809 457 708 514 849 775 589 81 319 641 740 644 388 546 890 
+player 448 draws a 786 from deck 448
+player 448 discards a 137 to deck 449
+player 448 current hand : 773 870 511 535 809 457 708 514 849 775 589 81 319 641 740 644 388 546 890 786 
+player 448 draws a 773 from deck 448
+player 448 discards a 773 to deck 449
+player 448 current hand : 870 511 535 809 457 708 514 849 775 589 81 319 641 740 644 388 546 890 786 773 
+player 448 draws a 143 from deck 448
+player 448 discards a 870 to deck 449
+player 448 current hand : 511 535 809 457 708 514 849 775 589 81 319 641 740 644 388 546 890 786 773 143 
+player 448 draws a 715 from deck 448
+player 448 discards a 511 to deck 449
+player 448 current hand : 535 809 457 708 514 849 775 589 81 319 641 740 644 388 546 890 786 773 143 715 
+player 448 draws a 255 from deck 448
+player 448 discards a 535 to deck 449
+player 448 current hand : 809 457 708 514 849 775 589 81 319 641 740 644 388 546 890 786 773 143 715 255 
+player 448 draws a 841 from deck 448
+player 448 discards a 809 to deck 449
+player 448 current hand : 457 708 514 849 775 589 81 319 641 740 644 388 546 890 786 773 143 715 255 841 
+player 448 draws a 111 from deck 448
+player 448 discards a 457 to deck 449
+player 448 current hand : 708 514 849 775 589 81 319 641 740 644 388 546 890 786 773 143 715 255 841 111 
+player 448 draws a 999 from deck 448
+player 448 discards a 708 to deck 449
+player 448 current hand : 514 849 775 589 81 319 641 740 644 388 546 890 786 773 143 715 255 841 111 999 
+player 448 draws a 720 from deck 448
+player 448 discards a 514 to deck 449
+player 448 current hand : 849 775 589 81 319 641 740 644 388 546 890 786 773 143 715 255 841 111 999 720 
+player 448 draws a 692 from deck 448
+player 448 discards a 849 to deck 449
+player 448 current hand : 775 589 81 319 641 740 644 388 546 890 786 773 143 715 255 841 111 999 720 692 
+player 448 draws a 204 from deck 448
+player 448 discards a 775 to deck 449

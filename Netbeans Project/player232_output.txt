@@ -1,0 +1,306 @@
+player 232 initial hand 838 717 449 160 168 15 646 359 40 66 818 699 758 52 60 521 170 582 657 209 
+player 232 draws a 412 from deck 232
+player 232 discards a 838 to deck 233
+player 232 current hand : 717 449 160 168 15 646 359 40 66 818 699 758 52 60 521 170 582 657 209 412 
+player 232 draws a 268 from deck 232
+player 232 discards a 717 to deck 233
+player 232 current hand : 449 160 168 15 646 359 40 66 818 699 758 52 60 521 170 582 657 209 412 268 
+player 232 draws a 429 from deck 232
+player 232 discards a 449 to deck 233
+player 232 current hand : 160 168 15 646 359 40 66 818 699 758 52 60 521 170 582 657 209 412 268 429 
+player 232 draws a 608 from deck 232
+player 232 discards a 160 to deck 233
+player 232 current hand : 168 15 646 359 40 66 818 699 758 52 60 521 170 582 657 209 412 268 429 608 
+player 232 draws a 12 from deck 232
+player 232 discards a 168 to deck 233
+player 232 current hand : 15 646 359 40 66 818 699 758 52 60 521 170 582 657 209 412 268 429 608 12 
+player 232 draws a 975 from deck 232
+player 232 discards a 15 to deck 233
+player 232 current hand : 646 359 40 66 818 699 758 52 60 521 170 582 657 209 412 268 429 608 12 975 
+player 232 draws a 839 from deck 232
+player 232 discards a 646 to deck 233
+player 232 current hand : 359 40 66 818 699 758 52 60 521 170 582 657 209 412 268 429 608 12 975 839 
+player 232 draws a 222 from deck 232
+player 232 discards a 359 to deck 233
+player 232 current hand : 40 66 818 699 758 52 60 521 170 582 657 209 412 268 429 608 12 975 839 222 
+player 232 draws a 2 from deck 232
+player 232 discards a 40 to deck 233
+player 232 current hand : 66 818 699 758 52 60 521 170 582 657 209 412 268 429 608 12 975 839 222 2 
+player 232 draws a 691 from deck 232
+player 232 discards a 66 to deck 233
+player 232 current hand : 818 699 758 52 60 521 170 582 657 209 412 268 429 608 12 975 839 222 2 691 
+player 232 draws a 970 from deck 232
+player 232 discards a 818 to deck 233
+player 232 current hand : 699 758 52 60 521 170 582 657 209 412 268 429 608 12 975 839 222 2 691 970 
+player 232 draws a 612 from deck 232
+player 232 discards a 699 to deck 233
+player 232 current hand : 758 52 60 521 170 582 657 209 412 268 429 608 12 975 839 222 2 691 970 612 
+player 232 draws a 856 from deck 232
+player 232 discards a 758 to deck 233
+player 232 current hand : 52 60 521 170 582 657 209 412 268 429 608 12 975 839 222 2 691 970 612 856 
+player 232 draws a 879 from deck 232
+player 232 discards a 52 to deck 233
+player 232 current hand : 60 521 170 582 657 209 412 268 429 608 12 975 839 222 2 691 970 612 856 879 
+player 232 draws a 409 from deck 232
+player 232 discards a 60 to deck 233
+player 232 current hand : 521 170 582 657 209 412 268 429 608 12 975 839 222 2 691 970 612 856 879 409 
+player 232 draws a 159 from deck 232
+player 232 discards a 521 to deck 233
+player 232 current hand : 170 582 657 209 412 268 429 608 12 975 839 222 2 691 970 612 856 879 409 159 
+player 232 draws a 608 from deck 232
+player 232 discards a 170 to deck 233
+player 232 current hand : 582 657 209 412 268 429 608 12 975 839 222 2 691 970 612 856 879 409 159 608 
+player 232 draws a 673 from deck 232
+player 232 discards a 582 to deck 233
+player 232 current hand : 657 209 412 268 429 608 12 975 839 222 2 691 970 612 856 879 409 159 608 673 
+player 232 draws a 679 from deck 232
+player 232 discards a 657 to deck 233
+player 232 current hand : 209 412 268 429 608 12 975 839 222 2 691 970 612 856 879 409 159 608 673 679 
+player 232 draws a 795 from deck 232
+player 232 discards a 209 to deck 233
+player 232 current hand : 412 268 429 608 12 975 839 222 2 691 970 612 856 879 409 159 608 673 679 795 
+player 232 draws a 890 from deck 232
+player 232 discards a 412 to deck 233
+player 232 current hand : 268 429 608 12 975 839 222 2 691 970 612 856 879 409 159 608 673 679 795 890 
+player 232 draws a 611 from deck 232
+player 232 discards a 268 to deck 233
+player 232 current hand : 429 608 12 975 839 222 2 691 970 612 856 879 409 159 608 673 679 795 890 611 
+player 232 draws a 1 from deck 232
+player 232 discards a 429 to deck 233
+player 232 current hand : 608 12 975 839 222 2 691 970 612 856 879 409 159 608 673 679 795 890 611 1 
+player 232 draws a 448 from deck 232
+player 232 discards a 608 to deck 233
+player 232 current hand : 12 975 839 222 2 691 970 612 856 879 409 159 608 673 679 795 890 611 1 448 
+player 232 draws a 525 from deck 232
+player 232 discards a 12 to deck 233
+player 232 current hand : 975 839 222 2 691 970 612 856 879 409 159 608 673 679 795 890 611 1 448 525 
+player 232 draws a 736 from deck 232
+player 232 discards a 975 to deck 233
+player 232 current hand : 839 222 2 691 970 612 856 879 409 159 608 673 679 795 890 611 1 448 525 736 
+player 232 draws a 111 from deck 232
+player 232 discards a 839 to deck 233
+player 232 current hand : 222 2 691 970 612 856 879 409 159 608 673 679 795 890 611 1 448 525 736 111 
+player 232 draws a 832 from deck 232
+player 232 discards a 222 to deck 233
+player 232 current hand : 2 691 970 612 856 879 409 159 608 673 679 795 890 611 1 448 525 736 111 832 
+player 232 draws a 618 from deck 232
+player 232 discards a 2 to deck 233
+player 232 current hand : 691 970 612 856 879 409 159 608 673 679 795 890 611 1 448 525 736 111 832 618 
+player 232 draws a 833 from deck 232
+player 232 discards a 691 to deck 233
+player 232 current hand : 970 612 856 879 409 159 608 673 679 795 890 611 1 448 525 736 111 832 618 833 
+player 232 draws a 4 from deck 232
+player 232 discards a 970 to deck 233
+player 232 current hand : 612 856 879 409 159 608 673 679 795 890 611 1 448 525 736 111 832 618 833 4 
+player 232 draws a 719 from deck 232
+player 232 discards a 612 to deck 233
+player 232 current hand : 856 879 409 159 608 673 679 795 890 611 1 448 525 736 111 832 618 833 4 719 
+player 232 draws a 603 from deck 232
+player 232 discards a 856 to deck 233
+player 232 current hand : 879 409 159 608 673 679 795 890 611 1 448 525 736 111 832 618 833 4 719 603 
+player 232 draws a 619 from deck 232
+player 232 discards a 879 to deck 233
+player 232 current hand : 409 159 608 673 679 795 890 611 1 448 525 736 111 832 618 833 4 719 603 619 
+player 232 draws a 164 from deck 232
+player 232 discards a 409 to deck 233
+player 232 current hand : 159 608 673 679 795 890 611 1 448 525 736 111 832 618 833 4 719 603 619 164 
+player 232 draws a 329 from deck 232
+player 232 discards a 159 to deck 233
+player 232 current hand : 608 673 679 795 890 611 1 448 525 736 111 832 618 833 4 719 603 619 164 329 
+player 232 draws a 643 from deck 232
+player 232 discards a 608 to deck 233
+player 232 current hand : 673 679 795 890 611 1 448 525 736 111 832 618 833 4 719 603 619 164 329 643 
+player 232 draws a 307 from deck 232
+player 232 discards a 673 to deck 233
+player 232 current hand : 679 795 890 611 1 448 525 736 111 832 618 833 4 719 603 619 164 329 643 307 
+player 232 draws a 794 from deck 232
+player 232 discards a 679 to deck 233
+player 232 current hand : 795 890 611 1 448 525 736 111 832 618 833 4 719 603 619 164 329 643 307 794 
+player 232 draws a 96 from deck 232
+player 232 discards a 795 to deck 233
+player 232 current hand : 890 611 1 448 525 736 111 832 618 833 4 719 603 619 164 329 643 307 794 96 
+player 232 draws a 518 from deck 232
+player 232 discards a 890 to deck 233
+player 232 current hand : 611 1 448 525 736 111 832 618 833 4 719 603 619 164 329 643 307 794 96 518 
+player 232 draws a 238 from deck 232
+player 232 discards a 611 to deck 233
+player 232 current hand : 1 448 525 736 111 832 618 833 4 719 603 619 164 329 643 307 794 96 518 238 
+player 232 draws a 897 from deck 232
+player 232 discards a 1 to deck 233
+player 232 current hand : 448 525 736 111 832 618 833 4 719 603 619 164 329 643 307 794 96 518 238 897 
+player 232 draws a 77 from deck 232
+player 232 discards a 448 to deck 233
+player 232 current hand : 525 736 111 832 618 833 4 719 603 619 164 329 643 307 794 96 518 238 897 77 
+player 232 draws a 93 from deck 232
+player 232 discards a 525 to deck 233
+player 232 current hand : 736 111 832 618 833 4 719 603 619 164 329 643 307 794 96 518 238 897 77 93 
+player 232 draws a 996 from deck 232
+player 232 discards a 736 to deck 233
+player 232 current hand : 111 832 618 833 4 719 603 619 164 329 643 307 794 96 518 238 897 77 93 996 
+player 232 draws a 24 from deck 232
+player 232 discards a 111 to deck 233
+player 232 current hand : 832 618 833 4 719 603 619 164 329 643 307 794 96 518 238 897 77 93 996 24 
+player 232 draws a 753 from deck 232
+player 232 discards a 832 to deck 233
+player 232 current hand : 618 833 4 719 603 619 164 329 643 307 794 96 518 238 897 77 93 996 24 753 
+player 232 draws a 508 from deck 232
+player 232 discards a 618 to deck 233
+player 232 current hand : 833 4 719 603 619 164 329 643 307 794 96 518 238 897 77 93 996 24 753 508 
+player 232 draws a 932 from deck 232
+player 232 discards a 833 to deck 233
+player 232 current hand : 4 719 603 619 164 329 643 307 794 96 518 238 897 77 93 996 24 753 508 932 
+player 232 draws a 918 from deck 232
+player 232 discards a 4 to deck 233
+player 232 current hand : 719 603 619 164 329 643 307 794 96 518 238 897 77 93 996 24 753 508 932 918 
+player 232 draws a 239 from deck 232
+player 232 discards a 719 to deck 233
+player 232 current hand : 603 619 164 329 643 307 794 96 518 238 897 77 93 996 24 753 508 932 918 239 
+player 232 draws a 636 from deck 232
+player 232 discards a 603 to deck 233
+player 232 current hand : 619 164 329 643 307 794 96 518 238 897 77 93 996 24 753 508 932 918 239 636 
+player 232 draws a 341 from deck 232
+player 232 discards a 619 to deck 233
+player 232 current hand : 164 329 643 307 794 96 518 238 897 77 93 996 24 753 508 932 918 239 636 341 
+player 232 draws a 440 from deck 232
+player 232 discards a 164 to deck 233
+player 232 current hand : 329 643 307 794 96 518 238 897 77 93 996 24 753 508 932 918 239 636 341 440 
+player 232 draws a 699 from deck 232
+player 232 discards a 329 to deck 233
+player 232 current hand : 643 307 794 96 518 238 897 77 93 996 24 753 508 932 918 239 636 341 440 699 
+player 232 draws a 158 from deck 232
+player 232 discards a 643 to deck 233
+player 232 current hand : 307 794 96 518 238 897 77 93 996 24 753 508 932 918 239 636 341 440 699 158 
+player 232 draws a 449 from deck 232
+player 232 discards a 307 to deck 233
+player 232 current hand : 794 96 518 238 897 77 93 996 24 753 508 932 918 239 636 341 440 699 158 449 
+player 232 draws a 96 from deck 232
+player 232 discards a 794 to deck 233
+player 232 current hand : 96 518 238 897 77 93 996 24 753 508 932 918 239 636 341 440 699 158 449 96 
+player 232 draws a 84 from deck 232
+player 232 discards a 96 to deck 233
+player 232 current hand : 518 238 897 77 93 996 24 753 508 932 918 239 636 341 440 699 158 449 96 84 
+player 232 draws a 9 from deck 232
+player 232 discards a 518 to deck 233
+player 232 current hand : 238 897 77 93 996 24 753 508 932 918 239 636 341 440 699 158 449 96 84 9 
+player 232 draws a 856 from deck 232
+player 232 discards a 238 to deck 233
+player 232 current hand : 897 77 93 996 24 753 508 932 918 239 636 341 440 699 158 449 96 84 9 856 
+player 232 draws a 307 from deck 232
+player 232 discards a 897 to deck 233
+player 232 current hand : 77 93 996 24 753 508 932 918 239 636 341 440 699 158 449 96 84 9 856 307 
+player 232 draws a 966 from deck 232
+player 232 discards a 77 to deck 233
+player 232 current hand : 93 996 24 753 508 932 918 239 636 341 440 699 158 449 96 84 9 856 307 966 
+player 232 draws a 204 from deck 232
+player 232 discards a 93 to deck 233
+player 232 current hand : 996 24 753 508 932 918 239 636 341 440 699 158 449 96 84 9 856 307 966 204 
+player 232 draws a 14 from deck 232
+player 232 discards a 996 to deck 233
+player 232 current hand : 24 753 508 932 918 239 636 341 440 699 158 449 96 84 9 856 307 966 204 14 
+player 232 draws a 400 from deck 232
+player 232 discards a 24 to deck 233
+player 232 current hand : 753 508 932 918 239 636 341 440 699 158 449 96 84 9 856 307 966 204 14 400 
+player 232 draws a 719 from deck 232
+player 232 discards a 753 to deck 233
+player 232 current hand : 508 932 918 239 636 341 440 699 158 449 96 84 9 856 307 966 204 14 400 719 
+player 232 draws a 768 from deck 232
+player 232 discards a 508 to deck 233
+player 232 current hand : 932 918 239 636 341 440 699 158 449 96 84 9 856 307 966 204 14 400 719 768 
+player 232 draws a 117 from deck 232
+player 232 discards a 932 to deck 233
+player 232 current hand : 918 239 636 341 440 699 158 449 96 84 9 856 307 966 204 14 400 719 768 117 
+player 232 draws a 657 from deck 232
+player 232 discards a 918 to deck 233
+player 232 current hand : 239 636 341 440 699 158 449 96 84 9 856 307 966 204 14 400 719 768 117 657 
+player 232 draws a 537 from deck 232
+player 232 discards a 239 to deck 233
+player 232 current hand : 636 341 440 699 158 449 96 84 9 856 307 966 204 14 400 719 768 117 657 537 
+player 232 draws a 571 from deck 232
+player 232 discards a 636 to deck 233
+player 232 current hand : 341 440 699 158 449 96 84 9 856 307 966 204 14 400 719 768 117 657 537 571 
+player 232 draws a 580 from deck 232
+player 232 discards a 341 to deck 233
+player 232 current hand : 440 699 158 449 96 84 9 856 307 966 204 14 400 719 768 117 657 537 571 580 
+player 232 draws a 765 from deck 232
+player 232 discards a 440 to deck 233
+player 232 current hand : 699 158 449 96 84 9 856 307 966 204 14 400 719 768 117 657 537 571 580 765 
+player 232 draws a 401 from deck 232
+player 232 discards a 699 to deck 233
+player 232 current hand : 158 449 96 84 9 856 307 966 204 14 400 719 768 117 657 537 571 580 765 401 
+player 232 draws a 341 from deck 232
+player 232 discards a 158 to deck 233
+player 232 current hand : 449 96 84 9 856 307 966 204 14 400 719 768 117 657 537 571 580 765 401 341 
+player 232 draws a 594 from deck 232
+player 232 discards a 449 to deck 233
+player 232 current hand : 96 84 9 856 307 966 204 14 400 719 768 117 657 537 571 580 765 401 341 594 
+player 232 draws a 979 from deck 232
+player 232 discards a 96 to deck 233
+player 232 current hand : 84 9 856 307 966 204 14 400 719 768 117 657 537 571 580 765 401 341 594 979 
+player 232 draws a 875 from deck 232
+player 232 discards a 84 to deck 233
+player 232 current hand : 9 856 307 966 204 14 400 719 768 117 657 537 571 580 765 401 341 594 979 875 
+player 232 draws a 272 from deck 232
+player 232 discards a 9 to deck 233
+player 232 current hand : 856 307 966 204 14 400 719 768 117 657 537 571 580 765 401 341 594 979 875 272 
+player 232 draws a 996 from deck 232
+player 232 discards a 856 to deck 233
+player 232 current hand : 307 966 204 14 400 719 768 117 657 537 571 580 765 401 341 594 979 875 272 996 
+player 232 draws a 393 from deck 232
+player 232 discards a 307 to deck 233
+player 232 current hand : 966 204 14 400 719 768 117 657 537 571 580 765 401 341 594 979 875 272 996 393 
+player 232 draws a 580 from deck 232
+player 232 discards a 966 to deck 233
+player 232 current hand : 204 14 400 719 768 117 657 537 571 580 765 401 341 594 979 875 272 996 393 580 
+player 232 draws a 999 from deck 232
+player 232 discards a 204 to deck 233
+player 232 current hand : 14 400 719 768 117 657 537 571 580 765 401 341 594 979 875 272 996 393 580 999 
+player 232 draws a 824 from deck 232
+player 232 discards a 14 to deck 233
+player 232 current hand : 400 719 768 117 657 537 571 580 765 401 341 594 979 875 272 996 393 580 999 824 
+player 232 draws a 71 from deck 232
+player 232 discards a 400 to deck 233
+player 232 current hand : 719 768 117 657 537 571 580 765 401 341 594 979 875 272 996 393 580 999 824 71 
+player 232 draws a 227 from deck 232
+player 232 discards a 719 to deck 233
+player 232 current hand : 768 117 657 537 571 580 765 401 341 594 979 875 272 996 393 580 999 824 71 227 
+player 232 draws a 109 from deck 232
+player 232 discards a 768 to deck 233
+player 232 current hand : 117 657 537 571 580 765 401 341 594 979 875 272 996 393 580 999 824 71 227 109 
+player 232 draws a 705 from deck 232
+player 232 discards a 117 to deck 233
+player 232 current hand : 657 537 571 580 765 401 341 594 979 875 272 996 393 580 999 824 71 227 109 705 
+player 232 draws a 670 from deck 232
+player 232 discards a 657 to deck 233
+player 232 current hand : 537 571 580 765 401 341 594 979 875 272 996 393 580 999 824 71 227 109 705 670 
+player 232 draws a 60 from deck 232
+player 232 discards a 537 to deck 233
+player 232 current hand : 571 580 765 401 341 594 979 875 272 996 393 580 999 824 71 227 109 705 670 60 
+player 232 draws a 944 from deck 232
+player 232 discards a 571 to deck 233
+player 232 current hand : 580 765 401 341 594 979 875 272 996 393 580 999 824 71 227 109 705 670 60 944 
+player 232 draws a 641 from deck 232
+player 232 discards a 580 to deck 233
+player 232 current hand : 765 401 341 594 979 875 272 996 393 580 999 824 71 227 109 705 670 60 944 641 
+player 232 draws a 224 from deck 232
+player 232 discards a 765 to deck 233
+player 232 current hand : 401 341 594 979 875 272 996 393 580 999 824 71 227 109 705 670 60 944 641 224 
+player 232 draws a 751 from deck 232
+player 232 discards a 401 to deck 233
+player 232 current hand : 341 594 979 875 272 996 393 580 999 824 71 227 109 705 670 60 944 641 224 751 
+player 232 draws a 581 from deck 232
+player 232 discards a 341 to deck 233
+player 232 current hand : 594 979 875 272 996 393 580 999 824 71 227 109 705 670 60 944 641 224 751 581 
+player 232 draws a 224 from deck 232
+player 232 discards a 594 to deck 233
+player 232 current hand : 979 875 272 996 393 580 999 824 71 227 109 705 670 60 944 641 224 751 581 224 
+player 232 draws a 163 from deck 232
+player 232 discards a 979 to deck 233
+player 232 current hand : 875 272 996 393 580 999 824 71 227 109 705 670 60 944 641 224 751 581 224 163 
+player 232 draws a 350 from deck 232
+player 232 discards a 875 to deck 233
+player 232 current hand : 272 996 393 580 999 824 71 227 109 705 670 60 944 641 224 751 581 224 163 350 
+player 232 draws a 187 from deck 232
+player 232 discards a 272 to deck 233
+player 232 current hand : 996 393 580 999 824 71 227 109 705 670 60 944 641 224 751 581 224 163 350 187 
+player 232 draws a 746 from deck 232
+player 232 discards a 996 to deck 233

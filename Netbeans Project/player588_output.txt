@@ -1,0 +1,304 @@
+player 588 initial hand 435 736 740 635 351 476 45 470 796 472 451 990 833 685 556 20 775 512 415 1000 
+player 588 draws a 437 from deck 588
+player 588 discards a 435 to deck 589
+player 588 current hand : 736 740 635 351 476 45 470 796 472 451 990 833 685 556 20 775 512 415 1000 437 
+player 588 draws a 232 from deck 588
+player 588 discards a 736 to deck 589
+player 588 current hand : 740 635 351 476 45 470 796 472 451 990 833 685 556 20 775 512 415 1000 437 232 
+player 588 draws a 926 from deck 588
+player 588 discards a 740 to deck 589
+player 588 current hand : 635 351 476 45 470 796 472 451 990 833 685 556 20 775 512 415 1000 437 232 926 
+player 588 draws a 954 from deck 588
+player 588 discards a 635 to deck 589
+player 588 current hand : 351 476 45 470 796 472 451 990 833 685 556 20 775 512 415 1000 437 232 926 954 
+player 588 draws a 880 from deck 588
+player 588 discards a 351 to deck 589
+player 588 current hand : 476 45 470 796 472 451 990 833 685 556 20 775 512 415 1000 437 232 926 954 880 
+player 588 draws a 415 from deck 588
+player 588 discards a 476 to deck 589
+player 588 current hand : 45 470 796 472 451 990 833 685 556 20 775 512 415 1000 437 232 926 954 880 415 
+player 588 draws a 513 from deck 588
+player 588 discards a 45 to deck 589
+player 588 current hand : 470 796 472 451 990 833 685 556 20 775 512 415 1000 437 232 926 954 880 415 513 
+player 588 draws a 515 from deck 588
+player 588 discards a 470 to deck 589
+player 588 current hand : 796 472 451 990 833 685 556 20 775 512 415 1000 437 232 926 954 880 415 513 515 
+player 588 draws a 787 from deck 588
+player 588 discards a 796 to deck 589
+player 588 current hand : 472 451 990 833 685 556 20 775 512 415 1000 437 232 926 954 880 415 513 515 787 
+player 588 draws a 927 from deck 588
+player 588 discards a 472 to deck 589
+player 588 current hand : 451 990 833 685 556 20 775 512 415 1000 437 232 926 954 880 415 513 515 787 927 
+player 588 draws a 79 from deck 588
+player 588 discards a 451 to deck 589
+player 588 current hand : 990 833 685 556 20 775 512 415 1000 437 232 926 954 880 415 513 515 787 927 79 
+player 588 draws a 435 from deck 588
+player 588 discards a 990 to deck 589
+player 588 current hand : 833 685 556 20 775 512 415 1000 437 232 926 954 880 415 513 515 787 927 79 435 
+player 588 draws a 269 from deck 588
+player 588 discards a 833 to deck 589
+player 588 current hand : 685 556 20 775 512 415 1000 437 232 926 954 880 415 513 515 787 927 79 435 269 
+player 588 draws a 660 from deck 588
+player 588 discards a 685 to deck 589
+player 588 current hand : 556 20 775 512 415 1000 437 232 926 954 880 415 513 515 787 927 79 435 269 660 
+player 588 draws a 515 from deck 588
+player 588 discards a 556 to deck 589
+player 588 current hand : 20 775 512 415 1000 437 232 926 954 880 415 513 515 787 927 79 435 269 660 515 
+player 588 draws a 702 from deck 588
+player 588 discards a 20 to deck 589
+player 588 current hand : 775 512 415 1000 437 232 926 954 880 415 513 515 787 927 79 435 269 660 515 702 
+player 588 draws a 9 from deck 588
+player 588 discards a 775 to deck 589
+player 588 current hand : 512 415 1000 437 232 926 954 880 415 513 515 787 927 79 435 269 660 515 702 9 
+player 588 draws a 340 from deck 588
+player 588 discards a 512 to deck 589
+player 588 current hand : 415 1000 437 232 926 954 880 415 513 515 787 927 79 435 269 660 515 702 9 340 
+player 588 draws a 408 from deck 588
+player 588 discards a 415 to deck 589
+player 588 current hand : 1000 437 232 926 954 880 415 513 515 787 927 79 435 269 660 515 702 9 340 408 
+player 588 draws a 664 from deck 588
+player 588 discards a 1000 to deck 589
+player 588 current hand : 437 232 926 954 880 415 513 515 787 927 79 435 269 660 515 702 9 340 408 664 
+player 588 draws a 123 from deck 588
+player 588 discards a 437 to deck 589
+player 588 current hand : 232 926 954 880 415 513 515 787 927 79 435 269 660 515 702 9 340 408 664 123 
+player 588 draws a 874 from deck 588
+player 588 discards a 232 to deck 589
+player 588 current hand : 926 954 880 415 513 515 787 927 79 435 269 660 515 702 9 340 408 664 123 874 
+player 588 draws a 470 from deck 588
+player 588 discards a 926 to deck 589
+player 588 current hand : 954 880 415 513 515 787 927 79 435 269 660 515 702 9 340 408 664 123 874 470 
+player 588 draws a 608 from deck 588
+player 588 discards a 954 to deck 589
+player 588 current hand : 880 415 513 515 787 927 79 435 269 660 515 702 9 340 408 664 123 874 470 608 
+player 588 draws a 499 from deck 588
+player 588 discards a 880 to deck 589
+player 588 current hand : 415 513 515 787 927 79 435 269 660 515 702 9 340 408 664 123 874 470 608 499 
+player 588 draws a 525 from deck 588
+player 588 discards a 415 to deck 589
+player 588 current hand : 513 515 787 927 79 435 269 660 515 702 9 340 408 664 123 874 470 608 499 525 
+player 588 draws a 210 from deck 588
+player 588 discards a 513 to deck 589
+player 588 current hand : 515 787 927 79 435 269 660 515 702 9 340 408 664 123 874 470 608 499 525 210 
+player 588 draws a 714 from deck 588
+player 588 discards a 515 to deck 589
+player 588 current hand : 787 927 79 435 269 660 515 702 9 340 408 664 123 874 470 608 499 525 210 714 
+player 588 draws a 167 from deck 588
+player 588 discards a 787 to deck 589
+player 588 current hand : 927 79 435 269 660 515 702 9 340 408 664 123 874 470 608 499 525 210 714 167 
+player 588 draws a 415 from deck 588
+player 588 discards a 927 to deck 589
+player 588 current hand : 79 435 269 660 515 702 9 340 408 664 123 874 470 608 499 525 210 714 167 415 
+player 588 draws a 518 from deck 588
+player 588 discards a 79 to deck 589
+player 588 current hand : 435 269 660 515 702 9 340 408 664 123 874 470 608 499 525 210 714 167 415 518 
+player 588 draws a 619 from deck 588
+player 588 discards a 435 to deck 589
+player 588 current hand : 269 660 515 702 9 340 408 664 123 874 470 608 499 525 210 714 167 415 518 619 
+player 588 draws a 500 from deck 588
+player 588 discards a 269 to deck 589
+player 588 current hand : 660 515 702 9 340 408 664 123 874 470 608 499 525 210 714 167 415 518 619 500 
+player 588 draws a 297 from deck 588
+player 588 discards a 660 to deck 589
+player 588 current hand : 515 702 9 340 408 664 123 874 470 608 499 525 210 714 167 415 518 619 500 297 
+player 588 draws a 219 from deck 588
+player 588 discards a 515 to deck 589
+player 588 current hand : 702 9 340 408 664 123 874 470 608 499 525 210 714 167 415 518 619 500 297 219 
+player 588 draws a 339 from deck 588
+player 588 discards a 702 to deck 589
+player 588 current hand : 9 340 408 664 123 874 470 608 499 525 210 714 167 415 518 619 500 297 219 339 
+player 588 draws a 348 from deck 588
+player 588 discards a 9 to deck 589
+player 588 current hand : 340 408 664 123 874 470 608 499 525 210 714 167 415 518 619 500 297 219 339 348 
+player 588 draws a 287 from deck 588
+player 588 discards a 340 to deck 589
+player 588 current hand : 408 664 123 874 470 608 499 525 210 714 167 415 518 619 500 297 219 339 348 287 
+player 588 draws a 947 from deck 588
+player 588 discards a 408 to deck 589
+player 588 current hand : 664 123 874 470 608 499 525 210 714 167 415 518 619 500 297 219 339 348 287 947 
+player 588 draws a 728 from deck 588
+player 588 discards a 664 to deck 589
+player 588 current hand : 123 874 470 608 499 525 210 714 167 415 518 619 500 297 219 339 348 287 947 728 
+player 588 draws a 309 from deck 588
+player 588 discards a 123 to deck 589
+player 588 current hand : 874 470 608 499 525 210 714 167 415 518 619 500 297 219 339 348 287 947 728 309 
+player 588 draws a 992 from deck 588
+player 588 discards a 874 to deck 589
+player 588 current hand : 470 608 499 525 210 714 167 415 518 619 500 297 219 339 348 287 947 728 309 992 
+player 588 draws a 691 from deck 588
+player 588 discards a 470 to deck 589
+player 588 current hand : 608 499 525 210 714 167 415 518 619 500 297 219 339 348 287 947 728 309 992 691 
+player 588 draws a 126 from deck 588
+player 588 discards a 608 to deck 589
+player 588 current hand : 499 525 210 714 167 415 518 619 500 297 219 339 348 287 947 728 309 992 691 126 
+player 588 draws a 106 from deck 588
+player 588 discards a 499 to deck 589
+player 588 current hand : 525 210 714 167 415 518 619 500 297 219 339 348 287 947 728 309 992 691 126 106 
+player 588 draws a 466 from deck 588
+player 588 discards a 525 to deck 589
+player 588 current hand : 210 714 167 415 518 619 500 297 219 339 348 287 947 728 309 992 691 126 106 466 
+player 588 draws a 570 from deck 588
+player 588 discards a 210 to deck 589
+player 588 current hand : 714 167 415 518 619 500 297 219 339 348 287 947 728 309 992 691 126 106 466 570 
+player 588 draws a 222 from deck 588
+player 588 discards a 714 to deck 589
+player 588 current hand : 167 415 518 619 500 297 219 339 348 287 947 728 309 992 691 126 106 466 570 222 
+player 588 draws a 926 from deck 588
+player 588 discards a 167 to deck 589
+player 588 current hand : 415 518 619 500 297 219 339 348 287 947 728 309 992 691 126 106 466 570 222 926 
+player 588 draws a 285 from deck 588
+player 588 discards a 415 to deck 589
+player 588 current hand : 518 619 500 297 219 339 348 287 947 728 309 992 691 126 106 466 570 222 926 285 
+player 588 draws a 975 from deck 588
+player 588 discards a 518 to deck 589
+player 588 current hand : 619 500 297 219 339 348 287 947 728 309 992 691 126 106 466 570 222 926 285 975 
+player 588 draws a 91 from deck 588
+player 588 discards a 619 to deck 589
+player 588 current hand : 500 297 219 339 348 287 947 728 309 992 691 126 106 466 570 222 926 285 975 91 
+player 588 draws a 429 from deck 588
+player 588 discards a 500 to deck 589
+player 588 current hand : 297 219 339 348 287 947 728 309 992 691 126 106 466 570 222 926 285 975 91 429 
+player 588 draws a 1000 from deck 588
+player 588 discards a 297 to deck 589
+player 588 current hand : 219 339 348 287 947 728 309 992 691 126 106 466 570 222 926 285 975 91 429 1000 
+player 588 draws a 893 from deck 588
+player 588 discards a 219 to deck 589
+player 588 current hand : 339 348 287 947 728 309 992 691 126 106 466 570 222 926 285 975 91 429 1000 893 
+player 588 draws a 802 from deck 588
+player 588 discards a 339 to deck 589
+player 588 current hand : 348 287 947 728 309 992 691 126 106 466 570 222 926 285 975 91 429 1000 893 802 
+player 588 draws a 103 from deck 588
+player 588 discards a 348 to deck 589
+player 588 current hand : 287 947 728 309 992 691 126 106 466 570 222 926 285 975 91 429 1000 893 802 103 
+player 588 draws a 163 from deck 588
+player 588 discards a 287 to deck 589
+player 588 current hand : 947 728 309 992 691 126 106 466 570 222 926 285 975 91 429 1000 893 802 103 163 
+player 588 draws a 586 from deck 588
+player 588 discards a 947 to deck 589
+player 588 current hand : 728 309 992 691 126 106 466 570 222 926 285 975 91 429 1000 893 802 103 163 586 
+player 588 draws a 367 from deck 588
+player 588 discards a 728 to deck 589
+player 588 current hand : 309 992 691 126 106 466 570 222 926 285 975 91 429 1000 893 802 103 163 586 367 
+player 588 draws a 912 from deck 588
+player 588 discards a 309 to deck 589
+player 588 current hand : 992 691 126 106 466 570 222 926 285 975 91 429 1000 893 802 103 163 586 367 912 
+player 588 draws a 233 from deck 588
+player 588 discards a 992 to deck 589
+player 588 current hand : 691 126 106 466 570 222 926 285 975 91 429 1000 893 802 103 163 586 367 912 233 
+player 588 draws a 901 from deck 588
+player 588 discards a 691 to deck 589
+player 588 current hand : 126 106 466 570 222 926 285 975 91 429 1000 893 802 103 163 586 367 912 233 901 
+player 588 draws a 151 from deck 588
+player 588 discards a 126 to deck 589
+player 588 current hand : 106 466 570 222 926 285 975 91 429 1000 893 802 103 163 586 367 912 233 901 151 
+player 588 draws a 918 from deck 588
+player 588 discards a 106 to deck 589
+player 588 current hand : 466 570 222 926 285 975 91 429 1000 893 802 103 163 586 367 912 233 901 151 918 
+player 588 draws a 915 from deck 588
+player 588 discards a 466 to deck 589
+player 588 current hand : 570 222 926 285 975 91 429 1000 893 802 103 163 586 367 912 233 901 151 918 915 
+player 588 draws a 507 from deck 588
+player 588 discards a 570 to deck 589
+player 588 current hand : 222 926 285 975 91 429 1000 893 802 103 163 586 367 912 233 901 151 918 915 507 
+player 588 draws a 712 from deck 588
+player 588 discards a 222 to deck 589
+player 588 current hand : 926 285 975 91 429 1000 893 802 103 163 586 367 912 233 901 151 918 915 507 712 
+player 588 draws a 269 from deck 588
+player 588 discards a 926 to deck 589
+player 588 current hand : 285 975 91 429 1000 893 802 103 163 586 367 912 233 901 151 918 915 507 712 269 
+player 588 draws a 157 from deck 588
+player 588 discards a 285 to deck 589
+player 588 current hand : 975 91 429 1000 893 802 103 163 586 367 912 233 901 151 918 915 507 712 269 157 
+player 588 draws a 72 from deck 588
+player 588 discards a 975 to deck 589
+player 588 current hand : 91 429 1000 893 802 103 163 586 367 912 233 901 151 918 915 507 712 269 157 72 
+player 588 draws a 875 from deck 588
+player 588 discards a 91 to deck 589
+player 588 current hand : 429 1000 893 802 103 163 586 367 912 233 901 151 918 915 507 712 269 157 72 875 
+player 588 draws a 383 from deck 588
+player 588 discards a 429 to deck 589
+player 588 current hand : 1000 893 802 103 163 586 367 912 233 901 151 918 915 507 712 269 157 72 875 383 
+player 588 draws a 431 from deck 588
+player 588 discards a 1000 to deck 589
+player 588 current hand : 893 802 103 163 586 367 912 233 901 151 918 915 507 712 269 157 72 875 383 431 
+player 588 draws a 671 from deck 588
+player 588 discards a 893 to deck 589
+player 588 current hand : 802 103 163 586 367 912 233 901 151 918 915 507 712 269 157 72 875 383 431 671 
+player 588 draws a 219 from deck 588
+player 588 discards a 802 to deck 589
+player 588 current hand : 103 163 586 367 912 233 901 151 918 915 507 712 269 157 72 875 383 431 671 219 
+player 588 draws a 509 from deck 588
+player 588 discards a 103 to deck 589
+player 588 current hand : 163 586 367 912 233 901 151 918 915 507 712 269 157 72 875 383 431 671 219 509 
+player 588 draws a 852 from deck 588
+player 588 discards a 163 to deck 589
+player 588 current hand : 586 367 912 233 901 151 918 915 507 712 269 157 72 875 383 431 671 219 509 852 
+player 588 draws a 860 from deck 588
+player 588 discards a 586 to deck 589
+player 588 current hand : 367 912 233 901 151 918 915 507 712 269 157 72 875 383 431 671 219 509 852 860 
+player 588 draws a 644 from deck 588
+player 588 discards a 367 to deck 589
+player 588 current hand : 912 233 901 151 918 915 507 712 269 157 72 875 383 431 671 219 509 852 860 644 
+player 588 draws a 488 from deck 588
+player 588 discards a 912 to deck 589
+player 588 current hand : 233 901 151 918 915 507 712 269 157 72 875 383 431 671 219 509 852 860 644 488 
+player 588 draws a 308 from deck 588
+player 588 discards a 233 to deck 589
+player 588 current hand : 901 151 918 915 507 712 269 157 72 875 383 431 671 219 509 852 860 644 488 308 
+player 588 draws a 205 from deck 588
+player 588 discards a 901 to deck 589
+player 588 current hand : 151 918 915 507 712 269 157 72 875 383 431 671 219 509 852 860 644 488 308 205 
+player 588 draws a 719 from deck 588
+player 588 discards a 151 to deck 589
+player 588 current hand : 918 915 507 712 269 157 72 875 383 431 671 219 509 852 860 644 488 308 205 719 
+player 588 draws a 739 from deck 588
+player 588 discards a 918 to deck 589
+player 588 current hand : 915 507 712 269 157 72 875 383 431 671 219 509 852 860 644 488 308 205 719 739 
+player 588 draws a 492 from deck 588
+player 588 discards a 915 to deck 589
+player 588 current hand : 507 712 269 157 72 875 383 431 671 219 509 852 860 644 488 308 205 719 739 492 
+player 588 draws a 242 from deck 588
+player 588 discards a 507 to deck 589
+player 588 current hand : 712 269 157 72 875 383 431 671 219 509 852 860 644 488 308 205 719 739 492 242 
+player 588 draws a 457 from deck 588
+player 588 discards a 712 to deck 589
+player 588 current hand : 269 157 72 875 383 431 671 219 509 852 860 644 488 308 205 719 739 492 242 457 
+player 588 draws a 924 from deck 588
+player 588 discards a 269 to deck 589
+player 588 current hand : 157 72 875 383 431 671 219 509 852 860 644 488 308 205 719 739 492 242 457 924 
+player 588 draws a 540 from deck 588
+player 588 discards a 157 to deck 589
+player 588 current hand : 72 875 383 431 671 219 509 852 860 644 488 308 205 719 739 492 242 457 924 540 
+player 588 draws a 791 from deck 588
+player 588 discards a 72 to deck 589
+player 588 current hand : 875 383 431 671 219 509 852 860 644 488 308 205 719 739 492 242 457 924 540 791 
+player 588 draws a 510 from deck 588
+player 588 discards a 875 to deck 589
+player 588 current hand : 383 431 671 219 509 852 860 644 488 308 205 719 739 492 242 457 924 540 791 510 
+player 588 draws a 707 from deck 588
+player 588 discards a 383 to deck 589
+player 588 current hand : 431 671 219 509 852 860 644 488 308 205 719 739 492 242 457 924 540 791 510 707 
+player 588 draws a 714 from deck 588
+player 588 discards a 431 to deck 589
+player 588 current hand : 671 219 509 852 860 644 488 308 205 719 739 492 242 457 924 540 791 510 707 714 
+player 588 draws a 410 from deck 588
+player 588 discards a 671 to deck 589
+player 588 current hand : 219 509 852 860 644 488 308 205 719 739 492 242 457 924 540 791 510 707 714 410 
+player 588 draws a 386 from deck 588
+player 588 discards a 219 to deck 589
+player 588 current hand : 509 852 860 644 488 308 205 719 739 492 242 457 924 540 791 510 707 714 410 386 
+player 588 draws a 620 from deck 588
+player 588 discards a 509 to deck 589
+player 588 current hand : 852 860 644 488 308 205 719 739 492 242 457 924 540 791 510 707 714 410 386 620 
+player 588 draws a 922 from deck 588
+player 588 discards a 852 to deck 589
+player 588 current hand : 860 644 488 308 205 719 739 492 242 457 924 540 791 510 707 714 410 386 620 922 
+player 588 draws a 351 from deck 588
+player 588 discards a 860 to deck 589
+player 588 current hand : 644 488 308 205 719 739 492 242 457 924 540 791 510 707 714 410 386 620 922 351 
+player 588 draws a 485 from deck 588
+player 588 discards a 644 to deck 589
+player 588 current hand : 488 308 205 719 739 492 242 457 924 540 791 510 707 714 410 386 620 922 351 485 
+player 588 draws a 443 from deck 588
+player 588 discards a 488 to deck 589
+player 588 current hand : 308 205 719 739 492 242 457 924 540 791 510 707 714 410 386 620 922 351 485 443 

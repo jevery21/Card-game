@@ -1,0 +1,308 @@
+player 397 initial hand 847 648 452 29 669 867 29 78 926 462 316 865 808 3 136 490 282 847 579 854 
+player 397 draws a 330 from deck 397
+player 397 discards a 847 to deck 398
+player 397 current hand : 648 452 29 669 867 29 78 926 462 316 865 808 3 136 490 282 847 579 854 330 
+player 397 draws a 504 from deck 397
+player 397 discards a 648 to deck 398
+player 397 current hand : 452 29 669 867 29 78 926 462 316 865 808 3 136 490 282 847 579 854 330 504 
+player 397 draws a 618 from deck 397
+player 397 discards a 452 to deck 398
+player 397 current hand : 29 669 867 29 78 926 462 316 865 808 3 136 490 282 847 579 854 330 504 618 
+player 397 draws a 691 from deck 397
+player 397 discards a 29 to deck 398
+player 397 current hand : 669 867 29 78 926 462 316 865 808 3 136 490 282 847 579 854 330 504 618 691 
+player 397 draws a 205 from deck 397
+player 397 discards a 669 to deck 398
+player 397 current hand : 867 29 78 926 462 316 865 808 3 136 490 282 847 579 854 330 504 618 691 205 
+player 397 draws a 564 from deck 397
+player 397 discards a 867 to deck 398
+player 397 current hand : 29 78 926 462 316 865 808 3 136 490 282 847 579 854 330 504 618 691 205 564 
+player 397 draws a 661 from deck 397
+player 397 discards a 29 to deck 398
+player 397 current hand : 78 926 462 316 865 808 3 136 490 282 847 579 854 330 504 618 691 205 564 661 
+player 397 draws a 797 from deck 397
+player 397 discards a 78 to deck 398
+player 397 current hand : 926 462 316 865 808 3 136 490 282 847 579 854 330 504 618 691 205 564 661 797 
+player 397 draws a 516 from deck 397
+player 397 discards a 926 to deck 398
+player 397 current hand : 462 316 865 808 3 136 490 282 847 579 854 330 504 618 691 205 564 661 797 516 
+player 397 draws a 583 from deck 397
+player 397 discards a 462 to deck 398
+player 397 current hand : 316 865 808 3 136 490 282 847 579 854 330 504 618 691 205 564 661 797 516 583 
+player 397 draws a 560 from deck 397
+player 397 discards a 316 to deck 398
+player 397 current hand : 865 808 3 136 490 282 847 579 854 330 504 618 691 205 564 661 797 516 583 560 
+player 397 draws a 836 from deck 397
+player 397 discards a 865 to deck 398
+player 397 current hand : 808 3 136 490 282 847 579 854 330 504 618 691 205 564 661 797 516 583 560 836 
+player 397 draws a 45 from deck 397
+player 397 discards a 808 to deck 398
+player 397 current hand : 3 136 490 282 847 579 854 330 504 618 691 205 564 661 797 516 583 560 836 45 
+player 397 draws a 240 from deck 397
+player 397 discards a 3 to deck 398
+player 397 current hand : 136 490 282 847 579 854 330 504 618 691 205 564 661 797 516 583 560 836 45 240 
+player 397 draws a 189 from deck 397
+player 397 discards a 136 to deck 398
+player 397 current hand : 490 282 847 579 854 330 504 618 691 205 564 661 797 516 583 560 836 45 240 189 
+player 397 draws a 546 from deck 397
+player 397 discards a 490 to deck 398
+player 397 current hand : 282 847 579 854 330 504 618 691 205 564 661 797 516 583 560 836 45 240 189 546 
+player 397 draws a 408 from deck 397
+player 397 discards a 282 to deck 398
+player 397 current hand : 847 579 854 330 504 618 691 205 564 661 797 516 583 560 836 45 240 189 546 408 
+player 397 draws a 496 from deck 397
+player 397 discards a 847 to deck 398
+player 397 current hand : 579 854 330 504 618 691 205 564 661 797 516 583 560 836 45 240 189 546 408 496 
+player 397 draws a 743 from deck 397
+player 397 discards a 579 to deck 398
+player 397 current hand : 854 330 504 618 691 205 564 661 797 516 583 560 836 45 240 189 546 408 496 743 
+player 397 draws a 934 from deck 397
+player 397 discards a 854 to deck 398
+player 397 current hand : 330 504 618 691 205 564 661 797 516 583 560 836 45 240 189 546 408 496 743 934 
+player 397 draws a 907 from deck 397
+player 397 discards a 330 to deck 398
+player 397 current hand : 504 618 691 205 564 661 797 516 583 560 836 45 240 189 546 408 496 743 934 907 
+player 397 draws a 387 from deck 397
+player 397 discards a 504 to deck 398
+player 397 current hand : 618 691 205 564 661 797 516 583 560 836 45 240 189 546 408 496 743 934 907 387 
+player 397 draws a 634 from deck 397
+player 397 discards a 618 to deck 398
+player 397 current hand : 691 205 564 661 797 516 583 560 836 45 240 189 546 408 496 743 934 907 387 634 
+player 397 draws a 295 from deck 397
+player 397 discards a 691 to deck 398
+player 397 current hand : 205 564 661 797 516 583 560 836 45 240 189 546 408 496 743 934 907 387 634 295 
+player 397 draws a 126 from deck 397
+player 397 discards a 205 to deck 398
+player 397 current hand : 564 661 797 516 583 560 836 45 240 189 546 408 496 743 934 907 387 634 295 126 
+player 397 draws a 514 from deck 397
+player 397 discards a 564 to deck 398
+player 397 current hand : 661 797 516 583 560 836 45 240 189 546 408 496 743 934 907 387 634 295 126 514 
+player 397 draws a 40 from deck 397
+player 397 discards a 661 to deck 398
+player 397 current hand : 797 516 583 560 836 45 240 189 546 408 496 743 934 907 387 634 295 126 514 40 
+player 397 draws a 944 from deck 397
+player 397 discards a 797 to deck 398
+player 397 current hand : 516 583 560 836 45 240 189 546 408 496 743 934 907 387 634 295 126 514 40 944 
+player 397 draws a 32 from deck 397
+player 397 discards a 516 to deck 398
+player 397 current hand : 583 560 836 45 240 189 546 408 496 743 934 907 387 634 295 126 514 40 944 32 
+player 397 draws a 450 from deck 397
+player 397 discards a 583 to deck 398
+player 397 current hand : 560 836 45 240 189 546 408 496 743 934 907 387 634 295 126 514 40 944 32 450 
+player 397 draws a 635 from deck 397
+player 397 discards a 560 to deck 398
+player 397 current hand : 836 45 240 189 546 408 496 743 934 907 387 634 295 126 514 40 944 32 450 635 
+player 397 draws a 111 from deck 397
+player 397 discards a 836 to deck 398
+player 397 current hand : 45 240 189 546 408 496 743 934 907 387 634 295 126 514 40 944 32 450 635 111 
+player 397 draws a 177 from deck 397
+player 397 discards a 45 to deck 398
+player 397 current hand : 240 189 546 408 496 743 934 907 387 634 295 126 514 40 944 32 450 635 111 177 
+player 397 draws a 849 from deck 397
+player 397 discards a 240 to deck 398
+player 397 current hand : 189 546 408 496 743 934 907 387 634 295 126 514 40 944 32 450 635 111 177 849 
+player 397 draws a 443 from deck 397
+player 397 discards a 189 to deck 398
+player 397 current hand : 546 408 496 743 934 907 387 634 295 126 514 40 944 32 450 635 111 177 849 443 
+player 397 draws a 341 from deck 397
+player 397 discards a 546 to deck 398
+player 397 current hand : 408 496 743 934 907 387 634 295 126 514 40 944 32 450 635 111 177 849 443 341 
+player 397 draws a 118 from deck 397
+player 397 discards a 408 to deck 398
+player 397 current hand : 496 743 934 907 387 634 295 126 514 40 944 32 450 635 111 177 849 443 341 118 
+player 397 draws a 292 from deck 397
+player 397 discards a 496 to deck 398
+player 397 current hand : 743 934 907 387 634 295 126 514 40 944 32 450 635 111 177 849 443 341 118 292 
+player 397 draws a 571 from deck 397
+player 397 discards a 743 to deck 398
+player 397 current hand : 934 907 387 634 295 126 514 40 944 32 450 635 111 177 849 443 341 118 292 571 
+player 397 draws a 451 from deck 397
+player 397 discards a 934 to deck 398
+player 397 current hand : 907 387 634 295 126 514 40 944 32 450 635 111 177 849 443 341 118 292 571 451 
+player 397 draws a 738 from deck 397
+player 397 discards a 907 to deck 398
+player 397 current hand : 387 634 295 126 514 40 944 32 450 635 111 177 849 443 341 118 292 571 451 738 
+player 397 draws a 828 from deck 397
+player 397 discards a 387 to deck 398
+player 397 current hand : 634 295 126 514 40 944 32 450 635 111 177 849 443 341 118 292 571 451 738 828 
+player 397 draws a 9 from deck 397
+player 397 discards a 634 to deck 398
+player 397 current hand : 295 126 514 40 944 32 450 635 111 177 849 443 341 118 292 571 451 738 828 9 
+player 397 draws a 71 from deck 397
+player 397 discards a 295 to deck 398
+player 397 current hand : 126 514 40 944 32 450 635 111 177 849 443 341 118 292 571 451 738 828 9 71 
+player 397 draws a 537 from deck 397
+player 397 discards a 126 to deck 398
+player 397 current hand : 514 40 944 32 450 635 111 177 849 443 341 118 292 571 451 738 828 9 71 537 
+player 397 draws a 97 from deck 397
+player 397 discards a 514 to deck 398
+player 397 current hand : 40 944 32 450 635 111 177 849 443 341 118 292 571 451 738 828 9 71 537 97 
+player 397 draws a 158 from deck 397
+player 397 discards a 40 to deck 398
+player 397 current hand : 944 32 450 635 111 177 849 443 341 118 292 571 451 738 828 9 71 537 97 158 
+player 397 draws a 402 from deck 397
+player 397 discards a 944 to deck 398
+player 397 current hand : 32 450 635 111 177 849 443 341 118 292 571 451 738 828 9 71 537 97 158 402 
+player 397 draws a 413 from deck 397
+player 397 discards a 32 to deck 398
+player 397 current hand : 450 635 111 177 849 443 341 118 292 571 451 738 828 9 71 537 97 158 402 413 
+player 397 draws a 817 from deck 397
+player 397 discards a 450 to deck 398
+player 397 current hand : 635 111 177 849 443 341 118 292 571 451 738 828 9 71 537 97 158 402 413 817 
+player 397 draws a 65 from deck 397
+player 397 discards a 635 to deck 398
+player 397 current hand : 111 177 849 443 341 118 292 571 451 738 828 9 71 537 97 158 402 413 817 65 
+player 397 draws a 495 from deck 397
+player 397 discards a 111 to deck 398
+player 397 current hand : 177 849 443 341 118 292 571 451 738 828 9 71 537 97 158 402 413 817 65 495 
+player 397 draws a 852 from deck 397
+player 397 discards a 177 to deck 398
+player 397 current hand : 849 443 341 118 292 571 451 738 828 9 71 537 97 158 402 413 817 65 495 852 
+player 397 draws a 864 from deck 397
+player 397 discards a 849 to deck 398
+player 397 current hand : 443 341 118 292 571 451 738 828 9 71 537 97 158 402 413 817 65 495 852 864 
+player 397 draws a 54 from deck 397
+player 397 discards a 443 to deck 398
+player 397 current hand : 341 118 292 571 451 738 828 9 71 537 97 158 402 413 817 65 495 852 864 54 
+player 397 draws a 853 from deck 397
+player 397 discards a 341 to deck 398
+player 397 current hand : 118 292 571 451 738 828 9 71 537 97 158 402 413 817 65 495 852 864 54 853 
+player 397 draws a 713 from deck 397
+player 397 discards a 118 to deck 398
+player 397 current hand : 292 571 451 738 828 9 71 537 97 158 402 413 817 65 495 852 864 54 853 713 
+player 397 draws a 812 from deck 397
+player 397 discards a 292 to deck 398
+player 397 current hand : 571 451 738 828 9 71 537 97 158 402 413 817 65 495 852 864 54 853 713 812 
+player 397 draws a 580 from deck 397
+player 397 discards a 571 to deck 398
+player 397 current hand : 451 738 828 9 71 537 97 158 402 413 817 65 495 852 864 54 853 713 812 580 
+player 397 draws a 70 from deck 397
+player 397 discards a 451 to deck 398
+player 397 current hand : 738 828 9 71 537 97 158 402 413 817 65 495 852 864 54 853 713 812 580 70 
+player 397 draws a 813 from deck 397
+player 397 discards a 738 to deck 398
+player 397 current hand : 828 9 71 537 97 158 402 413 817 65 495 852 864 54 853 713 812 580 70 813 
+player 397 draws a 667 from deck 397
+player 397 discards a 828 to deck 398
+player 397 current hand : 9 71 537 97 158 402 413 817 65 495 852 864 54 853 713 812 580 70 813 667 
+player 397 draws a 735 from deck 397
+player 397 discards a 9 to deck 398
+player 397 current hand : 71 537 97 158 402 413 817 65 495 852 864 54 853 713 812 580 70 813 667 735 
+player 397 draws a 549 from deck 397
+player 397 discards a 71 to deck 398
+player 397 current hand : 537 97 158 402 413 817 65 495 852 864 54 853 713 812 580 70 813 667 735 549 
+player 397 draws a 291 from deck 397
+player 397 discards a 537 to deck 398
+player 397 current hand : 97 158 402 413 817 65 495 852 864 54 853 713 812 580 70 813 667 735 549 291 
+player 397 draws a 342 from deck 397
+player 397 discards a 97 to deck 398
+player 397 current hand : 158 402 413 817 65 495 852 864 54 853 713 812 580 70 813 667 735 549 291 342 
+player 397 draws a 182 from deck 397
+player 397 discards a 158 to deck 398
+player 397 current hand : 402 413 817 65 495 852 864 54 853 713 812 580 70 813 667 735 549 291 342 182 
+player 397 draws a 695 from deck 397
+player 397 discards a 402 to deck 398
+player 397 current hand : 413 817 65 495 852 864 54 853 713 812 580 70 813 667 735 549 291 342 182 695 
+player 397 draws a 163 from deck 397
+player 397 discards a 413 to deck 398
+player 397 current hand : 817 65 495 852 864 54 853 713 812 580 70 813 667 735 549 291 342 182 695 163 
+player 397 draws a 538 from deck 397
+player 397 discards a 817 to deck 398
+player 397 current hand : 65 495 852 864 54 853 713 812 580 70 813 667 735 549 291 342 182 695 163 538 
+player 397 draws a 354 from deck 397
+player 397 discards a 65 to deck 398
+player 397 current hand : 495 852 864 54 853 713 812 580 70 813 667 735 549 291 342 182 695 163 538 354 
+player 397 draws a 308 from deck 397
+player 397 discards a 495 to deck 398
+player 397 current hand : 852 864 54 853 713 812 580 70 813 667 735 549 291 342 182 695 163 538 354 308 
+player 397 draws a 425 from deck 397
+player 397 discards a 852 to deck 398
+player 397 current hand : 864 54 853 713 812 580 70 813 667 735 549 291 342 182 695 163 538 354 308 425 
+player 397 draws a 135 from deck 397
+player 397 discards a 864 to deck 398
+player 397 current hand : 54 853 713 812 580 70 813 667 735 549 291 342 182 695 163 538 354 308 425 135 
+player 397 draws a 581 from deck 397
+player 397 discards a 54 to deck 398
+player 397 current hand : 853 713 812 580 70 813 667 735 549 291 342 182 695 163 538 354 308 425 135 581 
+player 397 draws a 810 from deck 397
+player 397 discards a 853 to deck 398
+player 397 current hand : 713 812 580 70 813 667 735 549 291 342 182 695 163 538 354 308 425 135 581 810 
+player 397 draws a 239 from deck 397
+player 397 discards a 713 to deck 398
+player 397 current hand : 812 580 70 813 667 735 549 291 342 182 695 163 538 354 308 425 135 581 810 239 
+player 397 draws a 413 from deck 397
+player 397 discards a 812 to deck 398
+player 397 current hand : 580 70 813 667 735 549 291 342 182 695 163 538 354 308 425 135 581 810 239 413 
+player 397 draws a 734 from deck 397
+player 397 discards a 580 to deck 398
+player 397 current hand : 70 813 667 735 549 291 342 182 695 163 538 354 308 425 135 581 810 239 413 734 
+player 397 draws a 253 from deck 397
+player 397 discards a 70 to deck 398
+player 397 current hand : 813 667 735 549 291 342 182 695 163 538 354 308 425 135 581 810 239 413 734 253 
+player 397 draws a 515 from deck 397
+player 397 discards a 813 to deck 398
+player 397 current hand : 667 735 549 291 342 182 695 163 538 354 308 425 135 581 810 239 413 734 253 515 
+player 397 draws a 391 from deck 397
+player 397 discards a 667 to deck 398
+player 397 current hand : 735 549 291 342 182 695 163 538 354 308 425 135 581 810 239 413 734 253 515 391 
+player 397 draws a 291 from deck 397
+player 397 discards a 735 to deck 398
+player 397 current hand : 549 291 342 182 695 163 538 354 308 425 135 581 810 239 413 734 253 515 391 291 
+player 397 draws a 808 from deck 397
+player 397 discards a 549 to deck 398
+player 397 current hand : 291 342 182 695 163 538 354 308 425 135 581 810 239 413 734 253 515 391 291 808 
+player 397 draws a 527 from deck 397
+player 397 discards a 291 to deck 398
+player 397 current hand : 342 182 695 163 538 354 308 425 135 581 810 239 413 734 253 515 391 291 808 527 
+player 397 draws a 98 from deck 397
+player 397 discards a 342 to deck 398
+player 397 current hand : 182 695 163 538 354 308 425 135 581 810 239 413 734 253 515 391 291 808 527 98 
+player 397 draws a 38 from deck 397
+player 397 discards a 182 to deck 398
+player 397 current hand : 695 163 538 354 308 425 135 581 810 239 413 734 253 515 391 291 808 527 98 38 
+player 397 draws a 170 from deck 397
+player 397 discards a 695 to deck 398
+player 397 current hand : 163 538 354 308 425 135 581 810 239 413 734 253 515 391 291 808 527 98 38 170 
+player 397 draws a 515 from deck 397
+player 397 discards a 163 to deck 398
+player 397 current hand : 538 354 308 425 135 581 810 239 413 734 253 515 391 291 808 527 98 38 170 515 
+player 397 draws a 361 from deck 397
+player 397 discards a 538 to deck 398
+player 397 current hand : 354 308 425 135 581 810 239 413 734 253 515 391 291 808 527 98 38 170 515 361 
+player 397 draws a 684 from deck 397
+player 397 discards a 354 to deck 398
+player 397 current hand : 308 425 135 581 810 239 413 734 253 515 391 291 808 527 98 38 170 515 361 684 
+player 397 draws a 913 from deck 397
+player 397 discards a 308 to deck 398
+player 397 current hand : 425 135 581 810 239 413 734 253 515 391 291 808 527 98 38 170 515 361 684 913 
+player 397 draws a 416 from deck 397
+player 397 discards a 425 to deck 398
+player 397 current hand : 135 581 810 239 413 734 253 515 391 291 808 527 98 38 170 515 361 684 913 416 
+player 397 draws a 523 from deck 397
+player 397 discards a 135 to deck 398
+player 397 current hand : 581 810 239 413 734 253 515 391 291 808 527 98 38 170 515 361 684 913 416 523 
+player 397 draws a 339 from deck 397
+player 397 discards a 581 to deck 398
+player 397 current hand : 810 239 413 734 253 515 391 291 808 527 98 38 170 515 361 684 913 416 523 339 
+player 397 draws a 52 from deck 397
+player 397 discards a 810 to deck 398
+player 397 current hand : 239 413 734 253 515 391 291 808 527 98 38 170 515 361 684 913 416 523 339 52 
+player 397 draws a 751 from deck 397
+player 397 discards a 239 to deck 398
+player 397 current hand : 413 734 253 515 391 291 808 527 98 38 170 515 361 684 913 416 523 339 52 751 
+player 397 draws a 646 from deck 397
+player 397 discards a 413 to deck 398
+player 397 current hand : 734 253 515 391 291 808 527 98 38 170 515 361 684 913 416 523 339 52 751 646 
+player 397 draws a 245 from deck 397
+player 397 discards a 734 to deck 398
+player 397 current hand : 253 515 391 291 808 527 98 38 170 515 361 684 913 416 523 339 52 751 646 245 
+player 397 draws a 964 from deck 397
+player 397 discards a 253 to deck 398
+player 397 current hand : 515 391 291 808 527 98 38 170 515 361 684 913 416 523 339 52 751 646 245 964 
+player 397 draws a 31 from deck 397
+player 397 discards a 515 to deck 398
+player 397 current hand : 391 291 808 527 98 38 170 515 361 684 913 416 523 339 52 751 646 245 964 31 
+player 397 draws a 580 from deck 397
+player 397 discards a 391 to deck 398
+player 397 current hand : 291 808 527 98 38 170 515 361 684 913 416 523 339 52 751 646 245 964 31 580 
+player 397 draws a 74 from deck 397

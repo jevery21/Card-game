@@ -1,0 +1,338 @@
+player 655 initial hand 817 391 552 370 189 630 913 515 13 96 743 422 715 154 186 265 754 631 518 927 
+player 655 draws a 392 from deck 655
+player 655 discards a 817 to deck 656
+player 655 current hand : 391 552 370 189 630 913 515 13 96 743 422 715 154 186 265 754 631 518 927 392 
+player 655 draws a 777 from deck 655
+player 655 discards a 391 to deck 656
+player 655 current hand : 552 370 189 630 913 515 13 96 743 422 715 154 186 265 754 631 518 927 392 777 
+player 655 draws a 817 from deck 655
+player 655 discards a 552 to deck 656
+player 655 current hand : 370 189 630 913 515 13 96 743 422 715 154 186 265 754 631 518 927 392 777 817 
+player 655 draws a 722 from deck 655
+player 655 discards a 370 to deck 656
+player 655 current hand : 189 630 913 515 13 96 743 422 715 154 186 265 754 631 518 927 392 777 817 722 
+player 655 draws a 728 from deck 655
+player 655 discards a 189 to deck 656
+player 655 current hand : 630 913 515 13 96 743 422 715 154 186 265 754 631 518 927 392 777 817 722 728 
+player 655 draws a 1000 from deck 655
+player 655 discards a 630 to deck 656
+player 655 current hand : 913 515 13 96 743 422 715 154 186 265 754 631 518 927 392 777 817 722 728 1000 
+player 655 draws a 994 from deck 655
+player 655 discards a 913 to deck 656
+player 655 current hand : 515 13 96 743 422 715 154 186 265 754 631 518 927 392 777 817 722 728 1000 994 
+player 655 draws a 57 from deck 655
+player 655 discards a 515 to deck 656
+player 655 current hand : 13 96 743 422 715 154 186 265 754 631 518 927 392 777 817 722 728 1000 994 57 
+player 655 draws a 832 from deck 655
+player 655 discards a 13 to deck 656
+player 655 current hand : 96 743 422 715 154 186 265 754 631 518 927 392 777 817 722 728 1000 994 57 832 
+player 655 draws a 405 from deck 655
+player 655 discards a 96 to deck 656
+player 655 current hand : 743 422 715 154 186 265 754 631 518 927 392 777 817 722 728 1000 994 57 832 405 
+player 655 draws a 686 from deck 655
+player 655 discards a 743 to deck 656
+player 655 current hand : 422 715 154 186 265 754 631 518 927 392 777 817 722 728 1000 994 57 832 405 686 
+player 655 draws a 700 from deck 655
+player 655 discards a 422 to deck 656
+player 655 current hand : 715 154 186 265 754 631 518 927 392 777 817 722 728 1000 994 57 832 405 686 700 
+player 655 draws a 163 from deck 655
+player 655 discards a 715 to deck 656
+player 655 current hand : 154 186 265 754 631 518 927 392 777 817 722 728 1000 994 57 832 405 686 700 163 
+player 655 draws a 594 from deck 655
+player 655 discards a 154 to deck 656
+player 655 current hand : 186 265 754 631 518 927 392 777 817 722 728 1000 994 57 832 405 686 700 163 594 
+player 655 draws a 834 from deck 655
+player 655 discards a 186 to deck 656
+player 655 current hand : 265 754 631 518 927 392 777 817 722 728 1000 994 57 832 405 686 700 163 594 834 
+player 655 draws a 875 from deck 655
+player 655 discards a 265 to deck 656
+player 655 current hand : 754 631 518 927 392 777 817 722 728 1000 994 57 832 405 686 700 163 594 834 875 
+player 655 draws a 491 from deck 655
+player 655 discards a 754 to deck 656
+player 655 current hand : 631 518 927 392 777 817 722 728 1000 994 57 832 405 686 700 163 594 834 875 491 
+player 655 draws a 495 from deck 655
+player 655 discards a 631 to deck 656
+player 655 current hand : 518 927 392 777 817 722 728 1000 994 57 832 405 686 700 163 594 834 875 491 495 
+player 655 draws a 535 from deck 655
+player 655 discards a 518 to deck 656
+player 655 current hand : 927 392 777 817 722 728 1000 994 57 832 405 686 700 163 594 834 875 491 495 535 
+player 655 draws a 924 from deck 655
+player 655 discards a 927 to deck 656
+player 655 current hand : 392 777 817 722 728 1000 994 57 832 405 686 700 163 594 834 875 491 495 535 924 
+player 655 draws a 266 from deck 655
+player 655 discards a 392 to deck 656
+player 655 current hand : 777 817 722 728 1000 994 57 832 405 686 700 163 594 834 875 491 495 535 924 266 
+player 655 draws a 78 from deck 655
+player 655 discards a 777 to deck 656
+player 655 current hand : 817 722 728 1000 994 57 832 405 686 700 163 594 834 875 491 495 535 924 266 78 
+player 655 draws a 870 from deck 655
+player 655 discards a 817 to deck 656
+player 655 current hand : 722 728 1000 994 57 832 405 686 700 163 594 834 875 491 495 535 924 266 78 870 
+player 655 draws a 554 from deck 655
+player 655 discards a 722 to deck 656
+player 655 current hand : 728 1000 994 57 832 405 686 700 163 594 834 875 491 495 535 924 266 78 870 554 
+player 655 draws a 283 from deck 655
+player 655 discards a 728 to deck 656
+player 655 current hand : 1000 994 57 832 405 686 700 163 594 834 875 491 495 535 924 266 78 870 554 283 
+player 655 draws a 721 from deck 655
+player 655 discards a 1000 to deck 656
+player 655 current hand : 994 57 832 405 686 700 163 594 834 875 491 495 535 924 266 78 870 554 283 721 
+player 655 draws a 320 from deck 655
+player 655 discards a 994 to deck 656
+player 655 current hand : 57 832 405 686 700 163 594 834 875 491 495 535 924 266 78 870 554 283 721 320 
+player 655 draws a 36 from deck 655
+player 655 discards a 57 to deck 656
+player 655 current hand : 832 405 686 700 163 594 834 875 491 495 535 924 266 78 870 554 283 721 320 36 
+player 655 draws a 511 from deck 655
+player 655 discards a 832 to deck 656
+player 655 current hand : 405 686 700 163 594 834 875 491 495 535 924 266 78 870 554 283 721 320 36 511 
+player 655 draws a 758 from deck 655
+player 655 discards a 405 to deck 656
+player 655 current hand : 686 700 163 594 834 875 491 495 535 924 266 78 870 554 283 721 320 36 511 758 
+player 655 draws a 129 from deck 655
+player 655 discards a 686 to deck 656
+player 655 current hand : 700 163 594 834 875 491 495 535 924 266 78 870 554 283 721 320 36 511 758 129 
+player 655 draws a 558 from deck 655
+player 655 discards a 700 to deck 656
+player 655 current hand : 163 594 834 875 491 495 535 924 266 78 870 554 283 721 320 36 511 758 129 558 
+player 655 draws a 554 from deck 655
+player 655 discards a 163 to deck 656
+player 655 current hand : 594 834 875 491 495 535 924 266 78 870 554 283 721 320 36 511 758 129 558 554 
+player 655 draws a 657 from deck 655
+player 655 discards a 594 to deck 656
+player 655 current hand : 834 875 491 495 535 924 266 78 870 554 283 721 320 36 511 758 129 558 554 657 
+player 655 draws a 650 from deck 655
+player 655 discards a 834 to deck 656
+player 655 current hand : 875 491 495 535 924 266 78 870 554 283 721 320 36 511 758 129 558 554 657 650 
+player 655 draws a 84 from deck 655
+player 655 discards a 875 to deck 656
+player 655 current hand : 491 495 535 924 266 78 870 554 283 721 320 36 511 758 129 558 554 657 650 84 
+player 655 draws a 285 from deck 655
+player 655 discards a 491 to deck 656
+player 655 current hand : 495 535 924 266 78 870 554 283 721 320 36 511 758 129 558 554 657 650 84 285 
+player 655 draws a 643 from deck 655
+player 655 discards a 495 to deck 656
+player 655 current hand : 535 924 266 78 870 554 283 721 320 36 511 758 129 558 554 657 650 84 285 643 
+player 655 draws a 186 from deck 655
+player 655 discards a 535 to deck 656
+player 655 current hand : 924 266 78 870 554 283 721 320 36 511 758 129 558 554 657 650 84 285 643 186 
+player 655 draws a 272 from deck 655
+player 655 discards a 924 to deck 656
+player 655 current hand : 266 78 870 554 283 721 320 36 511 758 129 558 554 657 650 84 285 643 186 272 
+player 655 draws a 389 from deck 655
+player 655 discards a 266 to deck 656
+player 655 current hand : 78 870 554 283 721 320 36 511 758 129 558 554 657 650 84 285 643 186 272 389 
+player 655 draws a 931 from deck 655
+player 655 discards a 78 to deck 656
+player 655 current hand : 870 554 283 721 320 36 511 758 129 558 554 657 650 84 285 643 186 272 389 931 
+player 655 draws a 645 from deck 655
+player 655 discards a 870 to deck 656
+player 655 current hand : 554 283 721 320 36 511 758 129 558 554 657 650 84 285 643 186 272 389 931 645 
+player 655 draws a 862 from deck 655
+player 655 discards a 554 to deck 656
+player 655 current hand : 283 721 320 36 511 758 129 558 554 657 650 84 285 643 186 272 389 931 645 862 
+player 655 draws a 965 from deck 655
+player 655 discards a 283 to deck 656
+player 655 current hand : 721 320 36 511 758 129 558 554 657 650 84 285 643 186 272 389 931 645 862 965 
+player 655 draws a 38 from deck 655
+player 655 discards a 721 to deck 656
+player 655 current hand : 320 36 511 758 129 558 554 657 650 84 285 643 186 272 389 931 645 862 965 38 
+player 655 draws a 80 from deck 655
+player 655 discards a 320 to deck 656
+player 655 current hand : 36 511 758 129 558 554 657 650 84 285 643 186 272 389 931 645 862 965 38 80 
+player 655 draws a 586 from deck 655
+player 655 discards a 36 to deck 656
+player 655 current hand : 511 758 129 558 554 657 650 84 285 643 186 272 389 931 645 862 965 38 80 586 
+player 655 draws a 169 from deck 655
+player 655 discards a 511 to deck 656
+player 655 current hand : 758 129 558 554 657 650 84 285 643 186 272 389 931 645 862 965 38 80 586 169 
+player 655 draws a 523 from deck 655
+player 655 discards a 758 to deck 656
+player 655 current hand : 129 558 554 657 650 84 285 643 186 272 389 931 645 862 965 38 80 586 169 523 
+player 655 draws a 927 from deck 655
+player 655 discards a 129 to deck 656
+player 655 current hand : 558 554 657 650 84 285 643 186 272 389 931 645 862 965 38 80 586 169 523 927 
+player 655 draws a 610 from deck 655
+player 655 discards a 558 to deck 656
+player 655 current hand : 554 657 650 84 285 643 186 272 389 931 645 862 965 38 80 586 169 523 927 610 
+player 655 draws a 499 from deck 655
+player 655 discards a 554 to deck 656
+player 655 current hand : 657 650 84 285 643 186 272 389 931 645 862 965 38 80 586 169 523 927 610 499 
+player 655 draws a 267 from deck 655
+player 655 discards a 657 to deck 656
+player 655 current hand : 650 84 285 643 186 272 389 931 645 862 965 38 80 586 169 523 927 610 499 267 
+player 655 draws a 854 from deck 655
+player 655 discards a 650 to deck 656
+player 655 current hand : 84 285 643 186 272 389 931 645 862 965 38 80 586 169 523 927 610 499 267 854 
+player 655 draws a 157 from deck 655
+player 655 discards a 84 to deck 656
+player 655 current hand : 285 643 186 272 389 931 645 862 965 38 80 586 169 523 927 610 499 267 854 157 
+player 655 draws a 910 from deck 655
+player 655 discards a 285 to deck 656
+player 655 current hand : 643 186 272 389 931 645 862 965 38 80 586 169 523 927 610 499 267 854 157 910 
+player 655 draws a 919 from deck 655
+player 655 discards a 643 to deck 656
+player 655 current hand : 186 272 389 931 645 862 965 38 80 586 169 523 927 610 499 267 854 157 910 919 
+player 655 draws a 620 from deck 655
+player 655 discards a 186 to deck 656
+player 655 current hand : 272 389 931 645 862 965 38 80 586 169 523 927 610 499 267 854 157 910 919 620 
+player 655 draws a 285 from deck 655
+player 655 discards a 272 to deck 656
+player 655 current hand : 389 931 645 862 965 38 80 586 169 523 927 610 499 267 854 157 910 919 620 285 
+player 655 draws a 378 from deck 655
+player 655 discards a 389 to deck 656
+player 655 current hand : 931 645 862 965 38 80 586 169 523 927 610 499 267 854 157 910 919 620 285 378 
+player 655 draws a 565 from deck 655
+player 655 discards a 931 to deck 656
+player 655 current hand : 645 862 965 38 80 586 169 523 927 610 499 267 854 157 910 919 620 285 378 565 
+player 655 draws a 514 from deck 655
+player 655 discards a 645 to deck 656
+player 655 current hand : 862 965 38 80 586 169 523 927 610 499 267 854 157 910 919 620 285 378 565 514 
+player 655 draws a 13 from deck 655
+player 655 discards a 862 to deck 656
+player 655 current hand : 965 38 80 586 169 523 927 610 499 267 854 157 910 919 620 285 378 565 514 13 
+player 655 draws a 455 from deck 655
+player 655 discards a 965 to deck 656
+player 655 current hand : 38 80 586 169 523 927 610 499 267 854 157 910 919 620 285 378 565 514 13 455 
+player 655 draws a 329 from deck 655
+player 655 discards a 38 to deck 656
+player 655 current hand : 80 586 169 523 927 610 499 267 854 157 910 919 620 285 378 565 514 13 455 329 
+player 655 draws a 985 from deck 655
+player 655 discards a 80 to deck 656
+player 655 current hand : 586 169 523 927 610 499 267 854 157 910 919 620 285 378 565 514 13 455 329 985 
+player 655 draws a 138 from deck 655
+player 655 discards a 586 to deck 656
+player 655 current hand : 169 523 927 610 499 267 854 157 910 919 620 285 378 565 514 13 455 329 985 138 
+player 655 draws a 301 from deck 655
+player 655 discards a 169 to deck 656
+player 655 current hand : 523 927 610 499 267 854 157 910 919 620 285 378 565 514 13 455 329 985 138 301 
+player 655 draws a 152 from deck 655
+player 655 discards a 523 to deck 656
+player 655 current hand : 927 610 499 267 854 157 910 919 620 285 378 565 514 13 455 329 985 138 301 152 
+player 655 draws a 580 from deck 655
+player 655 discards a 927 to deck 656
+player 655 current hand : 610 499 267 854 157 910 919 620 285 378 565 514 13 455 329 985 138 301 152 580 
+player 655 draws a 93 from deck 655
+player 655 discards a 610 to deck 656
+player 655 current hand : 499 267 854 157 910 919 620 285 378 565 514 13 455 329 985 138 301 152 580 93 
+player 655 draws a 111 from deck 655
+player 655 discards a 499 to deck 656
+player 655 current hand : 267 854 157 910 919 620 285 378 565 514 13 455 329 985 138 301 152 580 93 111 
+player 655 draws a 475 from deck 655
+player 655 discards a 267 to deck 656
+player 655 current hand : 854 157 910 919 620 285 378 565 514 13 455 329 985 138 301 152 580 93 111 475 
+player 655 draws a 240 from deck 655
+player 655 discards a 854 to deck 656
+player 655 current hand : 157 910 919 620 285 378 565 514 13 455 329 985 138 301 152 580 93 111 475 240 
+player 655 draws a 14 from deck 655
+player 655 discards a 157 to deck 656
+player 655 current hand : 910 919 620 285 378 565 514 13 455 329 985 138 301 152 580 93 111 475 240 14 
+player 655 draws a 456 from deck 655
+player 655 discards a 910 to deck 656
+player 655 current hand : 919 620 285 378 565 514 13 455 329 985 138 301 152 580 93 111 475 240 14 456 
+player 655 draws a 389 from deck 655
+player 655 discards a 919 to deck 656
+player 655 current hand : 620 285 378 565 514 13 455 329 985 138 301 152 580 93 111 475 240 14 456 389 
+player 655 draws a 44 from deck 655
+player 655 discards a 620 to deck 656
+player 655 current hand : 285 378 565 514 13 455 329 985 138 301 152 580 93 111 475 240 14 456 389 44 
+player 655 draws a 47 from deck 655
+player 655 discards a 285 to deck 656
+player 655 current hand : 378 565 514 13 455 329 985 138 301 152 580 93 111 475 240 14 456 389 44 47 
+player 655 draws a 420 from deck 655
+player 655 discards a 378 to deck 656
+player 655 current hand : 565 514 13 455 329 985 138 301 152 580 93 111 475 240 14 456 389 44 47 420 
+player 655 draws a 913 from deck 655
+player 655 discards a 565 to deck 656
+player 655 current hand : 514 13 455 329 985 138 301 152 580 93 111 475 240 14 456 389 44 47 420 913 
+player 655 draws a 78 from deck 655
+player 655 discards a 514 to deck 656
+player 655 current hand : 13 455 329 985 138 301 152 580 93 111 475 240 14 456 389 44 47 420 913 78 
+player 655 draws a 595 from deck 655
+player 655 discards a 13 to deck 656
+player 655 current hand : 455 329 985 138 301 152 580 93 111 475 240 14 456 389 44 47 420 913 78 595 
+player 655 draws a 374 from deck 655
+player 655 discards a 455 to deck 656
+player 655 current hand : 329 985 138 301 152 580 93 111 475 240 14 456 389 44 47 420 913 78 595 374 
+player 655 draws a 154 from deck 655
+player 655 discards a 329 to deck 656
+player 655 current hand : 985 138 301 152 580 93 111 475 240 14 456 389 44 47 420 913 78 595 374 154 
+player 655 draws a 315 from deck 655
+player 655 discards a 985 to deck 656
+player 655 current hand : 138 301 152 580 93 111 475 240 14 456 389 44 47 420 913 78 595 374 154 315 
+player 655 draws a 681 from deck 655
+player 655 discards a 138 to deck 656
+player 655 current hand : 301 152 580 93 111 475 240 14 456 389 44 47 420 913 78 595 374 154 315 681 
+player 655 draws a 612 from deck 655
+player 655 discards a 301 to deck 656
+player 655 current hand : 152 580 93 111 475 240 14 456 389 44 47 420 913 78 595 374 154 315 681 612 
+player 655 draws a 813 from deck 655
+player 655 discards a 152 to deck 656
+player 655 current hand : 580 93 111 475 240 14 456 389 44 47 420 913 78 595 374 154 315 681 612 813 
+player 655 draws a 704 from deck 655
+player 655 discards a 580 to deck 656
+player 655 current hand : 93 111 475 240 14 456 389 44 47 420 913 78 595 374 154 315 681 612 813 704 
+player 655 draws a 765 from deck 655
+player 655 discards a 93 to deck 656
+player 655 current hand : 111 475 240 14 456 389 44 47 420 913 78 595 374 154 315 681 612 813 704 765 
+player 655 draws a 23 from deck 655
+player 655 discards a 111 to deck 656
+player 655 current hand : 475 240 14 456 389 44 47 420 913 78 595 374 154 315 681 612 813 704 765 23 
+player 655 draws a 970 from deck 655
+player 655 discards a 475 to deck 656
+player 655 current hand : 240 14 456 389 44 47 420 913 78 595 374 154 315 681 612 813 704 765 23 970 
+player 655 draws a 9 from deck 655
+player 655 discards a 240 to deck 656
+player 655 current hand : 14 456 389 44 47 420 913 78 595 374 154 315 681 612 813 704 765 23 970 9 
+player 655 draws a 1000 from deck 655
+player 655 discards a 14 to deck 656
+player 655 current hand : 456 389 44 47 420 913 78 595 374 154 315 681 612 813 704 765 23 970 9 1000 
+player 655 draws a 384 from deck 655
+player 655 discards a 456 to deck 656
+player 655 current hand : 389 44 47 420 913 78 595 374 154 315 681 612 813 704 765 23 970 9 1000 384 
+player 655 draws a 866 from deck 655
+player 655 discards a 389 to deck 656
+player 655 current hand : 44 47 420 913 78 595 374 154 315 681 612 813 704 765 23 970 9 1000 384 866 
+player 655 draws a 36 from deck 655
+player 655 discards a 44 to deck 656
+player 655 current hand : 47 420 913 78 595 374 154 315 681 612 813 704 765 23 970 9 1000 384 866 36 
+player 655 draws a 649 from deck 655
+player 655 discards a 47 to deck 656
+player 655 current hand : 420 913 78 595 374 154 315 681 612 813 704 765 23 970 9 1000 384 866 36 649 
+player 655 draws a 599 from deck 655
+player 655 discards a 420 to deck 656
+player 655 current hand : 913 78 595 374 154 315 681 612 813 704 765 23 970 9 1000 384 866 36 649 599 
+player 655 draws a 204 from deck 655
+player 655 discards a 913 to deck 656
+player 655 current hand : 78 595 374 154 315 681 612 813 704 765 23 970 9 1000 384 866 36 649 599 204 
+player 655 draws a 841 from deck 655
+player 655 discards a 78 to deck 656
+player 655 current hand : 595 374 154 315 681 612 813 704 765 23 970 9 1000 384 866 36 649 599 204 841 
+player 655 draws a 396 from deck 655
+player 655 discards a 595 to deck 656
+player 655 current hand : 374 154 315 681 612 813 704 765 23 970 9 1000 384 866 36 649 599 204 841 396 
+player 655 draws a 686 from deck 655
+player 655 discards a 374 to deck 656
+player 655 current hand : 154 315 681 612 813 704 765 23 970 9 1000 384 866 36 649 599 204 841 396 686 
+player 655 draws a 470 from deck 655
+player 655 discards a 154 to deck 656
+player 655 current hand : 315 681 612 813 704 765 23 970 9 1000 384 866 36 649 599 204 841 396 686 470 
+player 655 draws a 515 from deck 655
+player 655 discards a 315 to deck 656
+player 655 current hand : 681 612 813 704 765 23 970 9 1000 384 866 36 649 599 204 841 396 686 470 515 
+player 655 draws a 695 from deck 655
+player 655 discards a 681 to deck 656
+player 655 current hand : 612 813 704 765 23 970 9 1000 384 866 36 649 599 204 841 396 686 470 515 695 
+player 655 draws a 242 from deck 655
+player 655 discards a 612 to deck 656
+player 655 current hand : 813 704 765 23 970 9 1000 384 866 36 649 599 204 841 396 686 470 515 695 242 
+player 655 draws a 554 from deck 655
+player 655 discards a 813 to deck 656
+player 655 current hand : 704 765 23 970 9 1000 384 866 36 649 599 204 841 396 686 470 515 695 242 554 
+player 655 draws a 96 from deck 655
+player 655 discards a 704 to deck 656
+player 655 current hand : 765 23 970 9 1000 384 866 36 649 599 204 841 396 686 470 515 695 242 554 96 
+player 655 draws a 455 from deck 655
+player 655 discards a 765 to deck 656
+player 655 current hand : 23 970 9 1000 384 866 36 649 599 204 841 396 686 470 515 695 242 554 96 455 
+player 655 draws a 792 from deck 655

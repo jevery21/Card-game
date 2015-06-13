@@ -1,0 +1,296 @@
+player 122 initial hand 458 762 282 422 944 989 950 7 351 969 400 112 532 274 744 17 470 784 824 118 
+player 122 draws a 501 from deck 122
+player 122 discards a 458 to deck 123
+player 122 current hand : 762 282 422 944 989 950 7 351 969 400 112 532 274 744 17 470 784 824 118 501 
+player 122 draws a 457 from deck 122
+player 122 discards a 762 to deck 123
+player 122 current hand : 282 422 944 989 950 7 351 969 400 112 532 274 744 17 470 784 824 118 501 457 
+player 122 draws a 867 from deck 122
+player 122 discards a 282 to deck 123
+player 122 current hand : 422 944 989 950 7 351 969 400 112 532 274 744 17 470 784 824 118 501 457 867 
+player 122 draws a 524 from deck 122
+player 122 discards a 422 to deck 123
+player 122 current hand : 944 989 950 7 351 969 400 112 532 274 744 17 470 784 824 118 501 457 867 524 
+player 122 draws a 100 from deck 122
+player 122 discards a 944 to deck 123
+player 122 current hand : 989 950 7 351 969 400 112 532 274 744 17 470 784 824 118 501 457 867 524 100 
+player 122 draws a 653 from deck 122
+player 122 discards a 989 to deck 123
+player 122 current hand : 950 7 351 969 400 112 532 274 744 17 470 784 824 118 501 457 867 524 100 653 
+player 122 draws a 350 from deck 122
+player 122 discards a 950 to deck 123
+player 122 current hand : 7 351 969 400 112 532 274 744 17 470 784 824 118 501 457 867 524 100 653 350 
+player 122 draws a 654 from deck 122
+player 122 discards a 7 to deck 123
+player 122 current hand : 351 969 400 112 532 274 744 17 470 784 824 118 501 457 867 524 100 653 350 654 
+player 122 draws a 201 from deck 122
+player 122 discards a 351 to deck 123
+player 122 current hand : 969 400 112 532 274 744 17 470 784 824 118 501 457 867 524 100 653 350 654 201 
+player 122 draws a 865 from deck 122
+player 122 discards a 969 to deck 123
+player 122 current hand : 400 112 532 274 744 17 470 784 824 118 501 457 867 524 100 653 350 654 201 865 
+player 122 draws a 832 from deck 122
+player 122 discards a 400 to deck 123
+player 122 current hand : 112 532 274 744 17 470 784 824 118 501 457 867 524 100 653 350 654 201 865 832 
+player 122 draws a 527 from deck 122
+player 122 discards a 112 to deck 123
+player 122 current hand : 532 274 744 17 470 784 824 118 501 457 867 524 100 653 350 654 201 865 832 527 
+player 122 draws a 918 from deck 122
+player 122 discards a 532 to deck 123
+player 122 current hand : 274 744 17 470 784 824 118 501 457 867 524 100 653 350 654 201 865 832 527 918 
+player 122 draws a 245 from deck 122
+player 122 discards a 274 to deck 123
+player 122 current hand : 744 17 470 784 824 118 501 457 867 524 100 653 350 654 201 865 832 527 918 245 
+player 122 draws a 330 from deck 122
+player 122 discards a 744 to deck 123
+player 122 current hand : 17 470 784 824 118 501 457 867 524 100 653 350 654 201 865 832 527 918 245 330 
+player 122 draws a 562 from deck 122
+player 122 discards a 17 to deck 123
+player 122 current hand : 470 784 824 118 501 457 867 524 100 653 350 654 201 865 832 527 918 245 330 562 
+player 122 draws a 951 from deck 122
+player 122 discards a 470 to deck 123
+player 122 current hand : 784 824 118 501 457 867 524 100 653 350 654 201 865 832 527 918 245 330 562 951 
+player 122 draws a 724 from deck 122
+player 122 discards a 784 to deck 123
+player 122 current hand : 824 118 501 457 867 524 100 653 350 654 201 865 832 527 918 245 330 562 951 724 
+player 122 draws a 855 from deck 122
+player 122 discards a 824 to deck 123
+player 122 current hand : 118 501 457 867 524 100 653 350 654 201 865 832 527 918 245 330 562 951 724 855 
+player 122 draws a 887 from deck 122
+player 122 discards a 118 to deck 123
+player 122 current hand : 501 457 867 524 100 653 350 654 201 865 832 527 918 245 330 562 951 724 855 887 
+player 122 draws a 485 from deck 122
+player 122 discards a 501 to deck 123
+player 122 current hand : 457 867 524 100 653 350 654 201 865 832 527 918 245 330 562 951 724 855 887 485 
+player 122 draws a 798 from deck 122
+player 122 discards a 457 to deck 123
+player 122 current hand : 867 524 100 653 350 654 201 865 832 527 918 245 330 562 951 724 855 887 485 798 
+player 122 draws a 644 from deck 122
+player 122 discards a 867 to deck 123
+player 122 current hand : 524 100 653 350 654 201 865 832 527 918 245 330 562 951 724 855 887 485 798 644 
+player 122 draws a 462 from deck 122
+player 122 discards a 524 to deck 123
+player 122 current hand : 100 653 350 654 201 865 832 527 918 245 330 562 951 724 855 887 485 798 644 462 
+player 122 draws a 456 from deck 122
+player 122 discards a 100 to deck 123
+player 122 current hand : 653 350 654 201 865 832 527 918 245 330 562 951 724 855 887 485 798 644 462 456 
+player 122 draws a 480 from deck 122
+player 122 discards a 653 to deck 123
+player 122 current hand : 350 654 201 865 832 527 918 245 330 562 951 724 855 887 485 798 644 462 456 480 
+player 122 draws a 847 from deck 122
+player 122 discards a 350 to deck 123
+player 122 current hand : 654 201 865 832 527 918 245 330 562 951 724 855 887 485 798 644 462 456 480 847 
+player 122 draws a 80 from deck 122
+player 122 discards a 654 to deck 123
+player 122 current hand : 201 865 832 527 918 245 330 562 951 724 855 887 485 798 644 462 456 480 847 80 
+player 122 draws a 322 from deck 122
+player 122 discards a 201 to deck 123
+player 122 current hand : 865 832 527 918 245 330 562 951 724 855 887 485 798 644 462 456 480 847 80 322 
+player 122 draws a 343 from deck 122
+player 122 discards a 865 to deck 123
+player 122 current hand : 832 527 918 245 330 562 951 724 855 887 485 798 644 462 456 480 847 80 322 343 
+player 122 draws a 434 from deck 122
+player 122 discards a 832 to deck 123
+player 122 current hand : 527 918 245 330 562 951 724 855 887 485 798 644 462 456 480 847 80 322 343 434 
+player 122 draws a 886 from deck 122
+player 122 discards a 527 to deck 123
+player 122 current hand : 918 245 330 562 951 724 855 887 485 798 644 462 456 480 847 80 322 343 434 886 
+player 122 draws a 164 from deck 122
+player 122 discards a 918 to deck 123
+player 122 current hand : 245 330 562 951 724 855 887 485 798 644 462 456 480 847 80 322 343 434 886 164 
+player 122 draws a 468 from deck 122
+player 122 discards a 245 to deck 123
+player 122 current hand : 330 562 951 724 855 887 485 798 644 462 456 480 847 80 322 343 434 886 164 468 
+player 122 draws a 369 from deck 122
+player 122 discards a 330 to deck 123
+player 122 current hand : 562 951 724 855 887 485 798 644 462 456 480 847 80 322 343 434 886 164 468 369 
+player 122 draws a 951 from deck 122
+player 122 discards a 562 to deck 123
+player 122 current hand : 951 724 855 887 485 798 644 462 456 480 847 80 322 343 434 886 164 468 369 951 
+player 122 draws a 984 from deck 122
+player 122 discards a 951 to deck 123
+player 122 current hand : 724 855 887 485 798 644 462 456 480 847 80 322 343 434 886 164 468 369 951 984 
+player 122 draws a 955 from deck 122
+player 122 discards a 724 to deck 123
+player 122 current hand : 855 887 485 798 644 462 456 480 847 80 322 343 434 886 164 468 369 951 984 955 
+player 122 draws a 62 from deck 122
+player 122 discards a 855 to deck 123
+player 122 current hand : 887 485 798 644 462 456 480 847 80 322 343 434 886 164 468 369 951 984 955 62 
+player 122 draws a 919 from deck 122
+player 122 discards a 887 to deck 123
+player 122 current hand : 485 798 644 462 456 480 847 80 322 343 434 886 164 468 369 951 984 955 62 919 
+player 122 draws a 317 from deck 122
+player 122 discards a 485 to deck 123
+player 122 current hand : 798 644 462 456 480 847 80 322 343 434 886 164 468 369 951 984 955 62 919 317 
+player 122 draws a 742 from deck 122
+player 122 discards a 798 to deck 123
+player 122 current hand : 644 462 456 480 847 80 322 343 434 886 164 468 369 951 984 955 62 919 317 742 
+player 122 draws a 409 from deck 122
+player 122 discards a 644 to deck 123
+player 122 current hand : 462 456 480 847 80 322 343 434 886 164 468 369 951 984 955 62 919 317 742 409 
+player 122 draws a 817 from deck 122
+player 122 discards a 462 to deck 123
+player 122 current hand : 456 480 847 80 322 343 434 886 164 468 369 951 984 955 62 919 317 742 409 817 
+player 122 draws a 570 from deck 122
+player 122 discards a 456 to deck 123
+player 122 current hand : 480 847 80 322 343 434 886 164 468 369 951 984 955 62 919 317 742 409 817 570 
+player 122 draws a 321 from deck 122
+player 122 discards a 480 to deck 123
+player 122 current hand : 847 80 322 343 434 886 164 468 369 951 984 955 62 919 317 742 409 817 570 321 
+player 122 draws a 410 from deck 122
+player 122 discards a 847 to deck 123
+player 122 current hand : 80 322 343 434 886 164 468 369 951 984 955 62 919 317 742 409 817 570 321 410 
+player 122 draws a 196 from deck 122
+player 122 discards a 80 to deck 123
+player 122 current hand : 322 343 434 886 164 468 369 951 984 955 62 919 317 742 409 817 570 321 410 196 
+player 122 draws a 455 from deck 122
+player 122 discards a 322 to deck 123
+player 122 current hand : 343 434 886 164 468 369 951 984 955 62 919 317 742 409 817 570 321 410 196 455 
+player 122 draws a 258 from deck 122
+player 122 discards a 343 to deck 123
+player 122 current hand : 434 886 164 468 369 951 984 955 62 919 317 742 409 817 570 321 410 196 455 258 
+player 122 draws a 918 from deck 122
+player 122 discards a 434 to deck 123
+player 122 current hand : 886 164 468 369 951 984 955 62 919 317 742 409 817 570 321 410 196 455 258 918 
+player 122 draws a 387 from deck 122
+player 122 discards a 886 to deck 123
+player 122 current hand : 164 468 369 951 984 955 62 919 317 742 409 817 570 321 410 196 455 258 918 387 
+player 122 draws a 377 from deck 122
+player 122 discards a 164 to deck 123
+player 122 current hand : 468 369 951 984 955 62 919 317 742 409 817 570 321 410 196 455 258 918 387 377 
+player 122 draws a 661 from deck 122
+player 122 discards a 468 to deck 123
+player 122 current hand : 369 951 984 955 62 919 317 742 409 817 570 321 410 196 455 258 918 387 377 661 
+player 122 draws a 616 from deck 122
+player 122 discards a 369 to deck 123
+player 122 current hand : 951 984 955 62 919 317 742 409 817 570 321 410 196 455 258 918 387 377 661 616 
+player 122 draws a 401 from deck 122
+player 122 discards a 951 to deck 123
+player 122 current hand : 984 955 62 919 317 742 409 817 570 321 410 196 455 258 918 387 377 661 616 401 
+player 122 draws a 376 from deck 122
+player 122 discards a 984 to deck 123
+player 122 current hand : 955 62 919 317 742 409 817 570 321 410 196 455 258 918 387 377 661 616 401 376 
+player 122 draws a 485 from deck 122
+player 122 discards a 955 to deck 123
+player 122 current hand : 62 919 317 742 409 817 570 321 410 196 455 258 918 387 377 661 616 401 376 485 
+player 122 draws a 631 from deck 122
+player 122 discards a 62 to deck 123
+player 122 current hand : 919 317 742 409 817 570 321 410 196 455 258 918 387 377 661 616 401 376 485 631 
+player 122 draws a 631 from deck 122
+player 122 discards a 919 to deck 123
+player 122 current hand : 317 742 409 817 570 321 410 196 455 258 918 387 377 661 616 401 376 485 631 631 
+player 122 draws a 841 from deck 122
+player 122 discards a 317 to deck 123
+player 122 current hand : 742 409 817 570 321 410 196 455 258 918 387 377 661 616 401 376 485 631 631 841 
+player 122 draws a 501 from deck 122
+player 122 discards a 742 to deck 123
+player 122 current hand : 409 817 570 321 410 196 455 258 918 387 377 661 616 401 376 485 631 631 841 501 
+player 122 draws a 626 from deck 122
+player 122 discards a 409 to deck 123
+player 122 current hand : 817 570 321 410 196 455 258 918 387 377 661 616 401 376 485 631 631 841 501 626 
+player 122 draws a 618 from deck 122
+player 122 discards a 817 to deck 123
+player 122 current hand : 570 321 410 196 455 258 918 387 377 661 616 401 376 485 631 631 841 501 626 618 
+player 122 draws a 753 from deck 122
+player 122 discards a 570 to deck 123
+player 122 current hand : 321 410 196 455 258 918 387 377 661 616 401 376 485 631 631 841 501 626 618 753 
+player 122 draws a 244 from deck 122
+player 122 discards a 321 to deck 123
+player 122 current hand : 410 196 455 258 918 387 377 661 616 401 376 485 631 631 841 501 626 618 753 244 
+player 122 draws a 229 from deck 122
+player 122 discards a 410 to deck 123
+player 122 current hand : 196 455 258 918 387 377 661 616 401 376 485 631 631 841 501 626 618 753 244 229 
+player 122 draws a 377 from deck 122
+player 122 discards a 196 to deck 123
+player 122 current hand : 455 258 918 387 377 661 616 401 376 485 631 631 841 501 626 618 753 244 229 377 
+player 122 draws a 144 from deck 122
+player 122 discards a 455 to deck 123
+player 122 current hand : 258 918 387 377 661 616 401 376 485 631 631 841 501 626 618 753 244 229 377 144 
+player 122 draws a 102 from deck 122
+player 122 discards a 258 to deck 123
+player 122 current hand : 918 387 377 661 616 401 376 485 631 631 841 501 626 618 753 244 229 377 144 102 
+player 122 draws a 60 from deck 122
+player 122 discards a 918 to deck 123
+player 122 current hand : 387 377 661 616 401 376 485 631 631 841 501 626 618 753 244 229 377 144 102 60 
+player 122 draws a 219 from deck 122
+player 122 discards a 387 to deck 123
+player 122 current hand : 377 661 616 401 376 485 631 631 841 501 626 618 753 244 229 377 144 102 60 219 
+player 122 draws a 244 from deck 122
+player 122 discards a 377 to deck 123
+player 122 current hand : 661 616 401 376 485 631 631 841 501 626 618 753 244 229 377 144 102 60 219 244 
+player 122 draws a 351 from deck 122
+player 122 discards a 661 to deck 123
+player 122 current hand : 616 401 376 485 631 631 841 501 626 618 753 244 229 377 144 102 60 219 244 351 
+player 122 draws a 768 from deck 122
+player 122 discards a 616 to deck 123
+player 122 current hand : 401 376 485 631 631 841 501 626 618 753 244 229 377 144 102 60 219 244 351 768 
+player 122 draws a 320 from deck 122
+player 122 discards a 401 to deck 123
+player 122 current hand : 376 485 631 631 841 501 626 618 753 244 229 377 144 102 60 219 244 351 768 320 
+player 122 draws a 635 from deck 122
+player 122 discards a 376 to deck 123
+player 122 current hand : 485 631 631 841 501 626 618 753 244 229 377 144 102 60 219 244 351 768 320 635 
+player 122 draws a 686 from deck 122
+player 122 discards a 485 to deck 123
+player 122 current hand : 631 631 841 501 626 618 753 244 229 377 144 102 60 219 244 351 768 320 635 686 
+player 122 draws a 60 from deck 122
+player 122 discards a 631 to deck 123
+player 122 current hand : 631 841 501 626 618 753 244 229 377 144 102 60 219 244 351 768 320 635 686 60 
+player 122 draws a 252 from deck 122
+player 122 discards a 631 to deck 123
+player 122 current hand : 841 501 626 618 753 244 229 377 144 102 60 219 244 351 768 320 635 686 60 252 
+player 122 draws a 295 from deck 122
+player 122 discards a 841 to deck 123
+player 122 current hand : 501 626 618 753 244 229 377 144 102 60 219 244 351 768 320 635 686 60 252 295 
+player 122 draws a 279 from deck 122
+player 122 discards a 501 to deck 123
+player 122 current hand : 626 618 753 244 229 377 144 102 60 219 244 351 768 320 635 686 60 252 295 279 
+player 122 draws a 474 from deck 122
+player 122 discards a 626 to deck 123
+player 122 current hand : 618 753 244 229 377 144 102 60 219 244 351 768 320 635 686 60 252 295 279 474 
+player 122 draws a 349 from deck 122
+player 122 discards a 618 to deck 123
+player 122 current hand : 753 244 229 377 144 102 60 219 244 351 768 320 635 686 60 252 295 279 474 349 
+player 122 draws a 737 from deck 122
+player 122 discards a 753 to deck 123
+player 122 current hand : 244 229 377 144 102 60 219 244 351 768 320 635 686 60 252 295 279 474 349 737 
+player 122 draws a 417 from deck 122
+player 122 discards a 244 to deck 123
+player 122 current hand : 229 377 144 102 60 219 244 351 768 320 635 686 60 252 295 279 474 349 737 417 
+player 122 draws a 906 from deck 122
+player 122 discards a 229 to deck 123
+player 122 current hand : 377 144 102 60 219 244 351 768 320 635 686 60 252 295 279 474 349 737 417 906 
+player 122 draws a 721 from deck 122
+player 122 discards a 377 to deck 123
+player 122 current hand : 144 102 60 219 244 351 768 320 635 686 60 252 295 279 474 349 737 417 906 721 
+player 122 draws a 870 from deck 122
+player 122 discards a 144 to deck 123
+player 122 current hand : 102 60 219 244 351 768 320 635 686 60 252 295 279 474 349 737 417 906 721 870 
+player 122 draws a 599 from deck 122
+player 122 discards a 102 to deck 123
+player 122 current hand : 60 219 244 351 768 320 635 686 60 252 295 279 474 349 737 417 906 721 870 599 
+player 122 draws a 405 from deck 122
+player 122 discards a 60 to deck 123
+player 122 current hand : 219 244 351 768 320 635 686 60 252 295 279 474 349 737 417 906 721 870 599 405 
+player 122 draws a 44 from deck 122
+player 122 discards a 219 to deck 123
+player 122 current hand : 244 351 768 320 635 686 60 252 295 279 474 349 737 417 906 721 870 599 405 44 
+player 122 draws a 816 from deck 122
+player 122 discards a 244 to deck 123
+player 122 current hand : 351 768 320 635 686 60 252 295 279 474 349 737 417 906 721 870 599 405 44 816 
+player 122 draws a 182 from deck 122
+player 122 discards a 351 to deck 123
+player 122 current hand : 768 320 635 686 60 252 295 279 474 349 737 417 906 721 870 599 405 44 816 182 
+player 122 draws a 999 from deck 122
+player 122 discards a 768 to deck 123
+player 122 current hand : 320 635 686 60 252 295 279 474 349 737 417 906 721 870 599 405 44 816 182 999 
+player 122 draws a 456 from deck 122
+player 122 discards a 320 to deck 123
+player 122 current hand : 635 686 60 252 295 279 474 349 737 417 906 721 870 599 405 44 816 182 999 456 
+player 122 draws a 641 from deck 122
+player 122 discards a 635 to deck 123
+player 122 current hand : 686 60 252 295 279 474 349 737 417 906 721 870 599 405 44 816 182 999 456 641 
+player 122 draws a 782 from deck 122
+player 122 discards a 686 to deck 123
+player 122 current hand : 60 252 295 279 474 349 737 417 906 721 870 599 405 44 816 182 999 456 641 782 
+player 122 draws a 816 from deck 122

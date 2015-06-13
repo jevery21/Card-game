@@ -1,0 +1,325 @@
+player 426 initial hand 417 210 309 565 496 552 50 160 127 112 69 204 589 134 751 163 919 921 285 918 
+player 426 draws a 105 from deck 426
+player 426 discards a 417 to deck 427
+player 426 current hand : 210 309 565 496 552 50 160 127 112 69 204 589 134 751 163 919 921 285 918 105 
+player 426 draws a 808 from deck 426
+player 426 discards a 210 to deck 427
+player 426 current hand : 309 565 496 552 50 160 127 112 69 204 589 134 751 163 919 921 285 918 105 808 
+player 426 draws a 691 from deck 426
+player 426 discards a 309 to deck 427
+player 426 current hand : 565 496 552 50 160 127 112 69 204 589 134 751 163 919 921 285 918 105 808 691 
+player 426 draws a 114 from deck 426
+player 426 discards a 565 to deck 427
+player 426 current hand : 496 552 50 160 127 112 69 204 589 134 751 163 919 921 285 918 105 808 691 114 
+player 426 draws a 770 from deck 426
+player 426 discards a 496 to deck 427
+player 426 current hand : 552 50 160 127 112 69 204 589 134 751 163 919 921 285 918 105 808 691 114 770 
+player 426 draws a 717 from deck 426
+player 426 discards a 552 to deck 427
+player 426 current hand : 50 160 127 112 69 204 589 134 751 163 919 921 285 918 105 808 691 114 770 717 
+player 426 draws a 976 from deck 426
+player 426 discards a 50 to deck 427
+player 426 current hand : 160 127 112 69 204 589 134 751 163 919 921 285 918 105 808 691 114 770 717 976 
+player 426 draws a 867 from deck 426
+player 426 discards a 160 to deck 427
+player 426 current hand : 127 112 69 204 589 134 751 163 919 921 285 918 105 808 691 114 770 717 976 867 
+player 426 draws a 576 from deck 426
+player 426 discards a 127 to deck 427
+player 426 current hand : 112 69 204 589 134 751 163 919 921 285 918 105 808 691 114 770 717 976 867 576 
+player 426 draws a 28 from deck 426
+player 426 discards a 112 to deck 427
+player 426 current hand : 69 204 589 134 751 163 919 921 285 918 105 808 691 114 770 717 976 867 576 28 
+player 426 draws a 290 from deck 426
+player 426 discards a 69 to deck 427
+player 426 current hand : 204 589 134 751 163 919 921 285 918 105 808 691 114 770 717 976 867 576 28 290 
+player 426 draws a 944 from deck 426
+player 426 discards a 204 to deck 427
+player 426 current hand : 589 134 751 163 919 921 285 918 105 808 691 114 770 717 976 867 576 28 290 944 
+player 426 draws a 771 from deck 426
+player 426 discards a 589 to deck 427
+player 426 current hand : 134 751 163 919 921 285 918 105 808 691 114 770 717 976 867 576 28 290 944 771 
+player 426 draws a 215 from deck 426
+player 426 discards a 134 to deck 427
+player 426 current hand : 751 163 919 921 285 918 105 808 691 114 770 717 976 867 576 28 290 944 771 215 
+player 426 draws a 775 from deck 426
+player 426 discards a 751 to deck 427
+player 426 current hand : 163 919 921 285 918 105 808 691 114 770 717 976 867 576 28 290 944 771 215 775 
+player 426 draws a 373 from deck 426
+player 426 discards a 163 to deck 427
+player 426 current hand : 919 921 285 918 105 808 691 114 770 717 976 867 576 28 290 944 771 215 775 373 
+player 426 draws a 168 from deck 426
+player 426 discards a 919 to deck 427
+player 426 current hand : 921 285 918 105 808 691 114 770 717 976 867 576 28 290 944 771 215 775 373 168 
+player 426 draws a 773 from deck 426
+player 426 discards a 921 to deck 427
+player 426 current hand : 285 918 105 808 691 114 770 717 976 867 576 28 290 944 771 215 775 373 168 773 
+player 426 draws a 456 from deck 426
+player 426 discards a 285 to deck 427
+player 426 current hand : 918 105 808 691 114 770 717 976 867 576 28 290 944 771 215 775 373 168 773 456 
+player 426 draws a 734 from deck 426
+player 426 discards a 918 to deck 427
+player 426 current hand : 105 808 691 114 770 717 976 867 576 28 290 944 771 215 775 373 168 773 456 734 
+player 426 draws a 444 from deck 426
+player 426 discards a 105 to deck 427
+player 426 current hand : 808 691 114 770 717 976 867 576 28 290 944 771 215 775 373 168 773 456 734 444 
+player 426 draws a 655 from deck 426
+player 426 discards a 808 to deck 427
+player 426 current hand : 691 114 770 717 976 867 576 28 290 944 771 215 775 373 168 773 456 734 444 655 
+player 426 draws a 947 from deck 426
+player 426 discards a 691 to deck 427
+player 426 current hand : 114 770 717 976 867 576 28 290 944 771 215 775 373 168 773 456 734 444 655 947 
+player 426 draws a 188 from deck 426
+player 426 discards a 114 to deck 427
+player 426 current hand : 770 717 976 867 576 28 290 944 771 215 775 373 168 773 456 734 444 655 947 188 
+player 426 draws a 77 from deck 426
+player 426 discards a 770 to deck 427
+player 426 current hand : 717 976 867 576 28 290 944 771 215 775 373 168 773 456 734 444 655 947 188 77 
+player 426 draws a 495 from deck 426
+player 426 discards a 717 to deck 427
+player 426 current hand : 976 867 576 28 290 944 771 215 775 373 168 773 456 734 444 655 947 188 77 495 
+player 426 draws a 180 from deck 426
+player 426 discards a 976 to deck 427
+player 426 current hand : 867 576 28 290 944 771 215 775 373 168 773 456 734 444 655 947 188 77 495 180 
+player 426 draws a 253 from deck 426
+player 426 discards a 867 to deck 427
+player 426 current hand : 576 28 290 944 771 215 775 373 168 773 456 734 444 655 947 188 77 495 180 253 
+player 426 draws a 265 from deck 426
+player 426 discards a 576 to deck 427
+player 426 current hand : 28 290 944 771 215 775 373 168 773 456 734 444 655 947 188 77 495 180 253 265 
+player 426 draws a 928 from deck 426
+player 426 discards a 28 to deck 427
+player 426 current hand : 290 944 771 215 775 373 168 773 456 734 444 655 947 188 77 495 180 253 265 928 
+player 426 draws a 254 from deck 426
+player 426 discards a 290 to deck 427
+player 426 current hand : 944 771 215 775 373 168 773 456 734 444 655 947 188 77 495 180 253 265 928 254 
+player 426 draws a 52 from deck 426
+player 426 discards a 944 to deck 427
+player 426 current hand : 771 215 775 373 168 773 456 734 444 655 947 188 77 495 180 253 265 928 254 52 
+player 426 draws a 234 from deck 426
+player 426 discards a 771 to deck 427
+player 426 current hand : 215 775 373 168 773 456 734 444 655 947 188 77 495 180 253 265 928 254 52 234 
+player 426 draws a 650 from deck 426
+player 426 discards a 215 to deck 427
+player 426 current hand : 775 373 168 773 456 734 444 655 947 188 77 495 180 253 265 928 254 52 234 650 
+player 426 draws a 348 from deck 426
+player 426 discards a 775 to deck 427
+player 426 current hand : 373 168 773 456 734 444 655 947 188 77 495 180 253 265 928 254 52 234 650 348 
+player 426 draws a 825 from deck 426
+player 426 discards a 373 to deck 427
+player 426 current hand : 168 773 456 734 444 655 947 188 77 495 180 253 265 928 254 52 234 650 348 825 
+player 426 draws a 36 from deck 426
+player 426 discards a 168 to deck 427
+player 426 current hand : 773 456 734 444 655 947 188 77 495 180 253 265 928 254 52 234 650 348 825 36 
+player 426 draws a 899 from deck 426
+player 426 discards a 773 to deck 427
+player 426 current hand : 456 734 444 655 947 188 77 495 180 253 265 928 254 52 234 650 348 825 36 899 
+player 426 draws a 510 from deck 426
+player 426 discards a 456 to deck 427
+player 426 current hand : 734 444 655 947 188 77 495 180 253 265 928 254 52 234 650 348 825 36 899 510 
+player 426 draws a 608 from deck 426
+player 426 discards a 734 to deck 427
+player 426 current hand : 444 655 947 188 77 495 180 253 265 928 254 52 234 650 348 825 36 899 510 608 
+player 426 draws a 443 from deck 426
+player 426 discards a 444 to deck 427
+player 426 current hand : 655 947 188 77 495 180 253 265 928 254 52 234 650 348 825 36 899 510 608 443 
+player 426 draws a 170 from deck 426
+player 426 discards a 655 to deck 427
+player 426 current hand : 947 188 77 495 180 253 265 928 254 52 234 650 348 825 36 899 510 608 443 170 
+player 426 draws a 913 from deck 426
+player 426 discards a 947 to deck 427
+player 426 current hand : 188 77 495 180 253 265 928 254 52 234 650 348 825 36 899 510 608 443 170 913 
+player 426 draws a 417 from deck 426
+player 426 discards a 188 to deck 427
+player 426 current hand : 77 495 180 253 265 928 254 52 234 650 348 825 36 899 510 608 443 170 913 417 
+player 426 draws a 163 from deck 426
+player 426 discards a 77 to deck 427
+player 426 current hand : 495 180 253 265 928 254 52 234 650 348 825 36 899 510 608 443 170 913 417 163 
+player 426 draws a 100 from deck 426
+player 426 discards a 495 to deck 427
+player 426 current hand : 180 253 265 928 254 52 234 650 348 825 36 899 510 608 443 170 913 417 163 100 
+player 426 draws a 119 from deck 426
+player 426 discards a 180 to deck 427
+player 426 current hand : 253 265 928 254 52 234 650 348 825 36 899 510 608 443 170 913 417 163 100 119 
+player 426 draws a 847 from deck 426
+player 426 discards a 253 to deck 427
+player 426 current hand : 265 928 254 52 234 650 348 825 36 899 510 608 443 170 913 417 163 100 119 847 
+player 426 draws a 48 from deck 426
+player 426 discards a 265 to deck 427
+player 426 current hand : 928 254 52 234 650 348 825 36 899 510 608 443 170 913 417 163 100 119 847 48 
+player 426 draws a 945 from deck 426
+player 426 discards a 928 to deck 427
+player 426 current hand : 254 52 234 650 348 825 36 899 510 608 443 170 913 417 163 100 119 847 48 945 
+player 426 draws a 966 from deck 426
+player 426 discards a 254 to deck 427
+player 426 current hand : 52 234 650 348 825 36 899 510 608 443 170 913 417 163 100 119 847 48 945 966 
+player 426 draws a 564 from deck 426
+player 426 discards a 52 to deck 427
+player 426 current hand : 234 650 348 825 36 899 510 608 443 170 913 417 163 100 119 847 48 945 966 564 
+player 426 draws a 442 from deck 426
+player 426 discards a 234 to deck 427
+player 426 current hand : 650 348 825 36 899 510 608 443 170 913 417 163 100 119 847 48 945 966 564 442 
+player 426 draws a 343 from deck 426
+player 426 discards a 650 to deck 427
+player 426 current hand : 348 825 36 899 510 608 443 170 913 417 163 100 119 847 48 945 966 564 442 343 
+player 426 draws a 332 from deck 426
+player 426 discards a 348 to deck 427
+player 426 current hand : 825 36 899 510 608 443 170 913 417 163 100 119 847 48 945 966 564 442 343 332 
+player 426 draws a 496 from deck 426
+player 426 discards a 825 to deck 427
+player 426 current hand : 36 899 510 608 443 170 913 417 163 100 119 847 48 945 966 564 442 343 332 496 
+player 426 draws a 270 from deck 426
+player 426 discards a 36 to deck 427
+player 426 current hand : 899 510 608 443 170 913 417 163 100 119 847 48 945 966 564 442 343 332 496 270 
+player 426 draws a 138 from deck 426
+player 426 discards a 899 to deck 427
+player 426 current hand : 510 608 443 170 913 417 163 100 119 847 48 945 966 564 442 343 332 496 270 138 
+player 426 draws a 535 from deck 426
+player 426 discards a 510 to deck 427
+player 426 current hand : 608 443 170 913 417 163 100 119 847 48 945 966 564 442 343 332 496 270 138 535 
+player 426 draws a 760 from deck 426
+player 426 discards a 608 to deck 427
+player 426 current hand : 443 170 913 417 163 100 119 847 48 945 966 564 442 343 332 496 270 138 535 760 
+player 426 draws a 99 from deck 426
+player 426 discards a 443 to deck 427
+player 426 current hand : 170 913 417 163 100 119 847 48 945 966 564 442 343 332 496 270 138 535 760 99 
+player 426 draws a 893 from deck 426
+player 426 discards a 170 to deck 427
+player 426 current hand : 913 417 163 100 119 847 48 945 966 564 442 343 332 496 270 138 535 760 99 893 
+player 426 draws a 239 from deck 426
+player 426 discards a 913 to deck 427
+player 426 current hand : 417 163 100 119 847 48 945 966 564 442 343 332 496 270 138 535 760 99 893 239 
+player 426 draws a 407 from deck 426
+player 426 discards a 417 to deck 427
+player 426 current hand : 163 100 119 847 48 945 966 564 442 343 332 496 270 138 535 760 99 893 239 407 
+player 426 draws a 426 from deck 426
+player 426 discards a 163 to deck 427
+player 426 current hand : 100 119 847 48 945 966 564 442 343 332 496 270 138 535 760 99 893 239 407 426 
+player 426 draws a 537 from deck 426
+player 426 discards a 100 to deck 427
+player 426 current hand : 119 847 48 945 966 564 442 343 332 496 270 138 535 760 99 893 239 407 426 537 
+player 426 draws a 196 from deck 426
+player 426 discards a 119 to deck 427
+player 426 current hand : 847 48 945 966 564 442 343 332 496 270 138 535 760 99 893 239 407 426 537 196 
+player 426 draws a 188 from deck 426
+player 426 discards a 847 to deck 427
+player 426 current hand : 48 945 966 564 442 343 332 496 270 138 535 760 99 893 239 407 426 537 196 188 
+player 426 draws a 794 from deck 426
+player 426 discards a 48 to deck 427
+player 426 current hand : 945 966 564 442 343 332 496 270 138 535 760 99 893 239 407 426 537 196 188 794 
+player 426 draws a 767 from deck 426
+player 426 discards a 945 to deck 427
+player 426 current hand : 966 564 442 343 332 496 270 138 535 760 99 893 239 407 426 537 196 188 794 767 
+player 426 draws a 955 from deck 426
+player 426 discards a 966 to deck 427
+player 426 current hand : 564 442 343 332 496 270 138 535 760 99 893 239 407 426 537 196 188 794 767 955 
+player 426 draws a 124 from deck 426
+player 426 discards a 564 to deck 427
+player 426 current hand : 442 343 332 496 270 138 535 760 99 893 239 407 426 537 196 188 794 767 955 124 
+player 426 draws a 301 from deck 426
+player 426 discards a 442 to deck 427
+player 426 current hand : 343 332 496 270 138 535 760 99 893 239 407 426 537 196 188 794 767 955 124 301 
+player 426 draws a 737 from deck 426
+player 426 discards a 343 to deck 427
+player 426 current hand : 332 496 270 138 535 760 99 893 239 407 426 537 196 188 794 767 955 124 301 737 
+player 426 draws a 123 from deck 426
+player 426 discards a 332 to deck 427
+player 426 current hand : 496 270 138 535 760 99 893 239 407 426 537 196 188 794 767 955 124 301 737 123 
+player 426 draws a 383 from deck 426
+player 426 discards a 496 to deck 427
+player 426 current hand : 270 138 535 760 99 893 239 407 426 537 196 188 794 767 955 124 301 737 123 383 
+player 426 draws a 941 from deck 426
+player 426 discards a 270 to deck 427
+player 426 current hand : 138 535 760 99 893 239 407 426 537 196 188 794 767 955 124 301 737 123 383 941 
+player 426 draws a 339 from deck 426
+player 426 discards a 138 to deck 427
+player 426 current hand : 535 760 99 893 239 407 426 537 196 188 794 767 955 124 301 737 123 383 941 339 
+player 426 draws a 706 from deck 426
+player 426 discards a 535 to deck 427
+player 426 current hand : 760 99 893 239 407 426 537 196 188 794 767 955 124 301 737 123 383 941 339 706 
+player 426 draws a 446 from deck 426
+player 426 discards a 760 to deck 427
+player 426 current hand : 99 893 239 407 426 537 196 188 794 767 955 124 301 737 123 383 941 339 706 446 
+player 426 draws a 342 from deck 426
+player 426 discards a 99 to deck 427
+player 426 current hand : 893 239 407 426 537 196 188 794 767 955 124 301 737 123 383 941 339 706 446 342 
+player 426 draws a 111 from deck 426
+player 426 discards a 893 to deck 427
+player 426 current hand : 239 407 426 537 196 188 794 767 955 124 301 737 123 383 941 339 706 446 342 111 
+player 426 draws a 3 from deck 426
+player 426 discards a 239 to deck 427
+player 426 current hand : 407 426 537 196 188 794 767 955 124 301 737 123 383 941 339 706 446 342 111 3 
+player 426 draws a 195 from deck 426
+player 426 discards a 407 to deck 427
+player 426 current hand : 426 537 196 188 794 767 955 124 301 737 123 383 941 339 706 446 342 111 3 195 
+player 426 draws a 972 from deck 426
+player 426 discards a 537 to deck 427
+player 426 current hand : 426 196 188 794 767 955 124 301 737 123 383 941 339 706 446 342 111 3 195 972 
+player 426 draws a 392 from deck 426
+player 426 discards a 196 to deck 427
+player 426 current hand : 426 188 794 767 955 124 301 737 123 383 941 339 706 446 342 111 3 195 972 392 
+player 426 draws a 226 from deck 426
+player 426 discards a 188 to deck 427
+player 426 current hand : 426 794 767 955 124 301 737 123 383 941 339 706 446 342 111 3 195 972 392 226 
+player 426 draws a 501 from deck 426
+player 426 discards a 794 to deck 427
+player 426 current hand : 426 767 955 124 301 737 123 383 941 339 706 446 342 111 3 195 972 392 226 501 
+player 426 draws a 679 from deck 426
+player 426 discards a 767 to deck 427
+player 426 current hand : 426 955 124 301 737 123 383 941 339 706 446 342 111 3 195 972 392 226 501 679 
+player 426 draws a 921 from deck 426
+player 426 discards a 955 to deck 427
+player 426 current hand : 426 124 301 737 123 383 941 339 706 446 342 111 3 195 972 392 226 501 679 921 
+player 426 draws a 457 from deck 426
+player 426 discards a 124 to deck 427
+player 426 current hand : 426 301 737 123 383 941 339 706 446 342 111 3 195 972 392 226 501 679 921 457 
+player 426 draws a 691 from deck 426
+player 426 discards a 301 to deck 427
+player 426 current hand : 426 737 123 383 941 339 706 446 342 111 3 195 972 392 226 501 679 921 457 691 
+player 426 draws a 499 from deck 426
+player 426 discards a 737 to deck 427
+player 426 current hand : 426 123 383 941 339 706 446 342 111 3 195 972 392 226 501 679 921 457 691 499 
+player 426 draws a 653 from deck 426
+player 426 discards a 123 to deck 427
+player 426 current hand : 426 383 941 339 706 446 342 111 3 195 972 392 226 501 679 921 457 691 499 653 
+player 426 draws a 399 from deck 426
+player 426 discards a 383 to deck 427
+player 426 current hand : 426 941 339 706 446 342 111 3 195 972 392 226 501 679 921 457 691 499 653 399 
+player 426 draws a 39 from deck 426
+player 426 discards a 941 to deck 427
+player 426 current hand : 426 339 706 446 342 111 3 195 972 392 226 501 679 921 457 691 499 653 399 39 
+player 426 draws a 874 from deck 426
+player 426 discards a 339 to deck 427
+player 426 current hand : 426 706 446 342 111 3 195 972 392 226 501 679 921 457 691 499 653 399 39 874 
+player 426 draws a 699 from deck 426
+player 426 discards a 706 to deck 427
+player 426 current hand : 426 446 342 111 3 195 972 392 226 501 679 921 457 691 499 653 399 39 874 699 
+player 426 draws a 692 from deck 426
+player 426 discards a 446 to deck 427
+player 426 current hand : 426 342 111 3 195 972 392 226 501 679 921 457 691 499 653 399 39 874 699 692 
+player 426 draws a 991 from deck 426
+player 426 discards a 342 to deck 427
+player 426 current hand : 426 111 3 195 972 392 226 501 679 921 457 691 499 653 399 39 874 699 692 991 
+player 426 draws a 105 from deck 426
+player 426 discards a 111 to deck 427
+player 426 current hand : 426 3 195 972 392 226 501 679 921 457 691 499 653 399 39 874 699 692 991 105 
+player 426 draws a 918 from deck 426
+player 426 discards a 3 to deck 427
+player 426 current hand : 426 195 972 392 226 501 679 921 457 691 499 653 399 39 874 699 692 991 105 918 
+player 426 draws a 498 from deck 426
+player 426 discards a 195 to deck 427
+player 426 current hand : 426 972 392 226 501 679 921 457 691 499 653 399 39 874 699 692 991 105 918 498 
+player 426 draws a 776 from deck 426
+player 426 discards a 972 to deck 427
+player 426 current hand : 426 392 226 501 679 921 457 691 499 653 399 39 874 699 692 991 105 918 498 776 
+player 426 draws a 321 from deck 426
+player 426 discards a 392 to deck 427
+player 426 current hand : 426 226 501 679 921 457 691 499 653 399 39 874 699 692 991 105 918 498 776 321 
+player 426 draws a 964 from deck 426
+player 426 discards a 226 to deck 427
+player 426 current hand : 426 501 679 921 457 691 499 653 399 39 874 699 692 991 105 918 498 776 321 964 
+player 426 draws a 209 from deck 426
+player 426 discards a 501 to deck 427
+player 426 current hand : 426 679 921 457 691 499 653 399 39 874 699 692 991 105 918 498 776 321 964 209 
+player 426 draws a 566 from deck 426
+player 426 discards a 679 to deck 427
+player 426 current hand : 426 921 457 691 499 653 399 39 874 699 692 991 105 918 498 776 321 964 209 566 

@@ -1,0 +1,316 @@
+player 521 initial hand 541 409 493 984 805 428 786 537 951 452 966 608 20 364 691 1000 301 495 219 751 
+player 521 draws a 713 from deck 521
+player 521 discards a 541 to deck 522
+player 521 current hand : 409 493 984 805 428 786 537 951 452 966 608 20 364 691 1000 301 495 219 751 713 
+player 521 draws a 712 from deck 521
+player 521 discards a 409 to deck 522
+player 521 current hand : 493 984 805 428 786 537 951 452 966 608 20 364 691 1000 301 495 219 751 713 712 
+player 521 draws a 692 from deck 521
+player 521 discards a 493 to deck 522
+player 521 current hand : 984 805 428 786 537 951 452 966 608 20 364 691 1000 301 495 219 751 713 712 692 
+player 521 draws a 359 from deck 521
+player 521 discards a 984 to deck 522
+player 521 current hand : 805 428 786 537 951 452 966 608 20 364 691 1000 301 495 219 751 713 712 692 359 
+player 521 draws a 393 from deck 521
+player 521 discards a 805 to deck 522
+player 521 current hand : 428 786 537 951 452 966 608 20 364 691 1000 301 495 219 751 713 712 692 359 393 
+player 521 draws a 827 from deck 521
+player 521 discards a 428 to deck 522
+player 521 current hand : 786 537 951 452 966 608 20 364 691 1000 301 495 219 751 713 712 692 359 393 827 
+player 521 draws a 103 from deck 521
+player 521 discards a 786 to deck 522
+player 521 current hand : 537 951 452 966 608 20 364 691 1000 301 495 219 751 713 712 692 359 393 827 103 
+player 521 draws a 45 from deck 521
+player 521 discards a 537 to deck 522
+player 521 current hand : 951 452 966 608 20 364 691 1000 301 495 219 751 713 712 692 359 393 827 103 45 
+player 521 draws a 13 from deck 521
+player 521 discards a 951 to deck 522
+player 521 current hand : 452 966 608 20 364 691 1000 301 495 219 751 713 712 692 359 393 827 103 45 13 
+player 521 draws a 505 from deck 521
+player 521 discards a 452 to deck 522
+player 521 current hand : 966 608 20 364 691 1000 301 495 219 751 713 712 692 359 393 827 103 45 13 505 
+player 521 draws a 839 from deck 521
+player 521 discards a 966 to deck 522
+player 521 current hand : 608 20 364 691 1000 301 495 219 751 713 712 692 359 393 827 103 45 13 505 839 
+player 521 draws a 341 from deck 521
+player 521 discards a 608 to deck 522
+player 521 current hand : 20 364 691 1000 301 495 219 751 713 712 692 359 393 827 103 45 13 505 839 341 
+player 521 draws a 222 from deck 521
+player 521 discards a 20 to deck 522
+player 521 current hand : 364 691 1000 301 495 219 751 713 712 692 359 393 827 103 45 13 505 839 341 222 
+player 521 draws a 866 from deck 521
+player 521 discards a 364 to deck 522
+player 521 current hand : 691 1000 301 495 219 751 713 712 692 359 393 827 103 45 13 505 839 341 222 866 
+player 521 draws a 135 from deck 521
+player 521 discards a 691 to deck 522
+player 521 current hand : 1000 301 495 219 751 713 712 692 359 393 827 103 45 13 505 839 341 222 866 135 
+player 521 draws a 909 from deck 521
+player 521 discards a 1000 to deck 522
+player 521 current hand : 301 495 219 751 713 712 692 359 393 827 103 45 13 505 839 341 222 866 135 909 
+player 521 draws a 763 from deck 521
+player 521 discards a 301 to deck 522
+player 521 current hand : 495 219 751 713 712 692 359 393 827 103 45 13 505 839 341 222 866 135 909 763 
+player 521 draws a 948 from deck 521
+player 521 discards a 495 to deck 522
+player 521 current hand : 219 751 713 712 692 359 393 827 103 45 13 505 839 341 222 866 135 909 763 948 
+player 521 draws a 644 from deck 521
+player 521 discards a 219 to deck 522
+player 521 current hand : 751 713 712 692 359 393 827 103 45 13 505 839 341 222 866 135 909 763 948 644 
+player 521 draws a 422 from deck 521
+player 521 discards a 751 to deck 522
+player 521 current hand : 713 712 692 359 393 827 103 45 13 505 839 341 222 866 135 909 763 948 644 422 
+player 521 draws a 623 from deck 521
+player 521 discards a 713 to deck 522
+player 521 current hand : 712 692 359 393 827 103 45 13 505 839 341 222 866 135 909 763 948 644 422 623 
+player 521 draws a 800 from deck 521
+player 521 discards a 712 to deck 522
+player 521 current hand : 692 359 393 827 103 45 13 505 839 341 222 866 135 909 763 948 644 422 623 800 
+player 521 draws a 384 from deck 521
+player 521 discards a 692 to deck 522
+player 521 current hand : 359 393 827 103 45 13 505 839 341 222 866 135 909 763 948 644 422 623 800 384 
+player 521 draws a 145 from deck 521
+player 521 discards a 359 to deck 522
+player 521 current hand : 393 827 103 45 13 505 839 341 222 866 135 909 763 948 644 422 623 800 384 145 
+player 521 draws a 764 from deck 521
+player 521 discards a 393 to deck 522
+player 521 current hand : 827 103 45 13 505 839 341 222 866 135 909 763 948 644 422 623 800 384 145 764 
+player 521 draws a 359 from deck 521
+player 521 discards a 827 to deck 522
+player 521 current hand : 103 45 13 505 839 341 222 866 135 909 763 948 644 422 623 800 384 145 764 359 
+player 521 draws a 488 from deck 521
+player 521 discards a 103 to deck 522
+player 521 current hand : 45 13 505 839 341 222 866 135 909 763 948 644 422 623 800 384 145 764 359 488 
+player 521 draws a 791 from deck 521
+player 521 discards a 45 to deck 522
+player 521 current hand : 13 505 839 341 222 866 135 909 763 948 644 422 623 800 384 145 764 359 488 791 
+player 521 draws a 771 from deck 521
+player 521 discards a 13 to deck 522
+player 521 current hand : 505 839 341 222 866 135 909 763 948 644 422 623 800 384 145 764 359 488 791 771 
+player 521 draws a 113 from deck 521
+player 521 discards a 505 to deck 522
+player 521 current hand : 839 341 222 866 135 909 763 948 644 422 623 800 384 145 764 359 488 791 771 113 
+player 521 draws a 583 from deck 521
+player 521 discards a 839 to deck 522
+player 521 current hand : 341 222 866 135 909 763 948 644 422 623 800 384 145 764 359 488 791 771 113 583 
+player 521 draws a 157 from deck 521
+player 521 discards a 341 to deck 522
+player 521 current hand : 222 866 135 909 763 948 644 422 623 800 384 145 764 359 488 791 771 113 583 157 
+player 521 draws a 188 from deck 521
+player 521 discards a 222 to deck 522
+player 521 current hand : 866 135 909 763 948 644 422 623 800 384 145 764 359 488 791 771 113 583 157 188 
+player 521 draws a 555 from deck 521
+player 521 discards a 866 to deck 522
+player 521 current hand : 135 909 763 948 644 422 623 800 384 145 764 359 488 791 771 113 583 157 188 555 
+player 521 draws a 922 from deck 521
+player 521 discards a 135 to deck 522
+player 521 current hand : 909 763 948 644 422 623 800 384 145 764 359 488 791 771 113 583 157 188 555 922 
+player 521 draws a 879 from deck 521
+player 521 discards a 909 to deck 522
+player 521 current hand : 763 948 644 422 623 800 384 145 764 359 488 791 771 113 583 157 188 555 922 879 
+player 521 draws a 875 from deck 521
+player 521 discards a 763 to deck 522
+player 521 current hand : 948 644 422 623 800 384 145 764 359 488 791 771 113 583 157 188 555 922 879 875 
+player 521 draws a 245 from deck 521
+player 521 discards a 948 to deck 522
+player 521 current hand : 644 422 623 800 384 145 764 359 488 791 771 113 583 157 188 555 922 879 875 245 
+player 521 draws a 467 from deck 521
+player 521 discards a 644 to deck 522
+player 521 current hand : 422 623 800 384 145 764 359 488 791 771 113 583 157 188 555 922 879 875 245 467 
+player 521 draws a 586 from deck 521
+player 521 discards a 422 to deck 522
+player 521 current hand : 623 800 384 145 764 359 488 791 771 113 583 157 188 555 922 879 875 245 467 586 
+player 521 draws a 862 from deck 521
+player 521 discards a 623 to deck 522
+player 521 current hand : 800 384 145 764 359 488 791 771 113 583 157 188 555 922 879 875 245 467 586 862 
+player 521 draws a 721 from deck 521
+player 521 discards a 800 to deck 522
+player 521 current hand : 384 145 764 359 488 791 771 113 583 157 188 555 922 879 875 245 467 586 862 721 
+player 521 draws a 285 from deck 521
+player 521 discards a 384 to deck 522
+player 521 current hand : 145 764 359 488 791 771 113 583 157 188 555 922 879 875 245 467 586 862 721 285 
+player 521 draws a 279 from deck 521
+player 521 discards a 145 to deck 522
+player 521 current hand : 764 359 488 791 771 113 583 157 188 555 922 879 875 245 467 586 862 721 285 279 
+player 521 draws a 446 from deck 521
+player 521 discards a 764 to deck 522
+player 521 current hand : 359 488 791 771 113 583 157 188 555 922 879 875 245 467 586 862 721 285 279 446 
+player 521 draws a 496 from deck 521
+player 521 discards a 359 to deck 522
+player 521 current hand : 488 791 771 113 583 157 188 555 922 879 875 245 467 586 862 721 285 279 446 496 
+player 521 draws a 399 from deck 521
+player 521 discards a 488 to deck 522
+player 521 current hand : 791 771 113 583 157 188 555 922 879 875 245 467 586 862 721 285 279 446 496 399 
+player 521 draws a 367 from deck 521
+player 521 discards a 791 to deck 522
+player 521 current hand : 771 113 583 157 188 555 922 879 875 245 467 586 862 721 285 279 446 496 399 367 
+player 521 draws a 991 from deck 521
+player 521 discards a 771 to deck 522
+player 521 current hand : 113 583 157 188 555 922 879 875 245 467 586 862 721 285 279 446 496 399 367 991 
+player 521 draws a 224 from deck 521
+player 521 discards a 113 to deck 522
+player 521 current hand : 583 157 188 555 922 879 875 245 467 586 862 721 285 279 446 496 399 367 991 224 
+player 521 draws a 951 from deck 521
+player 521 discards a 583 to deck 522
+player 521 current hand : 157 188 555 922 879 875 245 467 586 862 721 285 279 446 496 399 367 991 224 951 
+player 521 draws a 348 from deck 521
+player 521 discards a 157 to deck 522
+player 521 current hand : 188 555 922 879 875 245 467 586 862 721 285 279 446 496 399 367 991 224 951 348 
+player 521 draws a 947 from deck 521
+player 521 discards a 188 to deck 522
+player 521 current hand : 555 922 879 875 245 467 586 862 721 285 279 446 496 399 367 991 224 951 348 947 
+player 521 draws a 39 from deck 521
+player 521 discards a 555 to deck 522
+player 521 current hand : 922 879 875 245 467 586 862 721 285 279 446 496 399 367 991 224 951 348 947 39 
+player 521 draws a 70 from deck 521
+player 521 discards a 922 to deck 522
+player 521 current hand : 879 875 245 467 586 862 721 285 279 446 496 399 367 991 224 951 348 947 39 70 
+player 521 draws a 138 from deck 521
+player 521 discards a 879 to deck 522
+player 521 current hand : 875 245 467 586 862 721 285 279 446 496 399 367 991 224 951 348 947 39 70 138 
+player 521 draws a 721 from deck 521
+player 521 discards a 875 to deck 522
+player 521 current hand : 245 467 586 862 721 285 279 446 496 399 367 991 224 951 348 947 39 70 138 721 
+player 521 draws a 4 from deck 521
+player 521 discards a 245 to deck 522
+player 521 current hand : 467 586 862 721 285 279 446 496 399 367 991 224 951 348 947 39 70 138 721 4 
+player 521 draws a 360 from deck 521
+player 521 discards a 467 to deck 522
+player 521 current hand : 586 862 721 285 279 446 496 399 367 991 224 951 348 947 39 70 138 721 4 360 
+player 521 draws a 808 from deck 521
+player 521 discards a 586 to deck 522
+player 521 current hand : 862 721 285 279 446 496 399 367 991 224 951 348 947 39 70 138 721 4 360 808 
+player 521 draws a 466 from deck 521
+player 521 discards a 862 to deck 522
+player 521 current hand : 721 285 279 446 496 399 367 991 224 951 348 947 39 70 138 721 4 360 808 466 
+player 521 draws a 117 from deck 521
+player 521 discards a 721 to deck 522
+player 521 current hand : 285 279 446 496 399 367 991 224 951 348 947 39 70 138 721 4 360 808 466 117 
+player 521 draws a 886 from deck 521
+player 521 discards a 285 to deck 522
+player 521 current hand : 279 446 496 399 367 991 224 951 348 947 39 70 138 721 4 360 808 466 117 886 
+player 521 draws a 136 from deck 521
+player 521 discards a 279 to deck 522
+player 521 current hand : 446 496 399 367 991 224 951 348 947 39 70 138 721 4 360 808 466 117 886 136 
+player 521 draws a 571 from deck 521
+player 521 discards a 446 to deck 522
+player 521 current hand : 496 399 367 991 224 951 348 947 39 70 138 721 4 360 808 466 117 886 136 571 
+player 521 draws a 541 from deck 521
+player 521 discards a 496 to deck 522
+player 521 current hand : 399 367 991 224 951 348 947 39 70 138 721 4 360 808 466 117 886 136 571 541 
+player 521 draws a 233 from deck 521
+player 521 discards a 399 to deck 522
+player 521 current hand : 367 991 224 951 348 947 39 70 138 721 4 360 808 466 117 886 136 571 541 233 
+player 521 draws a 633 from deck 521
+player 521 discards a 367 to deck 522
+player 521 current hand : 991 224 951 348 947 39 70 138 721 4 360 808 466 117 886 136 571 541 233 633 
+player 521 draws a 511 from deck 521
+player 521 discards a 991 to deck 522
+player 521 current hand : 224 951 348 947 39 70 138 721 4 360 808 466 117 886 136 571 541 233 633 511 
+player 521 draws a 571 from deck 521
+player 521 discards a 224 to deck 522
+player 521 current hand : 951 348 947 39 70 138 721 4 360 808 466 117 886 136 571 541 233 633 511 571 
+player 521 draws a 838 from deck 521
+player 521 discards a 951 to deck 522
+player 521 current hand : 348 947 39 70 138 721 4 360 808 466 117 886 136 571 541 233 633 511 571 838 
+player 521 draws a 399 from deck 521
+player 521 discards a 348 to deck 522
+player 521 current hand : 947 39 70 138 721 4 360 808 466 117 886 136 571 541 233 633 511 571 838 399 
+player 521 draws a 153 from deck 521
+player 521 discards a 947 to deck 522
+player 521 current hand : 39 70 138 721 4 360 808 466 117 886 136 571 541 233 633 511 571 838 399 153 
+player 521 draws a 926 from deck 521
+player 521 discards a 39 to deck 522
+player 521 current hand : 70 138 721 4 360 808 466 117 886 136 571 541 233 633 511 571 838 399 153 926 
+player 521 draws a 262 from deck 521
+player 521 discards a 70 to deck 522
+player 521 current hand : 138 721 4 360 808 466 117 886 136 571 541 233 633 511 571 838 399 153 926 262 
+player 521 draws a 186 from deck 521
+player 521 discards a 138 to deck 522
+player 521 current hand : 721 4 360 808 466 117 886 136 571 541 233 633 511 571 838 399 153 926 262 186 
+player 521 draws a 196 from deck 521
+player 521 discards a 721 to deck 522
+player 521 current hand : 4 360 808 466 117 886 136 571 541 233 633 511 571 838 399 153 926 262 186 196 
+player 521 draws a 490 from deck 521
+player 521 discards a 4 to deck 522
+player 521 current hand : 360 808 466 117 886 136 571 541 233 633 511 571 838 399 153 926 262 186 196 490 
+player 521 draws a 296 from deck 521
+player 521 discards a 360 to deck 522
+player 521 current hand : 808 466 117 886 136 571 541 233 633 511 571 838 399 153 926 262 186 196 490 296 
+player 521 draws a 423 from deck 521
+player 521 discards a 808 to deck 522
+player 521 current hand : 466 117 886 136 571 541 233 633 511 571 838 399 153 926 262 186 196 490 296 423 
+player 521 draws a 462 from deck 521
+player 521 discards a 466 to deck 522
+player 521 current hand : 117 886 136 571 541 233 633 511 571 838 399 153 926 262 186 196 490 296 423 462 
+player 521 draws a 180 from deck 521
+player 521 discards a 117 to deck 522
+player 521 current hand : 886 136 571 541 233 633 511 571 838 399 153 926 262 186 196 490 296 423 462 180 
+player 521 draws a 429 from deck 521
+player 521 discards a 886 to deck 522
+player 521 current hand : 136 571 541 233 633 511 571 838 399 153 926 262 186 196 490 296 423 462 180 429 
+player 521 draws a 102 from deck 521
+player 521 discards a 136 to deck 522
+player 521 current hand : 571 541 233 633 511 571 838 399 153 926 262 186 196 490 296 423 462 180 429 102 
+player 521 draws a 513 from deck 521
+player 521 discards a 571 to deck 522
+player 521 current hand : 541 233 633 511 571 838 399 153 926 262 186 196 490 296 423 462 180 429 102 513 
+player 521 draws a 267 from deck 521
+player 521 discards a 541 to deck 522
+player 521 current hand : 233 633 511 571 838 399 153 926 262 186 196 490 296 423 462 180 429 102 513 267 
+player 521 draws a 562 from deck 521
+player 521 discards a 233 to deck 522
+player 521 current hand : 633 511 571 838 399 153 926 262 186 196 490 296 423 462 180 429 102 513 267 562 
+player 521 draws a 855 from deck 521
+player 521 discards a 633 to deck 522
+player 521 current hand : 511 571 838 399 153 926 262 186 196 490 296 423 462 180 429 102 513 267 562 855 
+player 521 draws a 272 from deck 521
+player 521 discards a 511 to deck 522
+player 521 current hand : 571 838 399 153 926 262 186 196 490 296 423 462 180 429 102 513 267 562 855 272 
+player 521 draws a 291 from deck 521
+player 521 discards a 571 to deck 522
+player 521 current hand : 838 399 153 926 262 186 196 490 296 423 462 180 429 102 513 267 562 855 272 291 
+player 521 draws a 265 from deck 521
+player 521 discards a 838 to deck 522
+player 521 current hand : 399 153 926 262 186 196 490 296 423 462 180 429 102 513 267 562 855 272 291 265 
+player 521 draws a 22 from deck 521
+player 521 discards a 399 to deck 522
+player 521 current hand : 153 926 262 186 196 490 296 423 462 180 429 102 513 267 562 855 272 291 265 22 
+player 521 draws a 724 from deck 521
+player 521 discards a 153 to deck 522
+player 521 current hand : 926 262 186 196 490 296 423 462 180 429 102 513 267 562 855 272 291 265 22 724 
+player 521 draws a 223 from deck 521
+player 521 discards a 926 to deck 522
+player 521 current hand : 262 186 196 490 296 423 462 180 429 102 513 267 562 855 272 291 265 22 724 223 
+player 521 draws a 62 from deck 521
+player 521 discards a 262 to deck 522
+player 521 current hand : 186 196 490 296 423 462 180 429 102 513 267 562 855 272 291 265 22 724 223 62 
+player 521 draws a 604 from deck 521
+player 521 discards a 186 to deck 522
+player 521 current hand : 196 490 296 423 462 180 429 102 513 267 562 855 272 291 265 22 724 223 62 604 
+player 521 draws a 758 from deck 521
+player 521 discards a 196 to deck 522
+player 521 current hand : 490 296 423 462 180 429 102 513 267 562 855 272 291 265 22 724 223 62 604 758 
+player 521 draws a 791 from deck 521
+player 521 discards a 490 to deck 522
+player 521 current hand : 296 423 462 180 429 102 513 267 562 855 272 291 265 22 724 223 62 604 758 791 
+player 521 draws a 256 from deck 521
+player 521 discards a 296 to deck 522
+player 521 current hand : 423 462 180 429 102 513 267 562 855 272 291 265 22 724 223 62 604 758 791 256 
+player 521 draws a 86 from deck 521
+player 521 discards a 423 to deck 522
+player 521 current hand : 462 180 429 102 513 267 562 855 272 291 265 22 724 223 62 604 758 791 256 86 
+player 521 draws a 303 from deck 521
+player 521 discards a 462 to deck 522
+player 521 current hand : 180 429 102 513 267 562 855 272 291 265 22 724 223 62 604 758 791 256 86 303 
+player 521 draws a 917 from deck 521
+player 521 discards a 180 to deck 522
+player 521 current hand : 429 102 513 267 562 855 272 291 265 22 724 223 62 604 758 791 256 86 303 917 
+player 521 draws a 178 from deck 521
+player 521 discards a 429 to deck 522
+player 521 current hand : 102 513 267 562 855 272 291 265 22 724 223 62 604 758 791 256 86 303 917 178 
+player 521 draws a 499 from deck 521
+player 521 discards a 102 to deck 522
+player 521 current hand : 513 267 562 855 272 291 265 22 724 223 62 604 758 791 256 86 303 917 178 499 
+player 521 draws a 227 from deck 521
+player 521 discards a 513 to deck 522
+player 521 current hand : 267 562 855 272 291 265 22 724 223 62 604 758 791 256 86 303 917 178 499 227 

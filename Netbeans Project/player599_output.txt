@@ -1,0 +1,307 @@
+player 599 initial hand 513 13 741 374 973 19 222 65 613 334 675 852 117 872 568 377 111 845 602 392 
+player 599 draws a 473 from deck 599
+player 599 discards a 513 to deck 600
+player 599 current hand : 13 741 374 973 19 222 65 613 334 675 852 117 872 568 377 111 845 602 392 473 
+player 599 draws a 562 from deck 599
+player 599 discards a 13 to deck 600
+player 599 current hand : 741 374 973 19 222 65 613 334 675 852 117 872 568 377 111 845 602 392 473 562 
+player 599 draws a 860 from deck 599
+player 599 discards a 741 to deck 600
+player 599 current hand : 374 973 19 222 65 613 334 675 852 117 872 568 377 111 845 602 392 473 562 860 
+player 599 draws a 819 from deck 599
+player 599 discards a 374 to deck 600
+player 599 current hand : 973 19 222 65 613 334 675 852 117 872 568 377 111 845 602 392 473 562 860 819 
+player 599 draws a 478 from deck 599
+player 599 discards a 973 to deck 600
+player 599 current hand : 19 222 65 613 334 675 852 117 872 568 377 111 845 602 392 473 562 860 819 478 
+player 599 draws a 499 from deck 599
+player 599 discards a 19 to deck 600
+player 599 current hand : 222 65 613 334 675 852 117 872 568 377 111 845 602 392 473 562 860 819 478 499 
+player 599 draws a 730 from deck 599
+player 599 discards a 222 to deck 600
+player 599 current hand : 65 613 334 675 852 117 872 568 377 111 845 602 392 473 562 860 819 478 499 730 
+player 599 draws a 563 from deck 599
+player 599 discards a 65 to deck 600
+player 599 current hand : 613 334 675 852 117 872 568 377 111 845 602 392 473 562 860 819 478 499 730 563 
+player 599 draws a 294 from deck 599
+player 599 discards a 613 to deck 600
+player 599 current hand : 334 675 852 117 872 568 377 111 845 602 392 473 562 860 819 478 499 730 563 294 
+player 599 draws a 509 from deck 599
+player 599 discards a 334 to deck 600
+player 599 current hand : 675 852 117 872 568 377 111 845 602 392 473 562 860 819 478 499 730 563 294 509 
+player 599 draws a 209 from deck 599
+player 599 discards a 675 to deck 600
+player 599 current hand : 852 117 872 568 377 111 845 602 392 473 562 860 819 478 499 730 563 294 509 209 
+player 599 draws a 910 from deck 599
+player 599 discards a 852 to deck 600
+player 599 current hand : 117 872 568 377 111 845 602 392 473 562 860 819 478 499 730 563 294 509 209 910 
+player 599 draws a 470 from deck 599
+player 599 discards a 117 to deck 600
+player 599 current hand : 872 568 377 111 845 602 392 473 562 860 819 478 499 730 563 294 509 209 910 470 
+player 599 draws a 112 from deck 599
+player 599 discards a 872 to deck 600
+player 599 current hand : 568 377 111 845 602 392 473 562 860 819 478 499 730 563 294 509 209 910 470 112 
+player 599 draws a 765 from deck 599
+player 599 discards a 568 to deck 600
+player 599 current hand : 377 111 845 602 392 473 562 860 819 478 499 730 563 294 509 209 910 470 112 765 
+player 599 draws a 816 from deck 599
+player 599 discards a 377 to deck 600
+player 599 current hand : 111 845 602 392 473 562 860 819 478 499 730 563 294 509 209 910 470 112 765 816 
+player 599 draws a 753 from deck 599
+player 599 discards a 111 to deck 600
+player 599 current hand : 845 602 392 473 562 860 819 478 499 730 563 294 509 209 910 470 112 765 816 753 
+player 599 draws a 875 from deck 599
+player 599 discards a 845 to deck 600
+player 599 current hand : 602 392 473 562 860 819 478 499 730 563 294 509 209 910 470 112 765 816 753 875 
+player 599 draws a 902 from deck 599
+player 599 discards a 602 to deck 600
+player 599 current hand : 392 473 562 860 819 478 499 730 563 294 509 209 910 470 112 765 816 753 875 902 
+player 599 draws a 594 from deck 599
+player 599 discards a 392 to deck 600
+player 599 current hand : 473 562 860 819 478 499 730 563 294 509 209 910 470 112 765 816 753 875 902 594 
+player 599 draws a 630 from deck 599
+player 599 discards a 473 to deck 600
+player 599 current hand : 562 860 819 478 499 730 563 294 509 209 910 470 112 765 816 753 875 902 594 630 
+player 599 draws a 286 from deck 599
+player 599 discards a 562 to deck 600
+player 599 current hand : 860 819 478 499 730 563 294 509 209 910 470 112 765 816 753 875 902 594 630 286 
+player 599 draws a 755 from deck 599
+player 599 discards a 860 to deck 600
+player 599 current hand : 819 478 499 730 563 294 509 209 910 470 112 765 816 753 875 902 594 630 286 755 
+player 599 draws a 378 from deck 599
+player 599 discards a 819 to deck 600
+player 599 current hand : 478 499 730 563 294 509 209 910 470 112 765 816 753 875 902 594 630 286 755 378 
+player 599 draws a 186 from deck 599
+player 599 discards a 478 to deck 600
+player 599 current hand : 499 730 563 294 509 209 910 470 112 765 816 753 875 902 594 630 286 755 378 186 
+player 599 draws a 829 from deck 599
+player 599 discards a 499 to deck 600
+player 599 current hand : 730 563 294 509 209 910 470 112 765 816 753 875 902 594 630 286 755 378 186 829 
+player 599 draws a 824 from deck 599
+player 599 discards a 730 to deck 600
+player 599 current hand : 563 294 509 209 910 470 112 765 816 753 875 902 594 630 286 755 378 186 829 824 
+player 599 draws a 732 from deck 599
+player 599 discards a 563 to deck 600
+player 599 current hand : 294 509 209 910 470 112 765 816 753 875 902 594 630 286 755 378 186 829 824 732 
+player 599 draws a 297 from deck 599
+player 599 discards a 294 to deck 600
+player 599 current hand : 509 209 910 470 112 765 816 753 875 902 594 630 286 755 378 186 829 824 732 297 
+player 599 draws a 787 from deck 599
+player 599 discards a 509 to deck 600
+player 599 current hand : 209 910 470 112 765 816 753 875 902 594 630 286 755 378 186 829 824 732 297 787 
+player 599 draws a 659 from deck 599
+player 599 discards a 209 to deck 600
+player 599 current hand : 910 470 112 765 816 753 875 902 594 630 286 755 378 186 829 824 732 297 787 659 
+player 599 draws a 794 from deck 599
+player 599 discards a 910 to deck 600
+player 599 current hand : 470 112 765 816 753 875 902 594 630 286 755 378 186 829 824 732 297 787 659 794 
+player 599 draws a 928 from deck 599
+player 599 discards a 470 to deck 600
+player 599 current hand : 112 765 816 753 875 902 594 630 286 755 378 186 829 824 732 297 787 659 794 928 
+player 599 draws a 879 from deck 599
+player 599 discards a 112 to deck 600
+player 599 current hand : 765 816 753 875 902 594 630 286 755 378 186 829 824 732 297 787 659 794 928 879 
+player 599 draws a 685 from deck 599
+player 599 discards a 765 to deck 600
+player 599 current hand : 816 753 875 902 594 630 286 755 378 186 829 824 732 297 787 659 794 928 879 685 
+player 599 draws a 146 from deck 599
+player 599 discards a 816 to deck 600
+player 599 current hand : 753 875 902 594 630 286 755 378 186 829 824 732 297 787 659 794 928 879 685 146 
+player 599 draws a 599 from deck 599
+player 599 discards a 753 to deck 600
+player 599 current hand : 875 902 594 630 286 755 378 186 829 824 732 297 787 659 794 928 879 685 146 599 
+player 599 draws a 500 from deck 599
+player 599 discards a 875 to deck 600
+player 599 current hand : 902 594 630 286 755 378 186 829 824 732 297 787 659 794 928 879 685 146 599 500 
+player 599 draws a 941 from deck 599
+player 599 discards a 902 to deck 600
+player 599 current hand : 594 630 286 755 378 186 829 824 732 297 787 659 794 928 879 685 146 599 500 941 
+player 599 draws a 862 from deck 599
+player 599 discards a 594 to deck 600
+player 599 current hand : 630 286 755 378 186 829 824 732 297 787 659 794 928 879 685 146 599 500 941 862 
+player 599 draws a 578 from deck 599
+player 599 discards a 630 to deck 600
+player 599 current hand : 286 755 378 186 829 824 732 297 787 659 794 928 879 685 146 599 500 941 862 578 
+player 599 draws a 635 from deck 599
+player 599 discards a 286 to deck 600
+player 599 current hand : 755 378 186 829 824 732 297 787 659 794 928 879 685 146 599 500 941 862 578 635 
+player 599 draws a 279 from deck 599
+player 599 discards a 755 to deck 600
+player 599 current hand : 378 186 829 824 732 297 787 659 794 928 879 685 146 599 500 941 862 578 635 279 
+player 599 draws a 556 from deck 599
+player 599 discards a 378 to deck 600
+player 599 current hand : 186 829 824 732 297 787 659 794 928 879 685 146 599 500 941 862 578 635 279 556 
+player 599 draws a 16 from deck 599
+player 599 discards a 186 to deck 600
+player 599 current hand : 829 824 732 297 787 659 794 928 879 685 146 599 500 941 862 578 635 279 556 16 
+player 599 draws a 578 from deck 599
+player 599 discards a 829 to deck 600
+player 599 current hand : 824 732 297 787 659 794 928 879 685 146 599 500 941 862 578 635 279 556 16 578 
+player 599 draws a 186 from deck 599
+player 599 discards a 824 to deck 600
+player 599 current hand : 732 297 787 659 794 928 879 685 146 599 500 941 862 578 635 279 556 16 578 186 
+player 599 draws a 707 from deck 599
+player 599 discards a 732 to deck 600
+player 599 current hand : 297 787 659 794 928 879 685 146 599 500 941 862 578 635 279 556 16 578 186 707 
+player 599 draws a 457 from deck 599
+player 599 discards a 297 to deck 600
+player 599 current hand : 787 659 794 928 879 685 146 599 500 941 862 578 635 279 556 16 578 186 707 457 
+player 599 draws a 266 from deck 599
+player 599 discards a 787 to deck 600
+player 599 current hand : 659 794 928 879 685 146 599 500 941 862 578 635 279 556 16 578 186 707 457 266 
+player 599 draws a 357 from deck 599
+player 599 discards a 659 to deck 600
+player 599 current hand : 794 928 879 685 146 599 500 941 862 578 635 279 556 16 578 186 707 457 266 357 
+player 599 draws a 926 from deck 599
+player 599 discards a 794 to deck 600
+player 599 current hand : 928 879 685 146 599 500 941 862 578 635 279 556 16 578 186 707 457 266 357 926 
+player 599 draws a 612 from deck 599
+player 599 discards a 928 to deck 600
+player 599 current hand : 879 685 146 599 500 941 862 578 635 279 556 16 578 186 707 457 266 357 926 612 
+player 599 draws a 818 from deck 599
+player 599 discards a 879 to deck 600
+player 599 current hand : 685 146 599 500 941 862 578 635 279 556 16 578 186 707 457 266 357 926 612 818 
+player 599 draws a 525 from deck 599
+player 599 discards a 685 to deck 600
+player 599 current hand : 146 599 500 941 862 578 635 279 556 16 578 186 707 457 266 357 926 612 818 525 
+player 599 draws a 160 from deck 599
+player 599 discards a 146 to deck 600
+player 599 current hand : 599 500 941 862 578 635 279 556 16 578 186 707 457 266 357 926 612 818 525 160 
+player 599 draws a 936 from deck 599
+player 599 discards a 500 to deck 600
+player 599 current hand : 599 941 862 578 635 279 556 16 578 186 707 457 266 357 926 612 818 525 160 936 
+player 599 draws a 497 from deck 599
+player 599 discards a 941 to deck 600
+player 599 current hand : 599 862 578 635 279 556 16 578 186 707 457 266 357 926 612 818 525 160 936 497 
+player 599 draws a 635 from deck 599
+player 599 discards a 862 to deck 600
+player 599 current hand : 599 578 635 279 556 16 578 186 707 457 266 357 926 612 818 525 160 936 497 635 
+player 599 draws a 809 from deck 599
+player 599 discards a 578 to deck 600
+player 599 current hand : 599 635 279 556 16 578 186 707 457 266 357 926 612 818 525 160 936 497 635 809 
+player 599 draws a 120 from deck 599
+player 599 discards a 635 to deck 600
+player 599 current hand : 599 279 556 16 578 186 707 457 266 357 926 612 818 525 160 936 497 635 809 120 
+player 599 draws a 122 from deck 599
+player 599 discards a 279 to deck 600
+player 599 current hand : 599 556 16 578 186 707 457 266 357 926 612 818 525 160 936 497 635 809 120 122 
+player 599 draws a 188 from deck 599
+player 599 discards a 556 to deck 600
+player 599 current hand : 599 16 578 186 707 457 266 357 926 612 818 525 160 936 497 635 809 120 122 188 
+player 599 draws a 865 from deck 599
+player 599 discards a 16 to deck 600
+player 599 current hand : 599 578 186 707 457 266 357 926 612 818 525 160 936 497 635 809 120 122 188 865 
+player 599 draws a 558 from deck 599
+player 599 discards a 578 to deck 600
+player 599 current hand : 599 186 707 457 266 357 926 612 818 525 160 936 497 635 809 120 122 188 865 558 
+player 599 draws a 690 from deck 599
+player 599 discards a 186 to deck 600
+player 599 current hand : 599 707 457 266 357 926 612 818 525 160 936 497 635 809 120 122 188 865 558 690 
+player 599 draws a 744 from deck 599
+player 599 discards a 707 to deck 600
+player 599 current hand : 599 457 266 357 926 612 818 525 160 936 497 635 809 120 122 188 865 558 690 744 
+player 599 draws a 546 from deck 599
+player 599 discards a 457 to deck 600
+player 599 current hand : 599 266 357 926 612 818 525 160 936 497 635 809 120 122 188 865 558 690 744 546 
+player 599 draws a 691 from deck 599
+player 599 discards a 266 to deck 600
+player 599 current hand : 599 357 926 612 818 525 160 936 497 635 809 120 122 188 865 558 690 744 546 691 
+player 599 draws a 415 from deck 599
+player 599 discards a 357 to deck 600
+player 599 current hand : 599 926 612 818 525 160 936 497 635 809 120 122 188 865 558 690 744 546 691 415 
+player 599 draws a 518 from deck 599
+player 599 discards a 926 to deck 600
+player 599 current hand : 599 612 818 525 160 936 497 635 809 120 122 188 865 558 690 744 546 691 415 518 
+player 599 draws a 971 from deck 599
+player 599 discards a 612 to deck 600
+player 599 current hand : 599 818 525 160 936 497 635 809 120 122 188 865 558 690 744 546 691 415 518 971 
+player 599 draws a 84 from deck 599
+player 599 discards a 818 to deck 600
+player 599 current hand : 599 525 160 936 497 635 809 120 122 188 865 558 690 744 546 691 415 518 971 84 
+player 599 draws a 546 from deck 599
+player 599 discards a 525 to deck 600
+player 599 current hand : 599 160 936 497 635 809 120 122 188 865 558 690 744 546 691 415 518 971 84 546 
+player 599 draws a 169 from deck 599
+player 599 discards a 160 to deck 600
+player 599 current hand : 599 936 497 635 809 120 122 188 865 558 690 744 546 691 415 518 971 84 546 169 
+player 599 draws a 636 from deck 599
+player 599 discards a 936 to deck 600
+player 599 current hand : 599 497 635 809 120 122 188 865 558 690 744 546 691 415 518 971 84 546 169 636 
+player 599 draws a 668 from deck 599
+player 599 discards a 497 to deck 600
+player 599 current hand : 599 635 809 120 122 188 865 558 690 744 546 691 415 518 971 84 546 169 636 668 
+player 599 draws a 539 from deck 599
+player 599 discards a 635 to deck 600
+player 599 current hand : 599 809 120 122 188 865 558 690 744 546 691 415 518 971 84 546 169 636 668 539 
+player 599 draws a 796 from deck 599
+player 599 discards a 809 to deck 600
+player 599 current hand : 599 120 122 188 865 558 690 744 546 691 415 518 971 84 546 169 636 668 539 796 
+player 599 draws a 1000 from deck 599
+player 599 discards a 120 to deck 600
+player 599 current hand : 599 122 188 865 558 690 744 546 691 415 518 971 84 546 169 636 668 539 796 1000 
+player 599 draws a 369 from deck 599
+player 599 discards a 122 to deck 600
+player 599 current hand : 599 188 865 558 690 744 546 691 415 518 971 84 546 169 636 668 539 796 1000 369 
+player 599 draws a 153 from deck 599
+player 599 discards a 188 to deck 600
+player 599 current hand : 599 865 558 690 744 546 691 415 518 971 84 546 169 636 668 539 796 1000 369 153 
+player 599 draws a 947 from deck 599
+player 599 discards a 865 to deck 600
+player 599 current hand : 599 558 690 744 546 691 415 518 971 84 546 169 636 668 539 796 1000 369 153 947 
+player 599 draws a 188 from deck 599
+player 599 discards a 558 to deck 600
+player 599 current hand : 599 690 744 546 691 415 518 971 84 546 169 636 668 539 796 1000 369 153 947 188 
+player 599 draws a 852 from deck 599
+player 599 discards a 690 to deck 600
+player 599 current hand : 599 744 546 691 415 518 971 84 546 169 636 668 539 796 1000 369 153 947 188 852 
+player 599 draws a 989 from deck 599
+player 599 discards a 744 to deck 600
+player 599 current hand : 599 546 691 415 518 971 84 546 169 636 668 539 796 1000 369 153 947 188 852 989 
+player 599 draws a 29 from deck 599
+player 599 discards a 546 to deck 600
+player 599 current hand : 599 691 415 518 971 84 546 169 636 668 539 796 1000 369 153 947 188 852 989 29 
+player 599 draws a 975 from deck 599
+player 599 discards a 691 to deck 600
+player 599 current hand : 599 415 518 971 84 546 169 636 668 539 796 1000 369 153 947 188 852 989 29 975 
+player 599 draws a 415 from deck 599
+player 599 discards a 415 to deck 600
+player 599 current hand : 599 518 971 84 546 169 636 668 539 796 1000 369 153 947 188 852 989 29 975 415 
+player 599 draws a 114 from deck 599
+player 599 discards a 518 to deck 600
+player 599 current hand : 599 971 84 546 169 636 668 539 796 1000 369 153 947 188 852 989 29 975 415 114 
+player 599 draws a 696 from deck 599
+player 599 discards a 971 to deck 600
+player 599 current hand : 599 84 546 169 636 668 539 796 1000 369 153 947 188 852 989 29 975 415 114 696 
+player 599 draws a 377 from deck 599
+player 599 discards a 84 to deck 600
+player 599 current hand : 599 546 169 636 668 539 796 1000 369 153 947 188 852 989 29 975 415 114 696 377 
+player 599 draws a 357 from deck 599
+player 599 discards a 546 to deck 600
+player 599 current hand : 599 169 636 668 539 796 1000 369 153 947 188 852 989 29 975 415 114 696 377 357 
+player 599 draws a 19 from deck 599
+player 599 discards a 169 to deck 600
+player 599 current hand : 599 636 668 539 796 1000 369 153 947 188 852 989 29 975 415 114 696 377 357 19 
+player 599 draws a 732 from deck 599
+player 599 discards a 636 to deck 600
+player 599 current hand : 599 668 539 796 1000 369 153 947 188 852 989 29 975 415 114 696 377 357 19 732 
+player 599 draws a 902 from deck 599
+player 599 discards a 668 to deck 600
+player 599 current hand : 599 539 796 1000 369 153 947 188 852 989 29 975 415 114 696 377 357 19 732 902 
+player 599 draws a 248 from deck 599
+player 599 discards a 539 to deck 600
+player 599 current hand : 599 796 1000 369 153 947 188 852 989 29 975 415 114 696 377 357 19 732 902 248 
+player 599 draws a 867 from deck 599
+player 599 discards a 796 to deck 600
+player 599 current hand : 599 1000 369 153 947 188 852 989 29 975 415 114 696 377 357 19 732 902 248 867 
+player 599 draws a 585 from deck 599
+player 599 discards a 1000 to deck 600
+player 599 current hand : 599 369 153 947 188 852 989 29 975 415 114 696 377 357 19 732 902 248 867 585 
+player 599 draws a 4 from deck 599
+player 599 discards a 369 to deck 600
+player 599 current hand : 599 153 947 188 852 989 29 975 415 114 696 377 357 19 732 902 248 867 585 4 
+player 599 draws a 360 from deck 599
+player 599 discards a 153 to deck 600
+player 599 current hand : 599 947 188 852 989 29 975 415 114 696 377 357 19 732 902 248 867 585 4 360 
+player 599 draws a 581 from deck 599
+player 599 discards a 947 to deck 600
+player 599 current hand : 599 188 852 989 29 975 415 114 696 377 357 19 732 902 248 867 585 4 360 581 

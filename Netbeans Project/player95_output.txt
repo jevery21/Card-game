@@ -1,0 +1,317 @@
+player 95 initial hand 834 384 608 975 11 74 205 636 81 168 769 309 747 797 736 365 942 949 482 673 
+player 95 draws a 993 from deck 95
+player 95 discards a 834 to deck 96
+player 95 current hand : 384 608 975 11 74 205 636 81 168 769 309 747 797 736 365 942 949 482 673 993 
+player 95 draws a 15 from deck 95
+player 95 discards a 384 to deck 96
+player 95 current hand : 608 975 11 74 205 636 81 168 769 309 747 797 736 365 942 949 482 673 993 15 
+player 95 draws a 480 from deck 95
+player 95 discards a 608 to deck 96
+player 95 current hand : 975 11 74 205 636 81 168 769 309 747 797 736 365 942 949 482 673 993 15 480 
+player 95 draws a 351 from deck 95
+player 95 discards a 975 to deck 96
+player 95 current hand : 11 74 205 636 81 168 769 309 747 797 736 365 942 949 482 673 993 15 480 351 
+player 95 draws a 840 from deck 95
+player 95 discards a 11 to deck 96
+player 95 current hand : 74 205 636 81 168 769 309 747 797 736 365 942 949 482 673 993 15 480 351 840 
+player 95 draws a 774 from deck 95
+player 95 discards a 74 to deck 96
+player 95 current hand : 205 636 81 168 769 309 747 797 736 365 942 949 482 673 993 15 480 351 840 774 
+player 95 draws a 589 from deck 95
+player 95 discards a 205 to deck 96
+player 95 current hand : 636 81 168 769 309 747 797 736 365 942 949 482 673 993 15 480 351 840 774 589 
+player 95 draws a 13 from deck 95
+player 95 discards a 636 to deck 96
+player 95 current hand : 81 168 769 309 747 797 736 365 942 949 482 673 993 15 480 351 840 774 589 13 
+player 95 draws a 986 from deck 95
+player 95 discards a 81 to deck 96
+player 95 current hand : 168 769 309 747 797 736 365 942 949 482 673 993 15 480 351 840 774 589 13 986 
+player 95 draws a 384 from deck 95
+player 95 discards a 168 to deck 96
+player 95 current hand : 769 309 747 797 736 365 942 949 482 673 993 15 480 351 840 774 589 13 986 384 
+player 95 draws a 947 from deck 95
+player 95 discards a 769 to deck 96
+player 95 current hand : 309 747 797 736 365 942 949 482 673 993 15 480 351 840 774 589 13 986 384 947 
+player 95 draws a 957 from deck 95
+player 95 discards a 309 to deck 96
+player 95 current hand : 747 797 736 365 942 949 482 673 993 15 480 351 840 774 589 13 986 384 947 957 
+player 95 draws a 223 from deck 95
+player 95 discards a 747 to deck 96
+player 95 current hand : 797 736 365 942 949 482 673 993 15 480 351 840 774 589 13 986 384 947 957 223 
+player 95 draws a 482 from deck 95
+player 95 discards a 797 to deck 96
+player 95 current hand : 736 365 942 949 482 673 993 15 480 351 840 774 589 13 986 384 947 957 223 482 
+player 95 draws a 272 from deck 95
+player 95 discards a 736 to deck 96
+player 95 current hand : 365 942 949 482 673 993 15 480 351 840 774 589 13 986 384 947 957 223 482 272 
+player 95 draws a 238 from deck 95
+player 95 discards a 365 to deck 96
+player 95 current hand : 942 949 482 673 993 15 480 351 840 774 589 13 986 384 947 957 223 482 272 238 
+player 95 draws a 336 from deck 95
+player 95 discards a 942 to deck 96
+player 95 current hand : 949 482 673 993 15 480 351 840 774 589 13 986 384 947 957 223 482 272 238 336 
+player 95 draws a 695 from deck 95
+player 95 discards a 949 to deck 96
+player 95 current hand : 482 673 993 15 480 351 840 774 589 13 986 384 947 957 223 482 272 238 336 695 
+player 95 draws a 153 from deck 95
+player 95 discards a 482 to deck 96
+player 95 current hand : 673 993 15 480 351 840 774 589 13 986 384 947 957 223 482 272 238 336 695 153 
+player 95 draws a 655 from deck 95
+player 95 discards a 673 to deck 96
+player 95 current hand : 993 15 480 351 840 774 589 13 986 384 947 957 223 482 272 238 336 695 153 655 
+player 95 draws a 24 from deck 95
+player 95 discards a 993 to deck 96
+player 95 current hand : 15 480 351 840 774 589 13 986 384 947 957 223 482 272 238 336 695 153 655 24 
+player 95 draws a 241 from deck 95
+player 95 discards a 15 to deck 96
+player 95 current hand : 480 351 840 774 589 13 986 384 947 957 223 482 272 238 336 695 153 655 24 241 
+player 95 draws a 894 from deck 95
+player 95 discards a 480 to deck 96
+player 95 current hand : 351 840 774 589 13 986 384 947 957 223 482 272 238 336 695 153 655 24 241 894 
+player 95 draws a 204 from deck 95
+player 95 discards a 351 to deck 96
+player 95 current hand : 840 774 589 13 986 384 947 957 223 482 272 238 336 695 153 655 24 241 894 204 
+player 95 draws a 222 from deck 95
+player 95 discards a 840 to deck 96
+player 95 current hand : 774 589 13 986 384 947 957 223 482 272 238 336 695 153 655 24 241 894 204 222 
+player 95 draws a 337 from deck 95
+player 95 discards a 774 to deck 96
+player 95 current hand : 589 13 986 384 947 957 223 482 272 238 336 695 153 655 24 241 894 204 222 337 
+player 95 draws a 900 from deck 95
+player 95 discards a 589 to deck 96
+player 95 current hand : 13 986 384 947 957 223 482 272 238 336 695 153 655 24 241 894 204 222 337 900 
+player 95 draws a 248 from deck 95
+player 95 discards a 13 to deck 96
+player 95 current hand : 986 384 947 957 223 482 272 238 336 695 153 655 24 241 894 204 222 337 900 248 
+player 95 draws a 173 from deck 95
+player 95 discards a 986 to deck 96
+player 95 current hand : 384 947 957 223 482 272 238 336 695 153 655 24 241 894 204 222 337 900 248 173 
+player 95 draws a 24 from deck 95
+player 95 discards a 384 to deck 96
+player 95 current hand : 947 957 223 482 272 238 336 695 153 655 24 241 894 204 222 337 900 248 173 24 
+player 95 draws a 600 from deck 95
+player 95 discards a 947 to deck 96
+player 95 current hand : 957 223 482 272 238 336 695 153 655 24 241 894 204 222 337 900 248 173 24 600 
+player 95 draws a 680 from deck 95
+player 95 discards a 957 to deck 96
+player 95 current hand : 223 482 272 238 336 695 153 655 24 241 894 204 222 337 900 248 173 24 600 680 
+player 95 draws a 835 from deck 95
+player 95 discards a 223 to deck 96
+player 95 current hand : 482 272 238 336 695 153 655 24 241 894 204 222 337 900 248 173 24 600 680 835 
+player 95 draws a 36 from deck 95
+player 95 discards a 482 to deck 96
+player 95 current hand : 272 238 336 695 153 655 24 241 894 204 222 337 900 248 173 24 600 680 835 36 
+player 95 draws a 570 from deck 95
+player 95 discards a 272 to deck 96
+player 95 current hand : 238 336 695 153 655 24 241 894 204 222 337 900 248 173 24 600 680 835 36 570 
+player 95 draws a 649 from deck 95
+player 95 discards a 238 to deck 96
+player 95 current hand : 336 695 153 655 24 241 894 204 222 337 900 248 173 24 600 680 835 36 570 649 
+player 95 draws a 864 from deck 95
+player 95 discards a 336 to deck 96
+player 95 current hand : 695 153 655 24 241 894 204 222 337 900 248 173 24 600 680 835 36 570 649 864 
+player 95 draws a 734 from deck 95
+player 95 discards a 695 to deck 96
+player 95 current hand : 153 655 24 241 894 204 222 337 900 248 173 24 600 680 835 36 570 649 864 734 
+player 95 draws a 686 from deck 95
+player 95 discards a 153 to deck 96
+player 95 current hand : 655 24 241 894 204 222 337 900 248 173 24 600 680 835 36 570 649 864 734 686 
+player 95 draws a 482 from deck 95
+player 95 discards a 655 to deck 96
+player 95 current hand : 24 241 894 204 222 337 900 248 173 24 600 680 835 36 570 649 864 734 686 482 
+player 95 draws a 409 from deck 95
+player 95 discards a 24 to deck 96
+player 95 current hand : 241 894 204 222 337 900 248 173 24 600 680 835 36 570 649 864 734 686 482 409 
+player 95 draws a 92 from deck 95
+player 95 discards a 241 to deck 96
+player 95 current hand : 894 204 222 337 900 248 173 24 600 680 835 36 570 649 864 734 686 482 409 92 
+player 95 draws a 696 from deck 95
+player 95 discards a 894 to deck 96
+player 95 current hand : 204 222 337 900 248 173 24 600 680 835 36 570 649 864 734 686 482 409 92 696 
+player 95 draws a 4 from deck 95
+player 95 discards a 204 to deck 96
+player 95 current hand : 222 337 900 248 173 24 600 680 835 36 570 649 864 734 686 482 409 92 696 4 
+player 95 draws a 522 from deck 95
+player 95 discards a 222 to deck 96
+player 95 current hand : 337 900 248 173 24 600 680 835 36 570 649 864 734 686 482 409 92 696 4 522 
+player 95 draws a 797 from deck 95
+player 95 discards a 337 to deck 96
+player 95 current hand : 900 248 173 24 600 680 835 36 570 649 864 734 686 482 409 92 696 4 522 797 
+player 95 draws a 768 from deck 95
+player 95 discards a 900 to deck 96
+player 95 current hand : 248 173 24 600 680 835 36 570 649 864 734 686 482 409 92 696 4 522 797 768 
+player 95 draws a 422 from deck 95
+player 95 discards a 248 to deck 96
+player 95 current hand : 173 24 600 680 835 36 570 649 864 734 686 482 409 92 696 4 522 797 768 422 
+player 95 draws a 818 from deck 95
+player 95 discards a 173 to deck 96
+player 95 current hand : 24 600 680 835 36 570 649 864 734 686 482 409 92 696 4 522 797 768 422 818 
+player 95 draws a 189 from deck 95
+player 95 discards a 24 to deck 96
+player 95 current hand : 600 680 835 36 570 649 864 734 686 482 409 92 696 4 522 797 768 422 818 189 
+player 95 draws a 853 from deck 95
+player 95 discards a 600 to deck 96
+player 95 current hand : 680 835 36 570 649 864 734 686 482 409 92 696 4 522 797 768 422 818 189 853 
+player 95 draws a 768 from deck 95
+player 95 discards a 680 to deck 96
+player 95 current hand : 835 36 570 649 864 734 686 482 409 92 696 4 522 797 768 422 818 189 853 768 
+player 95 draws a 957 from deck 95
+player 95 discards a 835 to deck 96
+player 95 current hand : 36 570 649 864 734 686 482 409 92 696 4 522 797 768 422 818 189 853 768 957 
+player 95 draws a 751 from deck 95
+player 95 discards a 36 to deck 96
+player 95 current hand : 570 649 864 734 686 482 409 92 696 4 522 797 768 422 818 189 853 768 957 751 
+player 95 draws a 514 from deck 95
+player 95 discards a 570 to deck 96
+player 95 current hand : 649 864 734 686 482 409 92 696 4 522 797 768 422 818 189 853 768 957 751 514 
+player 95 draws a 972 from deck 95
+player 95 discards a 649 to deck 96
+player 95 current hand : 864 734 686 482 409 92 696 4 522 797 768 422 818 189 853 768 957 751 514 972 
+player 95 draws a 24 from deck 95
+player 95 discards a 864 to deck 96
+player 95 current hand : 734 686 482 409 92 696 4 522 797 768 422 818 189 853 768 957 751 514 972 24 
+player 95 draws a 841 from deck 95
+player 95 discards a 734 to deck 96
+player 95 current hand : 686 482 409 92 696 4 522 797 768 422 818 189 853 768 957 751 514 972 24 841 
+player 95 draws a 24 from deck 95
+player 95 discards a 686 to deck 96
+player 95 current hand : 482 409 92 696 4 522 797 768 422 818 189 853 768 957 751 514 972 24 841 24 
+player 95 draws a 869 from deck 95
+player 95 discards a 482 to deck 96
+player 95 current hand : 409 92 696 4 522 797 768 422 818 189 853 768 957 751 514 972 24 841 24 869 
+player 95 draws a 406 from deck 95
+player 95 discards a 409 to deck 96
+player 95 current hand : 92 696 4 522 797 768 422 818 189 853 768 957 751 514 972 24 841 24 869 406 
+player 95 draws a 521 from deck 95
+player 95 discards a 92 to deck 96
+player 95 current hand : 696 4 522 797 768 422 818 189 853 768 957 751 514 972 24 841 24 869 406 521 
+player 95 draws a 840 from deck 95
+player 95 discards a 696 to deck 96
+player 95 current hand : 4 522 797 768 422 818 189 853 768 957 751 514 972 24 841 24 869 406 521 840 
+player 95 draws a 351 from deck 95
+player 95 discards a 4 to deck 96
+player 95 current hand : 522 797 768 422 818 189 853 768 957 751 514 972 24 841 24 869 406 521 840 351 
+player 95 draws a 537 from deck 95
+player 95 discards a 522 to deck 96
+player 95 current hand : 797 768 422 818 189 853 768 957 751 514 972 24 841 24 869 406 521 840 351 537 
+player 95 draws a 245 from deck 95
+player 95 discards a 797 to deck 96
+player 95 current hand : 768 422 818 189 853 768 957 751 514 972 24 841 24 869 406 521 840 351 537 245 
+player 95 draws a 333 from deck 95
+player 95 discards a 768 to deck 96
+player 95 current hand : 422 818 189 853 768 957 751 514 972 24 841 24 869 406 521 840 351 537 245 333 
+player 95 draws a 411 from deck 95
+player 95 discards a 422 to deck 96
+player 95 current hand : 818 189 853 768 957 751 514 972 24 841 24 869 406 521 840 351 537 245 333 411 
+player 95 draws a 955 from deck 95
+player 95 discards a 818 to deck 96
+player 95 current hand : 189 853 768 957 751 514 972 24 841 24 869 406 521 840 351 537 245 333 411 955 
+player 95 draws a 377 from deck 95
+player 95 discards a 189 to deck 96
+player 95 current hand : 853 768 957 751 514 972 24 841 24 869 406 521 840 351 537 245 333 411 955 377 
+player 95 draws a 537 from deck 95
+player 95 discards a 853 to deck 96
+player 95 current hand : 768 957 751 514 972 24 841 24 869 406 521 840 351 537 245 333 411 955 377 537 
+player 95 draws a 212 from deck 95
+player 95 discards a 768 to deck 96
+player 95 current hand : 957 751 514 972 24 841 24 869 406 521 840 351 537 245 333 411 955 377 537 212 
+player 95 draws a 74 from deck 95
+player 95 discards a 957 to deck 96
+player 95 current hand : 751 514 972 24 841 24 869 406 521 840 351 537 245 333 411 955 377 537 212 74 
+player 95 draws a 800 from deck 95
+player 95 discards a 751 to deck 96
+player 95 current hand : 514 972 24 841 24 869 406 521 840 351 537 245 333 411 955 377 537 212 74 800 
+player 95 draws a 595 from deck 95
+player 95 discards a 514 to deck 96
+player 95 current hand : 972 24 841 24 869 406 521 840 351 537 245 333 411 955 377 537 212 74 800 595 
+player 95 draws a 785 from deck 95
+player 95 discards a 972 to deck 96
+player 95 current hand : 24 841 24 869 406 521 840 351 537 245 333 411 955 377 537 212 74 800 595 785 
+player 95 draws a 921 from deck 95
+player 95 discards a 24 to deck 96
+player 95 current hand : 841 24 869 406 521 840 351 537 245 333 411 955 377 537 212 74 800 595 785 921 
+player 95 draws a 222 from deck 95
+player 95 discards a 841 to deck 96
+player 95 current hand : 24 869 406 521 840 351 537 245 333 411 955 377 537 212 74 800 595 785 921 222 
+player 95 draws a 776 from deck 95
+player 95 discards a 24 to deck 96
+player 95 current hand : 869 406 521 840 351 537 245 333 411 955 377 537 212 74 800 595 785 921 222 776 
+player 95 draws a 160 from deck 95
+player 95 discards a 869 to deck 96
+player 95 current hand : 406 521 840 351 537 245 333 411 955 377 537 212 74 800 595 785 921 222 776 160 
+player 95 draws a 582 from deck 95
+player 95 discards a 406 to deck 96
+player 95 current hand : 521 840 351 537 245 333 411 955 377 537 212 74 800 595 785 921 222 776 160 582 
+player 95 draws a 91 from deck 95
+player 95 discards a 521 to deck 96
+player 95 current hand : 840 351 537 245 333 411 955 377 537 212 74 800 595 785 921 222 776 160 582 91 
+player 95 draws a 776 from deck 95
+player 95 discards a 840 to deck 96
+player 95 current hand : 351 537 245 333 411 955 377 537 212 74 800 595 785 921 222 776 160 582 91 776 
+player 95 draws a 673 from deck 95
+player 95 discards a 351 to deck 96
+player 95 current hand : 537 245 333 411 955 377 537 212 74 800 595 785 921 222 776 160 582 91 776 673 
+player 95 draws a 105 from deck 95
+player 95 discards a 537 to deck 96
+player 95 current hand : 245 333 411 955 377 537 212 74 800 595 785 921 222 776 160 582 91 776 673 105 
+player 95 draws a 856 from deck 95
+player 95 discards a 245 to deck 96
+player 95 current hand : 333 411 955 377 537 212 74 800 595 785 921 222 776 160 582 91 776 673 105 856 
+player 95 draws a 364 from deck 95
+player 95 discards a 333 to deck 96
+player 95 current hand : 411 955 377 537 212 74 800 595 785 921 222 776 160 582 91 776 673 105 856 364 
+player 95 draws a 523 from deck 95
+player 95 discards a 411 to deck 96
+player 95 current hand : 955 377 537 212 74 800 595 785 921 222 776 160 582 91 776 673 105 856 364 523 
+player 95 draws a 129 from deck 95
+player 95 discards a 955 to deck 96
+player 95 current hand : 377 537 212 74 800 595 785 921 222 776 160 582 91 776 673 105 856 364 523 129 
+player 95 draws a 921 from deck 95
+player 95 discards a 377 to deck 96
+player 95 current hand : 537 212 74 800 595 785 921 222 776 160 582 91 776 673 105 856 364 523 129 921 
+player 95 draws a 267 from deck 95
+player 95 discards a 537 to deck 96
+player 95 current hand : 212 74 800 595 785 921 222 776 160 582 91 776 673 105 856 364 523 129 921 267 
+player 95 draws a 702 from deck 95
+player 95 discards a 212 to deck 96
+player 95 current hand : 74 800 595 785 921 222 776 160 582 91 776 673 105 856 364 523 129 921 267 702 
+player 95 draws a 490 from deck 95
+player 95 discards a 74 to deck 96
+player 95 current hand : 800 595 785 921 222 776 160 582 91 776 673 105 856 364 523 129 921 267 702 490 
+player 95 draws a 47 from deck 95
+player 95 discards a 800 to deck 96
+player 95 current hand : 595 785 921 222 776 160 582 91 776 673 105 856 364 523 129 921 267 702 490 47 
+player 95 draws a 331 from deck 95
+player 95 discards a 595 to deck 96
+player 95 current hand : 785 921 222 776 160 582 91 776 673 105 856 364 523 129 921 267 702 490 47 331 
+player 95 draws a 814 from deck 95
+player 95 discards a 785 to deck 96
+player 95 current hand : 921 222 776 160 582 91 776 673 105 856 364 523 129 921 267 702 490 47 331 814 
+player 95 draws a 363 from deck 95
+player 95 discards a 921 to deck 96
+player 95 current hand : 222 776 160 582 91 776 673 105 856 364 523 129 921 267 702 490 47 331 814 363 
+player 95 draws a 475 from deck 95
+player 95 discards a 222 to deck 96
+player 95 current hand : 776 160 582 91 776 673 105 856 364 523 129 921 267 702 490 47 331 814 363 475 
+player 95 draws a 31 from deck 95
+player 95 discards a 776 to deck 96
+player 95 current hand : 160 582 91 776 673 105 856 364 523 129 921 267 702 490 47 331 814 363 475 31 
+player 95 draws a 745 from deck 95
+player 95 discards a 160 to deck 96
+player 95 current hand : 582 91 776 673 105 856 364 523 129 921 267 702 490 47 331 814 363 475 31 745 
+player 95 draws a 821 from deck 95
+player 95 discards a 582 to deck 96
+player 95 current hand : 91 776 673 105 856 364 523 129 921 267 702 490 47 331 814 363 475 31 745 821 
+player 95 draws a 507 from deck 95
+player 95 discards a 91 to deck 96
+player 95 current hand : 776 673 105 856 364 523 129 921 267 702 490 47 331 814 363 475 31 745 821 507 
+player 95 draws a 870 from deck 95
+player 95 discards a 776 to deck 96
+player 95 current hand : 673 105 856 364 523 129 921 267 702 490 47 331 814 363 475 31 745 821 507 870 
+player 95 draws a 926 from deck 95
+player 95 discards a 673 to deck 96
+player 95 current hand : 105 856 364 523 129 921 267 702 490 47 331 814 363 475 31 745 821 507 870 926 
+player 95 draws a 417 from deck 95
+player 95 discards a 105 to deck 96
+player 95 current hand : 856 364 523 129 921 267 702 490 47 331 814 363 475 31 745 821 507 870 926 417 
+player 95 draws a 220 from deck 95

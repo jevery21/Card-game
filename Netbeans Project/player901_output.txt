@@ -1,0 +1,331 @@
+player 901 initial hand 223 846 326 83 182 31 383 620 1 639 173 648 174 96 835 265 784 964 438 285 
+player 901 draws a 435 from deck 901
+player 901 discards a 223 to deck 902
+player 901 current hand : 846 326 83 182 31 383 620 1 639 173 648 174 96 835 265 784 964 438 285 435 
+player 901 draws a 238 from deck 901
+player 901 discards a 846 to deck 902
+player 901 current hand : 326 83 182 31 383 620 1 639 173 648 174 96 835 265 784 964 438 285 435 238 
+player 901 draws a 392 from deck 901
+player 901 discards a 326 to deck 902
+player 901 current hand : 83 182 31 383 620 1 639 173 648 174 96 835 265 784 964 438 285 435 238 392 
+player 901 draws a 994 from deck 901
+player 901 discards a 83 to deck 902
+player 901 current hand : 182 31 383 620 1 639 173 648 174 96 835 265 784 964 438 285 435 238 392 994 
+player 901 draws a 422 from deck 901
+player 901 discards a 182 to deck 902
+player 901 current hand : 31 383 620 1 639 173 648 174 96 835 265 784 964 438 285 435 238 392 994 422 
+player 901 draws a 127 from deck 901
+player 901 discards a 31 to deck 902
+player 901 current hand : 383 620 1 639 173 648 174 96 835 265 784 964 438 285 435 238 392 994 422 127 
+player 901 draws a 542 from deck 901
+player 901 discards a 383 to deck 902
+player 901 current hand : 620 1 639 173 648 174 96 835 265 784 964 438 285 435 238 392 994 422 127 542 
+player 901 draws a 589 from deck 901
+player 901 discards a 620 to deck 902
+player 901 current hand : 1 639 173 648 174 96 835 265 784 964 438 285 435 238 392 994 422 127 542 589 
+player 901 draws a 738 from deck 901
+player 901 discards a 1 to deck 902
+player 901 current hand : 639 173 648 174 96 835 265 784 964 438 285 435 238 392 994 422 127 542 589 738 
+player 901 draws a 163 from deck 901
+player 901 discards a 639 to deck 902
+player 901 current hand : 173 648 174 96 835 265 784 964 438 285 435 238 392 994 422 127 542 589 738 163 
+player 901 draws a 202 from deck 901
+player 901 discards a 173 to deck 902
+player 901 current hand : 648 174 96 835 265 784 964 438 285 435 238 392 994 422 127 542 589 738 163 202 
+player 901 draws a 774 from deck 901
+player 901 discards a 648 to deck 902
+player 901 current hand : 174 96 835 265 784 964 438 285 435 238 392 994 422 127 542 589 738 163 202 774 
+player 901 draws a 429 from deck 901
+player 901 discards a 174 to deck 902
+player 901 current hand : 96 835 265 784 964 438 285 435 238 392 994 422 127 542 589 738 163 202 774 429 
+player 901 draws a 7 from deck 901
+player 901 discards a 96 to deck 902
+player 901 current hand : 835 265 784 964 438 285 435 238 392 994 422 127 542 589 738 163 202 774 429 7 
+player 901 draws a 599 from deck 901
+player 901 discards a 835 to deck 902
+player 901 current hand : 265 784 964 438 285 435 238 392 994 422 127 542 589 738 163 202 774 429 7 599 
+player 901 draws a 258 from deck 901
+player 901 discards a 265 to deck 902
+player 901 current hand : 784 964 438 285 435 238 392 994 422 127 542 589 738 163 202 774 429 7 599 258 
+player 901 draws a 868 from deck 901
+player 901 discards a 784 to deck 902
+player 901 current hand : 964 438 285 435 238 392 994 422 127 542 589 738 163 202 774 429 7 599 258 868 
+player 901 draws a 241 from deck 901
+player 901 discards a 964 to deck 902
+player 901 current hand : 438 285 435 238 392 994 422 127 542 589 738 163 202 774 429 7 599 258 868 241 
+player 901 draws a 991 from deck 901
+player 901 discards a 438 to deck 902
+player 901 current hand : 285 435 238 392 994 422 127 542 589 738 163 202 774 429 7 599 258 868 241 991 
+player 901 draws a 297 from deck 901
+player 901 discards a 285 to deck 902
+player 901 current hand : 435 238 392 994 422 127 542 589 738 163 202 774 429 7 599 258 868 241 991 297 
+player 901 draws a 950 from deck 901
+player 901 discards a 435 to deck 902
+player 901 current hand : 238 392 994 422 127 542 589 738 163 202 774 429 7 599 258 868 241 991 297 950 
+player 901 draws a 634 from deck 901
+player 901 discards a 238 to deck 902
+player 901 current hand : 392 994 422 127 542 589 738 163 202 774 429 7 599 258 868 241 991 297 950 634 
+player 901 draws a 99 from deck 901
+player 901 discards a 392 to deck 902
+player 901 current hand : 994 422 127 542 589 738 163 202 774 429 7 599 258 868 241 991 297 950 634 99 
+player 901 draws a 818 from deck 901
+player 901 discards a 994 to deck 902
+player 901 current hand : 422 127 542 589 738 163 202 774 429 7 599 258 868 241 991 297 950 634 99 818 
+player 901 draws a 970 from deck 901
+player 901 discards a 422 to deck 902
+player 901 current hand : 127 542 589 738 163 202 774 429 7 599 258 868 241 991 297 950 634 99 818 970 
+player 901 draws a 509 from deck 901
+player 901 discards a 127 to deck 902
+player 901 current hand : 542 589 738 163 202 774 429 7 599 258 868 241 991 297 950 634 99 818 970 509 
+player 901 draws a 636 from deck 901
+player 901 discards a 542 to deck 902
+player 901 current hand : 589 738 163 202 774 429 7 599 258 868 241 991 297 950 634 99 818 970 509 636 
+player 901 draws a 170 from deck 901
+player 901 discards a 589 to deck 902
+player 901 current hand : 738 163 202 774 429 7 599 258 868 241 991 297 950 634 99 818 970 509 636 170 
+player 901 draws a 966 from deck 901
+player 901 discards a 738 to deck 902
+player 901 current hand : 163 202 774 429 7 599 258 868 241 991 297 950 634 99 818 970 509 636 170 966 
+player 901 draws a 644 from deck 901
+player 901 discards a 163 to deck 902
+player 901 current hand : 202 774 429 7 599 258 868 241 991 297 950 634 99 818 970 509 636 170 966 644 
+player 901 draws a 571 from deck 901
+player 901 discards a 202 to deck 902
+player 901 current hand : 774 429 7 599 258 868 241 991 297 950 634 99 818 970 509 636 170 966 644 571 
+player 901 draws a 512 from deck 901
+player 901 discards a 774 to deck 902
+player 901 current hand : 429 7 599 258 868 241 991 297 950 634 99 818 970 509 636 170 966 644 571 512 
+player 901 draws a 875 from deck 901
+player 901 discards a 429 to deck 902
+player 901 current hand : 7 599 258 868 241 991 297 950 634 99 818 970 509 636 170 966 644 571 512 875 
+player 901 draws a 835 from deck 901
+player 901 discards a 7 to deck 902
+player 901 current hand : 599 258 868 241 991 297 950 634 99 818 970 509 636 170 966 644 571 512 875 835 
+player 901 draws a 878 from deck 901
+player 901 discards a 599 to deck 902
+player 901 current hand : 258 868 241 991 297 950 634 99 818 970 509 636 170 966 644 571 512 875 835 878 
+player 901 draws a 210 from deck 901
+player 901 discards a 258 to deck 902
+player 901 current hand : 868 241 991 297 950 634 99 818 970 509 636 170 966 644 571 512 875 835 878 210 
+player 901 draws a 283 from deck 901
+player 901 discards a 868 to deck 902
+player 901 current hand : 241 991 297 950 634 99 818 970 509 636 170 966 644 571 512 875 835 878 210 283 
+player 901 draws a 204 from deck 901
+player 901 discards a 241 to deck 902
+player 901 current hand : 991 297 950 634 99 818 970 509 636 170 966 644 571 512 875 835 878 210 283 204 
+player 901 draws a 744 from deck 901
+player 901 discards a 991 to deck 902
+player 901 current hand : 297 950 634 99 818 970 509 636 170 966 644 571 512 875 835 878 210 283 204 744 
+player 901 draws a 54 from deck 901
+player 901 discards a 297 to deck 902
+player 901 current hand : 950 634 99 818 970 509 636 170 966 644 571 512 875 835 878 210 283 204 744 54 
+player 901 draws a 608 from deck 901
+player 901 discards a 950 to deck 902
+player 901 current hand : 634 99 818 970 509 636 170 966 644 571 512 875 835 878 210 283 204 744 54 608 
+player 901 draws a 423 from deck 901
+player 901 discards a 634 to deck 902
+player 901 current hand : 99 818 970 509 636 170 966 644 571 512 875 835 878 210 283 204 744 54 608 423 
+player 901 draws a 585 from deck 901
+player 901 discards a 99 to deck 902
+player 901 current hand : 818 970 509 636 170 966 644 571 512 875 835 878 210 283 204 744 54 608 423 585 
+player 901 draws a 155 from deck 901
+player 901 discards a 818 to deck 902
+player 901 current hand : 970 509 636 170 966 644 571 512 875 835 878 210 283 204 744 54 608 423 585 155 
+player 901 draws a 476 from deck 901
+player 901 discards a 970 to deck 902
+player 901 current hand : 509 636 170 966 644 571 512 875 835 878 210 283 204 744 54 608 423 585 155 476 
+player 901 draws a 380 from deck 901
+player 901 discards a 509 to deck 902
+player 901 current hand : 636 170 966 644 571 512 875 835 878 210 283 204 744 54 608 423 585 155 476 380 
+player 901 draws a 346 from deck 901
+player 901 discards a 636 to deck 902
+player 901 current hand : 170 966 644 571 512 875 835 878 210 283 204 744 54 608 423 585 155 476 380 346 
+player 901 draws a 280 from deck 901
+player 901 discards a 170 to deck 902
+player 901 current hand : 966 644 571 512 875 835 878 210 283 204 744 54 608 423 585 155 476 380 346 280 
+player 901 draws a 268 from deck 901
+player 901 discards a 966 to deck 902
+player 901 current hand : 644 571 512 875 835 878 210 283 204 744 54 608 423 585 155 476 380 346 280 268 
+player 901 draws a 86 from deck 901
+player 901 discards a 644 to deck 902
+player 901 current hand : 571 512 875 835 878 210 283 204 744 54 608 423 585 155 476 380 346 280 268 86 
+player 901 draws a 475 from deck 901
+player 901 discards a 571 to deck 902
+player 901 current hand : 512 875 835 878 210 283 204 744 54 608 423 585 155 476 380 346 280 268 86 475 
+player 901 draws a 137 from deck 901
+player 901 discards a 512 to deck 902
+player 901 current hand : 875 835 878 210 283 204 744 54 608 423 585 155 476 380 346 280 268 86 475 137 
+player 901 draws a 612 from deck 901
+player 901 discards a 875 to deck 902
+player 901 current hand : 835 878 210 283 204 744 54 608 423 585 155 476 380 346 280 268 86 475 137 612 
+player 901 draws a 814 from deck 901
+player 901 discards a 835 to deck 902
+player 901 current hand : 878 210 283 204 744 54 608 423 585 155 476 380 346 280 268 86 475 137 612 814 
+player 901 draws a 164 from deck 901
+player 901 discards a 878 to deck 902
+player 901 current hand : 210 283 204 744 54 608 423 585 155 476 380 346 280 268 86 475 137 612 814 164 
+player 901 draws a 751 from deck 901
+player 901 discards a 210 to deck 902
+player 901 current hand : 283 204 744 54 608 423 585 155 476 380 346 280 268 86 475 137 612 814 164 751 
+player 901 draws a 476 from deck 901
+player 901 discards a 283 to deck 902
+player 901 current hand : 204 744 54 608 423 585 155 476 380 346 280 268 86 475 137 612 814 164 751 476 
+player 901 draws a 261 from deck 901
+player 901 discards a 204 to deck 902
+player 901 current hand : 744 54 608 423 585 155 476 380 346 280 268 86 475 137 612 814 164 751 476 261 
+player 901 draws a 17 from deck 901
+player 901 discards a 744 to deck 902
+player 901 current hand : 54 608 423 585 155 476 380 346 280 268 86 475 137 612 814 164 751 476 261 17 
+player 901 draws a 164 from deck 901
+player 901 discards a 54 to deck 902
+player 901 current hand : 608 423 585 155 476 380 346 280 268 86 475 137 612 814 164 751 476 261 17 164 
+player 901 draws a 499 from deck 901
+player 901 discards a 608 to deck 902
+player 901 current hand : 423 585 155 476 380 346 280 268 86 475 137 612 814 164 751 476 261 17 164 499 
+player 901 draws a 266 from deck 901
+player 901 discards a 423 to deck 902
+player 901 current hand : 585 155 476 380 346 280 268 86 475 137 612 814 164 751 476 261 17 164 499 266 
+player 901 draws a 170 from deck 901
+player 901 discards a 585 to deck 902
+player 901 current hand : 155 476 380 346 280 268 86 475 137 612 814 164 751 476 261 17 164 499 266 170 
+player 901 draws a 861 from deck 901
+player 901 discards a 155 to deck 902
+player 901 current hand : 476 380 346 280 268 86 475 137 612 814 164 751 476 261 17 164 499 266 170 861 
+player 901 draws a 407 from deck 901
+player 901 discards a 476 to deck 902
+player 901 current hand : 380 346 280 268 86 475 137 612 814 164 751 476 261 17 164 499 266 170 861 407 
+player 901 draws a 637 from deck 901
+player 901 discards a 380 to deck 902
+player 901 current hand : 346 280 268 86 475 137 612 814 164 751 476 261 17 164 499 266 170 861 407 637 
+player 901 draws a 240 from deck 901
+player 901 discards a 346 to deck 902
+player 901 current hand : 280 268 86 475 137 612 814 164 751 476 261 17 164 499 266 170 861 407 637 240 
+player 901 draws a 269 from deck 901
+player 901 discards a 280 to deck 902
+player 901 current hand : 268 86 475 137 612 814 164 751 476 261 17 164 499 266 170 861 407 637 240 269 
+player 901 draws a 695 from deck 901
+player 901 discards a 268 to deck 902
+player 901 current hand : 86 475 137 612 814 164 751 476 261 17 164 499 266 170 861 407 637 240 269 695 
+player 901 draws a 114 from deck 901
+player 901 discards a 86 to deck 902
+player 901 current hand : 475 137 612 814 164 751 476 261 17 164 499 266 170 861 407 637 240 269 695 114 
+player 901 draws a 908 from deck 901
+player 901 discards a 475 to deck 902
+player 901 current hand : 137 612 814 164 751 476 261 17 164 499 266 170 861 407 637 240 269 695 114 908 
+player 901 draws a 38 from deck 901
+player 901 discards a 137 to deck 902
+player 901 current hand : 612 814 164 751 476 261 17 164 499 266 170 861 407 637 240 269 695 114 908 38 
+player 901 draws a 422 from deck 901
+player 901 discards a 612 to deck 902
+player 901 current hand : 814 164 751 476 261 17 164 499 266 170 861 407 637 240 269 695 114 908 38 422 
+player 901 draws a 862 from deck 901
+player 901 discards a 814 to deck 902
+player 901 current hand : 164 751 476 261 17 164 499 266 170 861 407 637 240 269 695 114 908 38 422 862 
+player 901 draws a 455 from deck 901
+player 901 discards a 164 to deck 902
+player 901 current hand : 751 476 261 17 164 499 266 170 861 407 637 240 269 695 114 908 38 422 862 455 
+player 901 draws a 996 from deck 901
+player 901 discards a 751 to deck 902
+player 901 current hand : 476 261 17 164 499 266 170 861 407 637 240 269 695 114 908 38 422 862 455 996 
+player 901 draws a 716 from deck 901
+player 901 discards a 476 to deck 902
+player 901 current hand : 261 17 164 499 266 170 861 407 637 240 269 695 114 908 38 422 862 455 996 716 
+player 901 draws a 956 from deck 901
+player 901 discards a 261 to deck 902
+player 901 current hand : 17 164 499 266 170 861 407 637 240 269 695 114 908 38 422 862 455 996 716 956 
+player 901 draws a 570 from deck 901
+player 901 discards a 17 to deck 902
+player 901 current hand : 164 499 266 170 861 407 637 240 269 695 114 908 38 422 862 455 996 716 956 570 
+player 901 draws a 360 from deck 901
+player 901 discards a 164 to deck 902
+player 901 current hand : 499 266 170 861 407 637 240 269 695 114 908 38 422 862 455 996 716 956 570 360 
+player 901 draws a 117 from deck 901
+player 901 discards a 499 to deck 902
+player 901 current hand : 266 170 861 407 637 240 269 695 114 908 38 422 862 455 996 716 956 570 360 117 
+player 901 draws a 149 from deck 901
+player 901 discards a 266 to deck 902
+player 901 current hand : 170 861 407 637 240 269 695 114 908 38 422 862 455 996 716 956 570 360 117 149 
+player 901 draws a 346 from deck 901
+player 901 discards a 170 to deck 902
+player 901 current hand : 861 407 637 240 269 695 114 908 38 422 862 455 996 716 956 570 360 117 149 346 
+player 901 draws a 576 from deck 901
+player 901 discards a 861 to deck 902
+player 901 current hand : 407 637 240 269 695 114 908 38 422 862 455 996 716 956 570 360 117 149 346 576 
+player 901 draws a 689 from deck 901
+player 901 discards a 407 to deck 902
+player 901 current hand : 637 240 269 695 114 908 38 422 862 455 996 716 956 570 360 117 149 346 576 689 
+player 901 draws a 321 from deck 901
+player 901 discards a 637 to deck 902
+player 901 current hand : 240 269 695 114 908 38 422 862 455 996 716 956 570 360 117 149 346 576 689 321 
+player 901 draws a 369 from deck 901
+player 901 discards a 240 to deck 902
+player 901 current hand : 269 695 114 908 38 422 862 455 996 716 956 570 360 117 149 346 576 689 321 369 
+player 901 draws a 699 from deck 901
+player 901 discards a 269 to deck 902
+player 901 current hand : 695 114 908 38 422 862 455 996 716 956 570 360 117 149 346 576 689 321 369 699 
+player 901 draws a 947 from deck 901
+player 901 discards a 695 to deck 902
+player 901 current hand : 114 908 38 422 862 455 996 716 956 570 360 117 149 346 576 689 321 369 699 947 
+player 901 draws a 314 from deck 901
+player 901 discards a 114 to deck 902
+player 901 current hand : 908 38 422 862 455 996 716 956 570 360 117 149 346 576 689 321 369 699 947 314 
+player 901 draws a 977 from deck 901
+player 901 discards a 908 to deck 902
+player 901 current hand : 38 422 862 455 996 716 956 570 360 117 149 346 576 689 321 369 699 947 314 977 
+player 901 draws a 860 from deck 901
+player 901 discards a 38 to deck 902
+player 901 current hand : 422 862 455 996 716 956 570 360 117 149 346 576 689 321 369 699 947 314 977 860 
+player 901 draws a 853 from deck 901
+player 901 discards a 422 to deck 902
+player 901 current hand : 862 455 996 716 956 570 360 117 149 346 576 689 321 369 699 947 314 977 860 853 
+player 901 draws a 797 from deck 901
+player 901 discards a 862 to deck 902
+player 901 current hand : 455 996 716 956 570 360 117 149 346 576 689 321 369 699 947 314 977 860 853 797 
+player 901 draws a 918 from deck 901
+player 901 discards a 455 to deck 902
+player 901 current hand : 996 716 956 570 360 117 149 346 576 689 321 369 699 947 314 977 860 853 797 918 
+player 901 draws a 356 from deck 901
+player 901 discards a 996 to deck 902
+player 901 current hand : 716 956 570 360 117 149 346 576 689 321 369 699 947 314 977 860 853 797 918 356 
+player 901 draws a 684 from deck 901
+player 901 discards a 716 to deck 902
+player 901 current hand : 956 570 360 117 149 346 576 689 321 369 699 947 314 977 860 853 797 918 356 684 
+player 901 draws a 420 from deck 901
+player 901 discards a 956 to deck 902
+player 901 current hand : 570 360 117 149 346 576 689 321 369 699 947 314 977 860 853 797 918 356 684 420 
+player 901 draws a 795 from deck 901
+player 901 discards a 570 to deck 902
+player 901 current hand : 360 117 149 346 576 689 321 369 699 947 314 977 860 853 797 918 356 684 420 795 
+player 901 draws a 581 from deck 901
+player 901 discards a 360 to deck 902
+player 901 current hand : 117 149 346 576 689 321 369 699 947 314 977 860 853 797 918 356 684 420 795 581 
+player 901 draws a 183 from deck 901
+player 901 discards a 117 to deck 902
+player 901 current hand : 149 346 576 689 321 369 699 947 314 977 860 853 797 918 356 684 420 795 581 183 
+player 901 draws a 822 from deck 901
+player 901 discards a 149 to deck 902
+player 901 current hand : 346 576 689 321 369 699 947 314 977 860 853 797 918 356 684 420 795 581 183 822 
+player 901 draws a 50 from deck 901
+player 901 discards a 346 to deck 902
+player 901 current hand : 576 689 321 369 699 947 314 977 860 853 797 918 356 684 420 795 581 183 822 50 
+player 901 draws a 370 from deck 901
+player 901 discards a 576 to deck 902
+player 901 current hand : 689 321 369 699 947 314 977 860 853 797 918 356 684 420 795 581 183 822 50 370 
+player 901 draws a 797 from deck 901
+player 901 discards a 689 to deck 902
+player 901 current hand : 321 369 699 947 314 977 860 853 797 918 356 684 420 795 581 183 822 50 370 797 
+player 901 draws a 938 from deck 901
+player 901 discards a 321 to deck 902
+player 901 current hand : 369 699 947 314 977 860 853 797 918 356 684 420 795 581 183 822 50 370 797 938 
+player 901 draws a 829 from deck 901
+player 901 discards a 369 to deck 902
+player 901 current hand : 699 947 314 977 860 853 797 918 356 684 420 795 581 183 822 50 370 797 938 829 
+player 901 draws a 640 from deck 901
+player 901 discards a 699 to deck 902
+player 901 current hand : 947 314 977 860 853 797 918 356 684 420 795 581 183 822 50 370 797 938 829 640 
+player 901 draws a 768 from deck 901
+player 901 discards a 947 to deck 902
+player 901 current hand : 314 977 860 853 797 918 356 684 420 795 581 183 822 50 370 797 938 829 640 768 
+player 901 draws a 578 from deck 901
+player 901 discards a 314 to deck 902
+player 901 current hand : 977 860 853 797 918 356 684 420 795 581 183 822 50 370 797 938 829 640 768 578 

@@ -1,0 +1,302 @@
+player 468 initial hand 403 494 838 527 466 475 938 538 120 546 16 751 853 275 728 344 285 737 897 740 
+player 468 draws a 496 from deck 468
+player 468 discards a 403 to deck 469
+player 468 current hand : 494 838 527 466 475 938 538 120 546 16 751 853 275 728 344 285 737 897 740 496 
+player 468 draws a 570 from deck 468
+player 468 discards a 494 to deck 469
+player 468 current hand : 838 527 466 475 938 538 120 546 16 751 853 275 728 344 285 737 897 740 496 570 
+player 468 draws a 505 from deck 468
+player 468 discards a 838 to deck 469
+player 468 current hand : 527 466 475 938 538 120 546 16 751 853 275 728 344 285 737 897 740 496 570 505 
+player 468 draws a 255 from deck 468
+player 468 discards a 527 to deck 469
+player 468 current hand : 466 475 938 538 120 546 16 751 853 275 728 344 285 737 897 740 496 570 505 255 
+player 468 draws a 785 from deck 468
+player 468 discards a 466 to deck 469
+player 468 current hand : 475 938 538 120 546 16 751 853 275 728 344 285 737 897 740 496 570 505 255 785 
+player 468 draws a 515 from deck 468
+player 468 discards a 475 to deck 469
+player 468 current hand : 938 538 120 546 16 751 853 275 728 344 285 737 897 740 496 570 505 255 785 515 
+player 468 draws a 374 from deck 468
+player 468 discards a 938 to deck 469
+player 468 current hand : 538 120 546 16 751 853 275 728 344 285 737 897 740 496 570 505 255 785 515 374 
+player 468 draws a 9 from deck 468
+player 468 discards a 538 to deck 469
+player 468 current hand : 120 546 16 751 853 275 728 344 285 737 897 740 496 570 505 255 785 515 374 9 
+player 468 draws a 333 from deck 468
+player 468 discards a 120 to deck 469
+player 468 current hand : 546 16 751 853 275 728 344 285 737 897 740 496 570 505 255 785 515 374 9 333 
+player 468 draws a 839 from deck 468
+player 468 discards a 546 to deck 469
+player 468 current hand : 16 751 853 275 728 344 285 737 897 740 496 570 505 255 785 515 374 9 333 839 
+player 468 draws a 257 from deck 468
+player 468 discards a 16 to deck 469
+player 468 current hand : 751 853 275 728 344 285 737 897 740 496 570 505 255 785 515 374 9 333 839 257 
+player 468 draws a 922 from deck 468
+player 468 discards a 751 to deck 469
+player 468 current hand : 853 275 728 344 285 737 897 740 496 570 505 255 785 515 374 9 333 839 257 922 
+player 468 draws a 138 from deck 468
+player 468 discards a 853 to deck 469
+player 468 current hand : 275 728 344 285 737 897 740 496 570 505 255 785 515 374 9 333 839 257 922 138 
+player 468 draws a 812 from deck 468
+player 468 discards a 275 to deck 469
+player 468 current hand : 728 344 285 737 897 740 496 570 505 255 785 515 374 9 333 839 257 922 138 812 
+player 468 draws a 602 from deck 468
+player 468 discards a 728 to deck 469
+player 468 current hand : 344 285 737 897 740 496 570 505 255 785 515 374 9 333 839 257 922 138 812 602 
+player 468 draws a 706 from deck 468
+player 468 discards a 344 to deck 469
+player 468 current hand : 285 737 897 740 496 570 505 255 785 515 374 9 333 839 257 922 138 812 602 706 
+player 468 draws a 113 from deck 468
+player 468 discards a 285 to deck 469
+player 468 current hand : 737 897 740 496 570 505 255 785 515 374 9 333 839 257 922 138 812 602 706 113 
+player 468 draws a 426 from deck 468
+player 468 discards a 737 to deck 469
+player 468 current hand : 897 740 496 570 505 255 785 515 374 9 333 839 257 922 138 812 602 706 113 426 
+player 468 draws a 165 from deck 468
+player 468 discards a 897 to deck 469
+player 468 current hand : 740 496 570 505 255 785 515 374 9 333 839 257 922 138 812 602 706 113 426 165 
+player 468 draws a 346 from deck 468
+player 468 discards a 740 to deck 469
+player 468 current hand : 496 570 505 255 785 515 374 9 333 839 257 922 138 812 602 706 113 426 165 346 
+player 468 draws a 233 from deck 468
+player 468 discards a 496 to deck 469
+player 468 current hand : 570 505 255 785 515 374 9 333 839 257 922 138 812 602 706 113 426 165 346 233 
+player 468 draws a 866 from deck 468
+player 468 discards a 570 to deck 469
+player 468 current hand : 505 255 785 515 374 9 333 839 257 922 138 812 602 706 113 426 165 346 233 866 
+player 468 draws a 180 from deck 468
+player 468 discards a 505 to deck 469
+player 468 current hand : 255 785 515 374 9 333 839 257 922 138 812 602 706 113 426 165 346 233 866 180 
+player 468 draws a 243 from deck 468
+player 468 discards a 255 to deck 469
+player 468 current hand : 785 515 374 9 333 839 257 922 138 812 602 706 113 426 165 346 233 866 180 243 
+player 468 draws a 416 from deck 468
+player 468 discards a 785 to deck 469
+player 468 current hand : 515 374 9 333 839 257 922 138 812 602 706 113 426 165 346 233 866 180 243 416 
+player 468 draws a 527 from deck 468
+player 468 discards a 515 to deck 469
+player 468 current hand : 374 9 333 839 257 922 138 812 602 706 113 426 165 346 233 866 180 243 416 527 
+player 468 draws a 106 from deck 468
+player 468 discards a 374 to deck 469
+player 468 current hand : 9 333 839 257 922 138 812 602 706 113 426 165 346 233 866 180 243 416 527 106 
+player 468 draws a 50 from deck 468
+player 468 discards a 9 to deck 469
+player 468 current hand : 333 839 257 922 138 812 602 706 113 426 165 346 233 866 180 243 416 527 106 50 
+player 468 draws a 38 from deck 468
+player 468 discards a 333 to deck 469
+player 468 current hand : 839 257 922 138 812 602 706 113 426 165 346 233 866 180 243 416 527 106 50 38 
+player 468 draws a 10 from deck 468
+player 468 discards a 839 to deck 469
+player 468 current hand : 257 922 138 812 602 706 113 426 165 346 233 866 180 243 416 527 106 50 38 10 
+player 468 draws a 824 from deck 468
+player 468 discards a 257 to deck 469
+player 468 current hand : 922 138 812 602 706 113 426 165 346 233 866 180 243 416 527 106 50 38 10 824 
+player 468 draws a 111 from deck 468
+player 468 discards a 922 to deck 469
+player 468 current hand : 138 812 602 706 113 426 165 346 233 866 180 243 416 527 106 50 38 10 824 111 
+player 468 draws a 261 from deck 468
+player 468 discards a 138 to deck 469
+player 468 current hand : 812 602 706 113 426 165 346 233 866 180 243 416 527 106 50 38 10 824 111 261 
+player 468 draws a 777 from deck 468
+player 468 discards a 812 to deck 469
+player 468 current hand : 602 706 113 426 165 346 233 866 180 243 416 527 106 50 38 10 824 111 261 777 
+player 468 draws a 42 from deck 468
+player 468 discards a 602 to deck 469
+player 468 current hand : 706 113 426 165 346 233 866 180 243 416 527 106 50 38 10 824 111 261 777 42 
+player 468 draws a 892 from deck 468
+player 468 discards a 706 to deck 469
+player 468 current hand : 113 426 165 346 233 866 180 243 416 527 106 50 38 10 824 111 261 777 42 892 
+player 468 draws a 928 from deck 468
+player 468 discards a 113 to deck 469
+player 468 current hand : 426 165 346 233 866 180 243 416 527 106 50 38 10 824 111 261 777 42 892 928 
+player 468 draws a 199 from deck 468
+player 468 discards a 426 to deck 469
+player 468 current hand : 165 346 233 866 180 243 416 527 106 50 38 10 824 111 261 777 42 892 928 199 
+player 468 draws a 206 from deck 468
+player 468 discards a 165 to deck 469
+player 468 current hand : 346 233 866 180 243 416 527 106 50 38 10 824 111 261 777 42 892 928 199 206 
+player 468 draws a 964 from deck 468
+player 468 discards a 346 to deck 469
+player 468 current hand : 233 866 180 243 416 527 106 50 38 10 824 111 261 777 42 892 928 199 206 964 
+player 468 draws a 910 from deck 468
+player 468 discards a 233 to deck 469
+player 468 current hand : 866 180 243 416 527 106 50 38 10 824 111 261 777 42 892 928 199 206 964 910 
+player 468 draws a 734 from deck 468
+player 468 discards a 866 to deck 469
+player 468 current hand : 180 243 416 527 106 50 38 10 824 111 261 777 42 892 928 199 206 964 910 734 
+player 468 draws a 118 from deck 468
+player 468 discards a 180 to deck 469
+player 468 current hand : 243 416 527 106 50 38 10 824 111 261 777 42 892 928 199 206 964 910 734 118 
+player 468 draws a 15 from deck 468
+player 468 discards a 243 to deck 469
+player 468 current hand : 416 527 106 50 38 10 824 111 261 777 42 892 928 199 206 964 910 734 118 15 
+player 468 draws a 915 from deck 468
+player 468 discards a 416 to deck 469
+player 468 current hand : 527 106 50 38 10 824 111 261 777 42 892 928 199 206 964 910 734 118 15 915 
+player 468 draws a 412 from deck 468
+player 468 discards a 527 to deck 469
+player 468 current hand : 106 50 38 10 824 111 261 777 42 892 928 199 206 964 910 734 118 15 915 412 
+player 468 draws a 81 from deck 468
+player 468 discards a 106 to deck 469
+player 468 current hand : 50 38 10 824 111 261 777 42 892 928 199 206 964 910 734 118 15 915 412 81 
+player 468 draws a 175 from deck 468
+player 468 discards a 50 to deck 469
+player 468 current hand : 38 10 824 111 261 777 42 892 928 199 206 964 910 734 118 15 915 412 81 175 
+player 468 draws a 453 from deck 468
+player 468 discards a 38 to deck 469
+player 468 current hand : 10 824 111 261 777 42 892 928 199 206 964 910 734 118 15 915 412 81 175 453 
+player 468 draws a 852 from deck 468
+player 468 discards a 10 to deck 469
+player 468 current hand : 824 111 261 777 42 892 928 199 206 964 910 734 118 15 915 412 81 175 453 852 
+player 468 draws a 627 from deck 468
+player 468 discards a 824 to deck 469
+player 468 current hand : 111 261 777 42 892 928 199 206 964 910 734 118 15 915 412 81 175 453 852 627 
+player 468 draws a 240 from deck 468
+player 468 discards a 111 to deck 469
+player 468 current hand : 261 777 42 892 928 199 206 964 910 734 118 15 915 412 81 175 453 852 627 240 
+player 468 draws a 688 from deck 468
+player 468 discards a 261 to deck 469
+player 468 current hand : 777 42 892 928 199 206 964 910 734 118 15 915 412 81 175 453 852 627 240 688 
+player 468 draws a 636 from deck 468
+player 468 discards a 777 to deck 469
+player 468 current hand : 42 892 928 199 206 964 910 734 118 15 915 412 81 175 453 852 627 240 688 636 
+player 468 draws a 36 from deck 468
+player 468 discards a 42 to deck 469
+player 468 current hand : 892 928 199 206 964 910 734 118 15 915 412 81 175 453 852 627 240 688 636 36 
+player 468 draws a 429 from deck 468
+player 468 discards a 892 to deck 469
+player 468 current hand : 928 199 206 964 910 734 118 15 915 412 81 175 453 852 627 240 688 636 36 429 
+player 468 draws a 128 from deck 468
+player 468 discards a 928 to deck 469
+player 468 current hand : 199 206 964 910 734 118 15 915 412 81 175 453 852 627 240 688 636 36 429 128 
+player 468 draws a 726 from deck 468
+player 468 discards a 199 to deck 469
+player 468 current hand : 206 964 910 734 118 15 915 412 81 175 453 852 627 240 688 636 36 429 128 726 
+player 468 draws a 255 from deck 468
+player 468 discards a 206 to deck 469
+player 468 current hand : 964 910 734 118 15 915 412 81 175 453 852 627 240 688 636 36 429 128 726 255 
+player 468 draws a 73 from deck 468
+player 468 discards a 964 to deck 469
+player 468 current hand : 910 734 118 15 915 412 81 175 453 852 627 240 688 636 36 429 128 726 255 73 
+player 468 draws a 852 from deck 468
+player 468 discards a 910 to deck 469
+player 468 current hand : 734 118 15 915 412 81 175 453 852 627 240 688 636 36 429 128 726 255 73 852 
+player 468 draws a 83 from deck 468
+player 468 discards a 734 to deck 469
+player 468 current hand : 118 15 915 412 81 175 453 852 627 240 688 636 36 429 128 726 255 73 852 83 
+player 468 draws a 545 from deck 468
+player 468 discards a 118 to deck 469
+player 468 current hand : 15 915 412 81 175 453 852 627 240 688 636 36 429 128 726 255 73 852 83 545 
+player 468 draws a 57 from deck 468
+player 468 discards a 15 to deck 469
+player 468 current hand : 915 412 81 175 453 852 627 240 688 636 36 429 128 726 255 73 852 83 545 57 
+player 468 draws a 942 from deck 468
+player 468 discards a 915 to deck 469
+player 468 current hand : 412 81 175 453 852 627 240 688 636 36 429 128 726 255 73 852 83 545 57 942 
+player 468 draws a 174 from deck 468
+player 468 discards a 412 to deck 469
+player 468 current hand : 81 175 453 852 627 240 688 636 36 429 128 726 255 73 852 83 545 57 942 174 
+player 468 draws a 776 from deck 468
+player 468 discards a 81 to deck 469
+player 468 current hand : 175 453 852 627 240 688 636 36 429 128 726 255 73 852 83 545 57 942 174 776 
+player 468 draws a 157 from deck 468
+player 468 discards a 175 to deck 469
+player 468 current hand : 453 852 627 240 688 636 36 429 128 726 255 73 852 83 545 57 942 174 776 157 
+player 468 draws a 774 from deck 468
+player 468 discards a 453 to deck 469
+player 468 current hand : 852 627 240 688 636 36 429 128 726 255 73 852 83 545 57 942 174 776 157 774 
+player 468 draws a 351 from deck 468
+player 468 discards a 852 to deck 469
+player 468 current hand : 627 240 688 636 36 429 128 726 255 73 852 83 545 57 942 174 776 157 774 351 
+player 468 draws a 744 from deck 468
+player 468 discards a 627 to deck 469
+player 468 current hand : 240 688 636 36 429 128 726 255 73 852 83 545 57 942 174 776 157 774 351 744 
+player 468 draws a 578 from deck 468
+player 468 discards a 240 to deck 469
+player 468 current hand : 688 636 36 429 128 726 255 73 852 83 545 57 942 174 776 157 774 351 744 578 
+player 468 draws a 971 from deck 468
+player 468 discards a 688 to deck 469
+player 468 current hand : 636 36 429 128 726 255 73 852 83 545 57 942 174 776 157 774 351 744 578 971 
+player 468 draws a 970 from deck 468
+player 468 discards a 636 to deck 469
+player 468 current hand : 36 429 128 726 255 73 852 83 545 57 942 174 776 157 774 351 744 578 971 970 
+player 468 draws a 295 from deck 468
+player 468 discards a 36 to deck 469
+player 468 current hand : 429 128 726 255 73 852 83 545 57 942 174 776 157 774 351 744 578 971 970 295 
+player 468 draws a 924 from deck 468
+player 468 discards a 429 to deck 469
+player 468 current hand : 128 726 255 73 852 83 545 57 942 174 776 157 774 351 744 578 971 970 295 924 
+player 468 draws a 880 from deck 468
+player 468 discards a 128 to deck 469
+player 468 current hand : 726 255 73 852 83 545 57 942 174 776 157 774 351 744 578 971 970 295 924 880 
+player 468 draws a 501 from deck 468
+player 468 discards a 726 to deck 469
+player 468 current hand : 255 73 852 83 545 57 942 174 776 157 774 351 744 578 971 970 295 924 880 501 
+player 468 draws a 671 from deck 468
+player 468 discards a 255 to deck 469
+player 468 current hand : 73 852 83 545 57 942 174 776 157 774 351 744 578 971 970 295 924 880 501 671 
+player 468 draws a 475 from deck 468
+player 468 discards a 73 to deck 469
+player 468 current hand : 852 83 545 57 942 174 776 157 774 351 744 578 971 970 295 924 880 501 671 475 
+player 468 draws a 97 from deck 468
+player 468 discards a 852 to deck 469
+player 468 current hand : 83 545 57 942 174 776 157 774 351 744 578 971 970 295 924 880 501 671 475 97 
+player 468 draws a 872 from deck 468
+player 468 discards a 83 to deck 469
+player 468 current hand : 545 57 942 174 776 157 774 351 744 578 971 970 295 924 880 501 671 475 97 872 
+player 468 draws a 105 from deck 468
+player 468 discards a 545 to deck 469
+player 468 current hand : 57 942 174 776 157 774 351 744 578 971 970 295 924 880 501 671 475 97 872 105 
+player 468 draws a 540 from deck 468
+player 468 discards a 57 to deck 469
+player 468 current hand : 942 174 776 157 774 351 744 578 971 970 295 924 880 501 671 475 97 872 105 540 
+player 468 draws a 822 from deck 468
+player 468 discards a 942 to deck 469
+player 468 current hand : 174 776 157 774 351 744 578 971 970 295 924 880 501 671 475 97 872 105 540 822 
+player 468 draws a 182 from deck 468
+player 468 discards a 174 to deck 469
+player 468 current hand : 776 157 774 351 744 578 971 970 295 924 880 501 671 475 97 872 105 540 822 182 
+player 468 draws a 456 from deck 468
+player 468 discards a 776 to deck 469
+player 468 current hand : 157 774 351 744 578 971 970 295 924 880 501 671 475 97 872 105 540 822 182 456 
+player 468 draws a 84 from deck 468
+player 468 discards a 157 to deck 469
+player 468 current hand : 774 351 744 578 971 970 295 924 880 501 671 475 97 872 105 540 822 182 456 84 
+player 468 draws a 792 from deck 468
+player 468 discards a 774 to deck 469
+player 468 current hand : 351 744 578 971 970 295 924 880 501 671 475 97 872 105 540 822 182 456 84 792 
+player 468 draws a 673 from deck 468
+player 468 discards a 351 to deck 469
+player 468 current hand : 744 578 971 970 295 924 880 501 671 475 97 872 105 540 822 182 456 84 792 673 
+player 468 draws a 355 from deck 468
+player 468 discards a 744 to deck 469
+player 468 current hand : 578 971 970 295 924 880 501 671 475 97 872 105 540 822 182 456 84 792 673 355 
+player 468 draws a 976 from deck 468
+player 468 discards a 578 to deck 469
+player 468 current hand : 971 970 295 924 880 501 671 475 97 872 105 540 822 182 456 84 792 673 355 976 
+player 468 draws a 550 from deck 468
+player 468 discards a 971 to deck 469
+player 468 current hand : 970 295 924 880 501 671 475 97 872 105 540 822 182 456 84 792 673 355 976 550 
+player 468 draws a 854 from deck 468
+player 468 discards a 970 to deck 469
+player 468 current hand : 295 924 880 501 671 475 97 872 105 540 822 182 456 84 792 673 355 976 550 854 
+player 468 draws a 613 from deck 468
+player 468 discards a 295 to deck 469
+player 468 current hand : 924 880 501 671 475 97 872 105 540 822 182 456 84 792 673 355 976 550 854 613 
+player 468 draws a 151 from deck 468
+player 468 discards a 924 to deck 469
+player 468 current hand : 880 501 671 475 97 872 105 540 822 182 456 84 792 673 355 976 550 854 613 151 
+player 468 draws a 820 from deck 468
+player 468 discards a 880 to deck 469
+player 468 current hand : 501 671 475 97 872 105 540 822 182 456 84 792 673 355 976 550 854 613 151 820 
+player 468 draws a 742 from deck 468
+player 468 discards a 501 to deck 469
+player 468 current hand : 671 475 97 872 105 540 822 182 456 84 792 673 355 976 550 854 613 151 820 742 
+player 468 draws a 737 from deck 468
+player 468 discards a 671 to deck 469
+player 468 current hand : 475 97 872 105 540 822 182 456 84 792 673 355 976 550 854 613 151 820 742 737 
+player 468 draws a 813 from deck 468
+player 468 discards a 475 to deck 469
+player 468 current hand : 97 872 105 540 822 182 456 84 792 673 355 976 550 854 613 151 820 742 737 813 
+player 468 draws a 662 from deck 468

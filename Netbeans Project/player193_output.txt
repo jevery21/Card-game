@@ -1,0 +1,306 @@
+player 193 initial hand 991 384 79 72 483 236 537 788 577 397 583 423 319 975 521 258 308 438 164 420 
+player 193 draws a 706 from deck 193
+player 193 discards a 991 to deck 194
+player 193 current hand : 384 79 72 483 236 537 788 577 397 583 423 319 975 521 258 308 438 164 420 706 
+player 193 draws a 686 from deck 193
+player 193 discards a 384 to deck 194
+player 193 current hand : 79 72 483 236 537 788 577 397 583 423 319 975 521 258 308 438 164 420 706 686 
+player 193 draws a 975 from deck 193
+player 193 discards a 79 to deck 194
+player 193 current hand : 72 483 236 537 788 577 397 583 423 319 975 521 258 308 438 164 420 706 686 975 
+player 193 draws a 844 from deck 193
+player 193 discards a 72 to deck 194
+player 193 current hand : 483 236 537 788 577 397 583 423 319 975 521 258 308 438 164 420 706 686 975 844 
+player 193 draws a 943 from deck 193
+player 193 discards a 483 to deck 194
+player 193 current hand : 236 537 788 577 397 583 423 319 975 521 258 308 438 164 420 706 686 975 844 943 
+player 193 draws a 231 from deck 193
+player 193 discards a 236 to deck 194
+player 193 current hand : 537 788 577 397 583 423 319 975 521 258 308 438 164 420 706 686 975 844 943 231 
+player 193 draws a 74 from deck 193
+player 193 discards a 537 to deck 194
+player 193 current hand : 788 577 397 583 423 319 975 521 258 308 438 164 420 706 686 975 844 943 231 74 
+player 193 draws a 935 from deck 193
+player 193 discards a 788 to deck 194
+player 193 current hand : 577 397 583 423 319 975 521 258 308 438 164 420 706 686 975 844 943 231 74 935 
+player 193 draws a 833 from deck 193
+player 193 discards a 577 to deck 194
+player 193 current hand : 397 583 423 319 975 521 258 308 438 164 420 706 686 975 844 943 231 74 935 833 
+player 193 draws a 39 from deck 193
+player 193 discards a 397 to deck 194
+player 193 current hand : 583 423 319 975 521 258 308 438 164 420 706 686 975 844 943 231 74 935 833 39 
+player 193 draws a 627 from deck 193
+player 193 discards a 583 to deck 194
+player 193 current hand : 423 319 975 521 258 308 438 164 420 706 686 975 844 943 231 74 935 833 39 627 
+player 193 draws a 425 from deck 193
+player 193 discards a 423 to deck 194
+player 193 current hand : 319 975 521 258 308 438 164 420 706 686 975 844 943 231 74 935 833 39 627 425 
+player 193 draws a 80 from deck 193
+player 193 discards a 319 to deck 194
+player 193 current hand : 975 521 258 308 438 164 420 706 686 975 844 943 231 74 935 833 39 627 425 80 
+player 193 draws a 574 from deck 193
+player 193 discards a 975 to deck 194
+player 193 current hand : 521 258 308 438 164 420 706 686 975 844 943 231 74 935 833 39 627 425 80 574 
+player 193 draws a 117 from deck 193
+player 193 discards a 521 to deck 194
+player 193 current hand : 258 308 438 164 420 706 686 975 844 943 231 74 935 833 39 627 425 80 574 117 
+player 193 draws a 582 from deck 193
+player 193 discards a 258 to deck 194
+player 193 current hand : 308 438 164 420 706 686 975 844 943 231 74 935 833 39 627 425 80 574 117 582 
+player 193 draws a 366 from deck 193
+player 193 discards a 308 to deck 194
+player 193 current hand : 438 164 420 706 686 975 844 943 231 74 935 833 39 627 425 80 574 117 582 366 
+player 193 draws a 93 from deck 193
+player 193 discards a 438 to deck 194
+player 193 current hand : 164 420 706 686 975 844 943 231 74 935 833 39 627 425 80 574 117 582 366 93 
+player 193 draws a 446 from deck 193
+player 193 discards a 164 to deck 194
+player 193 current hand : 420 706 686 975 844 943 231 74 935 833 39 627 425 80 574 117 582 366 93 446 
+player 193 draws a 322 from deck 193
+player 193 discards a 420 to deck 194
+player 193 current hand : 706 686 975 844 943 231 74 935 833 39 627 425 80 574 117 582 366 93 446 322 
+player 193 draws a 45 from deck 193
+player 193 discards a 706 to deck 194
+player 193 current hand : 686 975 844 943 231 74 935 833 39 627 425 80 574 117 582 366 93 446 322 45 
+player 193 draws a 754 from deck 193
+player 193 discards a 686 to deck 194
+player 193 current hand : 975 844 943 231 74 935 833 39 627 425 80 574 117 582 366 93 446 322 45 754 
+player 193 draws a 823 from deck 193
+player 193 discards a 975 to deck 194
+player 193 current hand : 844 943 231 74 935 833 39 627 425 80 574 117 582 366 93 446 322 45 754 823 
+player 193 draws a 537 from deck 193
+player 193 discards a 844 to deck 194
+player 193 current hand : 943 231 74 935 833 39 627 425 80 574 117 582 366 93 446 322 45 754 823 537 
+player 193 draws a 507 from deck 193
+player 193 discards a 943 to deck 194
+player 193 current hand : 231 74 935 833 39 627 425 80 574 117 582 366 93 446 322 45 754 823 537 507 
+player 193 draws a 270 from deck 193
+player 193 discards a 231 to deck 194
+player 193 current hand : 74 935 833 39 627 425 80 574 117 582 366 93 446 322 45 754 823 537 507 270 
+player 193 draws a 923 from deck 193
+player 193 discards a 74 to deck 194
+player 193 current hand : 935 833 39 627 425 80 574 117 582 366 93 446 322 45 754 823 537 507 270 923 
+player 193 draws a 265 from deck 193
+player 193 discards a 935 to deck 194
+player 193 current hand : 833 39 627 425 80 574 117 582 366 93 446 322 45 754 823 537 507 270 923 265 
+player 193 draws a 446 from deck 193
+player 193 discards a 833 to deck 194
+player 193 current hand : 39 627 425 80 574 117 582 366 93 446 322 45 754 823 537 507 270 923 265 446 
+player 193 draws a 996 from deck 193
+player 193 discards a 39 to deck 194
+player 193 current hand : 627 425 80 574 117 582 366 93 446 322 45 754 823 537 507 270 923 265 446 996 
+player 193 draws a 482 from deck 193
+player 193 discards a 627 to deck 194
+player 193 current hand : 425 80 574 117 582 366 93 446 322 45 754 823 537 507 270 923 265 446 996 482 
+player 193 draws a 390 from deck 193
+player 193 discards a 425 to deck 194
+player 193 current hand : 80 574 117 582 366 93 446 322 45 754 823 537 507 270 923 265 446 996 482 390 
+player 193 draws a 683 from deck 193
+player 193 discards a 80 to deck 194
+player 193 current hand : 574 117 582 366 93 446 322 45 754 823 537 507 270 923 265 446 996 482 390 683 
+player 193 draws a 826 from deck 193
+player 193 discards a 574 to deck 194
+player 193 current hand : 117 582 366 93 446 322 45 754 823 537 507 270 923 265 446 996 482 390 683 826 
+player 193 draws a 291 from deck 193
+player 193 discards a 117 to deck 194
+player 193 current hand : 582 366 93 446 322 45 754 823 537 507 270 923 265 446 996 482 390 683 826 291 
+player 193 draws a 750 from deck 193
+player 193 discards a 582 to deck 194
+player 193 current hand : 366 93 446 322 45 754 823 537 507 270 923 265 446 996 482 390 683 826 291 750 
+player 193 draws a 559 from deck 193
+player 193 discards a 366 to deck 194
+player 193 current hand : 93 446 322 45 754 823 537 507 270 923 265 446 996 482 390 683 826 291 750 559 
+player 193 draws a 766 from deck 193
+player 193 discards a 93 to deck 194
+player 193 current hand : 446 322 45 754 823 537 507 270 923 265 446 996 482 390 683 826 291 750 559 766 
+player 193 draws a 983 from deck 193
+player 193 discards a 446 to deck 194
+player 193 current hand : 322 45 754 823 537 507 270 923 265 446 996 482 390 683 826 291 750 559 766 983 
+player 193 draws a 691 from deck 193
+player 193 discards a 322 to deck 194
+player 193 current hand : 45 754 823 537 507 270 923 265 446 996 482 390 683 826 291 750 559 766 983 691 
+player 193 draws a 111 from deck 193
+player 193 discards a 45 to deck 194
+player 193 current hand : 754 823 537 507 270 923 265 446 996 482 390 683 826 291 750 559 766 983 691 111 
+player 193 draws a 4 from deck 193
+player 193 discards a 754 to deck 194
+player 193 current hand : 823 537 507 270 923 265 446 996 482 390 683 826 291 750 559 766 983 691 111 4 
+player 193 draws a 794 from deck 193
+player 193 discards a 823 to deck 194
+player 193 current hand : 537 507 270 923 265 446 996 482 390 683 826 291 750 559 766 983 691 111 4 794 
+player 193 draws a 24 from deck 193
+player 193 discards a 537 to deck 194
+player 193 current hand : 507 270 923 265 446 996 482 390 683 826 291 750 559 766 983 691 111 4 794 24 
+player 193 draws a 783 from deck 193
+player 193 discards a 507 to deck 194
+player 193 current hand : 270 923 265 446 996 482 390 683 826 291 750 559 766 983 691 111 4 794 24 783 
+player 193 draws a 422 from deck 193
+player 193 discards a 270 to deck 194
+player 193 current hand : 923 265 446 996 482 390 683 826 291 750 559 766 983 691 111 4 794 24 783 422 
+player 193 draws a 238 from deck 193
+player 193 discards a 923 to deck 194
+player 193 current hand : 265 446 996 482 390 683 826 291 750 559 766 983 691 111 4 794 24 783 422 238 
+player 193 draws a 4 from deck 193
+player 193 discards a 265 to deck 194
+player 193 current hand : 446 996 482 390 683 826 291 750 559 766 983 691 111 4 794 24 783 422 238 4 
+player 193 draws a 670 from deck 193
+player 193 discards a 446 to deck 194
+player 193 current hand : 996 482 390 683 826 291 750 559 766 983 691 111 4 794 24 783 422 238 4 670 
+player 193 draws a 736 from deck 193
+player 193 discards a 996 to deck 194
+player 193 current hand : 482 390 683 826 291 750 559 766 983 691 111 4 794 24 783 422 238 4 670 736 
+player 193 draws a 954 from deck 193
+player 193 discards a 482 to deck 194
+player 193 current hand : 390 683 826 291 750 559 766 983 691 111 4 794 24 783 422 238 4 670 736 954 
+player 193 draws a 199 from deck 193
+player 193 discards a 390 to deck 194
+player 193 current hand : 683 826 291 750 559 766 983 691 111 4 794 24 783 422 238 4 670 736 954 199 
+player 193 draws a 705 from deck 193
+player 193 discards a 683 to deck 194
+player 193 current hand : 826 291 750 559 766 983 691 111 4 794 24 783 422 238 4 670 736 954 199 705 
+player 193 draws a 906 from deck 193
+player 193 discards a 826 to deck 194
+player 193 current hand : 291 750 559 766 983 691 111 4 794 24 783 422 238 4 670 736 954 199 705 906 
+player 193 draws a 499 from deck 193
+player 193 discards a 291 to deck 194
+player 193 current hand : 750 559 766 983 691 111 4 794 24 783 422 238 4 670 736 954 199 705 906 499 
+player 193 draws a 96 from deck 193
+player 193 discards a 750 to deck 194
+player 193 current hand : 559 766 983 691 111 4 794 24 783 422 238 4 670 736 954 199 705 906 499 96 
+player 193 draws a 499 from deck 193
+player 193 discards a 559 to deck 194
+player 193 current hand : 766 983 691 111 4 794 24 783 422 238 4 670 736 954 199 705 906 499 96 499 
+player 193 draws a 74 from deck 193
+player 193 discards a 766 to deck 194
+player 193 current hand : 983 691 111 4 794 24 783 422 238 4 670 736 954 199 705 906 499 96 499 74 
+player 193 draws a 618 from deck 193
+player 193 discards a 983 to deck 194
+player 193 current hand : 691 111 4 794 24 783 422 238 4 670 736 954 199 705 906 499 96 499 74 618 
+player 193 draws a 649 from deck 193
+player 193 discards a 691 to deck 194
+player 193 current hand : 111 4 794 24 783 422 238 4 670 736 954 199 705 906 499 96 499 74 618 649 
+player 193 draws a 878 from deck 193
+player 193 discards a 111 to deck 194
+player 193 current hand : 4 794 24 783 422 238 4 670 736 954 199 705 906 499 96 499 74 618 649 878 
+player 193 draws a 836 from deck 193
+player 193 discards a 4 to deck 194
+player 193 current hand : 794 24 783 422 238 4 670 736 954 199 705 906 499 96 499 74 618 649 878 836 
+player 193 draws a 99 from deck 193
+player 193 discards a 794 to deck 194
+player 193 current hand : 24 783 422 238 4 670 736 954 199 705 906 499 96 499 74 618 649 878 836 99 
+player 193 draws a 640 from deck 193
+player 193 discards a 24 to deck 194
+player 193 current hand : 783 422 238 4 670 736 954 199 705 906 499 96 499 74 618 649 878 836 99 640 
+player 193 draws a 511 from deck 193
+player 193 discards a 783 to deck 194
+player 193 current hand : 422 238 4 670 736 954 199 705 906 499 96 499 74 618 649 878 836 99 640 511 
+player 193 draws a 79 from deck 193
+player 193 discards a 422 to deck 194
+player 193 current hand : 238 4 670 736 954 199 705 906 499 96 499 74 618 649 878 836 99 640 511 79 
+player 193 draws a 501 from deck 193
+player 193 discards a 238 to deck 194
+player 193 current hand : 4 670 736 954 199 705 906 499 96 499 74 618 649 878 836 99 640 511 79 501 
+player 193 draws a 905 from deck 193
+player 193 discards a 4 to deck 194
+player 193 current hand : 670 736 954 199 705 906 499 96 499 74 618 649 878 836 99 640 511 79 501 905 
+player 193 draws a 257 from deck 193
+player 193 discards a 670 to deck 194
+player 193 current hand : 736 954 199 705 906 499 96 499 74 618 649 878 836 99 640 511 79 501 905 257 
+player 193 draws a 127 from deck 193
+player 193 discards a 736 to deck 194
+player 193 current hand : 954 199 705 906 499 96 499 74 618 649 878 836 99 640 511 79 501 905 257 127 
+player 193 draws a 888 from deck 193
+player 193 discards a 954 to deck 194
+player 193 current hand : 199 705 906 499 96 499 74 618 649 878 836 99 640 511 79 501 905 257 127 888 
+player 193 draws a 44 from deck 193
+player 193 discards a 199 to deck 194
+player 193 current hand : 705 906 499 96 499 74 618 649 878 836 99 640 511 79 501 905 257 127 888 44 
+player 193 draws a 576 from deck 193
+player 193 discards a 705 to deck 194
+player 193 current hand : 906 499 96 499 74 618 649 878 836 99 640 511 79 501 905 257 127 888 44 576 
+player 193 draws a 933 from deck 193
+player 193 discards a 906 to deck 194
+player 193 current hand : 499 96 499 74 618 649 878 836 99 640 511 79 501 905 257 127 888 44 576 933 
+player 193 draws a 504 from deck 193
+player 193 discards a 499 to deck 194
+player 193 current hand : 96 499 74 618 649 878 836 99 640 511 79 501 905 257 127 888 44 576 933 504 
+player 193 draws a 237 from deck 193
+player 193 discards a 96 to deck 194
+player 193 current hand : 499 74 618 649 878 836 99 640 511 79 501 905 257 127 888 44 576 933 504 237 
+player 193 draws a 649 from deck 193
+player 193 discards a 499 to deck 194
+player 193 current hand : 74 618 649 878 836 99 640 511 79 501 905 257 127 888 44 576 933 504 237 649 
+player 193 draws a 163 from deck 193
+player 193 discards a 74 to deck 194
+player 193 current hand : 618 649 878 836 99 640 511 79 501 905 257 127 888 44 576 933 504 237 649 163 
+player 193 draws a 902 from deck 193
+player 193 discards a 618 to deck 194
+player 193 current hand : 649 878 836 99 640 511 79 501 905 257 127 888 44 576 933 504 237 649 163 902 
+player 193 draws a 841 from deck 193
+player 193 discards a 649 to deck 194
+player 193 current hand : 878 836 99 640 511 79 501 905 257 127 888 44 576 933 504 237 649 163 902 841 
+player 193 draws a 635 from deck 193
+player 193 discards a 878 to deck 194
+player 193 current hand : 836 99 640 511 79 501 905 257 127 888 44 576 933 504 237 649 163 902 841 635 
+player 193 draws a 93 from deck 193
+player 193 discards a 836 to deck 194
+player 193 current hand : 99 640 511 79 501 905 257 127 888 44 576 933 504 237 649 163 902 841 635 93 
+player 193 draws a 211 from deck 193
+player 193 discards a 99 to deck 194
+player 193 current hand : 640 511 79 501 905 257 127 888 44 576 933 504 237 649 163 902 841 635 93 211 
+player 193 draws a 599 from deck 193
+player 193 discards a 640 to deck 194
+player 193 current hand : 511 79 501 905 257 127 888 44 576 933 504 237 649 163 902 841 635 93 211 599 
+player 193 draws a 9 from deck 193
+player 193 discards a 511 to deck 194
+player 193 current hand : 79 501 905 257 127 888 44 576 933 504 237 649 163 902 841 635 93 211 599 9 
+player 193 draws a 922 from deck 193
+player 193 discards a 79 to deck 194
+player 193 current hand : 501 905 257 127 888 44 576 933 504 237 649 163 902 841 635 93 211 599 9 922 
+player 193 draws a 537 from deck 193
+player 193 discards a 501 to deck 194
+player 193 current hand : 905 257 127 888 44 576 933 504 237 649 163 902 841 635 93 211 599 9 922 537 
+player 193 draws a 810 from deck 193
+player 193 discards a 905 to deck 194
+player 193 current hand : 257 127 888 44 576 933 504 237 649 163 902 841 635 93 211 599 9 922 537 810 
+player 193 draws a 853 from deck 193
+player 193 discards a 257 to deck 194
+player 193 current hand : 127 888 44 576 933 504 237 649 163 902 841 635 93 211 599 9 922 537 810 853 
+player 193 draws a 9 from deck 193
+player 193 discards a 127 to deck 194
+player 193 current hand : 888 44 576 933 504 237 649 163 902 841 635 93 211 599 9 922 537 810 853 9 
+player 193 draws a 355 from deck 193
+player 193 discards a 888 to deck 194
+player 193 current hand : 44 576 933 504 237 649 163 902 841 635 93 211 599 9 922 537 810 853 9 355 
+player 193 draws a 871 from deck 193
+player 193 discards a 44 to deck 194
+player 193 current hand : 576 933 504 237 649 163 902 841 635 93 211 599 9 922 537 810 853 9 355 871 
+player 193 draws a 854 from deck 193
+player 193 discards a 576 to deck 194
+player 193 current hand : 933 504 237 649 163 902 841 635 93 211 599 9 922 537 810 853 9 355 871 854 
+player 193 draws a 860 from deck 193
+player 193 discards a 933 to deck 194
+player 193 current hand : 504 237 649 163 902 841 635 93 211 599 9 922 537 810 853 9 355 871 854 860 
+player 193 draws a 649 from deck 193
+player 193 discards a 504 to deck 194
+player 193 current hand : 237 649 163 902 841 635 93 211 599 9 922 537 810 853 9 355 871 854 860 649 
+player 193 draws a 142 from deck 193
+player 193 discards a 237 to deck 194
+player 193 current hand : 649 163 902 841 635 93 211 599 9 922 537 810 853 9 355 871 854 860 649 142 
+player 193 draws a 922 from deck 193
+player 193 discards a 649 to deck 194
+player 193 current hand : 163 902 841 635 93 211 599 9 922 537 810 853 9 355 871 854 860 649 142 922 
+player 193 draws a 812 from deck 193
+player 193 discards a 163 to deck 194
+player 193 current hand : 902 841 635 93 211 599 9 922 537 810 853 9 355 871 854 860 649 142 922 812 
+player 193 draws a 981 from deck 193
+player 193 discards a 902 to deck 194
+player 193 current hand : 841 635 93 211 599 9 922 537 810 853 9 355 871 854 860 649 142 922 812 981 
+player 193 draws a 736 from deck 193
+player 193 discards a 841 to deck 194
+player 193 current hand : 635 93 211 599 9 922 537 810 853 9 355 871 854 860 649 142 922 812 981 736 
+player 193 draws a 44 from deck 193
+player 193 discards a 635 to deck 194
+player 193 current hand : 93 211 599 9 922 537 810 853 9 355 871 854 860 649 142 922 812 981 736 44 
+player 193 draws a 313 from deck 193
+player 193 discards a 93 to deck 194

@@ -1,0 +1,296 @@
+player 660 initial hand 507 556 1000 840 885 887 196 666 423 111 436 786 242 440 949 933 10 890 581 219 
+player 660 draws a 571 from deck 660
+player 660 discards a 507 to deck 661
+player 660 current hand : 556 1000 840 885 887 196 666 423 111 436 786 242 440 949 933 10 890 581 219 571 
+player 660 draws a 248 from deck 660
+player 660 discards a 556 to deck 661
+player 660 current hand : 1000 840 885 887 196 666 423 111 436 786 242 440 949 933 10 890 581 219 571 248 
+player 660 draws a 18 from deck 660
+player 660 discards a 1000 to deck 661
+player 660 current hand : 840 885 887 196 666 423 111 436 786 242 440 949 933 10 890 581 219 571 248 18 
+player 660 draws a 907 from deck 660
+player 660 discards a 840 to deck 661
+player 660 current hand : 885 887 196 666 423 111 436 786 242 440 949 933 10 890 581 219 571 248 18 907 
+player 660 draws a 548 from deck 660
+player 660 discards a 885 to deck 661
+player 660 current hand : 887 196 666 423 111 436 786 242 440 949 933 10 890 581 219 571 248 18 907 548 
+player 660 draws a 664 from deck 660
+player 660 discards a 887 to deck 661
+player 660 current hand : 196 666 423 111 436 786 242 440 949 933 10 890 581 219 571 248 18 907 548 664 
+player 660 draws a 494 from deck 660
+player 660 discards a 196 to deck 661
+player 660 current hand : 666 423 111 436 786 242 440 949 933 10 890 581 219 571 248 18 907 548 664 494 
+player 660 draws a 792 from deck 660
+player 660 discards a 666 to deck 661
+player 660 current hand : 423 111 436 786 242 440 949 933 10 890 581 219 571 248 18 907 548 664 494 792 
+player 660 draws a 189 from deck 660
+player 660 discards a 423 to deck 661
+player 660 current hand : 111 436 786 242 440 949 933 10 890 581 219 571 248 18 907 548 664 494 792 189 
+player 660 draws a 868 from deck 660
+player 660 discards a 111 to deck 661
+player 660 current hand : 436 786 242 440 949 933 10 890 581 219 571 248 18 907 548 664 494 792 189 868 
+player 660 draws a 954 from deck 660
+player 660 discards a 436 to deck 661
+player 660 current hand : 786 242 440 949 933 10 890 581 219 571 248 18 907 548 664 494 792 189 868 954 
+player 660 draws a 971 from deck 660
+player 660 discards a 786 to deck 661
+player 660 current hand : 242 440 949 933 10 890 581 219 571 248 18 907 548 664 494 792 189 868 954 971 
+player 660 draws a 673 from deck 660
+player 660 discards a 242 to deck 661
+player 660 current hand : 440 949 933 10 890 581 219 571 248 18 907 548 664 494 792 189 868 954 971 673 
+player 660 draws a 826 from deck 660
+player 660 discards a 440 to deck 661
+player 660 current hand : 949 933 10 890 581 219 571 248 18 907 548 664 494 792 189 868 954 971 673 826 
+player 660 draws a 565 from deck 660
+player 660 discards a 949 to deck 661
+player 660 current hand : 933 10 890 581 219 571 248 18 907 548 664 494 792 189 868 954 971 673 826 565 
+player 660 draws a 485 from deck 660
+player 660 discards a 933 to deck 661
+player 660 current hand : 10 890 581 219 571 248 18 907 548 664 494 792 189 868 954 971 673 826 565 485 
+player 660 draws a 753 from deck 660
+player 660 discards a 10 to deck 661
+player 660 current hand : 890 581 219 571 248 18 907 548 664 494 792 189 868 954 971 673 826 565 485 753 
+player 660 draws a 515 from deck 660
+player 660 discards a 890 to deck 661
+player 660 current hand : 581 219 571 248 18 907 548 664 494 792 189 868 954 971 673 826 565 485 753 515 
+player 660 draws a 480 from deck 660
+player 660 discards a 581 to deck 661
+player 660 current hand : 219 571 248 18 907 548 664 494 792 189 868 954 971 673 826 565 485 753 515 480 
+player 660 draws a 268 from deck 660
+player 660 discards a 219 to deck 661
+player 660 current hand : 571 248 18 907 548 664 494 792 189 868 954 971 673 826 565 485 753 515 480 268 
+player 660 draws a 258 from deck 660
+player 660 discards a 571 to deck 661
+player 660 current hand : 248 18 907 548 664 494 792 189 868 954 971 673 826 565 485 753 515 480 268 258 
+player 660 draws a 971 from deck 660
+player 660 discards a 248 to deck 661
+player 660 current hand : 18 907 548 664 494 792 189 868 954 971 673 826 565 485 753 515 480 268 258 971 
+player 660 draws a 198 from deck 660
+player 660 discards a 18 to deck 661
+player 660 current hand : 907 548 664 494 792 189 868 954 971 673 826 565 485 753 515 480 268 258 971 198 
+player 660 draws a 748 from deck 660
+player 660 discards a 907 to deck 661
+player 660 current hand : 548 664 494 792 189 868 954 971 673 826 565 485 753 515 480 268 258 971 198 748 
+player 660 draws a 633 from deck 660
+player 660 discards a 548 to deck 661
+player 660 current hand : 664 494 792 189 868 954 971 673 826 565 485 753 515 480 268 258 971 198 748 633 
+player 660 draws a 277 from deck 660
+player 660 discards a 664 to deck 661
+player 660 current hand : 494 792 189 868 954 971 673 826 565 485 753 515 480 268 258 971 198 748 633 277 
+player 660 draws a 531 from deck 660
+player 660 discards a 494 to deck 661
+player 660 current hand : 792 189 868 954 971 673 826 565 485 753 515 480 268 258 971 198 748 633 277 531 
+player 660 draws a 319 from deck 660
+player 660 discards a 792 to deck 661
+player 660 current hand : 189 868 954 971 673 826 565 485 753 515 480 268 258 971 198 748 633 277 531 319 
+player 660 draws a 411 from deck 660
+player 660 discards a 189 to deck 661
+player 660 current hand : 868 954 971 673 826 565 485 753 515 480 268 258 971 198 748 633 277 531 319 411 
+player 660 draws a 828 from deck 660
+player 660 discards a 868 to deck 661
+player 660 current hand : 954 971 673 826 565 485 753 515 480 268 258 971 198 748 633 277 531 319 411 828 
+player 660 draws a 409 from deck 660
+player 660 discards a 954 to deck 661
+player 660 current hand : 971 673 826 565 485 753 515 480 268 258 971 198 748 633 277 531 319 411 828 409 
+player 660 draws a 15 from deck 660
+player 660 discards a 971 to deck 661
+player 660 current hand : 673 826 565 485 753 515 480 268 258 971 198 748 633 277 531 319 411 828 409 15 
+player 660 draws a 622 from deck 660
+player 660 discards a 673 to deck 661
+player 660 current hand : 826 565 485 753 515 480 268 258 971 198 748 633 277 531 319 411 828 409 15 622 
+player 660 draws a 991 from deck 660
+player 660 discards a 826 to deck 661
+player 660 current hand : 565 485 753 515 480 268 258 971 198 748 633 277 531 319 411 828 409 15 622 991 
+player 660 draws a 360 from deck 660
+player 660 discards a 565 to deck 661
+player 660 current hand : 485 753 515 480 268 258 971 198 748 633 277 531 319 411 828 409 15 622 991 360 
+player 660 draws a 893 from deck 660
+player 660 discards a 485 to deck 661
+player 660 current hand : 753 515 480 268 258 971 198 748 633 277 531 319 411 828 409 15 622 991 360 893 
+player 660 draws a 736 from deck 660
+player 660 discards a 753 to deck 661
+player 660 current hand : 515 480 268 258 971 198 748 633 277 531 319 411 828 409 15 622 991 360 893 736 
+player 660 draws a 557 from deck 660
+player 660 discards a 515 to deck 661
+player 660 current hand : 480 268 258 971 198 748 633 277 531 319 411 828 409 15 622 991 360 893 736 557 
+player 660 draws a 351 from deck 660
+player 660 discards a 480 to deck 661
+player 660 current hand : 268 258 971 198 748 633 277 531 319 411 828 409 15 622 991 360 893 736 557 351 
+player 660 draws a 993 from deck 660
+player 660 discards a 268 to deck 661
+player 660 current hand : 258 971 198 748 633 277 531 319 411 828 409 15 622 991 360 893 736 557 351 993 
+player 660 draws a 89 from deck 660
+player 660 discards a 258 to deck 661
+player 660 current hand : 971 198 748 633 277 531 319 411 828 409 15 622 991 360 893 736 557 351 993 89 
+player 660 draws a 309 from deck 660
+player 660 discards a 971 to deck 661
+player 660 current hand : 198 748 633 277 531 319 411 828 409 15 622 991 360 893 736 557 351 993 89 309 
+player 660 draws a 468 from deck 660
+player 660 discards a 198 to deck 661
+player 660 current hand : 748 633 277 531 319 411 828 409 15 622 991 360 893 736 557 351 993 89 309 468 
+player 660 draws a 853 from deck 660
+player 660 discards a 748 to deck 661
+player 660 current hand : 633 277 531 319 411 828 409 15 622 991 360 893 736 557 351 993 89 309 468 853 
+player 660 draws a 764 from deck 660
+player 660 discards a 633 to deck 661
+player 660 current hand : 277 531 319 411 828 409 15 622 991 360 893 736 557 351 993 89 309 468 853 764 
+player 660 draws a 634 from deck 660
+player 660 discards a 277 to deck 661
+player 660 current hand : 531 319 411 828 409 15 622 991 360 893 736 557 351 993 89 309 468 853 764 634 
+player 660 draws a 301 from deck 660
+player 660 discards a 531 to deck 661
+player 660 current hand : 319 411 828 409 15 622 991 360 893 736 557 351 993 89 309 468 853 764 634 301 
+player 660 draws a 138 from deck 660
+player 660 discards a 319 to deck 661
+player 660 current hand : 411 828 409 15 622 991 360 893 736 557 351 993 89 309 468 853 764 634 301 138 
+player 660 draws a 610 from deck 660
+player 660 discards a 411 to deck 661
+player 660 current hand : 828 409 15 622 991 360 893 736 557 351 993 89 309 468 853 764 634 301 138 610 
+player 660 draws a 415 from deck 660
+player 660 discards a 828 to deck 661
+player 660 current hand : 409 15 622 991 360 893 736 557 351 993 89 309 468 853 764 634 301 138 610 415 
+player 660 draws a 154 from deck 660
+player 660 discards a 409 to deck 661
+player 660 current hand : 15 622 991 360 893 736 557 351 993 89 309 468 853 764 634 301 138 610 415 154 
+player 660 draws a 951 from deck 660
+player 660 discards a 15 to deck 661
+player 660 current hand : 622 991 360 893 736 557 351 993 89 309 468 853 764 634 301 138 610 415 154 951 
+player 660 draws a 854 from deck 660
+player 660 discards a 622 to deck 661
+player 660 current hand : 991 360 893 736 557 351 993 89 309 468 853 764 634 301 138 610 415 154 951 854 
+player 660 draws a 539 from deck 660
+player 660 discards a 991 to deck 661
+player 660 current hand : 360 893 736 557 351 993 89 309 468 853 764 634 301 138 610 415 154 951 854 539 
+player 660 draws a 370 from deck 660
+player 660 discards a 360 to deck 661
+player 660 current hand : 893 736 557 351 993 89 309 468 853 764 634 301 138 610 415 154 951 854 539 370 
+player 660 draws a 896 from deck 660
+player 660 discards a 893 to deck 661
+player 660 current hand : 736 557 351 993 89 309 468 853 764 634 301 138 610 415 154 951 854 539 370 896 
+player 660 draws a 762 from deck 660
+player 660 discards a 736 to deck 661
+player 660 current hand : 557 351 993 89 309 468 853 764 634 301 138 610 415 154 951 854 539 370 896 762 
+player 660 draws a 92 from deck 660
+player 660 discards a 557 to deck 661
+player 660 current hand : 351 993 89 309 468 853 764 634 301 138 610 415 154 951 854 539 370 896 762 92 
+player 660 draws a 180 from deck 660
+player 660 discards a 351 to deck 661
+player 660 current hand : 993 89 309 468 853 764 634 301 138 610 415 154 951 854 539 370 896 762 92 180 
+player 660 draws a 924 from deck 660
+player 660 discards a 993 to deck 661
+player 660 current hand : 89 309 468 853 764 634 301 138 610 415 154 951 854 539 370 896 762 92 180 924 
+player 660 draws a 538 from deck 660
+player 660 discards a 89 to deck 661
+player 660 current hand : 309 468 853 764 634 301 138 610 415 154 951 854 539 370 896 762 92 180 924 538 
+player 660 draws a 535 from deck 660
+player 660 discards a 309 to deck 661
+player 660 current hand : 468 853 764 634 301 138 610 415 154 951 854 539 370 896 762 92 180 924 538 535 
+player 660 draws a 163 from deck 660
+player 660 discards a 468 to deck 661
+player 660 current hand : 853 764 634 301 138 610 415 154 951 854 539 370 896 762 92 180 924 538 535 163 
+player 660 draws a 229 from deck 660
+player 660 discards a 853 to deck 661
+player 660 current hand : 764 634 301 138 610 415 154 951 854 539 370 896 762 92 180 924 538 535 163 229 
+player 660 draws a 834 from deck 660
+player 660 discards a 764 to deck 661
+player 660 current hand : 634 301 138 610 415 154 951 854 539 370 896 762 92 180 924 538 535 163 229 834 
+player 660 draws a 389 from deck 660
+player 660 discards a 634 to deck 661
+player 660 current hand : 301 138 610 415 154 951 854 539 370 896 762 92 180 924 538 535 163 229 834 389 
+player 660 draws a 258 from deck 660
+player 660 discards a 301 to deck 661
+player 660 current hand : 138 610 415 154 951 854 539 370 896 762 92 180 924 538 535 163 229 834 389 258 
+player 660 draws a 973 from deck 660
+player 660 discards a 138 to deck 661
+player 660 current hand : 610 415 154 951 854 539 370 896 762 92 180 924 538 535 163 229 834 389 258 973 
+player 660 draws a 229 from deck 660
+player 660 discards a 610 to deck 661
+player 660 current hand : 415 154 951 854 539 370 896 762 92 180 924 538 535 163 229 834 389 258 973 229 
+player 660 draws a 736 from deck 660
+player 660 discards a 415 to deck 661
+player 660 current hand : 154 951 854 539 370 896 762 92 180 924 538 535 163 229 834 389 258 973 229 736 
+player 660 draws a 763 from deck 660
+player 660 discards a 154 to deck 661
+player 660 current hand : 951 854 539 370 896 762 92 180 924 538 535 163 229 834 389 258 973 229 736 763 
+player 660 draws a 434 from deck 660
+player 660 discards a 951 to deck 661
+player 660 current hand : 854 539 370 896 762 92 180 924 538 535 163 229 834 389 258 973 229 736 763 434 
+player 660 draws a 583 from deck 660
+player 660 discards a 854 to deck 661
+player 660 current hand : 539 370 896 762 92 180 924 538 535 163 229 834 389 258 973 229 736 763 434 583 
+player 660 draws a 258 from deck 660
+player 660 discards a 539 to deck 661
+player 660 current hand : 370 896 762 92 180 924 538 535 163 229 834 389 258 973 229 736 763 434 583 258 
+player 660 draws a 812 from deck 660
+player 660 discards a 370 to deck 661
+player 660 current hand : 896 762 92 180 924 538 535 163 229 834 389 258 973 229 736 763 434 583 258 812 
+player 660 draws a 194 from deck 660
+player 660 discards a 896 to deck 661
+player 660 current hand : 762 92 180 924 538 535 163 229 834 389 258 973 229 736 763 434 583 258 812 194 
+player 660 draws a 127 from deck 660
+player 660 discards a 762 to deck 661
+player 660 current hand : 92 180 924 538 535 163 229 834 389 258 973 229 736 763 434 583 258 812 194 127 
+player 660 draws a 265 from deck 660
+player 660 discards a 92 to deck 661
+player 660 current hand : 180 924 538 535 163 229 834 389 258 973 229 736 763 434 583 258 812 194 127 265 
+player 660 draws a 153 from deck 660
+player 660 discards a 180 to deck 661
+player 660 current hand : 924 538 535 163 229 834 389 258 973 229 736 763 434 583 258 812 194 127 265 153 
+player 660 draws a 540 from deck 660
+player 660 discards a 924 to deck 661
+player 660 current hand : 538 535 163 229 834 389 258 973 229 736 763 434 583 258 812 194 127 265 153 540 
+player 660 draws a 702 from deck 660
+player 660 discards a 538 to deck 661
+player 660 current hand : 535 163 229 834 389 258 973 229 736 763 434 583 258 812 194 127 265 153 540 702 
+player 660 draws a 249 from deck 660
+player 660 discards a 535 to deck 661
+player 660 current hand : 163 229 834 389 258 973 229 736 763 434 583 258 812 194 127 265 153 540 702 249 
+player 660 draws a 238 from deck 660
+player 660 discards a 163 to deck 661
+player 660 current hand : 229 834 389 258 973 229 736 763 434 583 258 812 194 127 265 153 540 702 249 238 
+player 660 draws a 510 from deck 660
+player 660 discards a 229 to deck 661
+player 660 current hand : 834 389 258 973 229 736 763 434 583 258 812 194 127 265 153 540 702 249 238 510 
+player 660 draws a 720 from deck 660
+player 660 discards a 834 to deck 661
+player 660 current hand : 389 258 973 229 736 763 434 583 258 812 194 127 265 153 540 702 249 238 510 720 
+player 660 draws a 296 from deck 660
+player 660 discards a 389 to deck 661
+player 660 current hand : 258 973 229 736 763 434 583 258 812 194 127 265 153 540 702 249 238 510 720 296 
+player 660 draws a 711 from deck 660
+player 660 discards a 258 to deck 661
+player 660 current hand : 973 229 736 763 434 583 258 812 194 127 265 153 540 702 249 238 510 720 296 711 
+player 660 draws a 209 from deck 660
+player 660 discards a 973 to deck 661
+player 660 current hand : 229 736 763 434 583 258 812 194 127 265 153 540 702 249 238 510 720 296 711 209 
+player 660 draws a 988 from deck 660
+player 660 discards a 229 to deck 661
+player 660 current hand : 736 763 434 583 258 812 194 127 265 153 540 702 249 238 510 720 296 711 209 988 
+player 660 draws a 210 from deck 660
+player 660 discards a 736 to deck 661
+player 660 current hand : 763 434 583 258 812 194 127 265 153 540 702 249 238 510 720 296 711 209 988 210 
+player 660 draws a 455 from deck 660
+player 660 discards a 763 to deck 661
+player 660 current hand : 434 583 258 812 194 127 265 153 540 702 249 238 510 720 296 711 209 988 210 455 
+player 660 draws a 753 from deck 660
+player 660 discards a 434 to deck 661
+player 660 current hand : 583 258 812 194 127 265 153 540 702 249 238 510 720 296 711 209 988 210 455 753 
+player 660 draws a 263 from deck 660
+player 660 discards a 583 to deck 661
+player 660 current hand : 258 812 194 127 265 153 540 702 249 238 510 720 296 711 209 988 210 455 753 263 
+player 660 draws a 105 from deck 660
+player 660 discards a 258 to deck 661
+player 660 current hand : 812 194 127 265 153 540 702 249 238 510 720 296 711 209 988 210 455 753 263 105 
+player 660 draws a 284 from deck 660
+player 660 discards a 812 to deck 661
+player 660 current hand : 194 127 265 153 540 702 249 238 510 720 296 711 209 988 210 455 753 263 105 284 
+player 660 draws a 649 from deck 660
+player 660 discards a 194 to deck 661
+player 660 current hand : 127 265 153 540 702 249 238 510 720 296 711 209 988 210 455 753 263 105 284 649 
+player 660 draws a 635 from deck 660
+player 660 discards a 127 to deck 661
+player 660 current hand : 265 153 540 702 249 238 510 720 296 711 209 988 210 455 753 263 105 284 649 635 
+player 660 draws a 926 from deck 660
+player 660 discards a 265 to deck 661
+player 660 current hand : 153 540 702 249 238 510 720 296 711 209 988 210 455 753 263 105 284 649 635 926 
+player 660 draws a 668 from deck 660

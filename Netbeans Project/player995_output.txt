@@ -1,0 +1,301 @@
+player 995 initial hand 854 805 691 510 286 605 482 899 440 440 175 357 748 168 265 558 396 197 416 877 
+player 995 draws a 84 from deck 995
+player 995 discards a 854 to deck 996
+player 995 current hand : 805 691 510 286 605 482 899 440 440 175 357 748 168 265 558 396 197 416 877 84 
+player 995 draws a 497 from deck 995
+player 995 discards a 805 to deck 996
+player 995 current hand : 691 510 286 605 482 899 440 440 175 357 748 168 265 558 396 197 416 877 84 497 
+player 995 draws a 550 from deck 995
+player 995 discards a 691 to deck 996
+player 995 current hand : 510 286 605 482 899 440 440 175 357 748 168 265 558 396 197 416 877 84 497 550 
+player 995 draws a 758 from deck 995
+player 995 discards a 510 to deck 996
+player 995 current hand : 286 605 482 899 440 440 175 357 748 168 265 558 396 197 416 877 84 497 550 758 
+player 995 draws a 113 from deck 995
+player 995 discards a 286 to deck 996
+player 995 current hand : 605 482 899 440 440 175 357 748 168 265 558 396 197 416 877 84 497 550 758 113 
+player 995 draws a 969 from deck 995
+player 995 discards a 605 to deck 996
+player 995 current hand : 482 899 440 440 175 357 748 168 265 558 396 197 416 877 84 497 550 758 113 969 
+player 995 draws a 47 from deck 995
+player 995 discards a 482 to deck 996
+player 995 current hand : 899 440 440 175 357 748 168 265 558 396 197 416 877 84 497 550 758 113 969 47 
+player 995 draws a 917 from deck 995
+player 995 discards a 899 to deck 996
+player 995 current hand : 440 440 175 357 748 168 265 558 396 197 416 877 84 497 550 758 113 969 47 917 
+player 995 draws a 712 from deck 995
+player 995 discards a 440 to deck 996
+player 995 current hand : 440 175 357 748 168 265 558 396 197 416 877 84 497 550 758 113 969 47 917 712 
+player 995 draws a 114 from deck 995
+player 995 discards a 440 to deck 996
+player 995 current hand : 175 357 748 168 265 558 396 197 416 877 84 497 550 758 113 969 47 917 712 114 
+player 995 draws a 167 from deck 995
+player 995 discards a 175 to deck 996
+player 995 current hand : 357 748 168 265 558 396 197 416 877 84 497 550 758 113 969 47 917 712 114 167 
+player 995 draws a 721 from deck 995
+player 995 discards a 357 to deck 996
+player 995 current hand : 748 168 265 558 396 197 416 877 84 497 550 758 113 969 47 917 712 114 167 721 
+player 995 draws a 622 from deck 995
+player 995 discards a 748 to deck 996
+player 995 current hand : 168 265 558 396 197 416 877 84 497 550 758 113 969 47 917 712 114 167 721 622 
+player 995 draws a 617 from deck 995
+player 995 discards a 168 to deck 996
+player 995 current hand : 265 558 396 197 416 877 84 497 550 758 113 969 47 917 712 114 167 721 622 617 
+player 995 draws a 865 from deck 995
+player 995 discards a 265 to deck 996
+player 995 current hand : 558 396 197 416 877 84 497 550 758 113 969 47 917 712 114 167 721 622 617 865 
+player 995 draws a 826 from deck 995
+player 995 discards a 558 to deck 996
+player 995 current hand : 396 197 416 877 84 497 550 758 113 969 47 917 712 114 167 721 622 617 865 826 
+player 995 draws a 319 from deck 995
+player 995 discards a 396 to deck 996
+player 995 current hand : 197 416 877 84 497 550 758 113 969 47 917 712 114 167 721 622 617 865 826 319 
+player 995 draws a 44 from deck 995
+player 995 discards a 197 to deck 996
+player 995 current hand : 416 877 84 497 550 758 113 969 47 917 712 114 167 721 622 617 865 826 319 44 
+player 995 draws a 52 from deck 995
+player 995 discards a 416 to deck 996
+player 995 current hand : 877 84 497 550 758 113 969 47 917 712 114 167 721 622 617 865 826 319 44 52 
+player 995 draws a 599 from deck 995
+player 995 discards a 877 to deck 996
+player 995 current hand : 84 497 550 758 113 969 47 917 712 114 167 721 622 617 865 826 319 44 52 599 
+player 995 draws a 938 from deck 995
+player 995 discards a 84 to deck 996
+player 995 current hand : 497 550 758 113 969 47 917 712 114 167 721 622 617 865 826 319 44 52 599 938 
+player 995 draws a 403 from deck 995
+player 995 discards a 497 to deck 996
+player 995 current hand : 550 758 113 969 47 917 712 114 167 721 622 617 865 826 319 44 52 599 938 403 
+player 995 draws a 441 from deck 995
+player 995 discards a 550 to deck 996
+player 995 current hand : 758 113 969 47 917 712 114 167 721 622 617 865 826 319 44 52 599 938 403 441 
+player 995 draws a 718 from deck 995
+player 995 discards a 758 to deck 996
+player 995 current hand : 113 969 47 917 712 114 167 721 622 617 865 826 319 44 52 599 938 403 441 718 
+player 995 draws a 252 from deck 995
+player 995 discards a 113 to deck 996
+player 995 current hand : 969 47 917 712 114 167 721 622 617 865 826 319 44 52 599 938 403 441 718 252 
+player 995 draws a 1000 from deck 995
+player 995 discards a 969 to deck 996
+player 995 current hand : 47 917 712 114 167 721 622 617 865 826 319 44 52 599 938 403 441 718 252 1000 
+player 995 draws a 760 from deck 995
+player 995 discards a 47 to deck 996
+player 995 current hand : 917 712 114 167 721 622 617 865 826 319 44 52 599 938 403 441 718 252 1000 760 
+player 995 draws a 129 from deck 995
+player 995 discards a 917 to deck 996
+player 995 current hand : 712 114 167 721 622 617 865 826 319 44 52 599 938 403 441 718 252 1000 760 129 
+player 995 draws a 123 from deck 995
+player 995 discards a 712 to deck 996
+player 995 current hand : 114 167 721 622 617 865 826 319 44 52 599 938 403 441 718 252 1000 760 129 123 
+player 995 draws a 612 from deck 995
+player 995 discards a 114 to deck 996
+player 995 current hand : 167 721 622 617 865 826 319 44 52 599 938 403 441 718 252 1000 760 129 123 612 
+player 995 draws a 105 from deck 995
+player 995 discards a 167 to deck 996
+player 995 current hand : 721 622 617 865 826 319 44 52 599 938 403 441 718 252 1000 760 129 123 612 105 
+player 995 draws a 906 from deck 995
+player 995 discards a 721 to deck 996
+player 995 current hand : 622 617 865 826 319 44 52 599 938 403 441 718 252 1000 760 129 123 612 105 906 
+player 995 draws a 773 from deck 995
+player 995 discards a 622 to deck 996
+player 995 current hand : 617 865 826 319 44 52 599 938 403 441 718 252 1000 760 129 123 612 105 906 773 
+player 995 draws a 226 from deck 995
+player 995 discards a 617 to deck 996
+player 995 current hand : 865 826 319 44 52 599 938 403 441 718 252 1000 760 129 123 612 105 906 773 226 
+player 995 draws a 117 from deck 995
+player 995 discards a 865 to deck 996
+player 995 current hand : 826 319 44 52 599 938 403 441 718 252 1000 760 129 123 612 105 906 773 226 117 
+player 995 draws a 724 from deck 995
+player 995 discards a 826 to deck 996
+player 995 current hand : 319 44 52 599 938 403 441 718 252 1000 760 129 123 612 105 906 773 226 117 724 
+player 995 draws a 866 from deck 995
+player 995 discards a 319 to deck 996
+player 995 current hand : 44 52 599 938 403 441 718 252 1000 760 129 123 612 105 906 773 226 117 724 866 
+player 995 draws a 844 from deck 995
+player 995 discards a 44 to deck 996
+player 995 current hand : 52 599 938 403 441 718 252 1000 760 129 123 612 105 906 773 226 117 724 866 844 
+player 995 draws a 966 from deck 995
+player 995 discards a 52 to deck 996
+player 995 current hand : 599 938 403 441 718 252 1000 760 129 123 612 105 906 773 226 117 724 866 844 966 
+player 995 draws a 357 from deck 995
+player 995 discards a 599 to deck 996
+player 995 current hand : 938 403 441 718 252 1000 760 129 123 612 105 906 773 226 117 724 866 844 966 357 
+player 995 draws a 303 from deck 995
+player 995 discards a 938 to deck 996
+player 995 current hand : 403 441 718 252 1000 760 129 123 612 105 906 773 226 117 724 866 844 966 357 303 
+player 995 draws a 841 from deck 995
+player 995 discards a 403 to deck 996
+player 995 current hand : 441 718 252 1000 760 129 123 612 105 906 773 226 117 724 866 844 966 357 303 841 
+player 995 draws a 370 from deck 995
+player 995 discards a 441 to deck 996
+player 995 current hand : 718 252 1000 760 129 123 612 105 906 773 226 117 724 866 844 966 357 303 841 370 
+player 995 draws a 862 from deck 995
+player 995 discards a 718 to deck 996
+player 995 current hand : 252 1000 760 129 123 612 105 906 773 226 117 724 866 844 966 357 303 841 370 862 
+player 995 draws a 516 from deck 995
+player 995 discards a 252 to deck 996
+player 995 current hand : 1000 760 129 123 612 105 906 773 226 117 724 866 844 966 357 303 841 370 862 516 
+player 995 draws a 941 from deck 995
+player 995 discards a 1000 to deck 996
+player 995 current hand : 760 129 123 612 105 906 773 226 117 724 866 844 966 357 303 841 370 862 516 941 
+player 995 draws a 393 from deck 995
+player 995 discards a 760 to deck 996
+player 995 current hand : 129 123 612 105 906 773 226 117 724 866 844 966 357 303 841 370 862 516 941 393 
+player 995 draws a 633 from deck 995
+player 995 discards a 129 to deck 996
+player 995 current hand : 123 612 105 906 773 226 117 724 866 844 966 357 303 841 370 862 516 941 393 633 
+player 995 draws a 156 from deck 995
+player 995 discards a 123 to deck 996
+player 995 current hand : 612 105 906 773 226 117 724 866 844 966 357 303 841 370 862 516 941 393 633 156 
+player 995 draws a 886 from deck 995
+player 995 discards a 612 to deck 996
+player 995 current hand : 105 906 773 226 117 724 866 844 966 357 303 841 370 862 516 941 393 633 156 886 
+player 995 draws a 622 from deck 995
+player 995 discards a 105 to deck 996
+player 995 current hand : 906 773 226 117 724 866 844 966 357 303 841 370 862 516 941 393 633 156 886 622 
+player 995 draws a 901 from deck 995
+player 995 discards a 906 to deck 996
+player 995 current hand : 773 226 117 724 866 844 966 357 303 841 370 862 516 941 393 633 156 886 622 901 
+player 995 draws a 798 from deck 995
+player 995 discards a 773 to deck 996
+player 995 current hand : 226 117 724 866 844 966 357 303 841 370 862 516 941 393 633 156 886 622 901 798 
+player 995 draws a 270 from deck 995
+player 995 discards a 226 to deck 996
+player 995 current hand : 117 724 866 844 966 357 303 841 370 862 516 941 393 633 156 886 622 901 798 270 
+player 995 draws a 95 from deck 995
+player 995 discards a 117 to deck 996
+player 995 current hand : 724 866 844 966 357 303 841 370 862 516 941 393 633 156 886 622 901 798 270 95 
+player 995 draws a 497 from deck 995
+player 995 discards a 724 to deck 996
+player 995 current hand : 866 844 966 357 303 841 370 862 516 941 393 633 156 886 622 901 798 270 95 497 
+player 995 draws a 328 from deck 995
+player 995 discards a 866 to deck 996
+player 995 current hand : 844 966 357 303 841 370 862 516 941 393 633 156 886 622 901 798 270 95 497 328 
+player 995 draws a 262 from deck 995
+player 995 discards a 844 to deck 996
+player 995 current hand : 966 357 303 841 370 862 516 941 393 633 156 886 622 901 798 270 95 497 328 262 
+player 995 draws a 993 from deck 995
+player 995 discards a 966 to deck 996
+player 995 current hand : 357 303 841 370 862 516 941 393 633 156 886 622 901 798 270 95 497 328 262 993 
+player 995 draws a 62 from deck 995
+player 995 discards a 357 to deck 996
+player 995 current hand : 303 841 370 862 516 941 393 633 156 886 622 901 798 270 95 497 328 262 993 62 
+player 995 draws a 235 from deck 995
+player 995 discards a 303 to deck 996
+player 995 current hand : 841 370 862 516 941 393 633 156 886 622 901 798 270 95 497 328 262 993 62 235 
+player 995 draws a 796 from deck 995
+player 995 discards a 841 to deck 996
+player 995 current hand : 370 862 516 941 393 633 156 886 622 901 798 270 95 497 328 262 993 62 235 796 
+player 995 draws a 729 from deck 995
+player 995 discards a 370 to deck 996
+player 995 current hand : 862 516 941 393 633 156 886 622 901 798 270 95 497 328 262 993 62 235 796 729 
+player 995 draws a 31 from deck 995
+player 995 discards a 862 to deck 996
+player 995 current hand : 516 941 393 633 156 886 622 901 798 270 95 497 328 262 993 62 235 796 729 31 
+player 995 draws a 182 from deck 995
+player 995 discards a 516 to deck 996
+player 995 current hand : 941 393 633 156 886 622 901 798 270 95 497 328 262 993 62 235 796 729 31 182 
+player 995 draws a 149 from deck 995
+player 995 discards a 941 to deck 996
+player 995 current hand : 393 633 156 886 622 901 798 270 95 497 328 262 993 62 235 796 729 31 182 149 
+player 995 draws a 666 from deck 995
+player 995 discards a 393 to deck 996
+player 995 current hand : 633 156 886 622 901 798 270 95 497 328 262 993 62 235 796 729 31 182 149 666 
+player 995 draws a 22 from deck 995
+player 995 discards a 633 to deck 996
+player 995 current hand : 156 886 622 901 798 270 95 497 328 262 993 62 235 796 729 31 182 149 666 22 
+player 995 draws a 173 from deck 995
+player 995 discards a 156 to deck 996
+player 995 current hand : 886 622 901 798 270 95 497 328 262 993 62 235 796 729 31 182 149 666 22 173 
+player 995 draws a 351 from deck 995
+player 995 discards a 886 to deck 996
+player 995 current hand : 622 901 798 270 95 497 328 262 993 62 235 796 729 31 182 149 666 22 173 351 
+player 995 draws a 548 from deck 995
+player 995 discards a 622 to deck 996
+player 995 current hand : 901 798 270 95 497 328 262 993 62 235 796 729 31 182 149 666 22 173 351 548 
+player 995 draws a 838 from deck 995
+player 995 discards a 901 to deck 996
+player 995 current hand : 798 270 95 497 328 262 993 62 235 796 729 31 182 149 666 22 173 351 548 838 
+player 995 draws a 507 from deck 995
+player 995 discards a 798 to deck 996
+player 995 current hand : 270 95 497 328 262 993 62 235 796 729 31 182 149 666 22 173 351 548 838 507 
+player 995 draws a 797 from deck 995
+player 995 discards a 270 to deck 996
+player 995 current hand : 95 497 328 262 993 62 235 796 729 31 182 149 666 22 173 351 548 838 507 797 
+player 995 draws a 363 from deck 995
+player 995 discards a 95 to deck 996
+player 995 current hand : 497 328 262 993 62 235 796 729 31 182 149 666 22 173 351 548 838 507 797 363 
+player 995 draws a 948 from deck 995
+player 995 discards a 497 to deck 996
+player 995 current hand : 328 262 993 62 235 796 729 31 182 149 666 22 173 351 548 838 507 797 363 948 
+player 995 draws a 669 from deck 995
+player 995 discards a 328 to deck 996
+player 995 current hand : 262 993 62 235 796 729 31 182 149 666 22 173 351 548 838 507 797 363 948 669 
+player 995 draws a 686 from deck 995
+player 995 discards a 262 to deck 996
+player 995 current hand : 993 62 235 796 729 31 182 149 666 22 173 351 548 838 507 797 363 948 669 686 
+player 995 draws a 355 from deck 995
+player 995 discards a 993 to deck 996
+player 995 current hand : 62 235 796 729 31 182 149 666 22 173 351 548 838 507 797 363 948 669 686 355 
+player 995 draws a 155 from deck 995
+player 995 discards a 62 to deck 996
+player 995 current hand : 235 796 729 31 182 149 666 22 173 351 548 838 507 797 363 948 669 686 355 155 
+player 995 draws a 117 from deck 995
+player 995 discards a 235 to deck 996
+player 995 current hand : 796 729 31 182 149 666 22 173 351 548 838 507 797 363 948 669 686 355 155 117 
+player 995 draws a 187 from deck 995
+player 995 discards a 796 to deck 996
+player 995 current hand : 729 31 182 149 666 22 173 351 548 838 507 797 363 948 669 686 355 155 117 187 
+player 995 draws a 746 from deck 995
+player 995 discards a 729 to deck 996
+player 995 current hand : 31 182 149 666 22 173 351 548 838 507 797 363 948 669 686 355 155 117 187 746 
+player 995 draws a 779 from deck 995
+player 995 discards a 31 to deck 996
+player 995 current hand : 182 149 666 22 173 351 548 838 507 797 363 948 669 686 355 155 117 187 746 779 
+player 995 draws a 269 from deck 995
+player 995 discards a 182 to deck 996
+player 995 current hand : 149 666 22 173 351 548 838 507 797 363 948 669 686 355 155 117 187 746 779 269 
+player 995 draws a 241 from deck 995
+player 995 discards a 149 to deck 996
+player 995 current hand : 666 22 173 351 548 838 507 797 363 948 669 686 355 155 117 187 746 779 269 241 
+player 995 draws a 536 from deck 995
+player 995 discards a 666 to deck 996
+player 995 current hand : 22 173 351 548 838 507 797 363 948 669 686 355 155 117 187 746 779 269 241 536 
+player 995 draws a 275 from deck 995
+player 995 discards a 22 to deck 996
+player 995 current hand : 173 351 548 838 507 797 363 948 669 686 355 155 117 187 746 779 269 241 536 275 
+player 995 draws a 952 from deck 995
+player 995 discards a 173 to deck 996
+player 995 current hand : 351 548 838 507 797 363 948 669 686 355 155 117 187 746 779 269 241 536 275 952 
+player 995 draws a 244 from deck 995
+player 995 discards a 351 to deck 996
+player 995 current hand : 548 838 507 797 363 948 669 686 355 155 117 187 746 779 269 241 536 275 952 244 
+player 995 draws a 4 from deck 995
+player 995 discards a 548 to deck 996
+player 995 current hand : 838 507 797 363 948 669 686 355 155 117 187 746 779 269 241 536 275 952 244 4 
+player 995 draws a 965 from deck 995
+player 995 discards a 838 to deck 996
+player 995 current hand : 507 797 363 948 669 686 355 155 117 187 746 779 269 241 536 275 952 244 4 965 
+player 995 draws a 930 from deck 995
+player 995 discards a 507 to deck 996
+player 995 current hand : 797 363 948 669 686 355 155 117 187 746 779 269 241 536 275 952 244 4 965 930 
+player 995 draws a 839 from deck 995
+player 995 discards a 797 to deck 996
+player 995 current hand : 363 948 669 686 355 155 117 187 746 779 269 241 536 275 952 244 4 965 930 839 
+player 995 draws a 142 from deck 995
+player 995 discards a 363 to deck 996
+player 995 current hand : 948 669 686 355 155 117 187 746 779 269 241 536 275 952 244 4 965 930 839 142 
+player 995 draws a 276 from deck 995
+player 995 discards a 948 to deck 996
+player 995 current hand : 669 686 355 155 117 187 746 779 269 241 536 275 952 244 4 965 930 839 142 276 
+player 995 draws a 248 from deck 995
+player 995 discards a 669 to deck 996
+player 995 current hand : 686 355 155 117 187 746 779 269 241 536 275 952 244 4 965 930 839 142 276 248 
+player 995 draws a 83 from deck 995
+player 995 discards a 686 to deck 996
+player 995 current hand : 355 155 117 187 746 779 269 241 536 275 952 244 4 965 930 839 142 276 248 83 
+player 995 draws a 252 from deck 995
+player 995 discards a 355 to deck 996
+player 995 current hand : 155 117 187 746 779 269 241 536 275 952 244 4 965 930 839 142 276 248 83 252 
+player 995 draws a 910 from deck 995
+player 995 discards a 155 to deck 996
+player 995 current hand : 117 187 746 779 269 241 536 275 952 244 4 965 930 839 142 276 248 83 252 910 

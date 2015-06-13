@@ -1,0 +1,312 @@
+player 402 initial hand 188 320 338 556 488 767 778 696 608 339 481 599 636 301 79 186 329 584 541 388 
+player 402 draws a 898 from deck 402
+player 402 discards a 188 to deck 403
+player 402 current hand : 320 338 556 488 767 778 696 608 339 481 599 636 301 79 186 329 584 541 388 898 
+player 402 draws a 511 from deck 402
+player 402 discards a 320 to deck 403
+player 402 current hand : 338 556 488 767 778 696 608 339 481 599 636 301 79 186 329 584 541 388 898 511 
+player 402 draws a 449 from deck 402
+player 402 discards a 338 to deck 403
+player 402 current hand : 556 488 767 778 696 608 339 481 599 636 301 79 186 329 584 541 388 898 511 449 
+player 402 draws a 12 from deck 402
+player 402 discards a 556 to deck 403
+player 402 current hand : 488 767 778 696 608 339 481 599 636 301 79 186 329 584 541 388 898 511 449 12 
+player 402 draws a 787 from deck 402
+player 402 discards a 488 to deck 403
+player 402 current hand : 767 778 696 608 339 481 599 636 301 79 186 329 584 541 388 898 511 449 12 787 
+player 402 draws a 862 from deck 402
+player 402 discards a 767 to deck 403
+player 402 current hand : 778 696 608 339 481 599 636 301 79 186 329 584 541 388 898 511 449 12 787 862 
+player 402 draws a 737 from deck 402
+player 402 discards a 778 to deck 403
+player 402 current hand : 696 608 339 481 599 636 301 79 186 329 584 541 388 898 511 449 12 787 862 737 
+player 402 draws a 196 from deck 402
+player 402 discards a 696 to deck 403
+player 402 current hand : 608 339 481 599 636 301 79 186 329 584 541 388 898 511 449 12 787 862 737 196 
+player 402 draws a 348 from deck 402
+player 402 discards a 608 to deck 403
+player 402 current hand : 339 481 599 636 301 79 186 329 584 541 388 898 511 449 12 787 862 737 196 348 
+player 402 draws a 706 from deck 402
+player 402 discards a 339 to deck 403
+player 402 current hand : 481 599 636 301 79 186 329 584 541 388 898 511 449 12 787 862 737 196 348 706 
+player 402 draws a 804 from deck 402
+player 402 discards a 481 to deck 403
+player 402 current hand : 599 636 301 79 186 329 584 541 388 898 511 449 12 787 862 737 196 348 706 804 
+player 402 draws a 550 from deck 402
+player 402 discards a 599 to deck 403
+player 402 current hand : 636 301 79 186 329 584 541 388 898 511 449 12 787 862 737 196 348 706 804 550 
+player 402 draws a 199 from deck 402
+player 402 discards a 636 to deck 403
+player 402 current hand : 301 79 186 329 584 541 388 898 511 449 12 787 862 737 196 348 706 804 550 199 
+player 402 draws a 877 from deck 402
+player 402 discards a 301 to deck 403
+player 402 current hand : 79 186 329 584 541 388 898 511 449 12 787 862 737 196 348 706 804 550 199 877 
+player 402 draws a 634 from deck 402
+player 402 discards a 79 to deck 403
+player 402 current hand : 186 329 584 541 388 898 511 449 12 787 862 737 196 348 706 804 550 199 877 634 
+player 402 draws a 879 from deck 402
+player 402 discards a 186 to deck 403
+player 402 current hand : 329 584 541 388 898 511 449 12 787 862 737 196 348 706 804 550 199 877 634 879 
+player 402 draws a 897 from deck 402
+player 402 discards a 329 to deck 403
+player 402 current hand : 584 541 388 898 511 449 12 787 862 737 196 348 706 804 550 199 877 634 879 897 
+player 402 draws a 436 from deck 402
+player 402 discards a 584 to deck 403
+player 402 current hand : 541 388 898 511 449 12 787 862 737 196 348 706 804 550 199 877 634 879 897 436 
+player 402 draws a 800 from deck 402
+player 402 discards a 541 to deck 403
+player 402 current hand : 388 898 511 449 12 787 862 737 196 348 706 804 550 199 877 634 879 897 436 800 
+player 402 draws a 830 from deck 402
+player 402 discards a 388 to deck 403
+player 402 current hand : 898 511 449 12 787 862 737 196 348 706 804 550 199 877 634 879 897 436 800 830 
+player 402 draws a 888 from deck 402
+player 402 discards a 898 to deck 403
+player 402 current hand : 511 449 12 787 862 737 196 348 706 804 550 199 877 634 879 897 436 800 830 888 
+player 402 draws a 576 from deck 402
+player 402 discards a 511 to deck 403
+player 402 current hand : 449 12 787 862 737 196 348 706 804 550 199 877 634 879 897 436 800 830 888 576 
+player 402 draws a 712 from deck 402
+player 402 discards a 449 to deck 403
+player 402 current hand : 12 787 862 737 196 348 706 804 550 199 877 634 879 897 436 800 830 888 576 712 
+player 402 draws a 134 from deck 402
+player 402 discards a 12 to deck 403
+player 402 current hand : 787 862 737 196 348 706 804 550 199 877 634 879 897 436 800 830 888 576 712 134 
+player 402 draws a 707 from deck 402
+player 402 discards a 787 to deck 403
+player 402 current hand : 862 737 196 348 706 804 550 199 877 634 879 897 436 800 830 888 576 712 134 707 
+player 402 draws a 284 from deck 402
+player 402 discards a 862 to deck 403
+player 402 current hand : 737 196 348 706 804 550 199 877 634 879 897 436 800 830 888 576 712 134 707 284 
+player 402 draws a 691 from deck 402
+player 402 discards a 737 to deck 403
+player 402 current hand : 196 348 706 804 550 199 877 634 879 897 436 800 830 888 576 712 134 707 284 691 
+player 402 draws a 518 from deck 402
+player 402 discards a 196 to deck 403
+player 402 current hand : 348 706 804 550 199 877 634 879 897 436 800 830 888 576 712 134 707 284 691 518 
+player 402 draws a 241 from deck 402
+player 402 discards a 348 to deck 403
+player 402 current hand : 706 804 550 199 877 634 879 897 436 800 830 888 576 712 134 707 284 691 518 241 
+player 402 draws a 970 from deck 402
+player 402 discards a 706 to deck 403
+player 402 current hand : 804 550 199 877 634 879 897 436 800 830 888 576 712 134 707 284 691 518 241 970 
+player 402 draws a 163 from deck 402
+player 402 discards a 804 to deck 403
+player 402 current hand : 550 199 877 634 879 897 436 800 830 888 576 712 134 707 284 691 518 241 970 163 
+player 402 draws a 466 from deck 402
+player 402 discards a 550 to deck 403
+player 402 current hand : 199 877 634 879 897 436 800 830 888 576 712 134 707 284 691 518 241 970 163 466 
+player 402 draws a 222 from deck 402
+player 402 discards a 199 to deck 403
+player 402 current hand : 877 634 879 897 436 800 830 888 576 712 134 707 284 691 518 241 970 163 466 222 
+player 402 draws a 834 from deck 402
+player 402 discards a 877 to deck 403
+player 402 current hand : 634 879 897 436 800 830 888 576 712 134 707 284 691 518 241 970 163 466 222 834 
+player 402 draws a 719 from deck 402
+player 402 discards a 634 to deck 403
+player 402 current hand : 879 897 436 800 830 888 576 712 134 707 284 691 518 241 970 163 466 222 834 719 
+player 402 draws a 939 from deck 402
+player 402 discards a 879 to deck 403
+player 402 current hand : 897 436 800 830 888 576 712 134 707 284 691 518 241 970 163 466 222 834 719 939 
+player 402 draws a 933 from deck 402
+player 402 discards a 897 to deck 403
+player 402 current hand : 436 800 830 888 576 712 134 707 284 691 518 241 970 163 466 222 834 719 939 933 
+player 402 draws a 10 from deck 402
+player 402 discards a 436 to deck 403
+player 402 current hand : 800 830 888 576 712 134 707 284 691 518 241 970 163 466 222 834 719 939 933 10 
+player 402 draws a 822 from deck 402
+player 402 discards a 800 to deck 403
+player 402 current hand : 830 888 576 712 134 707 284 691 518 241 970 163 466 222 834 719 939 933 10 822 
+player 402 draws a 844 from deck 402
+player 402 discards a 830 to deck 403
+player 402 current hand : 888 576 712 134 707 284 691 518 241 970 163 466 222 834 719 939 933 10 822 844 
+player 402 draws a 91 from deck 402
+player 402 discards a 888 to deck 403
+player 402 current hand : 576 712 134 707 284 691 518 241 970 163 466 222 834 719 939 933 10 822 844 91 
+player 402 draws a 346 from deck 402
+player 402 discards a 576 to deck 403
+player 402 current hand : 712 134 707 284 691 518 241 970 163 466 222 834 719 939 933 10 822 844 91 346 
+player 402 draws a 39 from deck 402
+player 402 discards a 712 to deck 403
+player 402 current hand : 134 707 284 691 518 241 970 163 466 222 834 719 939 933 10 822 844 91 346 39 
+player 402 draws a 744 from deck 402
+player 402 discards a 134 to deck 403
+player 402 current hand : 707 284 691 518 241 970 163 466 222 834 719 939 933 10 822 844 91 346 39 744 
+player 402 draws a 485 from deck 402
+player 402 discards a 707 to deck 403
+player 402 current hand : 284 691 518 241 970 163 466 222 834 719 939 933 10 822 844 91 346 39 744 485 
+player 402 draws a 668 from deck 402
+player 402 discards a 284 to deck 403
+player 402 current hand : 691 518 241 970 163 466 222 834 719 939 933 10 822 844 91 346 39 744 485 668 
+player 402 draws a 153 from deck 402
+player 402 discards a 691 to deck 403
+player 402 current hand : 518 241 970 163 466 222 834 719 939 933 10 822 844 91 346 39 744 485 668 153 
+player 402 draws a 456 from deck 402
+player 402 discards a 518 to deck 403
+player 402 current hand : 241 970 163 466 222 834 719 939 933 10 822 844 91 346 39 744 485 668 153 456 
+player 402 draws a 707 from deck 402
+player 402 discards a 241 to deck 403
+player 402 current hand : 970 163 466 222 834 719 939 933 10 822 844 91 346 39 744 485 668 153 456 707 
+player 402 draws a 480 from deck 402
+player 402 discards a 970 to deck 403
+player 402 current hand : 163 466 222 834 719 939 933 10 822 844 91 346 39 744 485 668 153 456 707 480 
+player 402 draws a 268 from deck 402
+player 402 discards a 163 to deck 403
+player 402 current hand : 466 222 834 719 939 933 10 822 844 91 346 39 744 485 668 153 456 707 480 268 
+player 402 draws a 706 from deck 402
+player 402 discards a 466 to deck 403
+player 402 current hand : 222 834 719 939 933 10 822 844 91 346 39 744 485 668 153 456 707 480 268 706 
+player 402 draws a 862 from deck 402
+player 402 discards a 222 to deck 403
+player 402 current hand : 834 719 939 933 10 822 844 91 346 39 744 485 668 153 456 707 480 268 706 862 
+player 402 draws a 817 from deck 402
+player 402 discards a 834 to deck 403
+player 402 current hand : 719 939 933 10 822 844 91 346 39 744 485 668 153 456 707 480 268 706 862 817 
+player 402 draws a 339 from deck 402
+player 402 discards a 719 to deck 403
+player 402 current hand : 939 933 10 822 844 91 346 39 744 485 668 153 456 707 480 268 706 862 817 339 
+player 402 draws a 285 from deck 402
+player 402 discards a 939 to deck 403
+player 402 current hand : 933 10 822 844 91 346 39 744 485 668 153 456 707 480 268 706 862 817 339 285 
+player 402 draws a 715 from deck 402
+player 402 discards a 933 to deck 403
+player 402 current hand : 10 822 844 91 346 39 744 485 668 153 456 707 480 268 706 862 817 339 285 715 
+player 402 draws a 320 from deck 402
+player 402 discards a 10 to deck 403
+player 402 current hand : 822 844 91 346 39 744 485 668 153 456 707 480 268 706 862 817 339 285 715 320 
+player 402 draws a 248 from deck 402
+player 402 discards a 822 to deck 403
+player 402 current hand : 844 91 346 39 744 485 668 153 456 707 480 268 706 862 817 339 285 715 320 248 
+player 402 draws a 768 from deck 402
+player 402 discards a 844 to deck 403
+player 402 current hand : 91 346 39 744 485 668 153 456 707 480 268 706 862 817 339 285 715 320 248 768 
+player 402 draws a 707 from deck 402
+player 402 discards a 91 to deck 403
+player 402 current hand : 346 39 744 485 668 153 456 707 480 268 706 862 817 339 285 715 320 248 768 707 
+player 402 draws a 285 from deck 402
+player 402 discards a 346 to deck 403
+player 402 current hand : 39 744 485 668 153 456 707 480 268 706 862 817 339 285 715 320 248 768 707 285 
+player 402 draws a 694 from deck 402
+player 402 discards a 39 to deck 403
+player 402 current hand : 744 485 668 153 456 707 480 268 706 862 817 339 285 715 320 248 768 707 285 694 
+player 402 draws a 393 from deck 402
+player 402 discards a 744 to deck 403
+player 402 current hand : 485 668 153 456 707 480 268 706 862 817 339 285 715 320 248 768 707 285 694 393 
+player 402 draws a 411 from deck 402
+player 402 discards a 485 to deck 403
+player 402 current hand : 668 153 456 707 480 268 706 862 817 339 285 715 320 248 768 707 285 694 393 411 
+player 402 draws a 440 from deck 402
+player 402 discards a 668 to deck 403
+player 402 current hand : 153 456 707 480 268 706 862 817 339 285 715 320 248 768 707 285 694 393 411 440 
+player 402 draws a 736 from deck 402
+player 402 discards a 153 to deck 403
+player 402 current hand : 456 707 480 268 706 862 817 339 285 715 320 248 768 707 285 694 393 411 440 736 
+player 402 draws a 720 from deck 402
+player 402 discards a 456 to deck 403
+player 402 current hand : 707 480 268 706 862 817 339 285 715 320 248 768 707 285 694 393 411 440 736 720 
+player 402 draws a 666 from deck 402
+player 402 discards a 707 to deck 403
+player 402 current hand : 480 268 706 862 817 339 285 715 320 248 768 707 285 694 393 411 440 736 720 666 
+player 402 draws a 515 from deck 402
+player 402 discards a 480 to deck 403
+player 402 current hand : 268 706 862 817 339 285 715 320 248 768 707 285 694 393 411 440 736 720 666 515 
+player 402 draws a 860 from deck 402
+player 402 discards a 268 to deck 403
+player 402 current hand : 706 862 817 339 285 715 320 248 768 707 285 694 393 411 440 736 720 666 515 860 
+player 402 draws a 814 from deck 402
+player 402 discards a 706 to deck 403
+player 402 current hand : 862 817 339 285 715 320 248 768 707 285 694 393 411 440 736 720 666 515 860 814 
+player 402 draws a 546 from deck 402
+player 402 discards a 862 to deck 403
+player 402 current hand : 817 339 285 715 320 248 768 707 285 694 393 411 440 736 720 666 515 860 814 546 
+player 402 draws a 105 from deck 402
+player 402 discards a 817 to deck 403
+player 402 current hand : 339 285 715 320 248 768 707 285 694 393 411 440 736 720 666 515 860 814 546 105 
+player 402 draws a 654 from deck 402
+player 402 discards a 339 to deck 403
+player 402 current hand : 285 715 320 248 768 707 285 694 393 411 440 736 720 666 515 860 814 546 105 654 
+player 402 draws a 948 from deck 402
+player 402 discards a 285 to deck 403
+player 402 current hand : 715 320 248 768 707 285 694 393 411 440 736 720 666 515 860 814 546 105 654 948 
+player 402 draws a 906 from deck 402
+player 402 discards a 715 to deck 403
+player 402 current hand : 320 248 768 707 285 694 393 411 440 736 720 666 515 860 814 546 105 654 948 906 
+player 402 draws a 117 from deck 402
+player 402 discards a 320 to deck 403
+player 402 current hand : 248 768 707 285 694 393 411 440 736 720 666 515 860 814 546 105 654 948 906 117 
+player 402 draws a 784 from deck 402
+player 402 discards a 248 to deck 403
+player 402 current hand : 768 707 285 694 393 411 440 736 720 666 515 860 814 546 105 654 948 906 117 784 
+player 402 draws a 973 from deck 402
+player 402 discards a 768 to deck 403
+player 402 current hand : 707 285 694 393 411 440 736 720 666 515 860 814 546 105 654 948 906 117 784 973 
+player 402 draws a 605 from deck 402
+player 402 discards a 707 to deck 403
+player 402 current hand : 285 694 393 411 440 736 720 666 515 860 814 546 105 654 948 906 117 784 973 605 
+player 402 draws a 110 from deck 402
+player 402 discards a 285 to deck 403
+player 402 current hand : 694 393 411 440 736 720 666 515 860 814 546 105 654 948 906 117 784 973 605 110 
+player 402 draws a 44 from deck 402
+player 402 discards a 694 to deck 403
+player 402 current hand : 393 411 440 736 720 666 515 860 814 546 105 654 948 906 117 784 973 605 110 44 
+player 402 draws a 509 from deck 402
+player 402 discards a 393 to deck 403
+player 402 current hand : 411 440 736 720 666 515 860 814 546 105 654 948 906 117 784 973 605 110 44 509 
+player 402 draws a 491 from deck 402
+player 402 discards a 411 to deck 403
+player 402 current hand : 440 736 720 666 515 860 814 546 105 654 948 906 117 784 973 605 110 44 509 491 
+player 402 draws a 510 from deck 402
+player 402 discards a 440 to deck 403
+player 402 current hand : 736 720 666 515 860 814 546 105 654 948 906 117 784 973 605 110 44 509 491 510 
+player 402 draws a 29 from deck 402
+player 402 discards a 736 to deck 403
+player 402 current hand : 720 666 515 860 814 546 105 654 948 906 117 784 973 605 110 44 509 491 510 29 
+player 402 draws a 170 from deck 402
+player 402 discards a 720 to deck 403
+player 402 current hand : 666 515 860 814 546 105 654 948 906 117 784 973 605 110 44 509 491 510 29 170 
+player 402 draws a 860 from deck 402
+player 402 discards a 666 to deck 403
+player 402 current hand : 515 860 814 546 105 654 948 906 117 784 973 605 110 44 509 491 510 29 170 860 
+player 402 draws a 176 from deck 402
+player 402 discards a 515 to deck 403
+player 402 current hand : 860 814 546 105 654 948 906 117 784 973 605 110 44 509 491 510 29 170 860 176 
+player 402 draws a 378 from deck 402
+player 402 discards a 860 to deck 403
+player 402 current hand : 814 546 105 654 948 906 117 784 973 605 110 44 509 491 510 29 170 860 176 378 
+player 402 draws a 795 from deck 402
+player 402 discards a 814 to deck 403
+player 402 current hand : 546 105 654 948 906 117 784 973 605 110 44 509 491 510 29 170 860 176 378 795 
+player 402 draws a 708 from deck 402
+player 402 discards a 546 to deck 403
+player 402 current hand : 105 654 948 906 117 784 973 605 110 44 509 491 510 29 170 860 176 378 795 708 
+player 402 draws a 537 from deck 402
+player 402 discards a 105 to deck 403
+player 402 current hand : 654 948 906 117 784 973 605 110 44 509 491 510 29 170 860 176 378 795 708 537 
+player 402 draws a 365 from deck 402
+player 402 discards a 654 to deck 403
+player 402 current hand : 948 906 117 784 973 605 110 44 509 491 510 29 170 860 176 378 795 708 537 365 
+player 402 draws a 496 from deck 402
+player 402 discards a 948 to deck 403
+player 402 current hand : 906 117 784 973 605 110 44 509 491 510 29 170 860 176 378 795 708 537 365 496 
+player 402 draws a 443 from deck 402
+player 402 discards a 906 to deck 403
+player 402 current hand : 117 784 973 605 110 44 509 491 510 29 170 860 176 378 795 708 537 365 496 443 
+player 402 draws a 634 from deck 402
+player 402 discards a 117 to deck 403
+player 402 current hand : 784 973 605 110 44 509 491 510 29 170 860 176 378 795 708 537 365 496 443 634 
+player 402 draws a 818 from deck 402
+player 402 discards a 784 to deck 403
+player 402 current hand : 973 605 110 44 509 491 510 29 170 860 176 378 795 708 537 365 496 443 634 818 
+player 402 draws a 237 from deck 402
+player 402 discards a 973 to deck 403
+player 402 current hand : 605 110 44 509 491 510 29 170 860 176 378 795 708 537 365 496 443 634 818 237 
+player 402 draws a 239 from deck 402
+player 402 discards a 605 to deck 403
+player 402 current hand : 110 44 509 491 510 29 170 860 176 378 795 708 537 365 496 443 634 818 237 239 
+player 402 draws a 4 from deck 402
+player 402 discards a 110 to deck 403
+player 402 current hand : 44 509 491 510 29 170 860 176 378 795 708 537 365 496 443 634 818 237 239 4 
+player 402 draws a 837 from deck 402
+player 402 discards a 44 to deck 403
+player 402 current hand : 509 491 510 29 170 860 176 378 795 708 537 365 496 443 634 818 237 239 4 837 
+player 402 draws a 595 from deck 402
+player 402 discards a 509 to deck 403

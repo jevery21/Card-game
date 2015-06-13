@@ -1,0 +1,326 @@
+player 584 initial hand 214 970 396 921 458 584 134 364 835 717 28 658 325 20 966 289 844 22 509 685 
+player 584 draws a 446 from deck 584
+player 584 discards a 214 to deck 585
+player 584 current hand : 970 396 921 458 584 134 364 835 717 28 658 325 20 966 289 844 22 509 685 446 
+player 584 draws a 783 from deck 584
+player 584 discards a 970 to deck 585
+player 584 current hand : 396 921 458 584 134 364 835 717 28 658 325 20 966 289 844 22 509 685 446 783 
+player 584 draws a 673 from deck 584
+player 584 discards a 396 to deck 585
+player 584 current hand : 921 458 584 134 364 835 717 28 658 325 20 966 289 844 22 509 685 446 783 673 
+player 584 draws a 10 from deck 584
+player 584 discards a 921 to deck 585
+player 584 current hand : 458 584 134 364 835 717 28 658 325 20 966 289 844 22 509 685 446 783 673 10 
+player 584 draws a 338 from deck 584
+player 584 discards a 458 to deck 585
+player 584 current hand : 584 134 364 835 717 28 658 325 20 966 289 844 22 509 685 446 783 673 10 338 
+player 584 draws a 718 from deck 584
+player 584 discards a 134 to deck 585
+player 584 current hand : 584 364 835 717 28 658 325 20 966 289 844 22 509 685 446 783 673 10 338 718 
+player 584 draws a 775 from deck 584
+player 584 discards a 364 to deck 585
+player 584 current hand : 584 835 717 28 658 325 20 966 289 844 22 509 685 446 783 673 10 338 718 775 
+player 584 draws a 351 from deck 584
+player 584 discards a 835 to deck 585
+player 584 current hand : 584 717 28 658 325 20 966 289 844 22 509 685 446 783 673 10 338 718 775 351 
+player 584 draws a 901 from deck 584
+player 584 discards a 717 to deck 585
+player 584 current hand : 584 28 658 325 20 966 289 844 22 509 685 446 783 673 10 338 718 775 351 901 
+player 584 draws a 395 from deck 584
+player 584 discards a 28 to deck 585
+player 584 current hand : 584 658 325 20 966 289 844 22 509 685 446 783 673 10 338 718 775 351 901 395 
+player 584 draws a 197 from deck 584
+player 584 discards a 658 to deck 585
+player 584 current hand : 584 325 20 966 289 844 22 509 685 446 783 673 10 338 718 775 351 901 395 197 
+player 584 draws a 224 from deck 584
+player 584 discards a 325 to deck 585
+player 584 current hand : 584 20 966 289 844 22 509 685 446 783 673 10 338 718 775 351 901 395 197 224 
+player 584 draws a 117 from deck 584
+player 584 discards a 20 to deck 585
+player 584 current hand : 584 966 289 844 22 509 685 446 783 673 10 338 718 775 351 901 395 197 224 117 
+player 584 draws a 456 from deck 584
+player 584 discards a 966 to deck 585
+player 584 current hand : 584 289 844 22 509 685 446 783 673 10 338 718 775 351 901 395 197 224 117 456 
+player 584 draws a 875 from deck 584
+player 584 discards a 289 to deck 585
+player 584 current hand : 584 844 22 509 685 446 783 673 10 338 718 775 351 901 395 197 224 117 456 875 
+player 584 draws a 922 from deck 584
+player 584 discards a 844 to deck 585
+player 584 current hand : 584 22 509 685 446 783 673 10 338 718 775 351 901 395 197 224 117 456 875 922 
+player 584 draws a 970 from deck 584
+player 584 discards a 22 to deck 585
+player 584 current hand : 584 509 685 446 783 673 10 338 718 775 351 901 395 197 224 117 456 875 922 970 
+player 584 draws a 233 from deck 584
+player 584 discards a 509 to deck 585
+player 584 current hand : 584 685 446 783 673 10 338 718 775 351 901 395 197 224 117 456 875 922 970 233 
+player 584 draws a 505 from deck 584
+player 584 discards a 685 to deck 585
+player 584 current hand : 584 446 783 673 10 338 718 775 351 901 395 197 224 117 456 875 922 970 233 505 
+player 584 draws a 173 from deck 584
+player 584 discards a 446 to deck 585
+player 584 current hand : 584 783 673 10 338 718 775 351 901 395 197 224 117 456 875 922 970 233 505 173 
+player 584 draws a 928 from deck 584
+player 584 discards a 783 to deck 585
+player 584 current hand : 584 673 10 338 718 775 351 901 395 197 224 117 456 875 922 970 233 505 173 928 
+player 584 draws a 470 from deck 584
+player 584 discards a 673 to deck 585
+player 584 current hand : 584 10 338 718 775 351 901 395 197 224 117 456 875 922 970 233 505 173 928 470 
+player 584 draws a 209 from deck 584
+player 584 discards a 10 to deck 585
+player 584 current hand : 584 338 718 775 351 901 395 197 224 117 456 875 922 970 233 505 173 928 470 209 
+player 584 draws a 844 from deck 584
+player 584 discards a 338 to deck 585
+player 584 current hand : 584 718 775 351 901 395 197 224 117 456 875 922 970 233 505 173 928 470 209 844 
+player 584 draws a 242 from deck 584
+player 584 discards a 718 to deck 585
+player 584 current hand : 584 775 351 901 395 197 224 117 456 875 922 970 233 505 173 928 470 209 844 242 
+player 584 draws a 708 from deck 584
+player 584 discards a 775 to deck 585
+player 584 current hand : 584 351 901 395 197 224 117 456 875 922 970 233 505 173 928 470 209 844 242 708 
+player 584 draws a 645 from deck 584
+player 584 discards a 351 to deck 585
+player 584 current hand : 584 901 395 197 224 117 456 875 922 970 233 505 173 928 470 209 844 242 708 645 
+player 584 draws a 316 from deck 584
+player 584 discards a 901 to deck 585
+player 584 current hand : 584 395 197 224 117 456 875 922 970 233 505 173 928 470 209 844 242 708 645 316 
+player 584 draws a 356 from deck 584
+player 584 discards a 395 to deck 585
+player 584 current hand : 584 197 224 117 456 875 922 970 233 505 173 928 470 209 844 242 708 645 316 356 
+player 584 draws a 269 from deck 584
+player 584 discards a 197 to deck 585
+player 584 current hand : 584 224 117 456 875 922 970 233 505 173 928 470 209 844 242 708 645 316 356 269 
+player 584 draws a 595 from deck 584
+player 584 discards a 224 to deck 585
+player 584 current hand : 584 117 456 875 922 970 233 505 173 928 470 209 844 242 708 645 316 356 269 595 
+player 584 draws a 691 from deck 584
+player 584 discards a 117 to deck 585
+player 584 current hand : 584 456 875 922 970 233 505 173 928 470 209 844 242 708 645 316 356 269 595 691 
+player 584 draws a 760 from deck 584
+player 584 discards a 456 to deck 585
+player 584 current hand : 584 875 922 970 233 505 173 928 470 209 844 242 708 645 316 356 269 595 691 760 
+player 584 draws a 816 from deck 584
+player 584 discards a 875 to deck 585
+player 584 current hand : 584 922 970 233 505 173 928 470 209 844 242 708 645 316 356 269 595 691 760 816 
+player 584 draws a 280 from deck 584
+player 584 discards a 922 to deck 585
+player 584 current hand : 584 970 233 505 173 928 470 209 844 242 708 645 316 356 269 595 691 760 816 280 
+player 584 draws a 344 from deck 584
+player 584 discards a 970 to deck 585
+player 584 current hand : 584 233 505 173 928 470 209 844 242 708 645 316 356 269 595 691 760 816 280 344 
+player 584 draws a 449 from deck 584
+player 584 discards a 233 to deck 585
+player 584 current hand : 584 505 173 928 470 209 844 242 708 645 316 356 269 595 691 760 816 280 344 449 
+player 584 draws a 481 from deck 584
+player 584 discards a 505 to deck 585
+player 584 current hand : 584 173 928 470 209 844 242 708 645 316 356 269 595 691 760 816 280 344 449 481 
+player 584 draws a 364 from deck 584
+player 584 discards a 173 to deck 585
+player 584 current hand : 584 928 470 209 844 242 708 645 316 356 269 595 691 760 816 280 344 449 481 364 
+player 584 draws a 438 from deck 584
+player 584 discards a 928 to deck 585
+player 584 current hand : 584 470 209 844 242 708 645 316 356 269 595 691 760 816 280 344 449 481 364 438 
+player 584 draws a 450 from deck 584
+player 584 discards a 470 to deck 585
+player 584 current hand : 584 209 844 242 708 645 316 356 269 595 691 760 816 280 344 449 481 364 438 450 
+player 584 draws a 62 from deck 584
+player 584 discards a 209 to deck 585
+player 584 current hand : 584 844 242 708 645 316 356 269 595 691 760 816 280 344 449 481 364 438 450 62 
+player 584 draws a 409 from deck 584
+player 584 discards a 844 to deck 585
+player 584 current hand : 584 242 708 645 316 356 269 595 691 760 816 280 344 449 481 364 438 450 62 409 
+player 584 draws a 105 from deck 584
+player 584 discards a 242 to deck 585
+player 584 current hand : 584 708 645 316 356 269 595 691 760 816 280 344 449 481 364 438 450 62 409 105 
+player 584 draws a 734 from deck 584
+player 584 discards a 708 to deck 585
+player 584 current hand : 584 645 316 356 269 595 691 760 816 280 344 449 481 364 438 450 62 409 105 734 
+player 584 draws a 922 from deck 584
+player 584 discards a 645 to deck 585
+player 584 current hand : 584 316 356 269 595 691 760 816 280 344 449 481 364 438 450 62 409 105 734 922 
+player 584 draws a 650 from deck 584
+player 584 discards a 316 to deck 585
+player 584 current hand : 584 356 269 595 691 760 816 280 344 449 481 364 438 450 62 409 105 734 922 650 
+player 584 draws a 994 from deck 584
+player 584 discards a 356 to deck 585
+player 584 current hand : 584 269 595 691 760 816 280 344 449 481 364 438 450 62 409 105 734 922 650 994 
+player 584 draws a 965 from deck 584
+player 584 discards a 269 to deck 585
+player 584 current hand : 584 595 691 760 816 280 344 449 481 364 438 450 62 409 105 734 922 650 994 965 
+player 584 draws a 403 from deck 584
+player 584 discards a 595 to deck 585
+player 584 current hand : 584 691 760 816 280 344 449 481 364 438 450 62 409 105 734 922 650 994 965 403 
+player 584 draws a 458 from deck 584
+player 584 discards a 691 to deck 585
+player 584 current hand : 584 760 816 280 344 449 481 364 438 450 62 409 105 734 922 650 994 965 403 458 
+player 584 draws a 919 from deck 584
+player 584 discards a 760 to deck 585
+player 584 current hand : 584 816 280 344 449 481 364 438 450 62 409 105 734 922 650 994 965 403 458 919 
+player 584 draws a 70 from deck 584
+player 584 discards a 816 to deck 585
+player 584 current hand : 584 280 344 449 481 364 438 450 62 409 105 734 922 650 994 965 403 458 919 70 
+player 584 draws a 970 from deck 584
+player 584 discards a 280 to deck 585
+player 584 current hand : 584 344 449 481 364 438 450 62 409 105 734 922 650 994 965 403 458 919 70 970 
+player 584 draws a 52 from deck 584
+player 584 discards a 344 to deck 585
+player 584 current hand : 584 449 481 364 438 450 62 409 105 734 922 650 994 965 403 458 919 70 970 52 
+player 584 draws a 420 from deck 584
+player 584 discards a 449 to deck 585
+player 584 current hand : 584 481 364 438 450 62 409 105 734 922 650 994 965 403 458 919 70 970 52 420 
+player 584 draws a 514 from deck 584
+player 584 discards a 481 to deck 585
+player 584 current hand : 584 364 438 450 62 409 105 734 922 650 994 965 403 458 919 70 970 52 420 514 
+player 584 draws a 701 from deck 584
+player 584 discards a 364 to deck 585
+player 584 current hand : 584 438 450 62 409 105 734 922 650 994 965 403 458 919 70 970 52 420 514 701 
+player 584 draws a 901 from deck 584
+player 584 discards a 438 to deck 585
+player 584 current hand : 584 450 62 409 105 734 922 650 994 965 403 458 919 70 970 52 420 514 701 901 
+player 584 draws a 883 from deck 584
+player 584 discards a 450 to deck 585
+player 584 current hand : 584 62 409 105 734 922 650 994 965 403 458 919 70 970 52 420 514 701 901 883 
+player 584 draws a 361 from deck 584
+player 584 discards a 62 to deck 585
+player 584 current hand : 584 409 105 734 922 650 994 965 403 458 919 70 970 52 420 514 701 901 883 361 
+player 584 draws a 537 from deck 584
+player 584 discards a 409 to deck 585
+player 584 current hand : 584 105 734 922 650 994 965 403 458 919 70 970 52 420 514 701 901 883 361 537 
+player 584 draws a 170 from deck 584
+player 584 discards a 105 to deck 585
+player 584 current hand : 584 734 922 650 994 965 403 458 919 70 970 52 420 514 701 901 883 361 537 170 
+player 584 draws a 682 from deck 584
+player 584 discards a 734 to deck 585
+player 584 current hand : 584 922 650 994 965 403 458 919 70 970 52 420 514 701 901 883 361 537 170 682 
+player 584 draws a 778 from deck 584
+player 584 discards a 922 to deck 585
+player 584 current hand : 584 650 994 965 403 458 919 70 970 52 420 514 701 901 883 361 537 170 682 778 
+player 584 draws a 951 from deck 584
+player 584 discards a 650 to deck 585
+player 584 current hand : 584 994 965 403 458 919 70 970 52 420 514 701 901 883 361 537 170 682 778 951 
+player 584 draws a 685 from deck 584
+player 584 discards a 994 to deck 585
+player 584 current hand : 584 965 403 458 919 70 970 52 420 514 701 901 883 361 537 170 682 778 951 685 
+player 584 draws a 160 from deck 584
+player 584 discards a 965 to deck 585
+player 584 current hand : 584 403 458 919 70 970 52 420 514 701 901 883 361 537 170 682 778 951 685 160 
+player 584 draws a 671 from deck 584
+player 584 discards a 403 to deck 585
+player 584 current hand : 584 458 919 70 970 52 420 514 701 901 883 361 537 170 682 778 951 685 160 671 
+player 584 draws a 964 from deck 584
+player 584 discards a 458 to deck 585
+player 584 current hand : 584 919 70 970 52 420 514 701 901 883 361 537 170 682 778 951 685 160 671 964 
+player 584 draws a 241 from deck 584
+player 584 discards a 919 to deck 585
+player 584 current hand : 584 70 970 52 420 514 701 901 883 361 537 170 682 778 951 685 160 671 964 241 
+player 584 draws a 333 from deck 584
+player 584 discards a 70 to deck 585
+player 584 current hand : 584 970 52 420 514 701 901 883 361 537 170 682 778 951 685 160 671 964 241 333 
+player 584 draws a 138 from deck 584
+player 584 discards a 970 to deck 585
+player 584 current hand : 584 52 420 514 701 901 883 361 537 170 682 778 951 685 160 671 964 241 333 138 
+player 584 draws a 468 from deck 584
+player 584 discards a 52 to deck 585
+player 584 current hand : 584 420 514 701 901 883 361 537 170 682 778 951 685 160 671 964 241 333 138 468 
+player 584 draws a 555 from deck 584
+player 584 discards a 420 to deck 585
+player 584 current hand : 584 514 701 901 883 361 537 170 682 778 951 685 160 671 964 241 333 138 468 555 
+player 584 draws a 612 from deck 584
+player 584 discards a 514 to deck 585
+player 584 current hand : 584 701 901 883 361 537 170 682 778 951 685 160 671 964 241 333 138 468 555 612 
+player 584 draws a 558 from deck 584
+player 584 discards a 701 to deck 585
+player 584 current hand : 584 901 883 361 537 170 682 778 951 685 160 671 964 241 333 138 468 555 612 558 
+player 584 draws a 537 from deck 584
+player 584 discards a 901 to deck 585
+player 584 current hand : 584 883 361 537 170 682 778 951 685 160 671 964 241 333 138 468 555 612 558 537 
+player 584 draws a 542 from deck 584
+player 584 discards a 883 to deck 585
+player 584 current hand : 584 361 537 170 682 778 951 685 160 671 964 241 333 138 468 555 612 558 537 542 
+player 584 draws a 635 from deck 584
+player 584 discards a 361 to deck 585
+player 584 current hand : 584 537 170 682 778 951 685 160 671 964 241 333 138 468 555 612 558 537 542 635 
+player 584 draws a 149 from deck 584
+player 584 discards a 537 to deck 585
+player 584 current hand : 584 170 682 778 951 685 160 671 964 241 333 138 468 555 612 558 537 542 635 149 
+player 584 draws a 319 from deck 584
+player 584 discards a 170 to deck 585
+player 584 current hand : 584 682 778 951 685 160 671 964 241 333 138 468 555 612 558 537 542 635 149 319 
+player 584 draws a 236 from deck 584
+player 584 discards a 682 to deck 585
+player 584 current hand : 584 778 951 685 160 671 964 241 333 138 468 555 612 558 537 542 635 149 319 236 
+player 584 draws a 529 from deck 584
+player 584 discards a 778 to deck 585
+player 584 current hand : 584 951 685 160 671 964 241 333 138 468 555 612 558 537 542 635 149 319 236 529 
+player 584 draws a 144 from deck 584
+player 584 discards a 951 to deck 585
+player 584 current hand : 584 685 160 671 964 241 333 138 468 555 612 558 537 542 635 149 319 236 529 144 
+player 584 draws a 81 from deck 584
+player 584 discards a 685 to deck 585
+player 584 current hand : 584 160 671 964 241 333 138 468 555 612 558 537 542 635 149 319 236 529 144 81 
+player 584 draws a 899 from deck 584
+player 584 discards a 160 to deck 585
+player 584 current hand : 584 671 964 241 333 138 468 555 612 558 537 542 635 149 319 236 529 144 81 899 
+player 584 draws a 855 from deck 584
+player 584 discards a 671 to deck 585
+player 584 current hand : 584 964 241 333 138 468 555 612 558 537 542 635 149 319 236 529 144 81 899 855 
+player 584 draws a 879 from deck 584
+player 584 discards a 964 to deck 585
+player 584 current hand : 584 241 333 138 468 555 612 558 537 542 635 149 319 236 529 144 81 899 855 879 
+player 584 draws a 913 from deck 584
+player 584 discards a 241 to deck 585
+player 584 current hand : 584 333 138 468 555 612 558 537 542 635 149 319 236 529 144 81 899 855 879 913 
+player 584 draws a 849 from deck 584
+player 584 discards a 333 to deck 585
+player 584 current hand : 584 138 468 555 612 558 537 542 635 149 319 236 529 144 81 899 855 879 913 849 
+player 584 draws a 136 from deck 584
+player 584 discards a 138 to deck 585
+player 584 current hand : 584 468 555 612 558 537 542 635 149 319 236 529 144 81 899 855 879 913 849 136 
+player 584 draws a 736 from deck 584
+player 584 discards a 468 to deck 585
+player 584 current hand : 584 555 612 558 537 542 635 149 319 236 529 144 81 899 855 879 913 849 136 736 
+player 584 draws a 274 from deck 584
+player 584 discards a 555 to deck 585
+player 584 current hand : 584 612 558 537 542 635 149 319 236 529 144 81 899 855 879 913 849 136 736 274 
+player 584 draws a 917 from deck 584
+player 584 discards a 612 to deck 585
+player 584 current hand : 584 558 537 542 635 149 319 236 529 144 81 899 855 879 913 849 136 736 274 917 
+player 584 draws a 793 from deck 584
+player 584 discards a 558 to deck 585
+player 584 current hand : 584 537 542 635 149 319 236 529 144 81 899 855 879 913 849 136 736 274 917 793 
+player 584 draws a 666 from deck 584
+player 584 discards a 537 to deck 585
+player 584 current hand : 584 542 635 149 319 236 529 144 81 899 855 879 913 849 136 736 274 917 793 666 
+player 584 draws a 545 from deck 584
+player 584 discards a 542 to deck 585
+player 584 current hand : 584 635 149 319 236 529 144 81 899 855 879 913 849 136 736 274 917 793 666 545 
+player 584 draws a 500 from deck 584
+player 584 discards a 635 to deck 585
+player 584 current hand : 584 149 319 236 529 144 81 899 855 879 913 849 136 736 274 917 793 666 545 500 
+player 584 draws a 579 from deck 584
+player 584 discards a 149 to deck 585
+player 584 current hand : 584 319 236 529 144 81 899 855 879 913 849 136 736 274 917 793 666 545 500 579 
+player 584 draws a 301 from deck 584
+player 584 discards a 319 to deck 585
+player 584 current hand : 584 236 529 144 81 899 855 879 913 849 136 736 274 917 793 666 545 500 579 301 
+player 584 draws a 374 from deck 584
+player 584 discards a 236 to deck 585
+player 584 current hand : 584 529 144 81 899 855 879 913 849 136 736 274 917 793 666 545 500 579 301 374 
+player 584 draws a 991 from deck 584
+player 584 discards a 529 to deck 585
+player 584 current hand : 584 144 81 899 855 879 913 849 136 736 274 917 793 666 545 500 579 301 374 991 
+player 584 draws a 135 from deck 584
+player 584 discards a 144 to deck 585
+player 584 current hand : 584 81 899 855 879 913 849 136 736 274 917 793 666 545 500 579 301 374 991 135 
+player 584 draws a 504 from deck 584
+player 584 discards a 81 to deck 585
+player 584 current hand : 584 899 855 879 913 849 136 736 274 917 793 666 545 500 579 301 374 991 135 504 
+player 584 draws a 5 from deck 584
+player 584 discards a 899 to deck 585
+player 584 current hand : 584 855 879 913 849 136 736 274 917 793 666 545 500 579 301 374 991 135 504 5 
+player 584 draws a 202 from deck 584
+player 584 discards a 855 to deck 585
+player 584 current hand : 584 879 913 849 136 736 274 917 793 666 545 500 579 301 374 991 135 504 5 202 
+player 584 draws a 788 from deck 584
+player 584 discards a 879 to deck 585
+player 584 current hand : 584 913 849 136 736 274 917 793 666 545 500 579 301 374 991 135 504 5 202 788 
+player 584 draws a 247 from deck 584

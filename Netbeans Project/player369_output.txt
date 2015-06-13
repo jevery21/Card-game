@@ -1,0 +1,340 @@
+player 369 initial hand 374 941 554 577 515 805 44 162 152 666 77 303 732 411 672 117 476 779 897 865 
+player 369 draws a 664 from deck 369
+player 369 discards a 374 to deck 370
+player 369 current hand : 941 554 577 515 805 44 162 152 666 77 303 732 411 672 117 476 779 897 865 664 
+player 369 draws a 18 from deck 369
+player 369 discards a 941 to deck 370
+player 369 current hand : 554 577 515 805 44 162 152 666 77 303 732 411 672 117 476 779 897 865 664 18 
+player 369 draws a 966 from deck 369
+player 369 discards a 554 to deck 370
+player 369 current hand : 577 515 805 44 162 152 666 77 303 732 411 672 117 476 779 897 865 664 18 966 
+player 369 draws a 581 from deck 369
+player 369 discards a 577 to deck 370
+player 369 current hand : 515 805 44 162 152 666 77 303 732 411 672 117 476 779 897 865 664 18 966 581 
+player 369 draws a 214 from deck 369
+player 369 discards a 515 to deck 370
+player 369 current hand : 805 44 162 152 666 77 303 732 411 672 117 476 779 897 865 664 18 966 581 214 
+player 369 draws a 316 from deck 369
+player 369 discards a 805 to deck 370
+player 369 current hand : 44 162 152 666 77 303 732 411 672 117 476 779 897 865 664 18 966 581 214 316 
+player 369 draws a 983 from deck 369
+player 369 discards a 44 to deck 370
+player 369 current hand : 162 152 666 77 303 732 411 672 117 476 779 897 865 664 18 966 581 214 316 983 
+player 369 draws a 578 from deck 369
+player 369 discards a 162 to deck 370
+player 369 current hand : 152 666 77 303 732 411 672 117 476 779 897 865 664 18 966 581 214 316 983 578 
+player 369 draws a 7 from deck 369
+player 369 discards a 152 to deck 370
+player 369 current hand : 666 77 303 732 411 672 117 476 779 897 865 664 18 966 581 214 316 983 578 7 
+player 369 draws a 359 from deck 369
+player 369 discards a 666 to deck 370
+player 369 current hand : 77 303 732 411 672 117 476 779 897 865 664 18 966 581 214 316 983 578 7 359 
+player 369 draws a 104 from deck 369
+player 369 discards a 77 to deck 370
+player 369 current hand : 303 732 411 672 117 476 779 897 865 664 18 966 581 214 316 983 578 7 359 104 
+player 369 draws a 910 from deck 369
+player 369 discards a 303 to deck 370
+player 369 current hand : 732 411 672 117 476 779 897 865 664 18 966 581 214 316 983 578 7 359 104 910 
+player 369 draws a 456 from deck 369
+player 369 discards a 732 to deck 370
+player 369 current hand : 411 672 117 476 779 897 865 664 18 966 581 214 316 983 578 7 359 104 910 456 
+player 369 draws a 965 from deck 369
+player 369 discards a 411 to deck 370
+player 369 current hand : 672 117 476 779 897 865 664 18 966 581 214 316 983 578 7 359 104 910 456 965 
+player 369 draws a 931 from deck 369
+player 369 discards a 672 to deck 370
+player 369 current hand : 117 476 779 897 865 664 18 966 581 214 316 983 578 7 359 104 910 456 965 931 
+player 369 draws a 892 from deck 369
+player 369 discards a 117 to deck 370
+player 369 current hand : 476 779 897 865 664 18 966 581 214 316 983 578 7 359 104 910 456 965 931 892 
+player 369 draws a 180 from deck 369
+player 369 discards a 476 to deck 370
+player 369 current hand : 779 897 865 664 18 966 581 214 316 983 578 7 359 104 910 456 965 931 892 180 
+player 369 draws a 60 from deck 369
+player 369 discards a 779 to deck 370
+player 369 current hand : 897 865 664 18 966 581 214 316 983 578 7 359 104 910 456 965 931 892 180 60 
+player 369 draws a 130 from deck 369
+player 369 discards a 897 to deck 370
+player 369 current hand : 865 664 18 966 581 214 316 983 578 7 359 104 910 456 965 931 892 180 60 130 
+player 369 draws a 922 from deck 369
+player 369 discards a 865 to deck 370
+player 369 current hand : 664 18 966 581 214 316 983 578 7 359 104 910 456 965 931 892 180 60 130 922 
+player 369 draws a 255 from deck 369
+player 369 discards a 664 to deck 370
+player 369 current hand : 18 966 581 214 316 983 578 7 359 104 910 456 965 931 892 180 60 130 922 255 
+player 369 draws a 282 from deck 369
+player 369 discards a 18 to deck 370
+player 369 current hand : 966 581 214 316 983 578 7 359 104 910 456 965 931 892 180 60 130 922 255 282 
+player 369 draws a 994 from deck 369
+player 369 discards a 966 to deck 370
+player 369 current hand : 581 214 316 983 578 7 359 104 910 456 965 931 892 180 60 130 922 255 282 994 
+player 369 draws a 951 from deck 369
+player 369 discards a 581 to deck 370
+player 369 current hand : 214 316 983 578 7 359 104 910 456 965 931 892 180 60 130 922 255 282 994 951 
+player 369 draws a 51 from deck 369
+player 369 discards a 214 to deck 370
+player 369 current hand : 316 983 578 7 359 104 910 456 965 931 892 180 60 130 922 255 282 994 951 51 
+player 369 draws a 116 from deck 369
+player 369 discards a 316 to deck 370
+player 369 current hand : 983 578 7 359 104 910 456 965 931 892 180 60 130 922 255 282 994 951 51 116 
+player 369 draws a 925 from deck 369
+player 369 discards a 983 to deck 370
+player 369 current hand : 578 7 359 104 910 456 965 931 892 180 60 130 922 255 282 994 951 51 116 925 
+player 369 draws a 945 from deck 369
+player 369 discards a 578 to deck 370
+player 369 current hand : 7 359 104 910 456 965 931 892 180 60 130 922 255 282 994 951 51 116 925 945 
+player 369 draws a 841 from deck 369
+player 369 discards a 7 to deck 370
+player 369 current hand : 359 104 910 456 965 931 892 180 60 130 922 255 282 994 951 51 116 925 945 841 
+player 369 draws a 72 from deck 369
+player 369 discards a 359 to deck 370
+player 369 current hand : 104 910 456 965 931 892 180 60 130 922 255 282 994 951 51 116 925 945 841 72 
+player 369 draws a 721 from deck 369
+player 369 discards a 104 to deck 370
+player 369 current hand : 910 456 965 931 892 180 60 130 922 255 282 994 951 51 116 925 945 841 72 721 
+player 369 draws a 690 from deck 369
+player 369 discards a 910 to deck 370
+player 369 current hand : 456 965 931 892 180 60 130 922 255 282 994 951 51 116 925 945 841 72 721 690 
+player 369 draws a 860 from deck 369
+player 369 discards a 456 to deck 370
+player 369 current hand : 965 931 892 180 60 130 922 255 282 994 951 51 116 925 945 841 72 721 690 860 
+player 369 draws a 472 from deck 369
+player 369 discards a 965 to deck 370
+player 369 current hand : 931 892 180 60 130 922 255 282 994 951 51 116 925 945 841 72 721 690 860 472 
+player 369 draws a 719 from deck 369
+player 369 discards a 931 to deck 370
+player 369 current hand : 892 180 60 130 922 255 282 994 951 51 116 925 945 841 72 721 690 860 472 719 
+player 369 draws a 784 from deck 369
+player 369 discards a 892 to deck 370
+player 369 current hand : 180 60 130 922 255 282 994 951 51 116 925 945 841 72 721 690 860 472 719 784 
+player 369 draws a 287 from deck 369
+player 369 discards a 180 to deck 370
+player 369 current hand : 60 130 922 255 282 994 951 51 116 925 945 841 72 721 690 860 472 719 784 287 
+player 369 draws a 151 from deck 369
+player 369 discards a 60 to deck 370
+player 369 current hand : 130 922 255 282 994 951 51 116 925 945 841 72 721 690 860 472 719 784 287 151 
+player 369 draws a 141 from deck 369
+player 369 discards a 130 to deck 370
+player 369 current hand : 922 255 282 994 951 51 116 925 945 841 72 721 690 860 472 719 784 287 151 141 
+player 369 draws a 892 from deck 369
+player 369 discards a 922 to deck 370
+player 369 current hand : 255 282 994 951 51 116 925 945 841 72 721 690 860 472 719 784 287 151 141 892 
+player 369 draws a 581 from deck 369
+player 369 discards a 255 to deck 370
+player 369 current hand : 282 994 951 51 116 925 945 841 72 721 690 860 472 719 784 287 151 141 892 581 
+player 369 draws a 919 from deck 369
+player 369 discards a 282 to deck 370
+player 369 current hand : 994 951 51 116 925 945 841 72 721 690 860 472 719 784 287 151 141 892 581 919 
+player 369 draws a 867 from deck 369
+player 369 discards a 994 to deck 370
+player 369 current hand : 951 51 116 925 945 841 72 721 690 860 472 719 784 287 151 141 892 581 919 867 
+player 369 draws a 98 from deck 369
+player 369 discards a 951 to deck 370
+player 369 current hand : 51 116 925 945 841 72 721 690 860 472 719 784 287 151 141 892 581 919 867 98 
+player 369 draws a 412 from deck 369
+player 369 discards a 51 to deck 370
+player 369 current hand : 116 925 945 841 72 721 690 860 472 719 784 287 151 141 892 581 919 867 98 412 
+player 369 draws a 417 from deck 369
+player 369 discards a 116 to deck 370
+player 369 current hand : 925 945 841 72 721 690 860 472 719 784 287 151 141 892 581 919 867 98 412 417 
+player 369 draws a 555 from deck 369
+player 369 discards a 925 to deck 370
+player 369 current hand : 945 841 72 721 690 860 472 719 784 287 151 141 892 581 919 867 98 412 417 555 
+player 369 draws a 446 from deck 369
+player 369 discards a 945 to deck 370
+player 369 current hand : 841 72 721 690 860 472 719 784 287 151 141 892 581 919 867 98 412 417 555 446 
+player 369 draws a 390 from deck 369
+player 369 discards a 841 to deck 370
+player 369 current hand : 72 721 690 860 472 719 784 287 151 141 892 581 919 867 98 412 417 555 446 390 
+player 369 draws a 86 from deck 369
+player 369 discards a 72 to deck 370
+player 369 current hand : 721 690 860 472 719 784 287 151 141 892 581 919 867 98 412 417 555 446 390 86 
+player 369 draws a 210 from deck 369
+player 369 discards a 721 to deck 370
+player 369 current hand : 690 860 472 719 784 287 151 141 892 581 919 867 98 412 417 555 446 390 86 210 
+player 369 draws a 290 from deck 369
+player 369 discards a 690 to deck 370
+player 369 current hand : 860 472 719 784 287 151 141 892 581 919 867 98 412 417 555 446 390 86 210 290 
+player 369 draws a 24 from deck 369
+player 369 discards a 860 to deck 370
+player 369 current hand : 472 719 784 287 151 141 892 581 919 867 98 412 417 555 446 390 86 210 290 24 
+player 369 draws a 246 from deck 369
+player 369 discards a 472 to deck 370
+player 369 current hand : 719 784 287 151 141 892 581 919 867 98 412 417 555 446 390 86 210 290 24 246 
+player 369 draws a 40 from deck 369
+player 369 discards a 719 to deck 370
+player 369 current hand : 784 287 151 141 892 581 919 867 98 412 417 555 446 390 86 210 290 24 246 40 
+player 369 draws a 631 from deck 369
+player 369 discards a 784 to deck 370
+player 369 current hand : 287 151 141 892 581 919 867 98 412 417 555 446 390 86 210 290 24 246 40 631 
+player 369 draws a 343 from deck 369
+player 369 discards a 287 to deck 370
+player 369 current hand : 151 141 892 581 919 867 98 412 417 555 446 390 86 210 290 24 246 40 631 343 
+player 369 draws a 852 from deck 369
+player 369 discards a 151 to deck 370
+player 369 current hand : 141 892 581 919 867 98 412 417 555 446 390 86 210 290 24 246 40 631 343 852 
+player 369 draws a 163 from deck 369
+player 369 discards a 141 to deck 370
+player 369 current hand : 892 581 919 867 98 412 417 555 446 390 86 210 290 24 246 40 631 343 852 163 
+player 369 draws a 769 from deck 369
+player 369 discards a 892 to deck 370
+player 369 current hand : 581 919 867 98 412 417 555 446 390 86 210 290 24 246 40 631 343 852 163 769 
+player 369 draws a 54 from deck 369
+player 369 discards a 581 to deck 370
+player 369 current hand : 919 867 98 412 417 555 446 390 86 210 290 24 246 40 631 343 852 163 769 54 
+player 369 draws a 4 from deck 369
+player 369 discards a 919 to deck 370
+player 369 current hand : 867 98 412 417 555 446 390 86 210 290 24 246 40 631 343 852 163 769 54 4 
+player 369 draws a 558 from deck 369
+player 369 discards a 867 to deck 370
+player 369 current hand : 98 412 417 555 446 390 86 210 290 24 246 40 631 343 852 163 769 54 4 558 
+player 369 draws a 796 from deck 369
+player 369 discards a 98 to deck 370
+player 369 current hand : 412 417 555 446 390 86 210 290 24 246 40 631 343 852 163 769 54 4 558 796 
+player 369 draws a 101 from deck 369
+player 369 discards a 412 to deck 370
+player 369 current hand : 417 555 446 390 86 210 290 24 246 40 631 343 852 163 769 54 4 558 796 101 
+player 369 draws a 180 from deck 369
+player 369 discards a 417 to deck 370
+player 369 current hand : 555 446 390 86 210 290 24 246 40 631 343 852 163 769 54 4 558 796 101 180 
+player 369 draws a 707 from deck 369
+player 369 discards a 555 to deck 370
+player 369 current hand : 446 390 86 210 290 24 246 40 631 343 852 163 769 54 4 558 796 101 180 707 
+player 369 draws a 434 from deck 369
+player 369 discards a 446 to deck 370
+player 369 current hand : 390 86 210 290 24 246 40 631 343 852 163 769 54 4 558 796 101 180 707 434 
+player 369 draws a 295 from deck 369
+player 369 discards a 390 to deck 370
+player 369 current hand : 86 210 290 24 246 40 631 343 852 163 769 54 4 558 796 101 180 707 434 295 
+player 369 draws a 98 from deck 369
+player 369 discards a 86 to deck 370
+player 369 current hand : 210 290 24 246 40 631 343 852 163 769 54 4 558 796 101 180 707 434 295 98 
+player 369 draws a 79 from deck 369
+player 369 discards a 210 to deck 370
+player 369 current hand : 290 24 246 40 631 343 852 163 769 54 4 558 796 101 180 707 434 295 98 79 
+player 369 draws a 595 from deck 369
+player 369 discards a 290 to deck 370
+player 369 current hand : 24 246 40 631 343 852 163 769 54 4 558 796 101 180 707 434 295 98 79 595 
+player 369 draws a 187 from deck 369
+player 369 discards a 24 to deck 370
+player 369 current hand : 246 40 631 343 852 163 769 54 4 558 796 101 180 707 434 295 98 79 595 187 
+player 369 draws a 796 from deck 369
+player 369 discards a 246 to deck 370
+player 369 current hand : 40 631 343 852 163 769 54 4 558 796 101 180 707 434 295 98 79 595 187 796 
+player 369 draws a 845 from deck 369
+player 369 discards a 40 to deck 370
+player 369 current hand : 631 343 852 163 769 54 4 558 796 101 180 707 434 295 98 79 595 187 796 845 
+player 369 draws a 188 from deck 369
+player 369 discards a 631 to deck 370
+player 369 current hand : 343 852 163 769 54 4 558 796 101 180 707 434 295 98 79 595 187 796 845 188 
+player 369 draws a 758 from deck 369
+player 369 discards a 343 to deck 370
+player 369 current hand : 852 163 769 54 4 558 796 101 180 707 434 295 98 79 595 187 796 845 188 758 
+player 369 draws a 55 from deck 369
+player 369 discards a 852 to deck 370
+player 369 current hand : 163 769 54 4 558 796 101 180 707 434 295 98 79 595 187 796 845 188 758 55 
+player 369 draws a 105 from deck 369
+player 369 discards a 163 to deck 370
+player 369 current hand : 769 54 4 558 796 101 180 707 434 295 98 79 595 187 796 845 188 758 55 105 
+player 369 draws a 466 from deck 369
+player 369 discards a 769 to deck 370
+player 369 current hand : 54 4 558 796 101 180 707 434 295 98 79 595 187 796 845 188 758 55 105 466 
+player 369 draws a 691 from deck 369
+player 369 discards a 54 to deck 370
+player 369 current hand : 4 558 796 101 180 707 434 295 98 79 595 187 796 845 188 758 55 105 466 691 
+player 369 draws a 740 from deck 369
+player 369 discards a 4 to deck 370
+player 369 current hand : 558 796 101 180 707 434 295 98 79 595 187 796 845 188 758 55 105 466 691 740 
+player 369 draws a 314 from deck 369
+player 369 discards a 558 to deck 370
+player 369 current hand : 796 101 180 707 434 295 98 79 595 187 796 845 188 758 55 105 466 691 740 314 
+player 369 draws a 581 from deck 369
+player 369 discards a 796 to deck 370
+player 369 current hand : 101 180 707 434 295 98 79 595 187 796 845 188 758 55 105 466 691 740 314 581 
+player 369 draws a 500 from deck 369
+player 369 discards a 101 to deck 370
+player 369 current hand : 180 707 434 295 98 79 595 187 796 845 188 758 55 105 466 691 740 314 581 500 
+player 369 draws a 463 from deck 369
+player 369 discards a 180 to deck 370
+player 369 current hand : 707 434 295 98 79 595 187 796 845 188 758 55 105 466 691 740 314 581 500 463 
+player 369 draws a 493 from deck 369
+player 369 discards a 707 to deck 370
+player 369 current hand : 434 295 98 79 595 187 796 845 188 758 55 105 466 691 740 314 581 500 463 493 
+player 369 draws a 924 from deck 369
+player 369 discards a 434 to deck 370
+player 369 current hand : 295 98 79 595 187 796 845 188 758 55 105 466 691 740 314 581 500 463 493 924 
+player 369 draws a 291 from deck 369
+player 369 discards a 295 to deck 370
+player 369 current hand : 98 79 595 187 796 845 188 758 55 105 466 691 740 314 581 500 463 493 924 291 
+player 369 draws a 645 from deck 369
+player 369 discards a 98 to deck 370
+player 369 current hand : 79 595 187 796 845 188 758 55 105 466 691 740 314 581 500 463 493 924 291 645 
+player 369 draws a 23 from deck 369
+player 369 discards a 79 to deck 370
+player 369 current hand : 595 187 796 845 188 758 55 105 466 691 740 314 581 500 463 493 924 291 645 23 
+player 369 draws a 79 from deck 369
+player 369 discards a 595 to deck 370
+player 369 current hand : 187 796 845 188 758 55 105 466 691 740 314 581 500 463 493 924 291 645 23 79 
+player 369 draws a 934 from deck 369
+player 369 discards a 187 to deck 370
+player 369 current hand : 796 845 188 758 55 105 466 691 740 314 581 500 463 493 924 291 645 23 79 934 
+player 369 draws a 182 from deck 369
+player 369 discards a 796 to deck 370
+player 369 current hand : 845 188 758 55 105 466 691 740 314 581 500 463 493 924 291 645 23 79 934 182 
+player 369 draws a 177 from deck 369
+player 369 discards a 845 to deck 370
+player 369 current hand : 188 758 55 105 466 691 740 314 581 500 463 493 924 291 645 23 79 934 182 177 
+player 369 draws a 189 from deck 369
+player 369 discards a 188 to deck 370
+player 369 current hand : 758 55 105 466 691 740 314 581 500 463 493 924 291 645 23 79 934 182 177 189 
+player 369 draws a 971 from deck 369
+player 369 discards a 758 to deck 370
+player 369 current hand : 55 105 466 691 740 314 581 500 463 493 924 291 645 23 79 934 182 177 189 971 
+player 369 draws a 649 from deck 369
+player 369 discards a 55 to deck 370
+player 369 current hand : 105 466 691 740 314 581 500 463 493 924 291 645 23 79 934 182 177 189 971 649 
+player 369 draws a 135 from deck 369
+player 369 discards a 105 to deck 370
+player 369 current hand : 466 691 740 314 581 500 463 493 924 291 645 23 79 934 182 177 189 971 649 135 
+player 369 draws a 926 from deck 369
+player 369 discards a 466 to deck 370
+player 369 current hand : 691 740 314 581 500 463 493 924 291 645 23 79 934 182 177 189 971 649 135 926 
+player 369 draws a 885 from deck 369
+player 369 discards a 691 to deck 370
+player 369 current hand : 740 314 581 500 463 493 924 291 645 23 79 934 182 177 189 971 649 135 926 885 
+player 369 draws a 33 from deck 369
+player 369 discards a 740 to deck 370
+player 369 current hand : 314 581 500 463 493 924 291 645 23 79 934 182 177 189 971 649 135 926 885 33 
+player 369 draws a 852 from deck 369
+player 369 discards a 314 to deck 370
+player 369 current hand : 581 500 463 493 924 291 645 23 79 934 182 177 189 971 649 135 926 885 33 852 
+player 369 draws a 162 from deck 369
+player 369 discards a 581 to deck 370
+player 369 current hand : 500 463 493 924 291 645 23 79 934 182 177 189 971 649 135 926 885 33 852 162 
+player 369 draws a 731 from deck 369
+player 369 discards a 500 to deck 370
+player 369 current hand : 463 493 924 291 645 23 79 934 182 177 189 971 649 135 926 885 33 852 162 731 
+player 369 draws a 965 from deck 369
+player 369 discards a 463 to deck 370
+player 369 current hand : 493 924 291 645 23 79 934 182 177 189 971 649 135 926 885 33 852 162 731 965 
+player 369 draws a 602 from deck 369
+player 369 discards a 493 to deck 370
+player 369 current hand : 924 291 645 23 79 934 182 177 189 971 649 135 926 885 33 852 162 731 965 602 
+player 369 draws a 219 from deck 369
+player 369 discards a 924 to deck 370
+player 369 current hand : 291 645 23 79 934 182 177 189 971 649 135 926 885 33 852 162 731 965 602 219 
+player 369 draws a 581 from deck 369
+player 369 discards a 291 to deck 370
+player 369 current hand : 645 23 79 934 182 177 189 971 649 135 926 885 33 852 162 731 965 602 219 581 
+player 369 draws a 514 from deck 369
+player 369 discards a 645 to deck 370
+player 369 current hand : 23 79 934 182 177 189 971 649 135 926 885 33 852 162 731 965 602 219 581 514 
+player 369 draws a 738 from deck 369
+player 369 discards a 23 to deck 370
+player 369 current hand : 79 934 182 177 189 971 649 135 926 885 33 852 162 731 965 602 219 581 514 738 
+player 369 draws a 38 from deck 369
+player 369 discards a 79 to deck 370
+player 369 current hand : 934 182 177 189 971 649 135 926 885 33 852 162 731 965 602 219 581 514 738 38 
+player 369 draws a 351 from deck 369
+player 369 discards a 934 to deck 370
+player 369 current hand : 182 177 189 971 649 135 926 885 33 852 162 731 965 602 219 581 514 738 38 351 

@@ -1,0 +1,311 @@
+player 337 initial hand 885 645 979 983 424 329 647 917 690 945 826 478 443 19 123 595 933 338 391 492 
+player 337 draws a 945 from deck 337
+player 337 discards a 885 to deck 338
+player 337 current hand : 645 979 983 424 329 647 917 690 945 826 478 443 19 123 595 933 338 391 492 945 
+player 337 draws a 770 from deck 337
+player 337 discards a 645 to deck 338
+player 337 current hand : 979 983 424 329 647 917 690 945 826 478 443 19 123 595 933 338 391 492 945 770 
+player 337 draws a 613 from deck 337
+player 337 discards a 979 to deck 338
+player 337 current hand : 983 424 329 647 917 690 945 826 478 443 19 123 595 933 338 391 492 945 770 613 
+player 337 draws a 702 from deck 337
+player 337 discards a 983 to deck 338
+player 337 current hand : 424 329 647 917 690 945 826 478 443 19 123 595 933 338 391 492 945 770 613 702 
+player 337 draws a 392 from deck 337
+player 337 discards a 424 to deck 338
+player 337 current hand : 329 647 917 690 945 826 478 443 19 123 595 933 338 391 492 945 770 613 702 392 
+player 337 draws a 699 from deck 337
+player 337 discards a 329 to deck 338
+player 337 current hand : 647 917 690 945 826 478 443 19 123 595 933 338 391 492 945 770 613 702 392 699 
+player 337 draws a 255 from deck 337
+player 337 discards a 647 to deck 338
+player 337 current hand : 917 690 945 826 478 443 19 123 595 933 338 391 492 945 770 613 702 392 699 255 
+player 337 draws a 68 from deck 337
+player 337 discards a 917 to deck 338
+player 337 current hand : 690 945 826 478 443 19 123 595 933 338 391 492 945 770 613 702 392 699 255 68 
+player 337 draws a 15 from deck 337
+player 337 discards a 690 to deck 338
+player 337 current hand : 945 826 478 443 19 123 595 933 338 391 492 945 770 613 702 392 699 255 68 15 
+player 337 draws a 927 from deck 337
+player 337 discards a 945 to deck 338
+player 337 current hand : 826 478 443 19 123 595 933 338 391 492 945 770 613 702 392 699 255 68 15 927 
+player 337 draws a 902 from deck 337
+player 337 discards a 826 to deck 338
+player 337 current hand : 478 443 19 123 595 933 338 391 492 945 770 613 702 392 699 255 68 15 927 902 
+player 337 draws a 374 from deck 337
+player 337 discards a 478 to deck 338
+player 337 current hand : 443 19 123 595 933 338 391 492 945 770 613 702 392 699 255 68 15 927 902 374 
+player 337 draws a 527 from deck 337
+player 337 discards a 443 to deck 338
+player 337 current hand : 19 123 595 933 338 391 492 945 770 613 702 392 699 255 68 15 927 902 374 527 
+player 337 draws a 669 from deck 337
+player 337 discards a 19 to deck 338
+player 337 current hand : 123 595 933 338 391 492 945 770 613 702 392 699 255 68 15 927 902 374 527 669 
+player 337 draws a 424 from deck 337
+player 337 discards a 123 to deck 338
+player 337 current hand : 595 933 338 391 492 945 770 613 702 392 699 255 68 15 927 902 374 527 669 424 
+player 337 draws a 714 from deck 337
+player 337 discards a 595 to deck 338
+player 337 current hand : 933 338 391 492 945 770 613 702 392 699 255 68 15 927 902 374 527 669 424 714 
+player 337 draws a 366 from deck 337
+player 337 discards a 933 to deck 338
+player 337 current hand : 338 391 492 945 770 613 702 392 699 255 68 15 927 902 374 527 669 424 714 366 
+player 337 draws a 776 from deck 337
+player 337 discards a 338 to deck 338
+player 337 current hand : 391 492 945 770 613 702 392 699 255 68 15 927 902 374 527 669 424 714 366 776 
+player 337 draws a 926 from deck 337
+player 337 discards a 391 to deck 338
+player 337 current hand : 492 945 770 613 702 392 699 255 68 15 927 902 374 527 669 424 714 366 776 926 
+player 337 draws a 601 from deck 337
+player 337 discards a 492 to deck 338
+player 337 current hand : 945 770 613 702 392 699 255 68 15 927 902 374 527 669 424 714 366 776 926 601 
+player 337 draws a 372 from deck 337
+player 337 discards a 945 to deck 338
+player 337 current hand : 770 613 702 392 699 255 68 15 927 902 374 527 669 424 714 366 776 926 601 372 
+player 337 draws a 513 from deck 337
+player 337 discards a 770 to deck 338
+player 337 current hand : 613 702 392 699 255 68 15 927 902 374 527 669 424 714 366 776 926 601 372 513 
+player 337 draws a 176 from deck 337
+player 337 discards a 613 to deck 338
+player 337 current hand : 702 392 699 255 68 15 927 902 374 527 669 424 714 366 776 926 601 372 513 176 
+player 337 draws a 105 from deck 337
+player 337 discards a 702 to deck 338
+player 337 current hand : 392 699 255 68 15 927 902 374 527 669 424 714 366 776 926 601 372 513 176 105 
+player 337 draws a 80 from deck 337
+player 337 discards a 392 to deck 338
+player 337 current hand : 699 255 68 15 927 902 374 527 669 424 714 366 776 926 601 372 513 176 105 80 
+player 337 draws a 983 from deck 337
+player 337 discards a 699 to deck 338
+player 337 current hand : 255 68 15 927 902 374 527 669 424 714 366 776 926 601 372 513 176 105 80 983 
+player 337 draws a 571 from deck 337
+player 337 discards a 255 to deck 338
+player 337 current hand : 68 15 927 902 374 527 669 424 714 366 776 926 601 372 513 176 105 80 983 571 
+player 337 draws a 119 from deck 337
+player 337 discards a 68 to deck 338
+player 337 current hand : 15 927 902 374 527 669 424 714 366 776 926 601 372 513 176 105 80 983 571 119 
+player 337 draws a 992 from deck 337
+player 337 discards a 15 to deck 338
+player 337 current hand : 927 902 374 527 669 424 714 366 776 926 601 372 513 176 105 80 983 571 119 992 
+player 337 draws a 674 from deck 337
+player 337 discards a 927 to deck 338
+player 337 current hand : 902 374 527 669 424 714 366 776 926 601 372 513 176 105 80 983 571 119 992 674 
+player 337 draws a 833 from deck 337
+player 337 discards a 902 to deck 338
+player 337 current hand : 374 527 669 424 714 366 776 926 601 372 513 176 105 80 983 571 119 992 674 833 
+player 337 draws a 4 from deck 337
+player 337 discards a 374 to deck 338
+player 337 current hand : 527 669 424 714 366 776 926 601 372 513 176 105 80 983 571 119 992 674 833 4 
+player 337 draws a 160 from deck 337
+player 337 discards a 527 to deck 338
+player 337 current hand : 669 424 714 366 776 926 601 372 513 176 105 80 983 571 119 992 674 833 4 160 
+player 337 draws a 343 from deck 337
+player 337 discards a 669 to deck 338
+player 337 current hand : 424 714 366 776 926 601 372 513 176 105 80 983 571 119 992 674 833 4 160 343 
+player 337 draws a 274 from deck 337
+player 337 discards a 424 to deck 338
+player 337 current hand : 714 366 776 926 601 372 513 176 105 80 983 571 119 992 674 833 4 160 343 274 
+player 337 draws a 460 from deck 337
+player 337 discards a 714 to deck 338
+player 337 current hand : 366 776 926 601 372 513 176 105 80 983 571 119 992 674 833 4 160 343 274 460 
+player 337 draws a 297 from deck 337
+player 337 discards a 366 to deck 338
+player 337 current hand : 776 926 601 372 513 176 105 80 983 571 119 992 674 833 4 160 343 274 460 297 
+player 337 draws a 319 from deck 337
+player 337 discards a 776 to deck 338
+player 337 current hand : 926 601 372 513 176 105 80 983 571 119 992 674 833 4 160 343 274 460 297 319 
+player 337 draws a 815 from deck 337
+player 337 discards a 926 to deck 338
+player 337 current hand : 601 372 513 176 105 80 983 571 119 992 674 833 4 160 343 274 460 297 319 815 
+player 337 draws a 712 from deck 337
+player 337 discards a 601 to deck 338
+player 337 current hand : 372 513 176 105 80 983 571 119 992 674 833 4 160 343 274 460 297 319 815 712 
+player 337 draws a 492 from deck 337
+player 337 discards a 372 to deck 338
+player 337 current hand : 513 176 105 80 983 571 119 992 674 833 4 160 343 274 460 297 319 815 712 492 
+player 337 draws a 896 from deck 337
+player 337 discards a 513 to deck 338
+player 337 current hand : 176 105 80 983 571 119 992 674 833 4 160 343 274 460 297 319 815 712 492 896 
+player 337 draws a 689 from deck 337
+player 337 discards a 176 to deck 338
+player 337 current hand : 105 80 983 571 119 992 674 833 4 160 343 274 460 297 319 815 712 492 896 689 
+player 337 draws a 541 from deck 337
+player 337 discards a 105 to deck 338
+player 337 current hand : 80 983 571 119 992 674 833 4 160 343 274 460 297 319 815 712 492 896 689 541 
+player 337 draws a 862 from deck 337
+player 337 discards a 80 to deck 338
+player 337 current hand : 983 571 119 992 674 833 4 160 343 274 460 297 319 815 712 492 896 689 541 862 
+player 337 draws a 516 from deck 337
+player 337 discards a 983 to deck 338
+player 337 current hand : 571 119 992 674 833 4 160 343 274 460 297 319 815 712 492 896 689 541 862 516 
+player 337 draws a 399 from deck 337
+player 337 discards a 571 to deck 338
+player 337 current hand : 119 992 674 833 4 160 343 274 460 297 319 815 712 492 896 689 541 862 516 399 
+player 337 draws a 378 from deck 337
+player 337 discards a 119 to deck 338
+player 337 current hand : 992 674 833 4 160 343 274 460 297 319 815 712 492 896 689 541 862 516 399 378 
+player 337 draws a 838 from deck 337
+player 337 discards a 992 to deck 338
+player 337 current hand : 674 833 4 160 343 274 460 297 319 815 712 492 896 689 541 862 516 399 378 838 
+player 337 draws a 305 from deck 337
+player 337 discards a 674 to deck 338
+player 337 current hand : 833 4 160 343 274 460 297 319 815 712 492 896 689 541 862 516 399 378 838 305 
+player 337 draws a 294 from deck 337
+player 337 discards a 833 to deck 338
+player 337 current hand : 4 160 343 274 460 297 319 815 712 492 896 689 541 862 516 399 378 838 305 294 
+player 337 draws a 112 from deck 337
+player 337 discards a 4 to deck 338
+player 337 current hand : 160 343 274 460 297 319 815 712 492 896 689 541 862 516 399 378 838 305 294 112 
+player 337 draws a 921 from deck 337
+player 337 discards a 160 to deck 338
+player 337 current hand : 343 274 460 297 319 815 712 492 896 689 541 862 516 399 378 838 305 294 112 921 
+player 337 draws a 31 from deck 337
+player 337 discards a 343 to deck 338
+player 337 current hand : 274 460 297 319 815 712 492 896 689 541 862 516 399 378 838 305 294 112 921 31 
+player 337 draws a 685 from deck 337
+player 337 discards a 274 to deck 338
+player 337 current hand : 460 297 319 815 712 492 896 689 541 862 516 399 378 838 305 294 112 921 31 685 
+player 337 draws a 154 from deck 337
+player 337 discards a 460 to deck 338
+player 337 current hand : 297 319 815 712 492 896 689 541 862 516 399 378 838 305 294 112 921 31 685 154 
+player 337 draws a 833 from deck 337
+player 337 discards a 297 to deck 338
+player 337 current hand : 319 815 712 492 896 689 541 862 516 399 378 838 305 294 112 921 31 685 154 833 
+player 337 draws a 787 from deck 337
+player 337 discards a 319 to deck 338
+player 337 current hand : 815 712 492 896 689 541 862 516 399 378 838 305 294 112 921 31 685 154 833 787 
+player 337 draws a 134 from deck 337
+player 337 discards a 815 to deck 338
+player 337 current hand : 712 492 896 689 541 862 516 399 378 838 305 294 112 921 31 685 154 833 787 134 
+player 337 draws a 611 from deck 337
+player 337 discards a 712 to deck 338
+player 337 current hand : 492 896 689 541 862 516 399 378 838 305 294 112 921 31 685 154 833 787 134 611 
+player 337 draws a 391 from deck 337
+player 337 discards a 492 to deck 338
+player 337 current hand : 896 689 541 862 516 399 378 838 305 294 112 921 31 685 154 833 787 134 611 391 
+player 337 draws a 360 from deck 337
+player 337 discards a 896 to deck 338
+player 337 current hand : 689 541 862 516 399 378 838 305 294 112 921 31 685 154 833 787 134 611 391 360 
+player 337 draws a 42 from deck 337
+player 337 discards a 689 to deck 338
+player 337 current hand : 541 862 516 399 378 838 305 294 112 921 31 685 154 833 787 134 611 391 360 42 
+player 337 draws a 429 from deck 337
+player 337 discards a 541 to deck 338
+player 337 current hand : 862 516 399 378 838 305 294 112 921 31 685 154 833 787 134 611 391 360 42 429 
+player 337 draws a 721 from deck 337
+player 337 discards a 862 to deck 338
+player 337 current hand : 516 399 378 838 305 294 112 921 31 685 154 833 787 134 611 391 360 42 429 721 
+player 337 draws a 862 from deck 337
+player 337 discards a 516 to deck 338
+player 337 current hand : 399 378 838 305 294 112 921 31 685 154 833 787 134 611 391 360 42 429 721 862 
+player 337 draws a 36 from deck 337
+player 337 discards a 399 to deck 338
+player 337 current hand : 378 838 305 294 112 921 31 685 154 833 787 134 611 391 360 42 429 721 862 36 
+player 337 draws a 970 from deck 337
+player 337 discards a 378 to deck 338
+player 337 current hand : 838 305 294 112 921 31 685 154 833 787 134 611 391 360 42 429 721 862 36 970 
+player 337 draws a 301 from deck 337
+player 337 discards a 838 to deck 338
+player 337 current hand : 305 294 112 921 31 685 154 833 787 134 611 391 360 42 429 721 862 36 970 301 
+player 337 draws a 796 from deck 337
+player 337 discards a 305 to deck 338
+player 337 current hand : 294 112 921 31 685 154 833 787 134 611 391 360 42 429 721 862 36 970 301 796 
+player 337 draws a 24 from deck 337
+player 337 discards a 294 to deck 338
+player 337 current hand : 112 921 31 685 154 833 787 134 611 391 360 42 429 721 862 36 970 301 796 24 
+player 337 draws a 663 from deck 337
+player 337 discards a 112 to deck 338
+player 337 current hand : 921 31 685 154 833 787 134 611 391 360 42 429 721 862 36 970 301 796 24 663 
+player 337 draws a 913 from deck 337
+player 337 discards a 921 to deck 338
+player 337 current hand : 31 685 154 833 787 134 611 391 360 42 429 721 862 36 970 301 796 24 663 913 
+player 337 draws a 125 from deck 337
+player 337 discards a 31 to deck 338
+player 337 current hand : 685 154 833 787 134 611 391 360 42 429 721 862 36 970 301 796 24 663 913 125 
+player 337 draws a 391 from deck 337
+player 337 discards a 685 to deck 338
+player 337 current hand : 154 833 787 134 611 391 360 42 429 721 862 36 970 301 796 24 663 913 125 391 
+player 337 draws a 584 from deck 337
+player 337 discards a 154 to deck 338
+player 337 current hand : 833 787 134 611 391 360 42 429 721 862 36 970 301 796 24 663 913 125 391 584 
+player 337 draws a 745 from deck 337
+player 337 discards a 833 to deck 338
+player 337 current hand : 787 134 611 391 360 42 429 721 862 36 970 301 796 24 663 913 125 391 584 745 
+player 337 draws a 114 from deck 337
+player 337 discards a 787 to deck 338
+player 337 current hand : 134 611 391 360 42 429 721 862 36 970 301 796 24 663 913 125 391 584 745 114 
+player 337 draws a 576 from deck 337
+player 337 discards a 134 to deck 338
+player 337 current hand : 611 391 360 42 429 721 862 36 970 301 796 24 663 913 125 391 584 745 114 576 
+player 337 draws a 138 from deck 337
+player 337 discards a 611 to deck 338
+player 337 current hand : 391 360 42 429 721 862 36 970 301 796 24 663 913 125 391 584 745 114 576 138 
+player 337 draws a 326 from deck 337
+player 337 discards a 391 to deck 338
+player 337 current hand : 360 42 429 721 862 36 970 301 796 24 663 913 125 391 584 745 114 576 138 326 
+player 337 draws a 550 from deck 337
+player 337 discards a 360 to deck 338
+player 337 current hand : 42 429 721 862 36 970 301 796 24 663 913 125 391 584 745 114 576 138 326 550 
+player 337 draws a 927 from deck 337
+player 337 discards a 42 to deck 338
+player 337 current hand : 429 721 862 36 970 301 796 24 663 913 125 391 584 745 114 576 138 326 550 927 
+player 337 draws a 252 from deck 337
+player 337 discards a 429 to deck 338
+player 337 current hand : 721 862 36 970 301 796 24 663 913 125 391 584 745 114 576 138 326 550 927 252 
+player 337 draws a 535 from deck 337
+player 337 discards a 721 to deck 338
+player 337 current hand : 862 36 970 301 796 24 663 913 125 391 584 745 114 576 138 326 550 927 252 535 
+player 337 draws a 113 from deck 337
+player 337 discards a 862 to deck 338
+player 337 current hand : 36 970 301 796 24 663 913 125 391 584 745 114 576 138 326 550 927 252 535 113 
+player 337 draws a 115 from deck 337
+player 337 discards a 36 to deck 338
+player 337 current hand : 970 301 796 24 663 913 125 391 584 745 114 576 138 326 550 927 252 535 113 115 
+player 337 draws a 976 from deck 337
+player 337 discards a 970 to deck 338
+player 337 current hand : 301 796 24 663 913 125 391 584 745 114 576 138 326 550 927 252 535 113 115 976 
+player 337 draws a 189 from deck 337
+player 337 discards a 301 to deck 338
+player 337 current hand : 796 24 663 913 125 391 584 745 114 576 138 326 550 927 252 535 113 115 976 189 
+player 337 draws a 901 from deck 337
+player 337 discards a 796 to deck 338
+player 337 current hand : 24 663 913 125 391 584 745 114 576 138 326 550 927 252 535 113 115 976 189 901 
+player 337 draws a 826 from deck 337
+player 337 discards a 24 to deck 338
+player 337 current hand : 663 913 125 391 584 745 114 576 138 326 550 927 252 535 113 115 976 189 901 826 
+player 337 draws a 885 from deck 337
+player 337 discards a 663 to deck 338
+player 337 current hand : 913 125 391 584 745 114 576 138 326 550 927 252 535 113 115 976 189 901 826 885 
+player 337 draws a 901 from deck 337
+player 337 discards a 913 to deck 338
+player 337 current hand : 125 391 584 745 114 576 138 326 550 927 252 535 113 115 976 189 901 826 885 901 
+player 337 draws a 16 from deck 337
+player 337 discards a 125 to deck 338
+player 337 current hand : 391 584 745 114 576 138 326 550 927 252 535 113 115 976 189 901 826 885 901 16 
+player 337 draws a 988 from deck 337
+player 337 discards a 391 to deck 338
+player 337 current hand : 584 745 114 576 138 326 550 927 252 535 113 115 976 189 901 826 885 901 16 988 
+player 337 draws a 985 from deck 337
+player 337 discards a 584 to deck 338
+player 337 current hand : 745 114 576 138 326 550 927 252 535 113 115 976 189 901 826 885 901 16 988 985 
+player 337 draws a 497 from deck 337
+player 337 discards a 745 to deck 338
+player 337 current hand : 114 576 138 326 550 927 252 535 113 115 976 189 901 826 885 901 16 988 985 497 
+player 337 draws a 4 from deck 337
+player 337 discards a 114 to deck 338
+player 337 current hand : 576 138 326 550 927 252 535 113 115 976 189 901 826 885 901 16 988 985 497 4 
+player 337 draws a 290 from deck 337
+player 337 discards a 576 to deck 338
+player 337 current hand : 138 326 550 927 252 535 113 115 976 189 901 826 885 901 16 988 985 497 4 290 
+player 337 draws a 360 from deck 337
+player 337 discards a 138 to deck 338
+player 337 current hand : 326 550 927 252 535 113 115 976 189 901 826 885 901 16 988 985 497 4 290 360 
+player 337 draws a 162 from deck 337
+player 337 discards a 326 to deck 338
+player 337 current hand : 550 927 252 535 113 115 976 189 901 826 885 901 16 988 985 497 4 290 360 162 
+player 337 draws a 848 from deck 337
+player 337 discards a 550 to deck 338
+player 337 current hand : 927 252 535 113 115 976 189 901 826 885 901 16 988 985 497 4 290 360 162 848 
+player 337 draws a 429 from deck 337
+player 337 discards a 927 to deck 338
+player 337 current hand : 252 535 113 115 976 189 901 826 885 901 16 988 985 497 4 290 360 162 848 429 
+player 337 draws a 781 from deck 337

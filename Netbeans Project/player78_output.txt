@@ -1,0 +1,328 @@
+player 78 initial hand 475 493 970 481 933 946 870 252 602 238 773 943 142 712 367 83 983 135 497 481 
+player 78 draws a 657 from deck 78
+player 78 discards a 475 to deck 79
+player 78 current hand : 493 970 481 933 946 870 252 602 238 773 943 142 712 367 83 983 135 497 481 657 
+player 78 draws a 255 from deck 78
+player 78 discards a 493 to deck 79
+player 78 current hand : 970 481 933 946 870 252 602 238 773 943 142 712 367 83 983 135 497 481 657 255 
+player 78 draws a 279 from deck 78
+player 78 discards a 970 to deck 79
+player 78 current hand : 481 933 946 870 252 602 238 773 943 142 712 367 83 983 135 497 481 657 255 279 
+player 78 draws a 634 from deck 78
+player 78 discards a 481 to deck 79
+player 78 current hand : 933 946 870 252 602 238 773 943 142 712 367 83 983 135 497 481 657 255 279 634 
+player 78 draws a 501 from deck 78
+player 78 discards a 933 to deck 79
+player 78 current hand : 946 870 252 602 238 773 943 142 712 367 83 983 135 497 481 657 255 279 634 501 
+player 78 draws a 571 from deck 78
+player 78 discards a 946 to deck 79
+player 78 current hand : 870 252 602 238 773 943 142 712 367 83 983 135 497 481 657 255 279 634 501 571 
+player 78 draws a 852 from deck 78
+player 78 discards a 870 to deck 79
+player 78 current hand : 252 602 238 773 943 142 712 367 83 983 135 497 481 657 255 279 634 501 571 852 
+player 78 draws a 945 from deck 78
+player 78 discards a 252 to deck 79
+player 78 current hand : 602 238 773 943 142 712 367 83 983 135 497 481 657 255 279 634 501 571 852 945 
+player 78 draws a 336 from deck 78
+player 78 discards a 602 to deck 79
+player 78 current hand : 238 773 943 142 712 367 83 983 135 497 481 657 255 279 634 501 571 852 945 336 
+player 78 draws a 673 from deck 78
+player 78 discards a 238 to deck 79
+player 78 current hand : 773 943 142 712 367 83 983 135 497 481 657 255 279 634 501 571 852 945 336 673 
+player 78 draws a 776 from deck 78
+player 78 discards a 773 to deck 79
+player 78 current hand : 943 142 712 367 83 983 135 497 481 657 255 279 634 501 571 852 945 336 673 776 
+player 78 draws a 419 from deck 78
+player 78 discards a 943 to deck 79
+player 78 current hand : 142 712 367 83 983 135 497 481 657 255 279 634 501 571 852 945 336 673 776 419 
+player 78 draws a 872 from deck 78
+player 78 discards a 142 to deck 79
+player 78 current hand : 712 367 83 983 135 497 481 657 255 279 634 501 571 852 945 336 673 776 419 872 
+player 78 draws a 919 from deck 78
+player 78 discards a 712 to deck 79
+player 78 current hand : 367 83 983 135 497 481 657 255 279 634 501 571 852 945 336 673 776 419 872 919 
+player 78 draws a 38 from deck 78
+player 78 discards a 367 to deck 79
+player 78 current hand : 83 983 135 497 481 657 255 279 634 501 571 852 945 336 673 776 419 872 919 38 
+player 78 draws a 994 from deck 78
+player 78 discards a 83 to deck 79
+player 78 current hand : 983 135 497 481 657 255 279 634 501 571 852 945 336 673 776 419 872 919 38 994 
+player 78 draws a 924 from deck 78
+player 78 discards a 983 to deck 79
+player 78 current hand : 135 497 481 657 255 279 634 501 571 852 945 336 673 776 419 872 919 38 994 924 
+player 78 draws a 177 from deck 78
+player 78 discards a 135 to deck 79
+player 78 current hand : 497 481 657 255 279 634 501 571 852 945 336 673 776 419 872 919 38 994 924 177 
+player 78 draws a 610 from deck 78
+player 78 discards a 497 to deck 79
+player 78 current hand : 481 657 255 279 634 501 571 852 945 336 673 776 419 872 919 38 994 924 177 610 
+player 78 draws a 473 from deck 78
+player 78 discards a 481 to deck 79
+player 78 current hand : 657 255 279 634 501 571 852 945 336 673 776 419 872 919 38 994 924 177 610 473 
+player 78 draws a 100 from deck 78
+player 78 discards a 657 to deck 79
+player 78 current hand : 255 279 634 501 571 852 945 336 673 776 419 872 919 38 994 924 177 610 473 100 
+player 78 draws a 217 from deck 78
+player 78 discards a 255 to deck 79
+player 78 current hand : 279 634 501 571 852 945 336 673 776 419 872 919 38 994 924 177 610 473 100 217 
+player 78 draws a 577 from deck 78
+player 78 discards a 279 to deck 79
+player 78 current hand : 634 501 571 852 945 336 673 776 419 872 919 38 994 924 177 610 473 100 217 577 
+player 78 draws a 274 from deck 78
+player 78 discards a 634 to deck 79
+player 78 current hand : 501 571 852 945 336 673 776 419 872 919 38 994 924 177 610 473 100 217 577 274 
+player 78 draws a 248 from deck 78
+player 78 discards a 501 to deck 79
+player 78 current hand : 571 852 945 336 673 776 419 872 919 38 994 924 177 610 473 100 217 577 274 248 
+player 78 draws a 561 from deck 78
+player 78 discards a 571 to deck 79
+player 78 current hand : 852 945 336 673 776 419 872 919 38 994 924 177 610 473 100 217 577 274 248 561 
+player 78 draws a 384 from deck 78
+player 78 discards a 852 to deck 79
+player 78 current hand : 945 336 673 776 419 872 919 38 994 924 177 610 473 100 217 577 274 248 561 384 
+player 78 draws a 651 from deck 78
+player 78 discards a 945 to deck 79
+player 78 current hand : 336 673 776 419 872 919 38 994 924 177 610 473 100 217 577 274 248 561 384 651 
+player 78 draws a 320 from deck 78
+player 78 discards a 336 to deck 79
+player 78 current hand : 673 776 419 872 919 38 994 924 177 610 473 100 217 577 274 248 561 384 651 320 
+player 78 draws a 635 from deck 78
+player 78 discards a 673 to deck 79
+player 78 current hand : 776 419 872 919 38 994 924 177 610 473 100 217 577 274 248 561 384 651 320 635 
+player 78 draws a 54 from deck 78
+player 78 discards a 776 to deck 79
+player 78 current hand : 419 872 919 38 994 924 177 610 473 100 217 577 274 248 561 384 651 320 635 54 
+player 78 draws a 795 from deck 78
+player 78 discards a 419 to deck 79
+player 78 current hand : 872 919 38 994 924 177 610 473 100 217 577 274 248 561 384 651 320 635 54 795 
+player 78 draws a 422 from deck 78
+player 78 discards a 872 to deck 79
+player 78 current hand : 919 38 994 924 177 610 473 100 217 577 274 248 561 384 651 320 635 54 795 422 
+player 78 draws a 634 from deck 78
+player 78 discards a 919 to deck 79
+player 78 current hand : 38 994 924 177 610 473 100 217 577 274 248 561 384 651 320 635 54 795 422 634 
+player 78 draws a 386 from deck 78
+player 78 discards a 38 to deck 79
+player 78 current hand : 994 924 177 610 473 100 217 577 274 248 561 384 651 320 635 54 795 422 634 386 
+player 78 draws a 833 from deck 78
+player 78 discards a 994 to deck 79
+player 78 current hand : 924 177 610 473 100 217 577 274 248 561 384 651 320 635 54 795 422 634 386 833 
+player 78 draws a 91 from deck 78
+player 78 discards a 924 to deck 79
+player 78 current hand : 177 610 473 100 217 577 274 248 561 384 651 320 635 54 795 422 634 386 833 91 
+player 78 draws a 915 from deck 78
+player 78 discards a 177 to deck 79
+player 78 current hand : 610 473 100 217 577 274 248 561 384 651 320 635 54 795 422 634 386 833 91 915 
+player 78 draws a 546 from deck 78
+player 78 discards a 610 to deck 79
+player 78 current hand : 473 100 217 577 274 248 561 384 651 320 635 54 795 422 634 386 833 91 915 546 
+player 78 draws a 933 from deck 78
+player 78 discards a 473 to deck 79
+player 78 current hand : 100 217 577 274 248 561 384 651 320 635 54 795 422 634 386 833 91 915 546 933 
+player 78 draws a 15 from deck 78
+player 78 discards a 100 to deck 79
+player 78 current hand : 217 577 274 248 561 384 651 320 635 54 795 422 634 386 833 91 915 546 933 15 
+player 78 draws a 438 from deck 78
+player 78 discards a 217 to deck 79
+player 78 current hand : 577 274 248 561 384 651 320 635 54 795 422 634 386 833 91 915 546 933 15 438 
+player 78 draws a 452 from deck 78
+player 78 discards a 577 to deck 79
+player 78 current hand : 274 248 561 384 651 320 635 54 795 422 634 386 833 91 915 546 933 15 438 452 
+player 78 draws a 226 from deck 78
+player 78 discards a 274 to deck 79
+player 78 current hand : 248 561 384 651 320 635 54 795 422 634 386 833 91 915 546 933 15 438 452 226 
+player 78 draws a 797 from deck 78
+player 78 discards a 248 to deck 79
+player 78 current hand : 561 384 651 320 635 54 795 422 634 386 833 91 915 546 933 15 438 452 226 797 
+player 78 draws a 931 from deck 78
+player 78 discards a 561 to deck 79
+player 78 current hand : 384 651 320 635 54 795 422 634 386 833 91 915 546 933 15 438 452 226 797 931 
+player 78 draws a 287 from deck 78
+player 78 discards a 384 to deck 79
+player 78 current hand : 651 320 635 54 795 422 634 386 833 91 915 546 933 15 438 452 226 797 931 287 
+player 78 draws a 303 from deck 78
+player 78 discards a 651 to deck 79
+player 78 current hand : 320 635 54 795 422 634 386 833 91 915 546 933 15 438 452 226 797 931 287 303 
+player 78 draws a 280 from deck 78
+player 78 discards a 320 to deck 79
+player 78 current hand : 635 54 795 422 634 386 833 91 915 546 933 15 438 452 226 797 931 287 303 280 
+player 78 draws a 284 from deck 78
+player 78 discards a 635 to deck 79
+player 78 current hand : 54 795 422 634 386 833 91 915 546 933 15 438 452 226 797 931 287 303 280 284 
+player 78 draws a 762 from deck 78
+player 78 discards a 54 to deck 79
+player 78 current hand : 795 422 634 386 833 91 915 546 933 15 438 452 226 797 931 287 303 280 284 762 
+player 78 draws a 729 from deck 78
+player 78 discards a 795 to deck 79
+player 78 current hand : 422 634 386 833 91 915 546 933 15 438 452 226 797 931 287 303 280 284 762 729 
+player 78 draws a 616 from deck 78
+player 78 discards a 422 to deck 79
+player 78 current hand : 634 386 833 91 915 546 933 15 438 452 226 797 931 287 303 280 284 762 729 616 
+player 78 draws a 216 from deck 78
+player 78 discards a 634 to deck 79
+player 78 current hand : 386 833 91 915 546 933 15 438 452 226 797 931 287 303 280 284 762 729 616 216 
+player 78 draws a 834 from deck 78
+player 78 discards a 386 to deck 79
+player 78 current hand : 833 91 915 546 933 15 438 452 226 797 931 287 303 280 284 762 729 616 216 834 
+player 78 draws a 186 from deck 78
+player 78 discards a 833 to deck 79
+player 78 current hand : 91 915 546 933 15 438 452 226 797 931 287 303 280 284 762 729 616 216 834 186 
+player 78 draws a 432 from deck 78
+player 78 discards a 91 to deck 79
+player 78 current hand : 915 546 933 15 438 452 226 797 931 287 303 280 284 762 729 616 216 834 186 432 
+player 78 draws a 626 from deck 78
+player 78 discards a 915 to deck 79
+player 78 current hand : 546 933 15 438 452 226 797 931 287 303 280 284 762 729 616 216 834 186 432 626 
+player 78 draws a 305 from deck 78
+player 78 discards a 546 to deck 79
+player 78 current hand : 933 15 438 452 226 797 931 287 303 280 284 762 729 616 216 834 186 432 626 305 
+player 78 draws a 4 from deck 78
+player 78 discards a 933 to deck 79
+player 78 current hand : 15 438 452 226 797 931 287 303 280 284 762 729 616 216 834 186 432 626 305 4 
+player 78 draws a 818 from deck 78
+player 78 discards a 15 to deck 79
+player 78 current hand : 438 452 226 797 931 287 303 280 284 762 729 616 216 834 186 432 626 305 4 818 
+player 78 draws a 641 from deck 78
+player 78 discards a 438 to deck 79
+player 78 current hand : 452 226 797 931 287 303 280 284 762 729 616 216 834 186 432 626 305 4 818 641 
+player 78 draws a 867 from deck 78
+player 78 discards a 452 to deck 79
+player 78 current hand : 226 797 931 287 303 280 284 762 729 616 216 834 186 432 626 305 4 818 641 867 
+player 78 draws a 871 from deck 78
+player 78 discards a 226 to deck 79
+player 78 current hand : 797 931 287 303 280 284 762 729 616 216 834 186 432 626 305 4 818 641 867 871 
+player 78 draws a 654 from deck 78
+player 78 discards a 797 to deck 79
+player 78 current hand : 931 287 303 280 284 762 729 616 216 834 186 432 626 305 4 818 641 867 871 654 
+player 78 draws a 905 from deck 78
+player 78 discards a 931 to deck 79
+player 78 current hand : 287 303 280 284 762 729 616 216 834 186 432 626 305 4 818 641 867 871 654 905 
+player 78 draws a 595 from deck 78
+player 78 discards a 287 to deck 79
+player 78 current hand : 303 280 284 762 729 616 216 834 186 432 626 305 4 818 641 867 871 654 905 595 
+player 78 draws a 137 from deck 78
+player 78 discards a 303 to deck 79
+player 78 current hand : 280 284 762 729 616 216 834 186 432 626 305 4 818 641 867 871 654 905 595 137 
+player 78 draws a 285 from deck 78
+player 78 discards a 280 to deck 79
+player 78 current hand : 284 762 729 616 216 834 186 432 626 305 4 818 641 867 871 654 905 595 137 285 
+player 78 draws a 455 from deck 78
+player 78 discards a 284 to deck 79
+player 78 current hand : 762 729 616 216 834 186 432 626 305 4 818 641 867 871 654 905 595 137 285 455 
+player 78 draws a 52 from deck 78
+player 78 discards a 762 to deck 79
+player 78 current hand : 729 616 216 834 186 432 626 305 4 818 641 867 871 654 905 595 137 285 455 52 
+player 78 draws a 158 from deck 78
+player 78 discards a 729 to deck 79
+player 78 current hand : 616 216 834 186 432 626 305 4 818 641 867 871 654 905 595 137 285 455 52 158 
+player 78 draws a 613 from deck 78
+player 78 discards a 616 to deck 79
+player 78 current hand : 216 834 186 432 626 305 4 818 641 867 871 654 905 595 137 285 455 52 158 613 
+player 78 draws a 28 from deck 78
+player 78 discards a 216 to deck 79
+player 78 current hand : 834 186 432 626 305 4 818 641 867 871 654 905 595 137 285 455 52 158 613 28 
+player 78 draws a 530 from deck 78
+player 78 discards a 834 to deck 79
+player 78 current hand : 186 432 626 305 4 818 641 867 871 654 905 595 137 285 455 52 158 613 28 530 
+player 78 draws a 515 from deck 78
+player 78 discards a 186 to deck 79
+player 78 current hand : 432 626 305 4 818 641 867 871 654 905 595 137 285 455 52 158 613 28 530 515 
+player 78 draws a 131 from deck 78
+player 78 discards a 432 to deck 79
+player 78 current hand : 626 305 4 818 641 867 871 654 905 595 137 285 455 52 158 613 28 530 515 131 
+player 78 draws a 746 from deck 78
+player 78 discards a 626 to deck 79
+player 78 current hand : 305 4 818 641 867 871 654 905 595 137 285 455 52 158 613 28 530 515 131 746 
+player 78 draws a 787 from deck 78
+player 78 discards a 305 to deck 79
+player 78 current hand : 4 818 641 867 871 654 905 595 137 285 455 52 158 613 28 530 515 131 746 787 
+player 78 draws a 917 from deck 78
+player 78 discards a 4 to deck 79
+player 78 current hand : 818 641 867 871 654 905 595 137 285 455 52 158 613 28 530 515 131 746 787 917 
+player 78 draws a 480 from deck 78
+player 78 discards a 818 to deck 79
+player 78 current hand : 641 867 871 654 905 595 137 285 455 52 158 613 28 530 515 131 746 787 917 480 
+player 78 draws a 168 from deck 78
+player 78 discards a 641 to deck 79
+player 78 current hand : 867 871 654 905 595 137 285 455 52 158 613 28 530 515 131 746 787 917 480 168 
+player 78 draws a 595 from deck 78
+player 78 discards a 867 to deck 79
+player 78 current hand : 871 654 905 595 137 285 455 52 158 613 28 530 515 131 746 787 917 480 168 595 
+player 78 draws a 107 from deck 78
+player 78 discards a 871 to deck 79
+player 78 current hand : 654 905 595 137 285 455 52 158 613 28 530 515 131 746 787 917 480 168 595 107 
+player 78 draws a 266 from deck 78
+player 78 discards a 654 to deck 79
+player 78 current hand : 905 595 137 285 455 52 158 613 28 530 515 131 746 787 917 480 168 595 107 266 
+player 78 draws a 609 from deck 78
+player 78 discards a 905 to deck 79
+player 78 current hand : 595 137 285 455 52 158 613 28 530 515 131 746 787 917 480 168 595 107 266 609 
+player 78 draws a 490 from deck 78
+player 78 discards a 595 to deck 79
+player 78 current hand : 137 285 455 52 158 613 28 530 515 131 746 787 917 480 168 595 107 266 609 490 
+player 78 draws a 979 from deck 78
+player 78 discards a 137 to deck 79
+player 78 current hand : 285 455 52 158 613 28 530 515 131 746 787 917 480 168 595 107 266 609 490 979 
+player 78 draws a 758 from deck 78
+player 78 discards a 285 to deck 79
+player 78 current hand : 455 52 158 613 28 530 515 131 746 787 917 480 168 595 107 266 609 490 979 758 
+player 78 draws a 135 from deck 78
+player 78 discards a 455 to deck 79
+player 78 current hand : 52 158 613 28 530 515 131 746 787 917 480 168 595 107 266 609 490 979 758 135 
+player 78 draws a 195 from deck 78
+player 78 discards a 52 to deck 79
+player 78 current hand : 158 613 28 530 515 131 746 787 917 480 168 595 107 266 609 490 979 758 135 195 
+player 78 draws a 97 from deck 78
+player 78 discards a 158 to deck 79
+player 78 current hand : 613 28 530 515 131 746 787 917 480 168 595 107 266 609 490 979 758 135 195 97 
+player 78 draws a 593 from deck 78
+player 78 discards a 613 to deck 79
+player 78 current hand : 28 530 515 131 746 787 917 480 168 595 107 266 609 490 979 758 135 195 97 593 
+player 78 draws a 241 from deck 78
+player 78 discards a 28 to deck 79
+player 78 current hand : 530 515 131 746 787 917 480 168 595 107 266 609 490 979 758 135 195 97 593 241 
+player 78 draws a 549 from deck 78
+player 78 discards a 530 to deck 79
+player 78 current hand : 515 131 746 787 917 480 168 595 107 266 609 490 979 758 135 195 97 593 241 549 
+player 78 draws a 924 from deck 78
+player 78 discards a 515 to deck 79
+player 78 current hand : 131 746 787 917 480 168 595 107 266 609 490 979 758 135 195 97 593 241 549 924 
+player 78 draws a 970 from deck 78
+player 78 discards a 131 to deck 79
+player 78 current hand : 746 787 917 480 168 595 107 266 609 490 979 758 135 195 97 593 241 549 924 970 
+player 78 draws a 391 from deck 78
+player 78 discards a 746 to deck 79
+player 78 current hand : 787 917 480 168 595 107 266 609 490 979 758 135 195 97 593 241 549 924 970 391 
+player 78 draws a 915 from deck 78
+player 78 discards a 787 to deck 79
+player 78 current hand : 917 480 168 595 107 266 609 490 979 758 135 195 97 593 241 549 924 970 391 915 
+player 78 draws a 338 from deck 78
+player 78 discards a 917 to deck 79
+player 78 current hand : 480 168 595 107 266 609 490 979 758 135 195 97 593 241 549 924 970 391 915 338 
+player 78 draws a 28 from deck 78
+player 78 discards a 480 to deck 79
+player 78 current hand : 168 595 107 266 609 490 979 758 135 195 97 593 241 549 924 970 391 915 338 28 
+player 78 draws a 608 from deck 78
+player 78 discards a 168 to deck 79
+player 78 current hand : 595 107 266 609 490 979 758 135 195 97 593 241 549 924 970 391 915 338 28 608 
+player 78 draws a 926 from deck 78
+player 78 discards a 595 to deck 79
+player 78 current hand : 107 266 609 490 979 758 135 195 97 593 241 549 924 970 391 915 338 28 608 926 
+player 78 draws a 793 from deck 78
+player 78 discards a 107 to deck 79
+player 78 current hand : 266 609 490 979 758 135 195 97 593 241 549 924 970 391 915 338 28 608 926 793 
+player 78 draws a 20 from deck 78
+player 78 discards a 266 to deck 79
+player 78 current hand : 609 490 979 758 135 195 97 593 241 549 924 970 391 915 338 28 608 926 793 20 
+player 78 draws a 405 from deck 78
+player 78 discards a 609 to deck 79
+player 78 current hand : 490 979 758 135 195 97 593 241 549 924 970 391 915 338 28 608 926 793 20 405 
+player 78 draws a 760 from deck 78
+player 78 discards a 490 to deck 79
+player 78 current hand : 979 758 135 195 97 593 241 549 924 970 391 915 338 28 608 926 793 20 405 760 
+player 78 draws a 474 from deck 78
+player 78 discards a 979 to deck 79
+player 78 current hand : 758 135 195 97 593 241 549 924 970 391 915 338 28 608 926 793 20 405 760 474 
+player 78 draws a 300 from deck 78
+player 78 discards a 758 to deck 79
+player 78 current hand : 135 195 97 593 241 549 924 970 391 915 338 28 608 926 793 20 405 760 474 300 

@@ -1,0 +1,307 @@
+player 915 initial hand 991 642 623 776 480 336 211 375 810 799 950 793 975 470 795 595 16 537 18 7 
+player 915 draws a 10 from deck 915
+player 915 discards a 991 to deck 916
+player 915 current hand : 642 623 776 480 336 211 375 810 799 950 793 975 470 795 595 16 537 18 7 10 
+player 915 draws a 686 from deck 915
+player 915 discards a 642 to deck 916
+player 915 current hand : 623 776 480 336 211 375 810 799 950 793 975 470 795 595 16 537 18 7 10 686 
+player 915 draws a 952 from deck 915
+player 915 discards a 623 to deck 916
+player 915 current hand : 776 480 336 211 375 810 799 950 793 975 470 795 595 16 537 18 7 10 686 952 
+player 915 draws a 699 from deck 915
+player 915 discards a 776 to deck 916
+player 915 current hand : 480 336 211 375 810 799 950 793 975 470 795 595 16 537 18 7 10 686 952 699 
+player 915 draws a 651 from deck 915
+player 915 discards a 480 to deck 916
+player 915 current hand : 336 211 375 810 799 950 793 975 470 795 595 16 537 18 7 10 686 952 699 651 
+player 915 draws a 617 from deck 915
+player 915 discards a 336 to deck 916
+player 915 current hand : 211 375 810 799 950 793 975 470 795 595 16 537 18 7 10 686 952 699 651 617 
+player 915 draws a 767 from deck 915
+player 915 discards a 211 to deck 916
+player 915 current hand : 375 810 799 950 793 975 470 795 595 16 537 18 7 10 686 952 699 651 617 767 
+player 915 draws a 435 from deck 915
+player 915 discards a 375 to deck 916
+player 915 current hand : 810 799 950 793 975 470 795 595 16 537 18 7 10 686 952 699 651 617 767 435 
+player 915 draws a 127 from deck 915
+player 915 discards a 810 to deck 916
+player 915 current hand : 799 950 793 975 470 795 595 16 537 18 7 10 686 952 699 651 617 767 435 127 
+player 915 draws a 559 from deck 915
+player 915 discards a 799 to deck 916
+player 915 current hand : 950 793 975 470 795 595 16 537 18 7 10 686 952 699 651 617 767 435 127 559 
+player 915 draws a 758 from deck 915
+player 915 discards a 950 to deck 916
+player 915 current hand : 793 975 470 795 595 16 537 18 7 10 686 952 699 651 617 767 435 127 559 758 
+player 915 draws a 402 from deck 915
+player 915 discards a 793 to deck 916
+player 915 current hand : 975 470 795 595 16 537 18 7 10 686 952 699 651 617 767 435 127 559 758 402 
+player 915 draws a 402 from deck 915
+player 915 discards a 975 to deck 916
+player 915 current hand : 470 795 595 16 537 18 7 10 686 952 699 651 617 767 435 127 559 758 402 402 
+player 915 draws a 672 from deck 915
+player 915 discards a 470 to deck 916
+player 915 current hand : 795 595 16 537 18 7 10 686 952 699 651 617 767 435 127 559 758 402 402 672 
+player 915 draws a 870 from deck 915
+player 915 discards a 795 to deck 916
+player 915 current hand : 595 16 537 18 7 10 686 952 699 651 617 767 435 127 559 758 402 402 672 870 
+player 915 draws a 701 from deck 915
+player 915 discards a 595 to deck 916
+player 915 current hand : 16 537 18 7 10 686 952 699 651 617 767 435 127 559 758 402 402 672 870 701 
+player 915 draws a 249 from deck 915
+player 915 discards a 16 to deck 916
+player 915 current hand : 537 18 7 10 686 952 699 651 617 767 435 127 559 758 402 402 672 870 701 249 
+player 915 draws a 977 from deck 915
+player 915 discards a 537 to deck 916
+player 915 current hand : 18 7 10 686 952 699 651 617 767 435 127 559 758 402 402 672 870 701 249 977 
+player 915 draws a 514 from deck 915
+player 915 discards a 18 to deck 916
+player 915 current hand : 7 10 686 952 699 651 617 767 435 127 559 758 402 402 672 870 701 249 977 514 
+player 915 draws a 120 from deck 915
+player 915 discards a 7 to deck 916
+player 915 current hand : 10 686 952 699 651 617 767 435 127 559 758 402 402 672 870 701 249 977 514 120 
+player 915 draws a 621 from deck 915
+player 915 discards a 10 to deck 916
+player 915 current hand : 686 952 699 651 617 767 435 127 559 758 402 402 672 870 701 249 977 514 120 621 
+player 915 draws a 263 from deck 915
+player 915 discards a 686 to deck 916
+player 915 current hand : 952 699 651 617 767 435 127 559 758 402 402 672 870 701 249 977 514 120 621 263 
+player 915 draws a 986 from deck 915
+player 915 discards a 952 to deck 916
+player 915 current hand : 699 651 617 767 435 127 559 758 402 402 672 870 701 249 977 514 120 621 263 986 
+player 915 draws a 631 from deck 915
+player 915 discards a 699 to deck 916
+player 915 current hand : 651 617 767 435 127 559 758 402 402 672 870 701 249 977 514 120 621 263 986 631 
+player 915 draws a 894 from deck 915
+player 915 discards a 651 to deck 916
+player 915 current hand : 617 767 435 127 559 758 402 402 672 870 701 249 977 514 120 621 263 986 631 894 
+player 915 draws a 478 from deck 915
+player 915 discards a 617 to deck 916
+player 915 current hand : 767 435 127 559 758 402 402 672 870 701 249 977 514 120 621 263 986 631 894 478 
+player 915 draws a 267 from deck 915
+player 915 discards a 767 to deck 916
+player 915 current hand : 435 127 559 758 402 402 672 870 701 249 977 514 120 621 263 986 631 894 478 267 
+player 915 draws a 319 from deck 915
+player 915 discards a 435 to deck 916
+player 915 current hand : 127 559 758 402 402 672 870 701 249 977 514 120 621 263 986 631 894 478 267 319 
+player 915 draws a 868 from deck 915
+player 915 discards a 127 to deck 916
+player 915 current hand : 559 758 402 402 672 870 701 249 977 514 120 621 263 986 631 894 478 267 319 868 
+player 915 draws a 554 from deck 915
+player 915 discards a 559 to deck 916
+player 915 current hand : 758 402 402 672 870 701 249 977 514 120 621 263 986 631 894 478 267 319 868 554 
+player 915 draws a 634 from deck 915
+player 915 discards a 758 to deck 916
+player 915 current hand : 402 402 672 870 701 249 977 514 120 621 263 986 631 894 478 267 319 868 554 634 
+player 915 draws a 781 from deck 915
+player 915 discards a 402 to deck 916
+player 915 current hand : 402 672 870 701 249 977 514 120 621 263 986 631 894 478 267 319 868 554 634 781 
+player 915 draws a 409 from deck 915
+player 915 discards a 402 to deck 916
+player 915 current hand : 672 870 701 249 977 514 120 621 263 986 631 894 478 267 319 868 554 634 781 409 
+player 915 draws a 667 from deck 915
+player 915 discards a 672 to deck 916
+player 915 current hand : 870 701 249 977 514 120 621 263 986 631 894 478 267 319 868 554 634 781 409 667 
+player 915 draws a 707 from deck 915
+player 915 discards a 870 to deck 916
+player 915 current hand : 701 249 977 514 120 621 263 986 631 894 478 267 319 868 554 634 781 409 667 707 
+player 915 draws a 65 from deck 915
+player 915 discards a 701 to deck 916
+player 915 current hand : 249 977 514 120 621 263 986 631 894 478 267 319 868 554 634 781 409 667 707 65 
+player 915 draws a 319 from deck 915
+player 915 discards a 249 to deck 916
+player 915 current hand : 977 514 120 621 263 986 631 894 478 267 319 868 554 634 781 409 667 707 65 319 
+player 915 draws a 42 from deck 915
+player 915 discards a 977 to deck 916
+player 915 current hand : 514 120 621 263 986 631 894 478 267 319 868 554 634 781 409 667 707 65 319 42 
+player 915 draws a 874 from deck 915
+player 915 discards a 514 to deck 916
+player 915 current hand : 120 621 263 986 631 894 478 267 319 868 554 634 781 409 667 707 65 319 42 874 
+player 915 draws a 696 from deck 915
+player 915 discards a 120 to deck 916
+player 915 current hand : 621 263 986 631 894 478 267 319 868 554 634 781 409 667 707 65 319 42 874 696 
+player 915 draws a 4 from deck 915
+player 915 discards a 621 to deck 916
+player 915 current hand : 263 986 631 894 478 267 319 868 554 634 781 409 667 707 65 319 42 874 696 4 
+player 915 draws a 464 from deck 915
+player 915 discards a 263 to deck 916
+player 915 current hand : 986 631 894 478 267 319 868 554 634 781 409 667 707 65 319 42 874 696 4 464 
+player 915 draws a 946 from deck 915
+player 915 discards a 986 to deck 916
+player 915 current hand : 631 894 478 267 319 868 554 634 781 409 667 707 65 319 42 874 696 4 464 946 
+player 915 draws a 263 from deck 915
+player 915 discards a 631 to deck 916
+player 915 current hand : 894 478 267 319 868 554 634 781 409 667 707 65 319 42 874 696 4 464 946 263 
+player 915 draws a 695 from deck 915
+player 915 discards a 894 to deck 916
+player 915 current hand : 478 267 319 868 554 634 781 409 667 707 65 319 42 874 696 4 464 946 263 695 
+player 915 draws a 245 from deck 915
+player 915 discards a 478 to deck 916
+player 915 current hand : 267 319 868 554 634 781 409 667 707 65 319 42 874 696 4 464 946 263 695 245 
+player 915 draws a 691 from deck 915
+player 915 discards a 267 to deck 916
+player 915 current hand : 319 868 554 634 781 409 667 707 65 319 42 874 696 4 464 946 263 695 245 691 
+player 915 draws a 41 from deck 915
+player 915 discards a 319 to deck 916
+player 915 current hand : 868 554 634 781 409 667 707 65 319 42 874 696 4 464 946 263 695 245 691 41 
+player 915 draws a 645 from deck 915
+player 915 discards a 868 to deck 916
+player 915 current hand : 554 634 781 409 667 707 65 319 42 874 696 4 464 946 263 695 245 691 41 645 
+player 915 draws a 924 from deck 915
+player 915 discards a 554 to deck 916
+player 915 current hand : 634 781 409 667 707 65 319 42 874 696 4 464 946 263 695 245 691 41 645 924 
+player 915 draws a 965 from deck 915
+player 915 discards a 634 to deck 916
+player 915 current hand : 781 409 667 707 65 319 42 874 696 4 464 946 263 695 245 691 41 645 924 965 
+player 915 draws a 2 from deck 915
+player 915 discards a 781 to deck 916
+player 915 current hand : 409 667 707 65 319 42 874 696 4 464 946 263 695 245 691 41 645 924 965 2 
+player 915 draws a 706 from deck 915
+player 915 discards a 409 to deck 916
+player 915 current hand : 667 707 65 319 42 874 696 4 464 946 263 695 245 691 41 645 924 965 2 706 
+player 915 draws a 648 from deck 915
+player 915 discards a 667 to deck 916
+player 915 current hand : 707 65 319 42 874 696 4 464 946 263 695 245 691 41 645 924 965 2 706 648 
+player 915 draws a 980 from deck 915
+player 915 discards a 707 to deck 916
+player 915 current hand : 65 319 42 874 696 4 464 946 263 695 245 691 41 645 924 965 2 706 648 980 
+player 915 draws a 944 from deck 915
+player 915 discards a 65 to deck 916
+player 915 current hand : 319 42 874 696 4 464 946 263 695 245 691 41 645 924 965 2 706 648 980 944 
+player 915 draws a 655 from deck 915
+player 915 discards a 319 to deck 916
+player 915 current hand : 42 874 696 4 464 946 263 695 245 691 41 645 924 965 2 706 648 980 944 655 
+player 915 draws a 341 from deck 915
+player 915 discards a 42 to deck 916
+player 915 current hand : 874 696 4 464 946 263 695 245 691 41 645 924 965 2 706 648 980 944 655 341 
+player 915 draws a 342 from deck 915
+player 915 discards a 874 to deck 916
+player 915 current hand : 696 4 464 946 263 695 245 691 41 645 924 965 2 706 648 980 944 655 341 342 
+player 915 draws a 649 from deck 915
+player 915 discards a 696 to deck 916
+player 915 current hand : 4 464 946 263 695 245 691 41 645 924 965 2 706 648 980 944 655 341 342 649 
+player 915 draws a 783 from deck 915
+player 915 discards a 4 to deck 916
+player 915 current hand : 464 946 263 695 245 691 41 645 924 965 2 706 648 980 944 655 341 342 649 783 
+player 915 draws a 554 from deck 915
+player 915 discards a 464 to deck 916
+player 915 current hand : 946 263 695 245 691 41 645 924 965 2 706 648 980 944 655 341 342 649 783 554 
+player 915 draws a 817 from deck 915
+player 915 discards a 946 to deck 916
+player 915 current hand : 263 695 245 691 41 645 924 965 2 706 648 980 944 655 341 342 649 783 554 817 
+player 915 draws a 9 from deck 915
+player 915 discards a 263 to deck 916
+player 915 current hand : 695 245 691 41 645 924 965 2 706 648 980 944 655 341 342 649 783 554 817 9 
+player 915 draws a 397 from deck 915
+player 915 discards a 695 to deck 916
+player 915 current hand : 245 691 41 645 924 965 2 706 648 980 944 655 341 342 649 783 554 817 9 397 
+player 915 draws a 955 from deck 915
+player 915 discards a 245 to deck 916
+player 915 current hand : 691 41 645 924 965 2 706 648 980 944 655 341 342 649 783 554 817 9 397 955 
+player 915 draws a 968 from deck 915
+player 915 discards a 691 to deck 916
+player 915 current hand : 41 645 924 965 2 706 648 980 944 655 341 342 649 783 554 817 9 397 955 968 
+player 915 draws a 689 from deck 915
+player 915 discards a 41 to deck 916
+player 915 current hand : 645 924 965 2 706 648 980 944 655 341 342 649 783 554 817 9 397 955 968 689 
+player 915 draws a 116 from deck 915
+player 915 discards a 645 to deck 916
+player 915 current hand : 924 965 2 706 648 980 944 655 341 342 649 783 554 817 9 397 955 968 689 116 
+player 915 draws a 223 from deck 915
+player 915 discards a 924 to deck 916
+player 915 current hand : 965 2 706 648 980 944 655 341 342 649 783 554 817 9 397 955 968 689 116 223 
+player 915 draws a 180 from deck 915
+player 915 discards a 965 to deck 916
+player 915 current hand : 2 706 648 980 944 655 341 342 649 783 554 817 9 397 955 968 689 116 223 180 
+player 915 draws a 296 from deck 915
+player 915 discards a 2 to deck 916
+player 915 current hand : 706 648 980 944 655 341 342 649 783 554 817 9 397 955 968 689 116 223 180 296 
+player 915 draws a 985 from deck 915
+player 915 discards a 706 to deck 916
+player 915 current hand : 648 980 944 655 341 342 649 783 554 817 9 397 955 968 689 116 223 180 296 985 
+player 915 draws a 548 from deck 915
+player 915 discards a 648 to deck 916
+player 915 current hand : 980 944 655 341 342 649 783 554 817 9 397 955 968 689 116 223 180 296 985 548 
+player 915 draws a 18 from deck 915
+player 915 discards a 980 to deck 916
+player 915 current hand : 944 655 341 342 649 783 554 817 9 397 955 968 689 116 223 180 296 985 548 18 
+player 915 draws a 77 from deck 915
+player 915 discards a 944 to deck 916
+player 915 current hand : 655 341 342 649 783 554 817 9 397 955 968 689 116 223 180 296 985 548 18 77 
+player 915 draws a 252 from deck 915
+player 915 discards a 655 to deck 916
+player 915 current hand : 341 342 649 783 554 817 9 397 955 968 689 116 223 180 296 985 548 18 77 252 
+player 915 draws a 758 from deck 915
+player 915 discards a 341 to deck 916
+player 915 current hand : 342 649 783 554 817 9 397 955 968 689 116 223 180 296 985 548 18 77 252 758 
+player 915 draws a 542 from deck 915
+player 915 discards a 342 to deck 916
+player 915 current hand : 649 783 554 817 9 397 955 968 689 116 223 180 296 985 548 18 77 252 758 542 
+player 915 draws a 550 from deck 915
+player 915 discards a 649 to deck 916
+player 915 current hand : 783 554 817 9 397 955 968 689 116 223 180 296 985 548 18 77 252 758 542 550 
+player 915 draws a 374 from deck 915
+player 915 discards a 783 to deck 916
+player 915 current hand : 554 817 9 397 955 968 689 116 223 180 296 985 548 18 77 252 758 542 550 374 
+player 915 draws a 105 from deck 915
+player 915 discards a 554 to deck 916
+player 915 current hand : 817 9 397 955 968 689 116 223 180 296 985 548 18 77 252 758 542 550 374 105 
+player 915 draws a 222 from deck 915
+player 915 discards a 817 to deck 916
+player 915 current hand : 9 397 955 968 689 116 223 180 296 985 548 18 77 252 758 542 550 374 105 222 
+player 915 draws a 182 from deck 915
+player 915 discards a 9 to deck 916
+player 915 current hand : 397 955 968 689 116 223 180 296 985 548 18 77 252 758 542 550 374 105 222 182 
+player 915 draws a 993 from deck 915
+player 915 discards a 397 to deck 916
+player 915 current hand : 955 968 689 116 223 180 296 985 548 18 77 252 758 542 550 374 105 222 182 993 
+player 915 draws a 518 from deck 915
+player 915 discards a 955 to deck 916
+player 915 current hand : 968 689 116 223 180 296 985 548 18 77 252 758 542 550 374 105 222 182 993 518 
+player 915 draws a 27 from deck 915
+player 915 discards a 968 to deck 916
+player 915 current hand : 689 116 223 180 296 985 548 18 77 252 758 542 550 374 105 222 182 993 518 27 
+player 915 draws a 468 from deck 915
+player 915 discards a 689 to deck 916
+player 915 current hand : 116 223 180 296 985 548 18 77 252 758 542 550 374 105 222 182 993 518 27 468 
+player 915 draws a 714 from deck 915
+player 915 discards a 116 to deck 916
+player 915 current hand : 223 180 296 985 548 18 77 252 758 542 550 374 105 222 182 993 518 27 468 714 
+player 915 draws a 841 from deck 915
+player 915 discards a 223 to deck 916
+player 915 current hand : 180 296 985 548 18 77 252 758 542 550 374 105 222 182 993 518 27 468 714 841 
+player 915 draws a 363 from deck 915
+player 915 discards a 180 to deck 916
+player 915 current hand : 296 985 548 18 77 252 758 542 550 374 105 222 182 993 518 27 468 714 841 363 
+player 915 draws a 103 from deck 915
+player 915 discards a 296 to deck 916
+player 915 current hand : 985 548 18 77 252 758 542 550 374 105 222 182 993 518 27 468 714 841 363 103 
+player 915 draws a 983 from deck 915
+player 915 discards a 985 to deck 916
+player 915 current hand : 548 18 77 252 758 542 550 374 105 222 182 993 518 27 468 714 841 363 103 983 
+player 915 draws a 562 from deck 915
+player 915 discards a 548 to deck 916
+player 915 current hand : 18 77 252 758 542 550 374 105 222 182 993 518 27 468 714 841 363 103 983 562 
+player 915 draws a 894 from deck 915
+player 915 discards a 18 to deck 916
+player 915 current hand : 77 252 758 542 550 374 105 222 182 993 518 27 468 714 841 363 103 983 562 894 
+player 915 draws a 901 from deck 915
+player 915 discards a 77 to deck 916
+player 915 current hand : 252 758 542 550 374 105 222 182 993 518 27 468 714 841 363 103 983 562 894 901 
+player 915 draws a 757 from deck 915
+player 915 discards a 252 to deck 916
+player 915 current hand : 758 542 550 374 105 222 182 993 518 27 468 714 841 363 103 983 562 894 901 757 
+player 915 draws a 720 from deck 915
+player 915 discards a 758 to deck 916
+player 915 current hand : 542 550 374 105 222 182 993 518 27 468 714 841 363 103 983 562 894 901 757 720 
+player 915 draws a 582 from deck 915
+player 915 discards a 542 to deck 916
+player 915 current hand : 550 374 105 222 182 993 518 27 468 714 841 363 103 983 562 894 901 757 720 582 
+player 915 draws a 75 from deck 915
+player 915 discards a 550 to deck 916
+player 915 current hand : 374 105 222 182 993 518 27 468 714 841 363 103 983 562 894 901 757 720 582 75 
+player 915 draws a 734 from deck 915
+player 915 discards a 374 to deck 916
+player 915 current hand : 105 222 182 993 518 27 468 714 841 363 103 983 562 894 901 757 720 582 75 734 
+player 915 draws a 951 from deck 915
+player 915 discards a 105 to deck 916
+player 915 current hand : 222 182 993 518 27 468 714 841 363 103 983 562 894 901 757 720 582 75 734 951 

@@ -1,0 +1,310 @@
+player 98 initial hand 473 720 555 127 707 788 224 901 133 858 538 791 554 156 695 266 151 707 234 751 
+player 98 draws a 595 from deck 98
+player 98 discards a 473 to deck 99
+player 98 current hand : 720 555 127 707 788 224 901 133 858 538 791 554 156 695 266 151 707 234 751 595 
+player 98 draws a 975 from deck 98
+player 98 discards a 720 to deck 99
+player 98 current hand : 555 127 707 788 224 901 133 858 538 791 554 156 695 266 151 707 234 751 595 975 
+player 98 draws a 29 from deck 98
+player 98 discards a 555 to deck 99
+player 98 current hand : 127 707 788 224 901 133 858 538 791 554 156 695 266 151 707 234 751 595 975 29 
+player 98 draws a 683 from deck 98
+player 98 discards a 127 to deck 99
+player 98 current hand : 707 788 224 901 133 858 538 791 554 156 695 266 151 707 234 751 595 975 29 683 
+player 98 draws a 968 from deck 98
+player 98 discards a 707 to deck 99
+player 98 current hand : 788 224 901 133 858 538 791 554 156 695 266 151 707 234 751 595 975 29 683 968 
+player 98 draws a 996 from deck 98
+player 98 discards a 788 to deck 99
+player 98 current hand : 224 901 133 858 538 791 554 156 695 266 151 707 234 751 595 975 29 683 968 996 
+player 98 draws a 328 from deck 98
+player 98 discards a 224 to deck 99
+player 98 current hand : 901 133 858 538 791 554 156 695 266 151 707 234 751 595 975 29 683 968 996 328 
+player 98 draws a 482 from deck 98
+player 98 discards a 901 to deck 99
+player 98 current hand : 133 858 538 791 554 156 695 266 151 707 234 751 595 975 29 683 968 996 328 482 
+player 98 draws a 180 from deck 98
+player 98 discards a 133 to deck 99
+player 98 current hand : 858 538 791 554 156 695 266 151 707 234 751 595 975 29 683 968 996 328 482 180 
+player 98 draws a 793 from deck 98
+player 98 discards a 858 to deck 99
+player 98 current hand : 538 791 554 156 695 266 151 707 234 751 595 975 29 683 968 996 328 482 180 793 
+player 98 draws a 634 from deck 98
+player 98 discards a 538 to deck 99
+player 98 current hand : 791 554 156 695 266 151 707 234 751 595 975 29 683 968 996 328 482 180 793 634 
+player 98 draws a 542 from deck 98
+player 98 discards a 791 to deck 99
+player 98 current hand : 554 156 695 266 151 707 234 751 595 975 29 683 968 996 328 482 180 793 634 542 
+player 98 draws a 759 from deck 98
+player 98 discards a 554 to deck 99
+player 98 current hand : 156 695 266 151 707 234 751 595 975 29 683 968 996 328 482 180 793 634 542 759 
+player 98 draws a 301 from deck 98
+player 98 discards a 156 to deck 99
+player 98 current hand : 695 266 151 707 234 751 595 975 29 683 968 996 328 482 180 793 634 542 759 301 
+player 98 draws a 945 from deck 98
+player 98 discards a 695 to deck 99
+player 98 current hand : 266 151 707 234 751 595 975 29 683 968 996 328 482 180 793 634 542 759 301 945 
+player 98 draws a 922 from deck 98
+player 98 discards a 266 to deck 99
+player 98 current hand : 151 707 234 751 595 975 29 683 968 996 328 482 180 793 634 542 759 301 945 922 
+player 98 draws a 649 from deck 98
+player 98 discards a 151 to deck 99
+player 98 current hand : 707 234 751 595 975 29 683 968 996 328 482 180 793 634 542 759 301 945 922 649 
+player 98 draws a 175 from deck 98
+player 98 discards a 707 to deck 99
+player 98 current hand : 234 751 595 975 29 683 968 996 328 482 180 793 634 542 759 301 945 922 649 175 
+player 98 draws a 294 from deck 98
+player 98 discards a 234 to deck 99
+player 98 current hand : 751 595 975 29 683 968 996 328 482 180 793 634 542 759 301 945 922 649 175 294 
+player 98 draws a 269 from deck 98
+player 98 discards a 751 to deck 99
+player 98 current hand : 595 975 29 683 968 996 328 482 180 793 634 542 759 301 945 922 649 175 294 269 
+player 98 draws a 833 from deck 98
+player 98 discards a 595 to deck 99
+player 98 current hand : 975 29 683 968 996 328 482 180 793 634 542 759 301 945 922 649 175 294 269 833 
+player 98 draws a 531 from deck 98
+player 98 discards a 975 to deck 99
+player 98 current hand : 29 683 968 996 328 482 180 793 634 542 759 301 945 922 649 175 294 269 833 531 
+player 98 draws a 393 from deck 98
+player 98 discards a 29 to deck 99
+player 98 current hand : 683 968 996 328 482 180 793 634 542 759 301 945 922 649 175 294 269 833 531 393 
+player 98 draws a 595 from deck 98
+player 98 discards a 683 to deck 99
+player 98 current hand : 968 996 328 482 180 793 634 542 759 301 945 922 649 175 294 269 833 531 393 595 
+player 98 draws a 828 from deck 98
+player 98 discards a 968 to deck 99
+player 98 current hand : 996 328 482 180 793 634 542 759 301 945 922 649 175 294 269 833 531 393 595 828 
+player 98 draws a 582 from deck 98
+player 98 discards a 996 to deck 99
+player 98 current hand : 328 482 180 793 634 542 759 301 945 922 649 175 294 269 833 531 393 595 828 582 
+player 98 draws a 951 from deck 98
+player 98 discards a 328 to deck 99
+player 98 current hand : 482 180 793 634 542 759 301 945 922 649 175 294 269 833 531 393 595 828 582 951 
+player 98 draws a 110 from deck 98
+player 98 discards a 482 to deck 99
+player 98 current hand : 180 793 634 542 759 301 945 922 649 175 294 269 833 531 393 595 828 582 951 110 
+player 98 draws a 749 from deck 98
+player 98 discards a 180 to deck 99
+player 98 current hand : 793 634 542 759 301 945 922 649 175 294 269 833 531 393 595 828 582 951 110 749 
+player 98 draws a 682 from deck 98
+player 98 discards a 793 to deck 99
+player 98 current hand : 634 542 759 301 945 922 649 175 294 269 833 531 393 595 828 582 951 110 749 682 
+player 98 draws a 596 from deck 98
+player 98 discards a 634 to deck 99
+player 98 current hand : 542 759 301 945 922 649 175 294 269 833 531 393 595 828 582 951 110 749 682 596 
+player 98 draws a 966 from deck 98
+player 98 discards a 542 to deck 99
+player 98 current hand : 759 301 945 922 649 175 294 269 833 531 393 595 828 582 951 110 749 682 596 966 
+player 98 draws a 946 from deck 98
+player 98 discards a 759 to deck 99
+player 98 current hand : 301 945 922 649 175 294 269 833 531 393 595 828 582 951 110 749 682 596 966 946 
+player 98 draws a 457 from deck 98
+player 98 discards a 301 to deck 99
+player 98 current hand : 945 922 649 175 294 269 833 531 393 595 828 582 951 110 749 682 596 966 946 457 
+player 98 draws a 138 from deck 98
+player 98 discards a 945 to deck 99
+player 98 current hand : 922 649 175 294 269 833 531 393 595 828 582 951 110 749 682 596 966 946 457 138 
+player 98 draws a 481 from deck 98
+player 98 discards a 922 to deck 99
+player 98 current hand : 649 175 294 269 833 531 393 595 828 582 951 110 749 682 596 966 946 457 138 481 
+player 98 draws a 632 from deck 98
+player 98 discards a 649 to deck 99
+player 98 current hand : 175 294 269 833 531 393 595 828 582 951 110 749 682 596 966 946 457 138 481 632 
+player 98 draws a 16 from deck 98
+player 98 discards a 175 to deck 99
+player 98 current hand : 294 269 833 531 393 595 828 582 951 110 749 682 596 966 946 457 138 481 632 16 
+player 98 draws a 943 from deck 98
+player 98 discards a 294 to deck 99
+player 98 current hand : 269 833 531 393 595 828 582 951 110 749 682 596 966 946 457 138 481 632 16 943 
+player 98 draws a 507 from deck 98
+player 98 discards a 269 to deck 99
+player 98 current hand : 833 531 393 595 828 582 951 110 749 682 596 966 946 457 138 481 632 16 943 507 
+player 98 draws a 485 from deck 98
+player 98 discards a 833 to deck 99
+player 98 current hand : 531 393 595 828 582 951 110 749 682 596 966 946 457 138 481 632 16 943 507 485 
+player 98 draws a 950 from deck 98
+player 98 discards a 531 to deck 99
+player 98 current hand : 393 595 828 582 951 110 749 682 596 966 946 457 138 481 632 16 943 507 485 950 
+player 98 draws a 422 from deck 98
+player 98 discards a 393 to deck 99
+player 98 current hand : 595 828 582 951 110 749 682 596 966 946 457 138 481 632 16 943 507 485 950 422 
+player 98 draws a 409 from deck 98
+player 98 discards a 595 to deck 99
+player 98 current hand : 828 582 951 110 749 682 596 966 946 457 138 481 632 16 943 507 485 950 422 409 
+player 98 draws a 814 from deck 98
+player 98 discards a 828 to deck 99
+player 98 current hand : 582 951 110 749 682 596 966 946 457 138 481 632 16 943 507 485 950 422 409 814 
+player 98 draws a 606 from deck 98
+player 98 discards a 582 to deck 99
+player 98 current hand : 951 110 749 682 596 966 946 457 138 481 632 16 943 507 485 950 422 409 814 606 
+player 98 draws a 403 from deck 98
+player 98 discards a 951 to deck 99
+player 98 current hand : 110 749 682 596 966 946 457 138 481 632 16 943 507 485 950 422 409 814 606 403 
+player 98 draws a 831 from deck 98
+player 98 discards a 110 to deck 99
+player 98 current hand : 749 682 596 966 946 457 138 481 632 16 943 507 485 950 422 409 814 606 403 831 
+player 98 draws a 485 from deck 98
+player 98 discards a 749 to deck 99
+player 98 current hand : 682 596 966 946 457 138 481 632 16 943 507 485 950 422 409 814 606 403 831 485 
+player 98 draws a 232 from deck 98
+player 98 discards a 682 to deck 99
+player 98 current hand : 596 966 946 457 138 481 632 16 943 507 485 950 422 409 814 606 403 831 485 232 
+player 98 draws a 499 from deck 98
+player 98 discards a 596 to deck 99
+player 98 current hand : 966 946 457 138 481 632 16 943 507 485 950 422 409 814 606 403 831 485 232 499 
+player 98 draws a 167 from deck 98
+player 98 discards a 966 to deck 99
+player 98 current hand : 946 457 138 481 632 16 943 507 485 950 422 409 814 606 403 831 485 232 499 167 
+player 98 draws a 827 from deck 98
+player 98 discards a 946 to deck 99
+player 98 current hand : 457 138 481 632 16 943 507 485 950 422 409 814 606 403 831 485 232 499 167 827 
+player 98 draws a 841 from deck 98
+player 98 discards a 457 to deck 99
+player 98 current hand : 138 481 632 16 943 507 485 950 422 409 814 606 403 831 485 232 499 167 827 841 
+player 98 draws a 870 from deck 98
+player 98 discards a 138 to deck 99
+player 98 current hand : 481 632 16 943 507 485 950 422 409 814 606 403 831 485 232 499 167 827 841 870 
+player 98 draws a 765 from deck 98
+player 98 discards a 481 to deck 99
+player 98 current hand : 632 16 943 507 485 950 422 409 814 606 403 831 485 232 499 167 827 841 870 765 
+player 98 draws a 875 from deck 98
+player 98 discards a 632 to deck 99
+player 98 current hand : 16 943 507 485 950 422 409 814 606 403 831 485 232 499 167 827 841 870 765 875 
+player 98 draws a 498 from deck 98
+player 98 discards a 16 to deck 99
+player 98 current hand : 943 507 485 950 422 409 814 606 403 831 485 232 499 167 827 841 870 765 875 498 
+player 98 draws a 27 from deck 98
+player 98 discards a 943 to deck 99
+player 98 current hand : 507 485 950 422 409 814 606 403 831 485 232 499 167 827 841 870 765 875 498 27 
+player 98 draws a 339 from deck 98
+player 98 discards a 507 to deck 99
+player 98 current hand : 485 950 422 409 814 606 403 831 485 232 499 167 827 841 870 765 875 498 27 339 
+player 98 draws a 287 from deck 98
+player 98 discards a 485 to deck 99
+player 98 current hand : 950 422 409 814 606 403 831 485 232 499 167 827 841 870 765 875 498 27 339 287 
+player 98 draws a 840 from deck 98
+player 98 discards a 950 to deck 99
+player 98 current hand : 422 409 814 606 403 831 485 232 499 167 827 841 870 765 875 498 27 339 287 840 
+player 98 draws a 799 from deck 98
+player 98 discards a 422 to deck 99
+player 98 current hand : 409 814 606 403 831 485 232 499 167 827 841 870 765 875 498 27 339 287 840 799 
+player 98 draws a 443 from deck 98
+player 98 discards a 409 to deck 99
+player 98 current hand : 814 606 403 831 485 232 499 167 827 841 870 765 875 498 27 339 287 840 799 443 
+player 98 draws a 14 from deck 98
+player 98 discards a 814 to deck 99
+player 98 current hand : 606 403 831 485 232 499 167 827 841 870 765 875 498 27 339 287 840 799 443 14 
+player 98 draws a 768 from deck 98
+player 98 discards a 606 to deck 99
+player 98 current hand : 403 831 485 232 499 167 827 841 870 765 875 498 27 339 287 840 799 443 14 768 
+player 98 draws a 37 from deck 98
+player 98 discards a 403 to deck 99
+player 98 current hand : 831 485 232 499 167 827 841 870 765 875 498 27 339 287 840 799 443 14 768 37 
+player 98 draws a 290 from deck 98
+player 98 discards a 831 to deck 99
+player 98 current hand : 485 232 499 167 827 841 870 765 875 498 27 339 287 840 799 443 14 768 37 290 
+player 98 draws a 714 from deck 98
+player 98 discards a 485 to deck 99
+player 98 current hand : 232 499 167 827 841 870 765 875 498 27 339 287 840 799 443 14 768 37 290 714 
+player 98 draws a 699 from deck 98
+player 98 discards a 232 to deck 99
+player 98 current hand : 499 167 827 841 870 765 875 498 27 339 287 840 799 443 14 768 37 290 714 699 
+player 98 draws a 494 from deck 98
+player 98 discards a 499 to deck 99
+player 98 current hand : 167 827 841 870 765 875 498 27 339 287 840 799 443 14 768 37 290 714 699 494 
+player 98 draws a 448 from deck 98
+player 98 discards a 167 to deck 99
+player 98 current hand : 827 841 870 765 875 498 27 339 287 840 799 443 14 768 37 290 714 699 494 448 
+player 98 draws a 415 from deck 98
+player 98 discards a 827 to deck 99
+player 98 current hand : 841 870 765 875 498 27 339 287 840 799 443 14 768 37 290 714 699 494 448 415 
+player 98 draws a 220 from deck 98
+player 98 discards a 841 to deck 99
+player 98 current hand : 870 765 875 498 27 339 287 840 799 443 14 768 37 290 714 699 494 448 415 220 
+player 98 draws a 922 from deck 98
+player 98 discards a 870 to deck 99
+player 98 current hand : 765 875 498 27 339 287 840 799 443 14 768 37 290 714 699 494 448 415 220 922 
+player 98 draws a 880 from deck 98
+player 98 discards a 765 to deck 99
+player 98 current hand : 875 498 27 339 287 840 799 443 14 768 37 290 714 699 494 448 415 220 922 880 
+player 98 draws a 792 from deck 98
+player 98 discards a 875 to deck 99
+player 98 current hand : 498 27 339 287 840 799 443 14 768 37 290 714 699 494 448 415 220 922 880 792 
+player 98 draws a 600 from deck 98
+player 98 discards a 498 to deck 99
+player 98 current hand : 27 339 287 840 799 443 14 768 37 290 714 699 494 448 415 220 922 880 792 600 
+player 98 draws a 894 from deck 98
+player 98 discards a 27 to deck 99
+player 98 current hand : 339 287 840 799 443 14 768 37 290 714 699 494 448 415 220 922 880 792 600 894 
+player 98 draws a 673 from deck 98
+player 98 discards a 339 to deck 99
+player 98 current hand : 287 840 799 443 14 768 37 290 714 699 494 448 415 220 922 880 792 600 894 673 
+player 98 draws a 189 from deck 98
+player 98 discards a 287 to deck 99
+player 98 current hand : 840 799 443 14 768 37 290 714 699 494 448 415 220 922 880 792 600 894 673 189 
+player 98 draws a 195 from deck 98
+player 98 discards a 840 to deck 99
+player 98 current hand : 799 443 14 768 37 290 714 699 494 448 415 220 922 880 792 600 894 673 189 195 
+player 98 draws a 453 from deck 98
+player 98 discards a 799 to deck 99
+player 98 current hand : 443 14 768 37 290 714 699 494 448 415 220 922 880 792 600 894 673 189 195 453 
+player 98 draws a 210 from deck 98
+player 98 discards a 443 to deck 99
+player 98 current hand : 14 768 37 290 714 699 494 448 415 220 922 880 792 600 894 673 189 195 453 210 
+player 98 draws a 469 from deck 98
+player 98 discards a 14 to deck 99
+player 98 current hand : 768 37 290 714 699 494 448 415 220 922 880 792 600 894 673 189 195 453 210 469 
+player 98 draws a 654 from deck 98
+player 98 discards a 768 to deck 99
+player 98 current hand : 37 290 714 699 494 448 415 220 922 880 792 600 894 673 189 195 453 210 469 654 
+player 98 draws a 342 from deck 98
+player 98 discards a 37 to deck 99
+player 98 current hand : 290 714 699 494 448 415 220 922 880 792 600 894 673 189 195 453 210 469 654 342 
+player 98 draws a 589 from deck 98
+player 98 discards a 290 to deck 99
+player 98 current hand : 714 699 494 448 415 220 922 880 792 600 894 673 189 195 453 210 469 654 342 589 
+player 98 draws a 475 from deck 98
+player 98 discards a 714 to deck 99
+player 98 current hand : 699 494 448 415 220 922 880 792 600 894 673 189 195 453 210 469 654 342 589 475 
+player 98 draws a 500 from deck 98
+player 98 discards a 699 to deck 99
+player 98 current hand : 494 448 415 220 922 880 792 600 894 673 189 195 453 210 469 654 342 589 475 500 
+player 98 draws a 767 from deck 98
+player 98 discards a 494 to deck 99
+player 98 current hand : 448 415 220 922 880 792 600 894 673 189 195 453 210 469 654 342 589 475 500 767 
+player 98 draws a 170 from deck 98
+player 98 discards a 448 to deck 99
+player 98 current hand : 415 220 922 880 792 600 894 673 189 195 453 210 469 654 342 589 475 500 767 170 
+player 98 draws a 115 from deck 98
+player 98 discards a 415 to deck 99
+player 98 current hand : 220 922 880 792 600 894 673 189 195 453 210 469 654 342 589 475 500 767 170 115 
+player 98 draws a 151 from deck 98
+player 98 discards a 220 to deck 99
+player 98 current hand : 922 880 792 600 894 673 189 195 453 210 469 654 342 589 475 500 767 170 115 151 
+player 98 draws a 824 from deck 98
+player 98 discards a 922 to deck 99
+player 98 current hand : 880 792 600 894 673 189 195 453 210 469 654 342 589 475 500 767 170 115 151 824 
+player 98 draws a 729 from deck 98
+player 98 discards a 880 to deck 99
+player 98 current hand : 792 600 894 673 189 195 453 210 469 654 342 589 475 500 767 170 115 151 824 729 
+player 98 draws a 222 from deck 98
+player 98 discards a 792 to deck 99
+player 98 current hand : 600 894 673 189 195 453 210 469 654 342 589 475 500 767 170 115 151 824 729 222 
+player 98 draws a 981 from deck 98
+player 98 discards a 600 to deck 99
+player 98 current hand : 894 673 189 195 453 210 469 654 342 589 475 500 767 170 115 151 824 729 222 981 
+player 98 draws a 199 from deck 98
+player 98 discards a 894 to deck 99
+player 98 current hand : 673 189 195 453 210 469 654 342 589 475 500 767 170 115 151 824 729 222 981 199 
+player 98 draws a 778 from deck 98
+player 98 discards a 673 to deck 99
+player 98 current hand : 189 195 453 210 469 654 342 589 475 500 767 170 115 151 824 729 222 981 199 778 
+player 98 draws a 834 from deck 98
+player 98 discards a 189 to deck 99
+player 98 current hand : 195 453 210 469 654 342 589 475 500 767 170 115 151 824 729 222 981 199 778 834 
+player 98 draws a 384 from deck 98
+player 98 discards a 195 to deck 99
+player 98 current hand : 453 210 469 654 342 589 475 500 767 170 115 151 824 729 222 981 199 778 834 384 
+player 98 draws a 608 from deck 98
+player 98 discards a 453 to deck 99
+player 98 current hand : 210 469 654 342 589 475 500 767 170 115 151 824 729 222 981 199 778 834 384 608 
